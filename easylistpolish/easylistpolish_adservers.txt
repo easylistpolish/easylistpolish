@@ -1,4 +1,3 @@
 [Adblock Plus 2.0]
 ||adsearch.pl^$third-party
 ||hub.com.pl^$third-party
-[test]
