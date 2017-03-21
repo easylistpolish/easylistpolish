@@ -1,1 +1,2 @@
 [Adblock Plus 2.0]
+||bubble.am^$popup,domain=zalukaj.com
