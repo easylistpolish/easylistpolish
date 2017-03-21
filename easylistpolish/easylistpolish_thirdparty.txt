@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-||ec.hub2.com.pl^$third-party
-||smartclick.pl/*adquant$third-party
-||partnerzyapi.ceneo.pl/External/ap.js$third-party
-||tmefekt.pl/static/widget$third-party
-||sbhc.portalhc.com/172112/SearchBox^$third-party
 ||cdn.leadbit.com^$third-party
+||ec.hub2.com.pl^$third-party
+||partnerzyapi.ceneo.pl/External/ap.js$third-party
+||sbhc.portalhc.com/172112/SearchBox^$third-party
+||smartclick.pl/*adquant$third-party
+||tmefekt.pl/static/widget$third-party

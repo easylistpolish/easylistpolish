@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-||owabgxis.wp.pl^
+||allegrostatic.com/display-pl/2016/3909/1920x640_paralax_finish_allegro.jpg
 ||fntajkb.wp.pl^
-||wiocha.pl/subpages^
-||wgrane.pl/html/ads
-||www.filmweb.pl/welcomeScreenJS
 ||g.cda.pl/player.php?ads
-||nextclick.pl/widget/widget.advertisement
-||money.pl/i/ad^
-||money.pl/ajax/adblock_log^
-||urzadskarbowy24.pl/wp-content/uploads/pit-750-200.gif
-||zwielkopolski24.pl/img/banery/
 ||incontext.pl^$domain=dziennikwschodni.pl
 ||matematyka.pl/images/animacja.gif
-||allegrostatic.com/display-pl/2016/3909/1920x640_paralax_finish_allegro.jpg
+||money.pl/ajax/adblock_log^
+||money.pl/i/ad^
+||nextclick.pl/widget/widget.advertisement
+||owabgxis.wp.pl^
 ||styl.fm/wiocha^$domain=wiocha.pl
+||urzadskarbowy24.pl/wp-content/uploads/pit-750-200.gif
+||wgrane.pl/html/ads
+||wiocha.pl/subpages^
+||www.filmweb.pl/welcomeScreenJS
+||zwielkopolski24.pl/img/banery/
