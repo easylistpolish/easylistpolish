@@ -1,1 +1,4 @@
 [Adblock Plus 2.0]
+##a[href^="http://emisja.contentstream.pl/_/ctr/?u="]
+###reklama_gora
+##.ncwAdCommon
