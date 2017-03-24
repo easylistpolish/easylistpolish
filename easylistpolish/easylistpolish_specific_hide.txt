@@ -30,7 +30,6 @@ v10.pl##.iwrap
 czecho.pl##.linki-sponsorowane-col
 wp.pl##.offert
 ceneo.pl##.promoted-products
-spidersweb.pl##.shadow
 dziennikwschodni.pl##.sponsorowany-newspack
 elektroda.pl##.wrap-logo-ti
 rzeszownazywo.pl##A[title^="BANER"]
