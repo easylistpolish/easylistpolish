@@ -19,3 +19,9 @@
 ||instrukcja.pl/media/img/youcreo
 ||gazeta.pl/pub^
 ||avanti.fashion/pub^$third-party
+||ppwidget.skapiec.pl/widget^$script,third-party
+||facetemjestem.pl/wp-content/uploads/*/lancerto-300x300_3.jpg
+||forum.haszysz.com/baner
+||forum.haszysz.com/ub.gif
+||budnet.pl/images/750x100budnetkierowca
+||satkurier.pl/banery^
