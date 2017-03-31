@@ -82,3 +82,14 @@ topmejt.co.uk##.g-single
 nauklove.pl##A[href="http://www.ktenis.pl"]
 bialystokonline.pl###polecamy
 onetech.pl###ad
+purepc.pl##A[style="display:block;width:100%;height:1200px;
+spece.it##.textwidget
+spece.it##.helion_okladka
+spece.it##.helion_meta
+tutsplus.com##.avert
+tutsplus.com##.avert--sticky
+satinfo24.pl###text-33
+satinfo24.pl##.slider_1
+haszysz.com,swidnik.pl##.bannergroup
+satkurier.pl##DIV[id^="banner"]
+satkurier.pl###SATKurierNews_top_750x100_r
