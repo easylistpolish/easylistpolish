@@ -14,7 +14,7 @@
 ||wiocha.pl/subpages^
 ||www.filmweb.pl/welcomeScreenJS
 ||zwielkopolski24.pl/img/banery/
-||ocdn.eu/ramp/lps/Layout-Nitro/tpl.min.js$domain=newsweek.pl
+||ocdn.eu/ramp/lps/Layout-Nitro/tpl.min.js$domain=newsweek.pl|forbes.pl
 ||esanok.pl/dodatki^
 ||instrukcja.pl/media/img/youcreo
 ||gazeta.pl/pub^
