@@ -93,3 +93,10 @@ satinfo24.pl##.slider_1
 haszysz.com,swidnik.pl##.bannergroup
 satkurier.pl##DIV[id^="banner"]
 satkurier.pl###SATKurierNews_top_750x100_r
+satkurier.pl##DIV[id^="pasek_hollex"]
+sportowebeskidy.pl##.baner
+webhelp.pl###sponsor
+webhelp.pl##A[href^="https://icash.pl?ref"]
+webhelp.pl##A[href="http://www.cal.pl"]
+on-line24h.pl##.banner
+zakumaj.pl,tv.pl##.middle-salesmedia
