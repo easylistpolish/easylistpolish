@@ -25,3 +25,6 @@
 ||forum.haszysz.com/ub.gif
 ||budnet.pl/images/750x100budnetkierowca
 ||satkurier.pl/banery^
+||haszysz.com/images/banners^
+||ekorodzice.pl/_js/a_d
+||sportowebeskidy.pl/materialy/system_banerowy^
