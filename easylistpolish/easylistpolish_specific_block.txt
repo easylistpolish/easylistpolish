@@ -28,3 +28,4 @@
 ||haszysz.com/images/banners^
 ||ekorodzice.pl/_js/a_d
 ||sportowebeskidy.pl/materialy/system_banerowy^
+||zol.pl/banery^
