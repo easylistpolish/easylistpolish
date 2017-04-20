@@ -100,3 +100,32 @@ webhelp.pl##A[href^="https://icash.pl?ref"]
 webhelp.pl##A[href="http://www.cal.pl"]
 on-line24h.pl##.banner
 zakumaj.pl,tv.pl##.middle-salesmedia
+showup.tv###top-baner
+autofanatyk.pl##.NTZkYTRi
+autofanatyk.pl###text-7
+esanok.pl###ubezpiezenia5487
+esanok.pl##.box-linki3
+asib.pl##.widget_black_studio_tinymce
+rebelianci.org##.adad
+tur-info.pl##A[href^="http://www.tur-info.pl/przekierowanie/element_polecany"]
+tur-info.pl##A[href^="http://www.tur-info.pl/przekierowanie/megabanner"]
+zol.pl##A[href="http://www.hotelcrocus.pl/domek-regionalny"]
+gazeta.pl##.mod_tabbed_tourist
+gazeta.pl##.mod_landing_tab
+gazeta.pl##.mod_flash_hp
+stooq.pl##A[href^="//stooq.pl/ads/"]
+stooq.pl##DIV[onclick*="adform.net"]
+stooq.pl##DIV[onclick*="bbelements.com"]
+stooq.pl##DIV[onclick$="MichaelStrom_GetBack','_blank')\7d )(this)"]
+stooq.pl##A[href^="?"]
+weszlo.com##.home-posts-adv
+weszlo.com##.adv
+weszlo.com##.top-adw
+maratonypolskie.pl##.tekst > CENTER > #menu2
+maratonypolskie.pl##A[target="sz"]
+maratonypolskie.pl##A[target="fb"]
+maratonypolskie.pl##A[target="wn"]
+maratonypolskie.pl##A[target="ws"]
+maratonypolskie.pl##TABLE[cellpadding="1"][bgcolor="#F7F7F7"]
+maratonypolskie.pl##TABLE[cellspacing="0"][border="0"][width="1075"]
+maratonypolskie.pl##A[target="pw"]
