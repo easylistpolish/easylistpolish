@@ -5,3 +5,8 @@
 ||sbhc.portalhc.com/172112/SearchBox^$third-party
 ||smartclick.pl/*adquant$third-party
 ||tmefekt.pl/static/widget$third-party
+||system.mondeos.pl^$third-party
+||qwerty1.co.pl/www/sys/ajs1.php?$third-party
+||qwerty1.co.pl/www/sys/ajs1.php?$third-party
+||thc-thc.com/reklamy^$third-party
+||static.travelist.pl/web/js^$script,third-party
