@@ -129,3 +129,13 @@ maratonypolskie.pl##A[target="ws"]
 maratonypolskie.pl##TABLE[cellpadding="1"][bgcolor="#F7F7F7"]
 maratonypolskie.pl##TABLE[cellspacing="0"][border="0"][width="1075"]
 maratonypolskie.pl##A[target="pw"]
+dlastudenta.pl##.carousel-ceneo
+autocentrum.pl##IFRAME[style="border: medium none; height: 250px; width: 300px;"]
+autocentrum.pl##A[href^="http://blbl.cr/autocentrum"]
+autocentrum.pl##IFRAME[style="border: medium none; height: 200px; width: 750px;"]
+autocentrum.pl##IFRAME[style="border: medium none; height: 150px; width: 728px;"]
+moto.wp.pl##A[href^="//px.wp.pl/advtracking/"] > IMG[src^="https://v.wpimg.pl"]
+moto.wp.pl##.scr-wallpaper
+moto.wp.pl##DIV[data-st-area="list-selected4you"] A[href^="https://moto.wp.pl"]
+nocowanie.pl##.ads--sr
+ekorodzice.pl###a_d_billboard
