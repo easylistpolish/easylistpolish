@@ -29,3 +29,8 @@
 ||ekorodzice.pl/_js/a_d
 ||sportowebeskidy.pl/materialy/system_banerowy^
 ||zol.pl/banery^
+||reklamy.hostings.pl^$third-party
+||audiostereo.pl/banery^
+||ad.gazeta.pl/cpc^
+||czasdzieci.pl/bannery^
+||czasdzieci.home.pl/mailingi/html5/hipp^$third-party
