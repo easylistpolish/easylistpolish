@@ -2,3 +2,5 @@
 ###reklama_gora
 ##.ncwAdCommon
 ###tytul_sponsorowane
+##.reklama-post
+##A[href^="http://czasdzieci.pl/adurl"]
