@@ -34,3 +34,5 @@
 ||ad.gazeta.pl/cpc^
 ||czasdzieci.pl/bannery^
 ||czasdzieci.home.pl/mailingi/html5/hipp^$third-party
+||ocdn.eu/files/mastt^$script
+||purepc.pl/files/Image/purepc0
