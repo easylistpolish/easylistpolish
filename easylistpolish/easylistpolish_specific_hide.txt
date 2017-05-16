@@ -82,7 +82,7 @@ topmejt.co.uk##.g-single
 nauklove.pl##A[href="http://www.ktenis.pl"]
 bialystokonline.pl###polecamy
 onetech.pl###ad
-purepc.pl##A[style="display:block;width:100%;height:1200px;
+purepc.pl##A[style="display:block;width:100%;height:1200px;]
 spece.it##.textwidget
 spece.it##.helion_okladka
 spece.it##.helion_meta
