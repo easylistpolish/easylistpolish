@@ -18,8 +18,6 @@
 ||esanok.pl/dodatki^
 ||instrukcja.pl/media/img/youcreo
 ||gazeta.pl/pub^
-||avanti.fashion/pub^$third-party
-||ppwidget.skapiec.pl/widget^$script,third-party
 ||facetemjestem.pl/wp-content/uploads/*/lancerto-300x300_3.jpg
 ||forum.haszysz.com/baner
 ||forum.haszysz.com/ub.gif
@@ -29,16 +27,13 @@
 ||ekorodzice.pl/_js/a_d
 ||sportowebeskidy.pl/materialy/system_banerowy^
 ||zol.pl/banery^
-||reklamy.hostings.pl^$third-party
 ||audiostereo.pl/banery^
 ||ad.gazeta.pl/cpc^
 ||czasdzieci.pl/bannery^
-||czasdzieci.home.pl/mailingi/html5/hipp^$third-party
 ||ocdn.eu/files/mastt^$script
 ||purepc.pl/files/Image/purepc0
 ||bongacams.com/b/top_index^
 ||vetopedia.pl/themes/default/javascript/ad.js
 ||www.optyczne.pl/partnerzy_sm^
-||aff.bstatic.com/static/affiliate_base/js/booking_sp_widget$script,third-party
 ||direct.money.pl/i/box_money_main_page/campaign^
 ||ogladaj.online/fake-player
