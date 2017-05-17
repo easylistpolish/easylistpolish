@@ -139,3 +139,25 @@ moto.wp.pl##.scr-wallpaper
 moto.wp.pl##DIV[data-st-area="list-selected4you"] A[href^="https://moto.wp.pl"]
 nocowanie.pl##.ads--sr
 ekorodzice.pl###a_d_billboard
+makelifeeasier.pl##DIV[style="width:175px; border:0 solid #eee; margin-bottom: 30px;"]
+makelifeeasier.pl##DIV[style="width:178px;border:1px solid #e9e9e9;"]
+komputerswiat.pl##A[href^="http://partners.traviangames.com"]
+vetopedia.pl##.smallprodan
+optyczne.pl##.shop-offer
+optyczne.pl##.banner
+fotopolis.pl##.small-products
+forum.przyroda.org##A[href^="ad.php?id="]
+forum.przyroda.org##A[href*="sadistic.pl"]
+polska.travel##.features-accordion > .row > .col-md-3 > .box4
+portalbraniewo.pl##DIV[onclick^="update_ad"]
+filozofy.blox.pl###koledzy
+gamesfanatic.pl##DIV[class^="g-dyn a-"]
+boardtime.pl##.widget-header
+boardtime.pl###widget_metaslider_widget
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzystu.info##A[href^="http://studentnews.pl/klik.php?b="]
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzystu.info##A[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzystu.info##.s_dodatkowa FONT[size="5"]
+betonline.net.pl##DIV[class^="cool-stuff"]
+betonline.net.pl###popup
+joe.pl###joe_rek2
+istotne.pl##.advert
