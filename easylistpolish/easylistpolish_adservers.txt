@@ -3,3 +3,4 @@
 ||hub.com.pl^$third-party
 ||incontext.pl^$third-party
 ||rewords.pl^$third-party
+||adsnet.pl^$third-party
