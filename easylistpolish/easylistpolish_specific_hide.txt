@@ -154,9 +154,8 @@ filozofy.blox.pl###koledzy
 gamesfanatic.pl##DIV[class^="g-dyn a-"]
 boardtime.pl##.widget-header
 boardtime.pl###widget_metaslider_widget
-pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzysty.info##A[href^="http://studentnews.pl/klik.php?b="]
-pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzysty.info##A[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
-pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzysty.info##.s_dodatkowa FONT[size="5"]
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzysty.info,studentnews.pl##A[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzysty.info,studentnews.pl##.s_dodatkowa FONT[size="5"]
 betonline.net.pl##DIV[class^="cool-stuff"]
 betonline.net.pl###popup
 joe.pl###joe_rek2
