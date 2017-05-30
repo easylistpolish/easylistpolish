@@ -4,3 +4,4 @@
 ###tytul_sponsorowane
 ##.reklama-post
 ##A[href^="http://czasdzieci.pl/adurl"]
+##A[href^="http://studentnews.pl/klik.php?b="]
