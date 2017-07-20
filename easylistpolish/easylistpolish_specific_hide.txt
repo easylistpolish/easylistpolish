@@ -160,3 +160,41 @@ betonline.net.pl##DIV[class^="cool-stuff"]
 betonline.net.pl###popup
 joe.pl###joe_rek2
 istotne.pl##.advert
+roksa.pl##.banner_bottom
+pebx.pl##.funbox
+mgsm.pl##.recommends
+sadistic.pl##ARTICLE[style="text-align: center; padding: 30px; min-height: 300px"]
+sadistic.pl##A[href^="http://declation-grateger.com"]
+sledzimykonkursy.pl##DIV[id^="Div_Floorad"]
+tv-wschod.pl##.advert-A1
+tv-wschod.pl##.advert-A2
+tv-wschod.pl##.advert-B2
+tv-wschod.pl##.advert-C1
+tv-wschod.pl##A[href="http://www.helios.pl/43,Siedlce/StronaGlowna/"]
+drhtv.com.pl###bannertop
+instalacjebudowlane.pl##A[onclick^="_gaq.push(['_trackEvent', 'kampanie banerowe'"]
+instalacjebudowlane.pl##A[onclick^="_gaq.push(['_trackEvent', 'stopki patronow'"]
+drhtv.com.pl##A[href="http://www.footy-shoes.com/"]
+drhtv.com.pl##.banner2
+drhtv.com.pl##A[href="https://pl.johnnybet.com/"]
+dobreprogramy.pl##DIV[style="max-width:980px;margin:0px auto 30px auto;"]
+dobreprogramy.pl##DIV[style="height: 600px; width: 300px;"]
+dobreprogramy.pl##DIV[style="color: #A9A9A9; text-align:center;font-size:11px;"]
+dobreprogramy.pl##DIV[style="height: 180px; width: 630px;"]
+drhtv.com.pl###prawo
+drhtv.com.pl##A[href^="https://www.sts.pl"]
+wizaz.pl##.ceneo-container
+tkn24.pl###text-18
+pzhkiperybnik.vgh.pl##MARQUEE
+stooq.pl##TD > #f10:first-child
+stooq.pl##TD[width="1"]
+stooq.pl##TD[width="1"] + TD[valign="top"]
+stooq.pl##DIV[style="width:300;height:250"]
+stooq.pl##TABLE[height="250"]
+stooq.pl##DIV + DIV > #f10
+tkn24.pl##.dk-image-rotator-widget
+tkn24.pl###text-9
+kinoman-tv.pl,seans24.com.pl##A[href^="http://afftrack001.com/"]
+life4style.pl##DIV[class^="g-dyn a-"]
+magazyn-kuchnia.pl##DIV[style="border: solid 1px #ddd; width: 99.5%; margin-bottom: 20px; clear: both;"]
+pudelek.tv,wp.pl##SPAN[id^="dynacrems-adv"]
