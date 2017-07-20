@@ -5,3 +5,7 @@
 ##.reklama-post
 ##A[href^="http://czasdzieci.pl/adurl"]
 ##A[href^="http://studentnews.pl/klik.php?b="]
+##.front_ad
+##A[href^="http://wlbetathome.adsrv.eacdn.com"]
+##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Ft.myvisualiq.net"]
+##.baner_reklama
