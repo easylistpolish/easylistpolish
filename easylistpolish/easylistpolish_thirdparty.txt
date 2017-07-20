@@ -15,3 +15,4 @@
 ||czasdzieci.home.pl/mailingi/html5/hipp^$third-party
 ||ppwidget.skapiec.pl/widget^$script,third-party
 ||avanti.fashion/pub^$third-party
+||ad.eko-7.com.pl^$third-party
