@@ -16,3 +16,4 @@
 ||ppwidget.skapiec.pl/widget^$script,third-party
 ||avanti.fashion/pub^$third-party
 ||ad.eko-7.com.pl^$third-party
+||businessclick.biz.pl/awrapper$third-party
