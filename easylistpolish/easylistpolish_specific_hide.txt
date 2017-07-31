@@ -199,3 +199,57 @@ life4style.pl##DIV[class^="g-dyn a-"]
 magazyn-kuchnia.pl##DIV[style="border: solid 1px #ddd; width: 99.5%; margin-bottom: 20px; clear: both;"]
 pudelek.tv,wp.pl##SPAN[id^="dynacrems-adv"]
 telewizjarepublika.pl##A[href="http://www.czesciauto24.pl/"]
+czecho.pl,pless.pl##DIV[class^="linki-sponsorowane"]
+czecho.pl,pless.pl##.blok-billboard
+twojapogoda.pl##IMG[alt="Advertisement"]
+twojapogoda.pl##IFRAME[width="728"]
+wmh.pl###rightColumn
+wmh.pl###itemsBottom
+wmh.pl###items_rightTop
+wmh.pl###leftitems
+pomorskiprzewodnikwedkarski.pl###nivo_slider_208
+pomorskiprzewodnikwedkarski.pl###nivo_slider_211
+pomorskiprzewodnikwedkarski.pl##DIV[data-jmodtip$="Reklama<br />"]
+haczyk.pl##A[href="http://www.pontony.net.pl"]
+haczyk.pl##A[href="http://www.akumulatory-zelowe.pl"]
+haczyk.pl##A[href="http://www.forum.halohalo.pl"]
+haczyk.pl##A[href="http://kartyplastikowe.net"]
+haczyk.pl##A[href="http://jakzalozycfirme.info"]
+haczyk.pl##A[href="http://jak-nie-placic-zus.info"]
+hitra-wedkarstwo.cba.pl###partnerzy
+pol-nor.com###rek2
+pol-nor.com##.banone
+pol-nor.com###popforfirma
+malyrekin.pl###text-4
+malyrekin.pl###text-5
+malyrekin.pl###text-6
+multifishing.pl##.blockadvmulti
+fishingmania.pl###block-views-bannery-block
+fishingmania.pl###block-views-bannery-block-1
+wedkarskisprzet.pl##IMG[width="150"]
+tarnowiak.pl###arheader
+tarnowiak.pl##.adsRightBox
+sklepbazant.pl,swiatmodeli.eu##.mraty-widget
+sklepbazant.pl,swiatmodeli.eu##.mbank-top-layer
+sklepbazant.pl,swiatmodeli.eu##.mask
+kreskowki-online.pl###partners
+tylkopilka.pl###text-157
+tylkopilka.pl###text-25
+tylkopilka.pl##[class^="g-col b-2 a"]
+niebezpiecznik.pl###text-8
+portalplock.pl##.a-d-v-i
+portalplock.pl##.sponsored
+portalplock.pl##A[href="1005_sponsorowane"]
+techfresh.pl###wbounce-modal
+techfresh.pl###top-widget
+techfresh.pl##.sis-product-widget
+techfresh.pl##A[href^="https://www.morele.net/gazetka"]
+kreskoweczki.pl###games-block
+realmadryt.pl##FIELDSET[style^="border: 1px solid; padding: 5p"]
+tkn24.pl##.thisisatest
+instalacjebudowlane.pl##.banery_lewy_pasek
+spidersweb.pl##A[href^="http://www.krugermatz.com"]
+spidersweb.pl##A[href^="http://delivery.clickonometrics.pl"]
+spidersweb.pl##.ads
+krs-online.com.pl###bad
+filmikiporno.tv##.publis-bottom
