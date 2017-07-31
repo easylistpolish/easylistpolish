@@ -1,1 +1,2 @@
 [Adblock Plus 2.0]
+@@||rzeszow.pl/ad/view^
