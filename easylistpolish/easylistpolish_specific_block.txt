@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+! Popads domains
+.com^$script,third-party,domain=kinoman-tv.pl
+!
 ||allegrostatic.com/display-pl/2016/3909/1920x640_paralax_finish_allegro.jpg
 ||fntajkb.wp.pl^
 ||g.cda.pl/player.php?ads
