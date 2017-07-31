@@ -98,3 +98,4 @@ _baner-$domain=przewodnicywedkarscy.pl
 ||tarnowiak.pl^*_wizytowka_
 ||tarnowiak.pl^*^MM_19-24_07.png
 ||cdn.dcsaas.net^$domain=sklepbazant.pl|swiatmodeli.eu
+^banery^$domain=swiatogloszen.net.pl
