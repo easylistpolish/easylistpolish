@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+! Popads domains
+.com^$script,third-party,domain=kinoman-tv.pl
+!
 ||cdn.leadbit.com^$third-party
 ||ec.hub2.com.pl^$third-party
 ||partnerzyapi.ceneo.pl/External/ap.js$third-party
@@ -17,3 +20,4 @@
 ||avanti.fashion/pub^$third-party
 ||ad.eko-7.com.pl^$third-party
 ||businessclick.biz.pl/awrapper$third-party
+||r.pless.nazwa.pl/public/banner^$third-party
