@@ -1,2 +1,9 @@
 [Adblock Plus 2.0]
 @@||rzeszow.pl/ad/view^
+@@||sanatoria.com.pl^*-pobyty-zdrowotne.
+@@||sanatoria.com.pl^*_naszarehabilitacja_
+@@||gwarek.com.pl^*^magazyn_zdrowie.
+@@||samoloty.pl^*^sklepsamoloty2013.
+@@||samoloty.pl^*^lgp2.
+@@||mmania.pl^*^partner/41.
+@@||mmania.pl^*^partner/33.
