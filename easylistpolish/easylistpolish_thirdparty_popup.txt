@@ -1,2 +1,1 @@
 [Adblock Plus 2.0]
-^lab.ankieta-online.pl^$popup,third-party
