@@ -1,19 +1,15 @@
 [Adblock Plus 2.0]
+###content_right_advert
 ###reklama_gora
-##.ncwAdCommon
 ###tytul_sponsorowane
-##.reklama-post
-##A[href^="http://czasdzieci.pl/adurl"]
-##A[href^="http://studentnews.pl/klik.php?b="]
-##.front_ad
-##A[href^="http://wlbetathome.adsrv.eacdn.com"]
-##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Ft.myvisualiq.net"]
-##.baner_reklama
 ##.adright265x90
+##.baner_reklama
 ##.content_left_advert
+##.front_ad
 ##.linkSponsorowany
 ##.linkiSponsorowane
-###content_right_advert
+##.ncwAdCommon
+##.reklama-post
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Faffhit.com"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fbros.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fbs.serving-sys.com"]
@@ -49,9 +45,8 @@
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.emarketing.efl.com.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.feetcarejournal.com"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.forever-young.pl"]
-##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gazetalubuska.pl/artykuly-sponsorowane"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gazetalubuska.pl%2Fartykul-sponsorowany"]
-##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gerardroofs.pl"]
+##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gazetalubuska.pl/artykuly-sponsorowane"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gerardroofs.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.globalinfo.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.gloswielkopolski.pl%2Fartykuly-sponsorowane"]
@@ -70,6 +65,7 @@
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fwww.wyjazdygrupowe.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Flentica.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Fprojekty.muratordom.pl"]
+##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Ft.myvisualiq.net"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Fwww.latwykredyt.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Fwww.swps.pl"]
 ##A[href^="http://emisja.contentstream.pl/_/ctr/?u=https%3A%2F%2Fwww.tatento.pl"]
@@ -77,4 +73,7 @@
 ##A[href^="http://emisjao.contentstream.pl/_/ctr/?u=http%3A%2F%2Fcapitalclub.pl%2F%3Futm_source%3DAdkontekst"]
 ##A[href^="http://emisjao.contentstream.pl/_/ctr/?u=http%3A%2F%2Fsciencejournal.pl"]
 ##A[href^="http://emisjao.contentstream.pl/_/ctr/?u=http%3A%2F%2Fszkola-zarabiania.pl"]
-##A[href^="http://rtb.4finance.com/click/"]
+##a[href^="http://czasdzieci.pl/adurl"]
+##a[href^="http://rtb.4finance.com/click/"]
+##a[href^="http://studentnews.pl/klik.php?b="]
+##a[href^="http://wlbetathome.adsrv.eacdn.com"]
