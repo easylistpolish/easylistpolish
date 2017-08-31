@@ -21,3 +21,8 @@
 ||ad.eko-7.com.pl^$third-party
 ||businessclick.biz.pl/awrapper$third-party
 ||r.pless.nazwa.pl/public/banner^$third-party
+||offersprovider.widget.onet.pl^$third-party
+||pp.funhub.pl^*?callback=wyswietlGra|$third-party
+||solutions4ad.com/partner^$third-party
+||tja.pl^*^banerki$third-party
+||ofertaplay.info^*^androidbanerrespons^$third-party
