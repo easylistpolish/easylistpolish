@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+ABP
 smak-zdrowia.blogspot.com###HTML1
 aniamaluje.com###HTML14
 pola-elizejskie.blogspot.nl###HTML3
@@ -465,7 +465,6 @@ jarock.pl##a[href="http://bit.ly/FlatOut4Multi"]
 jarock.pl##a[href="http://coffeestar.pl/kolekcja/poranny-rock-rock"]
 rzeszownazywo.pl##a[href="http://duke4u.com/"]
 e-grajewo.pl##a[href="http://esteticon.grajewo.com/"]
-money.pl##a[href="http://forgeofempires.wp.pl/"
 e-grajewo.pl##a[href="http://grajewo.net.pl/agencja-reklamowa/"]
 haczyk.pl##a[href="http://jak-nie-placic-zus.info"]
 haczyk.pl##a[href="http://jakzalozycfirme.info"]
@@ -542,7 +541,7 @@ to.com.pl##a[href^="http://www.to.com.plartykuly-sponsorowane"]
 tur-info.pl##a[href^="http://www.tur-info.pl/przekierowanie/element_polecany"]
 tur-info.pl##a[href^="http://www.tur-info.pl/przekierowanie/megabanner"]
 wspolczesna.pl##a[href^="http://www.wspolczesna.pl/artykuly-sponsorowane"]
-wykop.pl##a[href^="http://www.wykop.pl/paylink/
+wykop.pl##a[href^="http://www.wykop.pl/paylink/"]
 mdhmyslowice.pl##a[href^="http://www.znaczki-turystyczne.pl/znaczkowe-miejsca-turystyczne/"]
 na-pulpit.com,na-telefon.org,widoczki.com##a[href^="http://zyczenia.tja.pl"]
 cenapradu.strefa.pl##a[href^="https://clk.leadexpert.pl/click"]
