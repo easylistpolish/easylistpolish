@@ -1,2 +1,2 @@
-[Adblock Plus 2.0]
+ABP
 @@^300x250^$domain=prostozmostu.pl
