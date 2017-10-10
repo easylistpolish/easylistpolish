@@ -1,4 +1,3 @@
-ABP
 ###content_right_advert
 ###reklama_gora
 ###tytul_sponsorowane
