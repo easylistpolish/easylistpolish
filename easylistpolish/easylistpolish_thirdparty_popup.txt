@@ -1,2 +1,1 @@
-ABP
 ||popups.afftrack001.com^$popup,third-party
