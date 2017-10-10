@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+ABP
 ###content_right_advert
 ###reklama_gora
 ###tytul_sponsorowane
