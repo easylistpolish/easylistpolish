@@ -1,2 +1,2 @@
-[Adblock Plus 2.0]
+ABP
 /adserwer.
