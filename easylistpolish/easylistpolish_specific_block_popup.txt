@@ -1,4 +1,3 @@
-ABP
 ||bubble.am^$popup,domain=zalukaj.com
 ||goo.gl^$popup,domain=swinoujskie.info
 ||gretschguitars.com/$popup,domain=magazyngitarzysta.pl
