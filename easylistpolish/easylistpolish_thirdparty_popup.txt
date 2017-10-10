@@ -1,2 +1,2 @@
-[Adblock Plus 2.0]
+ABP
 ||popups.afftrack001.com^$popup,third-party
