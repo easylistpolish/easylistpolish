@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+ABP
 ! Popads domains
 .com^$script,third-party,domain=kinoman-tv.pl
 !
