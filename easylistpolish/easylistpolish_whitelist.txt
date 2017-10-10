@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+ABP
 @@||calisia.pl^*^baner_calisia_
 @@||calisia.pl^*^Bez_nazwy-
 @@||calisia.pl^*^kronika.
