@@ -1,4 +1,3 @@
-ABP
 -baner_$domain=kk24.pl|my3miasto.pl
 -banner-$domain=ww-model.pl
 ^2230/ealogo.$domain=needforspeed.pl
