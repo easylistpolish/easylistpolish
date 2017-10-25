@@ -24,3 +24,5 @@
 ||thc-thc.com/reklamy^$third-party
 ||tja.pl^*^banerki$third-party
 ||tmefekt.pl/static/widget$third-party
+||comperialead.pl/getpulabanner.$third-party
+||ad.e-lider.pl^$third-party
