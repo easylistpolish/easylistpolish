@@ -676,3 +676,163 @@ stooq.pl##td[width="1"] + td[valign="top"]
 q4.pl##td[width="12%"]
 forum-brukarskie.pl##td[width="120"]
 dziennikplocki.pl##ul[id^="campaign"]
+a3-club.net###ad_global_below_navbar
+akademiawitalnosci.pl###text-5
+akademiawitalnosci.pl###text-6
+anglia.today##A[href="/redirect/ad/background/1"]
+anglia.today##A[href="/redirect/ad/side/1"]
+anglia.today##A[href="/redirect/ad/side/16"]
+anglia.today##A[href="/redirect/ad/side/18"]
+anglia.today##A[href="/redirect/ad/side/6"]
+anglia.today##DIV[class^="ad top-image"]
+autocentrum.pl##.add
+autocentrum.pl##DIV[style="max-width: 750px;; margin: 0 auto; padding-bottom: 15px;"]
+autocentrum.pl##DIV[style="width: 160px; height: 600px; margin-left: 0px;"]
+b1.pl##.portal_header
+b1.pl##DIV[class^="header_"]
+babiel.com.pl###prawa
+bbfan.pl###text-17
+bbfan.pl###text-18
+benchmark.pl###marketplaceProductBox
+bezprawnik.pl##.ads
+biala24.pl##.banner
+biala24.pl##.popup
+biznesalert.pl##.banner-overlay
+biznesalert.pl##.col-md-12
+businessinsider.com.pl##A[href^="http://emisjao.contentstream.pl/_/ctr/?u=http%3A%2F%2Fmedicaltelegram.com"]
+chnnews.pl##.bannergroup
+ciechanowinaczej.pl###top-reklama
+comparic.pl##.mfp-ready
+comparic.pl##DIV[class^="g-single a-"]
+ddtorun.pl##.a-d-v-i
+dieroten.pl###ad-sts-top
+dziennik.com##.ads
+dziennik.pl##LI[data-title="Sponsorowane"]
+dziennik.walbrzych.pl###baner-glowny
+eksmagazyn.pl##.banner
+eska.pl##.zpr_top_1
+eswinoujscie.pl##.td-banner-bg
+eswinoujscie.pl##.vacationclub_link
+express-miejski.pl##.adesplace
+express-miejski.pl##DIV[id^="gpt-ad-d"]
+express-miejski.pl##DIV[id^="gpt-ad-d"] + .small
+forum.motocyklistow.pl##.bbc_center
+futsal-krakow.pl###sponsor360
+futsal-krakow.pl##DIV[style^="width: 347px;"]
+gazetalubliniecka.pl###foot-leader
+gazetalubliniecka.pl##.metaslider-flex
+gazetalubliniecka.pl##DIV[class^="gazet-slidebar"]
+gazetaprawna.pl##.adexonModule
+gazetaprawna.pl##.reklamma
+gazetaprawna.pl##P[style="float:right; font-size:8px; color:gray; margin:0;"]
+gorzow24.pl##.r
+gorzow24.pl##.r + DIV[style="max-width:589px; margin:0 auto"]
+gostyn24.pl##.a-d-v-i
+hej.mielec.pl##.csSponsored
+hej.mielec.pl##A[href="http://rzeczywiste.pl"]
+hej.mielec.pl##A[href="http://www.hotel.regbenz.pl/"]
+hej.mielec.pl##A[href="http://www.joyfitnessclub.pl/"]
+hej.mielec.pl##SPAN[style="color: rgb(128, 128, 128);"]
+hokej.net##.advertisement
+igryfino.pl##DIV[class*="advert-"]
+jelonka.com##.closebutton
+jelonka.com##DIV[style$="background:#999;opacity:0.4;"]
+jelonka.com##TABLE[style^="margin:0 auto;background:#fafafa;-webkit-box-shadow:"]
+joemonster.org##IMG[width="750"][height="200"]
+ki24.info##.a-d-v-i
+kiwiportal.pl##.eventAd
+klubowa.pl##.id217
+klubowa.pl##.id52
+korso.pl##DIV[onclick^="update_ad("]
+kutno.net.pl##.promo-section
+legnica.fm###sliderbanner1
+legnica.fm##SPAN + UL > .banneritem
+lfc.pl##A[href^="http://www.podstadionem.pl/"]
+lfc.pl##A[href="http://pl.johnnybet.com/"]
+liga-ursus.siatkowka.org/###widget_sp_image-2
+lol24.com##.promotion
+lubartow24.pl##.gazetka-box
+lubartow24.pl##DIV[style="margin: 0 auto; text-align: center; max-width: 750px;"]
+lubelska.tv##.advert-B1
+make-cash.pl##.ipsAdvertisement
+maximus.media##div[id^="sfy_"]
+mecze24.pl###bg
+mecze24.pl###popup
+mecze24.pl##DIV[class^="cool-stuff"]
+meczenazywo.pl###popup
+meczenazywo.pl##DIV[class^="cool-stuff"]
+meczenazywo.pl##LI[class^="cool-stuff"]
+meczenazywo.pl##OL[class^="cool-stuff"]
+metropoliabydgoska.pl##.mt-banner
+mma.pl###cb-bg-to
+mma.pl##.p0
+mmo24.pl##.promo
+mojanorwegia.pl##.bannerTop
+mylomza.pl###contenttop
+mylomza.pl###fadeinbox
+mylomza.pl###top
+mylomza.pl##DIV[class="box-2 deepest"]
+naekranie.pl###welcome_screen
+naekranie.pl##.adform
+naekranie.pl##.banner
+nissanklub.pl##.iParts_Ad2
+noclegi.biz##.lewastronareklama
+noclegi.biz##.podzialreklama
+onet.pl##.adv
+osp.com.pl##.sponsors-wrapper
+pabianice.tv##DIV[class^="g-single a-"]
+pabianice.tv##SECTION[id^="adrotate_widgets"]
+poradnikhandlowca.com.pl##.yReklamy
+portalpomorza.pl##.advert-A1
+portalpomorza.pl##.advert-A2
+praskieklimaty.pl###magazine-plus-image-6
+progressforpoland.com##.td-a-rec
+przewodnik-katolicki.pl##.banner
+pzl24.pl##DIV[onclick^="update_ad("]
+radiosochaczew.pl##.advert-A1
+rdn.pl##.widget_mkslider_widget
+rmf24.pl##.kd_ns_ads
+rmf24.pl##.relatedListAds
+stalowemiasto.pl##.forumbaner
+stalowemiasto.pl##.main-cbaner
+stalowemiasto.pl##.main-tbaner
+stalowemiasto.pl##.pnbbaner
+stalowemiasto.pl##.rrestbaner
+stockwatch.pl##A[href^="http://www.attrader.pl/?utm_source=StockWatch"]
+stockwatch.pl##DIV[class^="ADbox"]
+streetfoodpolska.pl###text-3
+super-nowa.pl##.syl-baner-place
+swiecie24.pl##.a-d-v-i
+swieradowzdroj.pl##.banners
+takze.pl##.ad
+targikielce.pl##.event_page_left_sub_ads_banner
+tarnow.in###text-21
+tarnow.in###text-3
+telewizjamazury.pl##.advert-A1
+telewizjamazury.pl##.advert-A2
+telewizjamazury.pl##.boards
+tustolica.pl##.reklamatxt
+tvkhd.pl###bsa-block-250--250
+tvkhd.pl##.widgetad
+tvradom.pl##.bgad
+tvradom.pl##DIV[onclick^="update_ad("]
+tvsudecka.pl##DIV[onclick^="update_ad("]
+tvzg.pl##.td-a-rec
+vidfile.net##.rek
+w203.pl##A[href="http://www.motocentrum.pl/"]
+wiadomosci.wp.pl##TBODY > TR > TD > DIV > DIV[data-reactid] > DIV + DIV:last-child
+wiersze.annet.pl##.rekl
+wietrzneradio.com##.banner-full
+woor.pl##.right_box
+wp.pl##A > DIV > IMG[src^="https://v.wpimg.pl"]
+wp.pl##A[href^="https://www.wp.pl/"] > IMG[src^="https://v.wpimg.pl/"]
+wp.pl##SAMP + SAMP + DIV + DIV > STYLE + DIV
+wpr24.pl##.banerundarti
+wpr24.pl##.newslistban
+wprost.pl##.box-list-item-recommendation-content-stream
+zarabiam.com##A[href^="https://leadnow.pl?ref="]
+zarabiam.com##DIV[onclick^="MyAdvertisements."]
+zaufanatrzeciastrona.pl###rab1
+zaufanatrzeciastrona.pl###sponsor3
+zyciepabianic.pl##A[href^="http://psm-pabianice.pl"]
+zyciezakonne.pl###text-5
