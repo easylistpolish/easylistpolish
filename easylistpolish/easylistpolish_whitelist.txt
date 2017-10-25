@@ -4,8 +4,11 @@
 @@||expresskaszubski.pl^*^reklamy/cookies-
 @@||expresskaszubski.pl^*^reklamy/odpowiedzialny-
 @@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
+@@||gorzow24.pl^*^im_91.
 @@||gwarek.com.pl^*^magazyn_zdrowie.
 @@||ino.online/reklamy/autopromo^
+@@||lubliniec.info^*^miejsce-wolne-
+@@||market.bia24.pl/R2|
 @@||medycznamarihuana.com^*^baner_forum.
 @@||miastons.pl^*^Banners/miastons_banner_
 @@||mmania.pl^*^partner/33.
@@ -13,6 +16,7 @@
 @@||nasionakonopi.pl^*^19db680bd9c093bf2f99c46439d367de.
 @@||nasionakonopi.pl^*^754745f9759f0084322d3f894aa13f7a.
 @@||norwegofil.pl^*^baner-norwegofil-v2-2.jpg
+@@||pclab.pl/img/extra/*_logo.
 @@||rockpapershotgun.com/doubleclick/ads.js$domain=eurogamer.pl
 @@||rzeszow.pl/ad/view^
 @@||sadownictwo.com.pl^*^2015-*-reklama.
@@ -21,13 +25,10 @@
 @@||samoloty.pl^*^sklepsamoloty2013.
 @@||sanatoria.com.pl^*-pobyty-zdrowotne.
 @@||sanatoria.com.pl^*_naszarehabilitacja_
-@@||gorzow24.pl^*^im_91.
-@@||lubliniec.info^*^miejsce-wolne-
-@@||market.bia24.pl/R2|
-@@||pclab.pl/img/extra/*_logo.
 @@||stalowemiasto.pl/colada2^*^303^
 @@||sucha24.pl^*^logo.
 @@||sucha24.pl^*^nekrolog.
 @@||tustolica.pl^*^drobne20161128.
 @@||wpr24.pl^*^katalog.
 @@||zycie.pl^*^138^
+  
