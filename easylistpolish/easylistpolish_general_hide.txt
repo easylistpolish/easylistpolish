@@ -1,10 +1,6 @@
-###content_right_advert
 ###reklama_gora
 ###tytul_sponsorowane
-##.adright265x90
 ##.baner_reklama
-##.content_left_advert
-##.front_ad
 ##.linkSponsorowany
 ##.linkiSponsorowane
 ##.ncwAdCommon
