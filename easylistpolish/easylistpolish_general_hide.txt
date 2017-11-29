@@ -93,5 +93,4 @@
 ##A[href^="https://emisja.contentstream.pl/_/ctr/?u=http%3A%2F%2Fsciencejournal.pl"]
 ##a[href^="http://czasdzieci.pl/adurl"]
 ##a[href^="http://rtb.4finance.com/click/"]
-##a[href^="http://studentnews.pl/klik.php?b="]
 ##a[href^="http://wlbetathome.adsrv.eacdn.com"]
