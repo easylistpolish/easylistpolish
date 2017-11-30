@@ -31,4 +31,13 @@
 @@||tustolica.pl^*^drobne20161128.
 @@||wpr24.pl^*^katalog.
 @@||zycie.pl^*^138^
-  
+@@/reklama.$domain=grojec24.net
+@@||informacjelokalne.pl^*_zamow_zbrodnia.
+@@||informacjelokalne.pl^*^baner_kup.
+@@||informacjelokalne.pl^*^banners/CK_im._Krzysztofa_
+@@||informacjelokalne.pl^*^banners/miejce-reklama.
+@@||informacjelokalne.pl^*^logo_turystyka.
+@@||obiektyw.info^*_logo.
+@@||podlasie24.pl^*^ed5ea7a7b9d5d2e62818a6ea7cb42d0a.
+@@||podlasie24.pl^*^fd98348c5cbc549f4b843db859dfdb7e.
+@@||powiatsuski24.pl^*^ceaebde72a36523be3f16f38e28267c8.
