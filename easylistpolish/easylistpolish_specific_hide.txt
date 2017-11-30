@@ -792,3 +792,47 @@ wp.pl#?#aside:-abp-contains(Reklama) + DIV
 wp.pl##A[href^="http://ma.wp.pl/"] > DIV > IMG[src^="https://v.wpimg.pl/"]
 wp.pl#?#div:-abp-contains(REKLAMA) + DIV > A
 wp.pl##div[class^="__bc_layer_"]
+24jgora.pl##.banrek
+24jgora.pl###baner_info + * + DIV
+24jgora.pl###reklama-top_new
+24tp.pl##.reklama-box-newsy
+bilgorajska.pl##.czytaj_dalej
+bilgorajska.pl###box_r
+blob:http://video.gazeta.pl^$script
+e-grajewo.pl###banner
+faktykaliskie.pl##DIV[id^="advt-"]
+grybow24.pl##DIV[class^="g-single a-"]
+halogorlice.info##.bannergroup
+innemedium.pl###block-block-13
+innemedium.pl###block-block-16
+innemedium.pl###block-block-17
+innemedium.pl###block-block-19
+innemedium.pl###block-views-reklama-block
+kociewiak.pl##.boards
+koszalininfo.pl##DIV[class^="g-dyn a-"]
+linia.com.pl##IMG[width="250"]
+lowking.pl###text-15
+lowking.pl###text-21
+miasto.koszalin.pl###ja-banner
+netkonkret.pl##.banner
+poczta.wp.pl##A > DIV > IMG[src^="https://v.wpimg.pl"]
+portalpomorza.pl##.boards
+pracaikariera.pl,edubaza.pl,dlagimnazjalisty.info,dlamaturzystu.info,studentnews.pl##A[href^="http://studentnews.pl/klik.php?b="]
+profil.wp.pl##A > DIV > IMG[src^="https://v.wpimg.pl"]
+proseedmag.pl##A[href^="http://proseedmag.pl/artykul-sponsorowany-"]
+sadeczanin.info##.kd_ns_placement A[rel="nofollow"]
+slubickie.info##.banner_zone
+tczewska.pl##.boards
+trybunaczestochowska.pl###canvas
+tugazeta.pl##DIV[id^="glowna_prawa_"]
+twojkurierolsztynski.pl##.td-a-rec
+twojkurierolsztynski.pl##.widget_revslider
+twojkurierolsztynski.pl##.wpb_content_element
+wgospodarce.pl##.kd_ns_box > A[rel="nofollow"]
+wgospodarce.pl##A[rel="nofollow"] + .kd_ns_lead
+wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
+wp.pl##.scr-wallpaper > DIV[style^="top: 0px; left: 0px;"]
+wp.pl##DIV[style^="position: fixed; top: 0px; overflow: hidden"]
+wroclawiak.pl##.site-right-re
+zegarkiclub.pl###banner-js-area
+zegarkiclub.pl###dp3_aa
