@@ -260,8 +260,6 @@ receptynadom.pl##._dbox1
 lubin.pl##._reklama
 lubin.pl##._reklama + div
 radioradom.pl##.a-6
-ddwloclawek.pl##.a-d-v
-ddtorun.pl,ddwloclawek.pl,gostyn24.pl,ki24.info,portalplock.pl,swiecie24.pl,terazlipno.pl##.a-d-v-i
 czasdzieci.pl##.a_dslot
 demotywatory.pl##.abox-view-content
 parlamentarny.pl##.acenter
