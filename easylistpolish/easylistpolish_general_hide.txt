@@ -11,3 +11,4 @@
 ##.a-d-v
 ##.a-d-v-i
 ##DIV[onclick^="update_ad("]
+^reklamy^
