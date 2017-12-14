@@ -1,2 +1,3 @@
 /adserwer.
 ^sidebar_reklama^
+^reklamy^
