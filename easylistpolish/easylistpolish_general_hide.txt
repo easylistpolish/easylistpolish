@@ -11,3 +11,5 @@
 ##.a-d-v
 ##.a-d-v-i
 ##DIV[onclick^="update_ad("]
+##.adocean_billboard
+##LI[data-title="Sponsorowane"]
