@@ -26,3 +26,4 @@
 ||thc-thc.com/reklamy^$third-party
 ||tja.pl^*^banerki$third-party
 ||tmefekt.pl/static/widget$third-party
+||ad.admitad.com^$third-party
