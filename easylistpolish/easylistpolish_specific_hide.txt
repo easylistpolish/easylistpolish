@@ -836,3 +836,118 @@ wp.pl##DIV[style^="position: fixed; top: 0px; overflow: hidden"]
 wroclawiak.pl##.site-right-re
 zegarkiclub.pl###banner-js-area
 zegarkiclub.pl###dp3_aa
+40ton.net##IMG[width="275"]
+abczdrowie.pl##.kd_ns_box > A[rel="nofollow"]
+alexjones.pl##.kd_ns_placement A[rel="nofollow"]
+anyfiles.pl##DIV[id^="adsbox_"]
+bielskiedrogi.pl##.view-reklamy
+biokurier.pl##A[href^="http://biokurier.pl/linkoutad"]
+biznesalert.pl^*^PGE.jpg?x28732
+ceneo.pl##.ad-shadow + IMG
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1810/"]
+ckm.pl##.kd_ns_box > A[rel="nofollow"]
+cnc.info.pl##.box_bok
+codziennikmlawski.pl##.ai_widget
+codziennikmlawski.pl##.banner3
+cryptonews.pl##.a-single
+demotywatory.pl##DIV[class*="adv_"]
+domy.pl###bb-ad-inline-2
+egarwolin.pl###top-reklama
+elektroda.pl#?#.clearfix:-abp-has(.bttn:-abp-contains(Sponsored))
+elektroda.pl##.bdb-89f617
+elektroda.pl##.campaign-for-words
+elektroda.pl##.tme-menu
+forumkwiatowe.pl##.baner330
+forumkwiatowe.pl##.banner
+forumkwiatowe.pl###text-75
+gala.pl##DIV[class^="tracdelight-item"]
+goal.pl##.kd_ns_box > A[rel="nofollow"]
+goal.pl##A[href^="https://account.skrill.com/signup"]
+goal.pl##A[rel="nofollow"] + .kd_ns_lead
+gohel.pl###PAN_BANNER
+gosc.pl##.kd_ns_box > A[rel="nofollow"]
+gosc.pl##A[rel="nofollow"] + .kd_ns_lead
+grodzisknews.pl###ad_Container
+grodzisknews.pl##A[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
+hokej.net##.advertisement
+hokej.net##.jcarousel-wrapper.second
+imagazine.pl##.banner
+infookno.pl###ads
+itvm.pl##.td-a-rec
+kafeteria.pl##A[href^="https://wawalove.wp.pl/"] > DIV[style^="position: absolute; top: 0px; left: 0px; background-position:"]
+kaszuby24.pl##.bsaProItems
+kaszuby24.pl##.td-a-rec-id-header
+kuriergarwolinski.pl##.kd_ns_box > A[rel="nofollow"]
+kuriergarwolinski.pl###baner2
+kuriergarwolinski.pl##A[rel="nofollow"] + .kd_ns_lead
+kurierkolejowy.eu##.banner-top
+lajfy.com##.sticky-banner
+lm.pl##.lista_ogloszen_reklama
+miastokolobrzeg.pl###panel_baner
+miastokolobrzeg.pl##DIV[id^="sp-reklama-"]
+miejscowa.pl##.td-a-rec
+moje-gniezno.pl##.reklamaTEKST
+moje-gniezno.pl##.reklamaTEKST + *
+moto3m.pl##DIV[class^="e3lan"]
+mragowo24.info##.ads
+mragowo24.info###articleAds
+naszesudety.pl##.content > .photo > A > IMG[src^="files/200/"]
+naszesudety.pl###slider2
+naturaity.pl##A[href^="http://www.naturaity.pl/banner"]
+niedziela.nl##.banneritem_
+niedziela.nl###gk_banner
+nowagazeta.pl##DIV[class^="g-single a-"]
+nowemiasto.com.pl##IMG[width="300"][height="125"]
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.cs > A:-abp-has(.mark
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.kd_ns_box:-abp-has(.kd_ns_sponsored:-abp-contains(Sponsorowane))
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow":-abp-has(.oznaczenie)
+obalamyglupote.pl###Image2
+obalamyglupote.pl###Image3
+ogrodnikleszek.pl###pasaz-ad
+pannamloda.com##A[href="reklama.html"]
+parenting.pl##.kd_ns_box > A[rel="nofollow"]
+pl.hospitalby.com##.adsense
+planetakobiet.com.pl##.banerDiv
+poloniusz.pl##DIV[style^="width:194px;"]
+polskiprzemysl.com.pl##.rekalmy_sidebar
+portaltatrzanski.com##.moduletablepromo-baner
+prawdaobiektywna.pl##.kd_ns_ads
+prawicowyinternet.pl##.advContainer
+puszczawkrzanska.pl##.slides
+queer.pl##.box-adv
+queer.pl##A[rel="nofollow"]
+radiovia.com.pl##.sponsorzy
+radiozet.pl##.advert
+resellernews.pl##.td-a-rec
+sennik-mistyczny.pl##A[href="https://www.sennik-mistyczny.pl/click/click.php?id=13"]
+sportfakty.pl###weptile-image-slider-widget-2
+spottedlublin.pl##.widget_singlead
+studialicencjackie.info##.wo_rek FONT[size="5"]
+studialicencjackie.info##A[href^="http://studentnews.pl/klik.php?b="]
+studialicencjackie.info##A[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+tarnow.in###adLink5
+tarnow.in##IMG[alt="Baner"]
+tczewska.pl##.kd_ns_ads
+tvpogranicze.pl##.kd_ns_ads
+tygodnik-rolniczy.pl##.advert
+tygodnik-rolniczy.pl##.box-bnn
+tygodnikponidzia.pl##LI[id^="bunyad_ads_"]
+ulub.pl##DIV[class^="ads_"]
+urodaizdrowie.pl##.aleja-handlowa
+urodaizdrowie.pl##A[href^="http://www.medica2000.com.pl"]
+urodaizdrowie.pl##A[href="https://darmowisko.pl"]
+urodaizdrowie.pl##A[href="https://oladi.pl"]
+urodaizdrowie.pl##DIV[class^="g-dyn a-"]
+urodaizdrowie.pl##DIV[class^="g-single a-"]
+wadowiceonline.pl##.nspArts
+wadowiceonline.pl###jmMobile
+webniusy.com##.kd_ns_ads
+wirtualnygarwolin.pl###sbox-overlay
+wirtualnygarwolin.pl###sbox-window
+wnet.fm##.prom-block
+zamkipolskie.com##A[href="http://www.ChataAleLipa.pl"]
+zamkipolskie.com##A[href="http://www.villagreta.pl"]
+zaspa24.pl##DIV[class^="e3lan"]
+zinfo.pl##.block-ads-wrapper
+zw.com.pl##.advContainer
+zywawiara.pl##.dobrodzieje
