@@ -951,3 +951,4 @@ zaspa24.pl##DIV[class^="e3lan"]
 zinfo.pl##.block-ads-wrapper
 zw.com.pl##.advContainer
 zywawiara.pl##.dobrodzieje
+portel.pl##DIV[class^="divBa"]
