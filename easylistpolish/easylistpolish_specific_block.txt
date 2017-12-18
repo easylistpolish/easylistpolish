@@ -944,3 +944,4 @@ _reklama.$domain=radomsport.pl
 ^reklama-$domain=sweetwedding.pl
 ^rotator^$domain=gorzowianin.com
 ^wordwwwpunkty.$domain=7dni.pila.pl
+||portel.pl/R1^
