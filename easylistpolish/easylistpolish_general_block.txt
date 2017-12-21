@@ -1,3 +1,4 @@
 /adserwer.
 ^sidebar_reklama^
 ^reklamy^
+=adv/GetAdvertisment|
