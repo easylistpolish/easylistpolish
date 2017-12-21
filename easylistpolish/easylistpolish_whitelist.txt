@@ -60,3 +60,14 @@
 @@||strzelecopolski.pl^*^zdrowiej.
 @@||sweetwedding.pl^*^Miejsce-na-
 @@||zarzadca.pl^*^zarzadca.
+@@_300x600.$domain=polishexpress.co.uk
+@@^albumtp.$domain=tygodnikpodhalanski.pl
+@@^baner-tp.$domain=tygodnikprudnicki.pl
+@@^broszurabaner2.$domain=tygodnikpodhalanski.pl
+@@^pozegnania300x90.$domain=tygodnikpodhalanski.pl
+@@^reklama.$domain=tygodnikprudnicki.pl
+@@||bosonamacie.pl^*^Sylwester-2017-
+@@||ivrozbiorpolski.pl^*_donate_
+@@||korso.pl^*^lko327a.
+@@||legitymizm.org^*^gabis-
+@@||nowywyszkowiak.pl^*^173.
