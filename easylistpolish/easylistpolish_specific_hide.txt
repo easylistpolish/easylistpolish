@@ -952,3 +952,144 @@ zinfo.pl##.block-ads-wrapper
 zw.com.pl##.advContainer
 zywawiara.pl##.dobrodzieje
 portel.pl##DIV[class^="divBa"]
+alebank.pl##.advert
+android.com.pl##.vertical-banner
+audio.com.pl##.advcode
+auto-land.pl###banner
+bobowa24.pl##DIV[class^="g-single a-"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1828/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1857/"]
+cosmopolitan.pl##.kd_ns_box > A[rel="nofollow"]
+cosmopolitan.pl##A[rel="nofollow"] + .kd_ns_lead
+demoty.pl##.ad
+doba.pl##A[href^="http://beta.doba.pl/adserver/"]
+dobrymechanik.pl##.block-ads-billboard
+dostawczakiem.pl##.dosta-widget
+dostawczakiem.pl###reklamowkaTop
+dziennikelblaski.pl##.kd_ns_box > A[rel="nofollow"]
+dziennikelblaski.pl##A[rel="nofollow"] + .kd_ns_lead
+e-kg.pl##.banner-in
+e-kg.pl##A[href="https://www.facebook.com/bricokolobrzeg/"]
+edziecko.pl##.cg2-ad
+egit.pl##.ad
+ekologia.pl##.sec-pasaz
+elblag.net##.banera1
+em.kielce.pl##.module_banner
+gadzet.telchina.pl###text-11
+gadzet.telchina.pl###text-7
+gazetaklobucka.pl###text-21
+gazetaklobucka.pl###text-3
+gazetaklobucka.pl##DIV[id^="gazet-"]
+gexe.pl###ads
+glamour.pl##.tracdelight-box
+ilovenysa.pl##.aas_zone
+infokatowice.pl##.td-a-rec
+infolinia.com##.banneritem
+infoprzasnysz.com##.e3lan-top
+infoprzasnysz.com##IMG[width="660"]
+infor.pl#?#.kd_ns_box:-abp-has(.kd_ns_sponsored:-abp-contains(Sponsorowane))
+ipolska24.pl##.ad
+kazimierzdolny.pl##.ad--main
+kierunekenergetyka.pl##.ads-box-inverted
+kochamrzesy.pl##.ads
+kociewiak.pl##.kd_ns_box > A[rel="nofollow"]
+kociewiak.pl##A[rel="nofollow"] + .kd_ns_lead
+komorkomania.pl##.insert--top-offer
+kongresszefowkuchni.pl##.column_attr
+kongresszefowkuchni.pl##.column_trailer_box
+korso.pl##.kd_ns_box > A[rel="nofollow"]
+korso.pl##A[rel="nofollow"] + .kd_ns_lead
+koscierzyna24.info##.advContainer
+lebork24.info##.banner-box
+lebork24.info###banner-main
+lebork24.info###banner-main2
+lebork24.info###bottom-banner
+lifebymarcelka.pl###Image2
+log4.pl##.grafikaKlienta
+logistyczny.com##.banneritem
+logo24.pl##.mod_uzr_ecommerce
+lubiehrubie.pl##.jcarousel-container
+macronext.pl###banner-box
+magazynbieganie.pl##.top-banner
+magazynbiomasa.pl##.header-promo
+majsterkowo.pl##.patronpod
+metropoliabydgoska.pl##DIV[class^="g-dyn a-"]
+mgsm.pl###ceneo
+mojeniemcy.de##.baner_top
+money.pl###ADrail
+naszemiasto.pl#?#.elementListy:-abp-has(.artSpons)
+naszemiasto.pl##.flatFee__bannerContainer
+naszemiasto.pl##.sbGry
+nieplodnirazem.pl##.popmake-overlay
+nowawrzesnia.pl##.banneritem
+nowawrzesnia.pl##A[href="http://monetia24.com"]
+nowawrzesnia.pl##A[href="https://inbankpolska.pl/kredyty/kredyt-samochodowy/"]
+noweinfo.pl##.td-a-rec
+nowywyszkowiak.pl##.link_bg
+nowywyszkowiak.pl##.medium_baner
+oknonet.pl###mainbaner
+onet.pl##DIV[class^="g-single a-"]
+outrave.net##.news-post__ad
+patabloguje.pl###Image1
+patriot24.net##.adbox
+patriot24.net##DIV[style^="background-color: #F0F0F0"]
+pilkanozna.pl###bglink
+pogonszczecin.pl##.adv
+portalniezalezny.pl##.kd_ns_box > A[rel="nofollow"]
+portalniezalezny.pl##A[rel="nofollow"] + .kd_ns_lead
+portalpolski.pl##.info_rekl
+portaltenisowy.info##.header--advert
+portaltenisowy.info##.sidebar__advert--med
+portaltenisowy.info##DIV[class^="banner"]
+praca-niemcy24.pl##.adblock
+pudelekx.pl###adv03
+pzl24.pl##.kd_ns_box > A[rel="nofollow"]
+pzl24.pl##A[rel="nofollow"] + .kd_ns_lead
+q4.pl###bglink
+radio90.pl##IMG[width="300"]
+radiooko.pl##.banneritem
+radiowarszawa.com.pl##.vc_single_image-wrapper
+regionfan.pl##.kd_ns_box > A[rel="nofollow"]
+regionfan.pl##.rekl
+regionfan.pl##A[rel="nofollow"] + .kd_ns_lead
+regiopraca.pl##.advContainer
+rsm-budowlani.com.pl##A[href^="https://mieszkania.uniqa24.pl/"]
+rzeszowairport.pl##.banners-content
+streetwearhypeclub.com##.td-a-rec
+styl.fm##.kd_ns_box > A[rel="nofollow"]
+styl.fm##A[rel="nofollow"] + .kd_ns_lead
+tarnobrzeskie.eu###text-23
+telewizjazary.pl##.advContainer
+tenis.net.pl##.banhead
+tenis.net.pl##.bansc
+tenis.net.pl##.banstrefa
+tenis.net.pl##.td-a-rec
+topagrar.pl##.box-bnn
+tv-wschod.pl##.kd_ns_box > A[rel="nofollow"]
+tv-wschod.pl##A[rel="nofollow"] + .kd_ns_lead
+twojeuk.pl##.top_banner
+tygodnikprzeglad.pl##A[title="REKLAMA"]
+tygodniksiedlecki.com##.baner-text
+v.wpimg.pl##DIV[onclick="window.open(clickTag, '_blank')"] > #canvas
+wdolnymslasku.com##.td-a-rec
+wiadomoscihandlowe.pl##.baner
+wirtualnyregion.pl###cycloneslider-fire-eco-9
+wirtualnyzgierz.pl##.reklama_head
+wirtualnyzgierz.pl###baner_dol
+wirtualnyzgierz.pl###baner-gora
+wirtualnyzgierz.pl###baner-gora1
+wirtualnyzgierz.pl##IMG[width="750"]
+wizaz.pl##.zalando-placeholder
+wm.pl##.kd_ns_box > A[rel="nofollow"]
+wm.pl##A[rel="nofollow"] + .kd_ns_lead
+wochenblatt.pl###custom_post_widget-8
+wp.pl#?#aside:-abp-contains(Reklama) + IFRAME
+wronieckibazar.pl##.fright
+wronieckibazar.pl##.fright + DIV
+wronieckibazar.pl##.fright + DIV + DIV
+wronieckibazar.pl##A[rel="noopener"]
+wrzesnia.info.pl##.links
+zakazany-humor.pl##.advContainer
+zwrotnikraka.pl##.header-banner-image
+zwrotnikraka.pl###text-6
+zwrotnikraka.pl###text-7
