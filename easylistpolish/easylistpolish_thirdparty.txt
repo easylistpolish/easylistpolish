@@ -1,6 +1,7 @@
 ! Popads domains
 .com^$script,third-party,domain=kinoman-tv.pl
 !
+||ad.admitad.com^$third-party
 ||ad.e-lider.pl^$third-party
 ||ad.eko-7.com.pl^$third-party
 ||aff.bstatic.com/static/affiliate_base/js/booking_sp_widget$script,third-party
@@ -26,4 +27,3 @@
 ||thc-thc.com/reklamy^$third-party
 ||tja.pl^*^banerki$third-party
 ||tmefekt.pl/static/widget$third-party
-||ad.admitad.com^$third-party
