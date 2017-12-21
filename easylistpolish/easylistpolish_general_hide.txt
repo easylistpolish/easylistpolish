@@ -13,3 +13,6 @@
 ##DIV[onclick^="update_ad("]
 ##.adocean_billboard
 ##LI[data-title="Sponsorowane"]
+##.box-reklama
+##.rekl_srod_top
+###ads_under_article
