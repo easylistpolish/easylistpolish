@@ -71,3 +71,15 @@
 @@||wpr24.pl^*^katalog.
 @@||zarzadca.pl^*^zarzadca.
 @@||zycie.pl^*^138^
+@@^reklamy^$domain=wydawnictwowam.pl
+@@||muzyczneradio.com.pl^*^1514022547.
+@@||sokolka.tv^*_ulotka_oferta_
+@@||sokolka.tv^*^efrrow.
+@@||sokolka.tv^*^filmy_
+@@||sokolka.tv^*^idealan.
+@@||sokolka.tv^*^leader.
+@@||sokolka.tv^*^naszeReklamowe^
+@@||sokolka.tv^*^prow.
+@@||walbrzych.pl^*^banners^*^FB.png
+@@||walbrzych.pl^*^banners^*^kontakt.
+@@||wrc.net.pl^*^banner_2018_
