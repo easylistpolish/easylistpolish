@@ -986,3 +986,99 @@ wp.pl#?#aside:-abp-contains(Reklama) + IFRAME
 wp.pl#?#div:-abp-contains(REKLAMA) + DIV > A
 wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
 interia.pl#?#LI:-abp-has(.tile-magazine-category:-abp-contains(SPONSOROWANE))
+24gliwice.pl###vce_adsense_widget-5
+4wymiar.pl##.loc1
+asta24.pl##.adv
+autocentrum.pl##IMG[src^="data:image/png;base64,"]
+biegowelove.pl###HTML10
+biegowelove.pl###HTML6
+cannabisnews.pl##.snp-builder
+cannabisnews.pl##.snp-overlay
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1872/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1880/"]
+charaktery.eu##.advContainer
+crowdmedia.pl##.kd_ns_box > A[rel="nofollow"]
+crowdmedia.pl##A[rel="nofollow"] + .kd_ns_lead
+demotywatory.pl##.kd_ns_box > A[rel="nofollow"]
+demotywatory.pl##A[rel="nofollow"] + .kd_ns_lead
+doba.pl##.banner750x200
+dobreprogramy.pl#?#*:-abp-has(> A[href="#"][title="Zamknij"])
+dynacrems.wp.pl##DIV[class^="shop-"]
+dziel-pasje.pl^*^red_planet^
+e-kolo.pl##IMG[style^="margin-top: 10px;"]
+e-kolo.pl##IMG[style^="max-width: 100%;"]
+epainfo.pl##[class^="g-single a-"]
+eurologistics.pl##.baner_top
+eurologistics.pl##.reklamka_sidebar
+expressilustrowany.pl##.cs
+expressilustrowany.pl##LI.cs
+firmylesne.pl##.baner_300
+firmylesne.pl##.baner_980
+fotoblogia.pl#?#div:-abp-contains(REKLAMA) + DIV > A
+gazeta-mosina.pl##A[rel="nofollow noopener"]
+gazetalubliniecka.pl##.pum-overlay
+gazetaolsztynska.pl##.kd_ns_box > A[rel="nofollow"]
+gazetaolsztynska.pl##A[rel="nofollow"] + .kd_ns_lead
+gazetaprawna.pl#?#DIV:-abp-has(> A + H3 + SPAN)
+globenergia.pl##.ads
+glosludu.cz##.banner
+gsmmaniak.pl##.anal-post-popularne
+info-ostroleka.pl##A[id^="reklama"]
+informatorbrzeski.pl##DIV[class^="g-single a-"]
+innpoland.pl##.kd_ns_box > A[rel="nofollow"]
+innpoland.pl##A[rel="nofollow"] + .kd_ns_lead
+ironmangdynia.pl##.adverts-sidebar
+joemonster.org##.advContainer
+komercyjne.pl##.bb-ad-outer
+konecki24.pl###gk-banner-top
+korsosanockie.pl##.kd_ns_ads
+koscierzyna24.info##.kd_ns_ads
+kronikatygodnia.pl##.kd_ns_ads
+littletownshoes.com###media_image-3
+lsi-lublin.pl###poster
+lsi-lublin.pl##A[href="http://www.bajka-krynica.pl/"]
+mojaniderlandia.pl##.top_banner
+msfera.pl##.bannergroup
+myslenice-itv.pl##DIV[class^="reklama_"]
+naekranie.pl##DIV[style$="-webkit-calc(100vh + 61px); position: fixed;"]
+naszemiasto.pl##.cs
+naszemiasto.pl##LI.cs
+niewiarygodne.pl#?#div:-abp-contains(REKLAMA) + DIV > A
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl##.kd_ns_box > A[rel="nofollow"]
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl##A[rel="nofollow"] + .kd_ns_lead
+ofeminin.pl###sponsDiv
+opowiecie.info##LI[id^="bunyad_ads_widget-"]
+otworzsiena.pl#?#div:-abp-contains(REKLAMA) + DIV > A
+pch24.pl##A[href^="http://multibook.pl/"]
+plotek.pl##.cg2-ad
+podgorze.pl##DIV[style^="width: 250px; height: 136px"]
+pultusk24.pl##.art-reklama
+pultusk24.pl###top-reklama
+pzmtravel.com.pl##.hidden-sm
+realizator.pl##.fixed-advert-container
+realizator.pl##DIV.m-advert
+realizator.pl##DIV[class^="advert"]
+regiodom.pl##.advContainer
+rzeszowiak.pl##.header-wizytowki
+sklep-militarny.com.pl##.Reklamy
+slupca.pl##DIV[class^="google-ad-"]
+sniadaniezkadra.onet.pl##.evp-row
+spottedlublin.pl##.g1-advertisement
+supertydzien.pl##IMG[alt$="_reklama"]
+szczecinek.com###top-reklama
+telemagazyn.pl##LI > A[rel="nofollow"]
+tur-info.pl###ogloszenia_nonav
+tvkstella.pl###banners
+tvwlodawa.pl##A + A > IMG[width="300"]
+tvwlodawa.pl##DIV[id^="layerslider_"]
+tygodnik-krapkowicki.info###sbox-overlay
+tygodnik-krapkowicki.info###sbox-window
+visitnorway.pl##.contentRender_name_plugins_dtn_ad
+viva.pl##.zalando-placeholder
+wavepc.pl##.wavep-widget
+wiadomosci.com##.kd_ns_box > A[rel="nofollow"]
+wiadomosci.com##.kd_ns_box > A[rel="nofollow"]
+wiadomosci.com##A[rel="nofollow"] + .kd_ns_lead
+wiadomosci.com##A[rel="nofollow"] + .kd_ns_lead
+zielonyogrodek.pl##.sponsored
