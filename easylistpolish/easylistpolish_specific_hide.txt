@@ -957,7 +957,7 @@ pzhkiperybnik.vgh.pl##marquee
 naszemiasto.pl#?#.elementListy:-abp-has(.artSpons)
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.cs > A:-abp-has(.mark
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.kd_ns_box:-abp-has(.kd_ns_sponsored:-abp-contains(Sponsorowane))
-nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow":-abp-has(.oznaczenie)
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has(.oznaczenie)
 meczenazywo.pl##ol[class^="cool-stuff"]
 gazetaprawna.pl##p[style="float:right; font-size:8px; color:gray; margin:0;"]
 wp.pl##samp + samp + div + div > style + div
