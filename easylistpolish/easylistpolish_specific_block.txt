@@ -331,7 +331,6 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||gazeta-mosina.pl^*^LOKALNA.
 ||gazeta-mosina.pl^*^mosina-lokal2-
 ||gazeta.pl/pub^
-||gazeta.pl^*^ad^
 ||gazetagazeta.com^*^Ellen_Jin.
 ||gazetatrybunalska.pl^*^Graffiti-pieczatki.
 ||gdanskstrefa.com^*^kancelaria_reprywatyzacyjna.
