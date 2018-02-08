@@ -1082,3 +1082,189 @@ wiadomosci.com##.kd_ns_box > A[rel="nofollow"]
 wiadomosci.com##A[rel="nofollow"] + .kd_ns_lead
 wiadomosci.com##A[rel="nofollow"] + .kd_ns_lead
 zielonyogrodek.pl##.sponsored
+24legnica.pl###text-4
+24legnica.pl###text-5
+24legnica.pl###text-8
+aleksandrowemysli.blogspot.com###Image1
+allaboutlife.pl##.carrie-ad-block
+appleworld.pl##.advContainer
+appleworld.pl###app-store-topcharts-3
+appleworld.pl###execphp-9
+bazarek.net.pl##.ad
+beerpubs.pl##.linkleft
+beerpubs.pl##.linkright
+bezux.pl##.kd_ns_box > A[rel="nofollow"]
+bezux.pl##A[rel="nofollow"] + .kd_ns_lead
+boardtime.pl###top-banner-ks
+bolec.info##.baner_max
+bolec.info##.centralBoard
+bolec.info##.leftBoard
+bryla.pl##.adviewDFPBanner
+bydgoszcz.com##.advert-B1
+calisia.pl##A[href^="http://www.antczak.pl/oferta-deweloperska"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1884/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1893/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1894/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1901/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1920/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1931/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1959/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1967/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneo.pl/data/small_widget/1972/"]
+chelmski.eu##.ad-single1
+codziennypoznan.pl##.ad
+custodianofmecatolrex.znadplanszy.pl###text-3
+cyberplotki.pl##.adtab + DIV.Contents
+cyberplotki.pl##.mainad
+cyfrowaekonomia.pl##.td-a-rec
+czestochowskie24.pl###text-75
+czestochowskie24.pl##A[href^="http://www.tauron-dystrybucja.pl/"]
+defence24.pl##.adv
+dingdog.pl###text-8
+dorzeczy.pl##.box-list-item-recommendation-content-stream
+dts24.pl##DIV[class^="g-single a-"]
+egryfino.pl##.ada
+eswinoujscie.pl##.ulp-overlay + .ulp-window
+eurobuildcee.com##DIV[id^="banner_area_"]
+evertiq.pl##.ad
+evertiq.pl##IMG[alt="reklama"]
+ezamosc.pl##.bannergroup
+ezamosc.pl##.bannergroupvertical
+faktykonopne.pl##.spu-bg
+faktykonopne.pl##.spu-box
+friko.net##.prezenty > .panel-body
+ftb.pl##.footav
+ftb.pl###billboard
+gazetabilgoraj.pl###top-reklama
+gazetalubliniecka.pl###text-9
+gazetalubliniecka.pl##DIV[style="margin-top: 75px; margin-bottom: 25px;"] > CENTER
+gksbelchatow.com##.itemBaners_img
+glogow-info.pl##TD[onclick="window.location.href='https://dastan.pl/';"]
+gloszabrza24.pl##.bannergroup
+gol.pl###slider-pro-2
+golfkcc.pl##.mp_advert1
+gostynska.pl##.advContainer
+gurbacka.pl##.advContainer
+haloursynow.pl##.baner
+haloursynow.pl##.spons
+harpersbazaar.pl##.kd_ns_box > A[rel="nofollow"]
+harpersbazaar.pl##A[rel="nofollow"] + .kd_ns_lead
+i-basket.pl##.td-a-rec
+igryfino.pl##.kd_ns_ads
+informacje.kolobrzeg.pl##.banneritem
+infoserwiselk.pl##.rek
+inowroclaw.info.pl###top-reklama
+instalki.pl###banner
+itvpolska.pl##.kleo_text_column:last-child
+itvpolska.pl##IMG[sizes="(max-width: 1440px) 100vw, 1440px"]
+jedziemynasycylie.pl##.bannergroup
+kochamrawe.pl##.bannery
+korso.pl##.advContainer
+korsokolbuszowskie.pl##.advContainer
+krawatimuszka.pl###widget_sp_image-6
+kronikatygodnia.pl##.advContainer
+krosno112.pl##.bannergroup
+laczynaspasja.pl###article-baner
+lalapalmala.pl##.advContainer
+lepiejbiegac.pl##.lepiej-content-3
+lepiejbiegac.pl##.lepiej-widget
+liderbudowlany.pl##.bt-banner
+lovekrakow.pl##A[data-advert-click]
+lowiczanin.info###text-2
+lowiczanin.info###text-4
+lubiehrubie.pl##.rek-text
+magazynszum.pl##.block_reklama_top
+mazowsze.travel##DIV[class="bannergroup border2"]
+metalnews.pl##A[class^="single_ad_"]
+mh24.pl##.advContainer
+miejscawewroclawiu.pl###banerId
+mma.pl##.ad
+mma.pl##.p2
+mma.pl##.p8
+mosir.ostrowiec.pl###sp-banery
+mosir.ostrowiec.pl###sp-user7
+mybank.pl###rek_prawe_menu
+narew.info##.advContainer
+nasze.fm##.clearfix + H6
+nasze.fm##.clearfix + H6 + A
+naszemiasto.pl##A[title="EZBUD"]
+nczas.com##.kd_ns_box > A[rel="nofollow"]
+nczas.com##A[rel="nofollow"] + .kd_ns_lead
+nowezyciepabianic.pl##.adv--top
+nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl##.cs
+nswiecie.pl##.td-banner-wrap-full
+o.pl###banner-czynszowy
+o.pl###billboard-container
+o.pl###button-czynszowy
+olalalchf.pl###text-2
+parenting.pl##A[rel="nofollow"] + .kd_ns_lead
+pfcc.eu##TABLE[width="212"]
+pies.pl##.top_banner_big
+pojechana.pl###text-58
+pojechana.pl###text-88
+polacy24.de##.commercial
+polki.pl##.zalando-placeholder
+poradnia.pl##.bannergroup
+portalpomorza.pl##.advContainer
+portalprzemyski.pl##DIV[class^="g-single a-"]
+pracujwlogistyce.pl##.banner-1
+przedreptacswiat.pl###black-studio-tinymce-5
+przyjacielprzypracy.pl^*_969x90.
+psychatog.pl#?#H3:-abp-contains(Reklamy) + .textwidget
+pzl24.pl##.advContainer
+radiosud.pl##.banner-container
+radom24.pl##.reklama-top
+radom24.pl##.skyscaper
+rap-news.eu##.td-header-sp-recs
+rap-news.eu###stb-34218
+rawicz24.pl##.advContainer
+rmf.fm##.advContainer
+roland-gazeta.pl##.advContainer
+rolniczeabc.pl##.advContainer
+rynek-kolejowy.pl##.advContainer
+rzeszow-news.pl##.reklama_gora
+samequizy.pl##.advContainer
+silacze.org###tri-mot
+smartage.pl###text-17
+sport.lovekrakow.pl##.rek
+stereoikolorowo.blogspot.com###crosscol-overflow
+stereoikolorowo.blogspot.com###Image10
+stereoikolorowo.blogspot.com###Image12
+stereoikolorowo.blogspot.com###Image13
+stereoikolorowo.blogspot.com###Image14
+stereoikolorowo.blogspot.com###Image5
+stereoikolorowo.blogspot.com###Image7
+swieradowzdroj.pl###ads
+szkola8.torun.pl##.banners
+sztuka.net##DIV[style^="position: absolute;float: right;"]
+szukajacprzygody.pl###text-9
+tczewska.pl##.advContainer
+telemagazyn.pl##.advContainer
+temysli.pl##.advContainer
+thefad.pl##.advContainer
+transfermarkt.pl##DIV[class^="werbung"]
+transport-publiczny.pl##.advContainer
+turek.net.pl##.BanerP
+tuwodzislaw.pl##.addv-container
+tvbogatynia.pl##.kd_ns_ads
+tvn.pl##.advContainer
+tvpogranicze.pl##.advert-A1
+wciazy.familie.pl##.advContainer
+wiemy.to##.advContainer
+wirtualnygarwolin.pl##.advContainer
+woda-scieki.com###advertbox
+wp.pl#?#div:-abp-contains(REKLAMA) + DIV
+wzielonej.pl##.stream-item-below-post
+zambrowiacy.pl###sponsorbox
+zambrowiacy.pl###topbanner
+zaorane.com##.kd_ns_ads
+zebrra.tv##.sam-container
+zielonanews.pl##DIV[class^="g-single a-"]
+zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
+zpopk.pl###text-15
+zumi.pl##.promotion
+zumi.pl##.zumi-ads-top
+zw.com.pl##.sponsoredArticle
+zwrotnikraka.pl###custom_html-7
+zyciezamoscia.pl###text-42
+zyciezamoscia.pl###text-54
