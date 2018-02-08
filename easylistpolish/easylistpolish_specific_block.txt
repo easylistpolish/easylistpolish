@@ -800,7 +800,7 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||satkurier.pl/banery^
 ||shoplov.in^$domain=babyonline.pl
-||slideplayer.pl/sli$first-party,image
+||slideplayer.pl/sli$f~third-party,image
 ||slowo.art.pl^*^banners/banner_
 ||sloworegionu.pl^*^alior300x250.
 ||smakizdrowie.pl^*^lfcc.
