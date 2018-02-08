@@ -7,3 +7,5 @@
 ||lexus-krakow.com.pl^$popup,domain=podhale24.pl
 ||mp3s.pl^$popup,domain=aleryje2.prv.pl
 ||mp3va.com^$popup,domain=aleryje2.prv.pl
+||reeco.info.pl^$popup,domain=evertiq.pl
+||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
