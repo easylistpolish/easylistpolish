@@ -1253,7 +1253,7 @@ wciazy.familie.pl##.advContainer
 wiemy.to##.advContainer
 wirtualnygarwolin.pl##.advContainer
 woda-scieki.com###advertbox
-wp.pl#?#div:-abp-contains(REKLAMA) + DIV
+wp.pl#?#DIV + DIV + div:-abp-contains(REKLAMA) + DIV
 wzielonej.pl##.stream-item-below-post
 zambrowiacy.pl###sponsorbox
 zambrowiacy.pl###topbanner
