@@ -100,3 +100,14 @@
 @@||sportsiedlce.pl^*^Centrum.
 @@||sportsiedlce.pl^*^Reklamuj-
 @@||zppa.org^*^1170px^
+@@_1200px_x_240px.$domain=tygodnik.szczytno.pl
+@@_300x600.$domain=eurobuildcee.com
+@@||ikamien.pl^*^banery/ik^
+@@||infotydzien.info^*^Twoja%20reklama.
+@@||naklo24.pl^*^adv_1465.
+@@||networkmagazyn.pl^*^grupamlm_
+@@||perspektywy.pl^*-ranking-
+@@||perspektywy.pl^*^298f95e1bf9136124592c8d4825a06fc.
+@@||perspektywy.pl^*^d64a340bcb633f536d56e51874281454.
+@@||team29er.pl^*^fr234a.
+@@||tysol.pl^*^reklamaPhoto/40|
