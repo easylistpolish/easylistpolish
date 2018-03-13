@@ -1268,3 +1268,180 @@ zw.com.pl##.sponsoredArticle
 zwrotnikraka.pl###custom_html-7
 zyciezamoscia.pl###text-42
 zyciezamoscia.pl###text-54
+2x45.info##.system_banner
+a6klub.pl##.arek
+asta24.pl##DIV[class^="g-single a-"]
+autokult.pl##.dbb_Container
+banita.travel.pl##.vce-sticky
+bankier.pl##A[href^="https://www3.smartadserver.com/"]
+bb365.info##.reklamki
+bb365.info###bsa-html
+bezuzyteczna.pl##.advContainer
+bucks.pl###media_image-2
+bucks.pl###media_image-4
+careerbreak.pl###text-20
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1922/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1980/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1981/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1984/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1987"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1989/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1992/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1993/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/1995/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2003/"]
+centrumdruku3d.pl##A[onclick^="_gaq.push(['_trackEvent', 'Banners'"]
+chcemybycrodzicami.pl##.the-a
+cnc.info.pl##.phpbb-ads-center
+cnc.info.pl##.reklama-top
+czecho.pl##.blok-r
+damitv.pl##.advert-A1
+damitv.pl##.advert-A2
+damitv.pl##.advert-B1
+damitv.pl##.advert-B2
+damitv.pl##.kd_ns_ads
+devilpage.pl###menu_bannerki
+di.com.pl##.cs_ads_r
+disco-polo.info###smartserwer_adv2
+dobraciotka.pl##.advContainer
+dodr.pl##.reklama_lewa4
+dzieci.org.pl###ad_overall_banner_1
+dzieckoifigura.pl##.advContainer
+dziennik.pl##.advContainer
+dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
+e-widuchowa.pl##.advContainer
+e-widuchowa.pl##.advert-A2
+e-widuchowa.pl##.advert-B1
+e-widuchowa.pl##.advert-B2
+e-widuchowa.pl##.bgad
+e-wyszogrod.pl###top-reklama
+egaga.pl##DIV[class^="g-single a-"]
+ehumor.pl##.advContainer
+erawa.pl##.sam-container
+extra-plonsk.pl##.advContainer
+faktopedia.pl##.advContainer
+fdb.pl##.ads
+filing.pl##.advContainer
+fitwiedza.pl##.advContainer
+forum.nissanklub.pl##.iParts_Ad1
+fotoblogia.pl##.dbb_Container
+futbolowo.pl##.advContainer
+gadzetomania.pl##.dbb_Container
+gazetaklobucka.pl##DIV[id^="popmake"]
+golub-cgd.pl###top-reklama
+goryiludzie.pl##.rad
+gostynin.info##.section-billboard
+gostynin.info##.section-offers-carousel
+gostynin.info##.section-offers-grid
+gramatyka-angielska.info##.s_dodatkowa FONT[size="5"]
+gramatyka-angielska.info##A[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+grupyogrodnicze.pl##.blok_reklam
+historykon.pl###text-3
+icelandnews.is###ads-top-1-header
+icelandnews.is###ads-top-2-header
+ikmag.pl##.ad_container_bottom
+ikmag.pl##.thb_ad_header
+ikmag.pl###text-2
+infoarchitekta.pl##.rek_baner
+informacjelodzkie.pl##.banners
+infoskierniewice.pl##.a-single
+infoskierniewice.pl##DIV[class^="g-single a-"]
+inthecage.pl##.td-a-rec
+jarek-kefir.org##.wpcnt
+jarock.pl##.a-d-banner-medium
+jejswiat.pl##.dbb_Container
+kanonierzy.com##.banner2
+kk24.pl##.kk24_rk
+kobiecyhumor.pl##.advContainer
+kobiecymagazyn.pl##.advContainer
+kozaczek.pl##.advContainer
+krasnik24.pl##.djslider
+kuriermlawski.pl##.advContainer
+kwidzyn1.pl##.advContainer
+laboratoria.net##.mainbanner
+laboratoria.net###box40
+laczynaspasja.pl###promocodeBaner
+legnica24h.pl##.container-advert-top
+lokalnatelewizja.pl##.advContainer
+lokalnatelewizja.pl##.advert-B2
+magazynvip.pl##.widget_black_studio_tinymce
+mediagroupinfo.pl##.cycloneslider
+mensis.pl###custom_html-4
+mklr.pl##.advContainer
+moja24.pl##.td-a-rec
+money.pl##.dbb_Container
+moto.wp.pl###aSlot3
+motocaina.pl##.mc-inline-advert
+motywacjanonstop.pl##.advContainer
+nadzagozdzonka.pl###banner_wrap
+nmketrzyn.pl###media_image-13
+nmketrzyn.pl###media_image-14
+nowywyszkowiak.pl##DIV[class$="_baner"]
+nswiecie.pl##DIV[class^="g-single a-"]
+o2.pl#?#DIV > DIV:first-child:-abp-contains(REKLAMA) + DIV
+opowiastka.com##.advContainer
+pakerzy.org###middleR
+piekielni.pl##.advContainer
+pogodnie.pl###adv03
+polskikosz.pl##.reklamalogo
+polskikosz.pl##.reklamalogo
+polygamia.pl##.adwordbackground
+pomponik.pl#?#LI:-abp-has(> DIV > DIV > A:-abp-contains(SPONSOROWANE))
+popularne.pl##.advContainer
+popularne.pl##.devel-billboard
+powrotroberta.blogspot.com###Image2
+prestizgliwice.pl##.header-banner
+propertynews.pl##.adv
+propertynews.pl##DIV[class^="adv"]
+pudelek.pl##.dbb_Container
+q4.pl##.ads-container
+radioostrowiec.pl##.widgettitle-reklama
+radioostrowiec.pl##.widgettitle-reklama + A
+radiosochaczew.pl##.advContainer
+radiosud.pl##.banner
+rankinglekarzy.pl##.ads-slot
+rmfmaxxx.pl##.advContainer
+samequizy.pl##.ad
+seksimama.pl##.advContainer
+slideplayer.pl##DIV[style$="cursor: pointer; border-radius: 3px;"]
+slowopodlasia.pl##.advContainer
+sporteuro.pl##[class^="g-dyn a-"]
+sportgliwice.pl##.td-a-rec
+sportowememy.pl,xgol.pl##.duzybaner
+starachowice-net.pl###r2
+starachowice.pl##.advContainer
+superniusy.pl##.advContainer
+synonimiczny.pl##.ads
+tabletowo.pl##.sid_rek
+telefonowal.pl##.col-md-3.right > H4
+theillest.pl##.td-a-rec
+trybun.org.pl##.widget_widget_simplecatch_adspace_widget
+tustolica.pl##.adslot_left
+tustolica.pl##.adslot_top
+tustolica.pl##.bimg
+tv-wschod.pl##.advContainer
+tvsudecka.pl##.advContainer
+twojmedyk.pl###text-8
+twojradom.pl###top-reklama
+tysol.pl##.rekl_box
+tysol.pl##IMG[alt="reklama_pionowa"]
+udostepniane.pl##.advContainer
+vipmultimedia.pl##DIV[class^="g-dyn a-"]
+vipmultimedia.pl##DIV[class^="g-single a-"]
+wgmedia.eu##.bannergroup
+widzewiak.pl##.advContainer
+wikirose.pl###HTML14
+wikirose.pl###HTML15
+wirtualnyregion.pl##.widget_cyclone-slider-widget
+wlkp24.info##.td-a-rec
+wlukowie.pl###text-6
+wodnyrelax.pl###main2
+wp.pl##.dbb_Container
+wrc.net.pl##DIV[class^="g-dyn a-"]
+wsieci24.pl##.advContainer
+wyznajemy.pl##.advContainer
+zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
+zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
+zkrainynba.com##.advertise-title
+zkrainynba.com##.advertise-title + .advertise-container
+zmianynaziemi.pl###block-block-27
