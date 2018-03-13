@@ -11,6 +11,7 @@
 ##.ncwAdCommon
 ##.rekl_srod_top
 ##.reklama-post
+##.reklama-wtekscie
 ##a[href^="http://czasdzieci.pl/adurl"]
 ##a[href^="http://rtb.4finance.com/click/"]
 ##a[href^="http://wlbetathome.adsrv.eacdn.com"]
