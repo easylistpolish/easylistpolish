@@ -983,8 +983,8 @@ forum-brukarskie.pl##td[width="120"]
 dziennikplocki.pl##ul[id^="campaign"]
 wp.pl#?#aside:-abp-contains(Reklama) + DIV
 wp.pl#?#aside:-abp-contains(Reklama) + IFRAME
-wp.pl#?#div:-abp-contains(REKLAMA) + DIV > A
-wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
+!wp.pl#?#div:-abp-contains(REKLAMA) + DIV > A
+!wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
 interia.pl#?#LI:-abp-has(.tile-magazine-category:-abp-contains(SPONSOROWANE))
 24gliwice.pl###vce_adsense_widget-5
 4wymiar.pl##.loc1
@@ -1253,7 +1253,7 @@ wciazy.familie.pl##.advContainer
 wiemy.to##.advContainer
 wirtualnygarwolin.pl##.advContainer
 woda-scieki.com###advertbox
-wp.pl#?#DIV + DIV + div:-abp-contains(REKLAMA) + DIV
+!wp.pl#?#DIV + DIV + div:-abp-contains(REKLAMA) + DIV
 wzielonej.pl##.stream-item-below-post
 zambrowiacy.pl###sponsorbox
 zambrowiacy.pl###topbanner
