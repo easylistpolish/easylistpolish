@@ -1,2 +1,1 @@
-@@://adv.$popup,domain=abczdrowie.pl|snobka.pl|o2.pl|kardiolo.pl|jejswiat.pl|pudelek.tv|money.pl|komorkomania.pl|fotoblogia.pl|pudelek.pl|pudelekx.pl|medycyna24.pl|echirurgia.pl|kafeteria.pl|kciuk.pl|kowbojki.pl|luxlux.pl|nerwica.com|open.fm|planowo.pl|pogodnie.pl|pytamy.pl|smog.pl|pinger.pl|wp.pl|samosia.pl
-
+@@://adv.$popup,domain=abczdrowie.pl|echirurgia.pl|fotoblogia.pl|jejswiat.pl|kafeteria.pl|kardiolo.pl|kciuk.pl|komorkomania.pl|kowbojki.pl|luxlux.pl|medycyna24.pl|money.pl|nerwica.com|o2.pl|open.fm|pinger.pl|planowo.pl|pogodnie.pl|pudelek.pl|pudelek.tv|pudelekx.pl|pytamy.pl|samosia.pl|smog.pl|snobka.pl|wp.pl
