@@ -1445,3 +1445,136 @@ abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komork
 abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl###sgwp_screening_topnews
 abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl###aSlot3
 abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl#?#DIV:-abp-contains(REKLAMA) + DIV > IFRAME
+24opole.pl##.dd
+7dnikalisza.com##.ad-small
+autokult.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
+autokult.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
+beskidy.news##.o-promo
+bezprawnik.pl##.ad_desktop_loader
+bryk.pl##.advert-right-wrapper
+budujzdrewna.pl###text-6
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2007/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2010/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2012/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2013/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2017/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2018/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2022/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2024/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2055/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2065/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2078/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2080/"]
+ddb24.pl###top-reklama
+disco-polo.info##.top-advertisment
+disco-polo.info##SPAN[style^="text-transform:uppercase"]
+dobreprogramy.pl##[class^="__bc_layer_"]
+dts24.pl##.header-banner
+dziennikpowiatowy.pl,nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl##.advContainer
+e-sadownictwo.pl##.bannergroup
+e-tlumacze.net##.section-banner
+efilmy.tv##.addbackground
+elektroda.pl##.words-cp
+elle.pl###tracdelight
+elubaczow.com##.td-image-box-row
+eszkola.pl##.spolecznoscinet
+faktykonopne.pl##.ads-desktop
+felcia.co.uk##.mfp-ready
+felcia.co.uk###commercial
+gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
+gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
+glospowiatusredzkiego.pl##.banneritem
+goal.pl###link_sponsor
+gol24.pll#?#.cs > A:-abp-has(.mark)
+gostynska.pl##.banera1
+gry-online.pl###ws-cnt
+hi-fi.com.pl##.bannergroup
+infoilawa.pl##.baner
+interameryka.com##.td-a-rec
+jasnet.pl###adBox1
+jelonka.com##.rpre_tlo
+jelonka.com##DIV[style$="solid #000;padding:1px 5px 2px"]
+karpacz.net###oskar
+kobieta.pl##.tracdelight-box
+kobiety-kobietom.com###Reklama
+kochamyzwierzaki.pl##.advContainer
+kociewiak.pl##.advContainer
+lpu24.pl##.master-slider-parent
+luzyce.info###text-23
+makelifeeasier.pl##TABLE[style^="width:188px;border:1px"]
+medonet.pl##.Block-Banner
+minskmaz.com###g-a-s
+nadwisla24.pl##.banner
+naekranie.pl##DIV[style^="max-width: 1230.077px;"]
+naekranie.pl##DIV[style$="height: -webkit-calc(100vh + 0px); position: fixed;"]
+naekranie.pl##IMG[src^="https://bs.serving-sys.com/serving/adServer."] + DIV > DIV > A
+naszemiasto.pl#?#A:-abp-has(> DIV + h3 + .artSponsorowany)
+onet.pl##.advContainer
+onet.pl##A[href^="http://csr.onet.pl/adclick/"]
+onetontour.pl##.test-drive-banner
+oswieciminfo.pl##.banners
+otososnowiec.pl##.banners
+otososnowiec.pl##.bnr-spns
+otososnowiec.pl##.link-right
+ox.pl##.advert-owl
+panoramakutna.pl##.td-a-rec
+parenting.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
+parenting.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
+pl.jooble.org###rightBannerPlace
+placpigal.pl##DIV[style="width:100%; height:200px; margin-left:2px; margin-top:2px;"]
+polishexpress.co.uk##.advert
+polityka.pl##.wtg_adslot
+pomorska.pl##.adoceanGora1Wrapper
+portalbraniewo.pl##.advContainer
+portalmorski.pl##.a-block
+poscigi.pl##.fullwidthbanner-container
+poscigi.pl##.td-image-box-style-2
+powiatowy.pl###ftHolder
+powiatowy.pl###text-4
+prohelvetia.pl##.td-a-rec
+projektowaniebim.pl###media_image-2
+prostozmostu24.pl##.advContainer
+pulsmiasta.tv##.top-banner
+punkt.media##.flexbannergrouppattern
+radio-wrzesnia.pl##.td-adspot-title + DIV
+rapduma.pl##.ads
+rti24.pl#?#A:-abp-has(.klama)
+rti24.pl##.hbanner1
+rynekinfrastruktury.pl##.advContainer
+rypin-cry.pl###top-reklama
+skapiec.pl##IFRAME[id^="lps/SKAPIEC/SPORT/"]
+slowoseniora.pl##.spu-box
+sprzedajemy.pl##.AdsAds_
+strefabiznesu.pl#?#.cs:-abp-contains(sponsorowane)
+supertydzien.pl##IMG[alt^="reklama "]
+suwalki.info###banner-billboard
+suwalki.info###banner-standard
+swiat-rodzicow.pl###text-30
+swiatmotocykli.pl##.mod_uzr_ecommerce
+swiatwyscigow.pl##.bannergroup
+tabletowo.pl##.rd_widget_text
+telepolis.pl##.advContainer
+telewizjaolsztyn.pl##.boards
+terazgabin.pl##IMG[height="350"]
+terazgrodkow24.pl##.e3lan-below_header
+terazgrodkow24.pl##.e3lan-top
+terazgrodkow24.pl##.home-e3lan
+terazgrodkow24.pl###custom_html-3
+terazgrodkow24.pl###text-12
+terazgrodkow24.pl###text-3
+terazgrodkow24.pl###text-5
+terazgrodkow24.pl###text-6
+terazgrodkow24.pl###text-9
+terazgrodkow24.pl###text-html-widget-2
+terazgrodkow24.pl###text-html-widget-6
+termomodernizacja.pl##.ad
+tubawyszkowa.pl##.dimmer
+tvswinoujscie.pl##.advert-A2
+typersi.pl##.baner
+wawalove.pl##DIV[id^="adv"]
+wpadki.org##.banner
+zulawyimierzeja24.pl##.advert-C1
+zwielkopolski24.pl##.advContainer
+zycie.pl##.advert-item
+zycieolsztyna.pl###text-22
+zywiecinfo.pl##DIV[id^="jsemrp_1"]
