@@ -111,3 +111,12 @@
 @@||perspektywy.pl^*^d64a340bcb633f536d56e51874281454.
 @@||team29er.pl^*^fr234a.
 @@||tysol.pl^*^reklamaPhoto/40|
+@@://adv.$popup,domain=autokult.pl
+@@://adv.$popup,domain=gadzetomania.pl
+@@://adv.$popup,domain=parenting.pl
+@@||garsoniera.com.pl^*^8bf83-
+@@||kazimierzdolny24.pl^*^reklama_box.gif
+@@||ppr.pl^*^banners^*ppr.
+@@||szczecinek.com^*_286.
+@@||zwielkopolski24.pl^*-up-jedynka.
+@@||zwielkopolski24.pl^*-wielkanoc-zajawka.
