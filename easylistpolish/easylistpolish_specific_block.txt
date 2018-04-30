@@ -1460,3 +1460,4 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||zyciezamoscia.pl^*^fastgraw_
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||spolecznosci.net^$domain=fotka.com
