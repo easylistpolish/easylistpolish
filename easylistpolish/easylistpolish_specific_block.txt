@@ -1461,3 +1461,4 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||spolecznosci.net^$domain=fotka.com
+||vimeo.com^*^267695927?$domain=spidersweb.pl
