@@ -117,3 +117,5 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
+@@||googleapis.com^*^ima3.js|$domain=radiozet.pl
+@@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
