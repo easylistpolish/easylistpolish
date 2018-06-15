@@ -1316,3 +1316,4 @@ wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
 poczta.onet.pl##IFRAME[id^="lps/POCZTA/exclusive:WEBMAIL/"]
+onet.pl###sponsDiv
