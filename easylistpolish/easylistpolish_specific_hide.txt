@@ -1317,3 +1317,110 @@ zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
 poczta.onet.pl##IFRAME[id^="lps/POCZTA/exclusive:WEBMAIL/"]
 onet.pl###sponsDiv
+abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl##DIV:first-child + DIV:last-child > DIV > IFRAME
+abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pll##DIV:first-child + DIV:last-child > A > DIV > IMG
+agronews.com.pl###bp2
+akademia-internetu.pl###text-50
+blue-kangaroo.pl###mokka_image_banner-6
+blue-kangaroo.pl###mokka_image_banner-8
+brzeg24.pl##DIV[class^="g-single a-"]
+ceneo.pl##DIV[style*="background: url(//image.ceneostatic.pl/data/small_widget/2082/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2084/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2085/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2092/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2098/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2100/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2102/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2107/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2108/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2119/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2133/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2138/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2139/"]
+centrumdruku3d.pl##.printers_a
+centrumdruku3d.pl###slide-bottom-popup
+chwaszczyno.pl##.bannergroup
+confero.pl##.banner_panel
+cosmopolitan.pl##.adv-slot-wrapper
+czasciechanowa.pl##.n2-ss-slider
+debica.tv##.ad
+debica.tv##DIV[class^="g-single a-"]
+debica24.eu##.advContainer
+dzienniknowy.pl##.advContainer
+dzisiajwgliwicach.pl#?#FONT[size="1"]:-abp-contains(reklama) + A
+e-kg.pl##.rstboxes
+eholiday.pl##.ad-box
+ekoscian.eu##.worldplus-ad
+ekoscian.eu##.worldplus-ad
+esiemiatycze.pl###top-reklama
+eurobuildcee.com##.banery
+ewejsciowki.pl##.promo-container
+fpiec.pl##.top-offer-box
+futbol.pl##.advert-link
+gazzettaitalia.pl##.irw-widget
+gol24.pl##.cs
+goleniowska.com##.modul_baner
+ibialoleka.pl###top-reklama
+imokotow.pl###top-reklama
+ipragapoludnie.pl###top-reklama
+jarock.pl##.a-d-banner
+justasalad.pl##A[href="https://mamboo.pl/"]
+kobietapo30.pl##.singlePostBanner
+konindzieciom.pl##.rektop
+korsosanockie.pl##.advContainer
+kurierpodlaski.pl###top-reklama
+kursyjezykowe.biz##FONT[size="5"]
+magazynwiatr.pl##.adbox
+medycznamarihuana.com###popupContainer
+motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
+naekranie.pl##.dcmads + SPAN
+naekranie.pl##DIV[style="background-color: transparent; margin-top: -61px; height: 100%; "]
+naszemiasto.pl#?#LI[data-sp="1"]:-abp-has(.artSponsorowany)
+nauka.rocks##.advContainer
+niezalezna.pl##.advContainer
+olsztyn24.com###contener_billboard
+parafiastronie.pl###text-12
+plastech.pl###banbox_1
+plastech.pl###banbox_3
+plonszczak.pl###top-reklama
+plonszczak.pl###top-reklama
+podaj.to##.doubleadvert-wrapper
+police24.pl##.banneritem
+police24.pl###reklama_multinieruchomosci_szczecin
+portalmorski.pl##.banners
+portalzamojski.pl##.billboard
+poszkole.pl###billboard
+poszkole.pl###billboard3
+q4.pl##.advertisemen-block
+radio-wrzesnia.pl###page_ad_left_side
+radio-wrzesnia.pl###page_ad_right_side
+radiobonton.pl##.advContainer
+remiza.com.pl##DIV[class^="g-single a-"]
+rynek-lotniczy.pl##.advContainer
+smakdnia.pl##.advContainer
+spidersweb.pl##.wall-bg-banner
+sportowetempo.pl##.ogloszenia
+strzyzowiak.pl###ppmbank_bid_1011
+swinoujskie.info##.background-cover
+telix.pl##.telix-bilboard-naglowek
+testynaojcostwo.pl###top-baner
+toproste.pl###asd
+toproste.pl###menu_zlewej
+trojmiasto.pl##.dcedcafe-a
+trybun.org.pl###_dropslide1
+tvradom.pl##.advContainer
+twojezaglebie.pl##.td-a-rec
+tylkomedycyna.pl###block-block-16
+wabrzezno-cwa.pl###top-reklama
+warszawawarsaw.com###slideshowwidget-6
+warsztat.pl##.banert
+wejherowo24.info##.advContainer
+whatnext.pl##.ad-place-post-before
+wykop.pl##A[href^="https://www.wykop.pl/adverts"]
+wykop.pl##DIV[id^="banner_top_"]
+wyspiarzniebieski.pl##.Comm336
+wyspiarzniebieski.pl##.Comm336x80
+wyspiarzniebieski.pl##.Comm508x100
+wyspiarzniebieski.pl##.CommTxt1
+zwrotnikraka.pl###custom_html-2
+zycie.pl##.wide-wd
