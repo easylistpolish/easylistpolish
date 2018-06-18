@@ -21,6 +21,7 @@
 @@||extraswiecie.pl^*^autopromocja_
 @@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
 @@||garsoniera.com.pl^*^8bf83-
+@@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gorzow24.pl^*^im_91.
 @@||gwarek.com.pl^*^magazyn_zdrowie.
 @@||hotelinfo24.pl^*^banery/417.
@@ -47,6 +48,7 @@
 @@||mmania.pl^*^partner/33.
 @@||mmania.pl^*^partner/41.
 @@||muzyczneradio.com.pl^*^1514022547.
+@@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
 @@||naklo24.pl^*^adv_1465.
 @@||nasionakonopi.pl^*^19db680bd9c093bf2f99c46439d367de.
 @@||nasionakonopi.pl^*^754745f9759f0084322d3f894aa13f7a.
@@ -117,5 +119,3 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
-@@||googleapis.com^*^ima3.js|$domain=radiozet.pl
-@@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
