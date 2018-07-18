@@ -1390,3 +1390,4 @@ wp.pl#?#div:-abp-contains(REKLAMA) + DIV > A
 wp.pl#?#div:-abp-contains(REKLAMA) + DIV > DIV > A
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
+poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
