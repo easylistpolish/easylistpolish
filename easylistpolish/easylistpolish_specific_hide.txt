@@ -1393,3 +1393,4 @@ zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(R
 poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/adverts"])
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+mistrzowie.org##.abox-view-content
