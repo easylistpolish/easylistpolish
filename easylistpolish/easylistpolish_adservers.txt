@@ -4,4 +4,3 @@
 ||incontext.pl^$third-party
 ||reklamawadowice24.pl^$third-party
 ||rewords.pl^$third-party
-||systempartnerski.pl^$third-party
