@@ -119,3 +119,4 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
+@@||konkurs24h.pl^*^advalue_
