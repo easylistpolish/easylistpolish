@@ -120,3 +120,4 @@
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
 @@||konkurs24h.pl^*^advalue_
+@@/SidebarAds.$domain=eurogamer.pl
