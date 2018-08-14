@@ -1,4 +1,5 @@
 ###ads_under_article
+###extraAdsBlock
 ###reklama_gora
 ###tytul_sponsorowane
 ##.a-d-v
@@ -17,4 +18,3 @@
 ##a[href^="http://wlbetathome.adsrv.eacdn.com"]
 ##div[onclick^="update_ad("]
 ##li[data-title="Sponsorowane"]
-###extraAdsBlock
