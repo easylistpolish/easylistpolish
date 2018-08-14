@@ -121,3 +121,6 @@
 @@||zycie.pl^*^138^
 @@||konkurs24h.pl^*^advalue_
 @@/SidebarAds.$domain=eurogamer.pl
+@@||genetyczne.pl^*^poronilam.pl-
+@@||igrit.pl/bany/igrit^
+@@||wiadomoscirudzkie.pl^*_QZt.
