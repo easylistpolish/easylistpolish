@@ -9,3 +9,4 @@
 ||mp3va.com^$popup,domain=aleryje2.prv.pl
 ||reeco.info.pl^$popup,domain=evertiq.pl
 ||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
+|http:$popup,domain=animezone.pl,third-party
