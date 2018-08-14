@@ -1,4 +1,5 @@
 @@/reklama.$domain=grojec24.net
+@@/SidebarAds.$domain=eurogamer.pl
 @@://adv.$popup,domain=autokult.pl|gadzetomania.pl|parenting.pl
 @@^albumtp.$domain=tygodnikpodhalanski.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
@@ -21,12 +22,14 @@
 @@||extraswiecie.pl^*^autopromocja_
 @@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
 @@||garsoniera.com.pl^*^8bf83-
+@@||genetyczne.pl^*^poronilam.pl-
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gorzow24.pl^*^im_91.
 @@||gwarek.com.pl^*^magazyn_zdrowie.
 @@||hotelinfo24.pl^*^banery/417.
 @@||hrubieszow.info^*^banernisko.
 @@||hrubieszow.info^*^reklamabanera2.
+@@||igrit.pl/bany/igrit^
 @@||ikamien.pl^*^banery/ik^
 @@||informacjelokalne.pl^*^baner_kup.
 @@||informacjelokalne.pl^*^banners/CK_im._Krzysztofa_
@@ -38,6 +41,7 @@
 @@||iswinoujscie.pl^*^banery/radio-is.
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
+@@||konkurs24h.pl^*^advalue_
 @@||korso.pl^*^lko327a.
 @@||legitymizm.org^*^gabis-
 @@||lubliniec.info^*^miejsce-wolne-
@@ -112,6 +116,7 @@
 @@||tysol.pl^*^reklamaPhoto/40|
 @@||walbrzych.pl^*^banners^*^FB.png
 @@||walbrzych.pl^*^banners^*^kontakt.
+@@||wiadomoscirudzkie.pl^*_QZt.
 @@||wpr24.pl^*^katalog.
 @@||wrc.net.pl^*^banner_2018_
 @@||zarzadca.pl^*^zarzadca.
@@ -119,8 +124,3 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
-@@||konkurs24h.pl^*^advalue_
-@@/SidebarAds.$domain=eurogamer.pl
-@@||genetyczne.pl^*^poronilam.pl-
-@@||igrit.pl/bany/igrit^
-@@||wiadomoscirudzkie.pl^*_QZt.
