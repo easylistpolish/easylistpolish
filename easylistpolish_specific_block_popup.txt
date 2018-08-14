@@ -1,0 +1,11 @@
+|http:$popup,third-party,domain=animezone.pl|devil-torrents.pl|serialnet.pl
+||bubble.am^$popup,domain=zalukaj.com
+||camcolt.com^$popup,domain=woor.pl
+||goo.gl^$popup,domain=swinoujskie.info
+||gretschguitars.com/$popup,domain=magazyngitarzysta.pl
+||groupon.pl^$popup,domain=nsj-piotrkow.pl
+||lexus-krakow.com.pl^$popup,domain=podhale24.pl
+||mp3s.pl^$popup,domain=aleryje2.prv.pl
+||mp3va.com^$popup,domain=aleryje2.prv.pl
+||reeco.info.pl^$popup,domain=evertiq.pl
+||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
