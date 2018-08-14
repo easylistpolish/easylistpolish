@@ -1395,3 +1395,112 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/adverts"])
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 mistrzowie.org##.abox-view-content
 trojmiasto.pl##INS[id^="revive-0-"]
+barlinek24.pl##.djslider
+bezposrednie.com##.a-d-sHeader
+bezposrednie.com##.a-d-sHeader + DIV
+bogatynia.info.pl##.advert
+bolec.info###baner_max
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2143/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2145/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2146/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2147/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2157/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2170/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2171/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2173/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2174/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2175/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2183/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2184/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2188/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2191/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2196/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2197/"]
+chords.pl##DIV[id^="nokaut_ads_"]
+codziennikmlawski.pl##.rekl-side
+dawnawarszawa.waw.pl###ban
+dkl24.pl###popup
+dlalejdis.pl##.advContainer
+doba.pl##.baneryB-140
+doba.pl###slides
+dspodcast.pl##.gogreen
+dzienniknarodowy.pl##DIV[id^="adswidget"]
+ekspertbudowlany.pl##.oferteo-widget
+ele24.net##.banner-top
+expressilustrowany.pl##.advContainer
+ezo-ogloszenia.pl^*^sad/1eda2391d53ada823bff949ce066f7f9usun-
+fakty.lca.pl##.news_reklama
+fcinter.pl##.ad-box
+fitblogerka.pl##.islemag-ad-banner-content
+fitniefat.pl##.advContainer
+forum.alfaholicy.org###block_html_3
+forumfirm.pl##.bannerslot
+forumfirm.pl##.bannerText
+forumsamochodowe.pl##.advContainer
+gospodarkapodkarpacka.pl##.advLargeHorizontal
+gospodarkapodkarpacka.pl##.advRec
+gospodarkapodkarpacka.pl##.advSmallHorizontal
+hfc.com.pl##IMG[alt="s-e-r-v-e-r-a-d-s"]
+infobus.pl##.advRekl
+infobus.pl##.reklamaR2Napis
+infobus.pl##.reklamaR2Napis + DIV
+infobus.pl###popup_reklama
+infobus.pl##OBJECT[idrekl]
+izolacje.com.pl##.oferteo-widget
+kalisz24.info.pl##.bdaia-e3-container
+kalisz24.info.pl##DIV[class^="g-dyn a-"]
+klubpodroznikow.com##A[href="https://www.autodoc.pl/"]
+klubpodroznikow.com##A[href="https://www.euautoczesci.pl/"]
+kobiety-kobietom.com###ReklamaRightBox
+krynica.tv##.bannergroup
+lubiesiesmiac.pl##[id^="adswidget"]
+malydziennik.pl##.advContainer
+mamopracuj.pl##.bannery
+medexpress.pl##.sid_adver
+mediaprzasnysz.pl##.a-widget
+mojabudowa.pl###footerReklamyIgn
+mojabudowa.pl###footerReklamyIgn
+mp3youtube.pl##.advContainer
+mp3youtube.pl##.advContainer
+nadmorski24.pl##.dynamicAD
+neosite.pl##.adv
+niskaemisja.ekoscan.pl##.art-slider
+obligacje.pl##.banner
+oko.info.pl###leftAdv
+olx.pl##.creditbox
+olx.pl##.otokredytbox
+onet.pl#?#A:-abp-has(span:-abp-contains(Sponsorowane))
+ool24.pl##.pum-overlay
+oswiecim112.pl##.kad_portfolio_link
+portalwysokichplonow.pl##.ads_top_nav
+prostoomuzyce.pl##.view-banery
+radio-wrzesnia.pl##DIV[class^="g-dyn a-"]
+ratunkumieszkamwraju.pl##.bos_searchbox_widget_class
+re-volta.pl##.baner-medium-rectangle-on
+synonimy.pl##.translation-badge
+szokuje.pl##.ads-after-article
+szokuje.pl##.ads-in-article
+szokuje.pl##.ads-in-thumbs
+szokuje.pl##.ads-sidebar-top
+szokuje.pl##.ads-under_menu
+szokuje.pl##.advContainer
+telewizjaopolskie.pl##.advContainer
+tvobiektyw.pl##.advContainer
+tvsztum.pl##.advert-B1
+twojapogoda.pl##.triple-billboard
+twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
+tygodnik.szczytno.pl###advContener
+tygodnik.szczytno.pl###tygm_lewa
+tygodnikoko.pl##.advContainer
+warzywaiowoce.pl##.advert
+wcj24.pl##.penci-ad-box
+wcj24.pl###n2-ss-6-align
+wiadomoscisasiedzkie.pl##.Baner
+widoki.info##img[width="300"]
+wirtualnykonin.pl##DIV[onclick^="window.open('http://www.wirtualnykonin.pl/go.live.php/banners_"]
+wzielonej.pl##.stream-item-top-wrapper
+zamojska.pl##.advContainer
+zegarkiclub.pl###sticky_sidebar_ad
+zkrainynba.com##.advertise-container
+zulawyimierzeja24.pl##.advert-B1
+zupelnieinnaopowiesc.com##.wpa
