@@ -1165,7 +1165,7 @@ film.wp.pl##div > span + div > iframe[src^="https://v.wpimg.pl/"]
 wp.pl##div > style + div > div > div > div > a
 wp.pl##div > style + div > div > div > div > div > iframe
 realizator.pl##div.m-advert
-abczdrowie.pl,demoty.pll,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##div:first-child + div:last-child > a > div > img
+abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##div:first-child + div:last-child > a > div > img
 abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##div:first-child + div:last-child > div > iframe
 nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
@@ -1355,7 +1355,7 @@ fotoblogia.pl#?#div:-abp-contains(REKLAMA) + DIV > A
 gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
 gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
 gazetaprawna.pl#?#DIV:-abp-has(> A + H3 + SPAN)
-gol24.pll#?#.cs > A:-abp-has(.mark)
+gol24.pl#?#.cs > A:-abp-has(.mark)
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl##h1[style="color:#909090;"]
 matfiz24.pl##h2[style="margin-bottom: 10px; font-weight: 400;"]
 poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
@@ -1414,7 +1414,7 @@ tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 ezg24.net##li[style="width: 268px; height: 207px;"]
 ezg24.net##li[style="width: 268px; height: 214px;"]
-liga-ursus.siatkowka.org/###widget_sp_image-2
+liga-ursus.siatkowka.org###widget_sp_image-2
 pzhkiperybnik.vgh.pl##marquee
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
 naszemiasto.pl#?#.elementListy:-abp-has(.artSpons)
