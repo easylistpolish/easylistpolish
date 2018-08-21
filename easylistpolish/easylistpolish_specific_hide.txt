@@ -1473,3 +1473,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/adverts"])
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
+trojmiasto.pl##.fccfaebcea
