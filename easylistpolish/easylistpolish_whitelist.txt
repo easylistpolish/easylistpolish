@@ -124,3 +124,4 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
+@@/reklama2.$domain=tarnow.pl
