@@ -1479,3 +1479,5 @@ wp.pl##div[class^="ScreeningAdv_"]+div
 wp.pl#?#div[class^="styled__GlonewsHeaderHalf"]:-abp-contains(REKLAMA)
 wp.pl##div[class^="styled__GlonewsAdvSlot"]
 wp.pl##div[class^="AdvSlotWithPlaceholder"]
+naekranie.pl##.video-wrapper
+naekranie.pl#?#aside:-abp-contains(http://bs.serving-sys.com/serving/adServer)
