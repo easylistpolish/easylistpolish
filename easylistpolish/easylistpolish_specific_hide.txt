@@ -1475,7 +1475,6 @@ zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label)
 zdrowie.tvn.pl#?#a:-abp-has(> div > div > .entry_box__item-label:-abp-contains(Reklama))
 trojmiasto.pl##.fccfaebcea
 wp.pl##div[class^="ScreeningAdv_"]
-wp.pl##div[class^="ScreeningAdv_"]+div
 wp.pl#?#div[class^="styled__GlonewsHeaderHalf"]:-abp-contains(REKLAMA)
 wp.pl##div[class^="styled__GlonewsAdvSlot"]
 wp.pl##div[class^="AdvSlotWithPlaceholder"]
