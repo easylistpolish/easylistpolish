@@ -1165,7 +1165,6 @@ film.wp.pl##div > span + div > iframe[src^="https://v.wpimg.pl/"]
 wp.pl##div > style + div > div > div > div > a
 wp.pl##div > style + div > div > div > div > div > iframe
 realizator.pl##div.m-advert
-abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##div:first-child + div:last-child > a > div > img
 abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##div:first-child + div:last-child > div > iframe
 nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
