@@ -1527,3 +1527,4 @@ abczdrowie.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komork
 ||v.wpimg.pl/eDIwMC5qBjQhKCIiRl5XdHhPYHMNXlB1cEN1cxoiJhYGOwEHdzM6dmdDYHQAQR12eUdjKUUW|
 poczta.wp.pl##.NativeLinkGroup
 poczta.wp.pl##NATIVE-FEED[ng-if^="ListDirectiveController."]
+gazeta.pl##.o-section--offers-mainBox
