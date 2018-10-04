@@ -1,4 +1,4 @@
-|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|serialnet.pl
+|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|serialnet.pl|fili.cc
 ||bubble.am^$popup,domain=zalukaj.com
 ||camcolt.com^$popup,domain=woor.pl
 ||goo.gl^$popup,domain=swinoujskie.info
