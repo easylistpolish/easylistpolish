@@ -1819,3 +1819,4 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||naekranie.pl^*^autortcbd.
+||teleriumads-$domain=telerium.tv
