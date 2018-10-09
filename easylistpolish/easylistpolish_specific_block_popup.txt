@@ -1,4 +1,4 @@
-|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|serialnet.pl|fili.cc
+|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|serialnet.pl|fili.cc|internetowa.ws
 ||bubble.am^$popup,domain=zalukaj.com
 ||camcolt.com^$popup,domain=woor.pl
 ||goo.gl^$popup,domain=swinoujskie.info
@@ -9,3 +9,4 @@
 ||mp3va.com^$popup,domain=aleryje2.prv.pl
 ||reeco.info.pl^$popup,domain=evertiq.pl
 ||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
+||teleriumads-$popup,domain=telerium.tv
