@@ -1820,3 +1820,4 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||zyciezamoscia.pl^*^niezalezna.
 ||naekranie.pl^*^autortcbd.
 ||teleriumads-$domain=telerium.tv
+||wpimg.pl/Njk5LmpwLw5EZwFCMhg2RVkFfVVdRn5FDEVjWUZYIx8HQSUyHhg5CzQEdV9AD39YUwU0X0ZOfjUDRX5bSU5gABtS|
