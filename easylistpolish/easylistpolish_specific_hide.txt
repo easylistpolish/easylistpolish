@@ -289,7 +289,6 @@ techfreak.pl###secondary
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
 vshare.io###sendif
-abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl###sgwp_screening_topnews
 chrzanowski24.pl###sidebar
 zlotemysli.pl###sidebar-zm-recommend
 tygodnikfaktycznie.pl###singleimage-2
