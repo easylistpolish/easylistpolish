@@ -10,3 +10,4 @@
 ||reeco.info.pl^$popup,domain=evertiq.pl
 ||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
 ||teleriumads-$popup,domain=telerium.tv
+||goal.pl/goto/sts?$popup,domain=primeradivision.pl
