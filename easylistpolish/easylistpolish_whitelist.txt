@@ -126,3 +126,4 @@
 @@||zycie.pl^*^138^
 @@/reklama2.$domain=tarnow.pl
 @@||teleriumads-x64zcsqq.netdna-ssl.com/close-icon.
+@@||e-morag.pl^*^01-banner_emorag.
