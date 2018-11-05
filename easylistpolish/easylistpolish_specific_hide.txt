@@ -1465,3 +1465,125 @@ gazeta.pl##.o-section--offers-mainBox
 abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl#?#IMG:-abp-properties(position: relative;)
 abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl#?#DIV:-abp-properties(position: relative;) > DIV > IFRAME
 abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl##A[style="display: block;"]
+100miast.pl###promo_static1
+3dwpraktyce.pl##.ads
+alipaczka.pl##.adbox
+aviation24.pl##.bannergroup
+bazarek.net.pl##.banner
+bielsko.biala.pl##.cukierek_container
+bukowskilider.pl##.reklamaprawastrona
+cannabisnews.pl##.td-a-rec
+cashless.pl##A[data="advert-link"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2200/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2204/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2205/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2209/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2210/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2221/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2252/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2253/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2273/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2274/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2275/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2296/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2298/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2298/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2314/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2317/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2319/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2322/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2352/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2385/"]
+ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2387/"]
+cgm.pl##.adv
+cowwilanowie.pl##.a-slider
+czytajrzeszow.pl###rek1
+dniwolne.eu##.axv
+dzieckowpodrozy.pl###animation_container
+dzieckowpodrozy.pl###animation_container2
+dzielnicewroclawia.pl##.td-a-rec
+e-deblin.pl##IMG[alt="Reklama"]
+extraswiecie.pl#?#span:-abp-contains(REKLAMA)
+faktykaliskie.pl##.banner-wrapper
+forumpuszczykowo.pl###wds_container1_0
+forumpuszczykowo.pl###wds_container1_0
+fullmp3.pl###hotcpm_137_7
+gazeta-olawa.pl##.absolute
+gazeta-olawa.pl##.absolute + IMG
+gazeta-olawa.pl##.absolute + P
+gazeta-olawa.pl##.betterad-link
+gazeta-olawa.pl##.betterad-link
+gazetabilgoraj.pl##.bsac-container
+gazetaregionalna.pl##.bannergroup
+gizycko.info##.td-a-rec
+glokalna.pl##.wp_bannerize_container
+gostynin.info##.offer-wrap
+gostynin.info##.offer-wrap
+gostynin24.pl##.wk-slideshow
+gryfickie.info##.e3lan
+ikrotoszyn.pl##.partners2
+infogliwice.pl##DIV[class^="g-single a-"]
+infoilawa.pl###popup-wrapper
+ipolice.pl##.widget_supermag_ad
+iszczecinek.pl###Popup
+kcynia.info##.slider_2
+kcynia.info###text-2
+kcynia.info###text-5
+kierunekchemia.pl##.ads-box-inverted
+krdp.fm##.vc_wp_text
+krynica.tv##.banneritem
+kurierostrowski.pl###metaslider_970
+kurierostrowski.pl###metaslider_975
+kuriersuwalski.pl##.bannergroup
+lublin112.pl###native-ad
+lwypolnocy.pl##.DnnModule-922
+malbork1.pl##.advContainer
+mikrokontroler.pl##DIV[class^="g-single a-"]
+minskmaz.com##.a-dis
+minskmaz.com##.a-dis
+mojbilet.com###text-5
+moje-gniezno.pl##.advBannerFlyGo
+mtgnews.pl##.baner
+niezlomni.com##.advContainer
+noworudzianin.pl###metaslider_widget-2
+ogloszenia.re-volta.pl##.baner-square-on
+okiemrolnika.pl##.bannergroup
+okiemrolnika.pl##.ls-popup
+okiemrolnika.pl##.ls-popup-overlay
+olawa24.pl/jan_kownacki.jpg
+pilkarskiswiat.com###custom_html-6
+poczta.wp.pl##DD-HOLDER[slot="PANEL_PREMIUM"]
+podhaleregion.pl##.bannergroup
+polemi.co.uk##.reklama8
+polska-zbrojna.pl##.advert
+portalprzemyslowy.pl##.td-a-rec
+powiatzgorzelecki.info##.banner_box
+prudnik24.pl##.banner-block
+radio5.com.pl##.a-single
+radio5.com.pl##DIV[class^="g-single a-"]
+rzeszow-news.pl##.td-a-rec
+skarzysko24.pl##.t3-spotlight-1
+speedwaynews.pl##.baner
+strazacki.pl##.bannergroup
+szalonewalizki.pl###flexi_searchbox
+telewizjattm.pl##VIDEO[src^="http://www.telewizjattm.pl/wioslo"]
+terazprudnik.pl##.td-a-rec
+trojmiasto.pl##.cbcadebebb
+trojmiasto.pl##DIV[class$="-wrapper"] > .b-html5-iframe
+ttg.com.pl##DIV[id^="header-banner"]
+tvgorzow.pl###testimonialrotatorwidget-5
+tvpodkarpacka.pl##.advertisement
+tvpress.pl##.td-a-rec
+tvswietokrzyska.pl##.banneritem
+tvswietokrzyska.pl###gkBannerReklama1
+tw-24.pl##.spu-bg
+tw-24.pl##.spu-box
+warsztat.pl##.baner
+wsensie.tv##.baner1
+wyspagier.pl##.banner-static-game
+zakliczyninfo.pl###wdb_advert-line
+zbiam.pl##DIV[class^="g-dyn a-"]
+zdrowieiuroda.gwarek.com.pl##.xxx_pos_1
+zlotoryjska.pl##.baner_pod_menu_1190x125px
+zlotowskie.pl###top-reklama
+zzj.szczecin.pl##.slider-wrapper
