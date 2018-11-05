@@ -1,6 +1,7 @@
-|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|serialnet.pl|fili.cc|internetowa.ws
+|http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|fili.cc|internetowa.ws|serialnet.pl
 ||bubble.am^$popup,domain=zalukaj.com
 ||camcolt.com^$popup,domain=woor.pl
+||goal.pl/goto/sts?$popup,domain=primeradivision.pl
 ||goo.gl^$popup,domain=swinoujskie.info
 ||gretschguitars.com/$popup,domain=magazyngitarzysta.pl
 ||groupon.pl^$popup,domain=nsj-piotrkow.pl
@@ -10,4 +11,3 @@
 ||reeco.info.pl^$popup,domain=evertiq.pl
 ||rotenso.pl^$popup,domain=chlodnictwoiklimatyzacja.pl
 ||teleriumads-$popup,domain=telerium.tv
-||goal.pl/goto/sts?$popup,domain=primeradivision.pl

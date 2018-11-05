@@ -1,4 +1,5 @@
 @@/reklama.$domain=grojec24.net
+@@/reklama2.$domain=tarnow.pl
 @@/SidebarAds.$domain=eurogamer.pl
 @@://adv.$popup,domain=autokult.pl|gadzetomania.pl|parenting.pl
 @@^albumtp.$domain=tygodnikpodhalanski.pl
@@ -16,6 +17,7 @@
 @@||calisia.pl^*^kronika.
 @@||daminfo.pl^*^fb.png
 @@||daminfo.pl^*^kontakt.
+@@||e-morag.pl^*^01-banner_emorag.
 @@||erp-view.pl^*^katalog-rozwiazan.
 @@||expresskaszubski.pl^*^reklamy/cookies-
 @@||expresskaszubski.pl^*^reklamy/odpowiedzialny-
@@ -112,6 +114,7 @@
 @@||sweetwedding.pl^*^Miejsce-na-
 @@||szczecinek.com^*_286.
 @@||team29er.pl^*^fr234a.
+@@||teleriumads-x64zcsqq.netdna-ssl.com/close-icon.
 @@||tustolica.pl^*^drobne20161128.
 @@||tysol.pl^*^reklamaPhoto/40|
 @@||walbrzych.pl^*^banners^*^FB.png
@@ -124,6 +127,3 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
-@@/reklama2.$domain=tarnow.pl
-@@||teleriumads-x64zcsqq.netdna-ssl.com/close-icon.
-@@||e-morag.pl^*^01-banner_emorag.
