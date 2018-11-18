@@ -2066,3 +2066,4 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||partnerzyapi.ceneo.pl^$script,domain=musthavefashion.pl
 ||rek.www.wp.pl^
 ||zdrowyportal.org^*^rw_adrotator^
+||autoline.com.pl^*^atlads1^
