@@ -1469,3 +1469,8 @@ nowezyciepabianic.pl##.adv--next-logo
 okiemmiszy.pl###ti_image_banner-3
 pozatorun.pl##DIV[class^="g-single a-"]
 rp.pl##.advContainer
+nf.pl##.promo
+livemecz.com###advertising_box
+autoline.com.pl##.index-banners
+sekrety-zdrowia.org##.rekwrap
+gazetkonosz.pl##.signad
