@@ -1,6 +1,8 @@
 ||adsearch.pl^$third-party
 ||adsnet.pl^$third-party
 ||banmax.com^$third-party
+||converti.se^$third-party
+||convertiser.com^$third-party
 ||hub.com.pl^$third-party
 ||incontext.pl^$third-party
 ||reklamawadowice24.pl^$third-party
