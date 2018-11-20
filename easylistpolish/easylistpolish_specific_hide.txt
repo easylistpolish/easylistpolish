@@ -1475,3 +1475,4 @@ autoline.com.pl##.index-banners
 sekrety-zdrowia.org##.rekwrap
 gazetkonosz.pl##.signad
 autoline.com.pl###atlads_place_top
+ligapolska.pl##.reklamaNapis
