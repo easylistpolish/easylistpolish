@@ -1479,3 +1479,4 @@ ligapolska.pl##.reklamaNapis
 sekrety-zdrowia.org##.rekwraph
 wp.pl##.csuojG
 wp.pl##div[class^="scContainer-"]
+money.pl##.s208vtu
