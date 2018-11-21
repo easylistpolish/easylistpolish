@@ -1477,3 +1477,5 @@ gazetkonosz.pl##.signad
 autoline.com.pl###atlads_place_top
 ligapolska.pl##.reklamaNapis
 sekrety-zdrowia.org##.rekwraph
+wp.pl##.csuojG
+wp.pl##div[class^="scContainer-"]
