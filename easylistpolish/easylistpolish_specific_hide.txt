@@ -1480,3 +1480,9 @@ sekrety-zdrowia.org##.rekwraph
 wp.pl##.csuojG
 wp.pl##div[class^="scContainer-"]
 money.pl##.s208vtu
+msmobile.pl###custom_html-5
+wybory.pless.pl##.wybory-reklama-skyscraper-contener-1
+miedzowe.pl,elka.pl###reklamaGooglePrawa336Last
+inwestinfo.pl##div[style="height:25px;text-align: center;"]
+ubucentrum.net##style + .post-share
+nowy-sacz.info##.a-single
