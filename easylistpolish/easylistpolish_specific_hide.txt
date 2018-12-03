@@ -1486,3 +1486,4 @@ miedzowe.pl,elka.pl###reklamaGooglePrawa336Last
 inwestinfo.pl##div[style="height:25px;text-align: center;"]
 ubucentrum.net##style + .post-share
 nowy-sacz.info##.a-single
+wp.pl##.gwcOrs
