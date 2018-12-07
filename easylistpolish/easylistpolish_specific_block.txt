@@ -151,7 +151,7 @@
 ^NORDKALK750100.$domain=sadnowoczesny.pl
 ^od51f0jv7^apollo.$domain=telchina.pl
 ^offers^$domain=lowiczanin.info|naziemna.info
-^partner^$domain=mmania.pl|podajdalej.info.pl
+^partner^$domain=podajdalej.info.pl
 ^partnerzy^$domain=abilet.pl|nasionakonopi.pl|szkolasen.com|widzewtomy.net
 ^petrochemiav1.$domain=luzyce.info
 ^polecamy^$domain=aktyw14.net|almanak.pl|mysl24.pl
