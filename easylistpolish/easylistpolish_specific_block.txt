@@ -11,7 +11,7 @@
 -845x150.$domain=ostrodanews.pl
 -970x250.$domain=plportal.pl
 -baner-$domain=automotivesuppliers.pl|genetyczne.pl|konflikty.pl|opowiecie.info|ostrodanews.pl|prostoomuzyce.pl|radiobiper.info|slupca.pl|sweetwedding.pl|tkn24.pl|wszystkookotach.pl
--baner.$domain=businesstraveller.pl|dzisiajwgliwicach.pl|genetyczne.pl|gloskoninski.pl|ibialoleka.pl|jaw.pl|lwowecki.info|magazynfakty.pl|nowagazeta.pl|twojaslupca.pl|tygodnikkrag.pl
+-baner.$domain=businesstraveller.pl|dzisiajwgliwicach.pl|genetyczne.pl|gloskoninski.pl|ibialoleka.pl|jaw.pl|lwowecki.info|magazynfakty.pl|nowagazeta.pl|twojaslupca.pl|tygodnikkrag.pl|wirtualnyzgierz.pl
 -baner_$domain=kk24.pl|my3miasto.pl|regionfan.pl
 -baners.$domain=terazkrosno.pl
 -bank-lokata-happy-hr.jpg?$domain=bankomaniacy.pl
