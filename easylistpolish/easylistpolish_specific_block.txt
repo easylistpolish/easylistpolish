@@ -2067,4 +2067,5 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||rek.www.wp.pl^
 ||zdrowyportal.org^*^rw_adrotator^
 ||autoline.com.pl^*^atlads1^
-||std.wpcdn.pl/wpjslib/wpjslib-sgap.js|$domain=money.pl|autokult.pl
+||money.wp.pl^$script,third-party
+||wp.pl^$script,domain=autokult.pl
