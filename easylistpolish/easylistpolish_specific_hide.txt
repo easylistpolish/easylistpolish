@@ -1496,3 +1496,6 @@ tkn24.pl##font[color="SILVER"]+br+iframe
 tkn24.pl###header + center
 centrummedyczne-przyjazna.pl###column
 jarocinska.pl##banera1
+filmweb.pl##.ws_wrapper
+filmweb.pl##div[style="height: 1080px;"]
+filmweb.pl##div[rel="billboard"]
