@@ -1490,3 +1490,9 @@ money.pl##.jho3m0s63d
 money.pl##.cTDBBq
 money.pl##.iQjREM
 fylmy.pl###light
+portalzamojski.pl##.reklamy
+tkn24.pl##font[color="SILVER"]+br+a
+tkn24.pl##font[color="SILVER"]+br+iframe
+tkn24.pl###header + center
+centrummedyczne-przyjazna.pl###column
+jarocinska.pl##banera1
