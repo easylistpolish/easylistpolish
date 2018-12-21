@@ -2002,3 +2002,5 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||autoline.com.pl^*^atlads1^
 ||money.wp.pl^$script,third-party
 ||wp.pl^$script,domain=autokult.pl
+||youtube.com^*^YEDo_J9HeNE|$domain=tkn24.pl
+||youtube.com^*^VujH5-CeaCc|$domain=tkn24.pl
