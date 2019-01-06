@@ -2008,3 +2008,7 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||tkn24.pl^*^maxibud.gif|
 ||samzobacz.pl^*^2018/09/Blik.
 ||tkn24.pl^*^Melisa%C5%9Awi%C4%99ta.
+||dopilar.pl^*^sky1.
+||dopilar.pl^*^penire_plus.
+||automobilista.com.pl^*^2018/11/klas.
+^statystyk_box.$domain=bajery.pl
