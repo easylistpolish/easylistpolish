@@ -2012,3 +2012,7 @@ filolozka.brood.pl^*^tlumacze-125-125.
 ||dopilar.pl^*^penire_plus.
 ||automobilista.com.pl^*^2018/11/klas.
 ^statystyk_box.$domain=bajery.pl
+^banery^$domain=staleo.pl
+||staleo.pl^*^587c9a614cd75_
+||staleo.pl^*^587c74fe36f77_
+||staleo.pl^*^58ad3a2c4bf73_
