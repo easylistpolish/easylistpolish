@@ -1507,3 +1507,4 @@ automobilista.com.pl##.adblock + a
 bajery.pl##iframe[name="rek"]
 staleo.pl##.silver.section-title
 staleo.pl##.silver.section-title + aside
+legia.net##.banner
