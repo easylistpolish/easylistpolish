@@ -1508,3 +1508,4 @@ bajery.pl##iframe[name="rek"]
 staleo.pl##.silver.section-title
 staleo.pl##.silver.section-title + aside
 legia.net##.banner
+gadzetomania.pl#?#article:-abp-contains(ARTYKUŁ SPONSOROWANY)
