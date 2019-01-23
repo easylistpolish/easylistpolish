@@ -138,7 +138,6 @@ _1522913631.$domain=paradoks.net.pl
 _1529407237.$domain=paradoks.net.pl
 _160_x_600_$domain=e-pojezierze.pl
 _1920x360_$domain=beskidzka24.pl
-_400x400.$domain=blaugrana.pl
 _500.gif$domain=woor.pl
 _720x200.$domain=topagrar.pl
 _750x200-$domain=agronews.com.pl
