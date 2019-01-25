@@ -1510,3 +1510,7 @@ staleo.pl##.silver.section-title + aside
 legia.net##.banner
 gadzetomania.pl#?#article:-abp-contains(ARTYKUŁ SPONSOROWANY)
 szczekaopada.pl##.adv750x200
+poczta.wp.pl##dd-holder
+poczta.wp.pl##sidebar-feed
+wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(iframe)
+wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
