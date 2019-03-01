@@ -1513,3 +1513,4 @@ wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 poczta.o2.pl##dd-holder
 poczta.o2.pl##sidebar-feed
+lacha.pl###divExoLayerWrapper
