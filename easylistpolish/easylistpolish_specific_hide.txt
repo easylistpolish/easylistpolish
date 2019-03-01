@@ -1519,3 +1519,4 @@ radioznin.fm##.bannergroup
 naszekwatery.pl##.banner
 4tour.pl##.span2
 swift-iban.pl###custom_html-2
+bestofwhisky.pl##.contetn-left-ad-top
