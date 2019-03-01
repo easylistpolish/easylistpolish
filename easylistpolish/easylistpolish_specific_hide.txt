@@ -1524,3 +1524,5 @@ boomerang-tv.pl##.mpu
 pultuszczak.pl##.advertisement
 popularcoffee.pl##.stf-adsense
 jawor24h.pl##.container-advert-top
+ostrowiecnews.pl##p[style='margin-left:120px;"']
+ostrowiecnews.pl##p[style='margin-left:120px;"'] + center
