@@ -1517,3 +1517,4 @@ lacha.pl###divExoLayerWrapper
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 radioznin.fm##.bannergroup
 naszekwatery.pl##.banner
+4tour.pl##.span2
