@@ -288,8 +288,7 @@ _reklamy_$domain=chojna24.pl
 ||boardtime.pl^*^baner1000.
 ||bokser.org^*^Bilo-Poland-
 ||bongacams.com/b/top_index^
-||booking.com/flexiproduct.
-||booking.com/flexiproduct.html?$domain=zwiedzamyparyz.pl
+||booking.com/flexiproduct.$third-party
 ||booking.com^*=banner&$domain=kazimierzdolny24.pl
 ||booklips.pl^*-MADELINA-KIRKE-BOOKLIPS-
 ||bosonamacie.pl^*-560x209.
@@ -525,7 +524,6 @@ _reklamy_$domain=chojna24.pl
 ||eswinoujscie.pl^*^vacationclub.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||eswinoujscie.pl^*_280x120.
-||eswinoujscie.pl^*_promocja_280x120.
 ||etransport.pl/run.2251|
 ||etransport.pl^*^chrobinson_300_200_
 ||etransport.pl^*_450_100_
@@ -638,7 +636,6 @@ _reklamy_$domain=chojna24.pl
 ||goadservices.com^$domain=kontrowersje.net
 ||goal.pl/ban^
 ||goal.pl/images/b1.png|
-||goal.pl/images/b1.png|$domain=primeradivision.pl
 ||goal.pl^*^emocje2.
 ||goal.pl^*^t600.
 ||goal.pl^*^tot2.
@@ -976,7 +973,6 @@ _reklamy_$domain=chojna24.pl
 ||limanowianin.in^*^kf-nestor.
 ||locomobit.pl/upside.php?city=
 ||lovekrakow.pl^*^boxy_klepsydra_
-||lubartow24.pl/b/marbella594d706f4c2c8.
 ||lubartow24.pl/b^
 ||lubliniec.net/kampania_reklamowa^
 ||lukowicatomy.pl^*^napedy4x4_
@@ -1220,12 +1216,8 @@ _reklamy_$domain=chojna24.pl
 ||panoramakutna.pl^*^AG-Trening-
 ||panoramakutna.pl^*^Atasze-
 ||panoramakutna.pl^*^Cafe-Zamenhofa.
-||panoramakutna.pl^*^KDK-box.
-||panoramakutna.pl^*^KRAP-box.
 ||panoramakutna.pl^*^olga-wojtysiak-
 ||panoramakutna.pl^*^Sekrety-Bielizny-
-||panoramakutna.pl^*^WSGK-box.
-||paradoks.net.pl^*^bone-season-
 ||partner.$domain=zzapolowy.com
 ||partner.iforbet.pl^$domain=typersi.pl
 ||partners.$domain=italiapozaszlakiem.com
