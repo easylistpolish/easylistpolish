@@ -1526,3 +1526,4 @@ popularcoffee.pl##.stf-adsense
 jawor24h.pl##.container-advert-top
 ostrowiecnews.pl##p[style='margin-left:120px;"']
 ostrowiecnews.pl##p[style='margin-left:120px;"'] + center
+przegladpiaseczynski.pl##.przeglad-reklama-box
