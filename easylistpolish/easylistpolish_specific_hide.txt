@@ -1523,3 +1523,4 @@ bestofwhisky.pl##.contetn-left-ad-top
 boomerang-tv.pl##.mpu
 pultuszczak.pl##.advertisement
 popularcoffee.pl##.stf-adsense
+jawor24h.pl##.container-advert-top
