@@ -1515,3 +1515,4 @@ poczta.o2.pl##dd-holder
 poczta.o2.pl##sidebar-feed
 lacha.pl###divExoLayerWrapper
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
+radioznin.fm##.bannergroup
