@@ -1518,3 +1518,4 @@ mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 radioznin.fm##.bannergroup
 naszekwatery.pl##.banner
 4tour.pl##.span2
+swift-iban.pl###custom_html-2
