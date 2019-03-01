@@ -1522,3 +1522,4 @@ swift-iban.pl###custom_html-2
 bestofwhisky.pl##.contetn-left-ad-top
 boomerang-tv.pl##.mpu
 pultuszczak.pl##.advertisement
+popularcoffee.pl##.stf-adsense
