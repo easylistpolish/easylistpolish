@@ -526,7 +526,6 @@ bryk.pl##.advert-right-wrapper
 grupacbb.pl##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
-zkrainynba.com##.advertise-title + .advertise-container
 q4.pl##.advertisemen-block
 hokej.net,przewodnikmp.pl,tvpodkarpacka.pl##.advertisement
 gala.pl##.advertising-box
@@ -1034,7 +1033,6 @@ businessinsider.com.pl##A[href^="http://emisjao.contentstream.pl/_/ctr/?u=http%3
 pwm.org.pl##A[onclick^="countAdClick"]
 tygodnikprzeglad.pl##A[title="REKLAMA"]
 rzeszownazywo.pl##A[title^="BANER"]
-poczta.wp.pl##DD-HOLDER[slot="PANEL_PREMIUM"]
 poczta.wp.pl##NATIVE-FEED[ng-if^="ListDirectiveController."]
 turek.net.pl##[class*="l-banners-"]
 dobreprogramy.pl##[class^="__bc_layer_"]
@@ -1284,7 +1282,6 @@ q4.pl##div[onclick="window.open('http://www.midasnieruchomosci.pl/','_blank');"]
 v.wpimg.pl##div[onclick="window.open(clickTag, '_blank')"] > #canvas
 zarabiam.com##div[onclick^="MyAdvertisements."]
 imav.tv,portalbraniewo.pl,slowopodlasia.pl##div[onclick^="update_ad"]
-korso.pl,kronikatygodnia.pl,pzl24.pl,tvradom.pl,tvsudecka.pl##div[onclick^="update_ad("]
 wirtualnykonin.pl##div[onclick^="window.open('http://www.wirtualnykonin.pl/go.live.php/banners_"]
 naekranie.pl##div[style$="-webkit-calc(100vh + 61px); position: fixed;"]
 tcz.pl##div[style$="/helios-bg.jpg') center top"]
@@ -1393,7 +1390,6 @@ trojmiasto.pl##ins[id^="revive-0-"]
 interia.pl#?#LI:-abp-has(.tile-magazine-category:-abp-contains(SPONSOROWANE))
 telemagazyn.pl##li > a[rel="nofollow"]
 meczenazywo.pl##li[class^="cool-stuff"]
-dziennik.pl##li[data-title="Sponsorowane"]
 tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 ezg24.net##li[style="width: 268px; height: 207px;"]
