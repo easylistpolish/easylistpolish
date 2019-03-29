@@ -1527,3 +1527,12 @@ jawor24h.pl##.container-advert-top
 ostrowiecnews.pl##p[style='margin-left:120px;"']
 ostrowiecnews.pl##p[style='margin-left:120px;"'] + center
 przegladpiaseczynski.pl##.przeglad-reklama-box
+zmpd.pl##.banner_po_lewej
+travelmaniacy.pl##div[style="width: 305px; height: 270px; margin: 5px 0 5px 0;"]
+planeteplus.pl###planeteplus-add-1
+wroclaw.pl##.boxVerticalBanner
+opowiadaniaerotyczne.pl##.widget_text
+kodeksymezoamerykanskie.eu##.ads
+skladaniekomputera.pl##a[href^="http://seldarco.getleads.pl"]
+mxwojcik.pl###text-3
+mylomza.pl##.l-ad-top
