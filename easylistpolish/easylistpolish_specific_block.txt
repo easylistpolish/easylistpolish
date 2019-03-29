@@ -1935,3 +1935,5 @@ _reklamy_$domain=chojna24.pl
 ||staleo.pl^*^58ad3a2c4bf73_
 ^wpjslib-sgap.$script,domain=poczta.wp.pl
 ||tulegnica.pl^*^inline__1_3668.
+^advertiseButtons^$domain=smanager.pl
+^inline_images/114^$domain=mylomza.pl
