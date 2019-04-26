@@ -1540,3 +1540,5 @@ filmweb.pl##.ws__wrapper
 filmweb.pl###mainSkyBanner-pl_PL
 filmweb.pl##.boxAddon
 filmweb.pl###menuLink-pl_PL + DIV
+elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
+elektroda.pl##.gahvai7A
