@@ -1939,3 +1939,6 @@ _reklamy_$domain=chojna24.pl
 ^inline_images/114^$domain=mylomza.pl
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||fwcdn.pl^*^wide^$image,domain=filmweb.pl
+^banner^$domain=flashscore.pl
+||http:$popup,domain=fili.cc
+||https:$popup,domain=fili.cc
