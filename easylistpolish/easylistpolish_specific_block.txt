@@ -1942,3 +1942,4 @@ _reklamy_$domain=chojna24.pl
 ^banner^$domain=flashscore.pl
 ||http:$popup,domain=fili.cc
 ||https:$popup,domain=fili.cc
+||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
