@@ -1539,6 +1539,9 @@ mylomza.pl##.l-ad-top
 filmweb.pl##.ws__wrapper
 filmweb.pl###mainSkyBanner-pl_PL
 filmweb.pl##.boxAddon
-filmweb.pl###menuLink-pl_PL + DIV
+filmweb.pl###menuLink-pl_PL + centeredContainer
+filmweb.pl##.ad__billboard-below-header
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
 elektroda.pl##.gahvai7A
+filmweb.pl##div[id^="video5_ima"]
+mobilneforum.pl##.banner-slider
