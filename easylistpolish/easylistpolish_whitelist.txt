@@ -128,3 +128,4 @@
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
 @@^wppas.$domain=przegladpiaseczynski.pl
+@@||filesrr.vitalia.pl^*^reklama/danie.$image,third-party,domain=wp.pl
