@@ -1479,7 +1479,7 @@ _reklamy_$domain=chojna24.pl
 ||skijumping.pl^*^banery/forbet-
 ||slaskiesiemianowice.pl^*^asgrawbaner-
 ||slasknet.com^*_baner.
-||slideplayer.pl/sli$f~third-party,image
+||slideplayer.pl/sli$~third-party,image
 ||slowo.art.pl^*^banners/banner_
 ||sloworegionu.pl^*^alior300x250.
 ||sloworegionu.pl^*^odchudzanie^
