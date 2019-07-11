@@ -19,3 +19,4 @@
 ##a[href^="http://wlbetathome.adsrv.eacdn.com"]
 ##div[onclick^="update_ad("]
 ##li[data-title="Sponsorowane"]
+##.componentsPromotionsOffers__list
