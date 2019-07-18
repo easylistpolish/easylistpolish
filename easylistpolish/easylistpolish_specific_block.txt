@@ -1178,6 +1178,9 @@ _reklamy_$domain=chojna24.pl
 ||piotrkowski24.pl^*^nafcom800.
 ||pislamizacja.pl/dodatki/widget/widget.php$domain=wygaszamypis.pl
 ||placpigal.pl^*^wp.jpg
+||pless-intermedia.pl^*^banner^$image
+||pless-intermedia.pl^*^rotator^$subdocument
+||pless-intermedia.pl^*^slajdy^$subdocument
 ||plonsk24.pl^*^img_101^
 ||plonsk24.pl^*^img_122^
 ||plonsk24.pl^*^img_145^
