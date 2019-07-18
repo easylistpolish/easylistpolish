@@ -259,7 +259,7 @@ _reklamy_$domain=chojna24.pl
 ||cda-hd.pl^*^sztosy2.
 ||cdn.dcsaas.net^$domain=sklepbazant.pl|swiatmodeli.eu
 ||cdn.rutracker.org.pl/protJS^
-||ceneo.pl^*^banners$domain=nissanklub.pl|beztrzymanki.pl
+||ceneo.pl^*^banners$domain=nissanklub.pl|beztrzymanki24.pl
 ||centrumdruku3d.pl^*^2018/06/UBOT3D_
 ||centrumdruku3d.pl^*^2018/06/zortrax1.
 ||centrumdruku3d.pl^*^325x500-
