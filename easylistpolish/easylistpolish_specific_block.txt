@@ -177,6 +177,7 @@ _reklamy_$domain=chojna24.pl
 ||audiostereo.pl/banery^
 ||auto-land.pl^*^nexus-bottom.
 ||automotivesuppliers.pl^*^banerITA_
+||automotivesuppliers.pl^*^banners
 ||automotivesuppliers.pl^*^galwano_partners2.
 ||baner.$domain=cieszynonline.pl|elblagonline.pl|faktykrakowa.pl|halloween.friko.net|qulturaslowa.pl|wiadomosciwadowice.pl
 ||bankier.pl^$domain=ziemiakepinska.pl
