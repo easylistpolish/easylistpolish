@@ -669,6 +669,11 @@ tarnobrzeskie.eu##.custom-header-banner
 chrzanowski24.pl##.custom-rektt
 przeclaw24.pl##.custompolecamy
 mediagroupinfo.pl##.cycloneslider
+wirtualnyregion.pl##.cycloneslider > DIV[data-cycle-auto-height="980:120"]
+wirtualnyregion.pl##.cycloneslider > DIV[data-cycle-auto-height="735:140"]
+wirtualnyregion.pl##.cycloneslider > DIV[data-cycle-auto-height="640:120"]
+wirtualnyregion.pl##.cycloneslider > DIV[data-cycle-auto-height="300:240"]
+wirtualnyregion.pl##.cycloneslider > DIV[data-cycle-auto-height="300:120"]
 bilgorajska.pl,gada.pl##.czytaj_dalej
 autokult.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,money.pl,pudelek.pl,wp.pl##.dbb_Container
 trojmiasto.pl##.dcedcafe-a
