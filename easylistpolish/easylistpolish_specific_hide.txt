@@ -229,6 +229,8 @@ toproste.pl###menu_zlewej
 radio5.com.pl###menuss
 kurierostrowski.pl###metaslider_970
 kurierostrowski.pl###metaslider_975
+b24tv.pl###metaslider_container_5028
+b24tv.pl###metaslider_container_5680
 noworudzianin.pl###metaslider_widget-2
 pakerzy.org###middleR
 dziennik.pl###miejsce101
