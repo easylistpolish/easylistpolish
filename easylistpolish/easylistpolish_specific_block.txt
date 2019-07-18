@@ -192,6 +192,8 @@ _reklamy_$domain=chojna24.pl
 ||bezale.pl^*_dieta.
 ||bezale.pl^*_suplement_
 ||bezale.pl^*_suplementy.
+||bezale.pl^*^Marketing-
+||bezale.pl^*^httpsstopwindykacji
 ||bid^$domain=a-o.ninja
 ||bid^$script,domain=vidfile.net
 ||bieganieuskrzydla.pl^*^decathlon-promocja.
