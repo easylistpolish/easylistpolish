@@ -178,6 +178,7 @@ slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.p
 appleworld.pl###execphp-9
 mylomza.pl###fadeinbox
 ekoscan.pl###ff48b1f7c46149caa6837d3ad6772cce
+lublin112.pl###firmy-box-inner
 portalwrc.pl###flashcontent
 szalonewalizki.pl###flexi_searchbox
 gazetalubliniecka.pl###foot-leader
