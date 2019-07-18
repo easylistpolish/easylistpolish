@@ -147,21 +147,6 @@ mensis.pl###custom_html-4
 pilkarskiswiat.com###custom_html-6
 zwrotnikraka.pl###custom_html-7
 wochenblatt.pl###custom_post_widget-8
-wirtualnyregion.pl###cycloneslider-37820-14
-wirtualnyregion.pl###cycloneslider-378207
-wirtualnyregion.pl###cycloneslider-fire-eco-10
-wirtualnyregion.pl###cycloneslider-fire-eco-17
-wirtualnyregion.pl###cycloneslider-fire-eco-9
-wirtualnyregion.pl###cycloneslider-inter-9
-wirtualnyregion.pl###cycloneslider-konspol-5
-wirtualnyregion.pl###cycloneslider-konspol-7
-wirtualnyregion.pl###cycloneslider-konspol-sidebar-2
-wirtualnyregion.pl###cycloneslider-mleczarnia-sidebar-4
-wirtualnyregion.pl###cycloneslider-panel-16
-wirtualnyregion.pl###cycloneslider-panel-sidebar-8
-wirtualnyregion.pl###cycloneslider-wozki-granit-12
-wirtualnyregion.pl###cycloneslider-wozki-granit-9
-wirtualnyregion.pl###cycloneslider-ziemia-6
 skarzysko24.pl###djslider-loader400
 skarzysko24.pl###djslider-loader415
 skarzysko24.pl###djslider-loader432
@@ -793,8 +778,6 @@ comparic.pl,felcia.co.uk##.mfp-ready
 tv.pl,zakumaj.pl##.middle-salesmedia
 na-pulpit.com,na-telefon.org,widoczki.com##.mng
 na-pulpit.com,na-telefon.org,widoczki.com##.mng + .menu + a
-wirtualnyregion.pl##.mobile-mleczarnia
-wirtualnyregion.pl##.mobile-mleczarnia-h
 gazeta.pl##.mod_flash_hp
 gazeta.pl##.mod_landing_tab
 gazeta.pl##.mod_tabbed_tourist
