@@ -1463,6 +1463,7 @@ _reklamy_$domain=chojna24.pl
 ||satkurier.pl/banery^
 ||sci24.pl^*-banner.
 ||sharevideo.pl^*^samibaby.
+||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
 ||shoplov.in^$domain=babyonline.pl
 ||siewie.tv^*^VHSNADVD_
 ||skarzysko24.pl/images/cp^
