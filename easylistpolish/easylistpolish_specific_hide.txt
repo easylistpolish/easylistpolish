@@ -714,6 +714,7 @@ itvwisla.tv##.g-3
 topmejt.co.uk##.g-single
 spottedlublin.pl##.g1-advertisement
 lubartow24.pl##.gazetka-box
+anywhere.pl##.gofollow
 dspodcast.pl##.gogreen
 log4.pl##.grafikaKlienta
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
