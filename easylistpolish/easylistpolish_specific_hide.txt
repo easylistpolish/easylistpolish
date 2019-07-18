@@ -550,7 +550,7 @@ swinoujskie.info##.background-cover
 mojabochnia.pl##.ban
 haloursynow.pl,infoilawa.pl,mtgnews.pl,pszczynska.pl,speedwaynews.pl,sportowebeskidy.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl##.baner
 re-volta.pl##.baner-medium-rectangle-on
-czecho.pl##.baner-row
+czecho.pl,pless.pl,bielsko.info##.baner-row
 ogloszenia.re-volta.pl##.baner-square-on
 tygodniksiedlecki.com##.baner-text
 wsensie.tv##.baner1
