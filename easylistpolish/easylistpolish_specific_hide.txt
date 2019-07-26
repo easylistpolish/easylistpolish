@@ -937,6 +937,7 @@ cannabisnews.pl##.snp-overlay
 eszkola.pl##.spolecznoscinet
 haloursynow.pl##.spons
 cybersport.pl##.sponsor
+xda-developers.com##.sponsor-dyn-banner
 portalplock.pl,zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 dziennikwschodni.pl##.sponsorowany-newspack
