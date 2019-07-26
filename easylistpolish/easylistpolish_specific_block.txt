@@ -339,6 +339,7 @@ _reklamy_$domain=chojna24.pl
 ||dziennikzwiazkowy.com*^*01/PNA.
 ||dzisiajwgliwicach.pl^*-590x300-
 ||dzisiajwgliwicach.pl^*^autodoc.pl_
+||dzisiajwgliwicach.pl^*^sixsilver-jubiler
 ||e-grajewo.pl^*-adiag180.
 ||e-grajewo.pl^*-aibbiuro180.
 ||e-grajewo.pl^*-alnet80.
