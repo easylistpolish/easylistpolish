@@ -1950,6 +1950,9 @@ _reklamy_$domain=chojna24.pl
 ^banner^$domain=chords.pl
 ||adseu.novem.pl^$domain=300polityka.pl
 ||mazopolska.pl^*^Klava.
+||mazopolska.pl^*-300x150.
+||mazopolska.pl^*^KLAVA-BANER
+||mazopolska.pl^*^protech-baner
 ||nowaruda.info/mBanner.
 ||partnerzyapi.ceneo.pl^$script,domain=musthavefashion.pl
 ||rek.www.wp.pl^
