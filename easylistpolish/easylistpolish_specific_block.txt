@@ -184,6 +184,7 @@ _reklamy_$domain=chojna24.pl
 ||batuu.pl^$domain=wizaz.pl
 ||beerpubs.pl^*^back_all_pl2.
 ||beskidzka24.pl^*^Press-Travel-
+||beta.doba.pl/adserver^
 ||betonline.net.pl/images/totolotek.jpg
 ||bezale.pl^*^320_
 ||bezale.pl^*^chrapanie_
@@ -905,6 +906,7 @@ _reklamy_$domain=chojna24.pl
 ||legionisci.com^*_abjsport.
 ||legionisci.com^*_ludzietegomiasta3.
 ||libertarianin.org^*^xsklepwolnosciowy.
+||lilia.doba.pl^$image
 ||limanowa.in^*^automarzen^
 ||limanowianin.in^*^kf-nestor.
 ||locomobit.pl/upside.php?city=
