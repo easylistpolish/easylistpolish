@@ -375,6 +375,11 @@ _reklamy_$domain=chojna24.pl
 ||e-play.pl^*^Promatic_e-
 ||e-play.pl^*^SB-Betting-
 ||e-play.pl^*^sygnisoft1_
+||e-playbet.com^*_bonus_20
+||e-playbet.com^*_300x300
+||e-playbet.com^*_350x350_
+||e-playbet.com^*Forbet-baner
+||e-playbet.com^*_470x470_
 ||ebelchatow.pl^*^dolsat_logo_
 ||ec.bankier.pl^$domain=brodnica.net|gorzow24.pl|polakcandwa.blogspot.com|pox.pl|sentencje.com.pl|tutajglogow.pl|twojsacz.pl|zamosc.tv
 ||echo24.tv^*^300x250x1/banners^
