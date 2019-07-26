@@ -1549,6 +1549,7 @@ filmweb.pl##.boxAddon
 filmweb.pl###menuLink-pl_PL + centeredContainer
 filmweb.pl##.ad__billboard-below-header
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
+bosonamacie.pl##a[onclick^="ga('send'"] > img
 elektroda.pl##.gahvai7A
 filmweb.pl##div[id^="video5_ima"]
 mobilneforum.pl##.banner-slider
