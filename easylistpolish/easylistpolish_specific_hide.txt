@@ -599,7 +599,7 @@ aviation24.pl,chnnews.pl,chwaszczyno.pl,e-sadownictwo.pl,ezamosc.pl,fightsport.p
 tvswietokrzyska.pl##.bannergroupclear
 powiatowa.info##.bannergrouphidden-mobile
 ezamosc.pl##.bannergroupvertical
-chrzanowski24.pl,glospowiatusredzkiego.pl,infolinia.com,informacje.kolobrzeg.pl,krynica.tv,logistyczny.com,nowawrzesnia.pl,podkarpacie.media.pl,police24.pl,przeclaw24.pl,radiooko.pl,tvswietokrzyska.pl##.banneritem
+e-kg.pl,chrzanowski24.pl,glospowiatusredzkiego.pl,infolinia.com,informacje.kolobrzeg.pl,krynica.tv,logistyczny.com,nowawrzesnia.pl,podkarpacie.media.pl,police24.pl,przeclaw24.pl,radiooko.pl,tvswietokrzyska.pl##.banneritem
 niedziela.nl##.banneritem_
 informacjelodzkie.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
 rzeszowairport.pl##.banners-content
