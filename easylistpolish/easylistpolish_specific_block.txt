@@ -1338,6 +1338,7 @@ _reklamy_$domain=chojna24.pl
 ||probasket.pl^*^nike-pon8.
 ||probasket.pl^*^PRODC.
 ||probasket.pl^*^Snapbacks.
+||prokapitalizm.pl^*^zloto_prokap.
 ||progressforpoland.com^*-greenberg.
 ||progressforpoland.com^*-on-air.
 ||progressforpoland.com^*^Caputa_banner.
