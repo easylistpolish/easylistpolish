@@ -988,6 +988,7 @@ synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
 podgorze.pl##.trivago_widget_text
 eswinoujscie.pl##.ulp-overlay + .ulp-window
+ceny-zlomu.pl##.uniq-banner
 eswinoujscie.pl##.vacationclub_link
 radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm##.vc_wp_text
