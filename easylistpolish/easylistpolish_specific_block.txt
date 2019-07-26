@@ -1893,6 +1893,9 @@ _reklamy_$domain=chojna24.pl
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||ziemialimanowska.pl^*^lidka.JPG
 ||ziemialimanowska.pl^*^Tuw.jpg
+||ziemialimanowska.pl^*^JANCZYK-
+||ziemialimanowska.pl^*^CKU-plakat222-
+||ziemialimanowska.pl^*^SOLIDARNOSC-modified_
 ||zkrainynba.com^*^2018/03/1.png
 ||zkrainynba.com^*^2018/03/3.png
 ||zkrainynba.com^*^300x300kosz.
