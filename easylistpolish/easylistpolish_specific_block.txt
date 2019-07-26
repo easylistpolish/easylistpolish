@@ -1136,6 +1136,8 @@ _reklamy_$domain=chojna24.pl
 ||ono24.info^*^sad^
 ||ostrowiecnews.pl^*^877x117.
 ||ostrzeszowinfo.pl^*^W%C3%B3jcik_reklama%20prasowa1.
+||oswiecim112.pl^*^Reklama
+||oswiecim112.pl^*^Adamex
 ||othertees.com^*^othertees.$domain=zpopk.pl
 ||oto-samochody.pl^*^rufus.
 ||owabgxis.wp.pl^
