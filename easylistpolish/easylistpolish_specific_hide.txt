@@ -909,6 +909,7 @@ dlagimnazjalisty.info,dlamaturzysty.info,edubaza.pl,gramatyka-angielska.info,pra
 erawa.pl,zebrra.tv##.sam-container
 naszemiasto.pl##.sbGry
 wp.pl##.scr-wallpaper > div[style^="top: 0px; left: 0px;"]
+businesswomanlife.pl##.sead > a > img
 ekologia.pl##.sec-pasaz
 e-tlumacze.net##.section-banner
 bezpiecznydom.net##.section-banner-44
