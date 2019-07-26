@@ -323,7 +323,7 @@ _reklamy_$domain=chojna24.pl
 ||ddbelchatow.pl^*-320x100.
 ||deathmagnetic.pl^*^dio_300x300.
 ||debica.tv^*-overlay-ads^
-||direct.money.pl/i/box_money_main_page/campaign^
+||direct.money.pl^*^i/box_money_main_page/campaign^
 ||disco-polo.info^*-Bischin---Mulatka.
 ||dlp-expert.pl^*_300x240px_
 ||doba.pl/JezioroBielawskie2018_
