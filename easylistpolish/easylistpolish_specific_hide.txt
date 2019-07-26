@@ -1451,6 +1451,7 @@ dziennikplocki.pl##ul[id^="campaign"]
 telewizjattm.pl##video[src^="http://www.telewizjattm.pl/wioslo"]
 wp.pl#?#aside:-abp-contains(Reklama) + DIV
 wp.pl#?#aside:-abp-contains(Reklama) + IFRAME
+oswiecim112.pl#?#aside:-abp-contains(REKLAMA) > .textwidget
 wp.pl#?#div[class^="styled__GlonewsHeaderHalf"]:-abp-contains(REKLAMA)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/adverts"])
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
