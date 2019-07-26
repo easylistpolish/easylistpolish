@@ -223,6 +223,7 @@ nmketrzyn.pl###media_image-13
 nmketrzyn.pl###media_image-14
 bucks.pl,projektowaniebim.pl###media_image-2
 littletownshoes.com###media_image-3
+kresy.pl###media_image-3
 bucks.pl###media_image-4
 devilpage.pl###menu_bannerki
 toproste.pl###menu_zlewej
