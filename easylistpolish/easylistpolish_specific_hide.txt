@@ -920,6 +920,7 @@ medexpress.pl##.sid_adver
 tabletowo.pl##.sid_rek
 rodzynkisultanskie.blog.pl##.sidebar-footer
 portaltenisowy.info##.sidebar__advert--med
+zywiec112.com.pl##.simple-popup-advert
 kobietapo30.pl##.singlePostBanner
 gameplatform.pl,techfresh.pl##.sis-product-widget
 wroclawiak.pl##.site-right-re
