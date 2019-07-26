@@ -1975,6 +1975,9 @@ _reklamy_$domain=chojna24.pl
 ||staleo.pl^*^5c3701bfc8ed4_
 ^wpjslib-sgap.$script,domain=poczta.wp.pl
 ||tulegnica.pl^*^inline__1_3668.
+||tulegnica.pl^*^inline__1_7374.
+||tulegnica.pl^*^inline__1_6446.
+||tulegnica.pl^*^inline__1_8006.
 ^advertiseButtons^$domain=smanager.pl
 ^inline_images/114^$domain=mylomza.pl
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
