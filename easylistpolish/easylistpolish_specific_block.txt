@@ -1972,6 +1972,7 @@ _reklamy_$domain=chojna24.pl
 ||staleo.pl^*^587c9a614cd75_
 ||staleo.pl^*^587c74fe36f77_
 ||staleo.pl^*^58ad3a2c4bf73_
+||staleo.pl^*^5c3701bfc8ed4_
 ^wpjslib-sgap.$script,domain=poczta.wp.pl
 ||tulegnica.pl^*^inline__1_3668.
 ^advertiseButtons^$domain=smanager.pl
