@@ -1932,6 +1932,9 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^fastgraw_
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||zyciezamoscia.pl^*^04/CHATA
+||zyciezamoscia.pl^*^24_megadruk2
+||zyciezamoscia.pl^*^kamienie_small
 -baner.$domain=mazopolska.pl
 ^750x200_$domain=geekweek.pl
 ^baner_$domain=zapytam.com
