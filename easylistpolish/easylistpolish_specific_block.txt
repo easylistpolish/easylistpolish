@@ -508,6 +508,7 @@ _reklamy_$domain=chojna24.pl
 ||fcinter.pl^*^g2g-
 ||fiat.fm^*^czesciauto24-
 ||fiatklubpolska.pl^*-iparts.
+||filetracker.pl/remonty.
 ||fitnessformacieszyn.pl^*^forma.jpg$domain=chrzanowski24.pl
 ||fitnessgraviton.pl^*^graviton/logo.$domain=chrzanowski24.pl
 ||fntajkb.wp.pl^
