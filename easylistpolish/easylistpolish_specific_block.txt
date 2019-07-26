@@ -234,6 +234,7 @@ _reklamy_$domain=chojna24.pl
 ||bridelle.pl^*^bannerwk3.
 ||bronradom.pl^*410086.
 ||bronradom.pl^*^logofabryka.
+||bronradom.pl^*logo_echodnia
 ||bronradom.pl^*^mazda6.
 ||bronradom.pl^*^rosainvest.
 ||bronradom.pl^*_119138.
@@ -241,6 +242,11 @@ _reklamy_$domain=chojna24.pl
 ||bronradom.pl^*_503527.
 ||bronradom.pl^*_769133.
 ||bronradom.pl^*_814494.
+||bronradom.pl^*_158758.
+||bronradom.pl^*_236288.
+||bronradom.pl^*_600522.
+||bronradom.pl^*_832945.
+||bronradom.pl^*_883257.
 ||btcduke.com:8098^$domain=btcduke.com
 ||budnet.pl/images/750x100budnetkierowca
 ||budnet.pl^*^750x100budnetnadaj.
