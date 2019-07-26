@@ -1085,6 +1085,7 @@ _reklamy_$domain=chojna24.pl
 ||newsbook.pl^*^dzia%C5%82ka.jpg
 ||nextclick.pl/widget/widget.advertisement
 ||niebezpiecznik.pl/baramundi-
+||niebezpiecznik.pl/cloudya2.
 ||niebezpiecznik.pl/mdm-
 ||niebezpiecznik.pl^*^2017/06/ban.png
 ||niebiescy.pl^*^chimimeca_
