@@ -1056,6 +1056,7 @@ metalnews.pl##a[class^="single_ad_"]
 lovekrakow.pl##a[data-advert-click]
 dzienniklodzki.pl##a[data-gtm="/nowa_karta/naglowek/http://hnw.com.pl/"]
 cashless.pl##a[data="advert-link"]
+blogpress.pl,prokapitalizm.pl##a[href*="multibook.pl"] > img
 forum.przyroda.org##a[href*="sadistic.pl"]
 dzieckowpodrozy.pl##a[href$="_campaign=dzieckowpodrozy"]
 hoga.pl##a[href="//bacom.pl/"]
