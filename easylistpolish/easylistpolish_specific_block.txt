@@ -203,6 +203,7 @@ _reklamy_$domain=chojna24.pl
 ||bielskiedrogi.pl^*^mobilne_strony_
 ||biotechnologia.pl^*^ats^
 ||bitcoin-online.pl/images/bb.jpg|
+||bitcoin-online.pl/images/*baner.jpg
 ||bitcoin-online.pl^*^gielda-BitBay.
 ||bitcoin.pl^*^infobtc-1160x653.
 ||blaugrana.pl^*^forbet1.
