@@ -1447,6 +1447,7 @@ _reklamy_$domain=chojna24.pl
 ||rehabilitacyjne.pl^*_maxim.
 ||rehalab.eu^*^rekrek^
 ||rentalcars.com/WidgetSearch.$domain=infolizbona.pl
+||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||retailnet.pl^*-725x150_
 ||ringpolska.pl^*^14825601_
 ||ringpolska24.pl^*^globalboxing.
