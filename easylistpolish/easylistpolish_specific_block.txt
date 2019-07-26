@@ -1555,7 +1555,7 @@ _reklamy_$domain=chojna24.pl
 ||stressfree.pl^*^banner_summerhill
 ||strimeo.pl/pl/ban/box1|
 ||sts.pl^$popup,domain=primeradivision.pl
-||sts.pl^$subdocument,domain=goal.pl|izaktv.pl|primeradivision.pl|seriea.pl
+||sts.pl^$subdocument,domain=goal.pl|izaktv.pl|primeradivision.pl|seriea.pl|e-play.eu
 ||stsodds.sts.pl^$subdocument,domain=cybersport.pl|juvepoland.com
 ||styl.fm/ceneo^
 ||styl.fm/wiocha^$domain=wiocha.pl
