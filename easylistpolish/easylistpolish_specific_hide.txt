@@ -936,6 +936,7 @@ polonia1912leszno.pl##.slider2 + * + .jsn-news-flash2
 satinfo24.pl##.slider_1
 kcynia.info##.slider_2
 puszczawkrzanska.pl##.slides
+staleo.pl##.sliding-baner-box--right
 slowoseniora.pl##.slowo-widget
 fotopolis.pl##.small-products
 vetopedia.pl##.smallprodan
@@ -1055,6 +1056,7 @@ poczta.wp.pl,profil.wp.pl##a > div > img[src^="https://v.wpimg.pl"]
 metalnews.pl##a[class^="single_ad_"]
 lovekrakow.pl##a[data-advert-click]
 dzienniklodzki.pl##a[data-gtm="/nowa_karta/naglowek/http://hnw.com.pl/"]
+staleo.pl##a[data-type*="Reklama"]
 cashless.pl##a[data="advert-link"]
 blogpress.pl,prokapitalizm.pl##a[href*="multibook.pl"] > img
 forum.przyroda.org##a[href*="sadistic.pl"]
