@@ -972,6 +972,7 @@ _reklamy_$domain=chojna24.pl
 ||miasto.koszalin.pl^*^baner-ssw-
 ||miasto.koszalin.pl^*^cku-koszalin.
 ||miasto.koszalin.pl^*^radmor_
+||miastokobiet.pl^*^05/czas-kobiet-miasto-kobiet.
 ||miastokolobrzeg.pl^*^001/spolecznik.
 ||miastokolobrzeg.pl^*^003/B/geodeta.
 ||miastokolobrzeg.pl^*^005/C/okna.
