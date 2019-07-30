@@ -978,6 +978,7 @@ onetontour.pl##.test-drive-banner
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 chcemybycrodzicami.pl##.the-a
+e-playonline.com##.themewing-ads-banner-image
 tkn24.pl##.thisisatest
 odkryjpomorze.pl##.ticker-container
 elektroda.pl##.tme-menu
