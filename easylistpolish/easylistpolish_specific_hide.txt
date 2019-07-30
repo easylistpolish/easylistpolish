@@ -890,6 +890,7 @@ tarnowska.tv##.reklamaBox_14
 cenyrolnicze.pl##.reklamaItem
 infobus.pl##.reklamaR2Napis
 infobus.pl##.reklamaR2Napis + div
+rajdy24.pl##.reklamarozmiar
 moje-gniezno.pl##.reklamaTEKST
 moje-gniezno.pl##.reklamaTEKST + *
 rzeszow-news.pl##.reklama_gora
