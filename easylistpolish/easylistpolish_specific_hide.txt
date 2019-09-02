@@ -1509,7 +1509,7 @@ szczekaopada.pl##.adv750x200
 poczta.wp.pl##dd-holder
 poczta.wp.pl##sidebar-feed
 wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(iframe)
-wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
+www.wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 poczta.o2.pl##dd-holder
 poczta.o2.pl##sidebar-feed
