@@ -1964,3 +1964,4 @@ _reklamy_$domain=chojna24.pl
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||lwowecki.info^*^03/samson-
 ||lwowecki.info^*^sjo-germanos.
+||placpigal.pl^*^matchbanker-photo_logo_opt.
