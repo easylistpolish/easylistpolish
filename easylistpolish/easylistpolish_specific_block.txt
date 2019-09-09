@@ -1959,3 +1959,8 @@ _reklamy_$domain=chojna24.pl
 ||kucharze.pl^*^GIF_900x70.
 ||oto-samochody.pl^*^autoswiat.
 ||polskibiznes.info^*-300x300.
+||lwowecki.info^*^03/dietetyk.
+||lwowecki.info^*^biuro-rachunkowe.
+||lwowecki.info^*^skrojan-okna-drzwi.
+||lwowecki.info^*^03/samson-
+||lwowecki.info^*^sjo-germanos.
