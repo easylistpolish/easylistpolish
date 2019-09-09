@@ -1579,3 +1579,5 @@ centrumdruku3d.pl##a[onclick*="'Banners'"] + div
 centrumdruku3d.pl##a[href*="&utm_campaign"] > img
 centrumdruku3d.pl##a[href*="hp3d.pl/"] > img
 centrumdruku3d.pl##a[onclick*="'Banners'"]
+elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > img)
+elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)

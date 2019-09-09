@@ -1987,3 +1987,4 @@ _reklamy_$domain=chojna24.pl
 ||okraglemiasto.pl^*^pido-sklep-
 ||gazetaprawna.pl^*^4217123-finces.
 ||centrumdruku3d.pl^*^3DG_
+||elektroda.pl^*^bto.
