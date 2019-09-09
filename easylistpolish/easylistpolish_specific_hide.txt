@@ -1556,3 +1556,4 @@ se.pl##div[class^="zpr_inside"]
 party.pl##.zalando-placeholder
 party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
+||tipmedia.pl^$subdocument,domain=lokalna24.pl
