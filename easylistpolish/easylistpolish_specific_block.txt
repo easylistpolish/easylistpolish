@@ -1974,3 +1974,4 @@ _reklamy_$domain=chojna24.pl
 ||glos.live^*^Vitality_
 ||gwint24.pl^*_750x200.
 ||rankomat.pl/tracking^$image,domain=kariera24.info
+||widget.nokaut.pl^$script,domain=tromil.pl
