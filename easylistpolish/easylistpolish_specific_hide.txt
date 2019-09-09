@@ -1575,3 +1575,4 @@ mgsm.pl##div[id^="AdArea"]
 okraglemiasto.pl##a[href^="https://allegro.pl/"] > img
 trakt.tv##a[href^="/vip/ads"] + div
 zegarkiipasja.pl#?#:-abp-has(> .ad-event-label + a:not([href^="https://zegarkiipasja.pl"]))
+centrumdruku3d.pl##a[onclick*="'Banners'"] + div
