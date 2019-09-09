@@ -1572,3 +1572,4 @@ forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 sprowadzanie-aut.pl##.banner-inner
 mgsm.pl###plus-aside
 mgsm.pl##div[id^="AdArea"]
+okraglemiasto.pl##a[href^="https://allegro.pl/"] > img
