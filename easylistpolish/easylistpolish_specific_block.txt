@@ -1969,3 +1969,6 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=piotrkowski24.pl
 ||rowery.org^*^baner-danielo19.
 ||sts.pl^$subdocument,domain=pilkarskieforum.com
+||glos.live^*^owieczka_reklama.
+||glos.live^*^skoda^
+||glos.live^*^Vitality_
