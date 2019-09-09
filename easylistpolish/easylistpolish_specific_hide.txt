@@ -1563,3 +1563,4 @@ kramik.pl##a[href^="/glowna/reklama/"] > img
 forum.bitcoin.pl##.ads
 kryptoportal.pl##a[href^="https://flyingatom."]
 kryptoportal.pl,kryptonotowania.pl##.losowanko
+pepe-tv.eu###custom_html-2
