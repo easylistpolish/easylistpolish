@@ -1972,3 +1972,4 @@ _reklamy_$domain=chojna24.pl
 ||glos.live^*^owieczka_reklama.
 ||glos.live^*^skoda^
 ||glos.live^*^Vitality_
+||gwint24.pl^*_750x200.
