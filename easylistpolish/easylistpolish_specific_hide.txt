@@ -1568,3 +1568,4 @@ piotrkowski24.pl##.header-promo
 q4.pl##.advCounterAjax
 goal.pl,primeradivision.pl,ligapolska.pl,seriea.pl,eredivisie.pl#?#.rectangle:-abp-has(> .reklamaNapis + center)
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBanner
+forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
