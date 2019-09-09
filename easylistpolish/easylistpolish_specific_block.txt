@@ -1981,3 +1981,4 @@ _reklamy_$domain=chojna24.pl
 ||bankier.pl^$script,domain=miedziak.info.pl
 ||nevicom.pl/banery^$image,domain=obud.pl|chemiabudowlana.info
 ||chemiabudowlana.info^*^25-kreisel-250.
+||ok24.tv^*^06/lasvegan.
