@@ -1979,3 +1979,4 @@ _reklamy_$domain=chojna24.pl
 ||epilka.pl^$image,domain=meczenazywo.pl
 ||kuszotv.pl/imghttps^$image,domain=mecze24.pl
 ||bankier.pl^$script,domain=miedziak.info.pl
+||nevicom.pl/banery^$image,domain=obud.pl|chemiabudowlana.info
