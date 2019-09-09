@@ -1943,3 +1943,4 @@ _reklamy_$domain=chojna24.pl
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 /^https?:\/\/www\.filmweb\.pl\/[a-z0-9A-Z]{20,}/$subdocument,domain=filmweb.pl
 /wp\.pl\/[a-zA-Z0-9]{15,}/$script,domain=poczta.wp.pl|profil.wp.pl|poczta.o2.pl
+||egospodarka.pl^*^finiata.
