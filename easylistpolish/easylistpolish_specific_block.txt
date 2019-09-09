@@ -1975,3 +1975,4 @@ _reklamy_$domain=chojna24.pl
 ||gwint24.pl^*_750x200.
 ||rankomat.pl/tracking^$image,domain=kariera24.info
 ||widget.nokaut.pl^$script,domain=tromil.pl
+||tromil.pl^*^09/parownice-multimatic.
