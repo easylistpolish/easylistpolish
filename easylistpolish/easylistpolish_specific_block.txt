@@ -1957,3 +1957,4 @@ _reklamy_$domain=chojna24.pl
 ||kryptoportal.pl^*^brave_download.
 ||kucharze.pl^*^BFS-pepitki-baner-
 ||kucharze.pl^*^GIF_900x70.
+||oto-samochody.pl^*^autoswiat.
