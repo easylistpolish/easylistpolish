@@ -1968,3 +1968,4 @@ _reklamy_$domain=chojna24.pl
 ||piotrkowski24.pl^*^baner-OSKP-
 ^banners^$domain=piotrkowski24.pl
 ||rowery.org^*^baner-danielo19.
+||sts.pl^$subdocument,domain=pilkarskieforum.com
