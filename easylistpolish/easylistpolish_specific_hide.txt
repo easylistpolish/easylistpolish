@@ -1554,3 +1554,4 @@ poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"])
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 party.pl##.zalando-placeholder
+party.pl##.ecomm-zalando
