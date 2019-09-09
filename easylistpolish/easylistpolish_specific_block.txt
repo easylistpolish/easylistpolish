@@ -1985,3 +1985,4 @@ _reklamy_$domain=chojna24.pl
 ||wp.com/okraglemiasto.pl^*^osrodek_lipiny.
 ||wp.com/okraglemiasto.pl^*^Parking-757x257.
 ||okraglemiasto.pl^*^pido-sklep-
+||gazetaprawna.pl^*^4217123-finces.
