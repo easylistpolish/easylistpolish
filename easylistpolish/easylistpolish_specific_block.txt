@@ -1958,3 +1958,4 @@ _reklamy_$domain=chojna24.pl
 ||kucharze.pl^*^BFS-pepitki-baner-
 ||kucharze.pl^*^GIF_900x70.
 ||oto-samochody.pl^*^autoswiat.
+||polskibiznes.info^*-300x300.
