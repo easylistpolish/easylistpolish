@@ -1570,3 +1570,4 @@ goal.pl,primeradivision.pl,ligapolska.pl,seriea.pl,eredivisie.pl#?#.rectangle:-a
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBanner
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 sprowadzanie-aut.pl##.banner-inner
+mgsm.pl###plus-aside
