@@ -1945,3 +1945,4 @@ _reklamy_$domain=chojna24.pl
 /wp\.pl\/[a-zA-Z0-9]{15,}/$script,domain=poczta.wp.pl|profil.wp.pl|poczta.o2.pl
 ||egospodarka.pl^*^finiata.
 ^wysiwig^$domain=lokalna24.pl
+||zdrowybialystok.pl^*^reklamy*/
