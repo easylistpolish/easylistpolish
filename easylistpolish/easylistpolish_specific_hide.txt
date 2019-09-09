@@ -1571,3 +1571,4 @@ goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###prom
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 sprowadzanie-aut.pl##.banner-inner
 mgsm.pl###plus-aside
+mgsm.pl##div[id^="AdArea"]
