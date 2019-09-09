@@ -1965,3 +1965,5 @@ _reklamy_$domain=chojna24.pl
 ||lwowecki.info^*^03/samson-
 ||lwowecki.info^*^sjo-germanos.
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
+||piotrkowski24.pl^*^baner-OSKP-
+^banners^$domain=piotrkowski24.pl
