@@ -1560,3 +1560,4 @@ cooltura24.co.uk##a[href^="https://www.xoom.com?"]
 zdrowybialystok.pl##.banneritem
 nieruchomoscipodlaskie.pl##.banner
 kramik.pl##a[href^="/glowna/reklama/"] > img
+forum.bitcoin.pl##.ads
