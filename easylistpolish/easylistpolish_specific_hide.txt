@@ -1,17 +1,9 @@
 money.pl###ADrail
 smak-zdrowia.blogspot.com###HTML1
-biegowelove.pl###HTML10
-aniamaluje.com,wikirose.pl###HTML14
+wikirose.pl###HTML14
 wikirose.pl###HTML15
-pola-elizejskie.blogspot.nl###HTML3
-biegowelove.pl###HTML6
-aleksandrowemysli.blogspot.com,followyourwhiterabbit.blogspot.com,patabloguje.pl,wolnymkrokiem.pl###Image1
 stereoikolorowo.blogspot.com###Image10
 stereoikolorowo.blogspot.com###Image12
-stereoikolorowo.blogspot.com###Image13
-stereoikolorowo.blogspot.com###Image14
-followyourwhiterabbit.blogspot.com,lifebymarcelka.pl,obalamyglupote.pl,powrotroberta.blogspot.com###Image2
-obalamyglupote.pl###Image3
 stereoikolorowo.blogspot.com###Image5
 stereoikolorowo.blogspot.com###Image7
 gohel.pl###PAN_BANNER
@@ -20,19 +12,12 @@ kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 satkurier.pl###SATKurierNews_top_750x100_r
 smak-zdrowia.blogspot.com###Text9
-q4.pl###\33 DIV
 trybun.org.pl###_dropslide1
 abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl###aSlot3
 ekorodzice.pl###a_d_billboard
 onetech.pl###ad
-expresskaszubski.pl###ad-aktualnosci-banner1
-expresskaszubski.pl###ad-aktualnosci-banner2
-expresskaszubski.pl###ad-aktualnosci-rectangle1
-expresskaszubski.pl###ad-aktualnosci-rectangle2
 dieroten.pl###ad-sts-top
 jasnet.pl###adBox1
-prawy.pl###adFlash
-tarnow.in###adLink5
 grodzisknews.pl###ad_Container
 interia.pl###ad_belka_biznes
 interia.pl###ad_belka_fakty
@@ -46,23 +31,14 @@ togethermagazyn.pl###addbaner
 gexe.pl,infookno.pl,swieradowzdroj.pl###ads
 icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
-swinoujskie.info###ads120_240-widget-2
-swinoujskie.info###ads120_90-widget-2
-swinoujskie.info###ads300_100-widget-14
 pogodnie.pl,pudelekx.pl###adv03
 tygodnik.szczytno.pl###advContener
 woda-scieki.com###advertbox
-dzieckowpodrozy.pl###animation_container
-dzieckowpodrozy.pl###animation_container2
 appleworld.pl###app-store-topcharts-3
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
-laczynaspasja.pl###article-baner
 mragowo24.info###articleAds
 toproste.pl###asd
-zawiercianskie.pl###attachment_2236
-sportslaski.pl###b_18
-sportslaski.pl###b_30
 krs-online.com.pl###bad
 dawnawarszawa.waw.pl###ban
 plastech.pl###banbox_1
@@ -70,10 +46,7 @@ plastech.pl###banbox_3
 dziennik.walbrzych.pl###baner-glowny
 wirtualnyzgierz.pl###baner-gora1
 hotelinfo24.pl,kuriergarwolinski.pl###baner2
-miejscawewroclawiu.pl###banerId
 wirtualnyzgierz.pl###baner_dol
-24jgora.pl###baner_info + * + div
-bolec.info###baner_max
 bham.pl###banery
 auto-land.pl,e-grajewo.pl,heuristic.pl,inforail.pl,instalki.pl###banner
 suwalki.info###banner-billboard
@@ -280,7 +253,6 @@ ebelchatow.pl###region-bottom-baner
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
 mybank.pl###rek_prawe_menu
-24jgora.pl###reklama-top_new
 tarnowska.tv###reklamaBox_12
 tarnowska.tv###reklamaBox_6
 gada.pl###reklama_gazetowa
@@ -290,9 +262,6 @@ kociesprawy.pl###reklamy
 pl.jooble.org###rightBannerPlace
 wmh.pl###rightColumn
 cenapradu.strefa.pl###rm_gdTq4
-zawiercianskie.pl###rommeled_image-11
-zawiercianskie.pl###rommeled_image-13
-zawiercianskie.pl###rommeled_image-18
 o.pl###rotator
 gloswagrowiecki.pl###rt-top
 tygodnik-krapkowicki.info,wirtualnygarwolin.pl###sbox-overlay
@@ -307,7 +276,6 @@ zlotemysli.pl###sidebar-zm-recommend
 tygodnikfaktycznie.pl###singleimage-2
 rdn.pl###siteorigin-panels-builder-11
 rdn.pl###siteorigin-panels-builder-2
-expresskaszubski.pl###skyscraper-ad-placement
 centrumdruku3d.pl###slide-bottom-popup
 victoriapila.com###slider
 gol.pl###slider-pro-2
@@ -350,7 +318,7 @@ luzyce.info,medycznamarihuana.com,tarnobrzeskie.eu###text-23
 firmafinanse.pl,medycznamarihuana.com###text-24
 medycznamarihuana.com,naszatve.pl,tylkopilka.pl###text-25
 custodianofmecatolrex.znadplanszy.pl,gazetaklobucka.pl,historykon.pl,streetfoodpolska.pl,tarnow.in,terazgrodkow24.pl###text-3
-dzieckowpodrozy.pl,swiat-rodzicow.pl###text-30
+swiat-rodzicow.pl###text-30
 satinfo24.pl,tur-tur.pl###text-33
 wolna-polska.pl###text-36
 wolna-polska.pl###text-39
@@ -556,7 +524,6 @@ haloursynow.pl##.baner390x60
 planetakobiet.com.pl##.banerDiv
 firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
-bolec.info##.baner_max
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 eurologistics.pl,mojeniemcy.de##.baner_top
 elblag.net,gostynska.pl,haloursynow.pl,rawicz24.pl##.banera1
@@ -602,7 +569,6 @@ galicjusz.pl##.bannersZoneB1
 forumfirm.pl##.bannerslot
 kochamrawe.pl,mamopracuj.pl##.bannery
 pol-nor.com##.banone
-24jgora.pl##.banrek
 tenis.net.pl##.bansc
 tenis.net.pl##.banstrefa
 komercyjne.pl##.bb-ad-outer
@@ -643,7 +609,6 @@ allaboutlife.pl##.carrie-ad-block
 esanok.pl##.category-artykuly-sponsorowane
 trojmiasto.pl##.cbcadebebb
 wizaz.pl##.ceneo-container
-bolec.info##.centralBoard
 ladnydom.pl##.cg-ad
 edziecko.pl,plotek.pl##.cg2-ad
 nasze.fm##.clearfix + h6
@@ -1347,7 +1312,6 @@ autocentrum.pl##iframe[style="border: medium none; height: 250px; width: 300px;"
 twojapogoda.pl##iframe[width="728"]
 supertydzien.pl##img[alt$="_reklama"]
 twojapogoda.pl##img[alt="Advertisement"]
-tarnow.in##img[alt="Baner"]
 e-deblin.pl##img[alt="Reklama"]
 evertiq.pl##img[alt="reklama"]
 tysol.pl##img[alt="reklama_pionowa"]
@@ -1383,7 +1347,6 @@ radio90.pl,widoki.info##img[width="300"]
 nowemiasto.com.pl##img[width="300"][height="125"]
 eluban.pl##img[width="380"]
 infoprzasnysz.com##img[width="660"]
-wirtualnyzgierz.pl##img[width="750"]
 joemonster.org##img[width="750"][height="200"]
 infor.pl#?#.kd_ns_box:-abp-has(.kd_ns_sponsored:-abp-contains(Sponsorowane))
 trojmiasto.pl##ins[id^="revive-0-"]
