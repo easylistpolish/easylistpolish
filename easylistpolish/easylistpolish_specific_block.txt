@@ -1992,3 +1992,5 @@ _reklamy_$domain=chojna24.pl
 ||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
 ||bezale.pl^*^Marketing-_początkującego-
 ||bezale.pl^*^httpsstopwindykacji.
+^banners^$domain=automotivesuppliers.pl
+
