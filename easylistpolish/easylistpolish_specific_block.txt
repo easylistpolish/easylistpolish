@@ -251,6 +251,7 @@ _reklamy_$domain=chojna24.pl
 ||e-play.pl^*^sygnisoft1_
 ||e-play.eu^*_300x300
 ||e-play.eu^*_470x470_
+||e-play.eu^*^1024x200_
 ||echo24.tv^*^300x250x1/banners^
 ||echogorzowa.pl^*^2015/516^
 ||edunews.pl^*-baner728x90pl.
