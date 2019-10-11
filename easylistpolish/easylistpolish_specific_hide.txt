@@ -145,35 +145,24 @@ bialystokonline.pl###polecamy
 mkspolonia.com###pomagajaslider
 betonline.net.pl,dkl24.pl,mecze24.pl,meczenazywo.pl###popup
 infoilawa.pl###popup-wrapper
-medycznamarihuana.com###popupContainer
-infobus.pl###popup_reklama
 lsi-lublin.pl###poster
-strzyzowiak.pl###ppmbank_bid_1011
 babiel.com.pl###prawa
 drhtv.com.pl###prawo
 btcbb.pl###projekt_id
 walbrzych24.com###promo14
-100miast.pl###promo_static1
 laczynaspasja.pl###promocodeBaner
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###promoted-articles
-nowawrzesnia.pl###pxdReklama
 starachowice-net.pl###r2
-victoriapila.com###r_top
 zaufanatrzeciastrona.pl###rab1
-naukajazdy.pl###recent-posts-5
 wyborcza.pl###rectangle-splint
-ebelchatow.pl###region-bottom-baner
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
 mybank.pl###rek_prawe_menu
-tarnowska.tv###reklamaBox_12
-tarnowska.tv###reklamaBox_6
 gada.pl###reklama_gazetowa
 police24.pl###reklama_multinieruchomosci_szczecin
 dostawczakiem.pl###reklamowkaTop
 kociesprawy.pl###reklamy
 pl.jooble.org###rightBannerPlace
-cenapradu.strefa.pl###rm_gdTq4
 o.pl###rotator
 gloswagrowiecki.pl###rt-top
 tygodnik-krapkowicki.info,wirtualnygarwolin.pl###sbox-overlay
@@ -201,7 +190,6 @@ mosir.ostrowiec.pl###sp-banery
 mosir.ostrowiec.pl###sp-user7
 ofeminin.pl,onet.pl###sponsDiv
 webhelp.pl###sponsor
-zaufanatrzeciastrona.pl###sponsor3
 futsal-krakow.pl###sponsor360
 bramka.pl###sponsorBox
 btcbb.pl###sponsor_id
@@ -737,9 +725,7 @@ mojabochnia.pl##.reklama
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 cnc.info.pl,radom24.pl##.reklama-top
-tarnowska.tv##.reklama11-box
 polemi.co.uk##.reklama8
-tarnowska.tv##.reklamaBox_14
 cenyrolnicze.pl##.reklamaItem
 infobus.pl##.reklamaR2Napis
 infobus.pl##.reklamaR2Napis + div
@@ -922,7 +908,6 @@ haczyk.pl##a[href="http://jakzalozycfirme.info"]
 haczyk.pl##a[href="http://kartyplastikowe.net"]
 e-grajewo.pl##a[href="http://katering.grajewo.pl/"]
 e-grajewo.pl##a[href="http://lipinski.grajewo.pl/"]
-nowawrzesnia.pl##a[href="http://monetia24.com"]
 psy-pies.com##a[href="http://obtkarma.pl/"]
 e-grajewo.pl##a[href="http://pensjonatraj.pl/"]
 lfc.pl##a[href="http://pl.johnnybet.com/"]
@@ -951,7 +936,6 @@ zamkipolskie.com##a[href="http://www.villagreta.pl"]
 e-grajewo.pl##a[href="http://www.yasam.com.pl/"]
 e-grajewo.pl##a[href="https://autoczesci-fidura.pl/"]
 urodaizdrowie.pl##a[href="https://darmowisko.pl"]
-nowawrzesnia.pl##a[href="https://inbankpolska.pl/kredyty/kredyt-samochodowy/"]
 justasalad.pl##a[href="https://mamboo.pl/"]
 urodaizdrowie.pl##a[href="https://oladi.pl"]
 drhtv.com.pl##a[href="https://pl.johnnybet.com/"]
@@ -987,7 +971,6 @@ wiocha.pl##a[href^="http://tracking.linktogame.com/"]
 calisia.pl##a[href^="http://www.antczak.pl/oferta-deweloperska"]
 stockwatch.pl##a[href^="http://www.attrader.pl/?utm_source=StockWatch"]
 pr0myczek.blox.pl##a[href^="http://www.bookmaster.pl/ref.php?id="]
-cenapradu.strefa.pl##a[href^="http://www.ceneo.pl/"]
 publicrelations.pl##a[href^="http://www.czarnaowca.pl/"]
 dziennikbaltycki.pl##a[href^="http://www.dziennikbaltycki.pl/artykuly-sponsorowane"]
 dzienniklodzki.pl##a[href^="http://www.dzienniklodzki.pl/artykuly-sponsorowane"]
@@ -1005,7 +988,6 @@ spidersweb.pl##a[href^="http://www.krugermatz.com"]
 kurierlubelski.pl##a[href^="http://www.kurierlubelski.pl/artykuly-sponsorowane"]
 urodaizdrowie.pl##a[href^="http://www.medica2000.com.pl"]
 naturaity.pl##a[href^="http://www.naturaity.pl/banner"]
-cenapradu.strefa.pl##a[href^="http://www.nokaut.pl"]
 nowiny24.pl##a[href^="http://www.nowiny24.pl/artykuly-sponsorowane"]
 nowosci.com.pl##a[href^="http://www.nowosci.com.pl/artykuly-sponsorowane"]
 nto.pl##a[href^="http://www.nto.pl/artykuly-sponsorowane"]
@@ -1019,7 +1001,6 @@ wspolczesna.pl##a[href^="http://www.wspolczesna.pl/artykuly-sponsorowane"]
 wykop.pl##a[href^="http://www.wykop.pl/paylink/"]
 mdhmyslowice.pl##a[href^="http://www.znaczki-turystyczne.pl/znaczkowe-miejsca-turystyczne/"]
 na-pulpit.com,na-telefon.org,widoczki.com##a[href^="http://zyczenia.tja.pl"]
-cenapradu.strefa.pl##a[href^="https://clk.leadexpert.pl/click"]
 ofens.co##a[href^="https://goo.gl/"]
 webhelp.pl##a[href^="https://icash.pl?ref"]
 zarabiam.com##a[href^="https://leadnow.pl?ref="]
@@ -1122,7 +1103,6 @@ agropolska.pl##div[id^="mediaContent"]
 chords.pl##div[id^="nokaut_ads_"]
 satkurier.pl##div[id^="pasek_hollex"]
 gazetaklobucka.pl##div[id^="popmake"]
-ebelchatow.pl##div[id^="region-top-right-baner"]
 maximus.media##div[id^="sfy_"]
 miastokolobrzeg.pl##div[id^="sp-reklama-"]
 jagodnik.pl##div[id^="spu-"]
