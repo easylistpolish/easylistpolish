@@ -375,7 +375,6 @@ _reklamy_$domain=chojna24.pl
 ||e-play.eu^*_300x300
 ||e-play.eu^*_470x470_
 ||e-play.eu^*1024x200_20_
-||e-playbet.com^*_bonus_20
 ||e-playbet.com^*_300x300
 ||e-playbet.com^*_350x350_
 ||e-playbet.com^*Forbet-baner
