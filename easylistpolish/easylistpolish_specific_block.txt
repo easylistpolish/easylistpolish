@@ -1976,7 +1976,6 @@ _reklamy_$domain=chojna24.pl
 ||tulegnica.pl^*^inline__1_3668.
 ||tulegnica.pl^*^inline__1_7374.
 ||tulegnica.pl^*^inline__1_6446.
-||tulegnica.pl^*^inline__1_8006.
 ^advertiseButtons^$domain=smanager.pl
 ^inline_images/114^$domain=mylomza.pl
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
