@@ -1993,4 +1993,5 @@ _reklamy_$domain=chojna24.pl
 ||bezale.pl^*^Marketing-_początkującego-
 ||bezale.pl^*^httpsstopwindykacji.
 ^banners^$domain=automotivesuppliers.pl
+^banners^$domain=beztrzymanki24.pl
 
