@@ -211,6 +211,7 @@ _reklamy_$domain=chojna24.pl
 ||blogomaniak.pl^*-ceneo-
 ||blogprezesa.pl^*^425Bitcoin360PLESMA300x250.
 ||blogprezesa.pl^*^PARTNERSKI-230100.
+||blogprezesa.pl^*^Bitmex-
 ||blogprezesa.pl^*^xtb-baner-
 ||bluecocoon.pl/ad^$domain=rynekfarb.pl
 ||bmw-czesci-glincz.pl/$domain=bmw-3city.pl
@@ -1936,7 +1937,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^04/CHATA
 ||zyciezamoscia.pl^*^24_megadruk2
 ||zyciezamoscia.pl^*^kamienie_small
--baner.$domain=mazopolska.pl
+-baner.$domain=mazopolska.pl|blogprezesa.pl
 ^750x200_$domain=geekweek.pl
 ^baner_$domain=zapytam.com
 ^baner-$domain=mazopolska.pl
