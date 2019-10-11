@@ -1988,3 +1988,4 @@ _reklamy_$domain=chojna24.pl
 ||gazetaprawna.pl^*^4217123-finces.
 ||centrumdruku3d.pl^*^3DG_
 ||elektroda.pl^*^bto.
+^dekoran-fototapety-$image,domain=ckinfo.pl
