@@ -1050,7 +1050,6 @@ staleo.pl##a[data-type*="Reklama"]
 cashless.pl##a[data="advert-link"]
 blogpress.pl,prokapitalizm.pl##a[href*="multibook.pl"] > img
 forum.przyroda.org##a[href*="sadistic.pl"]
-dzieckowpodrozy.pl##a[href$="_campaign=dzieckowpodrozy"]
 hoga.pl##a[href="//bacom.pl/"]
 anglia.today##a[href="/redirect/ad/background/1"]
 anglia.today##a[href="/redirect/ad/side/1"]
