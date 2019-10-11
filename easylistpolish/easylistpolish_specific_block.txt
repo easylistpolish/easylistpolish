@@ -263,7 +263,6 @@ _reklamy_$domain=chojna24.pl
 ||cba.pl/cba1.jpg
 ||cda-hd.pl^*^sztosy2.
 ||cdn.dcsaas.net^$domain=sklepbazant.pl|swiatmodeli.eu
-||cdn.gallery^*-tlokasztelan.jpg$image,domain=ciechanowinaczej.pl
 ||cdn.rutracker.org.pl/protJS^
 ||ceneo.pl^*^banners$domain=nissanklub.pl
 ||centrumdruku3d.pl^*^2018/06/UBOT3D_
