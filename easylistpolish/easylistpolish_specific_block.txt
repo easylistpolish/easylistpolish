@@ -287,8 +287,8 @@ _reklamy_$domain=chojna24.pl
 ||ciechanowinaczej.pl^*_3538.
 ||ciechanowinaczej.pl^*_8258.
 ||ciechanowinaczej.pl^*_8427.
-||ciechanowinaczej.pl^*_6359.
 ||ciechanowinaczej.pl^*_8983.
+||ciechanowinaczej.pl^*-ci1150x250
 ||cire.pl^*^b2a.jpg
 ||cire.pl^*^bannery_cire_05.
 ||cire.pl^*^ree2017_duzy.
