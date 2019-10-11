@@ -1845,7 +1845,7 @@ _reklamy_$domain=chojna24.pl
 ||www.miastokobiet.pl^*^41657713-
 ||www.miastokobiet.pl^*^41657714-
 ||www.optyczne.pl/partnerzy_sm^
-||wylecz.to^*^?clickTAG=/zze_click^
+||wylecz.to^*^?clickTAG=/zzz_click^
 ||wysokomazowiecki24.pl^*^baners2014^
 ||wysokomazowiecki24.pl^*^banery2016^
 ||wysokomazowiecki24.pl^*^banery2017^
