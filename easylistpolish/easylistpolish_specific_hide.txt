@@ -1558,4 +1558,4 @@ blogprezesa.pl###text-18
 blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
-bronradom##.advert
+bronradom.pl##.advert
