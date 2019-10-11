@@ -131,4 +131,3 @@
 @@||filesrr.vitalia.pl^*^reklama/danie.$image,third-party,domain=wp.pl
 @@||poczta.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
-@@||lokalna24.pl^*^LOKALNA24_logo_

@@ -1555,7 +1555,6 @@ se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
-||tipmedia.pl^$subdocument,domain=lokalna24.pl
 zdrowybialystok.pl##.banneritem
 nieruchomoscipodlaskie.pl##.banner
 kramik.pl##a[href^="/glowna/reklama/"] > img
