@@ -452,7 +452,7 @@ wnp.pl##.adWrapper1
 ikmag.pl##.ad_container_bottom
 bezprawnik.pl##.ad_desktop_loader
 lubin.pl##.ad_group
-lublin112.pl##.ad.text-center
+lublin112.pl##.ad
 egryfino.pl##.ada
 rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
