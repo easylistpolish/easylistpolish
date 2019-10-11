@@ -333,7 +333,6 @@ _reklamy_$domain=chojna24.pl
 ||dzieckowpodrozy.pl^*-morzem-w%C5%82adys%C5%82awowo-
 ||dziennikpowiatowy.pl^*^boards^
 ||dziennikzwiazkowy.com^*^wrozka-
-||dziennikzwiazkowy.com*^*baner_728x120
 ||dziennikzwiazkowy.com*^*01/PNA.
 ||dzisiajwgliwicach.pl^*-590x300-
 ||dzisiajwgliwicach.pl^*^autodoc.pl_
