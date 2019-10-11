@@ -447,7 +447,6 @@ _reklamy_$domain=chojna24.pl
 ||eluban.pl^*^faf6e4ed10c52f98abad4dd436b0b7a176934a2c.
 ||emisja.contentstream.pl^*=adart&$domain=24jgora.pl
 ||eostroleka.pl^*^cache-
-||epoznan.pl^*^yanosik_dlugi.
 ||ergokantor.pl/widgets^$domain=telewizjapolska24.pl
 ||esanok.pl/dodatki^
 ||esensja.pl^*^madbooks_
