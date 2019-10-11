@@ -1161,8 +1161,6 @@ _reklamy_$domain=chojna24.pl
 ||ono24.info^*^sad^
 ||ostrowiecnews.pl^*^877x117.
 ||ostrzeszowinfo.pl^*^W%C3%B3jcik_reklama%20prasowa1.
-||oswiecim112.pl^*^Reklama
-||oswiecim112.pl^*^Adamex
 ||othertees.com^*^othertees.$domain=zpopk.pl
 ||oto-samochody.pl^*^rufus.
 ||owabgxis.wp.pl^
@@ -1995,3 +1993,4 @@ _reklamy_$domain=chojna24.pl
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 /^https?:\/\/www\.filmweb\.pl\/[a-z0-9A-Z]{20,}/$subdocument,domain=filmweb.pl
 /wp\.pl\/[a-zA-Z0-9]{15,}/$script,domain=poczta.wp.pl|profil.wp.pl|poczta.o2.pl
+^reklama-$domain=oswiecim112.pl
