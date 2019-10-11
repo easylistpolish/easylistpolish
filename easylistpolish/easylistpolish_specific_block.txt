@@ -1994,4 +1994,7 @@ _reklamy_$domain=chojna24.pl
 ||bezale.pl^*^httpsstopwindykacji.
 ^banners^$domain=automotivesuppliers.pl
 ^banners^$domain=beztrzymanki24.pl
+^banner^$domain=pless-intermedia.pl
+^rotator^$domain=pless-intermedia.pl
+||pless-intermedia.pl^*^slajdy^$subdocument
 
