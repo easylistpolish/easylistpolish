@@ -1569,3 +1569,4 @@ se.pl##div[class^="zpr_inside"]
 blogprezesa.pl###text-18
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
+bronradom##.advert
