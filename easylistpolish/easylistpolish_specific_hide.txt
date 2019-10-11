@@ -1553,7 +1553,6 @@ abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,k
 poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"]):not(.grid__img__container)
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
-party.pl##.zalando-placeholder
 party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
 ||tipmedia.pl^$subdocument,domain=lokalna24.pl
