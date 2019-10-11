@@ -165,40 +165,30 @@ kociesprawy.pl###reklamy
 pl.jooble.org###rightBannerPlace
 o.pl###rotator
 gloswagrowiecki.pl###rt-top
-tygodnik-krapkowicki.info,wirtualnygarwolin.pl###sbox-overlay
-tygodnik-krapkowicki.info,wirtualnygarwolin.pl###sbox-window
-chip.pl###search_box
+tygodnik-krapkowicki.info###sbox-overlay
+tygodnik-krapkowicki.info###sbox-window
 techfreak.pl###secondary
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
 vshare.io###sendif
 chrzanowski24.pl###sidebar
-zlotemysli.pl###sidebar-zm-recommend
-tygodnikfaktycznie.pl###singleimage-2
-rdn.pl###siteorigin-panels-builder-11
-rdn.pl###siteorigin-panels-builder-2
 centrumdruku3d.pl###slide-bottom-popup
 victoriapila.com###slider
-gol.pl###slider-pro-2
 naszesudety.pl###slider2
 legnica.fm###sliderbanner1
 doba.pl###slides
-warszawawarsaw.com###slideshowwidget-6
 disco-polo.info###smartserwer_adv2
 swinoujskie.info###snppopup-welcome
 mosir.ostrowiec.pl###sp-banery
 mosir.ostrowiec.pl###sp-user7
-ofeminin.pl,onet.pl###sponsDiv
+onet.pl###sponsDiv
 webhelp.pl###sponsor
 futsal-krakow.pl###sponsor360
 bramka.pl###sponsorBox
 btcbb.pl###sponsor_id
 zambrowiacy.pl###sponsorbox
-rap-news.eu###stb-34218
 tvgorzow.pl###testimonialrotatorwidget-5
-iknurow.pl###text-103
 gadzet.telchina.pl,joulenka.pl,zpopk.pl###text-11
-parafiastronie.pl,terazgrodkow24.pl###text-12
 lowking.pl,zpopk.pl###text-15
 tylkopilka.pl###text-157
 bbfan.pl,smartage.pl###text-17
@@ -237,12 +227,9 @@ kamienskie.info###text-79
 kamienskie.info###text-82
 kamienskie.info###text-85
 pojechana.pl###text-88
-iknurow.pl###text-89
 gazetalubliniecka.pl,kobieta-zmienna-jest.pl,olgasmile.com,prasowki.org,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl###text-9
-iknurow.pl###text-97
 lukowicatomy.pl###text-html-widget-14
 terazgrodkow24.pl###text-html-widget-2
-terazgrodkow24.pl###text-html-widget-6
 przewodnikmp.pl###ti_image_banner-34
 przewodnikmp.pl###ti_image_banner-43
 przewodnikmp.pl###ti_image_banner-51
@@ -584,7 +571,6 @@ spece.it##.helion_meta
 spece.it##.helion_okladka
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 ceneo.pl##.home-adboxes
-terazgrodkow24.pl##.home-e3lan
 weszlo.com##.home-posts-adv
 forum.nissanklub.pl##.iParts_Ad1
 nissanklub.pl##.iParts_Ad2
@@ -691,7 +677,6 @@ noclegi.biz##.podzialreklama
 nieplodnirazem.pl##.popmake-overlay
 biala24.pl##.popup
 b1.pl##.portal_header
-chip.pl##.portletCeneo
 friko.net##.prezenty > .panel-body
 centrumdruku3d.pl##.printers_a
 wnet.fm##.prom-block
@@ -802,7 +787,7 @@ kaszuby24.pl##.td-a-rec-id-header
 radio-wrzesnia.pl##.td-adspot-title + div
 eswinoujscie.pl##.td-banner-bg
 extrapolska.pl,nswiecie.pl,poloniairlandia.pl##.td-banner-wrap-full
-itvwisla.tv,rap-news.eu,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
+itvwisla.tv,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 elubaczow.com##.td-image-box-row
 poscigi.pl##.td-image-box-style-2
 maratonypolskie.pl##.tekst > center > #menu2
@@ -848,7 +833,6 @@ dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 asib.pl,magazynvip.pl##.widget_black_studio_tinymce
 wirtualnyregion.pl##.widget_cyclone-slider-widget
-rdn.pl##.widget_mkslider_widget
 twojkurierolsztynski.pl##.widget_revslider
 spottedlublin.pl##.widget_singlead
 tasteaway.pl##.widget_sp_image
@@ -952,7 +936,6 @@ stooq.pl##a[href^="?"]
 forum.przyroda.org##a[href^="ad.php?id="]
 maximus.media##a[href^="click?"]
 kinoman-tv.pl,seans24.com.pl##a[href^="http://afftrack001.com/"]
-doba.pl##a[href^="http://beta.doba.pl/adserver/"]
 biokurier.pl##a[href^="http://biokurier.pl/linkoutad"]
 jarock.pl##a[href^="http://bit.ly/Hyperbook"]
 autocentrum.pl##a[href^="http://blbl.cr/autocentrum"]
@@ -1160,7 +1143,6 @@ extraswiecie.pl#?#span:-abp-contains(REKLAMA)
 ezo-ogloszenia.pl^*^sad/1eda2391d53ada823bff949ce066f7f9usun-
 realmadryt.pl##fieldset[style^="border: 1px solid; padding: 5p"]
 kursyjezykowe.biz##font[size="5"]
-chip.pl##form[action="http://www.njobs.eu/search/"]
 fotoblogia.pl#?#div:-abp-contains(REKLAMA) + DIV > A
 gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
 gadzetomania.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
