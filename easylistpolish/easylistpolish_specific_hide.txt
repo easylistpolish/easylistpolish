@@ -133,7 +133,6 @@ iautomatyka.pl###bsa-block-750--100
 bb365.info,weszlo.com###bsa-html
 o.pl###button-czynszowy
 trybunaczestochowska.pl###canvas
-bogatyelblag.pl###carouselv
 mma.pl###cb-bg-to
 mgsm.pl###ceneo
 felcia.co.uk###commercial
