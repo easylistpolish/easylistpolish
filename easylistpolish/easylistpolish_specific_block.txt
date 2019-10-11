@@ -1989,3 +1989,4 @@ _reklamy_$domain=chojna24.pl
 ||centrumdruku3d.pl^*^3DG_
 ||elektroda.pl^*^bto.
 ^dekoran-fototapety-$image,domain=ckinfo.pl
+||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
