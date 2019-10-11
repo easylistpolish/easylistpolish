@@ -1795,7 +1795,6 @@ _reklamy_$domain=chojna24.pl
 ||wlkp24.info^*^2018/09/mcdonald.
 ||wlkp24.info^*_386x386.
 ||wlkp24.info^*_bonart_386_
-||wlsts.eacdn.com^$image,domain=e-playbet.com
 ||wlukowie.pl^*^expert-bhp-
 ||wlukowie.pl^*^wideoflmowanie_
 ||wmasg.pl^*^gfpoint-
