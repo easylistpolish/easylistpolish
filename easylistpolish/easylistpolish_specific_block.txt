@@ -1787,7 +1787,6 @@ _reklamy_$domain=chojna24.pl
 ||wiez.pl/bannery/132294015.
 ||wiocha.pl/subpages^
 ||wirtualnekosmetyki.pl^*^BanerCameleo262x700.
-||wirtualnyregion.pl^*^980X120.
 ||wladek.pl^*^pizzamax2.
 ||wlkp24.info^*-386x386.
 ||wlkp24.info^*^2018/09/mcdonald.
