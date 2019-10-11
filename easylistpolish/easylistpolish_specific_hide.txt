@@ -71,7 +71,6 @@ plastech.pl###banbox_3
 dziennik.walbrzych.pl###baner-glowny
 wirtualnyzgierz.pl###baner-gora1
 hotelinfo24.pl,kuriergarwolinski.pl###baner2
-pch24.pl###baner921
 miejscawewroclawiu.pl###banerId
 wirtualnyzgierz.pl###baner_dol
 24jgora.pl###baner_info + * + div
