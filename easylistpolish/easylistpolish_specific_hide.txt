@@ -1582,3 +1582,4 @@ centrumdruku3d.pl##a[onclick*="'Banners'"]
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > img)
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
 b24tv.pl##.metaslider
+anywhere.pl##div[class^="g-single a-"]
