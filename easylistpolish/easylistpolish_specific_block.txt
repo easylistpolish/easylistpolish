@@ -211,8 +211,7 @@ _reklamy_$domain=chojna24.pl
 ||blogomaniak.pl^*-ceneo-
 ||blogprezesa.pl^*^425Bitcoin360PLESMA300x250.
 ||blogprezesa.pl^*^PARTNERSKI-230100.
-||blogprezesa.pl^*^Bitmex-
-||blogprezesa.pl^*^xtb-baner
+||blogprezesa.pl^*^xtb-baner-
 ||bluecocoon.pl/ad^$domain=rynekfarb.pl
 ||bmw-czesci-glincz.pl/$domain=bmw-3city.pl
 ||boardtime.pl^*^baner1000.
