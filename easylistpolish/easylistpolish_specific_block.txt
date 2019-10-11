@@ -1990,3 +1990,5 @@ _reklamy_$domain=chojna24.pl
 ||elektroda.pl^*^bto.
 ^dekoran-fototapety-$image,domain=ckinfo.pl
 ||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
+||bezale.pl^*^Marketing-_początkującego-
+||bezale.pl^*^httpsstopwindykacji.
