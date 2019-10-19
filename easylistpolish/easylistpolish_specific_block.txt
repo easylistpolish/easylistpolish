@@ -1966,7 +1966,6 @@ _reklamy_$domain=chojna24.pl
 ||goal.pl/images/m300.
 ||goal.pl/images/st_3.
 ||goal.pl/ban^*^tapeta_
-||sts.pl^$subdocument,domain=pilkarskieforum.com
 ||glos.live^*^owieczka_reklama.
 ||glos.live^*^skoda^
 ||glos.live^*^Vitality_
