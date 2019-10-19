@@ -1988,12 +1988,3 @@ _reklamy_$domain=chojna24.pl
 ||centrumdruku3d.pl^*^3DG_
 ||centrumdruku3d.pl^*^FORM3.
 ^dekoran-fototapety-$image,domain=ckinfo.pl
-||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
-||bezale.pl^*^Marketing-_początkującego-
-||bezale.pl^*^httpsstopwindykacji.
-^banners^$domain=automotivesuppliers.pl
-^banners^$domain=beztrzymanki24.pl
-^banner^$domain=pless-intermedia.pl
-^rotator^$domain=pless-intermedia.pl
-||pless-intermedia.pl^*^slajdy^$subdocument
-

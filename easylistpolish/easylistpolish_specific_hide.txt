@@ -1571,5 +1571,3 @@ elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > pi
 elektroda.pl##a[onclick*="eventSend('Navibox',"]
 elektroda.pl##.NkzuQ6Z2
 b24tv.pl##.metaslider
-anywhere.pl##div[class^="g-single a-"]
-pless.pl,czecho.pl,bielsko.info##.baner-row
