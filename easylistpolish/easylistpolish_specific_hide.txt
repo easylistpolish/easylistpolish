@@ -1567,8 +1567,9 @@ chemiabudowlana.info###fadeinbox
 trakt.tv##a[href^="/vip/ads"] + div
 centrumdruku3d.pl##a[href*="hp3d.pl/"] > img
 centrumdruku3d.pl##a[onclick*="'Banners'"]
-elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > img)
 elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
+elektroda.pl##a[onclick*="eventSend('Navibox',"]
+elektroda.pl##.NkzuQ6Z2
 b24tv.pl##.metaslider
 anywhere.pl##div[class^="g-single a-"]
 pless.pl,czecho.pl,bielsko.info##.baner-row
