@@ -1973,6 +1973,7 @@ _reklamy_$domain=chojna24.pl
 ||rankomat.pl/tracking^$image,domain=~rankomat.pl
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
 ||widget.nokaut.pl^$script,domain=tromil.pl
+||ceneo.pl^*^banners^$domain=tromil.pl
 ||tromil.pl^*^09/parownice-multimatic.
 ||epilka.pl^$image,domain=meczenazywo.pl
 ||kuszotv.pl/imghttps^$image,domain=mecze24.pl
