@@ -1947,7 +1947,6 @@ _reklamy_$domain=chojna24.pl
 ^banner_$domain=podlaskieagro.pl
 ^baner_$domain=podlaskieagro.pl
 ^banners^$domain=podlaskieagro.pl
-||podlaskieagro.pl^*_baner.
 ||kantorywalut.pl^*^ik_sdb.
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^revolut-1-1.
