@@ -1563,6 +1563,7 @@ kryptoportal.pl,kryptonotowania.pl##.losowanko
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBannerPage > .reklamaNapis + center
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBanner
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
+chemiabudowlana.info###fadeinbox
 okraglemiasto.pl##a[href^="https://allegro.pl/"] > img
 trakt.tv##a[href^="/vip/ads"] + div
 zegarkiipasja.pl#?#:-abp-has(> .ad-event-label + a:not([href^="https://zegarkiipasja.pl"]))
