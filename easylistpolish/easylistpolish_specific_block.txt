@@ -1986,6 +1986,7 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=zegarkiipasja.pl
 ^banery_prawa^$domain=zegarkiipasja.pl
 ||centrumdruku3d.pl^*^3DG_
+||centrumdruku3d.pl^*^FORM3.
 ||elektroda.pl^*^bto.
 ^dekoran-fototapety-$image,domain=ckinfo.pl
 ||shoperia.pl/embed,$subdocument,domain=interia.pl|styl.pl|pomponik.pl
