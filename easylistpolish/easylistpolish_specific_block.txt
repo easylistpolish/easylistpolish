@@ -1971,6 +1971,7 @@ _reklamy_$domain=chojna24.pl
 ||glos.live^*^Vitality_
 ||gwint24.pl^*_750x200.
 ||rankomat.pl/tracking^$image,domain=~rankomat.pl
+||sprowadzanie-aut.pl^*^auta-z-usa-pl.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||tromil.pl^*^09/parownice-multimatic.
 ||epilka.pl^$image,domain=meczenazywo.pl
