@@ -1952,7 +1952,6 @@ _reklamy_$domain=chojna24.pl
 ||kantorywalut.pl^*^revolut-1-1.
 ||kryptoportal.pl^*^FA-1.
 ||kucharze.pl^*^BFS-pepitki-baner-
-||kucharze.pl^*^GIF_900x70.
 ||oto-samochody.pl^*^autoswiat.
 ||polskibiznes.info^*-300x300.
 ||lwowecki.info^*^03/dietetyk.
