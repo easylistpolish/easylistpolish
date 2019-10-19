@@ -1957,7 +1957,6 @@ _reklamy_$domain=chojna24.pl
 ||pepe-tv.eu^*^star-03.
 ||oto-samochody.pl^*^autoswiat.
 ||polskibiznes.info^*-300x300.
-||lwowecki.info^*^03/dietetyk.
 ||lwowecki.info^*^biuro-rachunkowe.
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||lwowecki.info^*^03/samson-
