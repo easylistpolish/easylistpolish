@@ -1956,7 +1956,6 @@ _reklamy_$domain=chojna24.pl
 ||pepe-tv.eu^*^180x140-1.
 ||pepe-tv.eu^*^star-03.
 ||oto-samochody.pl^*^autoswiat.
-||polskibiznes.info^*-300x300.
 ||lwowecki.info^*^biuro-rachunkowe.
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||lwowecki.info^*^03/samson-
@@ -1970,7 +1969,7 @@ _reklamy_$domain=chojna24.pl
 ||glos.live^*^skoda^
 ||glos.live^*^Vitality_
 ||gwint24.pl^*_750x200.
-||rankomat.pl/tracking^$image,domain=kariera24.info
+||rankomat.pl/tracking^$image,domain=~rankomat.pl
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||tromil.pl^*^09/parownice-multimatic.
 ||epilka.pl^$image,domain=meczenazywo.pl
