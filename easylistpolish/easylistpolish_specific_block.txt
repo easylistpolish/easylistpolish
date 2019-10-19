@@ -1975,6 +1975,7 @@ _reklamy_$domain=chojna24.pl
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||ceneo.pl^*^banners^$domain=tromil.pl
 ||tromil.pl^*^09/parownice-multimatic.
+||mgsm.pl/plus/plus_
 ||bankier.pl^$script,domain=miedziak.info.pl
 ||nevicom.pl/banery^$image,domain=obud.pl|chemiabudowlana.info
 ||chemiabudowlana.info^*^25-kreisel-250.
