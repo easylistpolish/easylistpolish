@@ -1963,6 +1963,9 @@ _reklamy_$domain=chojna24.pl
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ^banners^$domain=piotrkowski24.pl
 ||rowery.org^*^baner-danielo19.
+||goal.pl/images/m300.
+||goal.pl/images/st_3.
+||goal.pl/ban^*^tapeta_
 ||sts.pl^$subdocument,domain=pilkarskieforum.com
 ||glos.live^*^owieczka_reklama.
 ||glos.live^*^skoda^

@@ -1560,7 +1560,7 @@ nieruchomoscipodlaskie.pl##.banner
 kramik.pl##a[href^="/glowna/reklama/"] > img
 forum.bitcoin.pl##.ads
 kryptoportal.pl,kryptonotowania.pl##.losowanko
-goal.pl,primeradivision.pl,ligapolska.pl,seriea.pl,eredivisie.pl#?#.rectangle:-abp-has(> .reklamaNapis + center)
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBannerPage > .reklamaNapis + center
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBanner
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 sprowadzanie-aut.pl##.banner-inner
