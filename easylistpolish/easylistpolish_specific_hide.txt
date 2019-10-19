@@ -1565,7 +1565,6 @@ goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###prom
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 chemiabudowlana.info###fadeinbox
 trakt.tv##a[href^="/vip/ads"] + div
-zegarkiipasja.pl#?#:-abp-has(> .ad-event-label + a:not([href^="https://zegarkiipasja.pl"]))
 centrumdruku3d.pl##a[onclick*="'Banners'"] + div
 centrumdruku3d.pl##a[href*="&utm_campaign"] > img
 centrumdruku3d.pl##a[href*="hp3d.pl/"] > img

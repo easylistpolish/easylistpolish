@@ -1983,6 +1983,8 @@ _reklamy_$domain=chojna24.pl
 ||wp.com/okraglemiasto.pl^*^geberitelektryk1.
 ||wp.com/okraglemiasto.pl^*^Parking-757x257.
 ||okraglemiasto.pl^*^pido-sklep-
+^banners^$domain=zegarkiipasja.pl
+^banery_prawa^$domain=zegarkiipasja.pl
 ||centrumdruku3d.pl^*^3DG_
 ||elektroda.pl^*^bto.
 ^dekoran-fototapety-$image,domain=ckinfo.pl
