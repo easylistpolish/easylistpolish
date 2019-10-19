@@ -1950,8 +1950,7 @@ _reklamy_$domain=chojna24.pl
 ||kantorywalut.pl^*^ik_sdb.
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^revolut-1-1.
-||kryptoportal.pl^*^coinbase.
-||kryptoportal.pl^*^brave_download.
+||kryptoportal.pl^*^FA-1.
 ||kucharze.pl^*^BFS-pepitki-baner-
 ||kucharze.pl^*^GIF_900x70.
 ||oto-samochody.pl^*^autoswiat.
