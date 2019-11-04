@@ -213,28 +213,19 @@ zyciezamoscia.pl###text-42
 24legnica.pl,akademiawitalnosci.pl,kcynia.info,malyrekin.pl,mojbilet.com,nostalgicznie.pl,terazgrodkow24.pl,wiadomosci.com,zyciezakonne.pl,zzapolowy.com###text-5
 akademia-internetu.pl###text-50
 zyciezamoscia.pl###text-54
-pojechana.pl###text-58
 akademiawitalnosci.pl,budujzdrewna.pl,malyrekin.pl,polacywewloszech.com,terazgrodkow24.pl,wiadomosci.com,wlukowie.pl,wydzialykomunikacji.pl,zwrotnikraka.pl,zzapolowy.com###text-6
 autofanatyk.pl,gadzet.telchina.pl,inthecage.pl,prokapitalizm.pl,radioradom.pl,zwrotnikraka.pl###text-7
 czestochowskie24.pl,forumkwiatowe.pl###text-75
 kamienskie.info###text-79
 24legnica.pl,dingdog.pl,niebezpiecznik.pl,tarnobrzeskie.eu,twojmedyk.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
-kamienskie.info###text-85
-pojechana.pl###text-88
 gazetalubliniecka.pl,kobieta-zmienna-jest.pl,olgasmile.com,prasowki.org,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl###text-9
 lukowicatomy.pl###text-html-widget-14
 terazgrodkow24.pl###text-html-widget-2
-przewodnikmp.pl###ti_image_banner-34
-przewodnikmp.pl###ti_image_banner-43
-przewodnikmp.pl###ti_image_banner-51
-showup.tv,testynaojcostwo.pl###top-baner
-boardtime.pl###top-banner-ks
+testynaojcostwo.pl###top-baner
 ciechanowinaczej.pl,ddb24.pl,e-wyszogrod.pl,egarwolin.pl,esiemiatycze.pl,gazetabilgoraj.pl,golub-cgd.pl,ibialoleka.pl,imokotow.pl,inowroclaw.info.pl,ipragapoludnie.pl,kurierpodlaski.pl,plonszczak.pl,pultusk24.pl,rypin-cry.pl,szczecinek.com,twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
 techfresh.pl###top-widget
-abilet.pl###top_baner
 zambrowiacy.pl###topbanner
-elle.pl###tracdelight
 silacze.org###tri-mot
 kawerna.pl###tvnights_widget
 tygodnik.szczytno.pl###tygm_lewa
@@ -244,30 +235,21 @@ bankier.pl###underArtAdv
 techfresh.pl###wbounce-modal
 zakliczyninfo.pl###wdb_advert-line
 forumpuszczykowo.pl###wds_container1_0
-naekranie.pl###welcome_screen
 polukr.net###weptile-image-slider-widget-11
 polukr.net###weptile-image-slider-widget-12
 sportfakty.pl###weptile-image-slider-widget-2
 polukr.net###weptile-image-slider-widget-8
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl###widget-shop
 boardtime.pl###widget_metaslider_widget
 liga-ursus.siatkowka.org###widget_sp_image-2
 tyna.info.pl###widget_sp_image-45
 tyna.info.pl###widget_sp_image-46
 tyna.info.pl###widget_sp_image-51
-tyna.info.pl###widget_sp_image-53
-krawatimuszka.pl###widget_sp_image-6
-medme.pl###wisepop-main-container
-gry-online.pl###ws-cnt
-hip-hop.pl###yui-gen2
 sprzedajemy.pl##.AdsAds_
 optykamysliwska.pl##.AdvAnnouncements
-wiadomoscisasiedzkie.pl##.Baner
 turek.net.pl##.BanerP
 medonet.pl##.Block-Banner
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
-wyspiarzniebieski.pl##.Comm508x100
 wyspiarzniebieski.pl##.CommTxt1
 lwypolnocy.pl##.DnnModule-922
 autofanatyk.pl##.NTZkYTRi
@@ -315,7 +297,6 @@ roztocze.net##.adds-txt-centred
 tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
 dziennik.pl,forsal.pl,gazetaprawna.pl##.adexonModule
-naekranie.pl##.adform
 pomorska.pl##.adoceanGora1Wrapper
 lubin.pl##.adrotate_group_contener
 3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,globenergia.pl,kochamrzesy.pl,mragowo24.info,rapduma.pl,spidersweb.pl,synonimiczny.pl##.ads
@@ -507,7 +488,6 @@ mediagroupinfo.pl##.cycloneslider
 bilgorajska.pl,gada.pl##.czytaj_dalej
 autokult.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,money.pl,pudelek.pl,wp.pl##.dbb_Container
 trojmiasto.pl##.dcedcafe-a
-naekranie.pl##.dcmads + span
 24opole.pl##.dd
 popularne.pl##.devel-billboard
 tubawyszkowa.pl##.dimmer
@@ -811,7 +791,6 @@ radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm##.vc_wp_text
 banita.travel.pl##.vce-sticky
 android.com.pl##.vertical-banner
-naekranie.pl##.video-wrapper
 prostoomuzyce.pl##.view-banery
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 bielskiedrogi.pl##.view-reklamy
@@ -1092,14 +1071,10 @@ v.wpimg.pl##div[onclick="window.open(clickTag, '_blank')"] > #canvas
 zarabiam.com##div[onclick^="MyAdvertisements."]
 imav.tv,portalbraniewo.pl,slowopodlasia.pl##div[onclick^="update_ad"]
 wirtualnykonin.pl##div[onclick^="window.open('http://www.wirtualnykonin.pl/go.live.php/banners_"]
-naekranie.pl##div[style$="-webkit-calc(100vh + 61px); position: fixed;"]
 jelonka.com##div[style$="background:#999;opacity:0.4;"]
 slideplayer.pl##div[style$="cursor: pointer; border-radius: 3px;"]
-naekranie.pl##div[style$="height: -webkit-calc(100vh + 0px); position: fixed;"]
 jelonka.com##div[style$="solid #000;padding:1px 5px 2px"]
-naekranie.pl##div[style="background-color: transparent; margin-top: -61px; height: 100%; "]
 magazyn-kuchnia.pl##div[style="border: solid 1px #ddd; width: 99.5%; margin-bottom: 20px; clear: both;"]
-hip-hop.pl##div[style="box-sizing:content-box; width:188px; border:1px solid #999999; border-radius:5px; clear:both; background:#dedede;"]
 dobreprogramy.pl##div[style="color: #A9A9A9; text-align:center;font-size:11px;"]
 probasket.pl##div[style="float:none;margin:5px 0 5px 0;text-align:center;"]
 dobreprogramy.pl##div[style="height: 180px; width: 630px;"]
@@ -1123,7 +1098,6 @@ dziennikwschodni.pl##div[style="width:728px;height:90px;"]
 patriot24.net##div[style^="background-color: #F0F0F0"]
 mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-align: left; color:"]
 mojaolesnica.pl##div[style^="font-size: 11px; margin-bottom: 5px; color: #9f9f9f"]
-naekranie.pl##div[style^="max-width: 1230.077px;"]
 sztuka.net##div[style^="position: absolute;float: right;"]
 podgorze.pl##div[style^="width: 250px; height: 136px"]
 futsal-krakow.pl##div[style^="width: 347px;"]
@@ -1176,7 +1150,6 @@ rzeszownazywo.pl##img[src="http://rzeszownazywo.pl/wp-content/uploads/2015/11/C.
 gazetabilgoraj.pl##img[src="https://gazetabilgoraj.pl/static/files/gallery/91/2eff6-zaproszenie-banerek.png"]
 autocentrum.pl##img[src^="data:image/png;base64,"]
 rzeszownazywo.pl##img[src^="http://rzeszownazywo.pl/wp-content/uploads/2015/11/DUKE"]
-naekranie.pl##img[src^="https://bs.serving-sys.com/serving/adServer."] + div > div > a
 gazetabilgoraj.pl##img[src^="https://gazetabilgoraj.pl/static/files/gallery/91/2806a-BanerV"]
 gazetabilgoraj.pl##img[src^="https://gazetabilgoraj.pl/static/files/gallery/91/f415e-Tyche"]
 e-kolo.pl##img[style^="margin-top: 10px;"]
@@ -1201,7 +1174,6 @@ ezg24.net##li[style="width: 268px; height: 207px;"]
 ezg24.net##li[style="width: 268px; height: 214px;"]
 pzhkiperybnik.vgh.pl##marquee
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
-naekranie.pl#?#aside:-abp-contains(http://bs.serving-sys.com/serving/adServer)
 naszemiasto.pl#?#.elementListy:-abp-has(.artSpons)
 naszemiasto.pl#?#A:-abp-has(> DIV + h3 + .artSponsorowany)
 naszemiasto.pl#?#LI[data-sp="1"]:-abp-has(.artSponsorowany)
