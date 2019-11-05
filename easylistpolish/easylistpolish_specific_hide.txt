@@ -313,18 +313,15 @@ abczdrowie.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,debica24.eu,demoty.pl,
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
 infobus.pl##.advRekl
-gospodarkapodkarpacka.pl##.advSmallHorizontal
 rni24.eu,rta24.eu##.advads-widget
-audio.com.pl##.advcode
 alebank.pl,bogatynia.info.pl,eurogamer.pl,istotne.pl,krosnocity.pl,ox.pl,polishexpress.co.uk,polska-zbrojna.pl,radiopark.com.pl,radiopark.fm,radiozet.pl,stacja7.pl,tygodnik-rolniczy.pl,warzywaiowoce.pl,wiescirolnicze.pl##.advert
 damitv.pl,lubelska.tv,portalpomorza.pl,radiosochaczew.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tv-wschod.pl,tvpogranicze.pl##.advert-A1
 damitv.pl,e-widuchowa.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
 bydgoszcz.com,damitv.pl,e-widuchowa.pl,lubelska.tv,tczewska.pl,telewizjazary.pl,tvsztum.pl,zulawyimierzeja24.pl##.advert-B1
 damitv.pl,e-widuchowa.pl,lokalnatelewizja.pl,lubelska.tv,tv-wschod.pl##.advert-B2
-tv-wschod.pl,zulawyimierzeja24.pl##.advert-C1
+zulawyimierzeja24.pl##.advert-C1
 radioglos.pl##.advert-border
 zycie.pl##.advert-item
-futbol.pl##.advert-link
 lovekrakow.pl##.advert-next-to-logo
 ox.pl##.advert-owl
 bryk.pl##.advert-right-wrapper
@@ -336,26 +333,20 @@ hokej.net,przewodnikmp.pl,tvpodkarpacka.pl##.advertisement
 gala.pl##.advertising-box
 ironmangdynia.pl##.adverts-sidebar
 bryla.pl##.adviewDFPBanner
-suwalking.pl##.adw-holder
 polygamia.pl##.adwordbackground
 codziennikmlawski.pl##.ai_widget
 eska.pl##.akcja_partnerska
-urodaizdrowie.pl##.aleja-handlowa
 gsmmaniak.pl##.anal-post-popularne
 a6klub.pl##.arek
-pultusk24.pl##.art-reklama
 niskaemisja.ekoscan.pl##.art-slider
 tutsplus.com##.avert
-tutsplus.com##.avert--sticky
 dniwolne.eu##.axv
 swinoujskie.info##.background-cover
 mojabochnia.pl##.ban
 haloursynow.pl,infoilawa.pl,mtgnews.pl,pszczynska.pl,speedwaynews.pl,sportowebeskidy.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl##.baner
 re-volta.pl##.baner-medium-rectangle-on
 czecho.pl##.baner-row
-ogloszenia.re-volta.pl##.baner-square-on
 tygodniksiedlecki.com##.baner-text
-wsensie.tv##.baner1
 forumkwiatowe.pl##.baner330
 haloursynow.pl##.baner390x60
 planetakobiet.com.pl##.banerDiv
@@ -363,13 +354,11 @@ firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 eurologistics.pl,mojeniemcy.de##.baner_top
-elblag.net,gostynska.pl,haloursynow.pl,rawicz24.pl##.banera1
-warsztat.pl##.banert
+elblag.net,gostynska.pl,rawicz24.pl##.banera1
 wpr24.pl##.banerundarti
 eurobuildcee.com##.banery
 doba.pl##.baneryB-140
 instalacjebudowlane.pl##.banery_lewy_pasek
-tenis.net.pl##.banhead
 bazarek.net.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,forumkwiatowe.pl,glosludu.cz,historia.org.pl,imagazine.pl,nadwisla24.pl,naekranie.pl,netkonkret.pl,obligacje.pl,on-line24h.pl,optyczne.pl,podhale24.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,sieplywa.pl,wpadki.org##.banner
 pracujwlogistyce.pl##.banner-1
 trojmiasto.pl##.banner-a
@@ -379,7 +368,6 @@ naszatve.pl##.banner-center
 radiosud.pl##.banner-container
 wietrzneradio.com##.banner-full
 e-kg.pl##.banner-in
-biznesalert.pl##.banner-overlay
 wyspagier.pl##.banner-static-game
 ele24.net,kurierkolejowy.eu##.banner-top
 faktykaliskie.pl##.banner-wrapper
@@ -404,8 +392,6 @@ rzeszowairport.pl##.banners-content
 galicjusz.pl##.bannersZoneB1
 forumfirm.pl##.bannerslot
 kochamrawe.pl,mamopracuj.pl##.bannery
-tenis.net.pl##.bansc
-tenis.net.pl##.banstrefa
 komercyjne.pl##.bb-ad-outer
 elektroda.pl##.bb0968701
 forum.motocyklistow.pl##.bbc_center
@@ -605,7 +591,6 @@ outrave.net##.news-post__ad
 naszwodzislaw.com##.news_box_google
 naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
-wpr24.pl,wprpiaseczno.pl##.newslistban
 wadowiceonline.pl##.nspArts
 beskidy.news##.o-promo
 gazeta.pl##.o-section--offers-mainBox
@@ -873,9 +858,7 @@ rzeszownazywo.pl##a[href="http://www.szklane-tarasy.pl/"]
 zamkipolskie.com##a[href="http://www.villagreta.pl"]
 e-grajewo.pl##a[href="http://www.yasam.com.pl/"]
 e-grajewo.pl##a[href="https://autoczesci-fidura.pl/"]
-urodaizdrowie.pl##a[href="https://darmowisko.pl"]
 justasalad.pl##a[href="https://mamboo.pl/"]
-urodaizdrowie.pl##a[href="https://oladi.pl"]
 drhtv.com.pl##a[href="https://pl.johnnybet.com/"]
 klubpodroznikow.com##a[href="https://www.autodoc.pl/"]
 klubpodroznikow.com##a[href="https://www.euautoczesci.pl/"]
@@ -923,7 +906,6 @@ gp24.pl##a[href^="http://www.gp24.pl/artykuly-sponsorowane"]
 gs24.pl##a[href^="http://www.gs24.pl/artykuly-sponsorowane"]
 spidersweb.pl##a[href^="http://www.krugermatz.com"]
 kurierlubelski.pl##a[href^="http://www.kurierlubelski.pl/artykuly-sponsorowane"]
-urodaizdrowie.pl##a[href^="http://www.medica2000.com.pl"]
 naturaity.pl##a[href^="http://www.naturaity.pl/banner"]
 nowiny24.pl##a[href^="http://www.nowiny24.pl/artykuly-sponsorowane"]
 nowosci.com.pl##a[href^="http://www.nowosci.com.pl/artykuly-sponsorowane"]
@@ -975,7 +957,6 @@ abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,mon
 sadistic.pl##article[style="text-align: center; padding: 30px; min-height: 300px"]
 autokult.pl#?#DIV:-abp-contains(REKLAMA) + DIV > A > DIV > IMG
 autokult.pl#?#DIV:-abp-contains(REKLAMA) + DIV > DIV > IFRAME
-biznesalert.pl^*^PGE.jpg?x28732
 blob:http://video.gazeta.pl^$script
 stooq.pl##div + div > #f10
 realizator.pl##div.m-advert
