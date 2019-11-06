@@ -403,19 +403,14 @@ grupyogrodnicze.pl##.blok_reklam
 superportal24.pl##.bnr
 superportal24.pl##.bnr--billboard
 otososnowiec.pl##.bnr-spns
-kociewiak.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjaolsztyn.pl##.boards
-ratunkumieszkamwraju.pl##.bos_searchbox_widget_class
+telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 queer.pl##.box-adv
-topagrar.pl,tygodnik-rolniczy.pl##.box-bnn
 dorzeczy.pl,wprost.pl##.box-list-item-recommendation-content-stream
 cnc.info.pl##.box_bok
 gazeta.pl##.box_business_ecom
-gazeta.pl##.box_kinoplex
 gwarek.com.pl##.boxer_info
 kaszuby24.pl##.bsaProItems
 gazetabilgoraj.pl##.bsac-container
-liderbudowlany.pl##.bt-banner
-dlastudenta.pl##.carousel-ceneo
 allaboutlife.pl##.carrie-ad-block
 trojmiasto.pl##.cbcadebebb
 wizaz.pl##.ceneo-container
@@ -532,7 +527,6 @@ bolec.info##.leftBoard
 lepiejbiegac.pl##.lepiej-content-3
 lepiejbiegac.pl##.lepiej-widget
 noclegi.biz##.lewastronareklama
-otososnowiec.pl##.link-right
 nowywyszkowiak.pl##.link_bg
 czecho.pl##.linki-sponsorowane-col
 beerpubs.pl##.linkleft
@@ -560,7 +554,6 @@ na-pulpit.com,na-telefon.org,widoczki.com##.mng
 na-pulpit.com,na-telefon.org,widoczki.com##.mng + .menu + a
 wirtualnyregion.pl##.mobile-mleczarnia
 wirtualnyregion.pl##.mobile-mleczarnia-h
-gazeta.pl##.mod_flash_hp
 gazeta.pl##.mod_landing_tab
 gazeta.pl##.mod_tabbed_tourist
 logo24.pl,swiatmotocykli.pl##.mod_uzr_ecommerce
@@ -715,7 +708,6 @@ super-nowa.pl##.syl-baner-place
 skarzysko24.pl##.t3-spotlight-1
 my3miasto.pl##.takeover
 cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,dzielnicewroclawia.pl,gizycko.info,i-basket.pl,infokatowice.pl,interameryka.com,inthecage.pl,itvm.pl,jagodnik.pl,jaw.pl,miejscowa.pl,moja24.pl,mojebankowanie.pl,naszosie.pl,niebywalesuwalki.pl,noweinfo.pl,panoramakutna.pl,portalprzemyslowy.pl,progressforpoland.com,prohelvetia.pl,resellernews.pl,rzeszow-news.pl,sportgliwice.pl,streetwearhypeclub.com,tenis.net.pl,terazprudnik.pl,theillest.pl,tvpress.pl,tvzg.pl,twojezaglebie.pl,twojkurierolsztynski.pl,vrhunters.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
-kaszuby24.pl##.td-a-rec-id-header
 radio-wrzesnia.pl##.td-adspot-title + div
 eswinoujscie.pl##.td-banner-bg
 extrapolska.pl,nswiecie.pl,poloniairlandia.pl##.td-banner-wrap-full
@@ -781,7 +773,6 @@ twojkurierolsztynski.pl##.wpb_content_element
 jarek-kefir.org##.wpcnt
 elektroda.pl##.wrap-logo-ti
 polityka.pl##.wtg_adslot
-zdrowieiuroda.gwarek.com.pl##.xxx_pos_1
 poradnikhandlowca.com.pl##.yReklamy
 polki.pl,viva.pl,wizaz.pl##.zalando-placeholder
 eska.pl##.zpr_top_1
