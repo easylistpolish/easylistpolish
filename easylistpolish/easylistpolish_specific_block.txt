@@ -674,3 +674,6 @@ _reklamy_$domain=chojna24.pl
 /^https?:\/\/www\.filmweb\.pl\/[a-z0-9A-Z]{20,}/$subdocument,domain=filmweb.pl
 /wp\.pl\/[a-zA-Z0-9]{15,}/$script,domain=poczta.wp.pl|profil.wp.pl|poczta.o2.pl
 ^reklama-$domain=oswiecim112.pl
+||przyjacielprzypracy.pl^*_969x90.
+||mazopolska.pl^*_banner1.
+||blob:http://video.gazeta.pl^$script

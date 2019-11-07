@@ -872,8 +872,6 @@ polonia.poznan.pl##a[title="Urząd Miasta i Gminy Swarzędz"]
 abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl#?#DIV:-abp-properties(position: relative;) > DIV > IFRAME
 abczdrowie.pl,autokult.pl,snobka.pl,o2.pl,kardiolo.pl,jejswiat.pl,pudelek.tv,money.pl,komorkomania.pl,fotoblogia.pl,pudelek.pl,pudelekx.pl,medycyna24.pl,echirurgia.pl,kafeteria.pl,kciuk.pl,kowbojki.pl,luxlux.pl,nerwica.com,open.fm,planowo.pl,pogodnie.pl,pytamy.pl,smog.pl,pinger.pl,wp.pl,samosia.pl,demoty.pl#?#IMG:-abp-properties(position: relative;)
 sadistic.pl##article[style="text-align: center; padding: 30px; min-height: 300px"]
-biznesalert.pl^*^PGE.jpg?x28732
-blob:http://video.gazeta.pl^$script
 realizator.pl##div.m-advert
 nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
@@ -938,10 +936,8 @@ stooq.pl##div[style="width:300;height:250"]
 mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-align: left; color:"]
 naekranie.pl##div[style^="max-width: 1230.077px;"]
 poloniusz.pl##div[style^="width:194px;"]
-dziel-pasje.pl^*^red_planet^
 q4.pl##embed[src="media/22/bannery/dom-lux/ogloszenia_2015.swf"]
 extraswiecie.pl#?#span:-abp-contains(REKLAMA)
-ezo-ogloszenia.pl^*^sad/1eda2391d53ada823bff949ce066f7f9usun-
 kursyjezykowe.biz##font[size="5"]
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl##h1[style="color:#909090;"]
 poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
@@ -973,10 +969,8 @@ nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has(.oznaczenie)
 infobus.pl##object[idrekl]
-olawa24.pl/jan_kownacki.jpg
 onet.pl#?#A:-abp-has(span:-abp-contains(Sponsorowane))
 poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
-przyjacielprzypracy.pl^*_969x90.
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 legnica.fm##span + ul > .banneritem
@@ -1002,7 +996,6 @@ bydgoszcz.com##.advert-A2
 ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2436/"]
 cozadzien.pl###footer-slider
 foteleobrotowe.com.pl###text-2
-mazopolska.pl^*_banner1.
 mybank.pl##.sponsored
 nowezyciepabianic.pl##.adv--next-logo
 okiemmiszy.pl###ti_image_banner-3
