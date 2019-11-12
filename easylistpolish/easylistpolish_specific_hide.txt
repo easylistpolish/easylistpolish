@@ -424,17 +424,14 @@ legnica24h.pl##.container-advert-top
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
 olx.pl##.creditbox
 gol24.pl##.cs
-hej.mielec.pl##.csSponsored
 di.com.pl##.cs_ads_r
 bielsko.biala.pl##.cukierek_container
 tarnobrzeskie.eu##.custom-header-banner
-chrzanowski24.pl##.custom-rektt
 przeclaw24.pl##.custompolecamy
 mediagroupinfo.pl##.cycloneslider
 bilgorajska.pl,gada.pl##.czytaj_dalej
 autokult.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,money.pl,pudelek.pl,wp.pl##.dbb_Container
 24opole.pl##.dd
-popularne.pl##.devel-billboard
 tubawyszkowa.pl##.dimmer
 tygodnikplus.com##.display300x100
 tygodnikplus.com##.display300x250
@@ -445,7 +442,6 @@ tkn24.pl##.dk-image-rotator-widget
 zywawiara.pl##.dobrodzieje
 dostawczakiem.pl##.dosta-widget
 podaj.to##.doubleadvert-wrapper
-sportowememy.pl,xgol.pl##.duzybaner
 nadmorski24.pl##.dynamicAD
 gryfickie.info,swinoujskie.info##.e3lan
 terazgrodkow24.pl##.e3lan-below_header
