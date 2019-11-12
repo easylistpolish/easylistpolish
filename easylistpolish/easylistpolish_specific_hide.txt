@@ -89,11 +89,9 @@ olsztyn24.com###contener_billboard
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###content_right_new_number
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###controls
 stereoikolorowo.blogspot.com###crosscol-overflow
-zwrotnikraka.pl###custom_html-2
 terazgrodkow24.pl###custom_html-3
 mensis.pl###custom_html-4
 pilkarskiswiat.com###custom_html-6
-zwrotnikraka.pl###custom_html-7
 wochenblatt.pl###custom_post_widget-8
 wirtualnyregion.pl###cycloneslider-konspol-sidebar-2
 wirtualnyregion.pl###cycloneslider-mleczarnia-sidebar-4
@@ -213,8 +211,8 @@ zyciezamoscia.pl###text-42
 24legnica.pl,akademiawitalnosci.pl,kcynia.info,malyrekin.pl,mojbilet.com,nostalgicznie.pl,terazgrodkow24.pl,wiadomosci.com,zyciezakonne.pl,zzapolowy.com###text-5
 akademia-internetu.pl###text-50
 zyciezamoscia.pl###text-54
-akademiawitalnosci.pl,budujzdrewna.pl,malyrekin.pl,polacywewloszech.com,terazgrodkow24.pl,wiadomosci.com,wlukowie.pl,wydzialykomunikacji.pl,zwrotnikraka.pl,zzapolowy.com###text-6
-gadzet.telchina.pl,inthecage.pl,prokapitalizm.pl,zwrotnikraka.pl###text-7
+akademiawitalnosci.pl,budujzdrewna.pl,malyrekin.pl,polacywewloszech.com,terazgrodkow24.pl,wiadomosci.com,wlukowie.pl,wydzialykomunikacji.pl,zzapolowy.com###text-6
+gadzet.telchina.pl,inthecage.pl,prokapitalizm.pl###text-7
 czestochowskie24.pl,forumkwiatowe.pl###text-75
 kamienskie.info###text-79
 24legnica.pl,dingdog.pl,niebezpiecznik.pl,tarnobrzeskie.eu,twojmedyk.pl,wydzialykomunikacji.pl###text-8
@@ -448,20 +446,14 @@ terazgrodkow24.pl##.e3lan-below_header
 infoprzasnysz.com,terazgrodkow24.pl##.e3lan-top
 gazeta.pl##.ecom_slot
 kiwiportal.pl##.eventAd
-targikielce.pl##.event_page_left_sub_ads_banner
-sniadaniezkadra.onet.pl##.evp-row
-polska.travel##.features-accordion > .row > .col-md-3 > .box4
 realizator.pl##.fixed-advert-container
-naszemiasto.pl##.flatFee__bannerContainer
 punkt.media##.flexbannergrouppattern
 ftb.pl##.footav
 laczynaspilka.pl##.footer-partners
-stalowemiasto.pl##.forumbaner
 wronieckibazar.pl##.fright
 wronieckibazar.pl##.fright + div
 wronieckibazar.pl##.fright + div + div
 morzeweb.pl,poscigi.pl##.fullwidthbanner-container
-pebx.pl##.funbox
 itvwisla.tv##.g-3
 topmejt.co.uk##.g-single
 spottedlublin.pl##.g1-advertisement
@@ -471,28 +463,19 @@ log4.pl##.grafikaKlienta
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
-rti24.pl##.hbanner1
 portaltenisowy.info##.header--advert
 deon24.com##.header-adds
 rynek-ksiazki.pl##.header-baner
 dts24.pl,prestizgliwice.pl,probasket.pl##.header-banner
-zwrotnikraka.pl##.header-banner-image
 magazynbiomasa.pl##.header-promo
-exskill.eu##.header-slider
-interia.pl##.header-ul-a[href$="www.ponagrody.pl/"]
-interia.pl##.header-ul-a[href^="https://rankomat.pl/"]
 rzeszowiak.pl##.header-wizytowki
 spece.it##.helion_meta
 spece.it##.helion_okladka
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 ceneo.pl##.home-adboxes
 weszlo.com##.home-posts-adv
-forum.nissanklub.pl##.iParts_Ad1
-nissanklub.pl##.iParts_Ad2
 klubowa.pl##.id217
 klubowa.pl##.id52
-radiojura.pl##.index-rect
-portalpolski.pl##.info_rekl
 komorkomania.pl##.insert--top-offer
 make-cash.pl##.ipsAdvertisement
 gazzettaitalia.pl##.irw-widget
@@ -1121,7 +1104,6 @@ poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
 pomponik.pl#?#LI:-abp-has(> DIV > DIV > A:-abp-contains(SPONSOROWANE))
 przyjacielprzypracy.pl^*_969x90.
 psychatog.pl#?#H3:-abp-contains(Reklamy) + .textwidget
-rti24.pl#?#A:-abp-has(.klama)
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 legnica.fm##span + ul > .banneritem
