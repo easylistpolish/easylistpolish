@@ -1557,11 +1557,12 @@ party.pl##.ecomm-zalando
 cooltura24.co.uk##a[href^="https://www.xoom.com?"]
 zdrowybialystok.pl##.banneritem
 nieruchomoscipodlaskie.pl##.banner
-kramik.pl##a[href^="/glowna/reklama/"] > img
+kramik.pl##a[href^="/glowna/reklama/"] > img[alt^="http"]
 forum.bitcoin.pl##.ads
 kryptoportal.pl,kryptonotowania.pl##.losowanko
-goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBannerPage > .reklamaNapis + center
-goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl###promoBanner
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis + * 
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
 chemiabudowlana.info###fadeinbox
 trakt.tv##a[href^="/vip/ads"] + div
@@ -1571,3 +1572,7 @@ elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > pi
 elektroda.pl##a[onclick*="eventSend('Navibox',"]
 elektroda.pl##.NkzuQ6Z2
 b24tv.pl##.metaslider
+lwowecki.info##.td-all-devices2
+glos.live##.banner
+gwint24.pl##.herald-txt-module
+sprowadzanie-aut.pl##.banner-inner

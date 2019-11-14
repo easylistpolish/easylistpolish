@@ -1955,7 +1955,6 @@ _reklamy_$domain=chojna24.pl
 ||pepe-tv.eu^*^nowy-styl.
 ||pepe-tv.eu^*^180x140-1.
 ||pepe-tv.eu^*^star-03.
-||oto-samochody.pl^*^autoswiat.
 ||lwowecki.info^*^biuro-rachunkowe.
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||lwowecki.info^*^03/samson-
@@ -1970,7 +1969,7 @@ _reklamy_$domain=chojna24.pl
 ||glos.live^*^skoda^
 ||glos.live^*^Vitality_
 ||gwint24.pl^*_750x200.
-||rankomat.pl/tracking^$image,domain=~rankomat.pl
+||partner.rankomat.pl/tracking/media^$image,third-party
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||ceneo.pl^*^banners^$domain=tromil.pl
