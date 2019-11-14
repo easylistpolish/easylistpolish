@@ -428,7 +428,6 @@ tarnobrzeskie.eu##.custom-header-banner
 przeclaw24.pl##.custompolecamy
 mediagroupinfo.pl##.cycloneslider
 bilgorajska.pl,gada.pl##.czytaj_dalej
-autokult.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,money.pl,pudelek.pl,wp.pl##.dbb_Container
 24opole.pl##.dd
 tubawyszkowa.pl##.dimmer
 tygodnikplus.com##.display300x100
@@ -505,24 +504,17 @@ gada.pl##.menu_reklama
 comparic.pl,felcia.co.uk##.mfp-ready
 na-pulpit.com,widoczki.com##.mng
 na-pulpit.com,widoczki.com##.mng + .menu + a
-gazeta.pl##.mod_landing_tab
-gazeta.pl##.mod_tabbed_tourist
 logo24.pl,swiatmotocykli.pl##.mod_uzr_ecommerce
 goleniowska.com##.modul_baner
 em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
-portaltatrzanski.com##.moduletablepromo-baner
-job-profi.pl##.moduletablerek-prawa-top
-job-profi.pl##.moduletablereklama-full2
 sztafeta.pl##.mom-e3lanat-wrap
 golfkcc.pl##.mp_advert1
-sklepbazant.pl,swiatmodeli.eu##.mraty-widget
+swiatmodeli.eu##.mraty-widget
 metropoliabydgoska.pl##.mt-banner
 czasciechanowa.pl##.n2-ss-slider
 wmeritum.pl##.naa
-dziecisawazne.pl##.native_contener
 mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
-outrave.net##.news-post__ad
 naszwodzislaw.com##.news_box_google
 naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
@@ -531,8 +523,6 @@ beskidy.news##.o-promo
 gazeta.pl##.o-section--offers-mainBox
 ekspertbudowlany.pl,izolacje.com.pl##.oferteo-widget
 laczynaspilka.pl##.off-partners
-gostynin.info##.offer-wrap
-wp.pl##.offert
 v10.pl##.oglo
 sportowetempo.pl##.ogloszenia
 olx.pl##.otokredytbox
