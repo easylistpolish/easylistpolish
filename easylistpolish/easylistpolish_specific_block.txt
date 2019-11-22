@@ -715,3 +715,4 @@ _reklamy_$domain=chojna24.pl
 ^banery2019^$domain=wysokomazowiecki24.pl
 ||wysokomazowiecki24.pl^*^wys-maz-1100x150.
 ||wysokomazowiecki24.pl^*^pieer1.
+||wronieckibazar.pl^*^starymlynb.
