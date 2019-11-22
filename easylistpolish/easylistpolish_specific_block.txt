@@ -682,3 +682,4 @@ _reklamy_$domain=chojna24.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ^as^$image,domain=xtech.pl|automatyka.pl
+||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
