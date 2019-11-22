@@ -691,3 +691,4 @@ _reklamy_$domain=chojna24.pl
 ||tkn24.pl^*^Ceramic
 ||tkn24.pl^*^Vita.
 ^300^$domain=kuszotv.pl|oddslivesport.com|meczelive.tv|epilka.pl|betgol.pl|worldofbookmakers.com|mecze24.pl|estadios.pl|betglob.pl
+^728^$domain=kuszotv.pl|oddslivesport.com|meczelive.tv|epilka.pl|mecze.com|betgol.pl|mecze24.pl|extragoals.com
