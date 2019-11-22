@@ -683,3 +683,6 @@ _reklamy_$domain=chojna24.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ^as^$image,domain=xtech.pl|automatyka.pl
 ||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
+||automotivesuppliers.pl^*_stare_banery_
+||automotivesuppliers.pl^*-banery-reklama-
+||automotivesuppliers.pl^*^djmediatools^*-lewa-kolumna-

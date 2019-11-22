@@ -974,3 +974,4 @@ oswiecim112.pl###text-3
 bronradom.pl##.advert
 portaltatrzanski.pl##.promoadv
 dziennikpolski24.pl##.krh-m-g
+automotivesuppliers.pl##img[width="370"][height="140"]
