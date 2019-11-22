@@ -989,3 +989,5 @@ tygodnikponidzia.pl##.a-widget
 turek.net.pl##.BanerO
 trzemeszno24.info##.td_single_image_bg
 trawka.org##div[data-role="sidebarAd"]
+tradersarea.pl##div[class^="g-single a-"]
+tradersarea.pl##.td-a-rec
