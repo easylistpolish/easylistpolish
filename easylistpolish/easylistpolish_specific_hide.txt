@@ -984,3 +984,4 @@ wlkp24.info##div[class^="g-dyn a-"]
 wronieckibazar.pl###custom_html-2
 wladek.pl##img[alt$="eklama"]
 wirtualnekosmetyki.pl##img[alt="baner szeroki"]
+wadowice24.pl##a[href^="https://reklamawadowice24.pl/"]
