@@ -977,3 +977,5 @@ dziennikpolski24.pl##.krh-m-g
 automotivesuppliers.pl##img[width="370"][height="140"]
 automotivesuppliers.pl##.dj-loader
 4lomza.pl###banner-slider
+biznesalert.pl##.banner-img
+biznesalert.pl##.main-banner
