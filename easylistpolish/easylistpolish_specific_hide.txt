@@ -982,3 +982,4 @@ biznesalert.pl##.main-banner
 wlkp24.info##div[class^="g-single a-"]
 wlkp24.info##div[class^="g-dyn a-"]
 wronieckibazar.pl###custom_html-2
+wladek.pl##img[alt$="eklama"]
