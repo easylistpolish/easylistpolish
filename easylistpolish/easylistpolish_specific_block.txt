@@ -731,3 +731,4 @@ _reklamy_$domain=chojna24.pl
 ||tarnobrzeskie.eu^*^grupawoda.
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ||tarnobrzeskie.eu^*^BANER-
+||cdn.gallery^*^files^$image,domain=szczecinek.com
