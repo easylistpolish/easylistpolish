@@ -994,3 +994,4 @@ tradersarea.pl##.td-a-rec
 tarnobrzeskie.eu###text-22
 tarnobrzeskie.eu###text-20
 tarnobrzeskie.eu###text-19
+szubin24.pl##.ban
