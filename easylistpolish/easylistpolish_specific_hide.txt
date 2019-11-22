@@ -986,3 +986,4 @@ wladek.pl##img[alt$="eklama"]
 wirtualnekosmetyki.pl##img[alt="baner szeroki"]
 wadowice24.pl##a[href^="https://reklamawadowice24.pl/"]
 tygodnikponidzia.pl##.a-widget
+turek.net.pl##.BanerO
