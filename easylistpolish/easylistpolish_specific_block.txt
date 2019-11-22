@@ -717,3 +717,4 @@ _reklamy_$domain=chojna24.pl
 ||wysokomazowiecki24.pl^*^pieer1.
 ||wronieckibazar.pl^*^starymlynb.
 ||uavo.com.pl^*^airborn-ins.
+||tygodniksanocki.pl^*^bd13.
