@@ -698,3 +698,7 @@ _reklamy_$domain=chojna24.pl
 ||ec.bankier.pl^$domain=mavelo.pl
 ||gwiazdybasketu.pl^*^10bts-
 ||gwiazdybasketu.pl^*^basketzonepl-
+||typersi.pl/pliki/betfan^
+||typersi.pl/pliki/fortuna^
+||typersi.pl/pliki/unibet^
+||typersi.pl^*^milenium/baner_
