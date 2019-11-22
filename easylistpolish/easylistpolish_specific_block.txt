@@ -696,3 +696,5 @@ _reklamy_$domain=chojna24.pl
 ||worldofbookmakers.com^*^sts300.
 ||mecze.com^*^player-f1-
 ||ec.bankier.pl^$domain=mavelo.pl
+||gwiazdybasketu.pl^*^10bts-
+||gwiazdybasketu.pl^*^basketzonepl-
