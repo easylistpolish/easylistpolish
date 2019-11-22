@@ -732,3 +732,4 @@ _reklamy_$domain=chojna24.pl
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ||tarnobrzeskie.eu^*^BANER-
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
+||swietokrzyskie24.eu^*^kswp.
