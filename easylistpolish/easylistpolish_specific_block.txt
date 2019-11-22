@@ -702,3 +702,10 @@ _reklamy_$domain=chojna24.pl
 ||typersi.pl/pliki/fortuna^
 ||typersi.pl/pliki/unibet^
 ||typersi.pl^*^milenium/baner_
+||sokolka.tv^*^EURO_RABATYDO.
+||sokolka.tv^*^kaweta_baner_
+||sokolka.tv^*^margut_baner_
+||sokolka.tv^*^sokole-oko-
+||sokolka.tv^*^baner.
+||sokolka.tv^*^1brico-
+||sokolka.tv^*_250x250_
