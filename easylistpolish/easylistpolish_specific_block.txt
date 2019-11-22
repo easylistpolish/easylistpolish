@@ -729,3 +729,5 @@ _reklamy_$domain=chojna24.pl
 ||tarnowiak.pl^*_reklama^
 ||tarnobrzeskie.eu^*^tani-druk-
 ||tarnobrzeskie.eu^*^grupawoda.
+||tarnobrzeskie.eu^*^balony-z-helem-
+||tarnobrzeskie.eu^*^BANER-
