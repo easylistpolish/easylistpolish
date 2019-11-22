@@ -718,3 +718,9 @@ _reklamy_$domain=chojna24.pl
 ||wronieckibazar.pl^*^starymlynb.
 ||uavo.com.pl^*^airborn-ins.
 ||tygodniksanocki.pl^*^bd13.
+||trawka.org^*^300-x-150-
+||seedbay.pl^*^thc-nasiona-
+||trawka.org^*^vapuj-pl-
+||trawka.org^*^grasspower.
+||trawka.org^*300X150
+||trawka.org^*^dutchpassion2.
