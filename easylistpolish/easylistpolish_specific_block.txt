@@ -680,3 +680,4 @@ _reklamy_$domain=chojna24.pl
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
+||uzz.thrash.pl/file^$image,domain=arka.tv
