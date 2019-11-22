@@ -686,3 +686,7 @@ _reklamy_$domain=chojna24.pl
 ||automotivesuppliers.pl^*_stare_banery_
 ||automotivesuppliers.pl^*-banery-reklama-
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-kolumna-
+||tkn24.pl^*^upcomp-gif.
+||tkn24.pl^*^Circle-K-
+||tkn24.pl^*^Ceramic
+||tkn24.pl^*^Vita.
