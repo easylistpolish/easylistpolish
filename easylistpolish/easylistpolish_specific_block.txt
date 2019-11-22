@@ -712,3 +712,6 @@ _reklamy_$domain=chojna24.pl
 ||swiatoze.pl^*_336x280.
 ||swiatoze.pl^*^OFERTA_315_GIF.
 ^banners^$domain=gramwzielone.pl
+^banery2019^$domain=wysokomazowiecki24.pl
+||wysokomazowiecki24.pl^*^wys-maz-1100x150.
+||wysokomazowiecki24.pl^*^pieer1.
