@@ -695,3 +695,4 @@ _reklamy_$domain=chojna24.pl
 ^468^$domain=betgol.pl|betglob.pl|worldofbookmakers.com|extragoals.com
 ||worldofbookmakers.com^*^sts300.
 ||mecze.com^*^player-f1-
+||ec.bankier.pl^$domain=mavelo.pl
