@@ -727,3 +727,5 @@ _reklamy_$domain=chojna24.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=tygodnik-rolniczy.pl|elita-magazyn.pl|topagrar.pl|profitechnika.pl|warzywaiowoce.pl|sadnowoczesny.pl
 ||tarnowiak.pl^*_wizytowka^
 ||tarnowiak.pl^*_reklama^
+||tarnobrzeskie.eu^*^tani-druk-
+||tarnobrzeskie.eu^*^grupawoda.
