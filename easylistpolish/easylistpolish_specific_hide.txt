@@ -996,3 +996,6 @@ tarnobrzeskie.eu###text-20
 tarnobrzeskie.eu###text-19
 szubin24.pl##.ban
 szczecinek.com##.l-box--100 > div[align="center"]
+swiatkoni.pl###advwide
+swiatkoni.pl###advmain
+swiatkoni.pl##.advset
