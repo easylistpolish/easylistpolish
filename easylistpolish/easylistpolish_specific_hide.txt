@@ -987,3 +987,4 @@ wirtualnekosmetyki.pl##img[alt="baner szeroki"]
 wadowice24.pl##a[href^="https://reklamawadowice24.pl/"]
 tygodnikponidzia.pl##.a-widget
 turek.net.pl##.BanerO
+trzemeszno24.info##.td_single_image_bg
