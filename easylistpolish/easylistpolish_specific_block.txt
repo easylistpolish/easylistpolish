@@ -680,3 +680,9 @@ _reklamy_$domain=chojna24.pl
 ||ciechanowinaczej.pl^*_4693.
 ||codziennikmlawski.pl^*^pozycjonowanie_i_optymalizacja_stron.
 ||codziennikmlawski.pl^*-720x300.
+||elubaczow.com^*^*myjnia*.
+||elubaczow.com^*^*e-baner*.
+||elubaczow.com^*^*kresowa-osada*.
+||elubaczow.com^*^*zm2_prob3.gif
+||elubaczow.com^*^*bs-kredyt*.
+||elubaczow.com^*^*Stihl*.
