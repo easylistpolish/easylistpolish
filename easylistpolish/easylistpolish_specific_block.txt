@@ -678,3 +678,5 @@ _reklamy_$domain=chojna24.pl
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
 ||ciechanowinaczej.pl^*_4693.
+||codziennikmlawski.pl^*^pozycjonowanie_i_optymalizacja_stron.
+||codziennikmlawski.pl^*-720x300.
