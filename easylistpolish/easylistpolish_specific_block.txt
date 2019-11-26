@@ -693,3 +693,5 @@ _reklamy_$domain=chojna24.pl
 ||jelonka.com^*^10145.
 ||jelonka.com^*^9863.
 ||jelonka.com^*^10146.
+||jelonka.com^*^10143.
+||jelonka.com^*^10116.
