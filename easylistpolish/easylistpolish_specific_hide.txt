@@ -746,7 +746,6 @@ rsm-budowlani.com.pl##a[href^="https://mieszkania.uniqa24.pl/"]
 drhtv.com.pl##a[href^="https://www.sts.pl"]
 wykop.pl##a[href^="https://www.wykop.pl/adverts"]
 bankier.pl##a[href^="https://www3.smartadserver.com/"]
-jelonka.com##a[href^="zlicz.php?id="]
 info-ostroleka.pl##a[id^="reklama"]
 dziecisawazne.pl##a[onclick="onClick_mega();"]
 instalacjebudowlane.pl##a[onclick^="_gaq.push(['_trackEvent', 'kampanie banerowe'"]
@@ -980,3 +979,8 @@ eku24.net##.gkBottom3
 magazynbiomasa.pl##.g-dyn
 wadowiceonline.pl###top-header
 wadowiceonline.pl##.poziomo640
+jelonka.com##a[href^="/zlicz/"]
+jelonka.com##.dpoz3
+jelonka.com##.kol4
+jelonka.com##.rpre_tlo
+jelonka.com##.kol3
