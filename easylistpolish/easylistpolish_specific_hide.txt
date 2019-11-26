@@ -978,3 +978,5 @@ polskaniepodlegla.pl##a[href="https://www.samiswoi24.pl/pl/"]
 eku24.net###gkSidebarRight
 eku24.net##.gkBottom3
 magazynbiomasa.pl##.g-dyn
+wadowiceonline.pl###top-header
+wadowiceonline.pl##.poziomo640
