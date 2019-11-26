@@ -975,3 +975,5 @@ bronradom.pl##.advert
 polskaniepodlegla.pl##a[href="https://polskaksiegarnianarodowa.pl/"]
 polskaniepodlegla.pl##a[href^="https://iczytamy.pl/"]
 polskaniepodlegla.pl##a[href="https://www.samiswoi24.pl/pl/"]
+eku24.net###gkSidebarRight
+eku24.net##.gkBottom3
