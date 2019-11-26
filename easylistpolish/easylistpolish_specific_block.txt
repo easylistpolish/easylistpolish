@@ -686,3 +686,10 @@ _reklamy_$domain=chojna24.pl
 ||elubaczow.com^*^*zm2_prob3.gif
 ||elubaczow.com^*^*bs-kredyt*.
 ||elubaczow.com^*^*Stihl*.
+||jelonka.com^*^9821.
+||jelonka.com^*^7740.
+||jelonka.com^*^10135.
+||jelonka.com^*^10137.
+||jelonka.com^*^10145.
+||jelonka.com^*^9863.
+||jelonka.com^*^10146.
