@@ -993,3 +993,16 @@ e-kg.pl##.custompartners
 ruchnarodowy.net##.sgpb-popup-dialog-main-div-theme-wrapper-6
 konserwatyzm.pl##a[href="https://www.jchost.pl/"]
 sposobynazycie.pl##.custom-html-widget
+elektroda.pl##a[href^="https://www.pcbway.com/"]
+elektroda.pl##a[href="https://www.viking.com.tw"]
+elektroda.pl##a[href^="https://www.tme.eu/"]
+elektroda.pl##a[href^="https://www.stercontrol.pl/"]
+elektroda.pl##a[href^="https://www.relpol.pl/"]
+elektroda.pl##a[href^="https://www.ccontrols.net/"]
+elektroda.pl##a[href^="https://metalwork.pl/"]
+elektroda.pl##a[href^="https://jlcpcb.com/"]
+elektroda.pl##a[href^="http://www.biall.com.pl/"]
+elektroda.pl##a[href^="http://micros.com.pl/"]
+elektroda.pl##a[href^="http://legrand.pl/"]
+elektroda.pl##.bbd
+elektroda.pl##.NkzuQ6Z2
