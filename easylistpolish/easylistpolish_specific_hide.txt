@@ -989,3 +989,4 @@ dailyweb.pl##.adwse-headerr
 debica.tv##.video-overlay-front
 debica.tv##.td-fix-index
 dziennikzwiazkowy.com##.widget-6
+e-kg.pl##.custompartners
