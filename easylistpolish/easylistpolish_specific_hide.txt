@@ -1555,3 +1555,4 @@ abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,k
 poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"]):not(.grid__img__container)
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
+filmweb.pl##.skyBannerContent
