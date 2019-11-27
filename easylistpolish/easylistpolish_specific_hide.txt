@@ -990,3 +990,4 @@ debica.tv##.video-overlay-front
 debica.tv##.td-fix-index
 dziennikzwiazkowy.com##.widget-6
 e-kg.pl##.custompartners
+ruchnarodowy.net##.sgpb-popup-dialog-main-div-theme-wrapper-6
