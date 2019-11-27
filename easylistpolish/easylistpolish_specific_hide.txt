@@ -984,3 +984,5 @@ jelonka.com##.dpoz3
 jelonka.com##.kol4
 jelonka.com##.rpre_tlo
 jelonka.com##.kol3
+dailyweb.pl##.user-widgets
+dailyweb.pl##.adwse-headerr
