@@ -986,3 +986,5 @@ jelonka.com##.rpre_tlo
 jelonka.com##.kol3
 dailyweb.pl##.user-widgets
 dailyweb.pl##.adwse-headerr
+debica.tv##.video-overlay-front
+debica.tv##.td-fix-index
