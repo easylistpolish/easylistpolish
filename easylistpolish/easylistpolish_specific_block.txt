@@ -698,3 +698,6 @@ _reklamy_$domain=chojna24.pl
 ||cire.pl^*^medz.
 ||dlp-expert.pl^*^*banner*.
 ||dziennikzwiazkowy.com^*^*reklama*.
+||e-petrol.pl^*^swfbaners
+||e-petrol.pl^*^*750x200*.
+||e-petrol.pl^*^*372x180*.
