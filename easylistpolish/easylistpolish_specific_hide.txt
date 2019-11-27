@@ -992,4 +992,4 @@ dziennikzwiazkowy.com##.widget-6
 e-kg.pl##.custompartners
 ruchnarodowy.net##.sgpb-popup-dialog-main-div-theme-wrapper-6
 konserwatyzm.pl##a[href="https://www.jchost.pl/"]
-
+sposobynazycie.pl##.custom-html-widget
