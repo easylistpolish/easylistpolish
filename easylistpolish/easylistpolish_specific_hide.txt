@@ -646,7 +646,7 @@ itvwisla.tv,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 maratonypolskie.pl##.tekst > center > #menu2
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
-spece.it,cyfrowaekonomia.pl##.textwidget
+cyfrowaekonomia.pl,dlp-expert.pl,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 chcemybycrodzicami.pl##.the-a
 odkryjpomorze.pl##.ticker-container
