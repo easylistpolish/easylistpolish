@@ -697,3 +697,4 @@ _reklamy_$domain=chojna24.pl
 ||jelonka.com^*^10116.
 ||cire.pl^*^medz.
 ||dlp-expert.pl^*^*banner*.
+||dziennikzwiazkowy.com^*^*reklama*.
