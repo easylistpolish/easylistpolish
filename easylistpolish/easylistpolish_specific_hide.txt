@@ -1017,3 +1017,6 @@ eostroleka.pl###modul_prawy_ogloszenia
 eostroleka.pl###modul_prawy_menuonline
 esanok.pl##.patronat
 esportnow.pl##.spu-bg
+eswinoujscie.pl##.ulp-window
+eswinoujscie.pl##.ulp-overlay
+eswinoujscie.pl##.bos_searchbox_widget_class
