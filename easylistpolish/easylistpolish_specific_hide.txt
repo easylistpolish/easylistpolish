@@ -1015,4 +1015,4 @@ eluban.pl##.cycle-slideshow
 24jgora.pl##.c-content__adv
 eostroleka.pl###modul_prawy_ogloszenia
 eostroleka.pl###modul_prawy_menuonline
-
+esanok.pl##.patronat
