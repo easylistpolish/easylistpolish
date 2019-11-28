@@ -1006,3 +1006,4 @@ elektroda.pl##a[href^="http://micros.com.pl/"]
 elektroda.pl##a[href^="http://legrand.pl/"]
 elektroda.pl##.bbd
 elektroda.pl##.NkzuQ6Z2
+echo24.tv##.banner-728x90-container
