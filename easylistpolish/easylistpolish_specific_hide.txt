@@ -459,7 +459,7 @@ wronieckibazar.pl##.fright + div
 wronieckibazar.pl##.fright + div + div
 morzeweb.pl,poscigi.pl##.fullwidthbanner-container
 itvwisla.tv##.g-3
-topmejt.co.uk##.g-single
+ebelchatow.pl,topmejt.co.uk##.g-single
 spottedlublin.pl##.g1-advertisement
 lubartow24.pl##.gazetka-box
 dspodcast.pl##.gogreen
