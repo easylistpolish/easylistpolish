@@ -358,7 +358,7 @@ wpr24.pl##.banerundarti
 eurobuildcee.com##.banery
 doba.pl##.baneryB-140
 instalacjebudowlane.pl##.banery_lewy_pasek
-bazarek.net.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,forumkwiatowe.pl,glosludu.cz,historia.org.pl,imagazine.pl,nadwisla24.pl,naekranie.pl,netkonkret.pl,obligacje.pl,on-line24h.pl,optyczne.pl,podhale24.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,sieplywa.pl,wpadki.org##.banner
+bazarek.net.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glosludu.cz,historia.org.pl,imagazine.pl,nadwisla24.pl,naekranie.pl,netkonkret.pl,obligacje.pl,on-line24h.pl,optyczne.pl,podhale24.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,sieplywa.pl,wpadki.org##.banner
 pracujwlogistyce.pl##.banner-1
 trojmiasto.pl##.banner-a
 prudnik24.pl##.banner-block
@@ -630,7 +630,7 @@ zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
 osp.com.pl##.sponsors-wrapper
 radiovia.com.pl##.sponsorzy
-slowoseniora.pl##.spu-box
+esportnow.pl,slowoseniora.pl##.spu-box
 lajfy.com##.sticky-banner
 wzielonej.pl##.stream-item-below-post
 wzielonej.pl##.stream-item-top-wrapper
@@ -646,7 +646,7 @@ itvwisla.tv,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 maratonypolskie.pl##.tekst > center > #menu2
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
-cyfrowaekonomia.pl,dlp-expert.pl,spece.it##.textwidget
+cyfrowaekonomia.pl,dlp-expert.pl,esportnow.pl,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 chcemybycrodzicami.pl##.the-a
 odkryjpomorze.pl##.ticker-container
@@ -1016,3 +1016,4 @@ eluban.pl##.cycle-slideshow
 eostroleka.pl###modul_prawy_ogloszenia
 eostroleka.pl###modul_prawy_menuonline
 esanok.pl##.patronat
+esportnow.pl##.spu-bg
