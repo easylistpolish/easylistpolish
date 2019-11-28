@@ -1009,3 +1009,4 @@ elektroda.pl##.NkzuQ6Z2
 echo24.tv##.banner-728x90-container
 echogorzowa.pl##.ba
 ekologia.pl##.parent-promote
+eluban.pl##.cycle-slideshow
