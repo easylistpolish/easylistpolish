@@ -254,7 +254,6 @@ _reklamy_$domain=chojna24.pl
 ||e-play.eu^*^1024x200_
 ||echo24.tv^*^300x250x1/banners^
 ||echogorzowa.pl^*^2015/516^
-||edunews.pl^*-baner728x90pl.
 ||eduson.pl^*-reklama-panel^
 ||efilmy.tv/adsvid^
 ||ekologia.pl/pasaz/widget-
@@ -701,3 +700,4 @@ _reklamy_$domain=chojna24.pl
 ||e-petrol.pl^*^swfbaners
 ||e-petrol.pl^*^*750x200*.
 ||e-petrol.pl^*^*372x180*.
+||edunews.pl^*^banners^
