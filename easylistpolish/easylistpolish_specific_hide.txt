@@ -886,7 +886,7 @@ autoline.com.pl##.index-banners
 sekrety-zdrowia.org##.rekwrap
 gazetkonosz.pl##.signad
 autoline.com.pl###atlads_place_top
-ligapolska.pl##.reklamaNapis
+eostroleka.pl,ligapolska.pl##.reklamaNapis
 sekrety-zdrowia.org##.rekwraph
 wp.pl##.csuojG
 wp.pl##div[class^="scContainer-"]
@@ -1013,4 +1013,6 @@ eluban.pl##.cycle-slideshow
 24jgora.pl##.l-box--99
 24jgora.pl##.l-box--25
 24jgora.pl##.c-content__adv
+eostroleka.pl###modul_prawy_ogloszenia
+eostroleka.pl###modul_prawy_menuonline
 
