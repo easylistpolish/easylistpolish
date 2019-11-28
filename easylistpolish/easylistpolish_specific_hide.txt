@@ -1010,3 +1010,7 @@ echo24.tv##.banner-728x90-container
 echogorzowa.pl##.ba
 ekologia.pl##.parent-promote
 eluban.pl##.cycle-slideshow
+24jgora.pl##.l-box--99
+24jgora.pl##.l-box--25
+24jgora.pl##.c-content__adv
+
