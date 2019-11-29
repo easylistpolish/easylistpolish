@@ -709,3 +709,9 @@ _reklamy_$domain=chojna24.pl
 ||forum-norwegia.pl^*^MyCall*.
 ||forum-norwegia.pl^*^*baner*.
 ||forum.haszysz.com/solarr^*^10001/$image
+||gazeta-mosina.pl^*^*BANER*.
+||gazeta-mosina.pl^*^*reklam*.
+||gazeta-mosina.pl^*^*bigsport*.
+||gazeta-mosina.pl^*^*syndyk*.
+||gazeta-mosina.pl^*^*perfecta*.
+||gazeta-mosina.pl^*^*wypozyczalnia*.
