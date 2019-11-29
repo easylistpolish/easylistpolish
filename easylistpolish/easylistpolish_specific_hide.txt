@@ -1022,3 +1022,4 @@ eswinoujscie.pl##.ulp-overlay
 eswinoujscie.pl##.bos_searchbox_widget_class
 eurobuildcee.com##.swiper-container
 eurobuildcee.com##.banner_table
+etransport.pl##a[href^="https://kampanie.etransport.pl/click."]
