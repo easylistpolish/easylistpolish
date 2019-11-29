@@ -702,3 +702,6 @@ _reklamy_$domain=chojna24.pl
 ||e-petrol.pl^*^*372x180*.
 ||edunews.pl^*^banners^
 ||estrzelce.pl^*maral*.
+||extraswiecie.pl^*^*banerek*.
+||extraswiecie.pl^*^saturn*.
+||extraswiecie.pl^*^*banery*.
