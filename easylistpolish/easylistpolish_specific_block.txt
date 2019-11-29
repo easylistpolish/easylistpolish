@@ -705,3 +705,4 @@ _reklamy_$domain=chojna24.pl
 ||extraswiecie.pl^*^*banerek*.
 ||extraswiecie.pl^*^saturn*.
 ||extraswiecie.pl^*^*banery*.
+||facetemjestem.pl^*^zl-01.
