@@ -1020,3 +1020,5 @@ esportnow.pl##.spu-bg
 eswinoujscie.pl##.ulp-window
 eswinoujscie.pl##.ulp-overlay
 eswinoujscie.pl##.bos_searchbox_widget_class
+eurobuildcee.com##.swiper-container
+eurobuildcee.com##.banner_table
