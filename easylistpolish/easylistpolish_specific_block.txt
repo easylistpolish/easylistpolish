@@ -715,3 +715,6 @@ _reklamy_$domain=chojna24.pl
 ||gazeta-mosina.pl^*^*syndyk*.
 ||gazeta-mosina.pl^*^*perfecta*.
 ||gazeta-mosina.pl^*^*wypozyczalnia*.
+||gazeta-olawa.pl^*^*cer*.
+||gazeta-olawa.pl^*^*BS.
+||gazeta-olawa.pl^*^*KIK.
