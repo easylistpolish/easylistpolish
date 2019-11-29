@@ -1026,3 +1026,5 @@ etransport.pl##a[href^="https://kampanie.etransport.pl/click."]
 facetemjestem.pl##.CampaignType--popup
 fcinter.pl##.nav__sponsor__list
 fcinter.pl##.kompendium
+forbot.pl###boxA__header
+forbot.pl##.card__bmf
