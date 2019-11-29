@@ -708,3 +708,4 @@ _reklamy_$domain=chojna24.pl
 ||facetemjestem.pl^*^zl-01.
 ||forum-norwegia.pl^*^MyCall*.
 ||forum-norwegia.pl^*^*baner*.
+||forum.haszysz.com/solarr^*^10001/$image
