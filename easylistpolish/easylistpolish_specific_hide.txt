@@ -358,7 +358,7 @@ wpr24.pl##.banerundarti
 eurobuildcee.com##.banery
 doba.pl##.baneryB-140
 instalacjebudowlane.pl##.banery_lewy_pasek
-bazarek.net.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glosludu.cz,historia.org.pl,imagazine.pl,nadwisla24.pl,naekranie.pl,netkonkret.pl,obligacje.pl,on-line24h.pl,optyczne.pl,podhale24.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,sieplywa.pl,wpadki.org##.banner
+bazarek.net.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,historia.org.pl,imagazine.pl,nadwisla24.pl,naekranie.pl,netkonkret.pl,obligacje.pl,on-line24h.pl,optyczne.pl,podhale24.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,sieplywa.pl,wpadki.org##.banner
 pracujwlogistyce.pl##.banner-1
 trojmiasto.pl##.banner-a
 prudnik24.pl##.banner-block
@@ -1038,3 +1038,4 @@ glamrap.pl##.bsaProFloating
 glamrap.pl##.mvp-wall-link
 glamrap.pl###mvp-leader-wrap
 glamrap.pl###custom_html-6
+glos.live##.reklamuj
