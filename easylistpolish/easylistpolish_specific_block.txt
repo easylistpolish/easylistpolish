@@ -720,3 +720,4 @@ _reklamy_$domain=chojna24.pl
 ||gazeta-olawa.pl^*^*KIK.
 ||glos-tn.krakow.pl^*serenada*.
 ||gloskoninski.pl^*mediator*.
+||gorzow24.pl^*^*GML*.
