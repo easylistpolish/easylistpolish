@@ -1029,3 +1029,4 @@ fcinter.pl##.kompendium
 forbot.pl###boxA__header
 forbot.pl##.card__bmf
 forumfajerwerki.pl##.ipsWidget_inner
+geekweek.pl##.adocean-billboard
