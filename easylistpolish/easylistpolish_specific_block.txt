@@ -718,3 +718,4 @@ _reklamy_$domain=chojna24.pl
 ||gazeta-olawa.pl^*^*cer*.
 ||gazeta-olawa.pl^*^*BS.
 ||gazeta-olawa.pl^*^*KIK.
+||glos-tn.krakow.pl^*serenada*.
