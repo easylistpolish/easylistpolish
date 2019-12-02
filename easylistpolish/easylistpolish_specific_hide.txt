@@ -639,14 +639,14 @@ super-nowa.pl##.syl-baner-place
 2x45.info,serwislokalny.com##.system_banner
 skarzysko24.pl##.t3-spotlight-1
 my3miasto.pl##.takeover
-cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,dzielnicewroclawia.pl,gizycko.info,i-basket.pl,infokatowice.pl,interameryka.com,inthecage.pl,itvm.pl,jagodnik.pl,jaw.pl,miejscowa.pl,moja24.pl,mojebankowanie.pl,naszosie.pl,niebywalesuwalki.pl,noweinfo.pl,panoramakutna.pl,portalprzemyslowy.pl,progressforpoland.com,prohelvetia.pl,resellernews.pl,rzeszow-news.pl,sportgliwice.pl,streetwearhypeclub.com,tenis.net.pl,terazprudnik.pl,theillest.pl,tvpress.pl,tvzg.pl,twojezaglebie.pl,twojkurierolsztynski.pl,vrhunters.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
+cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,dzielnicewroclawia.pl,gizycko.info,goniec.net,i-basket.pl,infokatowice.pl,interameryka.com,inthecage.pl,itvm.pl,jagodnik.pl,jaw.pl,miejscowa.pl,moja24.pl,mojebankowanie.pl,naszosie.pl,niebywalesuwalki.pl,noweinfo.pl,panoramakutna.pl,portalprzemyslowy.pl,progressforpoland.com,prohelvetia.pl,resellernews.pl,rzeszow-news.pl,sportgliwice.pl,streetwearhypeclub.com,tenis.net.pl,terazprudnik.pl,theillest.pl,tvpress.pl,tvzg.pl,twojezaglebie.pl,twojkurierolsztynski.pl,vrhunters.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
 eswinoujscie.pl##.td-banner-bg
 extrapolska.pl,nswiecie.pl,poloniairlandia.pl##.td-banner-wrap-full
 itvwisla.tv,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 maratonypolskie.pl##.tekst > center > #menu2
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
-cyfrowaekonomia.pl,dlp-expert.pl,esportnow.pl,fiat.fm,spece.it##.textwidget
+cyfrowaekonomia.pl,dlp-expert.pl,esportnow.pl,fiat.fm,goniec.net,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 chcemybycrodzicami.pl##.the-a
 odkryjpomorze.pl##.ticker-container
