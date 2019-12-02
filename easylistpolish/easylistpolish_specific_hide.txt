@@ -886,7 +886,7 @@ autoline.com.pl##.index-banners
 sekrety-zdrowia.org##.rekwrap
 gazetkonosz.pl##.signad
 autoline.com.pl###atlads_place_top
-eostroleka.pl,ligapolska.pl##.reklamaNapis
+eostroleka.pl,goal.pl,ligapolska.pl##.reklamaNapis
 sekrety-zdrowia.org##.rekwraph
 wp.pl##.csuojG
 wp.pl##div[class^="scContainer-"]
@@ -1040,3 +1040,6 @@ glamrap.pl###mvp-leader-wrap
 glamrap.pl###custom_html-6
 glos.live##.reklamuj
 gloskoninski.pl##.widget-area
+goal.pl##a[href*="/goto/sts"]
+goal.pl###promoBanner
+goal.pl##a[href*="/goto/betclic"]
