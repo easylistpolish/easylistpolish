@@ -1034,4 +1034,7 @@ genetyczne.pl###baner-gorny
 genetyczne.pl###banner-21
 genetyczne.pl###banner-20
 genetyczne.pl###banner-6
-
+glamrap.pl##.bsaProFloating
+glamrap.pl##.mvp-wall-link
+glamrap.pl###mvp-leader-wrap
+glamrap.pl###custom_html-6
