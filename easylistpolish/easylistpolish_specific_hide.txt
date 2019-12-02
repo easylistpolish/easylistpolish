@@ -1030,3 +1030,8 @@ forbot.pl###boxA__header
 forbot.pl##.card__bmf
 forumfajerwerki.pl##.ipsWidget_inner
 geekweek.pl##.adocean-billboard
+genetyczne.pl###baner-gorny
+genetyczne.pl###banner-21
+genetyczne.pl###banner-20
+genetyczne.pl###banner-6
+
