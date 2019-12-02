@@ -1039,3 +1039,4 @@ glamrap.pl##.mvp-wall-link
 glamrap.pl###mvp-leader-wrap
 glamrap.pl###custom_html-6
 glos.live##.reklamuj
+gloskoninski.pl##.widget-area
