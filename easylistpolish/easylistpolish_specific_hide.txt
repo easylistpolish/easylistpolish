@@ -70,11 +70,11 @@ o.pl###billboard-container
 przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
 innemedium.pl,tylkomedycyna.pl###block-block-16
-innemedium.pl###block-block-19
+hrubieszow.info,innemedium.pl###block-block-19
 zmianynaziemi.pl###block-block-26
 zmianynaziemi.pl###block-block-29
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
-innemedium.pl###block-views-reklama-block
+hrubieszow.info,innemedium.pl###block-views-reklama-block
 forum.alfaholicy.org###block_html_3
 lebork24.info###bottom-banner
 szuster.com.pl###box-4
@@ -1049,3 +1049,4 @@ grapplerinfo.pl##.wpb_raw_html
 grapplerinfo.pl###text-44
 grojec24.net##.cookie-alert2
 historia.org.pl##a[href*="xlm.pl"]
+hrubieszow.info##.region-bannerpodmenu
