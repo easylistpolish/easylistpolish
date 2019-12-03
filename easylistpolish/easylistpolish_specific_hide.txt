@@ -1046,3 +1046,5 @@ goal.pl##a[href*="/goto/betclic"]
 gostynin24.pl##.g24-nostyle
 gram.pl###sky_left_parent
 gram.pl##.text-ad-center
+grapplerinfo.pl##.wpb_raw_html
+grapplerinfo.pl###text-44
