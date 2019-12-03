@@ -1044,3 +1044,5 @@ goal.pl##a[href*="/goto/sts"]
 goal.pl###promoBanner
 goal.pl##a[href*="/goto/betclic"]
 gostynin24.pl##.g24-nostyle
+gram.pl###sky_left_parent
+gram.pl##.text-ad-center
