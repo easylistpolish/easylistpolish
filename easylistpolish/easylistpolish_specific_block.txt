@@ -723,3 +723,5 @@ _reklamy_$domain=chojna24.pl
 ||gorzow24.pl^*^*GML*.
 ||gostynin24.pl^*^banners/$image
 ||gramwzielone.pl^*^banners/$image
+||iknurow.pl^*^*lodowisko*.
+||iknurow.pl^*^*Plakat*.
