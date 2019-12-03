@@ -123,8 +123,7 @@ wodnyrelax.pl###main2
 oknonet.pl###mainbaner
 benchmark.pl###marketplaceProductBox
 poloniagdansk.pl###masthead-sponsors
-littletownshoes.com###media_image-3
-kresy.pl###media_image-3
+greencanoe.pl,kresy.pl,littletownshoes.com###media_image-3
 toproste.pl###menu_zlewej
 radio5.com.pl###menuss
 kurierostrowski.pl###metaslider_970
@@ -187,7 +186,7 @@ btcbb.pl###sponsor_id
 zambrowiacy.pl###sponsorbox
 tvgorzow.pl###testimonialrotatorwidget-5
 gadzet.telchina.pl,joulenka.pl,zpopk.pl###text-11
-lowking.pl,zpopk.pl###text-15
+greencanoe.pl,lowking.pl,zpopk.pl###text-15
 tylkopilka.pl###text-157
 bbfan.pl,smartage.pl###text-17
 bbfan.pl,tkn24.pl###text-18
@@ -215,7 +214,7 @@ akademiawitalnosci.pl,budujzdrewna.pl,malyrekin.pl,polacywewloszech.com,terazgro
 gadzet.telchina.pl,inthecage.pl,prokapitalizm.pl###text-7
 czestochowskie24.pl,forumkwiatowe.pl###text-75
 kamienskie.info###text-79
-24legnica.pl,dingdog.pl,niebezpiecznik.pl,tarnobrzeskie.eu,twojmedyk.pl,wydzialykomunikacji.pl###text-8
+24legnica.pl,dingdog.pl,greencanoe.pl,niebezpiecznik.pl,tarnobrzeskie.eu,twojmedyk.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
 gazetalubliniecka.pl,kobieta-zmienna-jest.pl,olgasmile.com,prasowki.org,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl###text-9
 lukowicatomy.pl###text-html-widget-14
@@ -658,7 +657,7 @@ mojaniderlandia.pl,twojeuk.pl##.top_banner
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
 ceny-zlomu.pl##.uniq-banner
-radiowarszawa.com.pl##.vc_single_image-wrapper
+greencanoe.pl,radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm##.vc_wp_text
 banita.travel.pl##.vce-sticky
 android.com.pl##.vertical-banner
