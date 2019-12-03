@@ -721,3 +721,4 @@ _reklamy_$domain=chojna24.pl
 ||glos-tn.krakow.pl^*serenada*.
 ||gloskoninski.pl^*mediator*.
 ||gorzow24.pl^*^*GML*.
+||gostynin24.pl^*^banners/$image
