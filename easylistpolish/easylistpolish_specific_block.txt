@@ -677,3 +677,9 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||trawka.org^*^300-x-150-
+||seedbay.pl^*^thc-nasiona-
+||trawka.org^*^vapuj-pl-
+||trawka.org^*^grasspower.
+||trawka.org^*300X150
+||trawka.org^*^dutchpassion2.
