@@ -283,7 +283,7 @@ roztocze.net##.adds-txt-centred
 tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
 pomorska.pl##.adoceanGora1Wrapper
-3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,globenergia.pl,kochamrzesy.pl,mragowo24.info,rapduma.pl,spidersweb.pl,synonimiczny.pl##.ads
+3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,globenergia.pl,hurtidetal.pl,kochamrzesy.pl,mragowo24.info,rapduma.pl,spidersweb.pl,synonimiczny.pl##.ads
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
