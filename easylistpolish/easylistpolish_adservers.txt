@@ -7,3 +7,6 @@
 ||incontext.pl^$third-party
 ||reklamawadowice24.pl^$third-party
 ||rewords.pl^$third-party
+||waytogrow.eu^$third-party
+||waytogrow.pl^$third-party
+||wtg-ads.com^$third-party
