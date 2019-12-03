@@ -1048,3 +1048,4 @@ gram.pl##.text-ad-center
 grapplerinfo.pl##.wpb_raw_html
 grapplerinfo.pl###text-44
 grojec24.net##.cookie-alert2
+historia.org.pl##a[href*="xlm.pl"]
