@@ -722,3 +722,4 @@ _reklamy_$domain=chojna24.pl
 ||gloskoninski.pl^*mediator*.
 ||gorzow24.pl^*^*GML*.
 ||gostynin24.pl^*^banners/$image
+||gramwzielone.pl^*^banners/$image
