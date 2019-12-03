@@ -677,3 +677,11 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||radomnews.pl^*^banerekPRU_320.
+||radomnews.pl^*^nzn_315.
+||radomnews.pl^*^kwiatkowski_pr.
+||radomnews.pl^*^czas_na_kawe.
+||radomnews.pl^*^jadar_logo.
+||radomnews.pl^*^logo_bfresh.
+||radomnews.pl^*^radpec_2019.
+||radomnews.pl^*^administrator_magnolia17.
