@@ -1556,3 +1556,6 @@ poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"])
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 filmweb.pl##.skyBannerContent
+ceny-zlomu.pl##a[href="http://www.najlepsze-porady.pl/"]
+ceny-zlomu.pl##a[href^="https://akcesoria.meble.pl/"]
+ceny-zlomu.pl##a[href="http://www.argonium.pl/"]
