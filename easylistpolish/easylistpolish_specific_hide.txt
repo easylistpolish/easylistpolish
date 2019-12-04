@@ -1556,3 +1556,9 @@ poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"])
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 filmweb.pl##.skyBannerContent
+elektroda.pl##a[href="https://www.sklephelukabel.pl/Promocja"]
+elektroda.pl##a[href*="?from=elektroda.pl"]
+elektroda.pl##.bbd
+elektroda.pl##a[href="http://www.biall.com.pl/sklep.html#"]
+elektroda.pl##a[onclick*="Click"]
+elektroda.pl##form[action="https://www.tme.eu/pl/katalog/#"]
