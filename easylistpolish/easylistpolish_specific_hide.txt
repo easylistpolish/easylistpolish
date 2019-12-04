@@ -1556,3 +1556,8 @@ poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"])
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 filmweb.pl##.skyBannerContent
+radio5.com.pl##.custom-html-widget
+radio5.com.pl##.g-56
+radio5.com.pl##.g-26
+radio5.com.pl##.g-48
+radio5.com.pl##.g-15
