@@ -850,7 +850,7 @@ wnet.fm##.prom-block
 mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 ewejsciowki.pl##.promo-container
-kutno.net.pl##.promo-section
+ddbelchatow.pl,kutno.net.pl##.promo-section
 maximus.media##.promobox
 ceneo.pl##.promoted-products
 lol24.com,zumi.pl##.promotion
