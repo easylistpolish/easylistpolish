@@ -964,7 +964,7 @@ poscigi.pl##.td-image-box-style-2
 maratonypolskie.pl##.tekst > center > #menu2
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
-spece.it##.textwidget
+cyfrowaekonomia.pl,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 chcemybycrodzicami.pl##.the-a
 tkn24.pl##.thisisatest
