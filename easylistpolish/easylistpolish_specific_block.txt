@@ -719,5 +719,6 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
