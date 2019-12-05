@@ -719,6 +719,7 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+^banners^$domain=gramwzielone.pl
 ||swiatoze.pl^*_336x280.
 ||swiatoze.pl^*^OFERTA_315_GIF.
 ||typersi.pl/pliki/betfan^
