@@ -719,6 +719,7 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||mecze.com^*^player-f1-
 ||worldofbookmakers.com^*^sts300.
 ^468^$domain=betgol.pl|betglob.pl|worldofbookmakers.com|extragoals.com
 ^728^$domain=kuszotv.pl|oddslivesport.com|meczelive.tv|epilka.pl|mecze.com|betgol.pl|mecze24.pl|extragoals.com
