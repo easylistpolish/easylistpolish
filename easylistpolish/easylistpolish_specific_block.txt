@@ -719,6 +719,9 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+^banery2019^$domain=wysokomazowiecki24.pl
+||wysokomazowiecki24.pl^*^choinki2019.
+||wysokomazowiecki24.pl^*^pieer1.
 ^banners^$domain=gramwzielone.pl
 ||swiatoze.pl^*_336x280.
 ||swiatoze.pl^*^OFERTA_315_GIF.
