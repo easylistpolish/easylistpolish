@@ -999,6 +999,7 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+trawka.org##div[data-role="sidebarAd"]
 trzemeszno24.info##.td_single_image_bg
 turek.net.pl##.BanerO
 tygodnikponidzia.pl##.a-widget
