@@ -719,6 +719,8 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||tarnowiak.pl^*_wizytowka^
+_reklama^$domain=tarnowiak.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=tygodnik-rolniczy.pl|elita-magazyn.pl|topagrar.pl|profitechnika.pl|warzywaiowoce.pl|sadnowoczesny.pl
 ||seedbay.pl^*^thc-nasiona-
 ||trawka.org^*^vapuj-pl-
