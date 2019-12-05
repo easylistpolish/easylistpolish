@@ -719,6 +719,10 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||typersi.pl/pliki/betfan^
+||typersi.pl/pliki/fortuna^
+||typersi.pl/pliki/unibet^
+||typersi.pl^*^milenium/baner_
 ||gwiazdybasketu.pl^*^10bts-
 ||gwiazdybasketu.pl^*^basketzonepl-
 ||ec.bankier.pl^$domain=mavelo.pl
