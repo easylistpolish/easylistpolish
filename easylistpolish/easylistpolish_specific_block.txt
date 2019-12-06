@@ -678,3 +678,6 @@ _reklamy_$domain=chojna24.pl
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
 ||radomsport.pl^*^tenis_rkt_
+||radomsport.pl^*^fitplatinium2019.
+||radomsport.pl^*^toyota_1119.
+||radomsport.pl^*^windoor-wietrzenie-

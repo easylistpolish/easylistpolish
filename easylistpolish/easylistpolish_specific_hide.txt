@@ -972,6 +972,3 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
-||radomsport.pl^*^fitplatinium2019.
-||radomsport.pl^*^toyota_1119.
-||radomsport.pl^*^windoor-wietrzenie-
