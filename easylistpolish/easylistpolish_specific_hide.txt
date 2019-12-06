@@ -1014,3 +1014,6 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+ceny-zlomu.pl##a[href="http://www.argonium.pl/"]
+ceny-zlomu.pl##a[href^="https://akcesoria.meble.pl/"]
+ceny-zlomu.pl##a[href="http://www.najlepsze-porady.pl/"]
