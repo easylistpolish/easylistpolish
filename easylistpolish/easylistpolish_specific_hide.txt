@@ -1556,5 +1556,3 @@ poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"])
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 filmweb.pl##.skyBannerContent
-gorzow24.pl##a[href="https://www.gowork.pl/"]
-gorzow24.pl##.gml
