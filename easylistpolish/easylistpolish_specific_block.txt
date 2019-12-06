@@ -677,6 +677,6 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
-||automotivesuppliers.pl^*_stare_banery_
-||automotivesuppliers.pl^*-banery-reklama-
+_banery_$domain=automotivesuppliers.pl
+-banery-$domain=automotivesuppliers.pl
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-kolumna-
