@@ -680,4 +680,5 @@ _reklamy_$domain=chojna24.pl
 ||tkn24.pl^*^upcomp-gif.
 ||tkn24.pl^*^Circle-K-
 ||tkn24.pl^*^Ceramic.
+||tkn24.pl^*^Ceramic-
 ||tkn24.pl^*^Vita.
