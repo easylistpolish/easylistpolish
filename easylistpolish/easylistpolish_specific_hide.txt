@@ -1014,3 +1014,6 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+suwalki.info###pasaz
+suwalki.info##.news-item2
+suwalki.info##a[href*="banner.php?id="]
