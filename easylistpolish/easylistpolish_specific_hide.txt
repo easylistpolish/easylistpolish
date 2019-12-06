@@ -643,7 +643,6 @@ allaboutlife.pl##.carrie-ad-block
 esanok.pl##.category-artykuly-sponsorowane
 trojmiasto.pl##.cbcadebebb
 wizaz.pl##.ceneo-container
-wizaz.pl##.ecomm-wrapper
 bolec.info##.centralBoard
 ladnydom.pl##.cg-ad
 edziecko.pl,plotek.pl##.cg2-ad
