@@ -999,6 +999,8 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+automatyka.pl,laboratoria.xtech.pl##.advertHd
+automatyka.pl,laboratoria.xtech.pl##.advertHd + div
 szubin24.pl##.ban
 tradersarea.pl##div[class^="g-single a-"]
 tradersarea.pl##.td-a-rec
