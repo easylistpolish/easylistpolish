@@ -719,6 +719,9 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+_banery_$domain=automotivesuppliers.pl
+-banery-$domain=automotivesuppliers.pl
+||automotivesuppliers.pl^*^djmediatools^*-lewa-kolumna-
 ||radomsport.pl^*^tenis_rkt_
 ||radomsport.pl^*^fitplatinium2019.
 ||radomsport.pl^*^toyota_1119.
