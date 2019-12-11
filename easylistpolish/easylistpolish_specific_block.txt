@@ -719,6 +719,7 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||uavo.com.pl^*^airborn-ins.
 _baner_$domain=wirtualnekosmetyki.pl
 ||sokolka.tv^*^EURO_RABATYDO.
 ||sokolka.tv^*^sokole-oko-
