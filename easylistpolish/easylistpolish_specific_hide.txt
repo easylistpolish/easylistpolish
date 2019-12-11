@@ -999,6 +999,7 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+tygodniksanocki.pl##.a-single
 automotivesuppliers.pl##.dj-loader
 automotivesuppliers.pl##img[width="370"][height="140"]
 uavo.com.pl##div[class^="g-single a-"]
