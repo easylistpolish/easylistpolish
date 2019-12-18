@@ -751,3 +751,8 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||gazeta-mosina.pl^*^*reklam*.
+||gazeta-mosina.pl^*^*bigsport*.
+||gazeta-mosina.pl^*^*syndyk*.
+||gazeta-mosina.pl^*^*praca*.
+||gazeta-mosina.pl^*^*wypozyczalnia*.
