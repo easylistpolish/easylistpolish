@@ -751,3 +751,9 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||twojglos-garwolin.pl^*^*290x170*.
+||twojglos-garwolin.pl^*^*330x192*.
+||twojglos-garwolin.pl^*^*net-komp*.
+||twojglos-garwolin.pl^*^*kasacja*.
+||twojglos-garwolin.pl^*^*przyczepki*.
+||twojglos-garwolin.pl^*^*proway*.
