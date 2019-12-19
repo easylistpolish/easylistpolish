@@ -1014,3 +1014,11 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+gazetagazeta.com###media_image-28
+gazetagazeta.com###media_image-18
+gazetagazeta.com###media_image-25
+gazetagazeta.com###media_image-35
+gazetagazeta.com###media_image-26
+gazetagazeta.com###media_image-34
+gazetagazeta.com###media_image-39
+gazetagazeta.com###media_image-41
