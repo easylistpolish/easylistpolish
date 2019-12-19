@@ -1014,3 +1014,6 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+goniec.net##.widget_text
+goniec.net##.td-header-sp-recs
+goniec.net##.td-a-rec
