@@ -1014,3 +1014,7 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+genetyczne.pl###banner-6
+genetyczne.pl###banner-20
+genetyczne.pl###banner-21
+genetyczne.pl###baner-gorny
