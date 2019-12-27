@@ -972,3 +972,5 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+futbolnews.pl,zzapolowy.com##.floatBox
+futbolnews.pl,zzapolowy.com##.ranking
