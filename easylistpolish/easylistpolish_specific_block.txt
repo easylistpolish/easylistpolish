@@ -677,3 +677,7 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||futbolnews.pl^*^780x200-
+||futbolnews.pl^*^LVBET.
+||futbolnews.pl^*^BETAFAN1-
+||futbolnews.pl^*^1000x200_
