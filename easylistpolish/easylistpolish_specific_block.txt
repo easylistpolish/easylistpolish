@@ -773,3 +773,11 @@ _reklama^$domain=tarnowiak.pl
 ||betonline.net.pl^*^bukmacher_betclic2.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||sportsiedlce.pl^*^Eden-
+||sportsiedlce.pl^*^Mal-Pol-
+||sportsiedlce.pl^*^05/189.
+||sportsiedlce.pl^*^garwacki.
+||sportsiedlce.pl^*^000005802.
+||sportsiedlce.pl^*^000010570.
+||sportsiedlce.pl^*^84869_
+||sportsiedlce.pl^*^000010959.
