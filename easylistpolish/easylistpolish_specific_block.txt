@@ -773,3 +773,6 @@ _reklama^$domain=tarnowiak.pl
 ||betonline.net.pl^*^bukmacher_betclic2.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||nowawrzesnia.pl/images/gif_*.201*wrz
+||nowawrzesnia.pl^*^nepanowy2019.
+||nowawrzesnia.pl^*^proj_Stalpol_v1.
