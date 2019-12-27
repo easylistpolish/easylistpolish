@@ -773,3 +773,11 @@ _reklama^$domain=tarnowiak.pl
 ||betonline.net.pl^*^bukmacher_betclic2.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||extraswiecie.pl^*^7.roplast.
+||extraswiecie.pl^*^67077666_
+||extraswiecie.pl^*^67211580_
+||extraswiecie.pl^*^t_pogoda_
+||extraswiecie.pl^*^6.meranti.
+||extraswiecie.pl^*^extra_swiecie.jpg?89
+||extraswiecie.pl^*^14.anamej.
+||extraswiecie.pl^*^sery.
