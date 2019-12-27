@@ -677,3 +677,6 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||cloudfront.net/om-sts-prd-public^$image,domain=futbolnews.pl|zzapolowy.com
+||affiliates-solutions.com^$image,domain=futbolnews.pl|zzapolowy.com
+||om-sts-prd-public.s3.amazonaws.com^$image,domain=futbolnews.pl|zzapolowy.com
