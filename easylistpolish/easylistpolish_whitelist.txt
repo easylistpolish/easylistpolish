@@ -1,3 +1,4 @@
+@@/liveads.$domain=liveads.pl
 @@/reklama.$domain=grojec24.net
 @@/reklama2.$domain=tarnow.pl
 @@/SidebarAds.$domain=eurogamer.pl
