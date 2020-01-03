@@ -1014,3 +1014,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+korsokolbuszowskie.pl##a[onclick^="update_ad"]
+korsokolbuszowskie.pl##.no-bg
+korsokolbuszowskie.pl##.iad
+korsokolbuszowskie.pl##.advert-A2
+korsokolbuszowskie.pl##.advert-A1
