@@ -1027,3 +1027,4 @@ e-kg.pl##.custompartners
 elektroda.pl##a[onclick^="eventSender('"] > img
 elektroda.pl##.bbd
 elektroda.pl##img[src^="https://obrazki.elektroda.pl/"][width="970"][height="250"]
+elektroda.pl##form[action^="https://www.tme.eu/"]
