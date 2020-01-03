@@ -1014,3 +1014,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+naszraciborz.pl##.news_box_google
+naszraciborz.pl##.news_box_reklama
+naszraciborz.pl##.bazarek_slide
+naszraciborz.pl##a[href*="link_r"]
+naszraciborz.pl##.adsense_title
