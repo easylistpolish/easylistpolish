@@ -999,6 +999,7 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+sochaczew24.info##.td-a-rec
 starysacz.info##div[id^="addon-rotator-"]
 swiatkoni.pl###advwide
 swiatkoni.pl###advmain
