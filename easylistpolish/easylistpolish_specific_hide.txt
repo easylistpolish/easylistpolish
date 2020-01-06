@@ -1002,6 +1002,14 @@ bronradom.pl##.advert
 tarnobrzeskie.eu###text-22
 tarnobrzeskie.eu###text-20
 tarnobrzeskie.eu###text-19
+tygodniksanocki.pl##.a-single
+automotivesuppliers.pl##.dj-loader
+automotivesuppliers.pl##img[width="370"][height="140"]
+uavo.com.pl##div[class^="g-single a-"]
+wirtualnekosmetyki.pl##img[alt="baner szeroki"]
+automatyka.pl,laboratoria.xtech.pl##.advertHd
+automatyka.pl,laboratoria.xtech.pl##.advertHd + div
+szubin24.pl##.ban
 tradersarea.pl##div[class^="g-single a-"]
 tradersarea.pl##.td-a-rec
 trawka.org##div[data-role="sidebarAd"]
@@ -1016,3 +1024,6 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+gorzow24.pl##a[href="https://www.gowork.pl/"]
+gorzow24.pl##.gml
+e-kg.pl##.custompartners
