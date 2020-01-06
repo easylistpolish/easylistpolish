@@ -967,9 +967,65 @@ abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,k
 poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"]):not(.grid__img__container)
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
+party.pl##.ecomm-zalando
+cooltura24.co.uk##a[href^="https://www.xoom.com?"]
+zdrowybialystok.pl##.banneritem
+nieruchomoscipodlaskie.pl##.banner
+kramik.pl##a[href^="/glowna/reklama/"] > img[alt^="http"]
+forum.bitcoin.pl##.ads
+kryptoportal.pl,kryptonotowania.pl##.losowanko
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis + * 
+goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis
+forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
+chemiabudowlana.info###fadeinbox
+trakt.tv###hu-ck-ster-desk-top-wrapper
+centrumdruku3d.pl##a[href*="hp3d.pl/"] > img
+centrumdruku3d.pl##a[onclick*="'Banners'"]
+elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
+elektroda.pl##a[onclick*="eventSend('Navibox',"]
+elektroda.pl##.NkzuQ6Z2
+b24tv.pl##.metaslider
+lwowecki.info##.td-all-devices2
+glos.live##.banner
+gwint24.pl##.herald-txt-module
+sprowadzanie-aut.pl##.banner-inner
+tromil.pl##.rotator-ceneo
+okraglemiasto.pl##.wpb_left-to-right
+okraglemiasto.pl##.reklama_top
+zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
 blogprezesa.pl###text-18
 blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
 swiatkarinki.pl##.baner
+szczecinek.com##.l-box--100 > div[align="center"]
+tarnobrzeskie.eu###text-22
+tarnobrzeskie.eu###text-20
+tarnobrzeskie.eu###text-19
+tygodniksanocki.pl##.a-single
+automotivesuppliers.pl##.dj-loader
+automotivesuppliers.pl##img[width="370"][height="140"]
+uavo.com.pl##div[class^="g-single a-"]
+wirtualnekosmetyki.pl##img[alt="baner szeroki"]
+automatyka.pl,laboratoria.xtech.pl##.advertHd
+automatyka.pl,laboratoria.xtech.pl##.advertHd + div
+szubin24.pl##.ban
+tradersarea.pl##div[class^="g-single a-"]
+tradersarea.pl##.td-a-rec
+trawka.org##div[data-role="sidebarAd"]
+trzemeszno24.info##.td_single_image_bg
+turek.net.pl##.BanerO
+tygodnikponidzia.pl##.a-widget
+wadowice24.pl##a[href^="https://reklamawadowice24.pl/"]
+wladek.pl##img[alt$="eklama"]
+wronieckibazar.pl###custom_html-2
+wlkp24.info##div[class^="g-single a-"]
+wlkp24.info##div[class^="g-dyn a-"]
+portaltatrzanski.pl##.promoadv
+4lomza.pl###banner-slider
+dziennikpolski24.pl##.krh-m-g
+gorzow24.pl##a[href="https://www.gowork.pl/"]
+gorzow24.pl##.gml
+e-kg.pl##.custompartners
