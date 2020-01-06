@@ -131,4 +131,4 @@
 @@||filesrr.vitalia.pl^*^reklama/danie.$image,third-party,domain=wp.pl
 @@||poczta.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
-@@||liveads.pl^$~third-party
+@@||liveads.pl^$domain=liveads.pl
