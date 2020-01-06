@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+debica.tv##.g-9
+debica.tv##.video-overlay-front
 disco-polo.info###smartserwer_adv
 bezale.pl##.widget-area
 infoserwiselk.pl##.btop
