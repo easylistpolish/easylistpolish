@@ -1031,6 +1031,9 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+infoserwiselk.pl##.btop
+infoserwiselk.pl##.b180
+infoserwiselk.pl##.b300
 infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
