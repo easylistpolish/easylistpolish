@@ -999,6 +999,9 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+tarnobrzeskie.eu###text-22
+tarnobrzeskie.eu###text-20
+tarnobrzeskie.eu###text-19
 tygodniksanocki.pl##.a-single
 automotivesuppliers.pl##.dj-loader
 automotivesuppliers.pl##img[width="370"][height="140"]
