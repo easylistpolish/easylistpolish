@@ -719,6 +719,7 @@ _reklamy_$domain=chojna24.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
+||staresiolkowice.pl^*^02/Reha-Vital.
 ^flash^$domain=suwalki.info
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
 ||tarnobrzeskie.eu^*^tani-druk-
