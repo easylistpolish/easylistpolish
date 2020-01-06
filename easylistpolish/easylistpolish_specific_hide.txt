@@ -999,6 +999,7 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+faktykonopne.pl##.code-block
 sci24.pl##div[class^="g-dyn a-"]
 slupca.pl##.g-8
 slupca.pl##.g-2
