@@ -999,6 +999,9 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+swiatkoni.pl###advwide
+swiatkoni.pl###advmain
+swiatkoni.pl##.advset
 suwalki.info##a:not([href^="http://www.suwalki.info/"]) > img[src*="/banery/"]
 swiatkarinki.pl##.baner
 szczecinek.com##.l-box--100 > div[align="center"]
