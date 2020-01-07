@@ -678,4 +678,4 @@ _reklamy_$domain=chojna24.pl
 ||mazopolska.pl^*_banner1.
 ||blob:http://video.gazeta.pl^$script
 ||tarnobrzeskie.eu^*^balony-z-helem-
-||tarnobrzeskie.eu^*^BANER-
+^baner-$domain=tarnobrzeskie.eu
