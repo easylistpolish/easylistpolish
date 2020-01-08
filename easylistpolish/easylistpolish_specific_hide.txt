@@ -1037,6 +1037,7 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+dailyweb.pl##.adwse-headerr
 codziennikmlawski.pl##.code-block-9
 codziennikmlawski.pl##.code-block-6
 chaosvault.com##.advertising
