@@ -788,3 +788,5 @@ _reklama^$domain=tarnowiak.pl
 ||betonline.net.pl^*^bukmacher_betclic2.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||tarnobrzeskie.eu^*^balony-z-helem-
+^baner-$domain=tarnobrzeskie.eu
