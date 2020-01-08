@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+swidniczka.com##.top5
+swidniczka.com##.kol3
 kuriersuwalski.pl###sp-section-6
 bukowskilider.pl###sticky-posts-3
 boardtime.pl###widget_custom_html
