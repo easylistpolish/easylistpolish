@@ -791,3 +791,6 @@ _reklama^$domain=tarnowiak.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+||truckeronroad.com^*^marketing-studio-
+||truckeronroad.com^*^simglob-
+||truckeronroad.com^*^autoport-
