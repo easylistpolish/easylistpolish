@@ -791,3 +791,4 @@ _reklama^$domain=tarnowiak.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+-banner-$domain=linia.com.pl
