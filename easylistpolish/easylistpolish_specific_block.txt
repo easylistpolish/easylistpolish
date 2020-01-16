@@ -791,3 +791,5 @@ _reklama^$domain=tarnowiak.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+||busiarze.com.pl^*^Webp.net-
+||busiarze.com.pl^*^lacus-
