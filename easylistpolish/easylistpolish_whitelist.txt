@@ -132,5 +132,4 @@
 @@||poczta.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||liveads.pl^$domain=liveads.pl
-@@/adw.$domain=adw.org.pl
 @@^reklamy^$domain=selgros24.pl
