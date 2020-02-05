@@ -1037,6 +1037,9 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+e-playbet.com###custom_html-12
+e-playbet.com###text-70
+e-playbet.com###text-66
 polskielupki.pl###topAdd
 polskielupki.pl##.ad_info
 e-petrol.pl##a[href*="redir?part=banner"]
