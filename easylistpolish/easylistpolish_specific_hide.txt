@@ -999,6 +999,29 @@ blogprezesa.pl###text-19
 oswiecim112.pl##.a-single
 oswiecim112.pl###text-3
 bronradom.pl##.advert
+faktykonopne.pl##.code-block
+sci24.pl##div[class^="g-dyn a-"]
+slupca.pl##.g-8
+slupca.pl##.g-2
+slupca.pl##.g-4
+sochaczew24.info##.td-a-rec
+starysacz.info##div[id^="addon-rotator-"]
+swiatkoni.pl###advwide
+swiatkoni.pl###advmain
+swiatkoni.pl##.advset
+suwalki.info##a:not([href^="http://www.suwalki.info/"]) > img[src*="/banery/"]
+swiatkarinki.pl##.baner
+szczecinek.com##.l-box--100 > div[align="center"]
+tarnobrzeskie.eu###text-22
+tarnobrzeskie.eu###text-20
+tarnobrzeskie.eu###text-19
+tygodniksanocki.pl##.a-single
+automotivesuppliers.pl##.dj-loader
+automotivesuppliers.pl##img[width="370"][height="140"]
+uavo.com.pl##div[class^="g-single a-"]
+wirtualnekosmetyki.pl##img[alt="baner szeroki"]
+automatyka.pl,laboratoria.xtech.pl##.advertHd
+automatyka.pl,laboratoria.xtech.pl##.advertHd + div
 szubin24.pl##.ban
 tradersarea.pl##div[class^="g-single a-"]
 tradersarea.pl##.td-a-rec
@@ -1017,5 +1040,30 @@ dziennikpolski24.pl##.krh-m-g
 e-playbet.com###custom_html-12
 e-playbet.com###text-70
 e-playbet.com###text-66
-e-playbet.com###custom_html-13
-e-playbet.com###custom_html-4
+polskielupki.pl###topAdd
+polskielupki.pl##.ad_info
+e-petrol.pl##a[href*="redir?part=banner"]
+e-petrol.pl##a[href="http://www.bartergaz.pl"]
+e-petrol.pl###banner-750
+e-grajewo.pl##.logos-container
+e-grajewo.pl###headpartnership
+dailyweb.pl##.adwse-headerr
+codziennikmlawski.pl##.code-block-9
+codziennikmlawski.pl##.code-block-6
+chaosvault.com##.advertising
+swidniczka.com##.top5
+swidniczka.com##.kol3
+kuriersuwalski.pl###sp-section-6
+bukowskilider.pl###sticky-posts-3
+boardtime.pl###widget_custom_html
+debica.tv##.g-9
+debica.tv##.video-overlay-front
+disco-polo.info###smartserwer_adv
+bezale.pl##.widget-area
+infoserwiselk.pl##.btop
+infoserwiselk.pl##.b180
+infoserwiselk.pl##.b300
+infoprzasnysz.com##.zodnbrutw-image
+gorzow24.pl##a[href="https://www.gowork.pl/"]
+gorzow24.pl##.gml
+e-kg.pl##.custompartners
