@@ -1040,6 +1040,8 @@ dziennikpolski24.pl##.krh-m-g
 esportnow.pl##.spu-box
 esportnow.pl##.spu-bg
 esportnow.pl##.widget
+antyradio.pl##.advert-movieads
+estrzelce.pl###ac-wrapper
 esanok.pl##.ads-s
 podroze.se.pl##.refashionLayer
 eostroleka.pl###baner_A_mobile
