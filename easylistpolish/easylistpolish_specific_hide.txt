@@ -1037,6 +1037,9 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+esportnow.pl##.spu-box
+esportnow.pl##.spu-bg
+esportnow.pl##.widget
 antyradio.pl##.advert-movieads
 estrzelce.pl###ac-wrapper
 esanok.pl##.ads-s
