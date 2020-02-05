@@ -1037,6 +1037,7 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+fcinter.pl##.nav__sponsor__list
 eswinoujscie.pl##.bos_searchbox_widget_class
 eswinoujscie.pl##.ulp-window-container
 facetemjestem.pl##.CampaignType--popup
