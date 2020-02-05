@@ -1037,6 +1037,10 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+eostroleka.pl###baner_A_mobile
+eostroleka.pl##div[mysize^="71"]
+eostroleka.pl###baner_A_desktop
+eostroleka.pl##.reklamaNapis
 eluban.pl##.toplayer
 eluban.pl##.advert-A1
 eluban.pl##.boards
