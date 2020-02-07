@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+24wspolnota.pl##.rBox
+24wspolnota.pl##.advContainer
 dobragazeta.com.pl##.top-panel
 fiat.fm###text-7
 fcinter.pl##.nav__sponsor__list
