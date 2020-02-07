@@ -1037,6 +1037,7 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+gdanskstrefa.com###header-right-section
 gazetalubliniecka.pl###text-4
 gazetalubliniecka.pl###text-6
 gazetalubliniecka.pl##.gazet-wpisy2
