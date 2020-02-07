@@ -1041,6 +1041,9 @@ genetyczne.pl###banner-6
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
 genetyczne.pl###baner-gorny
+glamrap.pl###mvp-wallpaper
+glamrap.pl###mvp-leader-wrap
+glamrap.pl##.bsaProFloating
 gdanskstrefa.com###header-right-section
 gazetalubliniecka.pl###text-4
 gazetalubliniecka.pl###text-6
