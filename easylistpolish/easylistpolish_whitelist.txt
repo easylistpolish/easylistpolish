@@ -133,3 +133,4 @@
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||liveads.pl^$domain=liveads.pl
 @@^reklamy^$domain=selgros24.pl
+@@||egarwolin.pl^*^inline__1_576.
