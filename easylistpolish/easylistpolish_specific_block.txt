@@ -786,6 +786,7 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||glos-tn.krakow.pl/serenada01.
 ^baner_$domain=gazetagazeta.com
 ||gazetagazeta.com^*-Zywiec-
 ||gazetagazeta.com^*-Jewellery-
@@ -809,4 +810,3 @@ _baner_$domain=forum-norwegia.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
-
