@@ -1037,6 +1037,11 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+gazetalubliniecka.pl###text-4
+gazetalubliniecka.pl###text-6
+gazetalubliniecka.pl##.gazet-wpisy2
+gazetalubliniecka.pl###text-11
+gazetalubliniecka.pl##.gazet-vip1
 gazetagazeta.com###media_image-30
 gazetagazeta.com###media_image-28
 gazetagazeta.com###media_image-18
