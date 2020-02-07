@@ -786,6 +786,7 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||twojglos-garwolin.pl^*^inline_images^
 _200x50.$domain=fresh-market.pl
 ^baner_$domain=fresh-market.pl
 ||forum.haszysz.com/solarr^$image
