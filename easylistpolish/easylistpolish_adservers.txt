@@ -1,5 +1,6 @@
 ||adsearch.pl^$third-party
 ||adsnet.pl^$third-party
+||affiliates-solutions.com^$third-party
 ||banmax.com^$third-party
 ||converti.se^$third-party
 ||convertiser.com^$third-party
