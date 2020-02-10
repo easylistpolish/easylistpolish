@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+gram.pl##.text-ad-right
+gram.pl##.text-ad-center
 gostynin24.pl##.slides
 goniec.net##.widget_text
 goniec.net##.td-header-sp-recs
