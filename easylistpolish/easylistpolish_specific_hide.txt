@@ -1037,6 +1037,7 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+grojec24.net###cookieinfo2
 grapplerinfo.pl##a[href^="https://groundgame.com/"]
 gram.pl##.text-ad-right
 gram.pl##.text-ad-center
