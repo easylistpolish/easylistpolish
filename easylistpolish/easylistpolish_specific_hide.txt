@@ -1132,6 +1132,8 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+futbolnews.pl,zzapolowy.com##.floatBox
+futbolnews.pl,zzapolowy.com##.ranking
 plonsk24.pl##.pole-banerowe > a:not([href^="/"]):not([href*="plonsk24.pl/"])
 leszczynskisport.pl##.td-a-rec
 leszczynskisport.pl##.wpb_animate_when_almost_visible
