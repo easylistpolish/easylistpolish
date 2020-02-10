@@ -1127,4 +1127,5 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
