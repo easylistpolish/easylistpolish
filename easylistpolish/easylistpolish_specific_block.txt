@@ -810,6 +810,7 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+-banner-$domain=pokonajlysienie.com
 ||leszczynskisport.pl^*^danno.
 ||leszczynskisport.pl^*^robinsons.
 ||leszczynskisport.pl^*^tempus.
