@@ -1132,9 +1132,10 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
-elektroda.pl##a[onclick^="eventSender('"] > img
+elektroda.pl##a[onclick^="eventSender('"]
 elektroda.pl##img[src^="https://obrazki.elektroda.pl/"][width="970"][height="250"]
 elektroda.pl##form[action^="https://www.tme.eu/"]
+zdrowieiuroda.gwarek.com.pl##.axxx
 ostrowiecnews.pl###main > center:first-of-type > a
 futbolnews.pl,zzapolowy.com##.floatBox
 futbolnews.pl,zzapolowy.com##.ranking
