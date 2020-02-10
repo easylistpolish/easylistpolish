@@ -1132,6 +1132,7 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+portalmorski.pl##.standard_adv_link
 progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop

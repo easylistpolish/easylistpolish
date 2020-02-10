@@ -810,6 +810,7 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||portalmorski.pl^*^pmb^
 ||progressforpoland.org^*^oilpassion-
 ^baner^$domain=progressforpoland.org
 ||proskarzysko.pl^*^kumers-wyprzedaz-
