@@ -127,7 +127,12 @@
 @@||zwielkopolski24.pl^*-up-jedynka.
 @@||zwielkopolski24.pl^*-wielkanoc-zajawka.
 @@||zycie.pl^*^138^
-@@^wppas.$domain=przegladpiaseczynski.pl
+@@/wppas.$domain=przegladpiaseczynski.pl
 @@||filesrr.vitalia.pl^*^reklama/danie.$image,third-party,domain=wp.pl
 @@||poczta.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
+@@||liveads.pl^$domain=liveads.pl
+@@^reklamy^$domain=selgros24.pl
+@@||egarwolin.pl^*^inline__1_576.
+@@||gostynin24.pl^*^banners/LOGO
+@@||gostynin24.pl^*^banners/owsik^
