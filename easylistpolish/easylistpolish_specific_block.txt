@@ -21,7 +21,6 @@
 -reklamy^$domain=kurekmazurski.pl
 -trendy-300-600-$domain=lilianaablog.blogspot.com
 .alicdn.$domain=ckinfo.pl
-@@^baner.$domain=cech-lipno.pl
 ^1000x390-$domain=tygodnik.szczytno.pl
 ^1450x370-$domain=tygodnik.szczytno.pl
 ^300x600_$domain=pilkarskiswiat.com
