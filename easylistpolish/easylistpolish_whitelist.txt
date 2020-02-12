@@ -1,7 +1,6 @@
 @@/reklama.$domain=grojec24.net
 @@/reklama2.$domain=tarnow.pl
 @@/SidebarAds.$domain=eurogamer.pl
-@@://adv.$popup,domain=autokult.pl|gadzetomania.pl|parenting.pl
 @@^albumtp.$domain=tygodnikpodhalanski.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
 @@^banery/bg.$domain=karpacz.net
