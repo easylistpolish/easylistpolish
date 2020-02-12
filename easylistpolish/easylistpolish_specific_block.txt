@@ -810,6 +810,13 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||sportsiedlce.pl^*^Eden-
+||sportsiedlce.pl^*^Mal-Pol-
+||sportsiedlce.pl^*^garwacki.
+||sportsiedlce.pl^*^000010570.
+||sportsiedlce.pl^*^84869_
+||sportsiedlce.pl^*^000010959.
+||sportsiedlce.pl^*/uploads/2019/02/0.jpg|$image
 ||suwalki.info^*^ibn60p.
 ||nadmorski24.pl^*3o2V9.
 ||extraswiecie.pl^*^7.roplast.
