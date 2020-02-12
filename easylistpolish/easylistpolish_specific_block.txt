@@ -810,6 +810,7 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||zakliczyninfo.pl^*^ls1.
 ||elektroda.pl^*^biall4.
 ||zkrainynba.com^*^04/thumbnail.
 -banner-$domain=pokonajlysienie.com
