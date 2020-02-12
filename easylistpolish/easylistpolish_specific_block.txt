@@ -810,6 +810,13 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||extraswiecie.pl^*^7.roplast.
+||extraswiecie.pl^*^67077666_
+||extraswiecie.pl^*^67211580_
+||extraswiecie.pl^*^t_pogoda_
+||extraswiecie.pl^*^6.meranti.
+||extraswiecie.pl^*^extra_swiecie.jpg?89
+||extraswiecie.pl^*^14.anamej.
 ||zakliczyninfo.pl^*^ls1.
 ||elektroda.pl^*^biall4.
 ||zkrainynba.com^*^04/thumbnail.
@@ -825,3 +832,4 @@ _baner_$domain=forum-norwegia.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+
