@@ -810,6 +810,7 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+||nadmorski24.pl^*3o2V9.
 ||extraswiecie.pl^*^7.roplast.
 ||extraswiecie.pl^*^67077666_
 ||extraswiecie.pl^*^67211580_
@@ -832,4 +833,3 @@ _baner_$domain=forum-norwegia.pl
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
-
