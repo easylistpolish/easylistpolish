@@ -785,6 +785,8 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||kurier-lokalny.com^*^Matuz-
+-baner-$domain=kurier-lokalny.com
 ||kurier-bb.pl^*^alpin_
 ||kurier-bb.pl^*^waterpoint.
 ||kurier-bb.pl^*^szpilka.
