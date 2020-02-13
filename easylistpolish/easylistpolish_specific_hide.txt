@@ -1040,6 +1040,11 @@ dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
+naszraciborz.pl##.news_box_google
+naszraciborz.pl##.news_box_reklama
+naszraciborz.pl##.bazarek_slide
+naszraciborz.pl##a[href*="link_r"]
+naszraciborz.pl##.adsense_title
 korso.pl##.advert-A1
 korso.pl##.advert-A2
 korso.pl##.iad
