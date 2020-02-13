@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+infotydzien.info##.span3
+infotydzien.info##.span9
 mragowo.pl##.banner-item
 infokatowice.pl##.td_single_image_bg
 juliarozumek.pl###text-4
