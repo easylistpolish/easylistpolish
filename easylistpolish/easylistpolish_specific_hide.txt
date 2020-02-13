@@ -1040,6 +1040,9 @@ dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
+korso.pl##.advert-A1
+korso.pl##.advert-A2
+korso.pl##.iad
 iturek.net##.djslider
 iturek.net###tm-top
 inthecage.pl##a[href*="page?key"]
