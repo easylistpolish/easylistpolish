@@ -1,7 +1,6 @@
 @@/reklama.$domain=grojec24.net
 @@/reklama2.$domain=tarnow.pl
 @@/SidebarAds.$domain=eurogamer.pl
-@@://adv.$popup,domain=autokult.pl|gadzetomania.pl|parenting.pl
 @@^albumtp.$domain=tygodnikpodhalanski.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
 @@^banery/bg.$domain=karpacz.net
@@ -132,4 +131,8 @@
 @@||poczta.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||profil.wp.pl^$script,domain=poczta.wp.pl|profil.wp.pl
 @@||liveads.pl^$domain=liveads.pl
-@@/adw.$domain=adw.org.pl
+@@^reklamy^$domain=selgros24.pl
+@@||egarwolin.pl^*^inline__1_576.
+@@||gostynin24.pl^*^banners/LOGO
+@@||gostynin24.pl^*^banners/owsik^
+@@^baner.$domain=cech-lipno.pl
