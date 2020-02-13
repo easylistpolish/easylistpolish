@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+ijarocin.pl##.partners2
+ikrotoszyn.pl##.partners2
 ipleszew.pl##.partners2
 igostyn.pl##.partners2
 ikalisz.pl##.partners2
