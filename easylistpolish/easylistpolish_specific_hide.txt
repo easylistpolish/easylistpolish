@@ -1040,6 +1040,7 @@ dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
+krosno112.pl###avatar-body-top-block
 korsokolbuszowskie.pl##.iad
 korsokolbuszowskie.pl##.advert-A2
 korsokolbuszowskie.pl##.advert-A1
