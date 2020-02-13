@@ -1043,6 +1043,14 @@ dziennikpolski24.pl##.krh-m-g
 korsokolbuszowskie.pl##.iad
 korsokolbuszowskie.pl##.advert-A2
 korsokolbuszowskie.pl##.advert-A1
+lifemanagerka.pl##.text-9
+lifemanagerka.pl##.text-5
+swidnica24.pl##.top-sliding-ad
+naszraciborz.pl##.news_box_google
+naszraciborz.pl##.news_box_reklama
+naszraciborz.pl##.bazarek_slide
+naszraciborz.pl##a[href*="link_r"]
+naszraciborz.pl##.adsense_title
 korso.pl##.advert-A1
 korso.pl##.advert-A2
 korso.pl##.iad
