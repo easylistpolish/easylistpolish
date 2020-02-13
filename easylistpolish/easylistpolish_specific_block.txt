@@ -785,6 +785,10 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+||kurier-bb.pl^*^alpin_
+||kurier-bb.pl^*^waterpoint.
+||kurier-bb.pl^*^szpilka.
+||kurier-bb.pl^*^ceramed.
 ||kurier-w.pl/Dokumenty/2016^$image
 ^adsrotator^$domain=korex.net.pl
 ||jelonka.com^*^9862.
