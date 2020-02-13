@@ -1181,6 +1181,7 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+budosfera.eu##.banner-promotions-wrapper
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
 budownictwo.co,budowlanematerialy.eu,forumfirm.eu,narzedziapolska.pl,meblarstwo.eu##.navbar-ad-section
 meblosfera.pl,meblarskapolska.pl,tapicerstwo.co##img[title="Reklama"]
