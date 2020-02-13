@@ -1039,6 +1039,9 @@ portaltatrzanski.pl##.promoadv
 dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
+dziennikpolski24.pl##.krh-m-g
+iturek.net##.djslider
+iturek.net###tm-top
 inthecage.pl##a[href*="page?key"]
 inthecage.pl##.wpb_gallery_slides
 infotydzien.info##.span3
