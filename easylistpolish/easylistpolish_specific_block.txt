@@ -786,6 +786,7 @@ _reklama^$domain=tarnowiak.pl
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
 ^banery^$domain=ikrotoszyn.pl
+^banery^$domain=ikalisz.pl
 ^py-img^$domain=igrit.pl
 ||greencanoe.pl^*^substral.
 ^gfx^$domain=hrubieszow.info
