@@ -1040,6 +1040,8 @@ dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
+kurier-nakielski.pl##.widget_media_image
+kurier-nakielski.pl##.td-header-sp-recs
 krknews.pl##.gdxxhnu
 krosno112.pl###avatar-body-top-block
 korsokolbuszowskie.pl##.iad
