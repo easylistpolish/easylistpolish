@@ -785,6 +785,8 @@ _reklama^$domain=tarnowiak.pl
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||betonline.net.pl^*^bukmacher_betclic2.
+^baner-$domain=infokatowice.pl
+^baner_$domain=infokatowice.pl
 ^banery^$domain=iostrowwlkp.pl
 ^banery^$domain=ijarocin.pl
 ^banery^$domain=ikrotoszyn.pl
