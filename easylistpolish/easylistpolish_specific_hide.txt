@@ -1040,6 +1040,11 @@ dziennikpolski24.pl##.krh-m-gjelonka.com##.top5
 jelonka.com##a[href*="zlicz"]
 jelonka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
+kuriergarwolinski.pl##.kd_ns_logo
+kuriergarwolinski.pl##.spot-in-article
+kuriergarwolinski.pl##.kd_ns_ads
+kuriergarwolinski.pl###iFrameResizer1
+kuriergarwolinski.pl##a[href*="klikniecia"]
 kurier-lokalny.com###text-5
 kurier-lokalny.com###text-9
 kurier-lokalny.com###text-8
