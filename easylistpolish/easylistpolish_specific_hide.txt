@@ -1037,6 +1037,8 @@ wlkp24.info##div[class^="g-dyn a-"]
 portaltatrzanski.pl##.promoadv
 4lomza.pl###banner-slider
 dziennikpolski24.pl##.krh-m-g
+kazimierzdolny24.pl###text-7
+kazimierzdolny24.pl###custom_html-2
 iostrowwlkp.pl##.partners2
 ijarocin.pl##.partners2
 ikrotoszyn.pl##.partners2
