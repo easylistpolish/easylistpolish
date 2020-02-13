@@ -1182,6 +1182,7 @@ gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
 budownictwo.co,budowlanematerialy.eu,forumfirm.eu,narzedziapolska.pl,meblarstwo.eu##.navbar-ad-section
+meblosfera.pl,meblarskapolska.pl,tapicerstwo.co##img[title="Reklama"]
 budownictwo.co,budosfera.eu,budowlanematerialy.eu,forumfirm.eu,narzedziapolska.pl,obrabiarkidodrewna.eu,meblarstwo.eu,maszynydlameblarstwa.pl,tapicerstwo.co,kuchniosfera.pl##.widget_media_image > h2 + a[rel]
 podoslonami.pl##a[data-label="Reklama"]
 tychy.info,pszczyna.tv,pless.pl##.linki-sponsorowane-col
