@@ -1212,3 +1212,4 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+zd24.pl,przyjaznawarszawa.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
