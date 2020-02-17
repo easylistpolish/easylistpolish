@@ -1212,3 +1212,4 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+cda.pl##a[onclick="pixelView(true);"]
