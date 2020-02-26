@@ -828,6 +828,7 @@ _baner_$domain=forum-norwegia.pl
 ||e-petrol.pl^*^*tuTankuj*.
 ^banners^$domain=ebelchatow.pl
 ||wykop.pl^*^adblock_$image
+^banery^$domain=igorzow.pl
 ^banner^$domain=eurobuildcee.com
 ^ban^$domain=studentnews.pl|studentnews.eu|dlamaturzysty.info|edubaza.pl|studialicencjackie.info|studiainzynierskie.info|studiamagisterskie.info|studiapodyplomowe.info|studiadoktoranckie.info|studiamba.info|studiaonline.info|studies-in-europe.eu|kwalifikacjezawodowe.info|postgraduatestudy.eu|studentka.pl|undergraduatestudy.eu|gramatyka-angielska.info|studiawEuropie.info|studies-in-english.pl|studies-in-poland.pl|szkolyjezykowe.info|ang24.pl|dlagimnazjalisty.info|dlaprzedszkolaka.info|dlaucznia.info|doctoralstudy.eu|kampusy.info|kierunki-studiow.info|kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|mba-studies.eu|organizacjestudenckie.pl|pracaikariera.pl|studenckamarka.pl|rektorzy.pl|studenckamoda.pl|studentmapa.pl|studianiestacjonarne.info|wameryce.info|weuropie.info
 ^boxy_po_prawej^$domain=studentnews.pl|studentnews.eu|dlamaturzysty.info|edubaza.pl|studialicencjackie.info|studiainzynierskie.info|studiamagisterskie.info|studiapodyplomowe.info|studiadoktoranckie.info|studiamba.info|studiaonline.info|studies-in-europe.eu|kwalifikacjezawodowe.info|postgraduatestudy.eu|studentka.pl|undergraduatestudy.eu|gramatyka-angielska.info|studiawEuropie.info|studies-in-english.pl|studies-in-poland.pl|szkolyjezykowe.info|ang24.pl|dlagimnazjalisty.info|dlaprzedszkolaka.info|dlaucznia.info|doctoralstudy.eu|kampusy.info|kierunki-studiow.info|kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|mba-studies.eu|organizacjestudenckie.pl|pracaikariera.pl|studenckamarka.pl|rektorzy.pl|studenckamoda.pl|studentmapa.pl|studianiestacjonarne.info|wameryce.info|weuropie.info
@@ -868,5 +869,7 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 .com^$script,third-party,domain=kinoman-tv.pl
 ||sportsiedlce.pl^*^08/apartament.
 ^reklama-$domain=sportsiedlce.pl
-||sportsiedlce.pl^*^tasta.
-||sportsiedlce.pl^*^BUDOMATEX.
+||sportsiedlce.pl^*^01/tasta.
+||sportsiedlce.pl^*^03/BUDOMATEX.
+^baner_$domain=zpazurem.pl
+||zd24.pl^*^speedaldies.
