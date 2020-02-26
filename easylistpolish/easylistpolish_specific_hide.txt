@@ -1212,5 +1212,12 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+nowawrzesnia.pl##.widget_media_image
+nowawrzesnia.pl###sgpb-popup-dialog-main-div-wrapper
+nowawrzesnia.pl##.sgpb-popup-overlay
+nowawrzesnia.pl##.metaslider-nivo
+nowawrzesnia.pl##.wpb_images_carousel
+nowawrzesnia.pl##a.vc_box_border_grey
+nowawrzesnia.pl##.rs-advertisement
 cda.pl##a[onclick="pixelView(true);"]
 zd24.pl,przyjaznawarszawa.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
