@@ -866,4 +866,5 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 ^baner-$domain=tarnobrzeskie.eu
 -bener-$domain=tapicerstwo.co|tkaninyobiciowe.eu|meblosfera.pl
 .com^$script,third-party,domain=kinoman-tv.pl
-||zpazurem.pl^*^baner_z_pazurem_dolina_noteci.
+^baner_$domain=zpazurem.pl
+||zd24.pl^*^speedaldies.
