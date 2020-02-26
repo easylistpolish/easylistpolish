@@ -1181,6 +1181,7 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+lubin.pl##div[class^="g-single a-"]
 meblosfera.pl##.recommendation-panel-content
 meblosfera.pl##a:not([href*="osfera."]) > img[alt^="Advertise"]
 obrabiarkidodrewna.eu###media_image-32
