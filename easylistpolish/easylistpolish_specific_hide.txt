@@ -1212,6 +1212,8 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+sportsiedlce.pl###leaderboard a > img[height="90"]
+sportsiedlce.pl##.sidebar-widget > a > img[alt][width][height]
 nowawrzesnia.pl##.widget_media_image
 nowawrzesnia.pl###sgpb-popup-dialog-main-div-wrapper
 nowawrzesnia.pl##.sgpb-popup-overlay

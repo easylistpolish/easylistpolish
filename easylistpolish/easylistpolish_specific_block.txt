@@ -867,5 +867,9 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 ^baner-$domain=tarnobrzeskie.eu
 -bener-$domain=tapicerstwo.co|tkaninyobiciowe.eu|meblosfera.pl
 .com^$script,third-party,domain=kinoman-tv.pl
+||sportsiedlce.pl^*^08/apartament.
+^reklama-$domain=sportsiedlce.pl
+||sportsiedlce.pl^*^01/tasta.
+||sportsiedlce.pl^*^03/BUDOMATEX.
 ^baner_$domain=zpazurem.pl
 ||zd24.pl^*^speedaldies.
