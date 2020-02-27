@@ -865,6 +865,8 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+||miastokolobrzeg.pl^*^oknoplast.
+||miastokolobrzeg.pl^*^jacex2019.
 ||ebroker.pl^$image,domain=autofanatyk.pl
 ||truckeronroad.com^*^marketing-studio-
 ||truckeronroad.com^*^08/simglob-
