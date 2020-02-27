@@ -1181,6 +1181,7 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+gostynin.info##.mb-xl > .uk-display-inline-block
 miastokolobrzeg.pl##div[id*="-baner-"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
 miastokolobrzeg.pl##section[id$="-sponsorowane"]
