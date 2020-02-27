@@ -865,6 +865,9 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+||truckeronroad.com^*^marketing-studio-
+||truckeronroad.com^*^08/simglob-
+||truckeronroad.com^*^autoport-
 ^baner-$domain=magazynvip.pl
 ||busiarze.com.pl^*^Webp.net-
 ||busiarze.com.pl^*^lacus-
