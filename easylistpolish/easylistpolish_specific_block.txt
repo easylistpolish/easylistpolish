@@ -865,6 +865,7 @@ _reklamy^$domain=studentnews.pl|dlamaturzysty.info|edubaza.pl|studialicencjackie
 ||fireads.online^$third-party
 ||tarnobrzeskie.eu^*^balony-z-helem-
 ^baner-$domain=tarnobrzeskie.eu
+||kaszuby24.pl^*-naczykjanicki-1.
 -banner-$domain=linia.com.pl
 ||miastokolobrzeg.pl^*^oknoplast.
 ||miastokolobrzeg.pl^*^jacex2019.
