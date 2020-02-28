@@ -1181,6 +1181,25 @@ infoprzasnysz.com##.zodnbrutw-image
 gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
+calisia.pl##div[style*="max-width: 380px; max-height: 380px;"]
+calisia.pl##div[style*="max-width: 500px; max-height: 200px;"]
+calisia.pl##div[style*="max-width: 1200px; max-height: 300px;"]
+calisia.pl###fixed_abox_1
+sporteuro.pl##.ai-rotate
+sporteuro.pl##.td-a-rec
+gostynin.info##.mb-xl > .uk-display-inline-block
+miastokolobrzeg.pl##div[id*="-baner-"]
+miastokolobrzeg.pl##section[id*="-reklama-"]
+miastokolobrzeg.pl##section[id$="-sponsorowane"]
+truckeronroad.com##a[aria-label*="banner"]
+radioradom.pl##.a-single
+radioradom.pl##div[class^="g-dyn a-"]
+chip.pl###banner-top
+40ton.net##.under-text-ads
+40ton.net##.above-text-ads
+lubin.pl##div[class^="g-single a-"]
+meblosfera.pl##.recommendation-panel-content
+meblosfera.pl##a:not([href*="osfera."]) > img[alt^="Advertise"]
 obrabiarkidodrewna.eu###media_image-32
 budosfera.eu##.banner-promotions-wrapper
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
@@ -1212,3 +1231,14 @@ progressforpoland.org##.td_block_single_image
 prudnik24.pl##.widget-3
 tychy.info##.reklama-display-desktop
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+sportsiedlce.pl###leaderboard a > img[height="90"]
+sportsiedlce.pl##.sidebar-widget > a > img[alt][width][height]
+nowawrzesnia.pl##.widget_media_image
+nowawrzesnia.pl###sgpb-popup-dialog-main-div-wrapper
+nowawrzesnia.pl##.sgpb-popup-overlay
+nowawrzesnia.pl##.metaslider-nivo
+nowawrzesnia.pl##.wpb_images_carousel
+nowawrzesnia.pl##a.vc_box_border_grey
+nowawrzesnia.pl##.rs-advertisement
+cda.pl##a[onclick="pixelView(true);"]
+zd24.pl,przyjaznawarszawa.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
