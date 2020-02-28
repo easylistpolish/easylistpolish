@@ -1242,3 +1242,4 @@ nowawrzesnia.pl##a.vc_box_border_grey
 nowawrzesnia.pl##.rs-advertisement
 cda.pl##a[onclick="pixelView(true);"]
 zd24.pl,przyjaznawarszawa.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
+kierunekenergetyka.pl,kieruneksurowce.pl,kierunekspozywczy.pl,kierunekchemia.pl,kierunekpompy.pl,kierunekfarmacja.pl,kierunekwodkan.pl,kierunekkosmetyki.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
