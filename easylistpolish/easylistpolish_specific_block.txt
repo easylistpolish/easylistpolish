@@ -888,3 +888,4 @@ _baner_$domain=meblosfera.pl
 ||sportsiedlce.pl^*^03/BUDOMATEX.
 ^baner_$domain=zpazurem.pl
 ||zd24.pl^*^speedaldies.
+_baner_$domain=poscigi.pl
