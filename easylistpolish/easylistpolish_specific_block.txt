@@ -34,7 +34,6 @@
 ^banerek.$domain=futbolfejs.pl
 ^banerki^$domain=olkuski.pl
 ^baners^$domain=nowaruda.info|podlasie24.pl|portalpszczelarski.pl|q4.pl|zyciekalisza.pl
-^banery-reklamowe^
 ^banery^$domain=24tp.pl|archeton.pl|belchatow.bai.pl|bielsko.biala.pl|brodnica.net|bukowinatatrzanska.pl|dachy.info.pl|doba.pl|fachowydekarz.pl|glowny-mechanik.pl|goryonline.com|haczyk.pl|haloursynow.pl|hotelinfo24.pl|ikamien.pl|infotydzien.info|iswinoujscie.pl|jagiellonia.net|karpacz.net|kibice.net|kuriergarwolinski.pl|kutno.net.pl|lokalna24.pl|mebleinfo.pl|moja-ostroleka.pl|nadmorze.pl|nasztomaszow.pl|nowaruda.info|nowoczesnywarsztat.pl|opakowania.biz|ostrowmaz24.pl|pionki24.pl|polskicaravaning.pl|pomyslnadom.pl|portalwrc.pl|pulskosmosu.pl|pultuszczak.pl|radomsport.pl|sluzby-ur.pl|strzelecopolski.pl|swiatogloszen.net.pl|twojeradio.fm|tworzymyhistorie.pl|tygodnikpodhalanski.pl|tygodnikprudnicki.pl|tygodniksiedlecki.com|typersi.pl|wcf.org.pl|wiadomoscihandlowe.pl|wloclawek.info.pl|wpr24.pl|zwolen24.pl
 ^banery_$domain=instalacjebudowlane.pl|kuchenny.com.pl|ogrodinfo.pl|portalplock.pl|sokolka.tv|tygodnik.pl|zyciesiedleckie.pl
 ^banner-$domain=24firma.pl|4pm.pl|businesswomanlife.pl|chinskiraport.pl|cksport.pl|czasnadmorze.pl|dzisiajwgliwicach.pl|gorydlaciebie.pl|juliarozumek.pl|ktoto.info|nadarzyn.tv|nowaruda.info|pielegniarki.info.pl|polacywewloszech.com|przewodnicywedkarscy.pl|psychatog.pl|swiatoze.pl|transportchorego.pl
