@@ -2,3 +2,4 @@
 =adv/GetAdvertisment|
 ^reklamy^
 ^sidebar_reklama^
+^banery-reklamowe^
