@@ -7,14 +7,11 @@ stereoikolorowo.blogspot.com###Image12
 stereoikolorowo.blogspot.com###Image5
 stereoikolorowo.blogspot.com###Image7
 gohel.pl###PAN_BANNER
-iszczecinek.pl###Popup
-regionalna.pl###reklama + a
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 satkurier.pl###SATKurierNews_top_750x100_r
 smak-zdrowia.blogspot.com###Text9
 trybun.org.pl###_dropslide1
-abczdrowie.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl###aSlot3
 ekorodzice.pl###a_d_billboard
 onetech.pl###ad
 dieroten.pl###ad-sts-top
