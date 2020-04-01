@@ -717,8 +717,6 @@ pzhkiperybnik.vgh.pl##marquee
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 infobus.pl##object[idrekl]
-onet.pl#?#A:-abp-has(span:-abp-contains(Sponsorowane))
-poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 legnica.fm##span + ul > .banneritem
@@ -733,14 +731,10 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
-wp.pl#?#aside:-abp-contains(Reklama) + DIV
-wp.pl#?#aside:-abp-contains(Reklama) + IFRAME
-wp.pl#?#div[class^="styled__GlonewsHeaderHalf"]:-abp-contains(REKLAMA)  
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 archispace.pl###banner
 belekaj.eu###custom_html-3
 bydgoszcz.com##.advert-A2
-ceneo.pl##DIV[style^="background: url(//image.ceneostatic.pl/data/small_widget/2436/"]
 cozadzien.pl###footer-slider
 foteleobrotowe.com.pl###text-2
 mybank.pl##.sponsored
@@ -754,43 +748,30 @@ gazetkonosz.pl##.signad
 autoline.com.pl###atlads_place_top
 ligapolska.pl##.reklamaNapis
 sekrety-zdrowia.org##.rekwraph
-wp.pl##.csuojG
-wp.pl##div[class^="scContainer-"]
 msmobile.pl###custom_html-5
-wybory.pless.pl##.wybory-reklama-skyscraper-contener-1
 elka.pl###reklamaGooglePrawa336Last
 inwestinfo.pl##div[style="height:25px;text-align: center;"]
 ubucentrum.net##style + .post-share
 nowy-sacz.info##.a-single
 wp.pl##.gwcOrs
-money.pl##.jho3m0s63d
-money.pl##.cTDBBq
 money.pl##.iQjREM
 fylmy.pl###light
 portalzamojski.pl##.reklamy
 tkn24.pl##font[color="SILVER"]+br+a
-tkn24.pl##font[color="SILVER"]+br+iframe
 tkn24.pl###header + center
 centrummedyczne-przyjazna.pl###column
-jarocinska.pl##banera1
-filmweb.pl##.ws_wrapper
 filmweb.pl##div[style="height: 1080px;"]
 filmweb.pl##div[rel="billboard"]
 dopilar.pl###text-3
 polskicaravaning.pl##.baner
 boruh.com.pl###inst53
 automobilista.com.pl##.adblock
-automobilista.com.pl##.adblock + a
 bajery.pl##iframe[name="rek"]
 staleo.pl##.silver.section-title
 staleo.pl##.silver.section-title + aside
 legia.net##.banner
-gadzetomania.pl#?#article:-abp-contains(ARTYKUŁ SPONSOROWANY)
-szczekaopada.pl##.adv750x200
 poczta.wp.pl##dd-holder
 poczta.wp.pl##sidebar-feed
-wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(iframe)
-www.wp.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 poczta.o2.pl##dd-holder
 poczta.o2.pl##sidebar-feed
@@ -803,10 +784,6 @@ swift-iban.pl###custom_html-2
 bestofwhisky.pl##.contetn-left-ad-top
 boomerang-tv.pl##.mpu
 pultuszczak.pl##.advertisement
-popularcoffee.pl##.stf-adsense
-jawor24h.pl##.container-advert-top
-ostrowiecnews.pl##p[style='margin-left:120px;"']
-ostrowiecnews.pl##p[style='margin-left:120px;"'] + center
 przegladpiaseczynski.pl##.przeglad-reklama-box
 zmpd.pl##.banner_po_lewej
 travelmaniacy.pl##div[style="width: 305px; height: 270px; margin: 5px 0 5px 0;"]
@@ -820,25 +797,15 @@ mylomza.pl##.l-ad-top
 filmweb.pl##.ws__wrapper
 filmweb.pl###mainSkyBanner-pl_PL
 filmweb.pl##.boxAddon
-filmweb.pl###menuLink-pl_PL + centeredContainer
-filmweb.pl##.ad__billboard-below-header
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
-elektroda.pl##.gahvai7A
 filmweb.pl##div[id^="video5_ima"]
-mobilneforum.pl##.banner-slider
-abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,open.fm,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,www.wp.pl#?#div:-abp-has(> div:-abp-properties(margin-bottom: 2px))
 abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,luxlux.pl,medycyna24.pl,nerwica.com,open.fm,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
-abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl#?#div:not([class]):not([id]):-abp-has(REKLAMA)
-poczta.wp.pl,profil.wp.pl#@#div:-abp-properties(min-height:):not([class^="sc-"]):not(.grid__img__container)
 se.pl##div[id^="placement"]
 se.pl##div[class^="zpr_inside"]
 party.pl##.ecomm-zalando
-cooltura24.co.uk##a[href^="https://www.xoom.com?"]
 zdrowybialystok.pl##.banneritem
 nieruchomoscipodlaskie.pl##.banner
-kramik.pl##a[href^="/glowna/reklama/"] > img[alt^="http"]
 forum.bitcoin.pl##.ads
-kryptoportal.pl,kryptonotowania.pl##.losowanko
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis + * 
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis
