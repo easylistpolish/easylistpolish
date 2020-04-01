@@ -644,7 +644,6 @@ abczdrowie.pl,autokult.pl,demoty.pl,echirurgia.pl,fotoblogia.pl,jejswiat.pl,kafe
 maratonypolskie.pl##a[target="pw"]
 maratonypolskie.pl##a[target="sz"]
 money.pl,pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
-sadistic.pl##article[style="text-align: center; padding: 30px; min-height: 300px"]
 realizator.pl##div.m-advert
 nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
@@ -652,8 +651,6 @@ demotywatory.pl##div[class*="adv_"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
 mazowsze.travel##div[class="bannergroup border2"]
 stockwatch.pl##div[class^="ADbox"]
-wp.pl##div[class^="AdvSlotWithPlaceholder"]
-wp.pl##div[class^="ScreeningAdv_"]
 wp.pl##div[class^="__bc_layer_"]
 anglia.today##div[class^="ad top-image"]
 ulub.pl##div[class^="ads_"]
@@ -669,14 +666,12 @@ gazetalubliniecka.pl##div[class^="gazet-slidebar"]
 b1.pl##div[class^="header_"]
 czecho.pl,pless.pl##div[class^="linki-sponsorowane"]
 cire.pl##div[class^="podstr_ramka_sponsorzy"]
-wp.pl##div[class^="styled__GlonewsAdvSlot"]
 transfermarkt.pl##div[class^="werbung"]
 wysportowani-portal-kolarski.pl##div[class^="wyspo-ad-"]
 bielsko.info##div[data-ads-id]
 interia.pl##div[id^="ad_box"]
 dzienniknarodowy.pl##div[id^="adswidget"]
 samosia.pl,wawalove.pl##div[id^="adv"]
-zywiec112.com.pl##div[id^="baner-"]
 satkurier.pl##div[id^="banner"]
 eurobuildcee.com##div[id^="banner_area_"]
 wykop.pl##div[id^="banner_top_"]
@@ -693,8 +688,6 @@ agropolska.pl##div[id^="mediaContent"]
 satkurier.pl##div[id^="pasek_hollex"]
 miastokolobrzeg.pl##div[id^="sp-reklama-"]
 jagodnik.pl##div[id^="spu-"]
-q4.pl##div[onclick="window.open('http://www.midasnieruchomosci.pl/','_blank');"]
-v.wpimg.pl##div[onclick="window.open(clickTag, '_blank')"] > #canvas
 zarabiam.com##div[onclick^="MyAdvertisements."]
 imav.tv,portalbraniewo.pl,slowopodlasia.pl##div[onclick^="update_ad"]
 jelonka.com##div[style$="solid #000;padding:1px 5px 2px"]
@@ -706,10 +699,7 @@ mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-
 poloniusz.pl##div[style^="width:194px;"]
 extraswiecie.pl#?#span:-abp-contains(REKLAMA)
 kursyjezykowe.biz##font[size="5"]
-slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl##h1[style="color:#909090;"]
 poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
-pudelek.tv##iframe[seamless="seamless"]
-e-deblin.pl##img[alt="Reklama"]
 evertiq.pl##img[alt="reklama"]
 hfc.com.pl##img[alt="s-e-r-v-e-r-a-d-s"]
 supertydzien.pl##img[alt^="reklama "]
@@ -717,7 +707,6 @@ receptynadom.pl##img[id^="banner"]
 pwm.org.pl##img[onload^="countAdView"]
 e-kolo.pl##img[style^="max-width: 100%;"]
 wedkarskisprzet.pl##img[width="150"]
-linia.com.pl##img[width="250"]
 40ton.net##img[width="275"]
 radio90.pl,widoki.info##img[width="300"]
 nowemiasto.com.pl##img[width="300"][height="125"]
@@ -726,13 +715,7 @@ tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 pzhkiperybnik.vgh.pl##marquee
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
-naszemiasto.pl#?#.elementListy:-abp-has(.artSpons)
-naszemiasto.pl#?#A:-abp-has(> DIV + h3 + .artSponsorowany)
-naszemiasto.pl#?#LI[data-sp="1"]:-abp-has(.artSponsorowany)
-nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.cs > A:-abp-has(.mark)
-nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#.kd_ns_box:-abp-has(.kd_ns_sponsored:-abp-contains(Sponsorowane))
 nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
-nowiny24.pl,dziennikpolski24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,gp24.pl,gk24.pl,gazetalubuska.pl,polskatimes.pl,nowosci.com.pl,echodnia.eu,dzienniklodzki.pl,gazetawroclawska.pl,kurierlubelski.pl,pomorska.pl,gs24.pl,dziennikbaltycki.pl,gloswielkopolski.pl,gazetakrakowska.pl,dziennikzachodni.pl#?#A[rel="nofollow"]:-abp-has(.oznaczenie)
 infobus.pl##object[idrekl]
 onet.pl#?#A:-abp-has(span:-abp-contains(Sponsorowane))
 poczta.wp.pl#?#dd-holder>div:-abp-contains(REKLAMA):-abp-has(iframe)
