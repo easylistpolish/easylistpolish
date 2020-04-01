@@ -810,13 +810,7 @@ goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##a[sty
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis + * 
 goal.pl,primeradivision.pl,kadra.pl,ligapolska.pl,seriea.pl,eredivisie.pl##.reklamaNapis
 forbot.pl##a[href^="https://forbot.pl/blog/linkr/"]
-chemiabudowlana.info###fadeinbox
-trakt.tv###hu-ck-ster-desk-top-wrapper
-centrumdruku3d.pl##a[href*="hp3d.pl/"] > img
 centrumdruku3d.pl##a[onclick*="'Banners'"]
-elektroda.pl#?#:-abp-has(> a:not([href*=".elektroda.pl/"]):not([href^="/"]) > picture)
-elektroda.pl##a[onclick*="eventSend('Navibox',"]
-elektroda.pl##.NkzuQ6Z2
 b24tv.pl##.metaslider
 lwowecki.info##.td-all-devices2
 glos.live##.banner
@@ -841,7 +835,6 @@ starysacz.info##div[id^="addon-rotator-"]
 swiatkoni.pl###advwide
 swiatkoni.pl###advmain
 swiatkoni.pl##.advset
-suwalki.info##a:not([href^="http://www.suwalki.info/"]) > img[src*="/banery/"]
 swiatkarinki.pl##.baner
 szczecinek.com##.l-box--100 > div[align="center"]
 tarnobrzeskie.eu###text-22
@@ -859,9 +852,7 @@ tradersarea.pl##div[class^="g-single a-"]
 tradersarea.pl##.td-a-rec
 trawka.org##div[data-role="sidebarAd"]
 trzemeszno24.info##.td_single_image_bg
-turek.net.pl##.BanerO
 tygodnikponidzia.pl##.a-widget
-wadowice24.pl##a[href^="https://reklamawadowice24.pl/"]
 wladek.pl##img[alt$="eklama"]
 wronieckibazar.pl###custom_html-2
 wlkp24.info##div[class^="g-single a-"]
@@ -905,7 +896,6 @@ inthecage.pl##.wpb_gallery_slides
 infotydzien.info##.span3
 infotydzien.info##.span9
 mragowo.pl##.banner-item
-infokatowice.pl##.td_single_image_bg
 juliarozumek.pl###text-4
 kazimierzdolny24.pl###text-7
 kazimierzdolny24.pl###custom_html-2
@@ -978,7 +968,6 @@ eostroleka.pl###baner_A_desktop
 eostroleka.pl##.reklamaNapis
 eluban.pl##.toplayer
 eluban.pl##.advert-A1
-eluban.pl##.boards
 eluban.pl##.advert-B1
 elubaczow.com##a[href*="rdir.php?"]
 eku24.net##.gkCols6
@@ -1010,7 +999,6 @@ infoserwiselk.pl##.btop
 infoserwiselk.pl##.b180
 infoserwiselk.pl##.b300
 infoprzasnysz.com##.zodnbrutw-image
-gorzow24.pl##a[href="https://www.gowork.pl/"]
 gorzow24.pl##.gml
 e-kg.pl##.custompartners
 calisia.pl##div[style*="max-width: 380px; max-height: 380px;"]
