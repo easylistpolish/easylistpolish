@@ -1,5 +1,5 @@
 /adserwer.
 =adv/GetAdvertisment|
+^banery-reklamowe^
 ^reklamy^
 ^sidebar_reklama^
-^banery-reklamowe^
