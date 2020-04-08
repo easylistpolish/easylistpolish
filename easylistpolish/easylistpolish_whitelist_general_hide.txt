@@ -1,4 +1,3 @@
 mbank.pl#@#.adv-container
-mandarinodesign.eu#@#.reklama
-wirtualnyregion.pl#@#.reklama
 app.freshmail.com#@#.advertisement-content
+mandarinodesign.eu,wirtualnyregion.pl#@#.reklama
