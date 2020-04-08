@@ -631,3 +631,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||leszczynscy.nazwa.pl^$image,domain=zlotowskie.pl
