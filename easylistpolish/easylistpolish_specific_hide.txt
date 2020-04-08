@@ -530,8 +530,8 @@ lubiehrubie.pl##.jcarousel-container
 hokej.net##.jcarousel-wrapper.second
 londynek.net##.jd-oaz-d
 londynek.net##.jd-sponsored-link
-damitv.pl,igryfino.pl,korsosanockie.pl,koscierzyna24.info,kronikatygodnia.pl,kuriergarwolinski.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
-abczdrowie.pl,bezux.pl,ckm.pl,crowdmedia.pl,demotywatory.pl,dziennikbaltycki.pl,dziennikelblaski.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetaolsztynska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,goal.pl,gosc.pl,gp24.pl,gs24.pl,harpersbazaar.pl,innpoland.pl,kociewiak.pl,korso.pl,kuriergarwolinski.pl,kurierlubelski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,telemagazyn.pl,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
+damitv.pl,igryfino.pl,korsosanockie.pl,koscierzyna24.info,kronikatygodnia.pl,kuriergarwolinski.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
+abczdrowie.pl,bezux.pl,ckm.pl,crowdmedia.pl,demotywatory.pl,dziennikbaltycki.pl,dziennikelblaski.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetaolsztynska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,goal.pl,gosc.pl,gp24.pl,gs24.pl,harpersbazaar.pl,innpoland.pl,kociewiak.pl,korso.pl,kuriergarwolinski.pl,kurierlubelski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 kuriergarwolinski.pl##.kd_ns_logo
 jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
