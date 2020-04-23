@@ -632,3 +632,13 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||ibb.co^$subdocument,domain=lexus-forum.pl
+^inline__$domain=sejny.net
+^banners^$domain=beskidlive.pl
+^baner-$domain=rynekinwestycji.pl
+||magazynfakty.pl^*^ventana_r.
+^baner.$domain=magazynfakty.pl
+||androidpolska.pl/skapiec-opony.
+^canvas^$image,domain=naszrybnik.com|naszwodzislaw.com
+^show-baners.php?$script,domain=24gliwice.pl
+^2020bannery^$domain=wysokomazowiecki24.pl
+||dz-ow.pl^*^narty.
