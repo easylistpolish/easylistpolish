@@ -972,6 +972,8 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+ostrodanews.pl###media_image-85
+ostrodanews.pl###media_image-52
 bezdroza.pl##.hestia-banner
 businessjournal.pl##.vmagazine_medium_ad
 biznestuba.pl##.td-a-rec

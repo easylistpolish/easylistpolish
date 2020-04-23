@@ -631,6 +631,8 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^baner.$domain=ostrodanews.pl
+^reklama-$domain=ostrodanews.pl
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ^inline__$domain=sejny.net
 ^banners^$domain=beskidlive.pl
