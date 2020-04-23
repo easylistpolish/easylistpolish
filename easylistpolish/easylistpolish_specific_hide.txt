@@ -1000,3 +1000,6 @@ pozatorun.pl,tylkotorun.pl##div[class^="g-single a-"]
 pozatorun.pl,tylkotorun.pl###fsp_light
 pozatorun.pl##.np-ads-wrapper
 slupca.pl##.a-220
+elektroda.pl##[onclick*="this.target='_blank';"]
+elektroda.pl##[onclick*="naviboxEvent"]
+elektroda.pl##[onclick*="'Click'"]
