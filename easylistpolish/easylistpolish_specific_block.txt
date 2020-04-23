@@ -631,6 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^inline__$domain=sejny.net
 ^banners^$domain=beskidlive.pl
 ^baner-$domain=rynekinwestycji.pl
 ||magazynfakty.pl^*^ventana_r.
