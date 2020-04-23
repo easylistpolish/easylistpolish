@@ -973,6 +973,7 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 businessjournal.pl##.vmagazine_medium_ad
+biznestuba.pl##.td-a-rec
 24starogard.pl##.banner
 w203.pl##.af_sidebar
 trzemeszno24.info##.td-a-rec
