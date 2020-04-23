@@ -972,6 +972,7 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+dietetycy.org.pl##.buybox-widget
 mp.pl##.advContainer
 ostrodaflesz.pl##.islemag_single_ad
 ostrodanews.pl###media_image-85
