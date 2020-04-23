@@ -632,3 +632,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^show-baners.php?$script,domain=24gliwice.pl
+^2020bannery^$domain=wysokomazowiecki24.pl
+||dz-ow.pl^*^narty.
