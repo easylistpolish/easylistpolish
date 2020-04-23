@@ -631,3 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^canvas^$image,domain=naszrybnik.com|naszwodzislaw.com
+^show-baners.php?$script,domain=24gliwice.pl
+^2020bannery^$domain=wysokomazowiecki24.pl
+||dz-ow.pl^*^narty.
