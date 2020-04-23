@@ -632,3 +632,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^canvas^$image,domain=naszrybnik.com|naszwodzislaw.com
+^2020bannery^$domain=wysokomazowiecki24.pl
+||dz-ow.pl^*^narty.
