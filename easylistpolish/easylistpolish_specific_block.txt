@@ -631,6 +631,8 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^banery_reklamowe^$domain=rtw.org.pl
+^banners^$domain=rtw.org.pl
 -baner_$domain=nolesnica.pl
 -baner.$domain=brzeg24.pl
 ||tvbraniewo24.pl^*^daniluk.
