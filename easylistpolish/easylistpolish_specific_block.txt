@@ -631,6 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-baner.$domain=brzeg24.pl
 ||tvbraniewo24.pl^*^daniluk.
 ||tvbraniewo24.pl^*^cfc.
 ||tvbraniewo24.pl^*^intertom.
