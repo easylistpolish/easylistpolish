@@ -631,6 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^baner-$domain=rynekinwestycji.pl
 ||magazynfakty.pl^*^ventana_r.
 ^baner.$domain=magazynfakty.pl
 ||androidpolska.pl/skapiec-opony.
