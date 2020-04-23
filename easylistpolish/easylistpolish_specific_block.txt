@@ -631,4 +631,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
