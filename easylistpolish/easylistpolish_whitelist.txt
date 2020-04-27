@@ -52,3 +52,4 @@
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||zarzadca.pl^*^zarzadca.
+@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
