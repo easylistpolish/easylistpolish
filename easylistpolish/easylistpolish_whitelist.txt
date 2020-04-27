@@ -52,3 +52,4 @@
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||zarzadca.pl^*^zarzadca.
+@@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
