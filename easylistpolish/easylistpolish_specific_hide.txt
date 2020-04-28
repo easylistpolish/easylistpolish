@@ -1007,3 +1007,4 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+elektroda.pl##a[target="_blank"]:not([href*="elektroda.pl"]) > img[alt]
