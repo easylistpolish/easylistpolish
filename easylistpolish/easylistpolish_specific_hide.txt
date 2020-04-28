@@ -972,6 +972,7 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+kurierzurominski.pl##.kd_ns_placement
 nadwisla24.pl##.header__banner
 lowicz24.eu##img[style="width: 250px; height: 100px;"]
 zlotowskie.pl##.bannerSlider
