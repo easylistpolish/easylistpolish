@@ -631,6 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||ifotos.pl^$image,domain=radiobonton.pl
 ^bannery^$domain=supernowosci24.pl
 -banner.$domain=naszosie.pl
 -baner-$domain=dietetycy.org.pl
