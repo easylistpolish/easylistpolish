@@ -655,3 +655,9 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||starosadeckie.info^*^MILLWAUKEE-rolbud-
+^baner-$domain=starosadeckie.info
+||starosadeckie.info^*^myjnia.
+-300x300.$domain=starosadeckie.info
+-150x150.$domain=starosadeckie.info
+||starosadeckie.info^*^rolbud
