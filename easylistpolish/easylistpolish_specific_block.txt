@@ -631,6 +631,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||rowery.org^*^banerrowery2020.
 ^banery_$domain=iszczecinek.pl
 ^inline__1_$domain=24wroclaw.pl|24jgora.pl|egarwolin.pl|iochota.pl|eprzasnysz.pl|gpr24.pl|ototorun.pl|zyciekalisza.pl
 ^banery/8^$domain=sportowememy.pl
