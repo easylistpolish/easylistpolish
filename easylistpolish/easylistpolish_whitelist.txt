@@ -52,3 +52,5 @@
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||zarzadca.pl^*^zarzadca.
+@@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
+@@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
