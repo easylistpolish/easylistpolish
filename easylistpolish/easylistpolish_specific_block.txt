@@ -631,6 +631,15 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||tko.pl^*^banerrr.
+||rowery.org^*^banerrowery2020.
+^banery_$domain=iszczecinek.pl
+^inline__1_$domain=24wroclaw.pl|24jgora.pl|egarwolin.pl|iochota.pl|eprzasnysz.pl|gpr24.pl|ototorun.pl|zyciekalisza.pl
+^banery/8^$domain=sportowememy.pl
+||sportowememy.pl^*^1573500374.
+||reklama-lowicz.pl^$image,domain=lowicz24.eu
+||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
+||ifotos.pl^$image,domain=radiobonton.pl
 ^bannery^$domain=supernowosci24.pl
 -banner.$domain=naszosie.pl
 -baner-$domain=dietetycy.org.pl
