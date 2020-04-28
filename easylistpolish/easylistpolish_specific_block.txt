@@ -633,6 +633,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery/8^$domain=sportowememy.pl
 ||sportowememy.pl^*^1573500374.
+||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||ifotos.pl^$image,domain=radiobonton.pl
 ^bannery^$domain=supernowosci24.pl
 -banner.$domain=naszosie.pl
