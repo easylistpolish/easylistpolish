@@ -631,6 +631,8 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^banery/8^$domain=sportowememy.pl
+||sportowememy.pl^*^1573500374.
 ||reklama-lowicz.pl^$image,domain=lowicz24.eu
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||ifotos.pl^$image,domain=radiobonton.pl
