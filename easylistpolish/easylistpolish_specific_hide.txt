@@ -1012,3 +1012,6 @@ cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
 elektroda.pl##a[target="_blank"]:not([href*="elektroda.pl"]) > img[alt]
+zakazany-humor.pl###reklama_s
+zakazany-humor.pl##.reklama_nad_trescia
+zakazany-humor.pl###primary > div > iframe
