@@ -665,3 +665,5 @@ _reklamy_$domain=chojna24.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
 ^kaczynski_click^$subdocument,domain=wylecz.to
+^banners^$domain=bytomski.pl
+||bytomski.pl^*^06/taxi.
