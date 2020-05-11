@@ -1004,3 +1004,8 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+walbrzyszek.com##.kol1 a[href^="/zlicz/"]
+walbrzyszek.com##.kol4 a[href^="/zlicz/"]
+walbrzyszek.com##.kol3 a[href="http://www.czesciauto24.pl/"]
+walbrzyszek.com##.kol2 a[href="https://www.autoczescionline24.pl/"]
+walbrzyszek.com##.rpre_tlo
