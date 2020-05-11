@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+gloslodzi.pl##.advContainer a[href^="https://emisja.contentstream.pl/"]
+gloslodzi.pl##.entry_content
+gloslodzi.pl##.sidebar_area .widget-2 .textwidget
