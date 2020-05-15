@@ -1012,3 +1012,4 @@ cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
 elektroda.pl##a[target="_blank"]:not([href*="elektroda.pl"]) > img[alt]
+gf24.pl##a[href*="&utm_medium="] > img
