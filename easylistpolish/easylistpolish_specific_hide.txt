@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+420polska.pl##.td-banner-wrap-full .td-a-rec
+420polska.pl##.td-a-rec-id-content_top
+420polska.pl##.td-a-rec-id-content_bottom
