@@ -655,3 +655,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||tu.swinoujscie.pl^*-banner
+-reklama.$domain=tu.swinoujscie.pl
+-reklamy-$domain=tu.swinoujscie.pl
+||tu.swinoujscie.pl^*^trotter.
