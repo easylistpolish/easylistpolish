@@ -210,7 +210,6 @@ _reklamy_$domain=chojna24.pl
 ||eku24.net^*^dolne/$image
 ||ele24.net^*^boksy^
 ||elektroda.pl^*^biall4.
-||elubaczow.com^*^kormed.
 ||eostroleka.pl^*^cache-
 ||ergokantor.pl/widgets^$domain=telewizjapolska24.pl
 ||esanok.pl/dodatki^
