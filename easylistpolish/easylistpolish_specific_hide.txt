@@ -1004,3 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+echogorzowa.pl##.news_cont + [id^="ims_"] .ba a[href^="http"]
+echogorzowa.pl##div[onclick*="'BANERY'"]
