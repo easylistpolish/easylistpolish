@@ -655,4 +655,5 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
-^banery^$domain=emysliborz.pl
+^banery^$domain=ebarlinek.pl
+ebarlinek.pl^*^beznazwy-1.
