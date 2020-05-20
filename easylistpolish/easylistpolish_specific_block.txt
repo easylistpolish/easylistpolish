@@ -656,4 +656,4 @@ _reklamy_$domain=chojna24.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
 ^banery^$domain=ebarlinek.pl
-ebarlinek.pl^*^beznazwy-1.
+||ebarlinek.pl^*^beznazwy-1.
