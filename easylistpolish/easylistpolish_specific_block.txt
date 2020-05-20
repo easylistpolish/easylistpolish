@@ -655,3 +655,6 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+banerek_$domain=extraswiecie.pl
+banner-$domain=extraswiecie.pl
+||extraswiecie.pl^*^profbud
