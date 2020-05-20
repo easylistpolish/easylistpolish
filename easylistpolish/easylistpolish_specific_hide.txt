@@ -1004,3 +1004,13 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+||gazeta-mosina.pl^*solutionsbaner.
+||gazeta-mosina.pl^*solutionsbaner-
+||gazeta-mosina.pl^*^wypozyczalnia-kajakow-
+||gazeta-mosina.pl^*-sadzeniaki.
+||gazeta-mosina.pl^*-bagazniki.
+-reklama_$domain=gazeta-mosina.pl
+_baner.$domain=gazeta-mosina.pl
+^reklama-$domain=gazeta-mosina.pl
+-reklama.$domain=gazeta-mosina.pl
+-baner-$domain=gazeta-mosina.pl
