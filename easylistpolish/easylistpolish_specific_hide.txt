@@ -1004,3 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+e-kg.pl##a[href="https://www.facebook.com/bricomarchekolobrzeg"] .bg_image_right
+e-kg.pl##a[href="https://www.facebook.com/bricomarchekolobrzeg"] .bg_image_left
