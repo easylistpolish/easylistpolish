@@ -655,3 +655,4 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+gazeta-mosina.pl##div[class="box-1 deepest with-header"] a[target="_blank"]
