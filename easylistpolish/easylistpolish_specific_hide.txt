@@ -1004,6 +1004,4 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
-dobrepomyslynabiznes.pl##.additional-box a[href^="/przekieruj/rekl"]
-dobrepomyslynabiznes.pl##.header__special a[href^="/przekieruj/rekl"]
-dobrepomyslynabiznes.pl##.homepage__banner a[href^="/przekieruj/rekl"]
+dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
