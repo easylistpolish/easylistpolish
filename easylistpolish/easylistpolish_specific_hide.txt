@@ -1004,3 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+networkmagazyn.pl##.nmSectionBanner
+networkmagazyn.pl##.XadvTop
