@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+elektroda.pl##.the-list a[data-event-value="JLCPCB"]
+elektroda.pl##.auto-promotion
+elektroda.pl##.related-disc-list .highlight
