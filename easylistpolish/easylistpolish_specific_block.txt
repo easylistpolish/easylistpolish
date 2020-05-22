@@ -655,3 +655,5 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||podhale-sport.pl^*^no_link^250x560.
+||podhale-sport.pl^*^ban-wart.
