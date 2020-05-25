@@ -655,3 +655,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||kurier-kolski.pl^*^bb_bricomarche_
+||kurier-kolski.pl^*^oferty-
+||kurier-kolski.pl^*^galembabiuro.
+^baner_$domain=kurier-kolski.pl
