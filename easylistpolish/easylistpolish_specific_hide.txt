@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+motocykle125.pl##.theiaStickySidebar .wp_widget_plugin_textarea
+motocykle125.pl###homepage_rek
+motocykle125.pl###gp-small-header ~ center
