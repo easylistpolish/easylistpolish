@@ -666,3 +666,4 @@ _reklamy_$domain=chojna24.pl
 ||dz-ow.pl^*^narty.
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
+^1200x1200_$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dziennikopolski.pl|glosrzeszowa.pl|glostrojmiasta.pl|gazetawielkopolska.pl|glostorunia.pl|gloslodzi.pl|gloskrakowa.pl|dziennikwarszawy.pl|gazetawalbrzych.pl|gloswroclawia.pl
