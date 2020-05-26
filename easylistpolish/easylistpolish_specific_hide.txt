@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+||tucholanin.pl^*^koronakorki_
+||tucholanin.pl^*^mbso_vision_
+-banner-$domain=tucholanin.pl
