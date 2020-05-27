@@ -1004,3 +1004,6 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+gazetacz.com.pl##.gazet-gorny-lewy
+gazetacz.com.pl##.gazet-gorny-prawy
+gazetacz.com.pl###custom_html-2 + .gazet-widget
