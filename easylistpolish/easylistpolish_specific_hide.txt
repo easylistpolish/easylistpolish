@@ -1004,3 +1004,4 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+tvmstalowawola.pl##div[id^="tvmst-slider-"]
