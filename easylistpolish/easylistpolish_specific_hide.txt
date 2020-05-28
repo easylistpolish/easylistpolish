@@ -1004,3 +1004,8 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+24gliwice.pl##.gliwi-a5-na-koncu-artykulow
+24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
+24gliwice.pl##.gliwi-a2-pod-menu-artykuly
+24gliwice.pl##.gliwi-b1-prawy-blok-gora
+24gliwice.pl##.gliwi-a1-gora-portalu
