@@ -1014,3 +1014,4 @@ olx.pl##.inter-box_ad-detail_boxing
 elektroda.pl##a.KwkxNxK42jpm
 elektroda.pl##.the-list a[data-event-value="JLCPCB"]
 elektroda.pl##.auto-promotion
+extra.info.pl###leader-wrap
