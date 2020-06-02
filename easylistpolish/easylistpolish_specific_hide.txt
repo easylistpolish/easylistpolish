@@ -1008,6 +1008,8 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+legio24.pl##.stream-item-widget-content
+legio24.pl##.stream-item
 wirtualnygarwolin.pl##.rstboxes
 siedlcesiedzieje.pl##.placement
 kocham.wielun.pl##.module-mrowka
