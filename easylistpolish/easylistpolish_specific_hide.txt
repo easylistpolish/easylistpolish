@@ -972,6 +972,10 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+kurierzurominski.pl##.kd_ns_placement
+nadwisla24.pl##.header__banner
+lowicz24.eu##img[style="width: 250px; height: 100px;"]
+zlotowskie.pl##.bannerSlider
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 egzotycznaturystyka.pl##.top-banner
 10minut.tv##.minut-widget
@@ -1006,3 +1010,13 @@ elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
 legio24.pl##.stream-item-widget-content
 legio24.pl##.stream-item
+wirtualnygarwolin.pl##.rstboxes
+siedlcesiedzieje.pl##.placement
+kocham.wielun.pl##.module-mrowka
+naszglospoznanski.pl###text-16
+cypr24.eu##div[class^="g-single a-"]
+wylecz.to##div[data-event="slotSeen"]
+olx.pl##.inter-box_ad-detail_boxing
+elektroda.pl##a.KwksNxK42jpm
+elektroda.pl##.the-list a[data-event-value="JLCPCB"]
+elektroda.pl##.auto-promotion
