@@ -664,6 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+^baner_$domain=zkaszub.info
 ^banery_foto^$domain=expresskaszubski.pl
 ^baner_$domain=tvostrow.pl
 ^banners^$domain=tvostrow.pl
