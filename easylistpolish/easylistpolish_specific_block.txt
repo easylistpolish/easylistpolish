@@ -656,3 +656,4 @@ _reklamy_$domain=chojna24.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
 ^banners^$domain=przeclaw24.pl
+-baner.$domain=przeclaw24.pl
