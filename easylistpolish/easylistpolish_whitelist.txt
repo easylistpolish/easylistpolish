@@ -1,4 +1,4 @@
-@@/reklama.$domain=grojec24.net
+@@/reklama.$domain=grojec24.net|zsmeie.torun.pl
 @@/SidebarAds.$domain=eurogamer.pl
 @@/wppas.$domain=przegladpiaseczynski.pl
 @@^albumtp.$domain=tygodnikpodhalanski.pl
@@ -52,4 +52,7 @@
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||zarzadca.pl^*^zarzadca.
+@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
+@@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
+@@^reklama^$domain=prokopienko.pl
