@@ -664,6 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^kampania_reklamowa^$domain=lubliniec.info
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
