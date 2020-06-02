@@ -1020,6 +1020,9 @@ cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
 elektroda.pl##a[target="_blank"]:not([href*="elektroda.pl"]) > img[alt]
+open.fm###bnr-top
+open.fm##div[class^="bnr-con"]
+open.fm##div[class^="bnr-player-"]
 kardiolo.pl##.ads
 elektroda.pl##a.KwksNxK42jpm
 elektroda.pl##.the-list a[data-event-value="JLCPCB"]
