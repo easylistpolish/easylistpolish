@@ -676,3 +676,4 @@ _banner.$domain=polacywewloszech.com
 ^kampania_reklamowa^$domain=lubliniec.info
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
+^inline__1_$domain=nwloclawek.pl
