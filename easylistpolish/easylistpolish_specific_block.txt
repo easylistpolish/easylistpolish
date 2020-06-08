@@ -676,4 +676,6 @@ _banner.$domain=polacywewloszech.com
 ^kampania_reklamowa^$domain=lubliniec.info
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
+^banners^$domain=bytomski.pl
+||bytomski.pl^*^06/taxi.
 ^inline__1_$domain=nwloclawek.pl
