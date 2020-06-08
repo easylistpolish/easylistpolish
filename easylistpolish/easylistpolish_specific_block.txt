@@ -664,7 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
-||miedzyrzecz.biz^*rankingi-350x100.
+||miedzyrzecz.biz^*-rankingi-350x100.
 ^reklama_$domain=miedzyzdrojskie.info
 ^reklama-$domain=miedzyzdrojskie.info
 ^banners^$domain=independenttrader.pl
