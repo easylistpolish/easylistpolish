@@ -664,6 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+^banners^$domain=glogow-info.pl
 -baner-$domain=mysnet.pl
 ^baner-$domain=mysnet.pl
 ^banery^$domain=naszeopoczno.pl
