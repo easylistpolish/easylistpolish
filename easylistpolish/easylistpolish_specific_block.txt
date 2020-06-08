@@ -691,6 +691,7 @@ _banner.$domain=polacywewloszech.com
 ^kampania_reklamowa^$domain=lubliniec.info
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
+^banery_foto^$domain=ki24.info
 ||di.com.pl^*^kalkulator-oc-mfind.
 ||di.com.pl^*^inpost.
 ||dentoforum.pl^*^baner1.
