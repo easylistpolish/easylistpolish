@@ -1035,6 +1035,7 @@ naszglospoznanski.pl###text-16
 cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
+epiotrkow.pl##.rek
 e-telecom.pl##.Reklamy
 wnetrzadomow.pl##div[class^="g-dyn a-"]
 domenergo.com##.sidebar-banner-ads
