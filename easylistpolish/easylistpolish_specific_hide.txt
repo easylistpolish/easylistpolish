@@ -1035,6 +1035,7 @@ naszglospoznanski.pl###text-16
 cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
+forum.gniezno.com.pl##div[class^="re_"]
 ezakopane.pl##.td-a-rec
 zakazany-humor.pl###reklama_s
 zakazany-humor.pl##.reklama_nad_trescia
