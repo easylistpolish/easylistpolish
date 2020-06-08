@@ -1008,6 +1008,7 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+polacywewloszech.com##.header-top-right
 polonia.nl##.reklama-warpper
 tygodnik.szczytno.pl##.slitslider_reklama_container
 tomaszowiak.net##.contentAupper
