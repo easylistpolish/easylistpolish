@@ -1004,4 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+przeclaw24.pl###sbox-overlay
 przeclaw24.pl###sbox-window
