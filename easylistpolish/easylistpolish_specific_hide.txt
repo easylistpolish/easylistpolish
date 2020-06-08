@@ -1008,6 +1008,7 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+24klodzko.pl##.td-a-rec-id-header
 mojaniderlandia.pl##.newArticleA
 polacywewloszech.com##.header-top-right
 polonia.nl##.reklama-warpper
