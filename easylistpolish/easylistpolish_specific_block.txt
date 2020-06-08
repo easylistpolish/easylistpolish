@@ -664,6 +664,9 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||gazeta-mosina.pl^*-mosina2.
+-reklama.$domain=gazeta-mosina.pl
+-reklama_$domain=gazeta-mosina.pl
 ||cyfrowaekonomia.pl^*quark3.
 ^banery^$domain=prudnicka.pl
 ^bannery^$domain=najlepsze-porady.pl
