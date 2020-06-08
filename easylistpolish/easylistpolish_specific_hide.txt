@@ -1008,6 +1008,7 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+panoramakutna.pl###text-2
 tychy.pl###bilboard_970x90
 tychy.pl###artykul_300x250
 mysnet.pl##.wpb_wrapper div[class$="_rand "]
