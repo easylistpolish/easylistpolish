@@ -1008,6 +1008,7 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+pomorska.pl##article[class^="lista_content_stream_"]
 gazeta-mosina.pl##.box-1 img[width="300"]
 radio5.com.pl##div[class^="g-dyn a-"]
 24klodzko.pl##.td-a-rec-id-header
