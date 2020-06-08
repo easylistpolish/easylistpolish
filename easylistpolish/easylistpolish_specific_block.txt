@@ -655,3 +655,12 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+^reklama-$domain=starosadeckie.info
+^baner-$domain=starosadeckie.info
+||dz-ow.pl^*^narty.
+-reklama-$domain=starosadeckie.info
+||starosadeckie.info^*rolbud.
+||starosadeckie.info^*rolbud-
+||starosadeckie.info^*szewczyk-
+||starosadeckie.info^*^myjnia.
+||starosadeckie.info^*_pwsz_

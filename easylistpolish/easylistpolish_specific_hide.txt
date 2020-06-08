@@ -1004,4 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
-starosadeckie.info##.entry-content img[class*="wp-image-"]
+starosadeckie.info##.front-top
+starosadeckie.info##.front-medium
