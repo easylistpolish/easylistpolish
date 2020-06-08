@@ -1009,6 +1009,7 @@ elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
 mojaniderlandia.pl##.newArticleA
+polacywewloszech.com##.header-top-right
 polonia.nl##.reklama-warpper
 tygodnik.szczytno.pl##.slitslider_reklama_container
 tomaszowiak.net##.contentAupper
