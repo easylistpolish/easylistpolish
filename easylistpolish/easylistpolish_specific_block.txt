@@ -664,6 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+^reklamy_$domain=gazetka.be
 _banner.$domain=polacywewloszech.com
 -300x400.$domain=polacywewloszech.com
 ^banners^$domain=ddwlkp.pl
