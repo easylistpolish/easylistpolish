@@ -1008,6 +1008,7 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+kryniczanie.pl###reklama1
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 gloslodzi.pl##.advContainer a[href^="https://emisja.contentstream.pl/"]
 gloslodzi.pl##.entry_content
