@@ -664,6 +664,7 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
+||miastons.pl^*-promocji.
 _baner_$domain=bialogardinfo.pl
 ||gloswroclawia.pl^*^1200x1200_
 ||gorydlaciebie.pl^*^booking-
