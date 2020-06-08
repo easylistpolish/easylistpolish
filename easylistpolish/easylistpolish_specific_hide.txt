@@ -1024,6 +1024,7 @@ naszglospoznanski.pl###text-16
 cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
+b2-biznes.pl##div[class^="ai-rotate ai-"]
 o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
 o2.pl##div[class$="container"]
 echirurgia.pl##.actr
