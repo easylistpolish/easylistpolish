@@ -1008,6 +1008,8 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+zielonanews.pl##div[class^="a-single"]
+zielonanews.pl##div[class^="g-dyn a-"]
 panoramakutna.pl###text-2
 tychy.pl###bilboard_970x90
 tychy.pl###artykul_300x250
