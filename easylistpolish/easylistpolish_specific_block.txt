@@ -691,6 +691,8 @@ _banner.$domain=polacywewloszech.com
 ^kampania_reklamowa^$domain=lubliniec.info
 .300x180.$domain=gostynin.info
 ^kaczynski_click^$subdocument,domain=wylecz.to
+||fishing-test.pl^*^shimano-baner02.
+||fishing-test.pl^*^ft_st_croix.
 ||dodajauto.pl^*^logo%20ds%20baner.
 ||dodajauto.pl^*^sf.
 ||dx-team.org^*^pover.
