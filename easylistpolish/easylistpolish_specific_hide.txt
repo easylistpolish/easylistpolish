@@ -1035,6 +1035,8 @@ naszglospoznanski.pl###text-16
 cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
+elektroda.pl##a[target="_blank"]:not([href*="elektroda.pl"]) > img[alt]
+domenergo.com##.sidebar-banner-ads
 e-dobrydom.pl,dobretargi.pl,abcdobrejmamy.pl,nowymagazyn.pl###slideshow_xl
 dobra-mama.pl##div[class^="g-dyn a-"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
