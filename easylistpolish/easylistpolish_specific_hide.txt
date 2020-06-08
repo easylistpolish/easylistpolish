@@ -1005,3 +1005,4 @@ elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
 tkn24.pl###ytplayer
+tkn24.pl##font[color="SILVER"]
