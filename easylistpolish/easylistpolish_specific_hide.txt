@@ -1004,3 +1004,5 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+e-kolo.pl##.banner_polecane
+e-kolo.pl##.baner_billboard
