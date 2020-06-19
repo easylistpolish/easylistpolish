@@ -69,7 +69,6 @@
 ^dronmedia.$domain=7dni.pila.pl
 ^edytom.$domain=legitymizm.org
 ^gfx^$domain=hrubieszow.info
-^inline__1_$domain=24jgora.pl,24wroclaw.pl
 ^inline_images/114^$domain=mylomza.pl
 ^kurkuma185.$domain=wikirose.pl
 ^logo-$domain=legitymizm.org
