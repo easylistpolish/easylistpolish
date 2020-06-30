@@ -709,7 +709,7 @@ gram.pl##.text-ad-center
 gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-chcemybycrodzicami.pl##.the-a
+chcemybycrodzicami.pl##.row > .the-a
 odkryjpomorze.pl##.ticker-container
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
 disco-polo.info##.top-advertisment
