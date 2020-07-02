@@ -716,3 +716,4 @@ _banner.$domain=polacywewloszech.com
 ^banners^$domain=bytomski.pl
 ||bytomski.pl^*^06/taxi.
 ^inline__1_$domain=nwloclawek.pl
+^baner_$domain=chcemybycrodzicami.pl
