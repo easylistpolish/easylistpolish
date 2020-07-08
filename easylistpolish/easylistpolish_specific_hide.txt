@@ -1073,3 +1073,4 @@ radiopik.pl##.rma a[href="https://www.autodoc.pl/"]
 radiopik.pl##.rma a[href="http://www.czesciauto24.pl/"]
 radiopik.pl##.rma a[href^="http://dom.perfekt-brodnica.pl"]
 extra.info.pl###leader-wrap
+faktykrakowa.pl##.banneritem
