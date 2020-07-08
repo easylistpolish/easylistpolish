@@ -719,3 +719,4 @@ _banner.$domain=polacywewloszech.com
 ^baner_$domain=chcemybycrodzicami.pl
 _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^banners^$domain=radioq.fm
+^banner-$domain=meska-kuchnia.pl
