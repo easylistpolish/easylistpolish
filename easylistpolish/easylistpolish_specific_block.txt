@@ -718,3 +718,4 @@ _banner.$domain=polacywewloszech.com
 ^inline__1_$domain=nwloclawek.pl
 ^baner_$domain=chcemybycrodzicami.pl
 _reklamy^$domain=wiadomoscisasiedzkie.pl
+^banners^$domain=radioq.fm
