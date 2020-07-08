@@ -709,7 +709,7 @@ gram.pl##.text-ad-center
 gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-chcemybycrodzicami.pl##.the-a
+chcemybycrodzicami.pl##.row > .the-a
 odkryjpomorze.pl##.ticker-container
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
 disco-polo.info##.top-advertisment
@@ -1008,9 +1008,64 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+zielonanews.pl##div[class^="a-single"]
+zielonanews.pl##div[class^="g-dyn a-"]
+panoramakutna.pl###text-2
+tychy.pl###bilboard_970x90
+tychy.pl###artykul_300x250
+mysnet.pl##.wpb_wrapper div[class$="_rand "]
+pnt.info.pl##[id^="slider"]
+wirtualnepniewy.pl##.ad
+hokej.net##[id^="slot-"]
+kryniczanie.pl###reklama1
+bialogardinfo.pl##.theiaStickySidebar .g-dyn
+gloslodzi.pl##.advContainer a[href^="https://emisja.contentstream.pl/"]
+gloslodzi.pl##.entry_content
+gloslodzi.pl##.sidebar_area .widget-2 .textwidget
+gorydlaciebie.pl##.widgetKP
+f5.pl##.top-offer-box
+pomorska.pl##article[class^="lista_content_stream_"]
+gazeta-mosina.pl##.box-1 img[width="300"]
+radio5.com.pl##div[class^="g-dyn a-"]
+24klodzko.pl##.td-a-rec-id-header
+mojaniderlandia.pl##.newArticleA
+polacywewloszech.com##.header-top-right
+polonia.nl##.reklama-warpper
+tygodnik.szczytno.pl##.slitslider_reklama_container
+tomaszowiak.net##.contentAupper
+palukitv.pl##.banneritem > a[href^="/component/banners/click/"]
+legio24.pl##.stream-item-widget-content
+legio24.pl##.stream-item
+wirtualnygarwolin.pl##.rstboxes
+siedlcesiedzieje.pl##.placement
+kocham.wielun.pl##.module-mrowka
+naszglospoznanski.pl###text-16
 cypr24.eu##div[class^="g-single a-"]
 wylecz.to##div[data-event="slotSeen"]
 olx.pl##.inter-box_ad-detail_boxing
-elektroda.pl##a.KwkxNxK42jpm
+db2010.pl##div[class^="elementor-repeater-item-"]
+e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
+ki24.info##.topLayer
+expresselblag.pl##.toplayer
+forum.gniezno.com.pl##div[class^="re_"]
+ezakopane.pl##.td-a-rec
+zakazany-humor.pl###reklama_s
+zakazany-humor.pl##.reklama_nad_trescia
+zakazany-humor.pl###primary > div > iframe
+epiotrkow.pl##.rek
+e-telecom.pl##.Reklamy
+wnetrzadomow.pl##div[class^="g-dyn a-"]
+domenergo.com##.sidebar-banner-ads
+e-dobrydom.pl,dobretargi.pl,abcdobrejmamy.pl,nowymagazyn.pl###slideshow_xl
+dobra-mama.pl##div[class^="g-dyn a-"]
+b2-biznes.pl##div[class^="ai-rotate ai-"]
+o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
+o2.pl##div[class$="container"]
+echirurgia.pl##.actr
+open.fm###bnr-top
+open.fm##div[class^="bnr-con"]
+open.fm##div[class^="bnr-player-"]
+kardiolo.pl##.ads
+elektroda.pl##a.KwksNxK42jpm
 elektroda.pl##.the-list a[data-event-value="JLCPCB"]
 elektroda.pl##.auto-promotion
