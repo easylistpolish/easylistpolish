@@ -1079,3 +1079,8 @@ biznesalert.pl##.ad-container
 meska-kuchnia.pl##.banner
 meska-kuchnia.pl##.sw-inner a[href="https://dietetykwmiescie.pl/"]
 vegespot.pl##.adv
+24gliwice.pl##.gliwi-a5-na-koncu-artykulow
+24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
+24gliwice.pl##.gliwi-a2-pod-menu-artykuly
+24gliwice.pl##.gliwi-b1-prawy-blok-gora
+24gliwice.pl##.gliwi-a1-gora-portalu
