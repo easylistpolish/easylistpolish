@@ -1074,3 +1074,4 @@ radiopik.pl##.rma a[href="http://www.czesciauto24.pl/"]
 radiopik.pl##.rma a[href^="http://dom.perfekt-brodnica.pl"]
 extra.info.pl###leader-wrap
 faktykrakowa.pl##.banneritem
+grodzisknews.pl##.ad_suw_nad
