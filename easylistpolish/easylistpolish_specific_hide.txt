@@ -1100,3 +1100,4 @@ e-kolo.pl##.banner_polecane
 e-kolo.pl##.baner_billboard
 tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
+tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
