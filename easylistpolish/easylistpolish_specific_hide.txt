@@ -1093,3 +1093,4 @@ twojepajeczno.pl##.scxx
 obserwatorgospodarczy.pl##.bannergroup
 gazetarumska.pl##.articleBottom-ads
 gazetarumska.pl##.gazet-w-artykule-reklama
+extrawalcz.pl##.topLayer
