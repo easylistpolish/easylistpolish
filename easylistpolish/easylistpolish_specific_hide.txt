@@ -1091,3 +1091,5 @@ dzierzgon-twojemiasto.pl###sgpb-popup-dialog-main-div-wrapper
 twojsacz.pl##a[href$="source=ads"]
 twojepajeczno.pl##.scxx
 obserwatorgospodarczy.pl##.bannergroup
+gazetarumska.pl##.articleBottom-ads
+gazetarumska.pl##.gazet-w-artykule-reklama
