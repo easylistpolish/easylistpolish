@@ -727,3 +727,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 24gliwice.pl^*-taxiraj.
 ^banner^$domain=moje-dzialdowo.pl
 ^campaigns^$domain=radomsko24.pl
+||portal.plocman.pl^*^300x600.
