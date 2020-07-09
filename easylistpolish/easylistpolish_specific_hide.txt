@@ -1106,3 +1106,4 @@ bobrowniki.tv##.mod_banners_bottom_banners
 bobrowniki.tv##a[href="http://slaskieplyty.pl/"]
 tvmstalowawola.pl##div[id^="tvmst-slider-"]
 mojecoventry.pl##.companies-block-sponsors
+podlasianin.com.pl##.banner
