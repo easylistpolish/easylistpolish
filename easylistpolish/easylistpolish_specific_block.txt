@@ -728,3 +728,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^banner^$domain=moje-dzialdowo.pl
 ^campaigns^$domain=radomsko24.pl
 ||portal.plocman.pl^*^300x600.
+^banners^$domain=moje-gniezno.pl
