@@ -726,3 +726,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||s6.ifotos.pl^*^Ogloszeni_
 24gliwice.pl^*-taxiraj.
 ^banner^$domain=moje-dzialdowo.pl
+^campaigns^$domain=radomsko24.pl
