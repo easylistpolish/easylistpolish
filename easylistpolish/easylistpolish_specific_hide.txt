@@ -1085,3 +1085,4 @@ vegespot.pl##.adv
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 24gliwice.pl##.gliwi-a1-gora-portalu
 oswiecimonline.pl##.fullwidthabanner
+naszekielce.com###promoted

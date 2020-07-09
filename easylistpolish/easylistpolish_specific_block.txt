@@ -729,3 +729,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^campaigns^$domain=radomsko24.pl
 ||portal.plocman.pl^*^300x600.
 ^banners^$domain=moje-gniezno.pl
+||naszekielce.com^*^termo.
+||naszekielce.com^*^inkubator_kielce.
+||naszekielce.com^*_250x500.
+||naszekielce.com^*_900x200.
