@@ -1094,3 +1094,5 @@ obserwatorgospodarczy.pl##.bannergroup
 gazetarumska.pl##.articleBottom-ads
 gazetarumska.pl##.gazet-w-artykule-reklama
 extrawalcz.pl##.topLayer
+tkn24.pl###ytplayer
+tkn24.pl##font[color="SILVER"]

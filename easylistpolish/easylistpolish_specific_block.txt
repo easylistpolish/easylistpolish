@@ -735,3 +735,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||naszekielce.com^*_900x200.
 ||dzierzgon-twojemiasto.pl^*^mn_przeglady-
 ^baner_$domain=dzierzgon-twojemiasto.pl
+||tkn24.pl^*^Sypytkowski-sport-gif.
+||tkn24.pl^*^Nexera-
+||tkn24.pl^*^Dekam-
