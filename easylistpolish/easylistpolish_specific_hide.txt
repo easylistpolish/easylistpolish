@@ -1104,3 +1104,4 @@ tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
 bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
 bobrowniki.tv##.mod_banners_bottom_banners
 bobrowniki.tv##a[href="http://slaskieplyty.pl/"]
+tvmstalowawola.pl##div[id^="tvmst-slider-"]
