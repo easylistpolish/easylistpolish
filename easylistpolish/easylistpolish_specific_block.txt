@@ -740,3 +740,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tkn24.pl^*^Dekam-
 ||e-kolo.pl^ulotkamzwik.
 ||e-kolo.pl/css/popup.css^$stylesheet,domain=e-kolo.pl
+||bobrowniki.tv^*^praca-piekary.
+||bobrowniki.tv^*^grocero2.
