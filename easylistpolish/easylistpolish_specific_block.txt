@@ -725,3 +725,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||s6.ifotos.pl^*^embudjpg_
 ||s6.ifotos.pl^*^Ogloszeni_
 24gliwice.pl^*-taxiraj.
+^banner^$domain=moje-dzialdowo.pl
