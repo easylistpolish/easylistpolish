@@ -1096,3 +1096,5 @@ gazetarumska.pl##.gazet-w-artykule-reklama
 extrawalcz.pl##.topLayer
 tkn24.pl###ytplayer
 tkn24.pl##font[color="SILVER"]
+e-kolo.pl##.banner_polecane
+e-kolo.pl##.baner_billboard

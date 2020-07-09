@@ -738,3 +738,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tkn24.pl^*^Sypytkowski-sport-gif.
 ||tkn24.pl^*^Nexera-
 ||tkn24.pl^*^Dekam-
+||e-kolo.pl^ulotkamzwik.
+||e-kolo.pl/css/popup.css^$stylesheet,domain=e-kolo.pl
