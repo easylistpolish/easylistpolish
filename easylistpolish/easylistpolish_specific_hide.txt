@@ -1086,3 +1086,5 @@ vegespot.pl##.adv
 24gliwice.pl##.gliwi-a1-gora-portalu
 oswiecimonline.pl##.fullwidthabanner
 naszekielce.com###promoted
+dzierzgon-twojemiasto.pl##.td-a-rec
+dzierzgon-twojemiasto.pl###sgpb-popup-dialog-main-div-wrapper

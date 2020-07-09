@@ -733,3 +733,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*_250x500.
 ||naszekielce.com^*_900x200.
+||dzierzgon-twojemiasto.pl^*^mn_przeglady-
+^baner_$domain=dzierzgon-twojemiasto.pl
