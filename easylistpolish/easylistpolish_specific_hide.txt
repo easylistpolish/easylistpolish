@@ -1090,3 +1090,4 @@ dzierzgon-twojemiasto.pl##.td-a-rec
 dzierzgon-twojemiasto.pl###sgpb-popup-dialog-main-div-wrapper
 twojsacz.pl##a[href$="source=ads"]
 twojepajeczno.pl##.scxx
+obserwatorgospodarczy.pl##.bannergroup
