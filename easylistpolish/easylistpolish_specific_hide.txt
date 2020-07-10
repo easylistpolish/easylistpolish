@@ -1110,3 +1110,4 @@ podlasianin.com.pl##.banner
 kujawy.info###homepageUnderEightAds
 dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
 dts24.pl##div[class^="gjhn-single ajhn-"]
+glosswidnika.pl##.banneritem
