@@ -743,3 +743,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bobrowniki.tv^*^praca-piekary.
 ||bobrowniki.tv^*^grocero2.
 ||tvtoya.pl^*^banners/first_page/$image
+||7dni.com.pl^*^pierwsza-wyprawka.
