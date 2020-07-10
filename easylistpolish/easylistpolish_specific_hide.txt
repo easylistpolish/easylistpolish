@@ -1111,3 +1111,4 @@ kujawy.info###homepageUnderEightAds
 dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
 dts24.pl##div[class^="gjhn-single ajhn-"]
 glosswidnika.pl##.banneritem
+jaslo4u.pl##.box-info a[target="_blank"] > img[width="270"]
