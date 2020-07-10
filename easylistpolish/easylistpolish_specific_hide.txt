@@ -1108,3 +1108,5 @@ tvmstalowawola.pl##div[id^="tvmst-slider-"]
 mojecoventry.pl##.companies-block-sponsors
 podlasianin.com.pl##.banner
 kujawy.info###homepageUnderEightAds
+dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
+dts24.pl##div[class^="gjhn-single ajhn-"]
