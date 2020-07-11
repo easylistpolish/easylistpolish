@@ -1116,3 +1116,4 @@ kuriergmin.pl##.kurie-billboard
 kuriergmin.pl##.td-a-rec
 zawiercianskie.pl###main-header .widget_media_image
 zawiercianskie.pl###widget_carousel_slider-11
+magazyngitarzysta.pl##.pasaz-content
