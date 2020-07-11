@@ -747,3 +747,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||magazyngitarzysta.pl^*^750x200_
 ^reklama_$domain=24ikp.pl
 ^reklama0_$domain=24ikp.pl
+^banery^$domain=epszczyna.pl
