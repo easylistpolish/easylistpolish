@@ -749,3 +749,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^reklama0_$domain=24ikp.pl
 ^banery^$domain=epszczyna.pl
 ^reklamy_$domain=galeriafirm.eu
+^view.php?key=$image,domain=gpcodziennie.pl
