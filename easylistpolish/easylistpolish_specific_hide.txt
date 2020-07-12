@@ -1120,3 +1120,4 @@ magazyngitarzysta.pl##.pasaz-content
 webcamera.pl##.advContainer
 gazeo.pl##.ad
 gazetaostrowska.pl##.nivoSlider
+gazeta-wiesci.pl##a[title*="clicks."] > img
