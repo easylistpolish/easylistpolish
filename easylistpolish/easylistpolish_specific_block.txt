@@ -748,3 +748,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^reklama_$domain=24ikp.pl
 ^reklama0_$domain=24ikp.pl
 ^banery^$domain=epszczyna.pl
+^reklamy_$domain=galeriafirm.eu
