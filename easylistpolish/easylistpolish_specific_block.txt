@@ -750,3 +750,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^banery^$domain=epszczyna.pl
 ^reklamy_$domain=galeriafirm.eu
 ^view.php?key=$image,domain=gpcodziennie.pl
+||gazeta-mlawska.pl^*klonik%20BHP.
+||gazeta-mlawska.pl^*^baner.
