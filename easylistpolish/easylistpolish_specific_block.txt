@@ -752,3 +752,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^view.php?key=$image,domain=gpcodziennie.pl
 ||gazeta-mlawska.pl^*klonik%20BHP.
 ||gazeta-mlawska.pl^*^baner.
+||glamrap.pl^*^580x400_
