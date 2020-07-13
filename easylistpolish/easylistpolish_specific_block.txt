@@ -753,3 +753,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||gazeta-mlawska.pl^*klonik%20BHP.
 ||gazeta-mlawska.pl^*^baner.
 ||glamrap.pl^*^580x400_
+^banner_$domain=rdn.pl
+-baner.$domain=rdn.pl
+^reklama_$domain=rdn.pl

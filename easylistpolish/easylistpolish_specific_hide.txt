@@ -1125,3 +1125,5 @@ anime-odcinki.pl###reklama_lewa
 anime-odcinki.pl###reklama_prawa
 ortograf.pl##.top-billboard
 party.pl##.ecomm-content
+rdn.pl##.hred_cont_re
+rdn.pl##.hred_sport_re
