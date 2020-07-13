@@ -1123,3 +1123,4 @@ gazetaostrowska.pl##.nivoSlider
 gazeta-wiesci.pl##a[title*="clicks."] > img
 anime-odcinki.pl###reklama_lewa
 anime-odcinki.pl###reklama_prawa
+ortograf.pl##.top-billboard
