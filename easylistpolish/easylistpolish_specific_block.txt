@@ -760,3 +760,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||info.elblag.pl^*^tla/*.jpg?v=1
 ^banerkiJPG^$domain=info.elblag.pl
 ^banerkiIFRAME^$domain=info.elblag.pl
+||infobeskidy.eu^*^r5.
