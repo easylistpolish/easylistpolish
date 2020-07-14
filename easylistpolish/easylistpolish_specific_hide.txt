@@ -1111,3 +1111,45 @@ kujawy.info###homepageUnderEightAds
 dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
 dts24.pl##div[class^="gjhn-single ajhn-"]
 glosswidnika.pl##.banneritem
+jaslo4u.pl##.box-info a[target="_blank"] > img[width="270"]
+kuriergmin.pl##.kurie-billboard
+kuriergmin.pl##.td-a-rec
+zawiercianskie.pl###main-header .widget_media_image
+zawiercianskie.pl###widget_carousel_slider-11
+magazyngitarzysta.pl##.pasaz-content
+webcamera.pl##.advContainer
+gazeo.pl##.ad
+gazetaostrowska.pl##.nivoSlider
+gazeta-wiesci.pl##a[title*="clicks."] > img
+anime-odcinki.pl###reklama_lewa
+anime-odcinki.pl###reklama_prawa
+ortograf.pl##.top-billboard
+party.pl##.ecomm-content
+rdn.pl##.hred_cont_re
+rdn.pl##.hred_sport_re
+radio7.pl##div[class^="g-dyn a-"]
+infoludek.pl##.banneryflex
+infobrzeszcze.pl##.td-a-rec
+glokalna.pl##.sgpb-popup-overlay
+glokalna.pl###sgpb-popup-dialog-main-div-wrapper
+isbzdrowie.pl##.banner
+kliknijwzdrowie.pl##.banner
+kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
+jarmark.com.pl##.mMaterialRotator
+jarmark.com.pl###k3
+jakzrobicwexcelu.pl##img[alt$="reklama"]
+infokonin.pl##img[width="240"][height="80"]
+infokonin.pl##.bc_random_banner
+gwarminska.pl##img[srcset]
+klin-tv.pl##.widget_supermag_ad
+abcslubu.pl##.banneritem
+anywhere.pl##div[class^="g-single a-"]
+wterenie.pl,golub-cgd.pl##a[href^="http://www.czesciauto24.pl"]
+morzaioceany.pl##.box-reklamy
+powrotroberta.pl##.elementor-image a[href^="https://online-mexos."]
+tygodnikpiski.pl##.avt_masterslider_el
+tucholanin.pl###sidebar-primary #text-14
+ptvr.pl###wp-forecast-2 + #text-3
+gazetacz.com.pl##.gazet-gorny-lewy
+gazetacz.com.pl##.gazet-gorny-prawy
+gazetacz.com.pl###custom_html-2 + .gazet-widget
