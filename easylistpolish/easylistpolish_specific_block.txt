@@ -775,3 +775,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tygodnikpiski.pl^*-290x150.
 -reklama_$domain=noworudzianin.pl
 ^Reklama-$domain=noworudzianin.pl
+||tvmalbork.pl^*_300x200.
+||tvmalbork.pl^*^domex_
