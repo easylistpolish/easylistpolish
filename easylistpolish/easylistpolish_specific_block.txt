@@ -757,3 +757,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -baner.$domain=rdn.pl
 ^reklama_$domain=rdn.pl
 ^baner^$domain=ipon.pl
+||info.elblag.pl^*^tla/*.jpg?v=1
+^banerkiJPG^$domain=info.elblag.pl
+^banerkiIFRAME^$domain=info.elblag.pl
