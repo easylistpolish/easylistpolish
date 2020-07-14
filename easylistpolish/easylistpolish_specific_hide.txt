@@ -1150,3 +1150,6 @@ powrotroberta.pl##.elementor-image a[href^="https://online-mexos."]
 tygodnikpiski.pl##.avt_masterslider_el
 tucholanin.pl###sidebar-primary #text-14
 ptvr.pl###wp-forecast-2 + #text-3
+gazetacz.com.pl##.gazet-gorny-lewy
+gazetacz.com.pl##.gazet-gorny-prawy
+gazetacz.com.pl###custom_html-2 + .gazet-widget
