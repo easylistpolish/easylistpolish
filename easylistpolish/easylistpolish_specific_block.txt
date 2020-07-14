@@ -756,3 +756,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^banner_$domain=rdn.pl
 -baner.$domain=rdn.pl
 ^reklama_$domain=rdn.pl
+^baner^$domain=ipon.pl
