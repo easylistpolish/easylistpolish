@@ -709,7 +709,7 @@ gram.pl##.text-ad-center
 gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-chcemybycrodzicami.pl##.the-a
+chcemybycrodzicami.pl##.row > .the-a
 odkryjpomorze.pl##.ticker-container
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
 disco-polo.info##.top-advertisment
@@ -972,6 +972,10 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+kurierzurominski.pl##.kd_ns_placement
+nadwisla24.pl##.header__banner
+lowicz24.eu##img[style="width: 250px; height: 100px;"]
+zlotowskie.pl##.bannerSlider
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 egzotycznaturystyka.pl##.top-banner
 10minut.tv##.minut-widget
@@ -1004,4 +1008,141 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
+zielonanews.pl##div[class^="a-single"]
+zielonanews.pl##div[class^="g-dyn a-"]
+panoramakutna.pl###text-2
+tychy.pl###bilboard_970x90
+tychy.pl###artykul_300x250
+mysnet.pl##.wpb_wrapper div[class$="_rand "]
+pnt.info.pl##[id^="slider"]
+wirtualnepniewy.pl##.ad
+hokej.net##[id^="slot-"]
+kryniczanie.pl###reklama1
+bialogardinfo.pl##.theiaStickySidebar .g-dyn
+gloslodzi.pl##.advContainer a[href^="https://emisja.contentstream.pl/"]
+gloslodzi.pl##.entry_content
+gloslodzi.pl##.sidebar_area .widget-2 .textwidget
+gorydlaciebie.pl##.widgetKP
+f5.pl##.top-offer-box
+pomorska.pl##article[class^="lista_content_stream_"]
+gazeta-mosina.pl##.box-1 img[width="300"]
+radio5.com.pl##div[class^="g-dyn a-"]
+24klodzko.pl##.td-a-rec-id-header
+mojaniderlandia.pl##.newArticleA
+polacywewloszech.com##.header-top-right
+polonia.nl##.reklama-warpper
+tygodnik.szczytno.pl##.slitslider_reklama_container
+tomaszowiak.net##.contentAupper
+palukitv.pl##.banneritem > a[href^="/component/banners/click/"]
+legio24.pl##.stream-item-widget-content
+legio24.pl##.stream-item
+wirtualnygarwolin.pl##.rstboxes
+siedlcesiedzieje.pl##.placement
+kocham.wielun.pl##.module-mrowka
+naszglospoznanski.pl###text-16
+cypr24.eu##div[class^="g-single a-"]
+wylecz.to##div[data-event="slotSeen"]
+olx.pl##.inter-box_ad-detail_boxing
+db2010.pl##div[class^="elementor-repeater-item-"]
+e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
+ki24.info##.topLayer
+expresselblag.pl##.toplayer
+forum.gniezno.com.pl##div[class^="re_"]
+ezakopane.pl##.td-a-rec
+zakazany-humor.pl###reklama_s
+zakazany-humor.pl##.reklama_nad_trescia
+zakazany-humor.pl###primary > div > iframe
+epiotrkow.pl##.rek
+e-telecom.pl##.Reklamy
+wnetrzadomow.pl##div[class^="g-dyn a-"]
+domenergo.com##.sidebar-banner-ads
+e-dobrydom.pl,dobretargi.pl,abcdobrejmamy.pl,nowymagazyn.pl###slideshow_xl
+dobra-mama.pl##div[class^="g-dyn a-"]
+b2-biznes.pl##div[class^="ai-rotate ai-"]
+o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
+o2.pl##div[class$="container"]
+echirurgia.pl##.actr
+open.fm###bnr-top
+open.fm##div[class^="bnr-con"]
+open.fm##div[class^="bnr-player-"]
+kardiolo.pl##.ads
+elektroda.pl##a.KwksNxK42jpm
+elektroda.pl##.the-list a[data-event-value="JLCPCB"]
+elektroda.pl##.auto-promotion
+radiopik.pl##.rma a[href="https://www.autodoc.pl/"]
+radiopik.pl##.rma a[href="http://www.czesciauto24.pl/"]
+radiopik.pl##.rma a[href^="http://dom.perfekt-brodnica.pl"]
+extra.info.pl###leader-wrap
+faktykrakowa.pl##.banneritem
+grodzisknews.pl##.ad_suw_nad
+biznesalert.pl##.ad-container
+meska-kuchnia.pl##.banner
+meska-kuchnia.pl##.sw-inner a[href="https://dietetykwmiescie.pl/"]
+vegespot.pl##.adv
+24gliwice.pl##.gliwi-a5-na-koncu-artykulow
+24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
+24gliwice.pl##.gliwi-a2-pod-menu-artykuly
+24gliwice.pl##.gliwi-b1-prawy-blok-gora
+24gliwice.pl##.gliwi-a1-gora-portalu
+oswiecimonline.pl##.fullwidthabanner
+naszekielce.com###promoted
+dzierzgon-twojemiasto.pl##.td-a-rec
+dzierzgon-twojemiasto.pl###sgpb-popup-dialog-main-div-wrapper
+twojsacz.pl##a[href$="source=ads"]
+twojepajeczno.pl##.scxx
+obserwatorgospodarczy.pl##.bannergroup
+gazetarumska.pl##.articleBottom-ads
+gazetarumska.pl##.gazet-w-artykule-reklama
+extrawalcz.pl##.topLayer
+tkn24.pl###ytplayer
+tkn24.pl##font[color="SILVER"]
+e-kolo.pl##.banner_polecane
+e-kolo.pl##.baner_billboard
+tygodnikketrzynski.pl##.sidebar-wrap #text-52
+tygodnikketrzynski.pl##.sidebar-wrap #text-53
+tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
+bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
+bobrowniki.tv##.mod_banners_bottom_banners
+bobrowniki.tv##a[href="http://slaskieplyty.pl/"]
+tvmstalowawola.pl##div[id^="tvmst-slider-"]
+mojecoventry.pl##.companies-block-sponsors
+podlasianin.com.pl##.banner
+kujawy.info###homepageUnderEightAds
+dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
+dts24.pl##div[class^="gjhn-single ajhn-"]
+glosswidnika.pl##.banneritem
+jaslo4u.pl##.box-info a[target="_blank"] > img[width="270"]
+kuriergmin.pl##.kurie-billboard
+kuriergmin.pl##.td-a-rec
+zawiercianskie.pl###main-header .widget_media_image
+zawiercianskie.pl###widget_carousel_slider-11
+magazyngitarzysta.pl##.pasaz-content
+webcamera.pl##.advContainer
+gazeo.pl##.ad
+gazetaostrowska.pl##.nivoSlider
+gazeta-wiesci.pl##a[title*="clicks."] > img
+anime-odcinki.pl###reklama_lewa
+anime-odcinki.pl###reklama_prawa
+ortograf.pl##.top-billboard
+party.pl##.ecomm-content
+rdn.pl##.hred_cont_re
+rdn.pl##.hred_sport_re
+radio7.pl##div[class^="g-dyn a-"]
+infoludek.pl##.banneryflex
+infobrzeszcze.pl##.td-a-rec
+glokalna.pl##.sgpb-popup-overlay
+glokalna.pl###sgpb-popup-dialog-main-div-wrapper
+isbzdrowie.pl##.banner
+kliknijwzdrowie.pl##.banner
+kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
+jarmark.com.pl##.mMaterialRotator
+jarmark.com.pl###k3
+jakzrobicwexcelu.pl##img[alt$="reklama"]
+infokonin.pl##img[width="240"][height="80"]
+infokonin.pl##.bc_random_banner
+gwarminska.pl##img[srcset]
+klin-tv.pl##.widget_supermag_ad
+abcslubu.pl##.banneritem
+anywhere.pl##div[class^="g-single a-"]
+wterenie.pl,golub-cgd.pl##a[href^="http://www.czesciauto24.pl"]
 morzaioceany.pl##.box-reklamy
