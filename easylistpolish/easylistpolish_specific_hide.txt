@@ -1144,3 +1144,4 @@ gwarminska.pl##img[srcset]
 klin-tv.pl##.widget_supermag_ad
 abcslubu.pl##.banneritem
 anywhere.pl##div[class^="g-single a-"]
+wterenie.pl,golub-cgd.pl##a[href^="http://www.czesciauto24.pl"]
