@@ -773,3 +773,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^baner-$domain=tygodnikpiski.pl
 ^banner_$domain=tygodnikpiski.pl
 ||tygodnikpiski.pl^*-290x150.
+-reklama_$domain=noworudzianin.pl
+^Reklama-$domain=noworudzianin.pl
