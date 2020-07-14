@@ -1156,3 +1156,5 @@ gazetacz.com.pl###custom_html-2 + .gazet-widget
 pulskwidzyna.pl##.banToper
 pulskwidzyna.pl##.sliderBox
 roztocze.net##.topLayer
+czadrow24.pl###secondary-right aside:nth-child(3)
+czadrow24.pl###main a[rel="noopener noreferrer"]
