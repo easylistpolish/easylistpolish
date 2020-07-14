@@ -770,3 +770,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||powrotroberta.pl^*^akumeo-
 ^banery_foto^$domain=gostyn24.pl
 ^banners^$domain=eoborniki.pl
+^baner-$domain=tygodnikpiski.pl
+^banner_$domain=tygodnikpiski.pl
+||tygodnikpiski.pl^*-290x150.

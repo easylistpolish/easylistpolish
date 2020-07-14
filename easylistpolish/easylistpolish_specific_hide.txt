@@ -1147,3 +1147,4 @@ anywhere.pl##div[class^="g-single a-"]
 wterenie.pl,golub-cgd.pl##a[href^="http://www.czesciauto24.pl"]
 morzaioceany.pl##.box-reklamy
 powrotroberta.pl##.elementor-image a[href^="https://online-mexos."]
+tygodnikpiski.pl##.avt_masterslider_el
