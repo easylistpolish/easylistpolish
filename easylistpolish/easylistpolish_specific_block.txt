@@ -777,3 +777,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^Reklama-$domain=noworudzianin.pl
 ||tvmalbork.pl^*_300x200.
 ||tvmalbork.pl^*^domex_
+||regionalna.pl^*^firmy-wspolpracujace_
+||regionalna.pl^*^inwazja_
+^baner_$domain=regionalna.pl
