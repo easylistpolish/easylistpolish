@@ -769,3 +769,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -baner-$domain=powrotroberta.pl
 ||powrotroberta.pl^*^akumeo-
 ^banery_foto^$domain=gostyn24.pl
+^banners^$domain=eoborniki.pl
