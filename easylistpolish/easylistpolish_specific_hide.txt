@@ -1135,3 +1135,5 @@ glokalna.pl###sgpb-popup-dialog-main-div-wrapper
 isbzdrowie.pl##.banner
 kliknijwzdrowie.pl##.banner
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
+jarmark.com.pl##.mMaterialRotator
+jarmark.com.pl###k3
