@@ -780,3 +780,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||regionalna.pl^*^firmy-wspolpracujace_
 ||regionalna.pl^*^inwazja_
 ^baner_$domain=regionalna.pl
+||tucholanin.pl^*^koronakorki_
+||tucholanin.pl^*^mbso_vision_
+-banner-$domain=tucholanin.pl
