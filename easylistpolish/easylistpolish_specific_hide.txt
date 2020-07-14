@@ -1129,3 +1129,4 @@ rdn.pl##.hred_cont_re
 rdn.pl##.hred_sport_re
 radio7.pl##div[class^="g-dyn a-"]
 infoludek.pl##.banneryflex
+infobrzeszcze.pl##.td-a-rec
