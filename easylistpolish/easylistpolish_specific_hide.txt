@@ -1159,4 +1159,5 @@ roztocze.net##.topLayer
 czadrow24.pl###secondary-right aside:nth-child(3)
 czadrow24.pl###main a[rel="noopener noreferrer"]
 kurierzamojski.pl##div[id^="nowyk-"]
-kurierrzeszowski.pl##a[href*="tr.netsalesmedia.pl"]
+kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl/"]
+kt24.pl##.bar-container
