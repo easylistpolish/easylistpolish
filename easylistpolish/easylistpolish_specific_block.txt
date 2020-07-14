@@ -789,3 +789,4 @@ _baner.$domain=ptvr.pl
 ^reklama-$domain=ptvr.pl
 ^baner_$domain=gazetacz.com.pl
 ^banners^$domain=czasostrzeszowski.pl
+^banery^$domain=asta24.pl
