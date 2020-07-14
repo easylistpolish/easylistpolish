@@ -788,3 +788,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 _baner.$domain=ptvr.pl
 ^reklama-$domain=ptvr.pl
 ^baner_$domain=gazetacz.com.pl
+^banners^$domain=czasostrzeszowski.pl
