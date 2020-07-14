@@ -783,3 +783,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tucholanin.pl^*^koronakorki_
 ||tucholanin.pl^*^mbso_vision_
 -banner-$domain=tucholanin.pl
+||ptvr.pl^*^elektronik_
+||ptvr.pl^*^rek_
+_baner.$domain=ptvr.pl
+^reklama-$domain=ptvr.pl
