@@ -791,3 +791,5 @@ _baner.$domain=ptvr.pl
 ^banners^$domain=czasostrzeszowski.pl
 ^banery^$domain=asta24.pl
 ^banery_foto^$domain=roztocze.net
+^banner-$domain=kurierzamojski.pl
+^baner_$domain=kurierzamojski.pl
