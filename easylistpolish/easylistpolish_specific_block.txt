@@ -765,3 +765,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||nolesnica.pl^*^0dee4-980_50.
 ^banner-$domain=morzaioceany.pl
 ^banners^$domain=motonews.pl
+^baner-$domain=powrotroberta.pl
+-baner-$domain=powrotroberta.pl
+||powrotroberta.pl^*^akumeo-
