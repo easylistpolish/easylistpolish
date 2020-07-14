@@ -1153,3 +1153,5 @@ ptvr.pl###wp-forecast-2 + #text-3
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl###custom_html-2 + .gazet-widget
+pulskwidzyna.pl##.banToper
+pulskwidzyna.pl##.sliderBox
