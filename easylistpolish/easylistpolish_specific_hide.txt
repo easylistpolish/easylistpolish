@@ -1141,3 +1141,4 @@ jakzrobicwexcelu.pl##img[alt$="reklama"]
 infokonin.pl##img[width="240"][height="80"]
 infokonin.pl##.bc_random_banner
 gwarminska.pl##img[srcset]
+klin-tv.pl##.widget_supermag_ad
