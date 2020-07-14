@@ -1155,3 +1155,4 @@ gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl###custom_html-2 + .gazet-widget
 pulskwidzyna.pl##.banToper
 pulskwidzyna.pl##.sliderBox
+roztocze.net##.topLayer
