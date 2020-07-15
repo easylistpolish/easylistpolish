@@ -807,3 +807,4 @@ _baner.$domain=ptvr.pl
 ^banery^$domain=lipsko24.pl
 ^banery_$domain=maritime.com.pl
 ^banery^$domain=maritime.com.pl
+^banery^$domain=kozienice24.pl
