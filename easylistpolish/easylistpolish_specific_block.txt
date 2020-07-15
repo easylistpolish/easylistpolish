@@ -819,4 +819,12 @@ _rabaty_najwyzsze01.$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dzi
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||gpi2.website.pl^$domain=glogow-info.pl|glogow.info.pl
 ||ki24.info/upload/grafiki^$image
+||kurier-kolski.pl^*^bb_bricomarche_
+||kurier-kolski.pl^*^oferty-
+||kurier-kolski.pl^*^galembabiuro.
+^baner_$domain=kurier-kolski.pl
+^banners^$domain=pnt24.info
+^banners^$domain=swiat-kamienia.pl
+-baner-$domain=obiektysakralne.pl
+_baner_$domain=obiektysakralne.pl
 -banner_$domain=oirplodz.pl

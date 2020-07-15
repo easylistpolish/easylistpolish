@@ -1183,3 +1183,8 @@ kozienice24.pl###fbbfo
 kozienice24.pl###adocr
 jazdaprawna.pl##.td-a-rec
 jazdaprawna.pl##.td_single_image_bg
+kurier-kolejowy.pl##.strefa_banerowa
+kurier-kolejowy.pl##.banner-top
+networkmagazyn.pl##.nmSectionBanner
+networkmagazyn.pl##.XadvTop
+obiektysakralne.pl###block-63
