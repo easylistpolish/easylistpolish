@@ -55,4 +55,5 @@
 @@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
+@@.adrotate.$domain=mh24.pl
 @@^reklama^$domain=prokopienko.pl
