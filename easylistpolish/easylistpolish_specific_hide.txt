@@ -1176,3 +1176,6 @@ mapa.targeo.pl###bblbrd_outer
 mapa.szukacz.pl###popupContainer
 linguajob.pl###flash_baner
 lokalna.news##.toplayer
+lsw24.pl##.widget-ad-image
+lsw24.pl##div > a[title="reklama"]
+lsw24.pl##div > a[title="reklama"] + a
