@@ -1187,3 +1187,5 @@ kurier-kolejowy.pl##.strefa_banerowa
 kurier-kolejowy.pl##.banner-top
 networkmagazyn.pl##.nmSectionBanner
 networkmagazyn.pl##.XadvTop
+elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
+elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
