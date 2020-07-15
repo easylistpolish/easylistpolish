@@ -833,3 +833,4 @@ _baner_$domain=obiektysakralne.pl
 ||niebiescy.pl^*^chimimeca_
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^stefanik_
+^banner^$domain=palukimogilno.pl
