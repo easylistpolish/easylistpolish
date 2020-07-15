@@ -799,3 +799,4 @@ _baner.$domain=ptvr.pl
 ||gazetatwojeinfo.pl^*^BU-MAAK.
 ||gazetatwojeinfo.pl^*^WEGA-GIF-
 ||gazetatwojeinfo.pl^*^WIS_-
+-reklama-$domain=golub-cgd.pl
