@@ -836,3 +836,4 @@ _baner_$domain=obiektysakralne.pl
 ||oto-samochody.pl^*^ban-
 ^baner-$domain=oto-samochody.pl
 ^banner^$domain=palukimogilno.pl
+||podhale-sport.pl^*^ban-
