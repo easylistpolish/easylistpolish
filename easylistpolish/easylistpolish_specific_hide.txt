@@ -1165,3 +1165,4 @@ makowonline.pl##div[data-adid]
 lakiernictwo.net##.banert
 lakiernictwo.net##.baner
 mapabts.pl##.bane
+magazif.com##p[data-banner]
