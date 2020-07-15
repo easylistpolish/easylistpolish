@@ -1187,3 +1187,4 @@ kurier-kolejowy.pl##.strefa_banerowa
 kurier-kolejowy.pl##.banner-top
 networkmagazyn.pl##.nmSectionBanner
 networkmagazyn.pl##.XadvTop
+obiektysakralne.pl###block-63
