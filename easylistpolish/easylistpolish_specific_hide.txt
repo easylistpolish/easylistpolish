@@ -1201,3 +1201,4 @@ wiadomosci.com###sidebar [id^="wiado-"]
 legitymizm.org###prawa_kolumna .ramka:last-child
 roland-gazeta.pl##.banneritem img[src$="green.webp"]
 gastrowiedza.pl##.view-reklama
+radiojura.pl##.sec-promo
