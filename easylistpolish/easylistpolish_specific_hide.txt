@@ -1173,3 +1173,4 @@ gloskatowic.pl,glosczestochowy.pl,glosrybnika.pl,dziennikopolski.pl,glosrzeszowa
 lowcaburzwielun.pl.tl###banner-right
 lowcaburzwielun.pl.tl###banner-top
 mapa.targeo.pl###bblbrd_outer
+mapa.szukacz.pl###popupContainer
