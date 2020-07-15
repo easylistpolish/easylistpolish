@@ -796,3 +796,6 @@ _baner.$domain=ptvr.pl
 ^banners^$domain=leonclub.pl
 ||pionki24.pl^*^zlomotex_
 ||pionki24.pl^*^budmax0218_
+||gazetatwojeinfo.pl^*^BU-MAAK.
+||gazetatwojeinfo.pl^*^WEGA-GIF-
+||gazetatwojeinfo.pl^*^WIS_-
