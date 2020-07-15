@@ -794,3 +794,5 @@ _baner.$domain=ptvr.pl
 ^banner-$domain=kurierzamojski.pl
 ^baner_$domain=kurierzamojski.pl
 ^banners^$domain=leonclub.pl
+||pionki24.pl^*^zlomotex_
+||pionki24.pl^*^budmax0218_
