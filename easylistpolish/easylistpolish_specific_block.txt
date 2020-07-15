@@ -805,3 +805,5 @@ _baner.$domain=ptvr.pl
 ||linktopoland.com^*^autoczescionline24-pl.
 ^banner_$domain=kurier-bielski.cnm.pl
 ^banery^$domain=lipsko24.pl
+^banery_$domain=maritime.com.pl
+^banery^$domain=maritime.com.pl
