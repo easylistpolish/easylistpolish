@@ -793,3 +793,4 @@ _baner.$domain=ptvr.pl
 ^banery_foto^$domain=roztocze.net
 ^banner-$domain=kurierzamojski.pl
 ^baner_$domain=kurierzamojski.pl
+^banners^$domain=leonclub.pl
