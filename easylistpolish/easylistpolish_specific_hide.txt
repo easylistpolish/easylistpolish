@@ -1205,3 +1205,4 @@ radiojura.pl##.sec-promo
 deblinnews.pl##[id^="metaslider-id-"]
 deblinnews.pl##[class^="aligncenter wp-image-"]
 deblinnews.pl##[class^="alignleft wp-image-"]
+naklo.fm##.baner
