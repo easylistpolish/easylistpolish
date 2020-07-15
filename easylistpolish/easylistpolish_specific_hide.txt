@@ -1166,3 +1166,4 @@ lakiernictwo.net##.banert
 lakiernictwo.net##.baner
 mapabts.pl##.bane
 magazif.com##p[data-banner]
+kramik.pl##.click-banner
