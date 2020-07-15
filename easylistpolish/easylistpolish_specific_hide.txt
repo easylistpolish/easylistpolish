@@ -1161,3 +1161,4 @@ czadrow24.pl###main a[rel="noopener noreferrer"]
 kurierzamojski.pl##div[id^="nowyk-"]
 kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl/"]
 kt24.pl##.bar-container
+makowonline.pl##div[data-adid]
