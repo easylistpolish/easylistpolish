@@ -833,4 +833,6 @@ _baner_$domain=obiektysakralne.pl
 ||niebiescy.pl^*^chimimeca_
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^stefanik_
+||oto-samochody.pl^*^ban-
+^baner-$domain=oto-samochody.pl
 ^banner^$domain=palukimogilno.pl
