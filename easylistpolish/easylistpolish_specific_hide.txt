@@ -1189,3 +1189,6 @@ networkmagazyn.pl##.nmSectionBanner
 networkmagazyn.pl##.XadvTop
 obiektysakralne.pl###block-63
 chemiabudowlana.info###fadeinbox
+podkarpacielive.pl##.bottom_banner
+podkarpacielive.pl##.advert
+podkarpacielive.pl##.header_banner
