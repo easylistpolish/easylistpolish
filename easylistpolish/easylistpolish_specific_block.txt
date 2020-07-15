@@ -804,3 +804,4 @@ _baner.$domain=ptvr.pl
 ||glostrojmiasta.pl^*^Ko%C5%82dra-
 ||linktopoland.com^*^autoczescionline24-pl.
 ^banner_$domain=kurier-bielski.cnm.pl
+^banery^$domain=lipsko24.pl
