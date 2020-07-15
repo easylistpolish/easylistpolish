@@ -1193,3 +1193,4 @@ podkarpacielive.pl##.bottom_banner
 podkarpacielive.pl##.advert
 podkarpacielive.pl##.header_banner
 rehalab.eu##.banner
+tvgorzow.pl##.testimonial_rotator_slide
