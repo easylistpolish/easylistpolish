@@ -1192,3 +1192,4 @@ chemiabudowlana.info###fadeinbox
 podkarpacielive.pl##.bottom_banner
 podkarpacielive.pl##.advert
 podkarpacielive.pl##.header_banner
+rehalab.eu##.banner
