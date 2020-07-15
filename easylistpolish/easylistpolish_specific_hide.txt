@@ -1179,3 +1179,5 @@ lokalna.news##.toplayer
 lsw24.pl##.widget-ad-image
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
+kozienice24.pl###fbbfo
+kozienice24.pl###adocr
