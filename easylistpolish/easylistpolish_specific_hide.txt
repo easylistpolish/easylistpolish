@@ -1167,3 +1167,4 @@ lakiernictwo.net##.baner
 mapabts.pl##.bane
 magazif.com##p[data-banner]
 kramik.pl##.click-banner
+lipno-cli.pl,linktopoland.com##a[href^="https://www.autodoc.pl/"]
