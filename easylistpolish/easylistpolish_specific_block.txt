@@ -808,3 +808,4 @@ _baner.$domain=ptvr.pl
 ^banery_$domain=maritime.com.pl
 ^banery^$domain=maritime.com.pl
 ^banery^$domain=kozienice24.pl
+||gazetawalbrzych.pl^*^Chleb-bezglutenowy.
