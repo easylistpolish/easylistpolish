@@ -1164,3 +1164,4 @@ kt24.pl##.bar-container
 makowonline.pl##div[data-adid]
 lakiernictwo.net##.banert
 lakiernictwo.net##.baner
+mapabts.pl##.bane
