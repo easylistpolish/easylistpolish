@@ -839,3 +839,4 @@ _baner_$domain=obiektysakralne.pl
 ||podhale-sport.pl^*^ban-
 ||trybunaczestochowska.pl^*^pansalata-
 ||trybunaczestochowska.pl^*^pasze.
+||tygodnikkrag.pl^*^ajk-serwis.
