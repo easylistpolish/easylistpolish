@@ -800,3 +800,4 @@ _baner.$domain=ptvr.pl
 ||gazetatwojeinfo.pl^*^WEGA-GIF-
 ||gazetatwojeinfo.pl^*^WIS_-
 -reklama-$domain=golub-cgd.pl
+^Oklejanie-$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dziennikopolski.pl|glosrzeszowa.pl|glostrojmiasta.pl|gazetawielkopolska.pl|glostorunia.pl|gloslodzi.pl|gloskrakowa.pl|dziennikwarszawy.pl|gazetawalbrzych.pl|gloswroclawia.pl
