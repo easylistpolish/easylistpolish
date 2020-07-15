@@ -823,3 +823,4 @@ _rabaty_najwyzsze01.$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dzi
 ||kurier-kolski.pl^*^oferty-
 ||kurier-kolski.pl^*^galembabiuro.
 ^baner_$domain=kurier-kolski.pl
+^banners^$domain=pnt24.info
