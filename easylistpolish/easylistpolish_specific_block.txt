@@ -829,3 +829,7 @@ _rabaty_najwyzsze01.$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dzi
 -baner-$domain=obiektysakralne.pl
 _baner_$domain=obiektysakralne.pl
 -banner_$domain=oirplodz.pl
+||niebiescy.pl^*^uks_szyby_
+||niebiescy.pl^*^chimimeca_
+||niebiescy.pl^*^iparts_
+||niebiescy.pl^*^stefanik_
