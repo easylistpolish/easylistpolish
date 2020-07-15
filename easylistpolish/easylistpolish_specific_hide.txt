@@ -1170,3 +1170,5 @@ kramik.pl##.click-banner
 lipno-cli.pl,linktopoland.com##a[href^="https://www.autodoc.pl/"]
 linktopoland.com,brodnica-cbr.pl##a[href*=".autoczescionline24.pl/"]
 gloskatowic.pl,glosczestochowy.pl,glosrybnika.pl,dziennikopolski.pl,glosrzeszowa.pl,glostrojmiasta.pl,gazetawielkopolska.pl,glostorunia.pl,gloslodzi.pl,gloskrakowa.pl,dziennikwarszawy.pl,gazetawalbrzych.pl,gloswroclawia.pl##a[href^="https://oh-my-wear.com/"]
+lowcaburzwielun.pl.tl###banner-right
+lowcaburzwielun.pl.tl###banner-top
