@@ -825,3 +825,5 @@ _rabaty_najwyzsze01.$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dzi
 ^baner_$domain=kurier-kolski.pl
 ^banners^$domain=pnt24.info
 ^banners^$domain=swiat-kamienia.pl
+-baner-$domain=obiektysakralne.pl
+_baner_$domain=obiektysakralne.pl
