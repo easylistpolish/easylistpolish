@@ -818,3 +818,4 @@ _rabaty_najwyzsze01.$domain=gloskatowic.pl|glosczestochowy.pl|glosrybnika.pl|dzi
 ^banners^$domain=glogow-info.pl|glogow.info.pl
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||gpi2.website.pl^$domain=glogow-info.pl|glogow.info.pl
+||ki24.info/upload/grafiki^$image
