@@ -1213,3 +1213,4 @@ zyciezamoscia.pl##.zycie-po-tresci
 sucha24.pl##.banneritem > a
 sucha24.pl##.rekl
 elubaczow.com##[class^="g-single a-"]
+e-kg.pl##a[href="https://www.facebook.com/bricomarchekolobrzeg"]
