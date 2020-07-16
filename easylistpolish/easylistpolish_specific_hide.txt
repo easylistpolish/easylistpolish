@@ -1206,3 +1206,5 @@ deblinnews.pl##[id^="metaslider-id-"]
 deblinnews.pl##[class^="aligncenter wp-image-"]
 deblinnews.pl##[class^="alignleft wp-image-"]
 naklo.fm##.baner
+elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
+elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
