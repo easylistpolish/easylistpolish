@@ -856,3 +856,5 @@ _baner_$domain=obiektysakralne.pl
 ^baner-$domain=szczecinek.com
 ^banery^$domain=ebarlinek.pl
 ||ebarlinek.pl^*^beznazwy-1.
+^banery^$domain=emysliborz.pl
+||ekstrastats.pl^*^ft_logo.
