@@ -852,3 +852,6 @@ _baner_$domain=obiektysakralne.pl
 ||xlomza.pl^*^fabryka_
 ||zyciezamoscia.pl^*^900x200.
 ||zyciezamoscia.pl^*^billboard-
+||szczecinek.com^*-hosso_
+||szczecinek.com^*-szkola2.
+^baner-$domain=szczecinek.com
