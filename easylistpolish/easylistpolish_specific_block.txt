@@ -844,3 +844,9 @@ _baner_$domain=obiektysakralne.pl
 ||wysokomazowiecki24.pl^*^pier202004.
 ||wysokomazowiecki24.pl^*^zakopiec2020.
 ^banery_foto^$domain=gle24.pl
+||xlomza.pl^*^unispaw.
+||xlomza.pl^*^wizytowka_kaledarz.
+||xlomza.pl^*^maj20.
+||xlomza.pl^*^gina.
+||xlomza.pl^*^fab.
+||xlomza.pl^*^fabryka_
