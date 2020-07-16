@@ -1210,3 +1210,5 @@ elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
 elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
 purepc.pl##.sidebar a[href^="/rediz.php?"]
 zyciezamoscia.pl##.zycie-po-tresci
+sucha24.pl##.banneritem > a
+sucha24.pl##.rekl
