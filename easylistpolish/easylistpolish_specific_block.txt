@@ -855,3 +855,5 @@ _baner_$domain=obiektysakralne.pl
 ||szczecinek.com^*-hosso_
 ||szczecinek.com^*-szkola2.
 ^baner-$domain=szczecinek.com
+^banery^$domain=ebarlinek.pl
+||ebarlinek.pl^*^beznazwy-1.
