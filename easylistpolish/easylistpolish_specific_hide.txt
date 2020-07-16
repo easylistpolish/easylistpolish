@@ -1187,5 +1187,24 @@ kurier-kolejowy.pl##.strefa_banerowa
 kurier-kolejowy.pl##.banner-top
 networkmagazyn.pl##.nmSectionBanner
 networkmagazyn.pl##.XadvTop
+obiektysakralne.pl###block-63
+chemiabudowlana.info###fadeinbox
+podkarpacielive.pl##.bottom_banner
+podkarpacielive.pl##.advert
+podkarpacielive.pl##.header_banner
+rehalab.eu##.banner
+tvgorzow.pl##.testimonial_rotator_slide
+bithub.pl##div[data-adid] > a[href^="https://"]
+bithub.pl##a[href*="utm_source=bithub.pl&utm_medium="]
+bithub.pl##a[href*="utm_source=bithub&utm_medium="]
+wiadomosci.com###sidebar [id^="wiado-"]
+legitymizm.org###prawa_kolumna .ramka:last-child
+roland-gazeta.pl##.banneritem img[src$="green.webp"]
+gastrowiedza.pl##.view-reklama
+radiojura.pl##.sec-promo
+deblinnews.pl##[id^="metaslider-id-"]
+deblinnews.pl##[class^="aligncenter wp-image-"]
+deblinnews.pl##[class^="alignleft wp-image-"]
+naklo.fm##.baner
 elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
 elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
