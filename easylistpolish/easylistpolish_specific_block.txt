@@ -850,3 +850,5 @@ _baner_$domain=obiektysakralne.pl
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^fab.
 ||xlomza.pl^*^fabryka_
+||zyciezamoscia.pl^*^900x200.
+||zyciezamoscia.pl^*^billboard-
