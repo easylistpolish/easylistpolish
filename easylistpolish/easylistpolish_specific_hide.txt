@@ -1212,3 +1212,4 @@ purepc.pl##.sidebar a[href^="/rediz.php?"]
 zyciezamoscia.pl##.zycie-po-tresci
 sucha24.pl##.banneritem > a
 sucha24.pl##.rekl
+elubaczow.com##[class^="g-single a-"]
