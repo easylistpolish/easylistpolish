@@ -656,5 +656,8 @@ _reklamy_$domain=chojna24.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
 ||xlomza.pl^*^unispaw.
-||xlomza.pl^*^gina.
 ||xlomza.pl^*^wizytowka_kaledarz.
+||xlomza.pl^*^maj20.
+||xlomza.pl^*^gina.
+||xlomza.pl^*^fab.
+||xlomza.pl^*^fabryka_
