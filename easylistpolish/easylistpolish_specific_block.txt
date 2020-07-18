@@ -209,7 +209,6 @@ _reklamy_$domain=chojna24.pl
 ||eku24.net^*^dolne/$image
 ||ele24.net^*^boksy^
 ||elektroda.pl^*^biall4.
-||elubaczow.com^*^kormed.
 ||eostroleka.pl^*^cache-
 ||ergokantor.pl/widgets^$domain=telewizjapolska24.pl
 ||esanok.pl/dodatki^
@@ -850,3 +849,19 @@ _baner_$domain=obiektysakralne.pl
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^fab.
 ||xlomza.pl^*^fabryka_
+||zyciezamoscia.pl^*^900x200.
+||zyciezamoscia.pl^*^billboard-
+||szczecinek.com^*-hosso_
+||szczecinek.com^*-szkola2.
+^baner-$domain=szczecinek.com
+^banery^$domain=ebarlinek.pl
+||ebarlinek.pl^*^beznazwy-1.
+^banery^$domain=emysliborz.pl
+||ekstrastats.pl^*^ft_logo.
+^reklama-$domain=moja24.pl
+^reklama-$domain=debica.tv
+^banner-$domain=420polska.pl
+-banner.$domain=wwl24.pl
+-banner-$domain=dlp-expert.pl
+^baner_$domain=wirtualnelegionowo.pl
+^baner-$domain=wirtualnelegionowo.pl
