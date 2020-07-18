@@ -860,3 +860,4 @@ _baner_$domain=obiektysakralne.pl
 ||ekstrastats.pl^*^ft_logo.
 ^reklama-$domain=moja24.pl
 ^reklama-$domain=debica.tv
+^banner-$domain=420polska.pl
