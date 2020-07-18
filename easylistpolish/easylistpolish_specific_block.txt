@@ -859,3 +859,4 @@ _baner_$domain=obiektysakralne.pl
 ^banery^$domain=emysliborz.pl
 ||ekstrastats.pl^*^ft_logo.
 ^reklama-$domain=moja24.pl
+^reklama-$domain=debica.tv
