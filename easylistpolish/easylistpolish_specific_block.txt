@@ -867,3 +867,4 @@ _baner_$domain=obiektysakralne.pl
 ^baner-$domain=wirtualnelegionowo.pl
 ||oknoserwis.pl^*^schuco_
 ||oknoserwis.pl^*^prez-met.
+||wiesci.com.pl^*^forma43.
