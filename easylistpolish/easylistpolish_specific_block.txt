@@ -862,3 +862,4 @@ _baner_$domain=obiektysakralne.pl
 ^reklama-$domain=debica.tv
 ^banner-$domain=420polska.pl
 -banner.$domain=wwl24.pl
+-banner-$domain=dlp-expert.pl
