@@ -868,3 +868,10 @@ _baner_$domain=obiektysakralne.pl
 ||oknoserwis.pl^*^schuco_
 ||oknoserwis.pl^*^prez-met.
 ||wiesci.com.pl^*^forma43.
+||sokolka.tv^*^osir.
+||sokolka.tv^*^warsztat-samochodowy.
+||sokolka.tv^*^szkolka_kolpak
+||sokolka.tv^*^sokole-oko.
+||sokolka.tv^*^u-iwony.
+||sokolka.tv^*^betonholding.
+-baner.$domain=sokolka.tv
