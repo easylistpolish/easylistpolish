@@ -1218,3 +1218,8 @@ echogorzowa.pl##.news_cont + [id^="ims_"] .ba a[href^="http"]
 echogorzowa.pl##div[onclick*="'BANERY'"]
 dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 gazetalubliniecka.pl##a[href$="&utm_medium=banner&utm_campaign="]
+kalisz24.info.pl##.reklama-top
+kalisz24.info.pl##div[class^="g-single a-"]
+420polska.pl##.td-a-rec
+linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
+linia.com.pl###travel2
