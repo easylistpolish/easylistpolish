@@ -865,3 +865,5 @@ _baner_$domain=obiektysakralne.pl
 -banner-$domain=dlp-expert.pl
 ^baner_$domain=wirtualnelegionowo.pl
 ^baner-$domain=wirtualnelegionowo.pl
+||oknoserwis.pl^*^schuco_
+||oknoserwis.pl^*^prez-met.
