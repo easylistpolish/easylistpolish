@@ -1223,3 +1223,4 @@ kalisz24.info.pl##div[class^="g-single a-"]
 420polska.pl##.td-a-rec
 linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 linia.com.pl###travel2
+wirtualnelegionowo.pl###szeroka-reklama
