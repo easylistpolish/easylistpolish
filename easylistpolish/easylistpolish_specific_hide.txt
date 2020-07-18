@@ -1224,3 +1224,4 @@ kalisz24.info.pl##div[class^="g-single a-"]
 linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 linia.com.pl###travel2
 wirtualnelegionowo.pl###szeroka-reklama
+portalpszczelarski.pl###AdBig
