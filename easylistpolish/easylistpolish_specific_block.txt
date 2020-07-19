@@ -897,3 +897,4 @@ _baner_$domain=obiektysakralne.pl
 ||starosadeckie.info^*rolbud-
 ||starosadeckie.info^*szewczyk-
 ||starosadeckie.info^*^myjnia.
+^banery_foto^$domain=rzeczkrotoszynska.pl
