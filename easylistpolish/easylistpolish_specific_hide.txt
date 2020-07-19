@@ -1235,3 +1235,4 @@ wirtualnynowydwor.pl###szeroka-reklama
 gazetanowodworska.com##.mainSlider
 mgsm.pl##div[id^="AdArea"]
 mgsm.pl##.karta-widget-prices
+newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
