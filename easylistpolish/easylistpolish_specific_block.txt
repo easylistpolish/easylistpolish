@@ -887,3 +887,4 @@ _baner_$domain=obiektysakralne.pl
 ||wirtualnynowydwor.pl^*^plakat-zsz-
 ^baner_$domain=wirtualnynowydwor.pl
 ^baner-$domain=wirtualnynowydwor.pl
+^baner-$domain=wirtualnemazowsze24.pl
