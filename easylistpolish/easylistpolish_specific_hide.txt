@@ -1226,3 +1226,5 @@ linia.com.pl###travel2
 wirtualnelegionowo.pl###szeroka-reklama
 portalpszczelarski.pl###AdBig
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
+zory24.pl##.advertbutton
+zory24.pl##.twocol_right > #logosy
