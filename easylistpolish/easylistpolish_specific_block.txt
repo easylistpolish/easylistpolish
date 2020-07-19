@@ -879,3 +879,7 @@ _baner_$domain=obiektysakralne.pl
 -reklama.$domain=tu.swinoujscie.pl
 -reklamy-$domain=tu.swinoujscie.pl
 ||tu.swinoujscie.pl^*^trotter.
+||sochaczewianin.pl^*^fast-serice-na-
+^baner-$domain=sochaczewianin.pl
+-reklama.$domain=sochaczewianin.pl
+-baner-$domain=sochaczewianin.pl

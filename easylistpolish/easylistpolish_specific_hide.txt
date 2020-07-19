@@ -1230,3 +1230,4 @@ zory24.pl##.advertbutton
 zory24.pl##.twocol_right > #logosy
 plastikowe.pl###sponsors
 scie24.pl##.baner a[href^="/counter/"]
+sochaczewianin.pl##.td_block_wrap .td-a-rec
