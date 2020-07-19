@@ -1217,3 +1217,19 @@ e-kg.pl##a[href="https://www.facebook.com/bricomarchekolobrzeg"]
 echogorzowa.pl##.news_cont + [id^="ims_"] .ba a[href^="http"]
 echogorzowa.pl##div[onclick*="'BANERY'"]
 dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
+gazetalubliniecka.pl##a[href$="&utm_medium=banner&utm_campaign="]
+kalisz24.info.pl##.reklama-top
+kalisz24.info.pl##div[class^="g-single a-"]
+420polska.pl##.td-a-rec
+linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
+linia.com.pl###travel2
+wirtualnelegionowo.pl###szeroka-reklama
+portalpszczelarski.pl###AdBig
+wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
+zory24.pl##.advertbutton
+zory24.pl##.twocol_right > #logosy
+plastikowe.pl###sponsors
+scie24.pl##.baner a[href^="/counter/"]
+sochaczewianin.pl##.td_block_wrap .td-a-rec
+wirtualnynowydwor.pl###szeroka-reklama
+gazetanowodworska.com##.mainSlider
