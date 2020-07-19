@@ -1239,3 +1239,4 @@ newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
 starosadeckie.info##.front-top
 starosadeckie.info##.front-medium
 grudziadz365.pl,rzeczkrotoszynska.pl##.topLayer
+dzisiajwgliwicach.pl##.g div[class^="g-dyn a-"]

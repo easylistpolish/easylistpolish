@@ -898,3 +898,4 @@ _baner_$domain=obiektysakralne.pl
 ||starosadeckie.info^*szewczyk-
 ||starosadeckie.info^*^myjnia.
 ^banery_foto^$domain=rzeczkrotoszynska.pl
+_banner_$domain=dzisiajwgliwicach.pl
