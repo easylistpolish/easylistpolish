@@ -890,3 +890,10 @@ _baner_$domain=obiektysakralne.pl
 ^baner-$domain=wirtualnemazowsze24.pl
 ^banery_foto^$domain=gwe24.pl
 ^banners^$domain=opoczno.info
+^reklama-$domain=starosadeckie.info
+^baner-$domain=starosadeckie.info
+-reklama-$domain=starosadeckie.info
+||starosadeckie.info^*rolbud.
+||starosadeckie.info^*rolbud-
+||starosadeckie.info^*szewczyk-
+||starosadeckie.info^*^myjnia.
