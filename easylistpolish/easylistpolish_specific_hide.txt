@@ -1183,4 +1183,61 @@ kozienice24.pl###fbbfo
 kozienice24.pl###adocr
 jazdaprawna.pl##.td-a-rec
 jazdaprawna.pl##.td_single_image_bg
+kurier-kolejowy.pl##.strefa_banerowa
+kurier-kolejowy.pl##.banner-top
+networkmagazyn.pl##.nmSectionBanner
+networkmagazyn.pl##.XadvTop
+obiektysakralne.pl###block-63
+chemiabudowlana.info###fadeinbox
+podkarpacielive.pl##.bottom_banner
+podkarpacielive.pl##.advert
+podkarpacielive.pl##.header_banner
+rehalab.eu##.banner
+tvgorzow.pl##.testimonial_rotator_slide
+bithub.pl##div[data-adid] > a[href^="https://"]
+bithub.pl##a[href*="utm_source=bithub.pl&utm_medium="]
+bithub.pl##a[href*="utm_source=bithub&utm_medium="]
+wiadomosci.com###sidebar [id^="wiado-"]
+legitymizm.org###prawa_kolumna .ramka:last-child
+roland-gazeta.pl##.banneritem img[src$="green.webp"]
+gastrowiedza.pl##.view-reklama
+radiojura.pl##.sec-promo
+deblinnews.pl##[id^="metaslider-id-"]
+deblinnews.pl##[class^="aligncenter wp-image-"]
+deblinnews.pl##[class^="alignleft wp-image-"]
+naklo.fm##.baner
+elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
+elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
+purepc.pl##.sidebar a[href^="/rediz.php?"]
+zyciezamoscia.pl##.zycie-po-tresci
+sucha24.pl##.banneritem > a
+sucha24.pl##.rekl
+elubaczow.com##[class^="g-single a-"]
+e-kg.pl##a[href="https://www.facebook.com/bricomarchekolobrzeg"]
+echogorzowa.pl##.news_cont + [id^="ims_"] .ba a[href^="http"]
+echogorzowa.pl##div[onclick*="'BANERY'"]
+dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
+gazetalubliniecka.pl##a[href$="&utm_medium=banner&utm_campaign="]
+kalisz24.info.pl##.reklama-top
+kalisz24.info.pl##div[class^="g-single a-"]
+420polska.pl##.td-a-rec
+linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
+linia.com.pl###travel2
+wirtualnelegionowo.pl###szeroka-reklama
+portalpszczelarski.pl###AdBig
+wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
+zory24.pl##.advertbutton
+zory24.pl##.twocol_right > #logosy
+plastikowe.pl###sponsors
+scie24.pl##.baner a[href^="/counter/"]
+sochaczewianin.pl##.td_block_wrap .td-a-rec
+wirtualnynowydwor.pl###szeroka-reklama
+gazetanowodworska.com##.mainSlider
+mgsm.pl##div[id^="AdArea"]
+mgsm.pl##.karta-widget-prices
+newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
+starosadeckie.info##.front-top
+starosadeckie.info##.front-medium
+grudziadz365.pl,rzeczkrotoszynska.pl##.topLayer
+dzisiajwgliwicach.pl##.g div[class^="g-dyn a-"]
 ehumor.pl##.reklamyskapiec
