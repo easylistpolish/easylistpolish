@@ -888,3 +888,4 @@ _baner_$domain=obiektysakralne.pl
 ^baner_$domain=wirtualnynowydwor.pl
 ^baner-$domain=wirtualnynowydwor.pl
 ^baner-$domain=wirtualnemazowsze24.pl
+^banery_foto^$domain=gwe24.pl
