@@ -884,3 +884,6 @@ _baner_$domain=obiektysakralne.pl
 -reklama.$domain=sochaczewianin.pl
 -baner-$domain=sochaczewianin.pl
 ^banery_foto^$domain=tusochaczew.pl
+||wirtualnynowydwor.pl^*^plakat-zsz-
+^baner_$domain=wirtualnynowydwor.pl
+^baner-$domain=wirtualnynowydwor.pl
