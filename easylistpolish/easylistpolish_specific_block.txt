@@ -875,3 +875,7 @@ _baner_$domain=obiektysakralne.pl
 ||sokolka.tv^*^u-iwony.
 ||sokolka.tv^*^betonholding.
 -baner.$domain=sokolka.tv
+||tu.swinoujscie.pl^*-banner1.
+-reklama.$domain=tu.swinoujscie.pl
+-reklamy-$domain=tu.swinoujscie.pl
+||tu.swinoujscie.pl^*^trotter.
