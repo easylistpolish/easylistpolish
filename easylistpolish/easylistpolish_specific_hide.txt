@@ -1233,3 +1233,5 @@ scie24.pl##.baner a[href^="/counter/"]
 sochaczewianin.pl##.td_block_wrap .td-a-rec
 wirtualnynowydwor.pl###szeroka-reklama
 gazetanowodworska.com##.mainSlider
+mgsm.pl##div[id^="AdArea"]
+mgsm.pl##.karta-widget-prices
