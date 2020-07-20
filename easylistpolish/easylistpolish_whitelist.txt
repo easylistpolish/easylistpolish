@@ -8,7 +8,7 @@
 @@^broszurabaner2.$domain=tygodnikpodhalanski.pl
 @@^pozegnania300x90.$domain=tygodnikpodhalanski.pl
 @@^reklama.$domain=tygodnikprudnicki.pl
-@@^reklamy^$domain=selgros24.pl
+@@^reklamy^$domain=selgros24.pl|csbydgoszcz.pl
 @@_300x600.$domain=eurobuildcee.com|polishexpress.co.uk
 @@||daminfo.pl^*^fb.png
 @@||egarwolin.pl^*^inline__1_576.
@@ -55,4 +55,5 @@
 @@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
+@@.adrotate.$domain=mh24.pl
 @@^reklama^$domain=prokopienko.pl
