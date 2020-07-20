@@ -1245,3 +1245,5 @@ gazetakartuska.pl##.userad
 lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
 lpg-forum.pl##.rek_kontener
 leczna24.pl##a > img[src^="b/"][class="img-responsive"]
+magazyn.elubin.pl##.gofollow[data-track]
+elubin.pl##a[href^="https://www.vichy.pl/"]
