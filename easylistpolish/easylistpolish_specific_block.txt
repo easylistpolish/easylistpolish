@@ -900,3 +900,4 @@ _baner_$domain=obiektysakralne.pl
 ^banery_foto^$domain=rzeczkrotoszynska.pl
 _banner_$domain=dzisiajwgliwicach.pl
 ^rek^$domain=lpg-forum.pl
+||golub-cgd.pl^$image,domain=rypin-cry.pl
