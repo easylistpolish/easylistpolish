@@ -901,3 +901,6 @@ _baner_$domain=obiektysakralne.pl
 _banner_$domain=dzisiajwgliwicach.pl
 ^rek^$domain=lpg-forum.pl
 ||golub-cgd.pl^$image,domain=rypin-cry.pl
+^banners^$domain=przeclaw24.pl
+-baner.$domain=przeclaw24.pl
+||przeclaw24.pl^*^pediatra.
