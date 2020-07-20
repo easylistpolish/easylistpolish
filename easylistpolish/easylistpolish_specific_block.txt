@@ -899,3 +899,4 @@ _baner_$domain=obiektysakralne.pl
 ||starosadeckie.info^*^myjnia.
 ^banery_foto^$domain=rzeczkrotoszynska.pl
 _banner_$domain=dzisiajwgliwicach.pl
+^rek^$domain=lpg-forum.pl
