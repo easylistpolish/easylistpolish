@@ -1242,3 +1242,5 @@ grudziadz365.pl,rzeczkrotoszynska.pl##.topLayer
 dzisiajwgliwicach.pl##.g div[class^="g-dyn a-"]
 ehumor.pl##.reklamyskapiec
 gazetakartuska.pl##.userad
+lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
+lpg-forum.pl##.rek_kontener
