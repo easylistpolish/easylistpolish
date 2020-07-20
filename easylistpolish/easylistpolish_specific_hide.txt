@@ -1255,3 +1255,5 @@ telewizja.lukow.pl###frontpage-area_b_2
 walbrzyszek.com##.top5 a[href^="/zlicz/"]
 walbrzyszek.com##a[href="http://www.czesciauto24.pl/"]
 walbrzyszek.com##a[href="https://www.autoczescionline24.pl/"]
+radiowrzesnia.pl##.td-a-rec
+radiowrzesnia.pl##div[class^="g-dyn a-"]
