@@ -1248,3 +1248,4 @@ leczna24.pl##a > img[src^="b/"][class="img-responsive"]
 magazyn.elubin.pl##.gofollow[data-track]
 elubin.pl##a[href^="https://www.vichy.pl/"]
 przeclaw24.pl###sbox-window
+plonskwsieci.pl##.topLayer

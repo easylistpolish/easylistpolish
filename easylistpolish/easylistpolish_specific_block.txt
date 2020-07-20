@@ -904,3 +904,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=przeclaw24.pl
 -baner.$domain=przeclaw24.pl
 ||przeclaw24.pl^*^pediatra.
+||plonskwsieci.pl^upload^malypuz.
+||plonskwsieci.pl^upload^piekarczykmaly.
