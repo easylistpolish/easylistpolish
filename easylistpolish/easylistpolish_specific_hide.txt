@@ -1249,3 +1249,6 @@ magazyn.elubin.pl##.gofollow[data-track]
 elubin.pl##a[href^="https://www.vichy.pl/"]
 przeclaw24.pl###sbox-window
 plonskwsieci.pl##.topLayer
+telewizja.lukow.pl##[id^="frontpage-area_g_"]
+telewizja.lukow.pl###frontpage-area_a_3
+telewizja.lukow.pl###frontpage-area_b_2
