@@ -1258,3 +1258,5 @@ walbrzyszek.com##a[href="https://www.autoczescionline24.pl/"]
 radiowrzesnia.pl##.td-a-rec
 radiowrzesnia.pl##div[class^="g-dyn a-"]
 medexpress.pl##.adver_box
+nbi.com.pl###fancybox-overlay
+nbi.com.pl##.fancybox-wrap
