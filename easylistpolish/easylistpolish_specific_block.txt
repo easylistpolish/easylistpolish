@@ -655,4 +655,5 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
-||tyna.info.pl^*^budowlanka-
+||tyna.info.pl^*^puz-online
+||tyna.info.pl^*^nowy-sandomierz-net-
