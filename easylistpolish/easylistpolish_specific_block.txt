@@ -654,4 +654,5 @@ _reklamy_$domain=chojna24.pl
 ^canvas^$image,domain=naszrybnik.com|naszwodzislaw.com
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
-||dz-ow.pl^*^narty.
+||zulawytv.pl^*^wulkanizacja_serwis_
+^AAAreklamy^$domain=zulawytv.pl
