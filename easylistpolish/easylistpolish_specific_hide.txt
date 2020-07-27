@@ -1260,3 +1260,4 @@ radiowrzesnia.pl##div[class^="g-dyn a-"]
 medexpress.pl##.adver_box
 tyna.info.pl##.top-bar-content a
 plock.fm##div[class^="g-single a-"]
+piszanin.pl##.fancybox-overlay
