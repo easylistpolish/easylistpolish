@@ -908,3 +908,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||plonskwsieci.pl^upload^piekarczykmaly.
 ||tyna.info.pl^*^puz-online700.
 ||tyna.info.pl^*^nowy-sandomierz-net-
+-banner.$domain=postawnaswoim.pl
