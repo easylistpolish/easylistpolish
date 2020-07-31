@@ -1258,4 +1258,6 @@ walbrzyszek.com##a[href="https://www.autoczescionline24.pl/"]
 radiowrzesnia.pl##.td-a-rec
 radiowrzesnia.pl##div[class^="g-dyn a-"]
 medexpress.pl##.adver_box
+tyna.info.pl##.top-bar-content a
+plock.fm##div[class^="g-single a-"]
 abczdrowie.pl##div[class^="m-t-1 m-b-1"]

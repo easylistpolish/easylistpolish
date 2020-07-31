@@ -906,3 +906,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||przeclaw24.pl^*^pediatra.
 ||plonskwsieci.pl^upload^malypuz.
 ||plonskwsieci.pl^upload^piekarczykmaly.
+||tyna.info.pl^*^puz-online700.
+||tyna.info.pl^*^nowy-sandomierz-net-
