@@ -914,3 +914,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||mojewronki.pl^*^plakat-rekrutacja-
 ^baneryJPG^$domain=pomorskifutbol.pl
 ^bannery^$domain=pomorskifutbol.pl
+||ibb.co^$image,domain=pogonsportnet.pl
