@@ -1261,3 +1261,4 @@ medexpress.pl##.adver_box
 tyna.info.pl##.top-bar-content a
 plock.fm##div[class^="g-single a-"]
 abczdrowie.pl##div[class^="m-t-1 m-b-1"]
+wirtualnemedia.pl##.spolecznoscinet
