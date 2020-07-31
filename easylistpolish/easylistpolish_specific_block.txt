@@ -910,3 +910,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||tyna.info.pl^*^nowy-sandomierz-net-
 ||ceneo.pl^*^banners^$domain=ppw.fishing
 ^banery^$domain=ppw.fishing
+-reklama.$domain=mojewronki.pl
+||mojewronki.pl^*^plakat-rekrutacja-
