@@ -1266,3 +1266,4 @@ futbolnews.pl##.box-banner
 mojewronki.pl##a[rel^="sponsored"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
 legionisci.com##div[class^="adslot_"]
+stomil.olsztyn.pl##.ad
