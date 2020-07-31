@@ -1268,3 +1268,5 @@ pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
 legionisci.com##div[class^="adslot_"]
 openlinksys.info##a[href^="http://sieciovo.pl/"] > img
 pik.kielce.pl##.banner_reklama_el
+pozytywniej.pl##.advert
+pozytywniej.pl###advertWrap
