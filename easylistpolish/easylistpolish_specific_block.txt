@@ -916,3 +916,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=pomorskifutbol.pl
 ||ibb.co^$image,domain=pogonsportnet.pl
 ^pasek_reklam^$domain=proszkow.eu
+||naszsrem.pl^*^psb_mrowka_
