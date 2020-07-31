@@ -912,3 +912,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery^$domain=ppw.fishing
 -reklama.$domain=mojewronki.pl
 ||mojewronki.pl^*^plakat-rekrutacja-
+^baneryJPG^$domain=pomorskifutbol.pl
+^bannery^$domain=pomorskifutbol.pl

@@ -1264,3 +1264,4 @@ abczdrowie.pl##div[class^="m-t-1 m-b-1"]
 wirtualnemedia.pl##.spolecznoscinet
 futbolnews.pl##.box-banner
 mojewronki.pl##a[rel^="sponsored"]
+pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
