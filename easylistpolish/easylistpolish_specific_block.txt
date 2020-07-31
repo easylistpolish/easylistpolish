@@ -915,3 +915,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^baneryJPG^$domain=pomorskifutbol.pl
 ^bannery^$domain=pomorskifutbol.pl
 ||ibb.co^$image,domain=pogonsportnet.pl
+^pasek_reklam^$domain=proszkow.eu
