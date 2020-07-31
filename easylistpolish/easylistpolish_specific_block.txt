@@ -918,3 +918,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^pasek_reklam^$domain=proszkow.eu
 ||naszsrem.pl^*^psb_mrowka_
 ^banery^$domain=mojaleczyca.pl
+^banery^$domain=miedzyrzec.info
