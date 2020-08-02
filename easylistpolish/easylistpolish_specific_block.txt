@@ -919,3 +919,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||naszsrem.pl^*^psb_mrowka_
 ^banery^$domain=mojaleczyca.pl
 ^banery^$domain=miedzyrzec.info
+^banery^$domain=cieszyninfo.pl
