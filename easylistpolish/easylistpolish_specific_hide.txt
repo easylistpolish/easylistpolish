@@ -1271,3 +1271,4 @@ pik.kielce.pl##.banner_reklama_el
 pozytywniej.pl##.advert
 pozytywniej.pl###advertWrap
 nowyoutsourcing.pl##div[id^="g1-ad-"]
+warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
