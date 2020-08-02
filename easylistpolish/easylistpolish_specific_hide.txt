@@ -1260,5 +1260,15 @@ radiowrzesnia.pl##div[class^="g-dyn a-"]
 medexpress.pl##.adver_box
 tyna.info.pl##.top-bar-content a
 plock.fm##div[class^="g-single a-"]
-warzywapolowe.pl##.td-a-rec
+abczdrowie.pl##div[class^="m-t-1 m-b-1"]
+wirtualnemedia.pl##.spolecznoscinet
+futbolnews.pl##.box-banner
+mojewronki.pl##a[rel^="sponsored"]
+pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
+legionisci.com##div[class^="adslot_"]
+openlinksys.info##a[href^="http://sieciovo.pl/"] > img
+pik.kielce.pl##.banner_reklama_el
+pozytywniej.pl##.advert
+pozytywniej.pl###advertWrap
+nowyoutsourcing.pl##div[id^="g1-ad-"]
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
