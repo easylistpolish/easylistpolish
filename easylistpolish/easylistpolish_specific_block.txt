@@ -920,3 +920,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery^$domain=mojaleczyca.pl
 ^banery^$domain=miedzyrzec.info
 ^banery^$domain=cieszyninfo.pl
+^banners^$domain=kierowcyhgv.uk
+||sterta.pl^$image,domain=olsztyn.com.pl
