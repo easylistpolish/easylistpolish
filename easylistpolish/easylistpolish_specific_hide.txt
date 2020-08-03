@@ -1285,3 +1285,4 @@ okazjepodroznika.pl##.header__banner
 petronews.pl##div[class^="gloto-single aloto-"]
 operatorzy.pl##.slogan-wrapper
 operatorzy.pl##.banner
+cowkrakowie.pl##aside[id^="metaslider_widget-"]
