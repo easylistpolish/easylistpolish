@@ -930,3 +930,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=nbi.com.pl
 ||ceneo.pl^$image,domain=nowinylokalne.pl
 -banner.$domain=postawnaswoim.pl
+||zulawytv.pl^*^wulkanizacja_serwis_
+^AAAreklamy^$domain=zulawytv.pl
