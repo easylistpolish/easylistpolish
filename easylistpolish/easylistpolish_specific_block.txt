@@ -906,4 +906,3 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||przeclaw24.pl^*^pediatra.
 ||plonskwsieci.pl^upload^malypuz.
 ||plonskwsieci.pl^upload^piekarczykmaly.
-^wyd^$domain=nml.pl
