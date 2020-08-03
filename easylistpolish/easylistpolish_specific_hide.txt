@@ -1282,3 +1282,4 @@ ostrowiec-sw.pl##div[id^="re_"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 okazjepodroznika.pl##.penci-banner-box
 okazjepodroznika.pl##.header__banner
+petronews.pl##div[class^="gloto-single aloto-"]
