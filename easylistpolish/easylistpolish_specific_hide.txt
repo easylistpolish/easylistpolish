@@ -1283,3 +1283,5 @@ okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 okazjepodroznika.pl##.penci-banner-box
 okazjepodroznika.pl##.header__banner
 petronews.pl##div[class^="gloto-single aloto-"]
+operatorzy.pl##.slogan-wrapper
+operatorzy.pl##.banner
