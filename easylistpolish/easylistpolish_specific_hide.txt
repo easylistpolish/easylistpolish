@@ -1274,3 +1274,4 @@ nowyoutsourcing.pl##div[id^="g1-ad-"]
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
 namasce.pl##a[href^="http://iparts.pl"]
 life4style.pl##.ai-rotate
+naszagazeta.info##.banneritem
