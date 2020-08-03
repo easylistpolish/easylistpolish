@@ -1276,3 +1276,4 @@ namasce.pl##a[href^="http://iparts.pl"]
 life4style.pl##.ai-rotate
 naszagazeta.info##.banneritem
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
+nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
