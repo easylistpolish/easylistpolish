@@ -928,3 +928,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^baner_$domain=bloog.pl
 ^banner^$domain=miastociechocinek.com
 ^bannery^$domain=nbi.com.pl
+||ceneo.pl^$image,domain=nowinylokalne.pl
