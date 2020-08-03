@@ -1279,3 +1279,6 @@ polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
 musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 ostrowiec-sw.pl##div[id^="re_"]
+okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
+okazjepodroznika.pl##.penci-banner-box
+okazjepodroznika.pl##.header__banner
