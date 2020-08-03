@@ -926,3 +926,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^img_bannery^$domain=piszanin.pl
 ||kcynia.info^*^rolnik-serwis2.
 ^baner_$domain=bloog.pl
+^banner^$domain=miastociechocinek.com
