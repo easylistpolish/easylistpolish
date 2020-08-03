@@ -923,3 +923,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=kierowcyhgv.uk
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||nakolei.pl^*^logo-750_100.
+^img_bannery^$domain=piszanin.pl
