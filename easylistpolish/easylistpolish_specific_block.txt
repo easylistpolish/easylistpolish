@@ -924,3 +924,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||nakolei.pl^*^logo-750_100.
 ^img_bannery^$domain=piszanin.pl
+||kcynia.info^*^rolnik-serwis2.
