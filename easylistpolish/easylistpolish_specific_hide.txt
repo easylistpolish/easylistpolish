@@ -1288,3 +1288,4 @@ operatorzy.pl##.banner
 cowkrakowie.pl##aside[id^="metaslider_widget-"]
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 kolobrzeginfo.pl##div[class^="g-dyn a-"]
+portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
