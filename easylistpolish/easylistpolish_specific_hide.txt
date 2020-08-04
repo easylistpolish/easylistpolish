@@ -1301,3 +1301,4 @@ oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 oknonawagrowiec.pl##.penci-google-adsense
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
 poprostupycha.com.pl###reklama-wlasna
+starachowicka.pl##div[class^="g-dyn a-"]
