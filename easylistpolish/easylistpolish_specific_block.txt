@@ -662,7 +662,6 @@ _reklamy_$domain=chojna24.pl
 ^show-baners.php?$script,domain=24gliwice.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ||dz-ow.pl^*^narty.
-
 ||nowytydzien.pl^*^baner-330x200.
 ^banner_$domain=zielonanews.pl
 -baner.$domain=zielonanews.pl
@@ -935,3 +934,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^AAAreklamy^$domain=zulawytv.pl
 ^inline__1_$domain=ciechanowinaczej.pl
 ^baner_$domain=swidnik.pl
+-banner-$domain=motocykle125.pl
+||motocykle125.pl^*^junak^$subdocument
