@@ -937,3 +937,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 -banner-$domain=motocykle125.pl
 ||motocykle125.pl^*^junak^$subdocument
 ||spacead.pl$image,domain=naszciechanow.pl
+||rankomat.pl$domain=tuhiszpania.pl
+||getyourguide.com$domain=tuhiszpania.pl
