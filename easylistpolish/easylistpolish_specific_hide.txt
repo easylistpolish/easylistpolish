@@ -1286,3 +1286,4 @@ petronews.pl##div[class^="gloto-single aloto-"]
 operatorzy.pl##.slogan-wrapper
 operatorzy.pl##.banner
 cowkrakowie.pl##aside[id^="metaslider_widget-"]
+ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]

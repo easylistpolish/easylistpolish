@@ -932,3 +932,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 -banner.$domain=postawnaswoim.pl
 ||zulawytv.pl^*^wulkanizacja_serwis_
 ^AAAreklamy^$domain=zulawytv.pl
+^inline__1_$domain=ciechanowinaczej.pl
