@@ -1004,4 +1004,4 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
-ciechanowinaczej.pl##.l-row img[src*="inline__1_"]
+ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl/ "]
