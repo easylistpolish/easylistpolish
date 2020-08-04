@@ -1291,3 +1291,4 @@ kolobrzeginfo.pl##div[class^="g-dyn a-"]
 portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
 tko.pl##a[onclick*="'Adverts'"]
 meblarskapolska.pl##.navbar-ad-section
+kurierprzasnyski.pl##div[aria-label="Slajder"]
