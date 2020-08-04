@@ -1290,3 +1290,4 @@ ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 kolobrzeginfo.pl##div[class^="g-dyn a-"]
 portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
 tko.pl##a[onclick*="'Adverts'"]
+meblarskapolska.pl##.navbar-ad-section
