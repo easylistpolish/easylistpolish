@@ -1296,3 +1296,4 @@ motocykle125.pl###gp-footer-area
 naszciechanow.pl##div[class^="spacead-"]
 naszciechanow.pl##div[class^="efactory-ad-"]
 tuhiszpania.pl###b_searchboxInc
+olesnicainfo.pl##.advert-block-big
