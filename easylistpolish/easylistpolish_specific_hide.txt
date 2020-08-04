@@ -1277,5 +1277,21 @@ life4style.pl##.ai-rotate
 naszagazeta.info##.banneritem
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
+musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
+ostrowiec-sw.pl##div[id^="re_"]
+okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
+okazjepodroznika.pl##.penci-banner-box
+okazjepodroznika.pl##.header__banner
+petronews.pl##div[class^="gloto-single aloto-"]
+operatorzy.pl##.slogan-wrapper
+operatorzy.pl##.banner
+cowkrakowie.pl##aside[id^="metaslider_widget-"]
+ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
+kolobrzeginfo.pl##div[class^="g-dyn a-"]
+portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
+tko.pl##a[onclick*="'Adverts'"]
+meblarskapolska.pl##.navbar-ad-section
+kurierprzasnyski.pl##div[aria-label="Slajder"]
+motocykle125.pl###gp-footer-area
 naszciechanow.pl##div[class^="spacead-"]
 naszciechanow.pl##div[class^="efactory-ad-"]

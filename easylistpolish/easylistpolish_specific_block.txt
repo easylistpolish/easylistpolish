@@ -923,4 +923,17 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=kierowcyhgv.uk
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||nakolei.pl^*^logo-750_100.
+^img_bannery^$domain=piszanin.pl
+||kcynia.info^*^rolnik-serwis2.
+^baner_$domain=bloog.pl
+^banner^$domain=miastociechocinek.com
+^bannery^$domain=nbi.com.pl
+||ceneo.pl^$image,domain=nowinylokalne.pl
+-banner.$domain=postawnaswoim.pl
+||zulawytv.pl^*^wulkanizacja_serwis_
+^AAAreklamy^$domain=zulawytv.pl
+^inline__1_$domain=ciechanowinaczej.pl
+^baner_$domain=swidnik.pl
+-banner-$domain=motocykle125.pl
+||motocykle125.pl^*^junak^$subdocument
 ||spacead.pl$image,domain=naszciechanow.pl
