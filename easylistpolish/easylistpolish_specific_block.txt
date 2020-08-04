@@ -939,3 +939,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||spacead.pl$image,domain=naszciechanow.pl
 ||rankomat.pl$domain=tuhiszpania.pl
 ||getyourguide.com$domain=tuhiszpania.pl
+||fireads.org^$domain=online-tv.pl
