@@ -1004,6 +1004,4 @@ slupca.pl##.a-220
 elektroda.pl##[onclick*="this.target='_blank';"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="'Click'"]
-tuhiszpania.pl##.textwidget div[data-gyg-href="https://widget.getyourguide.com/default/activites.frame"]
-tuhiszpania.pl###rankomat-travel
 tuhiszpania.pl###b_searchboxInc
