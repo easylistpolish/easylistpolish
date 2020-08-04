@@ -1297,3 +1297,5 @@ naszciechanow.pl##div[class^="spacead-"]
 naszciechanow.pl##div[class^="efactory-ad-"]
 tuhiszpania.pl###b_searchboxInc
 olesnicainfo.pl##.advert-block-big
+oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
+oknonawagrowiec.pl##.penci-google-adsense
