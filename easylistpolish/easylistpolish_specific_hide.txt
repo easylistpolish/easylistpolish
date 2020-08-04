@@ -1293,3 +1293,5 @@ tko.pl##a[onclick*="'Adverts'"]
 meblarskapolska.pl##.navbar-ad-section
 kurierprzasnyski.pl##div[aria-label="Slajder"]
 motocykle125.pl###gp-footer-area
+naszciechanow.pl##div[class^="spacead-"]
+naszciechanow.pl##div[class^="efactory-ad-"]
