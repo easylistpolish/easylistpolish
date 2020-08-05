@@ -1302,3 +1302,4 @@ oknonawagrowiec.pl##.penci-google-adsense
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
 poprostupycha.com.pl###reklama-wlasna
 mragowo24.info##.show-adv
+opowiecie.info##.a-widget
