@@ -941,3 +941,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||fireads.org^$domain=online-tv.pl
 ^banery^$domain=mragowo24.info
+^com_reklamy^$domain=radiofest.pl
