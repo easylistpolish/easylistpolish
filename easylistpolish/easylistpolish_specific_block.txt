@@ -941,3 +941,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||fireads.org^$domain=online-tv.pl
 ^banery^$domain=mragowo24.info
+||powiat-piaseczynski.info^*_300x250px-1.
+||powiat-piaseczynski.info^*_300x200.
