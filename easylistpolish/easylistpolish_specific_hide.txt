@@ -1304,3 +1304,6 @@ poprostupycha.com.pl###reklama-wlasna
 mragowo24.info##.show-adv
 opowiecie.info##.a-widget
 starachowicka.pl##div[class^="g-dyn a-"]
+przemysl24.pl###banner-top
+przemysl24.pl##.fbaner
+przemysl24.pl##div[id^="box-rek-"]
