@@ -941,3 +941,7 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||fireads.org^$domain=online-tv.pl
 ^banery^$domain=mragowo24.info
+||kryptoporadnik.pl^*^bbfinal.
+||kryptoporadnik.pl^*^binance_
+||kryptoporadnik.pl^*^bitmex-znizka.
+||kryptoporadnik.pl^*^brave_pobierz_
