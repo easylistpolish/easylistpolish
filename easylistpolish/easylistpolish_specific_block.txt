@@ -940,3 +940,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||rankomat.pl$domain=tuhiszpania.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||fireads.org^$domain=online-tv.pl
+^banery^$domain=pojezierze24.pl
