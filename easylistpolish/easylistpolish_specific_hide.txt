@@ -1307,3 +1307,4 @@ starachowicka.pl##div[class^="g-dyn a-"]
 nysa.fm##.advert
 pojezierze24.pl##.baner
 lwowecki.info##.TwoInRowCentered
+ksiazenice.info##.banneritem
