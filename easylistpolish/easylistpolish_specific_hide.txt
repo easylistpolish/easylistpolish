@@ -1304,3 +1304,4 @@ poprostupycha.com.pl###reklama-wlasna
 mragowo24.info##.show-adv
 opowiecie.info##.a-widget
 starachowicka.pl##div[class^="g-dyn a-"]
+nysa.fm##.advert
