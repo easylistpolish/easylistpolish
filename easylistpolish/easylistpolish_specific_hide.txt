@@ -1301,4 +1301,10 @@ oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 oknonawagrowiec.pl##.penci-google-adsense
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
 poprostupycha.com.pl###reklama-wlasna
+mragowo24.info##.show-adv
+opowiecie.info##.a-widget
+starachowicka.pl##div[class^="g-dyn a-"]
+nysa.fm##.advert
+pojezierze24.pl##.baner
+lwowecki.info##.TwoInRowCentered
 ksiazenice.info##.banneritem
