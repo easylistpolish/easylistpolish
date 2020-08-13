@@ -944,3 +944,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=nysa.fm
 ^banery^$domain=pojezierze24.pl
 ^banners^$domain=moszczenica.info
+||lwowecki.info^*^biuro_rachunkowe_
+||lwowecki.info^*^bielak-fotowoltaika.
