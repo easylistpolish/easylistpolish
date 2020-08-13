@@ -942,3 +942,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||fireads.org^$domain=online-tv.pl
 ^banery^$domain=mragowo24.info
 ^banners^$domain=nysa.fm
+^banery^$domain=pojezierze24.pl
