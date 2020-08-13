@@ -943,3 +943,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery^$domain=mragowo24.info
 ^banners^$domain=nysa.fm
 ^banery^$domain=pojezierze24.pl
+^banners^$domain=moszczenica.info
