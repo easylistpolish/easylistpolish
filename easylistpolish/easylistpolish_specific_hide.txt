@@ -1308,3 +1308,5 @@ nysa.fm##.advert
 pojezierze24.pl##.baner
 lwowecki.info##.TwoInRowCentered
 ksiazenice.info##.banneritem
+mojlask.pl###text-15
+mojlask.pl##div[class^="ads"]
