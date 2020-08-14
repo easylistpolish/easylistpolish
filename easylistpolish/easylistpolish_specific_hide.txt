@@ -1308,3 +1308,4 @@ nysa.fm##.advert
 pojezierze24.pl##.baner
 lwowecki.info##.TwoInRowCentered
 ksiazenice.info##.banneritem
+futbolwtv.pl##.td-a-rec
