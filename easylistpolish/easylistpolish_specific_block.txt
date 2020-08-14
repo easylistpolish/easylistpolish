@@ -947,3 +947,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||lwowecki.info^*^biuro_rachunkowe_
 ||lwowecki.info^*^bielak-fotowoltaika.
 ^banery^$domain=eglos.pl
+||radioq.fm^*^jquery.gafancybox.$script
