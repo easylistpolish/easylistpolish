@@ -949,3 +949,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery^$domain=eglos.pl
 ^baner_$domain=radiopiekary.pl
 ||radioq.fm^*^jquery.gafancybox.$script
+^bannery^$domain=wroclife.pl
