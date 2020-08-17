@@ -1311,3 +1311,4 @@ ksiazenice.info##.banneritem
 radiopiekary.pl##div[id^="cycloneslider-reklama-"]
 radiofon.fm##.easingslider
 radioq.fm###sppb-carousel1
+mymma.pl##a[href^="https://dietyodbrokula.pl/"]
