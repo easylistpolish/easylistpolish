@@ -1314,3 +1314,4 @@ radioq.fm###sppb-carousel1
 mymma.pl##a[href^="https://dietyodbrokula.pl/"]
 mojlask.pl###text-15
 mojlask.pl##div[class^="ads"]
+mecze24.pl###couponcode
