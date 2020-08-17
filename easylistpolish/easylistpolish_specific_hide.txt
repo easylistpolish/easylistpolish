@@ -1309,3 +1309,4 @@ pojezierze24.pl##.baner
 lwowecki.info##.TwoInRowCentered
 ksiazenice.info##.banneritem
 radiopiekary.pl##div[id^="cycloneslider-reklama-"]
+radiofon.fm##.easingslider
