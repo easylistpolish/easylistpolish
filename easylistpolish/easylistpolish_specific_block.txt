@@ -951,3 +951,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
+||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
