@@ -1260,3 +1260,58 @@ radiowrzesnia.pl##div[class^="g-dyn a-"]
 medexpress.pl##.adver_box
 tyna.info.pl##.top-bar-content a
 plock.fm##div[class^="g-single a-"]
+abczdrowie.pl##div[class^="m-t-1 m-b-1"]
+wirtualnemedia.pl##.spolecznoscinet
+futbolnews.pl##.box-banner
+mojewronki.pl##a[rel^="sponsored"]
+pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
+legionisci.com##div[class^="adslot_"]
+openlinksys.info##a[href^="http://sieciovo.pl/"] > img
+pik.kielce.pl##.banner_reklama_el
+pozytywniej.pl##.advert
+pozytywniej.pl###advertWrap
+nowyoutsourcing.pl##div[id^="g1-ad-"]
+warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
+namasce.pl##a[href^="http://iparts.pl"]
+life4style.pl##.ai-rotate
+naszagazeta.info##.banneritem
+polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
+nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
+musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
+ostrowiec-sw.pl##div[id^="re_"]
+okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
+okazjepodroznika.pl##.penci-banner-box
+okazjepodroznika.pl##.header__banner
+petronews.pl##div[class^="gloto-single aloto-"]
+operatorzy.pl##.slogan-wrapper
+operatorzy.pl##.banner
+cowkrakowie.pl##aside[id^="metaslider_widget-"]
+ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
+kolobrzeginfo.pl##div[class^="g-dyn a-"]
+portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
+tko.pl##a[onclick*="'Adverts'"]
+meblarskapolska.pl##.navbar-ad-section
+kurierprzasnyski.pl##div[aria-label="Slajder"]
+motocykle125.pl###gp-footer-area
+naszciechanow.pl##div[class^="spacead-"]
+naszciechanow.pl##div[class^="efactory-ad-"]
+tuhiszpania.pl###b_searchboxInc
+olesnicainfo.pl##.advert-block-big
+oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
+oknonawagrowiec.pl##.penci-google-adsense
+gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
+poprostupycha.com.pl###reklama-wlasna
+mragowo24.info##.show-adv
+opowiecie.info##.a-widget
+starachowicka.pl##div[class^="g-dyn a-"]
+nysa.fm##.advert
+pojezierze24.pl##.baner
+lwowecki.info##.TwoInRowCentered
+ksiazenice.info##.banneritem
+radiopiekary.pl##div[id^="cycloneslider-reklama-"]
+radiofon.fm##.easingslider
+radioq.fm###sppb-carousel1
+mymma.pl##a[href^="https://dietyodbrokula.pl/"]
+mojlask.pl###text-15
+mojlask.pl##div[class^="ads"]
+mecze24.pl###couponcode
