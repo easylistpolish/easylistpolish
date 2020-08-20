@@ -952,3 +952,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
+fresh-market.pl##a[onclick^="_gaq.push(['_trackEvent',"]
+fresh-market.pl##a[href^="https://redpackmaszyny.pl/"]
