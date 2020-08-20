@@ -952,3 +952,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
+kurier-kolski.pl###wrap-top2
