@@ -952,3 +952,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
+||poludnie.com.pl^*_banery-www2.
+||poludnie.com.pl^*_093454.
