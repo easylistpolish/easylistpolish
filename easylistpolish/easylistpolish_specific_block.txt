@@ -952,3 +952,6 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
+||angielskieespresso.pl^*^253x300.
+^banner_$domain=angielskieespresso.pl
+-banner-$domain=angielskieespresso.pl
