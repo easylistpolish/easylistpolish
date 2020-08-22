@@ -1316,3 +1316,5 @@ mojlask.pl###text-15
 mojlask.pl##div[class^="ads"]
 mecze24.pl###couponcode
 polsatnews.pl,polsatsport.pl##.ad
+fresh-market.pl##a[onclick^="_gaq.push(['_trackEvent',"]
+fresh-market.pl##a[href^="https://redpackmaszyny.pl/"]
