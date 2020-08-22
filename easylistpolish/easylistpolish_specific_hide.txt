@@ -1316,3 +1316,4 @@ mojlask.pl###text-15
 mojlask.pl##div[class^="ads"]
 mecze24.pl###couponcode
 polsatnews.pl,polsatsport.pl##.ad
+flashscore.pl##.boxOverContent__banner
