@@ -1316,3 +1316,5 @@ mojlask.pl###text-15
 mojlask.pl##div[class^="ads"]
 mecze24.pl###couponcode
 polsatnews.pl,polsatsport.pl##.ad
+polski-sport.pl##a[href^="https://fundacja.lexnostra.pl/"]
+polski-sport.pl##a[href^="http://www.czesciauto24.pl/"]
