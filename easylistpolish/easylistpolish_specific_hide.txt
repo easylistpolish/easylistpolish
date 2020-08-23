@@ -1320,3 +1320,6 @@ futbolwtv.pl##.td-a-rec
 miejscawewroclawiu.pl##.rev_slider_wrapper
 miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
 inthecage.pl###metaslider-id-131935
+przemysl24.pl###banner-top
+przemysl24.pl##.fbaner
+przemysl24.pl##div[id^="box-rek-"]
