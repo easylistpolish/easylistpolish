@@ -954,3 +954,7 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery^$domain=mymma.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
 ||konstancin.com/reklama_
+||kryptoporadnik.pl^*^bbfinal.
+||kryptoporadnik.pl^*^binance_
+||kryptoporadnik.pl^*^bitmex-znizka.
+||kryptoporadnik.pl^*^brave_pobierz_
