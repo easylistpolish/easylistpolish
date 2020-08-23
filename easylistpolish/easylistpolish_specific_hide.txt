@@ -1318,3 +1318,4 @@ polsatnews.pl,polsatsport.pl##.ad
 konstancin.com###text-4
 futbolwtv.pl##.td-a-rec
 miejscawewroclawiu.pl##.rev_slider_wrapper
+miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
