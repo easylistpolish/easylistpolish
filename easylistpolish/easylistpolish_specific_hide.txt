@@ -1304,4 +1304,17 @@ poprostupycha.com.pl###reklama-wlasna
 mragowo24.info##.show-adv
 opowiecie.info##.a-widget
 starachowicka.pl##div[class^="g-dyn a-"]
+nysa.fm##.advert
+pojezierze24.pl##.baner
+lwowecki.info##.TwoInRowCentered
+radiopiekary.pl##div[id^="cycloneslider-reklama-"]
+radiofon.fm##.easingslider
+radioq.fm###sppb-carousel1
+mymma.pl##a[href^="https://dietyodbrokula.pl/"]
+mojlask.pl###text-15
+mojlask.pl##div[class^="ads"]
+mecze24.pl###couponcode
+polsatnews.pl,polsatsport.pl##.ad
+konstancin.com###text-4
+futbolwtv.pl##.td-a-rec
 miejscawewroclawiu.pl##.rev_slider_wrapper
