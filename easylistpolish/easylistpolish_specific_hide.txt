@@ -1307,7 +1307,6 @@ starachowicka.pl##div[class^="g-dyn a-"]
 nysa.fm##.advert
 pojezierze24.pl##.baner
 lwowecki.info##.TwoInRowCentered
-ksiazenice.info##.banneritem
 radiopiekary.pl##div[id^="cycloneslider-reklama-"]
 radiofon.fm##.easingslider
 radioq.fm###sppb-carousel1
@@ -1316,4 +1315,17 @@ mojlask.pl###text-15
 mojlask.pl##div[class^="ads"]
 mecze24.pl###couponcode
 polsatnews.pl,polsatsport.pl##.ad
+konstancin.com###text-4
+futbolwtv.pl##.td-a-rec
+miejscawewroclawiu.pl##.rev_slider_wrapper
+miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
+inthecage.pl###metaslider-id-131935
+przemysl24.pl###banner-top
+przemysl24.pl##.fbaner
+przemysl24.pl##div[id^="box-rek-"]
+radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl/"])
+radio.opole.pl###r195
+radio.opole.pl###rmabox
+kryptoholik.pl##.pum-overlay
+przekrojlokalny.pl##.banner_zone
 kurier-kolski.pl###wrap-top2
