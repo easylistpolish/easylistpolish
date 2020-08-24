@@ -1327,3 +1327,4 @@ radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl/"])
 radio.opole.pl###r195
 radio.opole.pl###rmabox
 kryptoholik.pl##.pum-overlay
+przekrojlokalny.pl##.banner_zone
