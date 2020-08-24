@@ -1329,3 +1329,4 @@ radio.opole.pl###rmabox
 kryptoholik.pl##.pum-overlay
 przekrojlokalny.pl##.banner_zone
 domyseniora.pl##a[class^="js-banery-"]
+mojadieta.pl##div[id^="metaslider-id-"]
