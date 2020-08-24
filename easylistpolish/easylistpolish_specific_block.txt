@@ -960,3 +960,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||toyotaklub.org.pl/iparts.
 ||kryptoholik.pl^*^pum^$script
 ||kryptoholik.pl^*^nestt.
+^banner-$domain=racingforum.pl
