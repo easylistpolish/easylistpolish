@@ -947,7 +947,6 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||lwowecki.info^*^biuro_rachunkowe_
 ||lwowecki.info^*^bielak-fotowoltaika.
 ^banery^$domain=eglos.pl
-
 ^baner_$domain=radiopiekary.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ^bannery^$domain=wroclife.pl
@@ -958,3 +957,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||kryptoporadnik.pl^*^binance_
 ||kryptoporadnik.pl^*^bitmex-znizka.
 ||kryptoporadnik.pl^*^brave_pobierz_
+||toyotaklub.org.pl/iparts.
