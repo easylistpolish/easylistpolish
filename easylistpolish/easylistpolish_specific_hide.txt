@@ -1328,3 +1328,4 @@ radio.opole.pl###r195
 radio.opole.pl###rmabox
 kryptoholik.pl##.pum-overlay
 przekrojlokalny.pl##.banner_zone
+domyseniora.pl##a[class^="js-banery-"]
