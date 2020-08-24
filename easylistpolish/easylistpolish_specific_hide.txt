@@ -1326,3 +1326,4 @@ przemysl24.pl##div[id^="box-rek-"]
 radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl/"])
 radio.opole.pl###r195
 radio.opole.pl###rmabox
+kryptoholik.pl##.pum-overlay
