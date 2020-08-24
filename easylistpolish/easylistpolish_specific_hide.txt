@@ -1330,3 +1330,4 @@ kryptoholik.pl##.pum-overlay
 przekrojlokalny.pl##.banner_zone
 domyseniora.pl##a[class^="js-banery-"]
 mojadieta.pl##div[id^="metaslider-id-"]
+oprocentowanielokat.pl##a[href*="/serwis.akc.php?akcja=reklama&"]
