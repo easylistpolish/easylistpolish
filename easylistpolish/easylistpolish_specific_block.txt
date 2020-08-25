@@ -960,3 +960,11 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||toyotaklub.org.pl/iparts.
 ||kryptoholik.pl^*^pum^$script
 ||kryptoholik.pl^*^nestt.
+^banner-$domain=racingforum.pl
+||miechowski.pl^*-zatrudni-kucharzy.
+||mobimart.it^$subdocument,domain=mobilneforum.pl
+||kopalniawiedzy.pl^*^skanerMKS.
+||powiat-piaseczynski.info^*_300x250px-1.
+||powiat-piaseczynski.info^*_300x200.
+||radiowrzesnia.pl^*^pum^$script
+^com_reklamy^$domain=radiofest.pl

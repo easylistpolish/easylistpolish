@@ -1329,5 +1329,21 @@ radio.opole.pl###rmabox
 kryptoholik.pl##.pum-overlay
 przekrojlokalny.pl##.banner_zone
 domyseniora.pl##a[class^="js-banery-"]
+mojadieta.pl##div[id^="metaslider-id-"]
+oprocentowanielokat.pl##a[href*="/serwis.akc.php?akcja=reklama&"]
+miechowski.pl##.td-a-rec
+miechowski.pl##a[target="_blank"] > .vc_single_image-img
+torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
+torun.com.pl###adv_layer
+radioem.pl##img[alt="Reklama"]
+radiorodzina.pl##.left-large-ad
+drhtv.com.pl##a[href^="http://adserwer."]
+drhtv.com.pl##a[href^="https://online-mexos."]
+przedszkola.edu.pl##a[class^="js-banery-"]
+powiat-piaseczynski.info##.section-billboard
+promocja.mielec.pl##.ad-image
+promocja.mielec.pl##.header-content
+mhmkuchnie.eu###custom_html-2 a[target="_blank"]
+radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 agronews.com.pl##div[class^="g-single a-"]
 agronews.com.pl##div[class^="g-dyn a-"]
