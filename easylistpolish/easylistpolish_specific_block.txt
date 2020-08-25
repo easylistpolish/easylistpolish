@@ -970,3 +970,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^com_reklamy^$domain=radiofest.pl
 ||poludnie.com.pl^*_banery-www2.
 ||poludnie.com.pl^*_093454.
+||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
