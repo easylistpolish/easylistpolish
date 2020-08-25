@@ -1362,3 +1362,5 @@ temi.pl##div[class^="gtmi-dyn atmi-"]
 fresh-market.pl##a[href^="https://redpackmaszyny.pl/"]
 hobby-elektronika.eu##a[href^="http://online.freeware.info.pl/"]
 gwio.pl##.topLayer
+skrotymeczow.pl##li[class^="cool-stuff"]
+skrotymeczow.pl##div[class^="cool-stuff"]
