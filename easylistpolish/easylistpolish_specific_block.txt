@@ -963,3 +963,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banner-$domain=racingforum.pl
 ||miechowski.pl^*-zatrudni-kucharzy.
 ||mobimart.it^$subdocument,domain=mobilneforum.pl
+||kopalniawiedzy.pl^*^skanerMKS.
