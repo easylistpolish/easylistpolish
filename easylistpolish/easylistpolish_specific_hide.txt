@@ -1356,3 +1356,4 @@ mecze.com##.cool-stuff
 perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
 przegladoponiarski.pl##.axd > a[target="_blank"]
 przegladoponiarski.pl##a[href^="adv/"]
+lubaczow.tv##aside[id^="custom_html-"]
