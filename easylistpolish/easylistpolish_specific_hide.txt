@@ -1353,3 +1353,4 @@ boardtime.pl###header a[target="_blank"]
 miastoiludzie.pl###text-11
 miastoiludzie.pl###footerBanner
 mecze.com##.cool-stuff
+perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
