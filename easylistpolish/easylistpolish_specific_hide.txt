@@ -1331,3 +1331,5 @@ przekrojlokalny.pl##.banner_zone
 domyseniora.pl##a[class^="js-banery-"]
 mojadieta.pl##div[id^="metaslider-id-"]
 oprocentowanielokat.pl##a[href*="/serwis.akc.php?akcja=reklama&"]
+miechowski.pl##.td-a-rec
+miechowski.pl##a[target="_blank"] > .vc_single_image-img

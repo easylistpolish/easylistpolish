@@ -961,3 +961,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||kryptoholik.pl^*^pum^$script
 ||kryptoholik.pl^*^nestt.
 ^banner-$domain=racingforum.pl
+||miechowski.pl^*-zatrudni-kucharzy.
