@@ -1343,3 +1343,4 @@ przedszkola.edu.pl##a[class^="js-banery-"]
 powiat-piaseczynski.info##.section-billboard
 promocja.mielec.pl##.ad-image
 promocja.mielec.pl##.header-content
+mhmkuchnie.eu###custom_html-2 a[target="_blank"]
