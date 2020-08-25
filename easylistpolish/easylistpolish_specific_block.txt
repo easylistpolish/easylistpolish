@@ -966,3 +966,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||kopalniawiedzy.pl^*^skanerMKS.
 ||powiat-piaseczynski.info^*_300x250px-1.
 ||powiat-piaseczynski.info^*_300x200.
+||radiowrzesnia.pl^*^pum^$script
