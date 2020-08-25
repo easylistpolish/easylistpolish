@@ -57,3 +57,4 @@
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
 @@.adrotate.$domain=mh24.pl
 @@^reklama^$domain=prokopienko.pl
+@@||radiofest.pl^*^piosenka-banner.
