@@ -1345,3 +1345,5 @@ promocja.mielec.pl##.ad-image
 promocja.mielec.pl##.header-content
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
+agronews.com.pl##div[class^="g-single a-"]
+agronews.com.pl##div[class^="g-dyn a-"]
