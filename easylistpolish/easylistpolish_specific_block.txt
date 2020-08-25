@@ -968,3 +968,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||radiowrzesnia.pl^*^pum^$script
 ^com_reklamy^$domain=radiofest.pl
+||poludnie.com.pl^*_banery-www2.
+||poludnie.com.pl^*_093454.

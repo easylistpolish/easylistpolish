@@ -1352,4 +1352,8 @@ boardtime.pl###widget_smartslider3
 boardtime.pl###header a[target="_blank"]
 miastoiludzie.pl###text-11
 miastoiludzie.pl###footerBanner
+mecze.com##.cool-stuff
+perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
+przegladoponiarski.pl##.axd > a[target="_blank"]
+przegladoponiarski.pl##a[href^="adv/"]
 lubaczow.tv##aside[id^="custom_html-"]
