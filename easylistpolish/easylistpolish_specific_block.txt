@@ -974,3 +974,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||angielskieespresso.pl^*^253x300.
 ^banner_$domain=angielskieespresso.pl
 -banner-$domain=angielskieespresso.pl
+||baxu.pl^*^img-1607.

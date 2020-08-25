@@ -1368,3 +1368,5 @@ podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
 sportdziennik.com##.theiaStickySidebar > .sport-widget
 sportdziennik.com###custom_html-7
+baxu.pl###postTopAdMobile
+baxu.pl###postTopAd
