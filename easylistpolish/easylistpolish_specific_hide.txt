@@ -1366,3 +1366,5 @@ skrotymeczow.pl##li[class^="cool-stuff"]
 skrotymeczow.pl##div[class^="cool-stuff"]
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
+sportdziennik.com##.theiaStickySidebar > .sport-widget
+sportdziennik.com###custom_html-7
