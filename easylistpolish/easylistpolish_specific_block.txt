@@ -971,3 +971,6 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||poludnie.com.pl^*_banery-www2.
 ||poludnie.com.pl^*_093454.
 ||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
+||angielskieespresso.pl^*^253x300.
+^banner_$domain=angielskieespresso.pl
+-banner-$domain=angielskieespresso.pl
