@@ -1340,3 +1340,4 @@ radiorodzina.pl##.left-large-ad
 drhtv.com.pl##a[href^="http://adserwer."]
 drhtv.com.pl##a[href^="https://online-mexos."]
 przedszkola.edu.pl##a[class^="js-banery-"]
+powiat-piaseczynski.info##.section-billboard
