@@ -1370,3 +1370,5 @@ sportdziennik.com##.theiaStickySidebar > .sport-widget
 sportdziennik.com###custom_html-7
 baxu.pl###postTopAdMobile
 baxu.pl###postTopAd
+polski-sport.pl##a[href^="https://fundacja.lexnostra.pl/"]
+polski-sport.pl##a[href^="http://www.czesciauto24.pl/"]
