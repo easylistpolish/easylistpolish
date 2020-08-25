@@ -1336,3 +1336,4 @@ miechowski.pl##a[target="_blank"] > .vc_single_image-img
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
 torun.com.pl###adv_layer
 radioem.pl##img[alt="Reklama"]
+radiorodzina.pl##.left-large-ad
