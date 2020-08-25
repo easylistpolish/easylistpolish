@@ -1364,3 +1364,5 @@ hobby-elektronika.eu##a[href^="http://online.freeware.info.pl/"]
 gwio.pl##.topLayer
 skrotymeczow.pl##li[class^="cool-stuff"]
 skrotymeczow.pl##div[class^="cool-stuff"]
+podlaskapilka.pl###media_image-67
+podlaskapilka.pl###media_image-69
