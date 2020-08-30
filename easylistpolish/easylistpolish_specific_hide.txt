@@ -1380,3 +1380,6 @@ sportowememy.pl##.baner_ad
 sportowememy.pl##.box-entertainment
 kujawy.info##div[class^="g-dyn a-"]
 infoplocktv.pl##a[href^="http://pssplock.pl/"]
+bielsko.tv##.blok-link-sponsorowany
+bielsko.tv##.blok-r
+bielsko.tv###topBaner
