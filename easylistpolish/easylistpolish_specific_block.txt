@@ -977,3 +977,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||baxu.pl^*^img-1607.
 ^banners^$domain=klimatyzacja.biz
 ^baner-$domain=infokonin.pl
+^banner-$domain=wirlandii.pl
