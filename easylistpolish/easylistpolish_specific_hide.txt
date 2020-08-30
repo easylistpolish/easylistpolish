@@ -1373,4 +1373,5 @@ baxu.pl###postTopAd
 polski-sport.pl##a[href^="https://fundacja.lexnostra.pl/"]
 polski-sport.pl##a[href^="http://www.czesciauto24.pl/"]
 gniewskowo.eu##.topLayer
+telewizjatvt.pl##[class$="-advads_ad_widget"]
 magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
