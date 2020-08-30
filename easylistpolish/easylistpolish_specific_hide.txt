@@ -1383,3 +1383,4 @@ infoplocktv.pl##a[href^="http://pssplock.pl/"]
 bielsko.tv##.blok-link-sponsorowany
 bielsko.tv##.blok-r
 bielsko.tv###topBaner
+kurierprzasnyski.pl##[id^="smartslider3-"]
