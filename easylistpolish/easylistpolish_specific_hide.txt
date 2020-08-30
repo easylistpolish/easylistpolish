@@ -1378,3 +1378,4 @@ magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
 klimatyzacja.biz##.baner300
 sportowememy.pl##.baner_ad
 sportowememy.pl##.box-entertainment
+kujawy.info##div[class^="g-dyn a-"]
