@@ -978,3 +978,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=klimatyzacja.biz
 ^baner-$domain=infokonin.pl
 ^banner-$domain=wirlandii.pl
+||fight24.pl^*^fight_background.

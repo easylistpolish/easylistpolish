@@ -1385,3 +1385,5 @@ bielsko.tv##.blok-r
 bielsko.tv###topBaner
 kurierprzasnyski.pl##[id^="smartslider3-"]
 pl.savefrom.net##a[href*="banner"]
+fight24.pl###add_produkt
+fight24.pl##a[href^="https://www.sfd.pl/"]
