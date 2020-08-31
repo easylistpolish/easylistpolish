@@ -1385,3 +1385,5 @@ bielsko.tv##.blok-r
 bielsko.tv###topBaner
 kurierprzasnyski.pl##[id^="smartslider3-"]
 pl.savefrom.net##a[href*="banner"]
+dania-dietetyczne.pl###text-3
+dania-dietetyczne.pl###text-2
