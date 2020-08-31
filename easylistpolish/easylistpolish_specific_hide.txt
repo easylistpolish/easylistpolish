@@ -1384,3 +1384,4 @@ bielsko.tv##.blok-link-sponsorowany
 bielsko.tv##.blok-r
 bielsko.tv###topBaner
 kurierprzasnyski.pl##[id^="smartslider3-"]
+pl.savefrom.net##a[href*="banner"]
