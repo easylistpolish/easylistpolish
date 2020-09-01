@@ -1373,3 +1373,4 @@ baxu.pl###postTopAd
 polski-sport.pl##a[href^="https://fundacja.lexnostra.pl/"]
 polski-sport.pl##a[href^="http://www.czesciauto24.pl/"]
 gniewskowo.eu##.topLayer
+styropian.biz##.baner300
