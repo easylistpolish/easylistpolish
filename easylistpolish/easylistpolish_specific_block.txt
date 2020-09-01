@@ -975,3 +975,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banner_$domain=angielskieespresso.pl
 -banner-$domain=angielskieespresso.pl
 ||baxu.pl^*^img-1607.
+^banners^$domain=narzedziownia.org
