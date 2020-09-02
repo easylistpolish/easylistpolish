@@ -984,3 +984,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=ksiegowosc.org
 ^banners^$domain=opakowania.biz
 ^banners^$domain=stolarstwo.org
+^banners^$domain=wentylacja.biz
