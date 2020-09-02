@@ -1402,3 +1402,4 @@ budowa.org##.baner300
 elektryka.org##.baner300
 teleshow.wp.pl##.shoplovin-3P
 flashscore.pl##.boxOverContent__banner
+wynikinazywo.pl##.boxOverContent__banner
