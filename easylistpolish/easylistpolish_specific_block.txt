@@ -990,3 +990,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=metale.org
 ^banners^$domain=odpylanie.info
 ^banners^$domain=styropian.biz
+^banners^$domain=budowa.org
