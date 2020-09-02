@@ -1391,3 +1391,4 @@ budownictwo.org##.baner300
 jedzenie.info.pl##.baner300
 ksiegowosc.org##.baner300
 opakowania.biz##.baner300
+stolarstwo.org##.baner300

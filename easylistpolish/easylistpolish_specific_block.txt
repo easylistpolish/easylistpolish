@@ -983,3 +983,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=jedzenie.info.pl
 ^banners^$domain=ksiegowosc.org
 ^banners^$domain=opakowania.biz
+^banners^$domain=stolarstwo.org
