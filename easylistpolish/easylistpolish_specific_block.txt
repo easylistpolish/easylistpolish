@@ -951,7 +951,7 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ^bannery^$domain=wroclife.pl
 ^banery^$domain=mymma.pl
-||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl,polsatnews.pl
+||redefineadpl.hit.gemius.pl^$domain=polsatsport.pl|polsatnews.pl
 ||konstancin.com/reklama_
 ||kryptoporadnik.pl^*^bbfinal.
 ||kryptoporadnik.pl^*^binance_
@@ -975,4 +975,8 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banner_$domain=angielskieespresso.pl
 -banner-$domain=angielskieespresso.pl
 ||baxu.pl^*^img-1607.
+^banners^$domain=klimatyzacja.biz
+^baner-$domain=infokonin.pl
+^banner-$domain=wirlandii.pl
+^banners^$domain=alarmy.org
 ^banners^$domain=budownictwo.org
