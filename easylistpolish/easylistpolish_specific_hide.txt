@@ -1373,4 +1373,24 @@ baxu.pl###postTopAd
 polski-sport.pl##a[href^="https://fundacja.lexnostra.pl/"]
 polski-sport.pl##a[href^="http://www.czesciauto24.pl/"]
 gniewskowo.eu##.topLayer
+telewizjatvt.pl##[class$="-advads_ad_widget"]
+magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
+klimatyzacja.biz##.baner300
+sportowememy.pl##.baner_ad
+sportowememy.pl##.box-entertainment
+kujawy.info##div[class^="g-dyn a-"]
+infoplocktv.pl##a[href^="http://pssplock.pl/"]
+bielsko.tv##.blok-link-sponsorowany
+bielsko.tv##.blok-r
+bielsko.tv###topBaner
+kurierprzasnyski.pl##[id^="smartslider3-"]
+pl.savefrom.net##a[href*="banner"]
+noweinfo.pl##.wpb_text_column img[width="300"]
+alarmy.org##.baner300
+budownictwo.org##.baner300
+jedzenie.info.pl##.baner300
+ksiegowosc.org##.baner300
+opakowania.biz##.baner300
+stolarstwo.org##.baner300
+wentylacja.biz##.baner300
 blacha.biz##.baner300
