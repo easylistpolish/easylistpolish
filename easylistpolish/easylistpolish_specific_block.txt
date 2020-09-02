@@ -979,3 +979,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^baner-$domain=infokonin.pl
 ^banner-$domain=wirlandii.pl
 ^banners^$domain=alarmy.org
+^banners^$domain=budownictwo.org

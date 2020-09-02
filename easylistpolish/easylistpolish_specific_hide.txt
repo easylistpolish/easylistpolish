@@ -1387,3 +1387,4 @@ kurierprzasnyski.pl##[id^="smartslider3-"]
 pl.savefrom.net##a[href*="banner"]
 noweinfo.pl##.wpb_text_column img[width="300"]
 alarmy.org##.baner300
+budownictwo.org##.baner300
