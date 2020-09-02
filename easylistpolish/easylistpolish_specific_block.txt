@@ -986,3 +986,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=stolarstwo.org
 ^banners^$domain=wentylacja.biz
 ^banners^$domain=blacha.biz
+^banners^$domain=chlodnictwo.biz

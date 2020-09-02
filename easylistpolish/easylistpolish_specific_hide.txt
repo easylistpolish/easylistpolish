@@ -1394,3 +1394,4 @@ opakowania.biz##.baner300
 stolarstwo.org##.baner300
 wentylacja.biz##.baner300
 blacha.biz##.baner300
+chlodnictwo.biz##.baner300
