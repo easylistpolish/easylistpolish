@@ -1400,3 +1400,4 @@ odpylanie.info##.baner300
 styropian.biz##.baner300
 budowa.org##.baner300
 elektryka.org##.baner300
+teleshow.wp.pl##.shoplovin-3P
