@@ -989,3 +989,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=chlodnictwo.biz
 ^banners^$domain=metale.org
 ^banners^$domain=odpylanie.info
+^banners^$domain=styropian.biz
