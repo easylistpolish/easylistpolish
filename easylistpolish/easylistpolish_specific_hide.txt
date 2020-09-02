@@ -1389,3 +1389,4 @@ noweinfo.pl##.wpb_text_column img[width="300"]
 alarmy.org##.baner300
 budownictwo.org##.baner300
 jedzenie.info.pl##.baner300
+ksiegowosc.org##.baner300
