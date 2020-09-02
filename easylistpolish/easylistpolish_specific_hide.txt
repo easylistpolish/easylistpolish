@@ -1403,3 +1403,4 @@ elektryka.org##.baner300
 teleshow.wp.pl##.shoplovin-3P
 flashscore.pl##.boxOverContent__banner
 wynikinazywo.pl##.boxOverContent__banner
+facet.wp.pl##.view-first > mask > logo_cdc_big + box_wyprzedane
