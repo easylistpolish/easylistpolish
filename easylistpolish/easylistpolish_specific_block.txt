@@ -988,3 +988,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=blacha.biz
 ^banners^$domain=chlodnictwo.biz
 ^banners^$domain=metale.org
+^banners^$domain=odpylanie.info
