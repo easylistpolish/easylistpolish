@@ -1385,4 +1385,30 @@ bielsko.tv##.blok-r
 bielsko.tv###topBaner
 kurierprzasnyski.pl##[id^="smartslider3-"]
 pl.savefrom.net##a[href*="banner"]
+noweinfo.pl##.wpb_text_column img[width="300"]
+alarmy.org##.baner300
+budownictwo.org##.baner300
+jedzenie.info.pl##.baner300
+ksiegowosc.org##.baner300
+opakowania.biz##.baner300
+stolarstwo.org##.baner300
+wentylacja.biz##.baner300
+blacha.biz##.baner300
+chlodnictwo.biz##.baner300
+metale.org##.baner300
+odpylanie.info##.baner300
+styropian.biz##.baner300
+budowa.org##.baner300
+elektryka.org##.baner300
+teleshow.wp.pl##.shoplovin-3P
+flashscore.pl##.boxOverContent__banner
+wynikinazywo.pl##.boxOverContent__banner
+facet.wp.pl##.view-first > mask > logo_cdc_big + box_wyprzedane
+dania-dietetyczne.pl###text-3
+dania-dietetyczne.pl###text-2
+kochamsilownie.pl###text-5
+kochamsilownie.pl##a[href^="https://www.sfd.pl/"]
+kulturystyka.pl##a[href^="https://www.sfd.pl/"]
+kultyrystyka.pl##.navbar-ad-section
+cda-flix.pl##a[href^="https://cda-flix.pl/kryptowaluty"]
 hej.mielec.pl##.topLayer
