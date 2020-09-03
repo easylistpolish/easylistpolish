@@ -1415,3 +1415,4 @@ glosgminny.pl###media_image-3
 hej.mielec.pl##.topLayer
 fight24.pl###add_produkt
 fight24.pl##a[href^="https://www.sfd.pl/"]
+goniecpolski.nl###execphp-2
