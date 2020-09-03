@@ -997,3 +997,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||fight24.pl^*^fight_background.
 ||goniecpolski.nl^*^reklama-
 ^banners^$domain=tworzywa.org
+^banners^$domain=kominy.biz
