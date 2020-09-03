@@ -991,3 +991,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=odpylanie.info
 ^banners^$domain=styropian.biz
 ^banners^$domain=budowa.org
+-baner.$domain=crypto-trader.pl
+^baner-$domain=crypto-trader.pl
