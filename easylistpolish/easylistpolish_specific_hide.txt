@@ -1416,3 +1416,5 @@ hej.mielec.pl##.topLayer
 fight24.pl###add_produkt
 fight24.pl##a[href^="https://www.sfd.pl/"]
 goniecpolski.nl###execphp-2
+43bis.media.pl##.column-right-advertising a:not([href^="http://www.43bis.media.pl"])
+43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
