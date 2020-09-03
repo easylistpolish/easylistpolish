@@ -1002,3 +1002,5 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=ogrzewanie.info.pl
 ^banners^$domain=sacro.com.pl
 ^banery_foto^$domain=pulsciechanowa.pl
+_banner_$domain=starosadeckie.info
+||starosadeckie.info^*^CZYSTE-POWIETRZE.
