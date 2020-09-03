@@ -999,3 +999,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=tworzywa.org
 ^banners^$domain=kominy.biz
 ^banners^$domain=narzedziownia.org
+^banners^$domain=ogrzewanie.info.pl
