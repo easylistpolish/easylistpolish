@@ -994,3 +994,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 -baner.$domain=crypto-trader.pl
 ^baner-$domain=crypto-trader.pl
 ||seriale.co^*^baner.
+||fight24.pl^*^fight_background.
