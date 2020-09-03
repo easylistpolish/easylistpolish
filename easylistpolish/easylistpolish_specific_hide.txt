@@ -1422,3 +1422,4 @@ kominy.biz##.baner300
 narzedziownia.org##.baner300
 ogrzewanie.info.pl##.baner300
 sacro.com.pl##.baner300
+gosc.pl##img[alt="Reklama"]
