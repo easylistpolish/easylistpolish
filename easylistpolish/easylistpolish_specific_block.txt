@@ -998,3 +998,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||goniecpolski.nl^*^reklama-
 ^banners^$domain=tworzywa.org
 ^banners^$domain=kominy.biz
+^banners^$domain=narzedziownia.org

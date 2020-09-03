@@ -1419,3 +1419,4 @@ goniecpolski.nl###execphp-2
 tworzywa.org##.baner300
 kurier-kolski.pl###wrap-top2
 kominy.biz##.baner300
+narzedziownia.org##.baner300
