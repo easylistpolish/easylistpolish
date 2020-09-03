@@ -1421,3 +1421,4 @@ kurier-kolski.pl###wrap-top2
 kominy.biz##.baner300
 narzedziownia.org##.baner300
 ogrzewanie.info.pl##.baner300
+sacro.com.pl##.baner300
