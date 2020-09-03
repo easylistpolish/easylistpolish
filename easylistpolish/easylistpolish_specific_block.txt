@@ -996,3 +996,6 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||seriale.co^*^baner.
 ||fight24.pl^*^fight_background.
 ||goniecpolski.nl^*^reklama-
+||miastokobiet.pl^*^WK_TheCrown20_
+||miastokobiet.pl^*^energylandia-
+^baner-$domain=miastokobiet.pl
