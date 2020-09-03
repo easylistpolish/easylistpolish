@@ -1423,3 +1423,4 @@ narzedziownia.org##.baner300
 ogrzewanie.info.pl##.baner300
 sacro.com.pl##.baner300
 gosc.pl##img[alt="Reklama"]
+pulsciechanowa.pl##.topLayer

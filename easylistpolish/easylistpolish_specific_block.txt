@@ -1001,3 +1001,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banners^$domain=narzedziownia.org
 ^banners^$domain=ogrzewanie.info.pl
 ^banners^$domain=sacro.com.pl
+^banery_foto^$domain=pulsciechanowa.pl
