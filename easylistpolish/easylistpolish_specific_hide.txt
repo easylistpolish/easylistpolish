@@ -1416,3 +1416,5 @@ hej.mielec.pl##.topLayer
 fight24.pl###add_produkt
 fight24.pl##a[href^="https://www.sfd.pl/"]
 goniecpolski.nl###execphp-2
+ddb24.pl##a[href^="https://www.gowork.pl/"]
+ddb24.pl##a[href^="https://www.czesciauto24.pl/"]
