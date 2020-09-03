@@ -1411,3 +1411,4 @@ kochamsilownie.pl##a[href^="https://www.sfd.pl/"]
 kulturystyka.pl##a[href^="https://www.sfd.pl/"]
 kultyrystyka.pl##.navbar-ad-section
 cda-flix.pl##a[href^="https://cda-flix.pl/kryptowaluty"]
+glosgminny.pl###media_image-3
