@@ -1010,3 +1010,4 @@ _banner_$domain=starosadeckie.info
 ||jpktraders.pl^*^ledger_nano-
 ||jpktraders.pl^*^am1.
 ^inline__1_$domain=zycie.pila.pl
+||emisja.contentstream.pl^$script,domain=ulub.pl
