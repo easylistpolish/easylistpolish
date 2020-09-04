@@ -996,3 +996,17 @@ _banner_$domain=dzisiajwgliwicach.pl
 ||seriale.co^*^baner.
 ||fight24.pl^*^fight_background.
 ||goniecpolski.nl^*^reklama-
+^banners^$domain=tworzywa.org
+^banners^$domain=kominy.biz
+^banners^$domain=narzedziownia.org
+^banners^$domain=ogrzewanie.info.pl
+^banners^$domain=sacro.com.pl
+^banery_foto^$domain=pulsciechanowa.pl
+_banner_$domain=starosadeckie.info
+||starosadeckie.info^*^CZYSTE-POWIETRZE.
+||egorzow.pl^*-pzu_gorzow_mieszka.
+||zamioculcas.org^$script,domain=budujesz.info
+-bannery-$domain=zarobmy.se
+||jpktraders.pl^*^ledger_nano-
+||jpktraders.pl^*^am1.
+^inline__1_$domain=zycie.pila.pl
