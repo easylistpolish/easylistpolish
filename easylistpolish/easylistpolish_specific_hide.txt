@@ -1433,3 +1433,4 @@ swarzedz24.pl###media_image-324
 43bis.media.pl##.column-right-advertising a:not([href^="http://www.43bis.media.pl"])
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
 gpcodziennie.pl###banner
+wspolnota.org.pl###c325
