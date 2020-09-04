@@ -1005,3 +1005,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 _banner_$domain=starosadeckie.info
 ||starosadeckie.info^*^CZYSTE-POWIETRZE.
 ||egorzow.pl^*-pzu_gorzow_mieszka.
+||zamioculcas.org^$script,domain=budujesz.info
