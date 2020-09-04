@@ -1436,3 +1436,4 @@ gpcodziennie.pl###banner
 wspolnota.org.pl###c325
 megatiming.pl##.banner
 megatiming.pl##.banners
+baltic.info.pl##div[class^="angwp_"]
