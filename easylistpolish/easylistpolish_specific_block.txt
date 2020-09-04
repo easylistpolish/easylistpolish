@@ -1007,3 +1007,5 @@ _banner_$domain=starosadeckie.info
 ||egorzow.pl^*-pzu_gorzow_mieszka.
 ||zamioculcas.org^$script,domain=budujesz.info
 -bannery-$domain=zarobmy.se
+||jpktraders.pl^*^ledger_nano-
+||jpktraders.pl^*^am1.
