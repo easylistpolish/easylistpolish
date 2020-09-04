@@ -1004,3 +1004,4 @@ _banner_$domain=dzisiajwgliwicach.pl
 ^banery_foto^$domain=pulsciechanowa.pl
 _banner_$domain=starosadeckie.info
 ||starosadeckie.info^*^CZYSTE-POWIETRZE.
+||egorzow.pl^*-pzu_gorzow_mieszka.
