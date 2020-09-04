@@ -1009,3 +1009,4 @@ _banner_$domain=starosadeckie.info
 -bannery-$domain=zarobmy.se
 ||jpktraders.pl^*^ledger_nano-
 ||jpktraders.pl^*^am1.
+^inline__1_$domain=zycie.pila.pl
