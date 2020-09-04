@@ -1425,3 +1425,5 @@ sacro.com.pl##.baner300
 gosc.pl##img[alt="Reklama"]
 pulsciechanowa.pl##.topLayer
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
+ddb24.pl##a[href^="https://www.gowork.pl/"]
+ddb24.pl##a[href^="https://www.czesciauto24.pl/"]
