@@ -1014,3 +1014,4 @@ _banner_$domain=starosadeckie.info
 ||miastokobiet.pl^*^WK_TheCrown20_
 ||miastokobiet.pl^*^energylandia-
 ^baner-$domain=miastokobiet.pl
+||wislakrakow.com^*^lv750.
