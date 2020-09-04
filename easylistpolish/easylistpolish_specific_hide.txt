@@ -1438,3 +1438,5 @@ megatiming.pl##.banner
 megatiming.pl##.banners
 baltic.info.pl##div[class^="angwp_"]
 dorzeczy.pl##.adv-aside
+radiobiper.info##.elementor-widget-wp-widget-advads_ad_widget
+parenting.pl##.article__textbox
