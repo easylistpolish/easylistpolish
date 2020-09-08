@@ -1015,3 +1015,4 @@ _banner_$domain=starosadeckie.info
 ||miastokobiet.pl^*^energylandia-
 ^baner-$domain=miastokobiet.pl
 ||wislakrakow.com^*^lv750.
+||redefine.hit.stat24.com^$script,domain=geekweek.pl
