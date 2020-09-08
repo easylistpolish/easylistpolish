@@ -1441,3 +1441,4 @@ dorzeczy.pl##.adv-aside
 radiobiper.info##.elementor-widget-wp-widget-advads_ad_widget
 parenting.pl##.article__textbox
 informacjazarzadcza.pl##.panel-adsites
+monitorlocalnews.com##a[href^="/banners/click"]
