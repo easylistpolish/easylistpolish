@@ -1453,3 +1453,5 @@ mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
 mojanorwegia.pl##.sponsoredbox_sidebar
 norwegofil.pl##.bannergroup
 wirtualnaskandynawia.pl##.banner
+fredrikstad.pl##header > center > a
+fredrikstad.pl###text-7
