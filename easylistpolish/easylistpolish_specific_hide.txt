@@ -1455,3 +1455,4 @@ norwegofil.pl##.bannergroup
 wirtualnaskandynawia.pl##.banner
 fredrikstad.pl##header > center > a
 fredrikstad.pl###text-7
+wirtualneoslo.pl##header > center > a
