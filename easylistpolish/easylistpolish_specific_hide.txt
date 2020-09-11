@@ -1447,3 +1447,7 @@ rzesport.pl##.banner_wrapper
 nowytarg24.tv##.adbox[target="_blank"]
 24gliwice.pl##.vce-sticky
 polonika.fr###rt-top
+mojanorwegia.pl##.advertisment-info
+mojanorwegia.pl##.animatedA
+mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
+mojanorwegia.pl##.sponsoredbox_sidebar
