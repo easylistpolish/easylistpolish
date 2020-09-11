@@ -1451,3 +1451,4 @@ mojanorwegia.pl##.advertisment-info
 mojanorwegia.pl##.animatedA
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
 mojanorwegia.pl##.sponsoredbox_sidebar
+norwegofil.pl##.bannergroup
