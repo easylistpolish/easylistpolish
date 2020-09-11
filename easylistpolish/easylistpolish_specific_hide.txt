@@ -1445,3 +1445,4 @@ monitorlocalnews.com##a[href^="/banners/click"]
 razdwasport.pl##.vendor-holder-main-page
 rzesport.pl##.banner_wrapper
 nowytarg24.tv##.adbox[target="_blank"]
+24gliwice.pl##.vce-sticky
