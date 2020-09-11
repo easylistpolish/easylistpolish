@@ -1017,3 +1017,4 @@ _banner_$domain=starosadeckie.info
 ||wislakrakow.com^*^lv750.
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ^Company-Ads^$domain=informatorpolonijny.se
+||drzewkozabutelke.pl^*^galeriabronowica-
