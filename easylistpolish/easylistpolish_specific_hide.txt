@@ -1457,3 +1457,4 @@ fredrikstad.pl##header > center > a
 fredrikstad.pl###text-7
 wirtualneoslo.pl##header > center > a
 gorzela.pl##a[href^="http://galerialomianki.pl/"]
+miniomki.pl###text-16
