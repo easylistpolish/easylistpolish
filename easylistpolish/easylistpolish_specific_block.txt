@@ -1018,3 +1018,5 @@ _banner_$domain=starosadeckie.info
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ^Company-Ads^$domain=informatorpolonijny.se
 ||drzewkozabutelke.pl^*^galeriabronowica-
+||skiny.pl/rp.
+^rkm^$domain=skiny.pl
