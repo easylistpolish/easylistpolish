@@ -1022,3 +1022,5 @@ _banner_$domain=starosadeckie.info
 ||skiny.pl/rp.
 ^rkm^$domain=skiny.pl
 smart-test.pl##.banneritem
+slonskyradio.eu###ruchomeReklamy
+slonskyradio.eu###n2-ss-4-align
