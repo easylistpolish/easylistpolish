@@ -1467,3 +1467,4 @@ skawinska.pl##.homepage-ad-area
 skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
 winterszus.pl###text-18
 dziel-pasje.pl##a[href^="https://motofanstore.pl/"]
+biegowki.pl###makler42
