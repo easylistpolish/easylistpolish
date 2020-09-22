@@ -1459,3 +1459,4 @@ wirtualneoslo.pl##header > center > a
 gorzela.pl##a[href^="http://galerialomianki.pl/"]
 miniomki.pl###text-16
 sarp.org.pl###baner
+wygasle.net##.baner
