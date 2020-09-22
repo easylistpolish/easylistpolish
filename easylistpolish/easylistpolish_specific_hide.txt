@@ -1460,3 +1460,5 @@ gorzela.pl##a[href^="http://galerialomianki.pl/"]
 miniomki.pl###text-16
 sarp.org.pl###baner
 wygasle.net##.baner
+signs.pl##div[id^="adibadi"]
+signs.pl###BD
