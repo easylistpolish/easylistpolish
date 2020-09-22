@@ -1464,3 +1464,4 @@ signs.pl##div[id^="adibadi"]
 signs.pl###BD
 skawinska.pl##.gaskad-single
 skawinska.pl##.homepage-ad-area
+skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
