@@ -1471,3 +1471,4 @@ biegowki.pl###makler42
 skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
+spidersweb.pl##.box-specjalna
