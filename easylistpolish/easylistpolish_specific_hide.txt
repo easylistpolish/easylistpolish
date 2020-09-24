@@ -1458,4 +1458,16 @@ fredrikstad.pl###text-7
 wirtualneoslo.pl##header > center > a
 gorzela.pl##a[href^="http://galerialomianki.pl/"]
 miniomki.pl###text-16
+sarp.org.pl###baner
+wygasle.net##.baner
+signs.pl##div[id^="adibadi"]
+signs.pl###BD
+skawinska.pl##.gaskad-single
+skawinska.pl##.homepage-ad-area
+skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
+winterszus.pl###text-18
+dziel-pasje.pl##a[href^="https://motofanstore.pl/"]
+biegowki.pl###makler42
+skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
+skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
