@@ -1,3 +1,4 @@
+@@/extension/adverts/design/standard/javascript/adverts/Quantcast.js$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/reklama.$domain=grojec24.net|zsmeie.torun.pl
 @@/SidebarAds.$domain=eurogamer.pl
 @@/wppas.$domain=przegladpiaseczynski.pl
