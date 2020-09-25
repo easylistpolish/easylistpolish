@@ -1483,3 +1483,8 @@ elektroda.pl##.container2 a[href^="https://jlcpcb.com/"]
 elektroda.pl##.container2 a[href^="https://www.pcbway.com/"]
 elektroda.pl##.the-list a[href^="https://jlcpcb.com/"]
 elektroda.pl[class="the-contentcol-md-8"]a[href^="http://micros.com.pl/"]
+smart-test.pl##.banneritem
+slonskyradio.eu###ruchomeReklamy
+slonskyradio.eu###n2-ss-4-align
+sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
+sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img

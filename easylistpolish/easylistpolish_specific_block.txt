@@ -1026,3 +1026,7 @@ _banner_$domain=starosadeckie.info
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^DomowaUprawa_
 ||softonet.pl^*^670pobierz.
+||sadownictwo.com.pl^*^Plantivax-
+||sadownictwo.com.pl^*^Owoce-300x.
+-baner-$domain=sadownictwo.com.pl
+||sadownictwo.com.pl^*^Filel/300x.
