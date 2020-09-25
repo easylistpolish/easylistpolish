@@ -1473,3 +1473,6 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+dogosfera.pl###text-10012
+dogosfera.pl###text-10015
+dogosfera.pl##a[href^="https://sklep.ekome.pl/"]

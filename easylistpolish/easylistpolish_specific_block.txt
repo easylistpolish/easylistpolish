@@ -1028,3 +1028,5 @@ slonskyradio.eu###n2-ss-4-align
 ||spliff.pl^*^sensimilla_logo_
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^DomowaUprawa_
+||dogosfera.pl^*^Canifel-West-Paw-
+_baner_$domain=dogosfera.pl
