@@ -1040,3 +1040,6 @@ _baner_$domain=sklep-muzyczny.com.pl
 ^baner_$domain=przemyskie.info
 ||portalkosmiczny.pl^*^Siec_Badawcza_Lukasiewicz-
 ^baner_$domain=portalkosmiczny.pl
+||dogosfera.pl^*^Canifel-West-Paw-
+_baner_$domain=dogosfera.pl
+||dogosfera.pl^*^Wo%CC%81zki-

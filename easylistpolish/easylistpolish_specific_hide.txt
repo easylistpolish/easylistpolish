@@ -1491,3 +1491,6 @@ sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 psy.pl###logo-partner
 sochaczewianin.pl##.td-a-rec
 petportal.pl##aside[id^="media_image-"]
+dogosfera.pl###text-10012
+dogosfera.pl###text-10015
+dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
