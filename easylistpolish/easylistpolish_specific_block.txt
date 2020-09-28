@@ -1044,3 +1044,4 @@ _baner_$domain=sklep-muzyczny.com.pl
 _baner_$domain=dogosfera.pl
 ||dogosfera.pl^*^Wo%CC%81zki-
 ||psy24.pl^*^poradniki.
+^banery^$domain=zpazurem.pl
