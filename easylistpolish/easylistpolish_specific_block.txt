@@ -1038,3 +1038,5 @@ _baner_$domain=sklep-muzyczny.com.pl
 ||info.stargard.pl^*^tlo_info.
 ^banery^$domain=przemyskie.info
 ^baner_$domain=przemyskie.info
+||portalkosmiczny.pl^*^Siec_Badawcza_Lukasiewicz-
+^baner_$domain=portalkosmiczny.pl
