@@ -1473,4 +1473,21 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+elektroda.pl##.mb10 section
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://www.manypole7.eu/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://termopasty.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://www.stercontrol.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="http://www.biall.com.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="http://micros.com.pl/"]
+elektroda.pl##.container2 a[href^="https://jlcpcb.com/"]
+elektroda.pl##.container2 a[href^="https://www.pcbway.com/"]
+elektroda.pl##.the-list a[href^="https://jlcpcb.com/"]
+elektroda.pl[class="the-contentcol-md-8"]a[href^="http://micros.com.pl/"]
+smart-test.pl##.banneritem
+slonskyradio.eu###ruchomeReklamy
+slonskyradio.eu###n2-ss-4-align
+sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
+sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
+psy.pl###logo-partner
+sochaczewianin.pl##.td-a-rec
 petportal.pl##aside[id^="media_image-"]
