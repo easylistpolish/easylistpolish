@@ -1032,3 +1032,5 @@ _banner_$domain=starosadeckie.info
 ||sadownictwo.com.pl^*^Filel/300x.
 _baner_$domain=sklep-muzyczny.com.pl
 ||sklep-muzyczny.com.pl^*^nowy_credit.
+^baner_$domain=wiadomosci.rii.pl
+||wiadomosci.rii.pl^*^tlo_wiadomosci.
