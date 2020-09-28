@@ -1043,3 +1043,4 @@ _baner_$domain=sklep-muzyczny.com.pl
 ||dogosfera.pl^*^Canifel-West-Paw-
 _baner_$domain=dogosfera.pl
 ||dogosfera.pl^*^Wo%CC%81zki-
+||psy24.pl^*^poradniki.
