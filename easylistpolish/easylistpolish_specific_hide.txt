@@ -1488,3 +1488,5 @@ slonskyradio.eu###ruchomeReklamy
 slonskyradio.eu###n2-ss-4-align
 sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
+psy.pl###logo-partner
+sochaczewianin.pl##.td-a-rec
