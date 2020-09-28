@@ -1034,3 +1034,5 @@ _baner_$domain=sklep-muzyczny.com.pl
 ||sklep-muzyczny.com.pl^*^nowy_credit.
 ^baner_$domain=wiadomosci.rii.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
+^baner_$domain=info.stargard.pl
+||info.stargard.pl^*^tlo_info.
