@@ -1036,3 +1036,5 @@ _baner_$domain=sklep-muzyczny.com.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ^baner_$domain=info.stargard.pl
 ||info.stargard.pl^*^tlo_info.
+^banery^$domain=przemyskie.info
+^baner_$domain=przemyskie.info
