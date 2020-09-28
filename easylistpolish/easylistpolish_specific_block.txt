@@ -1030,3 +1030,5 @@ _banner_$domain=starosadeckie.info
 ||sadownictwo.com.pl^*^Owoce-300x.
 -baner-$domain=sadownictwo.com.pl
 ||sadownictwo.com.pl^*^Filel/300x.
+_baner_$domain=sklep-muzyczny.com.pl
+||sklep-muzyczny.com.pl^*^nowy_credit.
