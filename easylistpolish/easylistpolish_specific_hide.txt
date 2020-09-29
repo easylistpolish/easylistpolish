@@ -1496,3 +1496,4 @@ dogosfera.pl###text-10015
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 calc.pl##.spolecznoscinet > div[id^="sad_"]
 dojazd.org##.spolecznoscinet > div[id^="sad_"]
+docelu.pl##.spolecznoscinet > div[id^="sad_"]
