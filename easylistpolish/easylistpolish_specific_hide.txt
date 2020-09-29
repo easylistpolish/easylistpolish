@@ -1494,3 +1494,5 @@ petportal.pl##aside[id^="media_image-"]
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
+calc.pl##.spolecznoscinet > div[id^="sad_"]
+
