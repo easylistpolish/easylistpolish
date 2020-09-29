@@ -1473,3 +1473,8 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+naekranie.pl###sg_belka_srodek
+naekranie.pl##div[class="re prawa-szpalta"]
+naekranie.pl##div[style^="background: url('https://cont"]
+naekranie.pl##.article-header [style^=" width: 375."]
+naekranie.pl##.screening-banner
