@@ -1028,3 +1028,7 @@ slonskyradio.eu###n2-ss-4-align
 ||spliff.pl^*^sensimilla_logo_
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^DomowaUprawa_
+||lokalna24.pl^*^wasbruk_
+||lokalna24.pl^*^s3_13helios.
+||kbprojekt.pl$domain=lokalna24.pl
+||lokalna24.pl^*^debowe_wzgorze.
