@@ -1045,3 +1045,4 @@ _baner_$domain=dogosfera.pl
 ||dogosfera.pl^*^Wo%CC%81zki-
 ||psy24.pl^*^poradniki.
 ^banery^$domain=zpazurem.pl
+||c.spolecznosci.net/f.spolecznosci.net^$image,domain=dlastudenta.pl
