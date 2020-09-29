@@ -1499,3 +1499,5 @@ dojazd.org##.spolecznoscinet > div[id^="sad_"]
 docelu.pl##.spolecznoscinet > div[id^="sad_"]
 footroll.pl##.spolecznoscinet > div[id^="sad_"]
 dlastudenta.pl##.spolecznoscinet > div[id^="sad_"]
+twojememy.pl##.advContainer
+twojememy.pl##.advertisement
