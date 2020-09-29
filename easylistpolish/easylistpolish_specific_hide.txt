@@ -1473,3 +1473,5 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+ele24.net###gkZyczenia
+ele24.net##.eb-modules-banner-nad-newsem
