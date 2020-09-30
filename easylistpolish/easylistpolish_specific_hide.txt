@@ -1515,3 +1515,4 @@ naekranie.pl##.article-header [style^=" width: 375."]
 naekranie.pl##.screening-banner
 nurkowapolska.pl##.ad
 id-24.pl##.banner1-wrap
+rrs24.net##.ad_img_baner_glowny
