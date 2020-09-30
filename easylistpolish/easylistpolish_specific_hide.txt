@@ -1504,3 +1504,6 @@ twojememy.pl##.advertisement
 czaslotu.pl##.spolecznoscinet > div[id^="sad_"]
 luckyhorse.pl###text-13
 koty24.pl##.ban-71
+palegro.pl##.custom-commercial-banner-container
+palegro.pl###custom_html-2
+palegro.pl##.bottom-toolbar a[target="_blank"] > img
