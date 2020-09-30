@@ -1513,3 +1513,4 @@ naekranie.pl##div[class="re prawa-szpalta"]
 naekranie.pl##div[style^="background: url('https://cont"]
 naekranie.pl##.article-header [style^=" width: 375."]
 naekranie.pl##.screening-banner
+nurkowapolska.pl##.ad
