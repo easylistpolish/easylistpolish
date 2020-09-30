@@ -1522,3 +1522,5 @@ lokalna24.pl##.mw_aside.mw-67 iframe
 lokalna24.pl##.mw_aside.mw-57 iframe
 zaspa24.pl##.e3lan-top
 kaszuby24.pl###text-5
+spottedskarzysko.pl###BoxColTop2
+spottedskarzysko.pl###BoxColTop
