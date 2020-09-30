@@ -1508,3 +1508,8 @@ palegro.pl##.custom-commercial-banner-container
 palegro.pl###custom_html-2
 palegro.pl##.bottom-toolbar a[target="_blank"] > img
 konzdrowyjak.com.pl###text-3
+naekranie.pl###sg_belka_srodek
+naekranie.pl##div[class="re prawa-szpalta"]
+naekranie.pl##div[style^="background: url('https://cont"]
+naekranie.pl##.article-header [style^=" width: 375."]
+naekranie.pl##.screening-banner
