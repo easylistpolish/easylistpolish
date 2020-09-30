@@ -1055,3 +1055,4 @@ _baner_$domain=dogosfera.pl
 ||lokalna24.pl^*^s3_13helios.
 ||kbprojekt.pl^$domain=lokalna24.pl
 ||lokalna24.pl^*^debowe_wzgorze.
+||rrs24.net^*^marta_ubezpieczenia.

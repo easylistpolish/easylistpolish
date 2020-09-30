@@ -1515,5 +1515,8 @@ naekranie.pl##.article-header [style^=" width: 375."]
 naekranie.pl##.screening-banner
 nurkowapolska.pl##.ad
 id-24.pl##.banner1-wrap
+rrs24.net##.ad_img_baner_glowny
 lokalna24.pl##.rbox
 lokalna24.pl##.col-md-12 div[style="overflow:hidden"]  a:not([href^="https://www.lokalna24.pl/"])
+lokalna24.pl##.mw_aside.mw-67 iframe
+lokalna24.pl##.mw_aside.mw-57 iframe
