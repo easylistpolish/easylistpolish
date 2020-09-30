@@ -1503,3 +1503,4 @@ twojememy.pl##.advContainer
 twojememy.pl##.advertisement
 czaslotu.pl##.spolecznoscinet > div[id^="sad_"]
 luckyhorse.pl###text-13
+koty24.pl##.ban-71
