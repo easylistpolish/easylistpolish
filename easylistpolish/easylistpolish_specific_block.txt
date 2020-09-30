@@ -1046,3 +1046,4 @@ _baner_$domain=dogosfera.pl
 ||psy24.pl^*^poradniki.
 ^banery^$domain=zpazurem.pl
 ||c.spolecznosci.net/f.spolecznosci.net^$image,domain=dlastudenta.pl
+^baners^$domain=konieimy.pl
