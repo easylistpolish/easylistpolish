@@ -1502,3 +1502,4 @@ dlastudenta.pl##.spolecznoscinet > div[id^="sad_"]
 twojememy.pl##.advContainer
 twojememy.pl##.advertisement
 czaslotu.pl##.spolecznoscinet > div[id^="sad_"]
+luckyhorse.pl###text-13
