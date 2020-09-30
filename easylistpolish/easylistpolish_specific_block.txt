@@ -1047,3 +1047,4 @@ _baner_$domain=dogosfera.pl
 ^banery^$domain=zpazurem.pl
 ||c.spolecznosci.net/f.spolecznosci.net^$image,domain=dlastudenta.pl
 ^baners^$domain=konieimy.pl
+^baner_$domain=gielda-koni.com.pl
