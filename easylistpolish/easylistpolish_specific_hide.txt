@@ -1473,3 +1473,54 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+elektroda.pl##.mb10 section
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://www.manypole7.eu/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://termopasty.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="https://www.stercontrol.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="http://www.biall.com.pl/"]
+elektroda.pl##[class="the-content col-md-8"] a[href^="http://micros.com.pl/"]
+elektroda.pl##.container2 a[href^="https://jlcpcb.com/"]
+elektroda.pl##.container2 a[href^="https://www.pcbway.com/"]
+elektroda.pl##.the-list a[href^="https://jlcpcb.com/"]
+elektroda.pl[class="the-contentcol-md-8"]a[href^="http://micros.com.pl/"]
+smart-test.pl##.banneritem
+slonskyradio.eu###ruchomeReklamy
+slonskyradio.eu###n2-ss-4-align
+sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
+sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
+psy.pl###logo-partner
+sochaczewianin.pl##.td-a-rec
+petportal.pl##aside[id^="media_image-"]
+dogosfera.pl###text-10012
+dogosfera.pl###text-10015
+dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
+calc.pl##.spolecznoscinet > div[id^="sad_"]
+dojazd.org##.spolecznoscinet > div[id^="sad_"]
+docelu.pl##.spolecznoscinet > div[id^="sad_"]
+footroll.pl##.spolecznoscinet > div[id^="sad_"]
+dlastudenta.pl##.spolecznoscinet > div[id^="sad_"]
+twojememy.pl##.advContainer
+twojememy.pl##.advertisement
+czaslotu.pl##.spolecznoscinet > div[id^="sad_"]
+luckyhorse.pl###text-13
+koty24.pl##.ban-71
+palegro.pl##.custom-commercial-banner-container
+palegro.pl###custom_html-2
+palegro.pl##.bottom-toolbar a[target="_blank"] > img
+konzdrowyjak.com.pl###text-3
+naekranie.pl###sg_belka_srodek
+naekranie.pl##div[class="re prawa-szpalta"]
+naekranie.pl##div[style^="background: url('https://cont"]
+naekranie.pl##.article-header [style^=" width: 375."]
+naekranie.pl##.screening-banner
+nurkowapolska.pl##.ad
+id-24.pl##.banner1-wrap
+rrs24.net##.ad_img_baner_glowny
+lokalna24.pl##.rbox
+lokalna24.pl##.col-md-12 div[style="overflow:hidden"]  a:not([href^="https://www.lokalna24.pl/"])
+lokalna24.pl##.mw_aside.mw-67 iframe
+lokalna24.pl##.mw_aside.mw-57 iframe
+zaspa24.pl##.e3lan-top
+kaszuby24.pl###text-5
+ele24.net###gkZyczenia
+ele24.net##.eb-modules-banner-nad-newsem
