@@ -1059,3 +1059,4 @@ _baner_$domain=dogosfera.pl
 _baner.$domain=osowa24.pl
 ^adv_$domain=sadki24.pl
 ^adv_$domain=kcynia24.pl
+||b24tv.pl^*^wolmed_
