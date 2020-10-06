@@ -1473,3 +1473,6 @@ skawina.eu##a[href^="http://promotor.biz"]
 spiz.pl###home-reklama
 spidersweb.pl##.box-specjalna
 procesor.pl##.spolecznoscinet > div[id^="sad_"]
+nysahot.pl##.penci-featured-ct
+nysahot.pl##.header-banner
+nysahot.pl##[class^="g-dyn a-"]
