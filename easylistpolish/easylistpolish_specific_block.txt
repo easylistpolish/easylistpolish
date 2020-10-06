@@ -1061,3 +1061,4 @@ _baner.$domain=osowa24.pl
 ^adv_$domain=kcynia24.pl
 ||b24tv.pl^*^wolmed_
 ^ad^$domain=sportowepodhale.pl
+^ad^$domain=pieniny24.pl

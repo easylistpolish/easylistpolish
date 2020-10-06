@@ -1525,3 +1525,5 @@ kaszuby24.pl###text-5
 ele24.net###gkZyczenia
 ele24.net##.eb-modules-banner-nad-newsem
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
+pieniny24.pl##.ads
+pieniny24.pl##.ad
