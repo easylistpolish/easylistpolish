@@ -1527,3 +1527,4 @@ ele24.net##.eb-modules-banner-nad-newsem
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 pieniny24.pl##.ads
 pieniny24.pl##.ad
+stacja-tluszcz.pl###text-35
