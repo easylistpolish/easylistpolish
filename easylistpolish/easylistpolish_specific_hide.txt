@@ -1529,3 +1529,5 @@ pieniny24.pl##.ads
 pieniny24.pl##.ad
 stacja-tluszcz.pl###text-35
 stalenierdzewne.pl##.banners
+divers24.pl##.penci-infeed_ad
+divers24.pl##a[href*="_bannerid="] > img
