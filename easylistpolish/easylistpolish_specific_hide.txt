@@ -1531,3 +1531,5 @@ stacja-tluszcz.pl###text-35
 stalenierdzewne.pl##.banners
 divers24.pl##.penci-infeed_ad
 divers24.pl##a[href*="_bannerid="] > img
+spottedskarzysko.pl###BoxColTop2
+spottedskarzysko.pl###BoxColTop

@@ -1062,3 +1062,10 @@ _baner.$domain=osowa24.pl
 ||b24tv.pl^*^wolmed_
 ^ad^$domain=sportowepodhale.pl
 ^ad^$domain=pieniny24.pl
+||spottedskarzysko.pl^*^rabato-.
+||spottedskarzysko.pl^*^sajgonka.
+||spottedskarzysko.pl^*^szmaragd.
+||spottedskarzysko.pl^*^swiat_robotyki.
+||spottedskarzysko.pl^*^planetadziecka700x200.
+||spottedskarzysko.pl^*^ckziu_
+||spottedskarzysko.pl^*^bw_pazdziernik2019.
