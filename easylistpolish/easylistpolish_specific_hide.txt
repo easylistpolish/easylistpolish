@@ -1522,3 +1522,5 @@ lokalna24.pl##.mw_aside.mw-67 iframe
 lokalna24.pl##.mw_aside.mw-57 iframe
 zaspa24.pl##.e3lan-top
 kaszuby24.pl###text-5
+ele24.net###gkZyczenia
+ele24.net##.eb-modules-banner-nad-newsem
