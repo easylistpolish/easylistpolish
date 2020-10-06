@@ -1057,3 +1057,7 @@ _baner_$domain=dogosfera.pl
 ||lokalna24.pl^*^debowe_wzgorze.
 ||rrs24.net^*^marta_ubezpieczenia.
 _baner.$domain=osowa24.pl
+^adv_$domain=sadki24.pl
+^adv_$domain=kcynia24.pl
+||b24tv.pl^*^wolmed_
+^ad^$domain=sportowepodhale.pl
