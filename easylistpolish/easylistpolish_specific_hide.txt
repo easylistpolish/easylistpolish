@@ -1537,3 +1537,5 @@ prostozopolskiego.pl##[class^="a-single a-"]
 nysahot.pl##.penci-featured-ct
 nysahot.pl##.header-banner
 nysahot.pl##[class^="g-dyn a-"]
+nowinynyskie.com.pl##a:not([href^="https://nowinynyskie.com.pl/"]) img[width="370"]
+nowinynyskie.com.pl##[class^="l-box l-box--"] img[width="1170"]
