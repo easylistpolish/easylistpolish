@@ -1057,3 +1057,17 @@ _baner_$domain=dogosfera.pl
 ||lokalna24.pl^*^debowe_wzgorze.
 ||rrs24.net^*^marta_ubezpieczenia.
 _baner.$domain=osowa24.pl
+^adv_$domain=sadki24.pl
+^adv_$domain=kcynia24.pl
+||b24tv.pl^*^wolmed_
+^ad^$domain=sportowepodhale.pl
+^ad^$domain=pieniny24.pl
+||spottedskarzysko.pl^*^rabato-.
+||spottedskarzysko.pl^*^sajgonka.
+||spottedskarzysko.pl^*^szmaragd.
+||spottedskarzysko.pl^*^swiat_robotyki.
+||spottedskarzysko.pl^*^planetadziecka700x200.
+||spottedskarzysko.pl^*^ckziu_
+||spottedskarzysko.pl^*^bw_pazdziernik2019.
+||nowinynyskie.com.pl^*^inline__1_4448.
+^banners^$domain=nysainfo.pl
