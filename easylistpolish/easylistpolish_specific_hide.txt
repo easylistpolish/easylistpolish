@@ -1542,3 +1542,4 @@ nowinynyskie.com.pl##[class^="l-box l-box--"] img[width="1170"]
 spotradomsko.pl##.topLayer
 rozmiar.com##.spolecznoscinet > div[id^="sad_"]
 irss.pl##.spolecznoscinet > div[id^="sad_"]
+stomil.olsztyn.pl##.ad
