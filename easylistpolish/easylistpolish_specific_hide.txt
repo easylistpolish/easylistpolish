@@ -1534,3 +1534,6 @@ divers24.pl##a[href*="_bannerid="] > img
 spottedskarzysko.pl###BoxColTop2
 spottedskarzysko.pl###BoxColTop
 prostozopolskiego.pl##[class^="a-single a-"]
+nysahot.pl##.penci-featured-ct
+nysahot.pl##.header-banner
+nysahot.pl##[class^="g-dyn a-"]
