@@ -1547,3 +1547,4 @@ dwadozera.pl##.ad
 stopnadwadze.pl###text-7
 trasa.info##.spolecznoscinet > div[id^="sad_"]
 odleglosci.info##.spolecznoscinet > div[id^="sad_"]
+wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
