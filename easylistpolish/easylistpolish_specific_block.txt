@@ -1072,3 +1072,4 @@ _baner.$domain=osowa24.pl
 ||nowinynyskie.com.pl^*^inline__1_4448.
 ^banners^$domain=nysainfo.pl
 ||stoczniowcy.pl^*^jds.
+||strajk.eu^*^strajk-324x320-9.
