@@ -1071,3 +1071,4 @@ _baner.$domain=osowa24.pl
 ||spottedskarzysko.pl^*^bw_pazdziernik2019.
 ||nowinynyskie.com.pl^*^inline__1_4448.
 ^banners^$domain=nysainfo.pl
+||stoczniowcy.pl^*^jds.
