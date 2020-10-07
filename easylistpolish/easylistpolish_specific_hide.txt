@@ -1545,3 +1545,4 @@ irss.pl##.spolecznoscinet > div[id^="sad_"]
 stomil.olsztyn.pl##.ad
 dwadozera.pl##.ad
 stopnadwadze.pl###text-7
+trasa.info##.spolecznoscinet > div[id^="sad_"]
