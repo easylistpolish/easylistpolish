@@ -1543,3 +1543,4 @@ spotradomsko.pl##.topLayer
 rozmiar.com##.spolecznoscinet > div[id^="sad_"]
 irss.pl##.spolecznoscinet > div[id^="sad_"]
 stomil.olsztyn.pl##.ad
+dwadozera.pl##.ad
