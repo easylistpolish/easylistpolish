@@ -1458,3 +1458,5 @@ fredrikstad.pl###text-7
 wirtualneoslo.pl##header > center > a
 gorzela.pl##a[href^="http://galerialomianki.pl/"]
 miniomki.pl###text-16
+swiatdronow.pl##a[onclick^="ga('send'"]
+swiatdronow.pl###custom_html-2
