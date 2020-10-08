@@ -1458,3 +1458,5 @@ fredrikstad.pl###text-7
 wirtualneoslo.pl##header > center > a
 gorzela.pl##a[href^="http://galerialomianki.pl/"]
 miniomki.pl###text-16
+sulecin24.pl##.td-rec-spot img
+sulecin24.pl##.td_rec > .td_mod_wrap > img
