@@ -1550,3 +1550,5 @@ odleglosci.info##.spolecznoscinet > div[id^="sad_"]
 wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 mapa.info##.spolecznoscinet > div[id^="sad_"]
 speedwaynews.pl##.spolecznoscinet > div[id^="sad_"]
+sulecin24.pl##.td-rec-spot img
+sulecin24.pl##.td_rec > .td_mod_wrap > img
