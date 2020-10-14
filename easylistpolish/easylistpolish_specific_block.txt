@@ -886,3 +886,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||mypolacy.de^*^ubezpieczenia_1.
+^baner-$domain=iloveslubice.pl
