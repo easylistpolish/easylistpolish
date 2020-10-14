@@ -1550,3 +1550,5 @@ odleglosci.info##.spolecznoscinet > div[id^="sad_"]
 wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 mapa.info##.spolecznoscinet > div[id^="sad_"]
 speedwaynews.pl##.spolecznoscinet > div[id^="sad_"]
+swiatdronow.pl##a[onclick^="ga('send'"]
+swiatdronow.pl###custom_html-2
