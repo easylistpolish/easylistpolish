@@ -885,3 +885,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||systemyplatnosci.com^*^hotpay_
+||systemyplatnosci.com^*^fundacja_zoodoptuj.
