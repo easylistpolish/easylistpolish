@@ -1550,3 +1550,4 @@ odleglosci.info##.spolecznoscinet > div[id^="sad_"]
 wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 mapa.info##.spolecznoscinet > div[id^="sad_"]
 speedwaynews.pl##.spolecznoscinet > div[id^="sad_"]
+super-warez.eu##.h_banner-block
