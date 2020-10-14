@@ -1,3 +1,4 @@
+@@.adrotate.$domain=mh24.pl
 @@/extension/adverts/design/standard/javascript/adverts/Quantcast.js$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/reklama.$domain=grojec24.net|zsmeie.torun.pl
 @@/SidebarAds.$domain=eurogamer.pl
@@ -9,11 +10,13 @@
 @@^broszurabaner2.$domain=tygodnikpodhalanski.pl
 @@^pozegnania300x90.$domain=tygodnikpodhalanski.pl
 @@^reklama.$domain=tygodnikprudnicki.pl
-@@^reklamy^$domain=selgros24.pl|csbydgoszcz.pl
+@@^reklama^$domain=prokopienko.pl
+@@^reklamy^$domain=csbydgoszcz.pl|selgros24.pl
 @@_300x600.$domain=eurobuildcee.com|polishexpress.co.uk
 @@||daminfo.pl^*^fb.png
 @@||egarwolin.pl^*^inline__1_576.
 @@||extraswiecie.pl^*^autopromocja_
+@@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
 @@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
 @@||garsoniera.com.pl^*^8bf83-
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
@@ -23,6 +26,7 @@
 @@||ikamien.pl^*^banery/ik^
 @@||informacjelokalne.pl^*^logo_turystyka.
 @@||infotydzien.info^*^Twoja%20reklama.
+@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
 @@||konkurs24h.pl^*^advalue_
@@ -40,6 +44,7 @@
 @@||polskieradio.com^*^dodaj-impreze.
 @@||portalpszczelarski.pl^*^baners/354fb5466cc9e88d182d5ed7809c4997.
 @@||ppr.pl^*^banners^*ppr.
+@@||radiofest.pl^*^piosenka-banner.
 @@||rzeszow.pl/ad/view^
 @@||samoloty.pl^*^lgp2.
 @@||sanatoria.com.pl^*-pobyty-zdrowotne.
@@ -52,10 +57,5 @@
 @@||sucha24.pl^*^logo.
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
+@@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
 @@||zarzadca.pl^*^zarzadca.
-@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
-@@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
-@@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$subdocument,document,domain=walbrzych24.com
-@@.adrotate.$domain=mh24.pl
-@@^reklama^$domain=prokopienko.pl
-@@||radiofest.pl^*^piosenka-banner.
