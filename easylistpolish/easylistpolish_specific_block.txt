@@ -1073,3 +1073,5 @@ _baner.$domain=osowa24.pl
 ^banners^$domain=nysainfo.pl
 ||stoczniowcy.pl^*^jds.
 ||strajk.eu^*^strajk-324x320-9.
+||systemyplatnosci.com^*^hotpay_
+||systemyplatnosci.com^*^fundacja_zoodoptuj.
