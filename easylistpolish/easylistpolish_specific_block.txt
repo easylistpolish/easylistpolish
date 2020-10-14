@@ -888,3 +888,4 @@ _reklamy_$domain=chojna24.pl
 ||mypolacy.de^*^ubezpieczenia_1.
 ^baner-$domain=iloveslubice.pl
 -baner-$domain=sulecin24.pl
+^banner_$domain=super-warez.eu
