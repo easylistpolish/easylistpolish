@@ -1393,3 +1393,4 @@ sulecin24.pl##.td_rec > .td_mod_wrap > img
 super-warez.eu##.h_banner-block
 swiatdronow.pl##a[onclick^="ga('send'"]
 swiatdronow.pl###custom_html-2
+swiatmotocykli.pl##div[class^="g-single a-"]
