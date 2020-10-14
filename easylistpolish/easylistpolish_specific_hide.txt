@@ -1388,3 +1388,5 @@ poscigi.pl##.bsaPopupWrapper
 poscigi.pl##.bsaPopupWrapperBg
 iloveslubice.pl##.elementor-widget-wp-widget-advads_ad_widget
 iloveslubice.pl##.ilove-boczna-b2-300x250
+sulecin24.pl##.td-rec-spot img
+sulecin24.pl##.td_rec > .td_mod_wrap > img
