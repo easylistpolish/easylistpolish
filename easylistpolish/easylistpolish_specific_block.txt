@@ -885,3 +885,8 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||e-pingpong.pl^*reklama.
+||e-pingpong.pl^*^reklama
+_banner_$domain=e-pingpong.pl
+||e-pingpong.pl^*^pileczkigewo-
+^baner_$domain=e-pingpong.pl
