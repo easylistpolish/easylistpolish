@@ -1384,3 +1384,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 love4tennis.pl##.love4-adlabel ~ a
 love4tennis.pl###text-11
+love4tennis.pl###wmpci-popup-wrp
