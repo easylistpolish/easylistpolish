@@ -897,3 +897,5 @@ _reklamy_$domain=chojna24.pl
 _banner_$domain=e-pingpong.pl
 ||e-pingpong.pl^*^pileczkigewo-
 ^baner_$domain=e-pingpong.pl
+||ekologia.guru^*^seo.
+||ekologia.guru^*^baner03.
