@@ -1399,3 +1399,4 @@ golfnews.pl###text-4
 love4tennis.pl##.love4-adlabel ~ a
 love4tennis.pl###text-11
 love4tennis.pl###wmpci-popup-wrp
+teksty.org##.billboard
