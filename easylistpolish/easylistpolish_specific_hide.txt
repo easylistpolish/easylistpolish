@@ -1407,3 +1407,4 @@ dtv24.pl##.awac-wrapper
 zeglarski.info##.ads-block-right
 zeglarski.info##.zegla-baner_gora
 zeglarski.info##.add-box
+lubiehrubie.pl##.lubie-widget
