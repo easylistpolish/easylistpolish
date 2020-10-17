@@ -1396,3 +1396,6 @@ swiatdronow.pl###custom_html-2
 swiatmotocykli.pl##div[class^="g-single a-"]
 news-sport.pl##.adscounter
 golfnews.pl###text-4
+love4tennis.pl##.love4-adlabel ~ a
+love4tennis.pl###text-11
+love4tennis.pl###wmpci-popup-wrp
