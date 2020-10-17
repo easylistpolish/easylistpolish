@@ -900,3 +900,5 @@ _banner_$domain=e-pingpong.pl
 ||ekologia.guru^*^seo.
 ||ekologia.guru^*^baner03.
 _banner_$domain=cire.pl
+||szukam-ksiazki.pl/marbet_hurtownia.
+||szukam-ksiazki.pl^*^havana.
