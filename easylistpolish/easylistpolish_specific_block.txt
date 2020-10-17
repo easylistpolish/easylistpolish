@@ -899,3 +899,4 @@ _banner_$domain=e-pingpong.pl
 ^baner_$domain=e-pingpong.pl
 ||ekologia.guru^*^seo.
 ||ekologia.guru^*^baner03.
+_banner_$domain=cire.pl
