@@ -1395,3 +1395,4 @@ swiatdronow.pl##a[onclick^="ga('send'"]
 swiatdronow.pl###custom_html-2
 swiatmotocykli.pl##div[class^="g-single a-"]
 news-sport.pl##.adscounter
+golfnews.pl###text-4
