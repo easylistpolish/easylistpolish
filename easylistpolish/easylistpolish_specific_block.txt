@@ -892,3 +892,8 @@ _reklamy_$domain=chojna24.pl
 ||systemyplatnosci.com^*^hotpay_
 ||systemyplatnosci.com^*^fundacja_zoodoptuj.
 ^ads^$domain=polski-tenis.pl
+||e-pingpong.pl^*reklama.
+||e-pingpong.pl^*^reklamapingpong.
+_banner_$domain=e-pingpong.pl
+||e-pingpong.pl^*^pileczkigewo-
+^baner_$domain=e-pingpong.pl
