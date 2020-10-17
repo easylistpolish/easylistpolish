@@ -1403,3 +1403,4 @@ teksty.org##.billboard
 ekoexpo.pl##.r
 ekoexpo.pl###partners_bar
 gdziepolek.pl##.spns
+dtv24.pl##.awac-wrapper
