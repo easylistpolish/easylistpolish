@@ -1404,3 +1404,6 @@ ekoexpo.pl##.r
 ekoexpo.pl###partners_bar
 gdziepolek.pl##.spns
 dtv24.pl##.awac-wrapper
+zeglarski.info##.ads-block-right
+zeglarski.info##.zegla-baner_gora
+zeglarski.info##.add-box
