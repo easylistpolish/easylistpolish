@@ -1410,3 +1410,6 @@ zeglarski.info##.add-box
 lubiehrubie.pl##.lubie-widget
 300polityka.pl##.ad
 300polityka.pl##.banner
+radiogol.pl##a[href^="https://www.iparts.pl/"]
+radiogol.pl##a[href^="https://www.autoczescionline24.pl/"]
+radiogol.pl##a[href^="https://www.autodoc.pl/"]
