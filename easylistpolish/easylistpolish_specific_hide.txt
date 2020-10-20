@@ -1382,4 +1382,45 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+naszkostrzyn.pl##img[src^="/images/banners/"]
+poscigi.pl##.bsaProContainerNew
+poscigi.pl##.bsaPopupWrapper
+poscigi.pl##.bsaPopupWrapperBg
+iloveslubice.pl##.elementor-widget-wp-widget-advads_ad_widget
+iloveslubice.pl##.ilove-boczna-b2-300x250
+sulecin24.pl##.td-rec-spot img
+sulecin24.pl##.td_rec > .td_mod_wrap > img
+super-warez.eu##.h_banner-block
+swiatdronow.pl##a[onclick^="ga('send'"]
+swiatdronow.pl###custom_html-2
+swiatmotocykli.pl##div[class^="g-single a-"]
+news-sport.pl##.adscounter
+golfnews.pl###text-4
+love4tennis.pl##.love4-adlabel ~ a
+love4tennis.pl###text-11
+love4tennis.pl###wmpci-popup-wrp
+teksty.org##.billboard
+ekoexpo.pl##.r
+ekoexpo.pl###partners_bar
+gdziepolek.pl##.spns
+dtv24.pl##.awac-wrapper
+zeglarski.info##.ads-block-right
+zeglarski.info##.zegla-baner_gora
+zeglarski.info##.add-box
+lubiehrubie.pl##.lubie-widget
+300polityka.pl##.ad
+300polityka.pl##.banner
+radiogol.pl##a[href^="https://www.iparts.pl/"]
+radiogol.pl##a[href^="https://www.autoczescionline24.pl/"]
+radiogol.pl##a[href^="https://www.autodoc.pl/"]
+swoszowice.org.pl##a[href^="https://carline.com.pl/"]
+swoszowice.org.pl##a[href^="https://www.autodoc.pl/"]
+swoszowice.org.pl##a[href^="http://www.unison.pl/"]
+swoszowice.org.pl###text-7
+szukam-ksiazki.pl##.box_width_left > tbody > tr:nth-child(3) img
+szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
+techmaniachd.pl###HTML1
+ipulawy.pl###text-12
+ipulawy.pl##.mkd-content-top-holder
+radiozw.com.pl##[class^="angwp_"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
