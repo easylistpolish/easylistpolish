@@ -902,3 +902,4 @@ _banner_$domain=e-pingpong.pl
 _banner_$domain=cire.pl
 ||szukam-ksiazki.pl/marbet_hurtownia.
 ||szukam-ksiazki.pl^*^havana.
+||alicdn.com^$image,domain=telchina.pl
