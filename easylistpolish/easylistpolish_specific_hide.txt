@@ -1417,3 +1417,4 @@ swoszowice.org.pl##a[href^="https://carline.com.pl/"]
 swoszowice.org.pl##a[href^="https://www.autodoc.pl/"]
 swoszowice.org.pl##a[href^="http://www.unison.pl/"]
 swoszowice.org.pl###text-7
+szukam-ksiazki.pl##.box_width_left > tbody > tr:nth-child(3) img
