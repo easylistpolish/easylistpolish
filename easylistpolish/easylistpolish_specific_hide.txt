@@ -1422,3 +1422,4 @@ szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
 techmaniachd.pl###HTML1
 ipulawy.pl###text-12
 ipulawy.pl##.mkd-content-top-holder
+radiozw.com.pl##[class^="angwp_"]
