@@ -1419,3 +1419,4 @@ swoszowice.org.pl##a[href^="http://www.unison.pl/"]
 swoszowice.org.pl###text-7
 szukam-ksiazki.pl##.box_width_left > tbody > tr:nth-child(3) img
 szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
+techmaniachd.pl###HTML1
