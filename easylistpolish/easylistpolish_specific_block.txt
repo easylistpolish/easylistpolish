@@ -902,3 +902,8 @@ _banner_$domain=e-pingpong.pl
 _banner_$domain=cire.pl
 ||szukam-ksiazki.pl/marbet_hurtownia.
 ||szukam-ksiazki.pl^*^havana.
+^reklama-$domain=ipulawy.pl
+-baner.$domain=ipulawy.pl
+^reklamy-$domain=ipulawy.pl
+||ipulawy.pl^*^bus-8-osob2.
+||ipulawy.pl^*^panda-web.
