@@ -885,3 +885,8 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^reklama-$domain=ipulawy.pl
+-baner.$domain=ipulawy.pl
+^reklamy-$domain=ipulawy.pl
+||ipulawy.pl^*^bus-8-osob2.
+||ipulawy.pl^*^panda-web.
