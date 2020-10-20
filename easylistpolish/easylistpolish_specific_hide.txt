@@ -1413,3 +1413,7 @@ lubiehrubie.pl##.lubie-widget
 radiogol.pl##a[href^="https://www.iparts.pl/"]
 radiogol.pl##a[href^="https://www.autoczescionline24.pl/"]
 radiogol.pl##a[href^="https://www.autodoc.pl/"]
+swoszowice.org.pl##a[href^="https://carline.com.pl/"]
+swoszowice.org.pl##a[href^="https://www.autodoc.pl/"]
+swoszowice.org.pl##a[href^="http://www.unison.pl/"]
+swoszowice.org.pl###text-7
