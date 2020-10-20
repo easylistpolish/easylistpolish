@@ -1385,3 +1385,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zycieczestochowy.pl##.pers-item
 zycieczestochowy.pl##.sideelement
 zycieczestochowy.pl###carousel-slideadw
+zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
