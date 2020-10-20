@@ -1423,3 +1423,4 @@ techmaniachd.pl###HTML1
 ipulawy.pl###text-12
 ipulawy.pl##.mkd-content-top-holder
 radiozw.com.pl##[class^="angwp_"]
+tyna.info.pl##a[href^="https://panekcs.pl/"]
