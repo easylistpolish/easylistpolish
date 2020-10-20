@@ -1424,3 +1424,5 @@ ipulawy.pl###text-12
 ipulawy.pl##.mkd-content-top-holder
 radiozw.com.pl##[class^="angwp_"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
+okraglemiasto.pl##.td-a-rec-id-content_inlineright
+okraglemiasto.pl##.td-a-rec-id-content_top
