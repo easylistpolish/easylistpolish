@@ -909,3 +909,4 @@ _banner_$domain=cire.pl
 ||ipulawy.pl^*^panda-web.
 ||tyna.info.pl^*^wsa_1.
 ||poradnik-pacjenta.pl^*-rekl.
+^baner^$domain=tarnowskiegory24.info
