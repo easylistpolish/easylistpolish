@@ -1433,3 +1433,4 @@ zycieczestochowy.pl###carousel-slideadw
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
 rodzinazdrowia.pl##.marketingElement
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
+telewizor.eu###block
