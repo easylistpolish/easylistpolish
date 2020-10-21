@@ -908,3 +908,4 @@ _banner_$domain=cire.pl
 ||ipulawy.pl^*^bus-8-osob2.
 ||ipulawy.pl^*^panda-web.
 ||tyna.info.pl^*^wsa_1.
+||poradnik-pacjenta.pl^*-rekl.
