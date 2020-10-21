@@ -1420,4 +1420,17 @@ swoszowice.org.pl###text-7
 szukam-ksiazki.pl##.box_width_left > tbody > tr:nth-child(3) img
 szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
 techmaniachd.pl###HTML1
+ipulawy.pl###text-12
+ipulawy.pl##.mkd-content-top-holder
+radiozw.com.pl##[class^="angwp_"]
+tyna.info.pl##a[href^="https://panekcs.pl/"]
+okraglemiasto.pl##.td-a-rec-id-content_inlineright
+okraglemiasto.pl##.td-a-rec-id-content_top
+granty.pl##.bsaProItem
+zycieczestochowy.pl##.pers-item
+zycieczestochowy.pl##.sideelement
+zycieczestochowy.pl###carousel-slideadw
+zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
+rodzinazdrowia.pl##.marketingElement
+wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 telewizor.eu###block
