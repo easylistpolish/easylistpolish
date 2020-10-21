@@ -1435,3 +1435,4 @@ rodzinazdrowia.pl##.marketingElement
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 telewizor.eu###block
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
+telewizjaleszno.pl###vlog-module-0-0
