@@ -1437,3 +1437,4 @@ telewizor.eu###block
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
 telewizjaleszno.pl###vlog-module-0-0
 telko.in##.custom-html p > script + a
+tinypic.pl##a[href^="http://www.likeplus.eu/"]
