@@ -885,3 +885,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||tkaninyobiciowe.eu^*^dik-hurtownia-
+-reklama-$domain=tkaninyobiciowe.eu
+-baner-$domain=tkaninyobiciowe.eu
+-banner-$domain=tkaninyobiciowe.eu
