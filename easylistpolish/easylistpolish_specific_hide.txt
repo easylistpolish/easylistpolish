@@ -1382,3 +1382,7 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+walbrzyszek.com##.top5
+walbrzyszek.com##.top3 .kol1
+walbrzyszek.com##.top6 .kol4
+walbrzyszek.com##.kol1 aside a
