@@ -885,3 +885,6 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||czestochowskie24.pl^*^trepka-biuro-
+^baner_$domain=czestochowskie24.pl
+||czestochowskie24.pl^*^2020/09/0001-
