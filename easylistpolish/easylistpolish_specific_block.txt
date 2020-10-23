@@ -885,3 +885,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||jagodnik.pl^*^ceres_niebieski2020.
+_banner_$domain=jagodnik.pl
