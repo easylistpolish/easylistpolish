@@ -914,3 +914,4 @@ _banner_$domain=cire.pl
 ||static2.elektroda.pl^*^menuBarAds^
 ||app.travellead.pl$domain=belekaj.eu
 -reklama-$domain=nasz-glos.com
+^baner-$domain=cowkrakowie.pl

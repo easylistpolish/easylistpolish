@@ -1449,3 +1449,6 @@ terazlipno.pl##.topLayer
 wszedobylscy.com###text-15
 gloskoninski.pl###metaslider_widget-10
 nasz-glos.com##.vmagazine_lite_medium_ad
+cowkrakowie.pl##img[alt="baner"]
+cowkrakowie.pl##.advert--component
+cowkrakowie.pl##.bdaia-ad-container
