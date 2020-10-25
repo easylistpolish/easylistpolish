@@ -1453,3 +1453,4 @@ cowkrakowie.pl##img[alt="baner"]
 cowkrakowie.pl##.advert--component
 cowkrakowie.pl##.bdaia-ad-container
 meblosfera.pl##.navbar-ad-section
+kuchniosfera.pl##.navbar-ad-section
