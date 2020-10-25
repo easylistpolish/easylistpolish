@@ -915,3 +915,7 @@ _banner_$domain=cire.pl
 ||app.travellead.pl$domain=belekaj.eu
 -reklama-$domain=nasz-glos.com
 ^baner-$domain=cowkrakowie.pl
+||tkaninyobiciowe.eu^*^dik-hurtownia-
+-reklama-$domain=tkaninyobiciowe.eu
+-baner-$domain=tkaninyobiciowe.eu
+-banner-$domain=tkaninyobiciowe.eu
