@@ -912,3 +912,4 @@ _banner_$domain=cire.pl
 ^baner^$domain=tarnowskiegory24.info
 ||alicdn.com^$image,domain=telchina.pl
 ||static2.elektroda.pl^*^menuBarAds^
+||app.travellead.pl$domain=belekaj.eu
