@@ -1437,4 +1437,12 @@ telewizor.eu###block
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
 telewizjaleszno.pl###vlog-module-0-0
 telko.in##.custom-html p > script + a
+teraz-wilanow.pl##div[id^="rev_slider_2_"]
+teraz-wilanow.pl##div[id^="rev_slider_1"]
+elektroda.pl##a[onclick^="patronEvt("]
+elektroda.pl##a[onclick^="navBoxEvent("]
+elektroda.pl##.KwksNxK42ipm
+elektroda.pl##.rFrs8XgmGMEy
+terazgabin.pl##.topLayer
+terazgostynin.pl##.topLayer
 terazlipno.pl##.topLayer
