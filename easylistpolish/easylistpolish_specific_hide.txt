@@ -1448,3 +1448,4 @@ terazgostynin.pl##.topLayer
 terazlipno.pl##.topLayer
 wszedobylscy.com###text-15
 gloskoninski.pl###metaslider_widget-10
+nasz-glos.com##.vmagazine_lite_medium_ad

@@ -913,3 +913,4 @@ _banner_$domain=cire.pl
 ||alicdn.com^$image,domain=telchina.pl
 ||static2.elektroda.pl^*^menuBarAds^
 ||app.travellead.pl$domain=belekaj.eu
+-reklama-$domain=nasz-glos.com
