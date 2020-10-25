@@ -911,3 +911,4 @@ _banner_$domain=cire.pl
 ||poradnik-pacjenta.pl^*-rekl.
 ^baner^$domain=tarnowskiegory24.info
 ||alicdn.com^$image,domain=telchina.pl
+||static2.elektroda.pl^*^menuBarAds^
