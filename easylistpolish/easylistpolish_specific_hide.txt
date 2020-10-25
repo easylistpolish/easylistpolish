@@ -1443,3 +1443,4 @@ elektroda.pl##a[onclick^="patronEvt("]
 elektroda.pl##a[onclick^="navBoxEvent("]
 elektroda.pl##.KwksNxK42ipm
 elektroda.pl##.rFrs8XgmGMEy
+terazgabin.pl##.topLayer
