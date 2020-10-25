@@ -1446,3 +1446,4 @@ elektroda.pl##.rFrs8XgmGMEy
 terazgabin.pl##.topLayer
 terazgostynin.pl##.topLayer
 terazlipno.pl##.topLayer
+wszedobylscy.com###text-15
