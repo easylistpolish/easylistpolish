@@ -1445,3 +1445,4 @@ elektroda.pl##.KwksNxK42ipm
 elektroda.pl##.rFrs8XgmGMEy
 terazgabin.pl##.topLayer
 terazgostynin.pl##.topLayer
+terazlipno.pl##.topLayer
