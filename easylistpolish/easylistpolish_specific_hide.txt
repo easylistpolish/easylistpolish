@@ -1447,3 +1447,4 @@ terazgabin.pl##.topLayer
 terazgostynin.pl##.topLayer
 terazlipno.pl##.topLayer
 wszedobylscy.com###text-15
+gloskoninski.pl###metaslider_widget-10
