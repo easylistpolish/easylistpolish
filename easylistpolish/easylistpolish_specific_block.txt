@@ -922,3 +922,4 @@ _banner_$domain=cire.pl
 ||czestochowskie24.pl^*^trepka-biuro-
 ^baner_$domain=czestochowskie24.pl
 ||czestochowskie24.pl^*^2020/09/0001-
+^banery^$domain=paliwa.pl
