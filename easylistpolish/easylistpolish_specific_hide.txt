@@ -1457,3 +1457,4 @@ kuchniosfera.pl##.navbar-ad-section
 maszynydlameblarstwa.pl##.navbar-ad-section
 obrabiarkidodrewna.eu##.navbar-ad-section
 budosfera.eu##.navbar-ad-section
+4woodi.pl##.widget_snap_ad
