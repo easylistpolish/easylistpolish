@@ -1458,3 +1458,7 @@ maszynydlameblarstwa.pl##.navbar-ad-section
 obrabiarkidodrewna.eu##.navbar-ad-section
 budosfera.eu##.navbar-ad-section
 4woodi.pl##.widget_snap_ad
+tabletowo.pl##.table-reklama_po_komentarzach
+tabletowo.pl##.tab-rek
+tabletowo.pl##div[id^="table-"] > .table-adlabel + a
+tabletowo.pl##div[id^="table-"] > .table-adlabel + div
