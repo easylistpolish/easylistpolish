@@ -1463,3 +1463,4 @@ tabletowo.pl##.tab-rek
 tabletowo.pl##div[id^="table-"] > .table-adlabel + a
 tabletowo.pl##div[id^="table-"] > .table-adlabel + div
 jaw.pl##aside div a > img
+forumfirm.pl##.theiaStickySidebar > div[id^="media_image-"]
