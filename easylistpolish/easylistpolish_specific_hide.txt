@@ -1467,3 +1467,5 @@ forumfirm.pl##.theiaStickySidebar > div[id^="media_image-"]
 reflex.com.pl##.home_menu-images-block
 reflex.com.pl##.home_menu-images-right
 woda-scieki.com###firms
+epainfo.pl##.epain-widget.td_block_template_1
+epainfo.pl##.td-a-rec
