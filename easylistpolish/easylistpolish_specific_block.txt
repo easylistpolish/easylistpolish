@@ -919,3 +919,6 @@ _banner_$domain=cire.pl
 -reklama-$domain=tkaninyobiciowe.eu
 -baner-$domain=tkaninyobiciowe.eu
 -banner-$domain=tkaninyobiciowe.eu
+||czestochowskie24.pl^*^trepka-biuro-
+^baner_$domain=czestochowskie24.pl
+||czestochowskie24.pl^*^2020/09/0001-
