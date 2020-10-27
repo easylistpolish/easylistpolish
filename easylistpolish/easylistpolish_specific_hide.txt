@@ -1475,3 +1475,5 @@ infomare.pl###baneranim
 infomare.pl##div[class^="a-single a-"]
 transinfo.pl###banner
 treningbiegacza.pl##.td-a-rec a[target="_blank"]
+maniak.tv##a[href^="http://www.maniak.tv/"] > img[src*="imgur.com/"]
+maniak.tv##a[href^="http://teachcoexist.com/"]
