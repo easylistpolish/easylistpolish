@@ -1470,3 +1470,4 @@ woda-scieki.com###firms
 epainfo.pl##.epain-widget.td_block_template_1
 epainfo.pl##.td-a-rec
 dobaku.pl##.spolecznoscinet > div[id^="sad_"]
+antyauto.pl###text-76
