@@ -1471,3 +1471,5 @@ epainfo.pl##.epain-widget.td_block_template_1
 epainfo.pl##.td-a-rec
 dobaku.pl##.spolecznoscinet > div[id^="sad_"]
 antyauto.pl###text-76
+infomare.pl###baneranim
+infomare.pl##div[class^="a-single a-"]
