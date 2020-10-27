@@ -1473,3 +1473,4 @@ dobaku.pl##.spolecznoscinet > div[id^="sad_"]
 antyauto.pl###text-76
 infomare.pl###baneranim
 infomare.pl##div[class^="a-single a-"]
+transinfo.pl###banner
