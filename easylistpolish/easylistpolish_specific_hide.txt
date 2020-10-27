@@ -1441,7 +1441,7 @@ teraz-wilanow.pl##div[id^="rev_slider_2_"]
 teraz-wilanow.pl##div[id^="rev_slider_1"]
 elektroda.pl##a[onclick^="patronEvt("]
 elektroda.pl##a[onclick^="navBoxEvent("]
-elektroda.pl##.KwksNxK42ipm
+elektroda.pl##.HxQ4VRyGk5cU
 elektroda.pl##.rFrs8XgmGMEy
 terazgabin.pl##.topLayer
 terazgostynin.pl##.topLayer
@@ -1469,4 +1469,8 @@ reflex.com.pl##.home_menu-images-right
 woda-scieki.com###firms
 epainfo.pl##.epain-widget.td_block_template_1
 epainfo.pl##.td-a-rec
+dobaku.pl##.spolecznoscinet > div[id^="sad_"]
+antyauto.pl###text-76
+infomare.pl###baneranim
+infomare.pl##div[class^="a-single a-"]
 transinfo.pl###banner
