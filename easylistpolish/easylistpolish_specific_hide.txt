@@ -1475,3 +1475,4 @@ infomare.pl###baneranim
 infomare.pl##div[class^="a-single a-"]
 transinfo.pl###banner
 treningbiegacza.pl##.td-a-rec a[target="_blank"]
+zegarkiclub.pl##img[alt="advertisement_alt"]
