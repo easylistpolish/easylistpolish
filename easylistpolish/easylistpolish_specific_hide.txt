@@ -1494,4 +1494,4 @@ kapustnebeztajemnic.pl##[class$="_rand "]
 warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
 dziennikplocki.pl##.dzien-widget
 tp.com.pl##.l-ad-top
-radiogra.pl##.sec-promo
+radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
