@@ -1483,3 +1483,6 @@ lodzakademicka.info##.twelve #myCarousel
 filmawka.pl##.site-news__ads
 tysol.pl##.rek
 rdn.pl##.hred_right_re
+walbrzyszek.com##.top5
+walbrzyszek.com##.top6 .kol4
+walbrzyszek.com##.kol1 aside a
