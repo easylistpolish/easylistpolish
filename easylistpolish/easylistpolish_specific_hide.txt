@@ -1482,3 +1482,4 @@ pch24.pl##div[id^="baner"]
 lodzakademicka.info##.twelve #myCarousel
 filmawka.pl##.site-news__ads
 tysol.pl##.rek
+rdn.pl##.hred_right_re
