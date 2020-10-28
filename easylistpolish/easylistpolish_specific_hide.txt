@@ -1489,3 +1489,4 @@ walbrzyszek.com##.kol1 aside a
 portalstoczniowy.pl##div.adsy
 portalstoczniowy.pl##.sidebar-widget-area a[rel="noopener noreferrer"]
 portalstoczniowy.pl##a[href^="http://www.scopepr.pl/"]
+warzywa.pl##._ning_inner
