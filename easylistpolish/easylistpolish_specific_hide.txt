@@ -1475,5 +1475,29 @@ infomare.pl###baneranim
 infomare.pl##div[class^="a-single a-"]
 transinfo.pl###banner
 treningbiegacza.pl##.td-a-rec a[target="_blank"]
+deon.pl##.widget-products
+pch24.pl##a:not([href^="https://www.pch24.pl/"]) img[src*="/banery/"]
+pch24.pl##.boxKsiegarnia
+pch24.pl##div[id^="baner"]
+lodzakademicka.info##.twelve #myCarousel
+filmawka.pl##.site-news__ads
+tysol.pl##.rek
+rdn.pl##.hred_right_re
+walbrzyszek.com##.top5
+walbrzyszek.com##.top6 .kol4
+walbrzyszek.com##.kol1 aside a
+portalstoczniowy.pl##div.adsy
+portalstoczniowy.pl##.sidebar-widget-area a[rel="noopener noreferrer"]
+portalstoczniowy.pl##a[href^="http://www.scopepr.pl/"]
+warzywa.pl##._ning_inner
+kapustnebeztajemnic.pl##[class$="_rand "]
+warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
+dziennikplocki.pl##.dzien-widget
+tp.com.pl##.l-ad-top
+radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
+vanessa.fm###text-10 div
+rzg.pl##[class^="a-single a-"]
+elc24.net##section#gkZyczenia
+skarzysko24.pl###t3-content .djslider-loader
 kb.pl##.banner-container
 kb.pl##.element-click
