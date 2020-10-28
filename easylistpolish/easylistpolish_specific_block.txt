@@ -924,3 +924,5 @@ _banner_$domain=cire.pl
 ||czestochowskie24.pl^*^2020/09/0001-
 ^banery^$domain=paliwa.pl
 ||service.weben1.com^$subdocument,domain=abc-survival.pl
+||jagodnik.pl^*^ceres_niebieski2020.
+_banner_$domain=jagodnik.pl
