@@ -926,3 +926,4 @@ _banner_$domain=cire.pl
 ||service.weben1.com^$subdocument,domain=abc-survival.pl
 ||jagodnik.pl^*^ceres_niebieski2020.
 _banner_$domain=jagodnik.pl
+^banery^$domain=alexjones.pl
