@@ -923,3 +923,4 @@ _banner_$domain=cire.pl
 ^baner_$domain=czestochowskie24.pl
 ||czestochowskie24.pl^*^2020/09/0001-
 ^banery^$domain=paliwa.pl
+||service.weben1.com^$subdocument,domain=abc-survival.pl
