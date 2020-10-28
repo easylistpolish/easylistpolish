@@ -1492,3 +1492,4 @@ portalstoczniowy.pl##a[href^="http://www.scopepr.pl/"]
 warzywa.pl##._ning_inner
 kapustnebeztajemnic.pl##[class$="_rand "]
 warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
+dziennikplocki.pl##.dzien-widget
