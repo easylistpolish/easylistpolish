@@ -1495,3 +1495,4 @@ warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
 dziennikplocki.pl##.dzien-widget
 tp.com.pl##.l-ad-top
 radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
+vanessa.fm###text-10 div
