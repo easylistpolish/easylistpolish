@@ -1501,3 +1501,4 @@ elc24.net##section#gkZyczenia
 skarzysko24.pl###t3-content .djslider-loader
 kb.pl##.banner-container
 kb.pl##.element-click
+ekstraklasatrolls.pl##.bsaProItems
