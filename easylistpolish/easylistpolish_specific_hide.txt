@@ -1499,3 +1499,5 @@ vanessa.fm###text-10 div
 rzg.pl##[class^="a-single a-"]
 elc24.net##section#gkZyczenia
 skarzysko24.pl###t3-content .djslider-loader
+kb.pl##.banner-container
+kb.pl##.element-click
