@@ -930,3 +930,4 @@ _banner_$domain=jagodnik.pl
 -banner-$domain=techsetter.pl
 ^banery^$domain=ipolska.info
 ||e-stargard.pl^*^sarl^
+||img.staticbg.com^$domain=rzeszowska24.pl
