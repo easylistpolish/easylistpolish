@@ -937,3 +937,4 @@ _banner_$domain=jagodnik.pl
 ||cowwilanowie.pl^*^wilanow-coworking-
 ^baner-$domain=cowwilanowie.pl
 ^banner_$domain=conamokotowie.pl
+||iochota.pl^*^inline__1080942_
