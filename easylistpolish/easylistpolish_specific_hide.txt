@@ -1513,3 +1513,4 @@ busradar.pl##bls-banner-ad
 filmweb.pl##.advertButton
 gazetagazeta.com##a[href^="https://wmjewellery.wixsite.com/"]
 gazetagazeta.com##.right > a > img
+rynek-drzewny.pl##.advert
