@@ -1509,3 +1509,4 @@ tinypic.pl##a[href^="http://www.likeplus.eu/"]
 naszahuta.pl##.c-banners
 infokrakow24.pl##.header-right
 infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
+busradar.pl##bls-banner-ad
