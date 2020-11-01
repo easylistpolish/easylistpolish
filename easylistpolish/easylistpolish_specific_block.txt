@@ -936,3 +936,4 @@ _banner_$domain=jagodnik.pl
 ^baner_$domain=chorzowianin.pl
 ||cowwilanowie.pl^*^wilanow-coworking-
 ^baner-$domain=cowwilanowie.pl
+^banner_$domain=conamokotowie.pl
