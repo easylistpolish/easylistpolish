@@ -1437,4 +1437,72 @@ telewizor.eu###block
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
 telewizjaleszno.pl###vlog-module-0-0
 telko.in##.custom-html p > script + a
+teraz-wilanow.pl##div[id^="rev_slider_2_"]
+teraz-wilanow.pl##div[id^="rev_slider_1"]
+elektroda.pl##a[onclick^="patronEvt("]
+elektroda.pl##a[onclick^="navBoxEvent("]
+elektroda.pl##.HxQ4VRyGk5cU
+elektroda.pl##.rFrs8XgmGMEy
+terazgabin.pl##.topLayer
+terazgostynin.pl##.topLayer
+terazlipno.pl##.topLayer
+wszedobylscy.com###text-15
+gloskoninski.pl###metaslider_widget-10
+nasz-glos.com##.vmagazine_lite_medium_ad
+cowkrakowie.pl##img[alt="baner"]
+cowkrakowie.pl##.advert--component
+cowkrakowie.pl##.bdaia-ad-container
+meblosfera.pl##.navbar-ad-section
+kuchniosfera.pl##.navbar-ad-section
+maszynydlameblarstwa.pl##.navbar-ad-section
+obrabiarkidodrewna.eu##.navbar-ad-section
+budosfera.eu##.navbar-ad-section
+4woodi.pl##.widget_snap_ad
+tabletowo.pl##.table-reklama_po_komentarzach
+tabletowo.pl##.tab-rek
+tabletowo.pl##div[id^="table-"] > .table-adlabel + a
+tabletowo.pl##div[id^="table-"] > .table-adlabel + div
+jaw.pl##aside div a > img
+forumfirm.pl##.theiaStickySidebar > div[id^="media_image-"]
+reflex.com.pl##.home_menu-images-block
+reflex.com.pl##.home_menu-images-right
+woda-scieki.com###firms
+epainfo.pl##.epain-widget.td_block_template_1
+epainfo.pl##.td-a-rec
+dobaku.pl##.spolecznoscinet > div[id^="sad_"]
+antyauto.pl###text-76
+infomare.pl###baneranim
+infomare.pl##div[class^="a-single a-"]
+transinfo.pl###banner
+treningbiegacza.pl##.td-a-rec a[target="_blank"]
+deon.pl##.widget-products
+pch24.pl##a:not([href^="https://www.pch24.pl/"]) img[src*="/banery/"]
+pch24.pl##.boxKsiegarnia
+pch24.pl##div[id^="baner"]
+lodzakademicka.info##.twelve #myCarousel
+filmawka.pl##.site-news__ads
+tysol.pl##.rek
+rdn.pl##.hred_right_re
+walbrzyszek.com##.top5
+walbrzyszek.com##.top6 .kol4
+walbrzyszek.com##.kol1 aside a
+portalstoczniowy.pl##div.adsy
+portalstoczniowy.pl##.sidebar-widget-area a[rel="noopener noreferrer"]
+portalstoczniowy.pl##a[href^="http://www.scopepr.pl/"]
+warzywa.pl##._ning_inner
+kapustnebeztajemnic.pl##[class$="_rand "]
+warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
+dziennikplocki.pl##.dzien-widget
+tp.com.pl##.l-ad-top
+radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
+vanessa.fm###text-10 div
+rzg.pl##[class^="a-single a-"]
+elc24.net##section#gkZyczenia
+skarzysko24.pl###t3-content .djslider-loader
+kb.pl##.banner-container
+kb.pl##.element-click
+ekstraklasatrolls.pl##.bsaProItems
+zegarkiclub.pl##img[alt="advertisement_alt"]
+maniak.tv##a[href^="http://www.maniak.tv/"] > img[src*="imgur.com/"]
+meczyki.pl##.banner
 tinypic.pl##a[href^="http://www.likeplus.eu/"]
