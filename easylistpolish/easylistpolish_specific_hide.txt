@@ -1507,3 +1507,5 @@ maniak.tv##a[href^="http://www.maniak.tv/"] > img[src*="imgur.com/"]
 meczyki.pl##.banner
 tinypic.pl##a[href^="http://www.likeplus.eu/"]
 naszahuta.pl##.c-banners
+infokrakow24.pl##.header-right
+infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
