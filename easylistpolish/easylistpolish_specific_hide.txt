@@ -1526,3 +1526,4 @@ wilanownews.pl###main center > a
 wilanownews.pl###text-2
 conamokotowie.pl##.menu__ul + .a-re + a
 conamokotowie.pl##.a-re+a:nth-of-type(1)
+zw.lt##div[class^="g-dyn a-"]
