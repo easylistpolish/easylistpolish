@@ -1511,3 +1511,5 @@ infokrakow24.pl##.header-right
 infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
 busradar.pl##bls-banner-ad
 filmweb.pl##.advertButton
+gazetagazeta.com##a[href^="https://wmjewellery.wixsite.com/"]
+gazetagazeta.com##.right > a > img
