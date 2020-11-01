@@ -1522,3 +1522,5 @@ chorzowianin.pl##div.ads-responsive-container
 gazetazoliborza.pl##.theiaStickySidebar div[data-ai]
 wawernews.pl###text-131
 wawernews.pl###main center > a[target="_blank"]
+wilanownews.pl###main center > a
+wilanownews.pl###text-2
