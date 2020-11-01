@@ -938,3 +938,4 @@ _banner_$domain=jagodnik.pl
 ^baner-$domain=cowwilanowie.pl
 ^banner_$domain=conamokotowie.pl
 ||iochota.pl^*^inline__1080942_
+||twojatv.info^*^popup.js$script
