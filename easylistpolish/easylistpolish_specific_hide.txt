@@ -1520,3 +1520,5 @@ wachtyrz.eu###custom_html-13
 wolanie.info##.bc_random_banner
 chorzowianin.pl##div.ads-responsive-container
 gazetazoliborza.pl##.theiaStickySidebar div[data-ai]
+wawernews.pl###text-131
+wawernews.pl###main center > a[target="_blank"]
