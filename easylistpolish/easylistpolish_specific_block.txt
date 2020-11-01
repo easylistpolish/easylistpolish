@@ -934,3 +934,5 @@ _banner_$domain=jagodnik.pl
 ^baner-$domain=wolanie.info
 -baner.$domain=wolanie.info
 ^baner_$domain=chorzowianin.pl
+||cowwilanowie.pl^*^wilanow-coworking-
+^baner-$domain=cowwilanowie.pl
