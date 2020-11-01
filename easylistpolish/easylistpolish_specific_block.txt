@@ -928,3 +928,4 @@ _banner_$domain=cire.pl
 _banner_$domain=jagodnik.pl
 ^banery^$domain=alexjones.pl
 -banner-$domain=techsetter.pl
+^banery^$domain=ipolska.info
