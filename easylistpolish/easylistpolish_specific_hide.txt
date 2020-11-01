@@ -1506,3 +1506,4 @@ zegarkiclub.pl##img[alt="advertisement_alt"]
 maniak.tv##a[href^="http://www.maniak.tv/"] > img[src*="imgur.com/"]
 meczyki.pl##.banner
 tinypic.pl##a[href^="http://www.likeplus.eu/"]
+naszahuta.pl##.c-banners
