@@ -931,3 +931,5 @@ _banner_$domain=jagodnik.pl
 ^banery^$domain=ipolska.info
 ||e-stargard.pl^*^sarl^
 ||img.staticbg.com^$domain=rzeszowska24.pl
+^baner-$domain=wolanie.info
+-baner.$domain=wolanie.info

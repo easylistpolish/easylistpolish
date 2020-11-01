@@ -1517,3 +1517,4 @@ rynek-drzewny.pl##.advert
 e-stargard.pl###sidebar video
 wachtyrz.eu###custom_html-14
 wachtyrz.eu###custom_html-13
+wolanie.info##.bc_random_banner
