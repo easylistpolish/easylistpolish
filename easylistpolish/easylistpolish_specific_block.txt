@@ -933,3 +933,4 @@ _banner_$domain=jagodnik.pl
 ||img.staticbg.com^$domain=rzeszowska24.pl
 ^baner-$domain=wolanie.info
 -baner.$domain=wolanie.info
+^baner_$domain=chorzowianin.pl
