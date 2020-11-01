@@ -929,3 +929,4 @@ _banner_$domain=jagodnik.pl
 ^banery^$domain=alexjones.pl
 -banner-$domain=techsetter.pl
 ^banery^$domain=ipolska.info
+||e-stargard.pl^*^sarl^
