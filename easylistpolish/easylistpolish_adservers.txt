@@ -13,3 +13,5 @@
 ||waytogrow.eu^$third-party
 ||waytogrow.pl^$third-party
 ||wtg-ads.com^$third-party
+||tvtoss.com
+||pocketAds.pl
