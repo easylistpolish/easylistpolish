@@ -944,3 +944,4 @@ _banner_$domain=jagodnik.pl
 ||vetopedia.pl^*^vetid.
 ||vetopedia.pl^*^newbanvetid.
 ^rek^$domain=tujastrzebie.pl
+^rek^$domain=tuzory.pl
