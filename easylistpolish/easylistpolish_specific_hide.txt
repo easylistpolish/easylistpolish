@@ -1544,3 +1544,4 @@ wpolityce.pl##.tile--ad-tile
 elbi.pl##a[href="http://www.et-media.pl"]
 elbi.pl##div.reklama_przycisk
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
+erw24.net###gkZyczenia
