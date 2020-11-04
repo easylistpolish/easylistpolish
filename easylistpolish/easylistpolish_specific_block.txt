@@ -945,3 +945,4 @@ _banner_$domain=jagodnik.pl
 ||vetopedia.pl^*^newbanvetid.
 ^rek^$domain=tujastrzebie.pl
 ^rek^$domain=tuzory.pl
+^inline__1_$domain=tudeblin.pl
