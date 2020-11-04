@@ -1532,3 +1532,4 @@ trybawaryjny.pl###text-15
 trybawaryjny.pl###text-16
 trybawaryjny.pl###text-19
 tv.pl##.middle-salesmedia
+zw.lt##div[class^="g-dyn a-"]
