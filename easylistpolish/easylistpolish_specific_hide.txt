@@ -1539,4 +1539,9 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
-eop24.net##section#gkZyczenia
+wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
+wpolityce.pl##.tile--ad-tile
+elbi.pl##a[href="http://www.et-media.pl"]
+elbi.pl##div.reklama_przycisk
+jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
+eop24.net,erw24.net###gkZyczenia
