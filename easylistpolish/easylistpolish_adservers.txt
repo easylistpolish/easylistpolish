@@ -8,8 +8,10 @@
 ||incontext.pl^$third-party
 ||leadstar.pl^$third-party
 ||media.stsaff.pl^$third-party
+||pocketads.pl^$third-party
 ||reklamawadowice24.pl^$third-party
 ||rewords.pl^$third-party
+||tvtoss.com^$third-party
 ||waytogrow.eu^$third-party
 ||waytogrow.pl^$third-party
 ||wtg-ads.com^$third-party
