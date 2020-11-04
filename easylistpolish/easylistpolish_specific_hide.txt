@@ -1535,3 +1535,5 @@ tv.pl##.middle-salesmedia
 zw.lt##div[class^="g-dyn a-"]
 twojskaryszew.pl##.site-header .np-header-ads-area
 uniejow.net.pl##.topLayer
+uploaduj.com##a[href^="https://hotpay.pl"]
+uploaduj.com##a[href^="https://lead.network/"]
