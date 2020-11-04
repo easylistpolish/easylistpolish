@@ -1526,6 +1526,8 @@ wilanownews.pl###main center > a
 wilanownews.pl###text-2
 conamokotowie.pl##.menu__ul + .a-re + a
 conamokotowie.pl##.a-re+a:nth-of-type(1)
+izoliborz.pl##a[href^="http://nieruchomosciochota.pl/"]
+tsl-biznes.pl##div[class^="a-single a-"]
 trybawaryjny.pl###text-15
 trybawaryjny.pl###text-16
 trybawaryjny.pl###text-19
