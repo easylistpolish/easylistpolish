@@ -1537,3 +1537,4 @@ twojskaryszew.pl##.site-header .np-header-ads-area
 uniejow.net.pl##.topLayer
 uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
+ustrzyki24.pl##.ads-s
