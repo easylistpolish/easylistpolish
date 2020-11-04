@@ -1539,3 +1539,5 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
+wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
+wpolityce.pl##.tile--ad-tile
