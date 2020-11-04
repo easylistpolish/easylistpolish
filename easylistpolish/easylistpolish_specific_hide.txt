@@ -1531,3 +1531,4 @@ tsl-biznes.pl##div[class^="a-single a-"]
 trybawaryjny.pl###text-15
 trybawaryjny.pl###text-16
 trybawaryjny.pl###text-19
+tv.pl##.middle-salesmedia
