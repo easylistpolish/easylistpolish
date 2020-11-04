@@ -939,3 +939,4 @@ _banner_$domain=jagodnik.pl
 ^banner_$domain=conamokotowie.pl
 ||iochota.pl^*^inline__1080942_
 ^therapy.$domain=tvklodzka.pl
+||twojatv.info^*^popup.js$script
