@@ -1552,3 +1552,4 @@ walbrzyszek.com##aside.rpre_tlo
 waszdzienpodniu.pl###slider
 webhostingtalk.pl###sectionb
 gazeta.myslenice.pl##.spot
+whitemad.pl###custom_html-15
