@@ -1554,3 +1554,4 @@ webhostingtalk.pl###sectionb
 gazeta.myslenice.pl##.spot
 whitemad.pl###custom_html-15
 gorlice24.pl##.topLayer
+krynica-zdroj.net###text-2
