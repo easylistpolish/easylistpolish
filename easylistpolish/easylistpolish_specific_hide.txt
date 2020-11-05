@@ -251,7 +251,7 @@ slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 przeclaw24.pl,tygodnik-krapkowicki.info###sbox-window
 techfreak.pl###secondary
-czadrow24.pl###secondary-right aside:nth-child(3)
+czadrow24.pl###secondaild(3)
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
 naekranie.pl###sg_belka_srodek
@@ -1539,4 +1539,16 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
+wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
+wpolityce.pl##.tile--ad-tile
+elbi.pl##a[href="http://www.et-media.pl"]
+elbi.pl##div.reklama_przycisk
+jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
+eop24.net,erw24.net###gkZyczenia
+tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
+vorek.pl##a[href^="http://www.likeplus.eu/"]
+w210.pl##.af_sidebar > center
+walbrzyszek.com##aside.rpre_tlo
+waszdzienpodniu.pl###slider
+webhostingtalk.pl###sectionb
 gazeta.myslenice.pl##.spot
