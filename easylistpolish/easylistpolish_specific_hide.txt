@@ -1546,4 +1546,8 @@ elbi.pl##div.reklama_przycisk
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 eop24.net,erw24.net###gkZyczenia
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
+vorek.pl##a[href^="http://www.likeplus.eu/"]
+w210.pl##.af_sidebar > center
+walbrzyszek.com##aside.rpre_tlo
+waszdzienpodniu.pl###slider
 webhostingtalk.pl###sectionb
