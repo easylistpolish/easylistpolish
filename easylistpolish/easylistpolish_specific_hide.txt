@@ -1539,3 +1539,5 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
+info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
+info-ketrzyn24.pl##.banner-promotions-wrapper
