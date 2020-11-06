@@ -952,3 +952,4 @@ _banner_$domain=jagodnik.pl
 ||goldap.org.pl^*^fronton.
 mazury.info.pl^go2boat.
 mazury.info.pl^1logo^
+^banery^$domain=mazury24.eu
