@@ -1560,3 +1560,4 @@ filmweb.pl##div[class^="fa faBar"]
 interia.pl##div a[onclick*="plushbezlimitu.pl"]
 jasionka24.pl###text-23
 cenyrolnicze.pl##.bannergroup
+goldap.org.pl###text-7

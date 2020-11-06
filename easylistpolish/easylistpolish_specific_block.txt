@@ -949,3 +949,4 @@ _banner_$domain=jagodnik.pl
 ^rek^$domain=tuwodzislaw.pl
 ||miastons.pl^*^doner-
 ^banners^$domain=anonse-krosno.pl
+||goldap.org.pl^*^fronton.
