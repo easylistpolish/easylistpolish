@@ -950,3 +950,5 @@ _banner_$domain=jagodnik.pl
 ||miastons.pl^*^doner-
 ^banners^$domain=anonse-krosno.pl
 ||goldap.org.pl^*^fronton.
+mazury.info.pl^go2boat.
+mazury.info.pl^1logo^
