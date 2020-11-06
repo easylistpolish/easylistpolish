@@ -1559,3 +1559,4 @@ nowy-sacz.info##aside#text-6
 filmweb.pl##div[class^="fa faBar"]
 interia.pl##div a[onclick*="plushbezlimitu.pl"]
 jasionka24.pl###text-23
+cenyrolnicze.pl##.bannergroup
