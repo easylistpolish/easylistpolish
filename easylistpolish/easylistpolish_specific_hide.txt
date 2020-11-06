@@ -1557,4 +1557,4 @@ gorlice24.pl##.topLayer
 krynica-zdroj.net###text-2
 nowy-sacz.info##aside#text-6
 filmweb.pl##div[class^="fa faBar"]
-interia.pl##a[onclick*="plushbezlimitu.pl"]
+interia.pl##div a[onclick*="plushbezlimitu.pl"]
