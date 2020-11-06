@@ -948,3 +948,4 @@ _banner_$domain=jagodnik.pl
 ^inline__1_$domain=tudeblin.pl
 ^rek^$domain=tuwodzislaw.pl
 ||miastons.pl^*^doner-
+^banners^$domain=anonse-krosno.pl
