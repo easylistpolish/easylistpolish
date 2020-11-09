@@ -958,3 +958,4 @@ _banner_$domain=jagodnik.pl
 ||kiwip.pl^*^kniejka_
 ||wieliczkacity.pl^*^leroy_
 ||socialpress.pl^*^niech-cie-
+^banery_foto^$domain=terazlipno.pl
