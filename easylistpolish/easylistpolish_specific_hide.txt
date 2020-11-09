@@ -1574,3 +1574,5 @@ krosno112.pl##.module-ct img[width="280"]
 garnek.pl##.dbb
 gostynin.info##div#popup-billboard
 3trzy3.pl##.banner
+zycierolnika.pl###right .banneritem
+zycierolnika.pl###top3 .banneritem
