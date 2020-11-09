@@ -1570,3 +1570,4 @@ wiesci.com.pl###text-12
 wiesci.com.pl###text-9
 wiesci.info.pl##.reklamyPrawa
 wiesci.info.pl##.reklamaLewa
+krosno112.pl##.module-ct img[width="280"]
