@@ -1563,3 +1563,4 @@ cenyrolnicze.pl##.bannergroup
 goldap.org.pl###text-7
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 info-ketrzyn24.pl##.banner-promotions-wrapper
+lajty.pl##div[class^="adace_ad_"]
