@@ -943,6 +943,7 @@ _banner_$domain=jagodnik.pl
 ^inline__1_$domain=turyki.pl
 ||vetopedia.pl^*^vetid.
 ||vetopedia.pl^*^newbanvetid.
+<<<<<<< HEAD
 ^rek^$domain=tujastrzebie.pl
 ^rek^$domain=tuzory.pl
 ^inline__1_$domain=tudeblin.pl
@@ -955,3 +956,6 @@ mazury.info.pl^1logo^
 ^banery^$domain=mazury24.eu
 kiwip.pl^*^kniejka_
 ||wieliczkacity.pl^*^leroy_
+=======
+||socialpress.pl^*^niech-cie-
+>>>>>>> 142dec1f20fe7e8cf80fbb35b116f0e4ee6848f3
