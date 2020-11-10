@@ -1577,3 +1577,4 @@ gostynin.info##div#popup-billboard
 zycierolnika.pl###right .banneritem
 zycierolnika.pl###top3 .banneritem
 wiescimiedzychodzkie.pl##.topLayer
+anonse-krosno.pl###jm-top-mod2-in
