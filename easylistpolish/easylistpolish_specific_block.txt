@@ -959,3 +959,5 @@ _banner_$domain=jagodnik.pl
 ||wieliczkacity.pl^*^leroy_
 ||socialpress.pl^*^niech-cie-
 ^banery_foto^$domain=terazlipno.pl
+||wirtualnyelk.pl^*^artystyczny-dom-
+||wirtualnyelk.pl^*^bus-lotnisko-
