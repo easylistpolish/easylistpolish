@@ -961,3 +961,4 @@ _banner_$domain=jagodnik.pl
 ^banery_foto^$domain=terazlipno.pl
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
+wkikole.pl##.topLayer
