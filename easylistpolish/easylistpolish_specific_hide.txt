@@ -1546,3 +1546,34 @@ elbi.pl##div.reklama_przycisk
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 eop24.net,erw24.net###gkZyczenia
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
+vorek.pl##a[href^="http://www.likeplus.eu/"]
+w210.pl##.af_sidebar > center
+walbrzyszek.com##aside.rpre_tlo
+waszdzienpodniu.pl###slider
+webhostingtalk.pl###sectionb
+gazeta.myslenice.pl##.spot
+whitemad.pl###custom_html-15
+gorlice24.pl##.topLayer
+krynica-zdroj.net###text-2
+nowy-sacz.info##aside#text-6
+filmweb.pl##div[class^="fa faBar"]
+interia.pl##div a[onclick*="plushbezlimitu.pl"]
+jasionka24.pl###text-23
+cenyrolnicze.pl##.bannergroup
+goldap.org.pl###text-7
+info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
+info-ketrzyn24.pl##.banner-promotions-wrapper
+lajty.pl##div[class^="adace_ad_"]
+wiadomoscikosmetyczne.pl##.baner
+wiesci.com.pl###text-23
+wiesci.com.pl###text-12
+wiesci.com.pl###text-9
+wiesci.info.pl##.reklamyPrawa
+wiesci.info.pl##.reklamaLewa
+krosno112.pl##.module-ct img[width="280"]
+garnek.pl##.dbb
+gostynin.info##div#popup-billboard
+3trzy3.pl##.banner
+zycierolnika.pl###right .banneritem
+zycierolnika.pl###top3 .banneritem
+wiescimiedzychodzkie.pl##.topLayer
