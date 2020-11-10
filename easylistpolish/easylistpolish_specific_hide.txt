@@ -1576,3 +1576,4 @@ gostynin.info##div#popup-billboard
 3trzy3.pl##.banner
 zycierolnika.pl###right .banneritem
 zycierolnika.pl###top3 .banneritem
+wiescimiedzychodzkie.pl##.topLayer
