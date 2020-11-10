@@ -1578,3 +1578,4 @@ zycierolnika.pl###right .banneritem
 zycierolnika.pl###top3 .banneritem
 wiescimiedzychodzkie.pl##.topLayer
 anonse-krosno.pl###jm-top-mod2-in
+trybunaczestochowska.pl##div[style="margin-top: 75px; margin-bottom: 25px;"] center
