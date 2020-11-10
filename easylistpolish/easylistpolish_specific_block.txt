@@ -962,3 +962,7 @@ _banner_$domain=jagodnik.pl
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
 wkikole.pl##.topLayer
+-baner-$domain=infobusko.pl
+-reklama-$domain=infobusko.pl
+||infobusko.pl^*^gutek-kruk-
+||infobusko.pl^*^biskas-reklam-
