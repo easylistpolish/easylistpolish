@@ -1539,3 +1539,6 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
+sad24.pl##div._ning_inner
+sad24.pl##.vip
+sad24.pl##.main-top-banner
