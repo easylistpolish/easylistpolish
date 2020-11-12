@@ -960,3 +960,4 @@ _banner_$domain=jagodnik.pl
 ||infobusko.pl^*^gutek-kruk-
 ||infobusko.pl^*^biskas-reklam-
 ||radiobielsko.pl^$subdocument,domain=radioexpress.pl
+||trybunaczestochowska.pl^*^popup-maker^$script
