@@ -1583,3 +1583,6 @@ lubliniec365.pl##.topLayer
 wkikole.pl##.topLayer
 webiko.pl##.view-promocje a[target="_blank"]
 wpu24.pl##.topLayer
+narodowcy.net##a[href^="https://capitalbook.com.pl/"]
+narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
+narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
