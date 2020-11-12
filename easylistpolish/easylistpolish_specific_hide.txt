@@ -1539,3 +1539,5 @@ uploaduj.com##a[href^="https://hotpay.pl"]
 uploaduj.com##a[href^="https://lead.network/"]
 ustrzyki24.pl##.ads-s
 vampirediaries.pl##td[onclick^="window.location"]
+mamotoja.pl###adl-placement-0-wrapper
+mamotoja.pl##.ecomm-wrapper
