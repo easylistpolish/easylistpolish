@@ -1586,3 +1586,4 @@ wpu24.pl##.topLayer
 narodowcy.net##a[href^="https://capitalbook.com.pl/"]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
+ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
