@@ -964,3 +964,6 @@ _banner_$domain=jagodnik.pl
 ||gazetaregionalna.com^*^volvo_kombinujemy-
 ||gazetaregionalna.com^*^posadzki300x250-
 ||ebroker.pl^$image,domain=mojeanonse.pl
+||swiatczytnikow.pl^*^legimi_bezlimitu_
+||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
+||swiatczytnikow.pl^*^zenbox-banner-
