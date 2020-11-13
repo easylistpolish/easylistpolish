@@ -1594,3 +1594,5 @@ przeglad.olkuski.pl##div a[style*="-baner-"]
 sad24.pl##._ning_inner
 sad24.pl##.vip
 sad24.pl##.main-top-banner
+mamotoja.pl###adl-placement-0-wrapper
+mamotoja.pl##.ecomm-wrapper
