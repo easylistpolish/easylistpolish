@@ -1588,3 +1588,4 @@ narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 radiobielsko.pl##a[href^="https://www.kubisa24.pl"]
+gazetaregionalna.com##.td-header-sp-recs

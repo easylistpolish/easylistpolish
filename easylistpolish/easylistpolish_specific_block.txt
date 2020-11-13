@@ -961,3 +961,5 @@ _banner_$domain=jagodnik.pl
 ||infobusko.pl^*^biskas-reklam-
 ||radiobielsko.pl^$subdocument,domain=radioexpress.pl
 ||trybunaczestochowska.pl^*^popup-maker^$script
+||gazetaregionalna.com^*^volvo_kombinujemy-
+||gazetaregionalna.com^*^posadzki300x250-
