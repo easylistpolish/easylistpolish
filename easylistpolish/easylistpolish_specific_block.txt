@@ -943,3 +943,9 @@ _banner_$domain=jagodnik.pl
 ^inline__1_$domain=turyki.pl
 ||vetopedia.pl^*^vetid.
 ||vetopedia.pl^*^newbanvetid.
+||magazynregionalny.pl^*^mr%C3%B3wka%20listopad.
+||magazynregionalny.pl^*^baner%20onet%20re100.
+||magazynregionalny.pl^*^anta%20baner%20onet.
+||magazynregionalny.pl^*^baner%20reklama.
+||magazynregionalny.pl^*^Baner%20nowy%20KI.
+^baner_$domain=magazynregionalny.pl
