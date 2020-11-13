@@ -967,3 +967,4 @@ _banner_$domain=jagodnik.pl
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||swiatczytnikow.pl^*^zenbox-banner-
+||baby-shower.pl^*^babymama-
