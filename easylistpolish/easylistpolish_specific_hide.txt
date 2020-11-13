@@ -1606,3 +1606,4 @@ miastko24.pl##.topLayer
 ibytow.pl##.topLayer
 drawskopomorskie.com##.topLayer
 dsi.net.pl##a[href*="/banners/click/"]
+isrhornet.pl##.banners
