@@ -1604,3 +1604,4 @@ badaniaprenatalne.pl##.ban-top
 domiporta.pl##.sponsored_article
 miastko24.pl##.topLayer
 ibytow.pl##.topLayer
+drawskopomorskie.com##.topLayer
