@@ -969,3 +969,7 @@ _banner_$domain=jagodnik.pl
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||baby-shower.pl^*^babymama-
 ||mamaklub.pl^*^dobre-powody.
+||magazynregionalny.pl^*^mr%C3%B3wka%20listopad.
+^baner%$domain=magazynregionalny.pl
+0baner%$domain=magazynregionalny.pl
+^baner_$domain=magazynregionalny.pl
