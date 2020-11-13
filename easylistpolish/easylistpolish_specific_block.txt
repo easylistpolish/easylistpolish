@@ -963,3 +963,4 @@ _banner_$domain=jagodnik.pl
 ||trybunaczestochowska.pl^*^popup-maker^$script
 ||gazetaregionalna.com^*^volvo_kombinujemy-
 ||gazetaregionalna.com^*^posadzki300x250-
+||ebroker.pl^$image,domain=mojeanonse.pl
