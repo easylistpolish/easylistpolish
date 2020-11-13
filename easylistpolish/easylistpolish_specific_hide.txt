@@ -1601,3 +1601,4 @@ mjakmama24.pl##.zpr_shopping__article
 mjakmama24.pl##div[id^="placement"]
 badaniaprenatalne.pl##a[href*="&utm_campaign="]
 badaniaprenatalne.pl##.ban-top
+domiporta.pl##.sponsored_article
