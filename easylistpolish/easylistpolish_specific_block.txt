@@ -968,3 +968,4 @@ _banner_$domain=jagodnik.pl
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||baby-shower.pl^*^babymama-
+||mamaklub.pl^*^dobre-powody.

@@ -1596,3 +1596,4 @@ sad24.pl##.vip
 sad24.pl##.main-top-banner
 mamotoja.pl###adl-placement-0-wrapper
 mamotoja.pl##.ecomm-wrapper
+mamaklub.pl##.header-billboard
