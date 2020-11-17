@@ -1607,3 +1607,5 @@ ibytow.pl##.topLayer
 drawskopomorskie.com##.topLayer
 dsi.net.pl##a[href*="/banners/click/"]
 isrhornet.pl##.banners
+chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
+chwaszczyno.pl##.jet-images-layout[data-settings*="justifyHeight"]
