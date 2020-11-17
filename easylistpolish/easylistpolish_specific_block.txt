@@ -946,3 +946,4 @@ _reklamy_$domain=chojna24.pl
 ||tv-pelplin.pl^*^auto-frost2016.
 -reklama-$domain=tv-pelplin.pl
 ^reklama-$domain=tv-pelplin.pl
+^banners^$domain=otososnowiec.pl
