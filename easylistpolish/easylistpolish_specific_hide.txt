@@ -1615,3 +1615,4 @@ gazetaslupecka.pl###media_image-7
 gram.pl##a[href^="https://track.webgains.com/"]
 gram.pl##.adocean
 lajfy.com##div[class^="banner-over-"]
+legalnibukmacherzyinternetowi.pl###mobile-menu-offer
