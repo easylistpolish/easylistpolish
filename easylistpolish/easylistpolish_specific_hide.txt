@@ -1617,3 +1617,4 @@ gram.pl##.adocean
 lajfy.com##div[class^="banner-over-"]
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 typuje.pl##.kodbaner
+domiporta.pl##a[href*="/ad.doubleclick."]
