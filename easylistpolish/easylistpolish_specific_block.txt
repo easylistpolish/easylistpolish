@@ -947,4 +947,3 @@ _reklamy_$domain=chojna24.pl
 -reklama-$domain=tv-pelplin.pl
 ^reklama-$domain=tv-pelplin.pl
 ^banners^$domain=otososnowiec.pl
-planowaniewesela.pl##header-banner
