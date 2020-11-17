@@ -1561,3 +1561,4 @@ infozlocieniec.pl##.infoz-widget
 swidnica24.pl##a[href^="https://www.autodoc.pl/"]
 ws-24.pl##.rl-image-widget-link
 naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad"]
+tvwalbrzych.pl##a[class^="single_ad_"]
