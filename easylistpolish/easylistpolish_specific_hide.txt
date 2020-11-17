@@ -1546,4 +1546,73 @@ elbi.pl##div.reklama_przycisk
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 eop24.net,erw24.net###gkZyczenia
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
+vorek.pl##a[href^="http://www.likeplus.eu/"]
+w210.pl##.af_sidebar > center
+walbrzyszek.com##aside.rpre_tlo
+waszdzienpodniu.pl###slider
+webhostingtalk.pl###sectionb
+gazeta.myslenice.pl##.spot
+whitemad.pl###custom_html-15
+gorlice24.pl##.topLayer
+krynica-zdroj.net###text-2
+nowy-sacz.info##aside#text-6
+filmweb.pl##div[class^="fa faBar"]
+interia.pl##div a[onclick*="plushbezlimitu.pl"]
+jasionka24.pl###text-23
+cenyrolnicze.pl##.bannergroup
+goldap.org.pl###text-7
+info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
+info-ketrzyn24.pl##.banner-promotions-wrapper
+lajty.pl##div[class^="adace_ad_"]
+wiadomoscikosmetyczne.pl##.baner
+wiesci.com.pl###text-23
+wiesci.com.pl###text-12
+wiesci.com.pl###text-9
+wiesci.info.pl##.reklamyPrawa
+wiesci.info.pl##.reklamaLewa
+krosno112.pl##.module-ct img[width="280"]
+garnek.pl##.dbb
+gostynin.info##div#popup-billboard
+3trzy3.pl##.banner
+zycierolnika.pl###right .banneritem
+zycierolnika.pl###top3 .banneritem
+wiescimiedzychodzkie.pl##.topLayer
+anonse-krosno.pl###jm-top-mod2-in
+trybunaczestochowska.pl##div[style="margin-top: 75px; margin-bottom: 25px;"] center
+lubliniec365.pl##.topLayer
+wkikole.pl##.topLayer
+webiko.pl##.view-promocje a[target="_blank"]
+wpu24.pl##.topLayer
+narodowcy.net##a[href^="https://capitalbook.com.pl/"]
+narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
+narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
+ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
+radiobielsko.pl##a[href^="https://www.kubisa24.pl"]
+gazetaregionalna.com##.td-header-sp-recs
+trojmiasto.pl##.banner-maxia--glowna
+przeglad.olkuski.pl##div a[style*="-baner-"]
+sad24.pl##._ning_inner
+sad24.pl##.vip
+sad24.pl##.main-top-banner
+mamotoja.pl###adl-placement-0-wrapper
+mamotoja.pl##.ecomm-wrapper
+mamaklub.pl##.header-billboard
+mjakmama24.pl##.zpr_shopping__article
+mjakmama24.pl##div[id^="placement"]
+badaniaprenatalne.pl##a[href*="&utm_campaign="]
+badaniaprenatalne.pl##.ban-top
+domiporta.pl##.sponsored_article
+miastko24.pl##.topLayer
+ibytow.pl##.topLayer
+drawskopomorskie.com##.topLayer
+dsi.net.pl##a[href*="/banners/click/"]
+isrhornet.pl##.banners
+chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
+chwaszczyno.pl##.jet-images-layout[data-settings*="justifyHeight"]
+gazetaslupecka.pl##.banner-promotions-wrapper
+gazetaslupecka.pl##.theiaStickySidebar .simple-image
+gazetaslupecka.pl###media_image-7
+gram.pl##a[href^="https://track.webgains.com/"]
+gram.pl##.adocean
+lajfy.com##div[class^="banner-over-"]
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
