@@ -1564,3 +1564,5 @@ naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad"]
 tvwalbrzych.pl##a[class^="single_ad_"]
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
 wiadomosciwalbrzyskie.pl###media_image-2
+dzierzgon.info.pl###text-4
+dzierzgon.info.pl###text-12
