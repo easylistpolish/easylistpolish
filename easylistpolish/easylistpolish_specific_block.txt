@@ -973,3 +973,5 @@ _banner_$domain=jagodnik.pl
 ^baner%$domain=magazynregionalny.pl
 0baner%$domain=magazynregionalny.pl
 ^baner_$domain=magazynregionalny.pl
+||typuje.pl^*^betfan3.
+||typuje.pl^*^superbet.
