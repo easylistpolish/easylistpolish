@@ -1563,3 +1563,4 @@ ws-24.pl##.rl-image-widget-link
 naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad"]
 tvwalbrzych.pl##a[class^="single_ad_"]
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
+wiadomosciwalbrzyskie.pl###media_image-2
