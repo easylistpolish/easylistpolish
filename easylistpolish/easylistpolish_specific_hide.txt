@@ -1559,3 +1559,4 @@ tarnogorski.info##.td-a-rec > .td-adspot-title + a
 lokalnyreporter.pl##.lokal-widget
 infozlocieniec.pl##.infoz-widget
 swidnica24.pl##a[href^="https://www.autodoc.pl/"]
+ws-24.pl##.rl-image-widget-link
