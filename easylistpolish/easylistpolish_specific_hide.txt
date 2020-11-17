@@ -1555,3 +1555,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 rmf24.pl##[class="ad adsBilbordArticle"]
 tv-pelplin.pl##.moduletable sup
+tarnogorski.info##.td-a-rec > .td-adspot-title + a
