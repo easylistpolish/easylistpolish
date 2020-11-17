@@ -1609,3 +1609,6 @@ dsi.net.pl##a[href*="/banners/click/"]
 isrhornet.pl##.banners
 chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
 chwaszczyno.pl##.jet-images-layout[data-settings*="justifyHeight"]
+gazetaslupecka.pl##.banner-promotions-wrapper
+gazetaslupecka.pl##.theiaStickySidebar .simple-image
+gazetaslupecka.pl###media_image-7
