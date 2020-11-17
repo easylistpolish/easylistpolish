@@ -975,3 +975,10 @@ _banner_$domain=jagodnik.pl
 ^baner_$domain=magazynregionalny.pl
 ||typuje.pl^*^betfan3.
 ||typuje.pl^*^superbet.
+_reklama_$domain=wdrawskupomorskim.pl
+||wdrawskupomorskim.pl^*^jobsora%
+||wdrawskupomorskim.pl^*^mr%C3%B3wka%20listopad.
+^baner%$domain=wdrawskupomorskim.pl
+*0baner%$domain=wdrawskupomorskim.pl
+_baner_$domain=wdrawskupomorskim.pl
+^baner_$domain=wdrawskupomorskim.pl
