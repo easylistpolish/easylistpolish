@@ -940,6 +940,7 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-baner.$domain=kociewie.online
 ||tv-pelplin.pl^*^MM-tv.
 ||tv-pelplin.pl^*^meble%20frost.
 ||tv-pelplin.pl^*^auto-frost2016.
