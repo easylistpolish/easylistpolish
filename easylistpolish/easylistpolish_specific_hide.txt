@@ -151,7 +151,6 @@ pozatorun.pl,tylkotorun.pl###fsp_light
 minskmaz.com###g-a-s
 naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
-ele24.net,eop24.net,erw24.net###gkZyczenia
 niedziela.nl###gk_banner
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
@@ -1531,7 +1530,6 @@ infobus.pl##object[idrekl]
 magazif.com##p[data-banner]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 poscigi.pl##rs-slides
-elc24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
@@ -1553,3 +1551,4 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+esi24.net,ele24.net,eop24.net,erw24.net,elc24.net##section#gkZyczenia
