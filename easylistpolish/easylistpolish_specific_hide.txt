@@ -1566,4 +1566,8 @@ tvwalbrzych.pl##a[class^="single_ad_"]
 wiadomosciwalbrzyskie.pl###media_image-2
 dzierzgon.info.pl###text-4
 dzierzgon.info.pl###text-12
+lokalnatelewizja.pl##.advert-B1
+lowking.pl##a[href^="https://pitbull.pl/"]
+lowking.pl##a[href^="https://atommuscle.pl/"]
+lowking.pl##a[href^="https://pitbullcity.pl/"]
 planowaniewesela.pl###header-banner
