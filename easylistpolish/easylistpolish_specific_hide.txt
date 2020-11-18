@@ -1571,3 +1571,4 @@ lowking.pl##a[href^="https://pitbull.pl/"]
 lowking.pl##a[href^="https://atommuscle.pl/"]
 lowking.pl##a[href^="https://pitbullcity.pl/"]
 planowaniewesela.pl###header-banner
+blogi.pl##div[id^="sad_"]
