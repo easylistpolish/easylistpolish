@@ -947,4 +947,6 @@ _reklamy_$domain=chojna24.pl
 -reklama-$domain=tv-pelplin.pl
 ^reklama-$domain=tv-pelplin.pl
 ^banners^$domain=otososnowiec.pl
+||pzbuk.pl^$script,domain=lowking.pl
+||ceneo.pl^$image,domain=exerim.pl
 ||sterta.pl^$domain=linkologia.pl
