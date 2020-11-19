@@ -1572,3 +1572,7 @@ lowking.pl##a[href^="https://atommuscle.pl/"]
 lowking.pl##a[href^="https://pitbullcity.pl/"]
 planowaniewesela.pl###header-banner
 blogi.pl##div[id^="sad_"]
+dkl24.pl##.polecamy
+dkl24.pl##.div_scroller
+dkl24.pl##.reklama_700
+dkl24.pl###banner10
