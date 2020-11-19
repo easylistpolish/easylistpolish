@@ -950,3 +950,4 @@ _reklamy_$domain=chojna24.pl
 ||ceneo.pl^$image,domain=exerim.pl
 ||sterta.pl^$domain=linkologia.pl
 ^banery^$domain=zywiecsupernowa.pl
+^banners^$domain=dziennikmazowiecki.pl
