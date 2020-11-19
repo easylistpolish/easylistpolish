@@ -1576,3 +1576,4 @@ dkl24.pl##.polecamy
 dkl24.pl##.div_scroller
 dkl24.pl##.reklama_700
 dkl24.pl###banner10
+wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
