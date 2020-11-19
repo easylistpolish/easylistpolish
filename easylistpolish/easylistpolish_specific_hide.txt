@@ -1579,3 +1579,4 @@ kanonierzy.com##a[href^="https://www.ucando.pl"]
 kanonierzy.com##a[href^="http://www.sfd.pl"]
 kanonierzy.com##a[href^="https://www.typ.pl"]
 esi24.net,ele24.net,eop24.net,erw24.net,elc24.net##section#gkZyczenia
+eku24.net##section#gkZyczenia
