@@ -151,7 +151,6 @@ pozatorun.pl,tylkotorun.pl###fsp_light
 minskmaz.com###g-a-s
 naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
-ele24.net,eop24.net,erw24.net###gkZyczenia
 niedziela.nl###gk_banner
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
@@ -1531,7 +1530,6 @@ infobus.pl##object[idrekl]
 magazif.com##p[data-banner]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 poscigi.pl##rs-slides
-elc24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
@@ -1553,4 +1551,36 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+rmf24.pl##[class="ad adsBilbordArticle"]
+tv-pelplin.pl##.moduletable sup
+tarnogorski.info##.td-a-rec > .td-adspot-title + a
+lokalnyreporter.pl##.lokal-widget
+infozlocieniec.pl##.infoz-widget
+swidnica24.pl##a[href^="https://www.autodoc.pl/"]
+ws-24.pl##.rl-image-widget-link
+naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad"]
+tvwalbrzych.pl##a[class^="single_ad_"]
+24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
+wiadomosciwalbrzyskie.pl###media_image-2
+dzierzgon.info.pl###text-4
+dzierzgon.info.pl###text-12
+lokalnatelewizja.pl##.advert-B1
+lowking.pl##a[href^="https://pitbull.pl/"]
+lowking.pl##a[href^="https://atommuscle.pl/"]
+lowking.pl##a[href^="https://pitbullcity.pl/"]
+planowaniewesela.pl###header-banner
+blogi.pl##div[id^="sad_"]
+dkl24.pl##.polecamy
+dkl24.pl##.div_scroller
+dkl24.pl##.reklama_700
+dkl24.pl###banner10
+wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
+kanonierzy.com##a[href^="https://www.ucando.pl"]
+kanonierzy.com##a[href^="http://www.sfd.pl"]
+kanonierzy.com##a[href^="https://www.typ.pl"]
+ezg24.net,epa24.net,eku24.net,esi24.net,ele24.net,eop24.net,erw24.net,elc24.net##section#gkZyczenia
+sieradz.com.pl##.billboard
+naszaokolica24.pl##.banneritem
+infoprzasnysz.com##[itemtype$="WPAdBlock"]
+dziennikmazowiecki.pl##.td-a-rec
 panoramakutna.pl##[id^="metaslider-id-"]
