@@ -940,4 +940,14 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||dkl24.pl^*^solidus.
+-baner.$domain=kociewie.online
+||tv-pelplin.pl^*^MM-tv.
+||tv-pelplin.pl^*^meble%20frost.
+||tv-pelplin.pl^*^auto-frost2016.
+-reklama-$domain=tv-pelplin.pl
+^reklama-$domain=tv-pelplin.pl
+^banners^$domain=otososnowiec.pl
+||pzbuk.pl^$script,domain=lowking.pl
+||ceneo.pl^$image,domain=exerim.pl
+||sterta.pl^$domain=linkologia.pl
+^banery^$domain=zywiecsupernowa.pl
