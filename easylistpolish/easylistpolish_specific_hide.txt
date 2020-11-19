@@ -1577,3 +1577,6 @@ dkl24.pl##.div_scroller
 dkl24.pl##.reklama_700
 dkl24.pl###banner10
 wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
+kanonierzy.com##a[href^="https://www.ucando.pl"]
+kanonierzy.com##a[href^="http://www.sfd.pl"]
+kanonierzy.com##a[href^="https://www.typ.pl"]
