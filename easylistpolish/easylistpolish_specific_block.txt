@@ -961,3 +961,4 @@ _reklamy_$domain=chojna24.pl
 ||emisja.contentstream.pl^$script,domain=tylkoastronomia.pl
 ||emisja.contentstream.pl^$script,domain=zmianynaziemi.pl
 ||emisja.contentstream.pl^$script,domain=tylkoprzyroda.pl
+||emisja.contentstream.pl^$script,domain=superdania.pl
