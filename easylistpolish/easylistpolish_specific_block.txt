@@ -225,8 +225,6 @@ _reklamy_$domain=chojna24.pl
 ||cba.pl/cba1.jpg
 ||cdn.dcsaas.net^$domain=sklepbazant.pl|swiatmodeli.eu
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
-||ceneo.pl^$image,domain=nowinylokalne.pl
-||ceneo.pl^*^banners^$domain=ppw.fishing|tromil.pl
 ||centrumkultury.eu^*^Drajw%20strona%20internetowa.
 ||centrumkultury.eu^*^KBBC_kinads_
 ||ceny-zlomu.pl^*-223x134_
@@ -967,3 +965,5 @@ _reklamy_$domain=chojna24.pl
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ^r_-$domain=sloworegionu.pl
 ^campaigns^$domain=grodzisknews.pl
+-baner.$domain=pgo24.pl
+||ceneo.pl^*^banners^$domain=ppw.fishing|tromil.pl|nowinylokalne.pl|pgo24.pl
