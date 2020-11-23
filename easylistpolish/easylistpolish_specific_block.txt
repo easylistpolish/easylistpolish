@@ -953,3 +953,4 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=dziennikmazowiecki.pl
 ||panoramakutna.pl^*^mgpartner-
 ||emisja.contentstream.pl^$script,domain=tojuzbylo.pl
+||emisja.contentstream.pl^$script,domain=zmianysolarne.pl
