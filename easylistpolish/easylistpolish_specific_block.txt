@@ -956,3 +956,4 @@ _reklamy_$domain=chojna24.pl
 ||emisja.contentstream.pl^$script,domain=zmianysolarne.pl
 ||emisja.contentstream.pl^$script,domain=tylkonauka.pl
 ||emisja.contentstream.pl^$script,domain=innemedium.pl
+||emisja.contentstream.pl^$script,domain=jejportal.pl
