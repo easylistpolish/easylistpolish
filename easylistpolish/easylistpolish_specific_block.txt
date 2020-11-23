@@ -966,3 +966,4 @@ _reklamy_$domain=chojna24.pl
 ^banery^$domain=skionline.pl
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ^r_-$domain=sloworegionu.pl
+^campaigns^$domain=grodzisknews.pl
