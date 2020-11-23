@@ -1586,3 +1586,4 @@ dziennikmazowiecki.pl##.td-a-rec
 panoramakutna.pl##[id^="metaslider-id-"]
 slupca.pl##div[class^="g-single a-"] > div[style="margin:auto; text-align: center;"]
 swiatmotocykli.pl##div[class^="g-col b-"]
+zajefajna.com##img[src^="https://rapidu.net/banners/"]
