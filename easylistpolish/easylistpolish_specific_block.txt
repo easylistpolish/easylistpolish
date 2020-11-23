@@ -965,3 +965,4 @@ _reklamy_$domain=chojna24.pl
 ||partner.rankomat.pl^$domain=skionline.pl
 ^banery^$domain=skionline.pl
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
+^r_-$domain=sloworegionu.pl
