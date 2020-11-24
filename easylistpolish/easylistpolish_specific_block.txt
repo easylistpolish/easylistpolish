@@ -947,3 +947,6 @@ _reklamy_$domain=chojna24.pl
 -reklama-$domain=tv-pelplin.pl
 ^reklama-$domain=tv-pelplin.pl
 ^banners^$domain=otososnowiec.pl
+||zlubaczowa.pl^*^stantanders.
+||zlubaczowa.pl^*^beztroski-kredyt,
+||zlubaczowa.pl^*^narol=
