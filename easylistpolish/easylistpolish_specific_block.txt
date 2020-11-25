@@ -738,13 +738,6 @@ _reklamy_$domain=chojna24.pl
 ||sportsiedlce.pl^*^Mal-Pol-
 ||sportsiedlce.pl^*^SDB2_
 ||sportslaski.pl^*^1/2383.
-||spottedskarzysko.pl^*^bw_pazdziernik2019.
-||spottedskarzysko.pl^*^ckziu_
-||spottedskarzysko.pl^*^planetadziecka700x200.
-||spottedskarzysko.pl^*^rabato-.
-||spottedskarzysko.pl^*^sajgonka.
-||spottedskarzysko.pl^*^swiat_robotyki.
-||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
 ||staleo.pl^*^587c74fe36f77_
 ||staleo.pl^*^587c9a614cd75_
@@ -940,3 +933,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||spottedskarzysko.pl^*^pup_
