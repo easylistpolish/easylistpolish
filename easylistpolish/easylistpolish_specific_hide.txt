@@ -1553,3 +1553,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+iknurow.pl##aside.widget_text.widget.td_block_template_13
+iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
+iknurow.pl##.td-a-rec
