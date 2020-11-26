@@ -1589,3 +1589,4 @@ swiatmotocykli.pl##div[class^="g-col b-"]
 zajefajna.com##img[src^="https://rapidu.net/banners/"]
 sandomierztv.pl##.toplayer
 ddtorun.pl##div.bvideo
+ziemiadebicka.pl##div[class^="g-dyn a-"]
