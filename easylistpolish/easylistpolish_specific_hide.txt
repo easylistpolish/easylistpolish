@@ -1566,3 +1566,5 @@ tvwalbrzych.pl##a[class^="single_ad_"]
 wiadomosciwalbrzyskie.pl###media_image-2
 dzierzgon.info.pl###text-4
 dzierzgon.info.pl###text-12
+strefainzyniera.pl##a[href^="https://angielskitechniczny.edu.pl"]
+strefainzyniera.pl##a[href^="https://careers.mars.com/"]
