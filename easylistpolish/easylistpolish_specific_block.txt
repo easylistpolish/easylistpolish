@@ -965,3 +965,4 @@ _reklamy_$domain=chojna24.pl
 ||zlubaczowa.pl^*^narol=
 ||atthost.pl/banery/$domain=warownie.pl
 ||spottedskarzysko.pl^*^pup_
+||wysokomazowiecki24.pl^*^bazarek.
