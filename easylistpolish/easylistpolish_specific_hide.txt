@@ -1592,3 +1592,5 @@ ddtorun.pl##div.bvideo
 ziemiadebicka.pl##div[class^="g-dyn a-"]
 zlubaczowa.pl##.flexbannergroup
 zegocina.in##a [id^="banner-"]
+zloty-pociag.com##.popup_wrapper iframe
+spottedskarzysko.pl###gkPageContent .custom > p > a[target="_blank"] > img
