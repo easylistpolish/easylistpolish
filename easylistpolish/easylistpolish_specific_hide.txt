@@ -1600,3 +1600,4 @@ iknurow.pl##.td-a-rec
 korpovoice.pl##[class^="g-single a-"]
 epiotrkow.pl##.rtop
 epiotrkow.pl##.wcont a[href^="rd.php?id="]
+magazyn-ecommerce.pl##.bannersm
