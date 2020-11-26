@@ -970,4 +970,4 @@ _reklamy_$domain=chojna24.pl
 ||zlubaczowa.pl^*^stantanders.
 ||zlubaczowa.pl^*^beztroski-kredyt,
 ||zlubaczowa.pl^*^narol=
-zloty-pociag.com##.popup_wrapper iframe
+||atthost.pl/banery/$domain=warownie.pl
