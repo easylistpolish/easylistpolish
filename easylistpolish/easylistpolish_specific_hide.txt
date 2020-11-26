@@ -1591,3 +1591,4 @@ sandomierztv.pl##.toplayer
 ddtorun.pl##div.bvideo
 ziemiadebicka.pl##div[class^="g-dyn a-"]
 zlubaczowa.pl##.flexbannergroup
+zegocina.in##a [id^="banner-"]
