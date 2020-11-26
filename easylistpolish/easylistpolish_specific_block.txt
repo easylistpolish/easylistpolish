@@ -967,3 +967,4 @@ _reklamy_$domain=chojna24.pl
 ||spottedskarzysko.pl^*^pup_
 ||wysokomazowiecki24.pl^*^bazarek.
 _banner_$domain=itwiz.pl
+^baner_$domain=tc.ciechanow.pl
