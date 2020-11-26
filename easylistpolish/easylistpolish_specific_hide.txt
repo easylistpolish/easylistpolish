@@ -1594,3 +1594,6 @@ zlubaczowa.pl##.flexbannergroup
 zegocina.in##a [id^="banner-"]
 zloty-pociag.com##.popup_wrapper iframe
 spottedskarzysko.pl###gkPageContent .custom > p > a[target="_blank"] > img
+iknurow.pl##aside.widget_text.widget.td_block_template_13
+iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
+iknurow.pl##.td-a-rec
