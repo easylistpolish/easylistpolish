@@ -967,3 +967,6 @@ _reklamy_$domain=chojna24.pl
 ^campaigns^$domain=grodzisknews.pl
 -baner.$domain=pgo24.pl
 ||ceneo.pl^*^banners^$domain=ppw.fishing|tromil.pl|nowinylokalne.pl|pgo24.pl
+||zlubaczowa.pl^*^stantanders.
+||zlubaczowa.pl^*^beztroski-kredyt,
+||zlubaczowa.pl^*^narol=
