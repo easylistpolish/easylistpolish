@@ -969,3 +969,4 @@ _reklamy_$domain=chojna24.pl
 _banner_$domain=itwiz.pl
 ^baner_$domain=tc.ciechanow.pl
 ||stargardzka.pl^*^impakserwisskup.
+||kobiety-kobietom.com^*^dobrykantor.
