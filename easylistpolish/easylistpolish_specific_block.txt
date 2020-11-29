@@ -947,3 +947,5 @@ _reklamy_$domain=chojna24.pl
 -reklama-$domain=tv-pelplin.pl
 ^reklama-$domain=tv-pelplin.pl
 ^banners^$domain=otososnowiec.pl
+^baner_$domain=tygodnikprzasnyski.com.pl
+||tygodnikprzasnyski.com.pl^*^Mrowka%
