@@ -968,3 +968,4 @@ _reklamy_$domain=chojna24.pl
 ||wysokomazowiecki24.pl^*^bazarek.
 _banner_$domain=itwiz.pl
 ^baner_$domain=tc.ciechanow.pl
+||stargardzka.pl^*^impakserwisskup.
