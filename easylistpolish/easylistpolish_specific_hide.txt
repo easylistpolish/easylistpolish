@@ -1605,3 +1605,4 @@ wataha.no##.td-a-rec
 strefa.se###secondary [id^="media_image-"]
 kle-news.pl##[class^="g-dyn a-"]
 kle-news.pl##.td-a-rec
+-banerek-$domain=goleniowska.com
