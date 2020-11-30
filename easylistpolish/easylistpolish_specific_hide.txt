@@ -151,7 +151,6 @@ pozatorun.pl,tylkotorun.pl###fsp_light
 minskmaz.com###g-a-s
 naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
-ele24.net,eop24.net,erw24.net###gkZyczenia
 niedziela.nl###gk_banner
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
@@ -1531,7 +1530,6 @@ infobus.pl##object[idrekl]
 magazif.com##p[data-banner]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 poscigi.pl##rs-slides
-elc24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
@@ -1566,4 +1564,52 @@ tvwalbrzych.pl##a[class^="single_ad_"]
 wiadomosciwalbrzyskie.pl###media_image-2
 dzierzgon.info.pl###text-4
 dzierzgon.info.pl###text-12
+lokalnatelewizja.pl##.advert-B1
+lowking.pl##a[href^="https://pitbull.pl/"]
+lowking.pl##a[href^="https://atommuscle.pl/"]
+lowking.pl##a[href^="https://pitbullcity.pl/"]
+planowaniewesela.pl###header-banner
+blogi.pl##div[id^="sad_"]
+dkl24.pl##.polecamy
+dkl24.pl##.div_scroller
+dkl24.pl##.reklama_700
+dkl24.pl###banner10
+wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
+kanonierzy.com##a[href^="https://www.ucando.pl"]
+kanonierzy.com##a[href^="http://www.sfd.pl"]
+kanonierzy.com##a[href^="https://www.typ.pl"]
+ezg24.net,epa24.net,eku24.net,esi24.net,ele24.net,eop24.net,erw24.net,elc24.net##section#gkZyczenia
+sieradz.com.pl##.billboard
+naszaokolica24.pl##.banneritem
+infoprzasnysz.com##[itemtype$="WPAdBlock"]
+dziennikmazowiecki.pl##.td-a-rec
+panoramakutna.pl##[id^="metaslider-id-"]
+slupca.pl##div[class^="g-single a-"] > div[style="margin:auto; text-align: center;"]
+swiatmotocykli.pl##div[class^="g-col b-"]
+zajefajna.com##img[src^="https://rapidu.net/banners/"]
+sandomierztv.pl##.toplayer
+ddtorun.pl##div.bvideo
+ziemiadebicka.pl##div[class^="g-dyn a-"]
+zlubaczowa.pl##.flexbannergroup
+zegocina.in##a [id^="banner-"]
+zloty-pociag.com##.popup_wrapper iframe
+spottedskarzysko.pl###gkPageContent .custom > p > a[target="_blank"] > img
+iknurow.pl##aside.widget_text.widget.td_block_template_13
+iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
+iknurow.pl##.td-a-rec
+korpovoice.pl##[class^="g-single a-"]
+epiotrkow.pl##.rtop
+epiotrkow.pl##.wcont a[href^="rd.php?id="]
+magazyn-ecommerce.pl##.bannersm
+wataha.no##.td-a-rec
+strefa.se###secondary [id^="media_image-"]
+kle-news.pl##[class^="g-dyn a-"]
+kle-news.pl##.td-a-rec
+zszywka.pl##div[class^="pin-advert"]
+starnowa.tv##div.td-a-rec
+nowykamieniarz.pl##img[alt="Reklama"]
+kosmetologa.pl##div[class^="a-single a-"]
+strefainzyniera.pl##a[href^="https://angielskitechniczny.edu.pl"]
+strefainzyniera.pl##a[href^="https://careers.mars.com/"]
+zywiecinfo.pl##.carouselbanner
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
