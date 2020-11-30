@@ -1606,3 +1606,4 @@ strefa.se###secondary [id^="media_image-"]
 kle-news.pl##[class^="g-dyn a-"]
 kle-news.pl##.td-a-rec
 zszywka.pl##div[class^="pin-advert"]
+starnowa.tv##div.td-a-rec
