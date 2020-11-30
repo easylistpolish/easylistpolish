@@ -976,3 +976,4 @@ _banner_$domain=itwiz.pl
 ||tygodnikprzasnyski.com.pl^*^Mrowka%
 ^baner_$domain=gazeta-mlawska.pl
 ||gazeta-mlawska.pl^*^GA_GTO_
+||tygodnikdzialdowski.pl^*^GA_GTO_
