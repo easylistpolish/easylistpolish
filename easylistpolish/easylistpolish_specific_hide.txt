@@ -1614,3 +1614,4 @@ strefainzyniera.pl##a[href^="https://careers.mars.com/"]
 zywiecinfo.pl##.carouselbanner
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 konin24.info##.flex-list
+polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
