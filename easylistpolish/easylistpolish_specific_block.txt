@@ -972,3 +972,5 @@ _banner_$domain=itwiz.pl
 ||kobiety-kobietom.com^*^dobrykantor.
 ^rek^$domain=barlinek24.pl
 ^baner_$domain=tygodnikmakowski.pl
+^baner_$domain=tygodnikprzasnyski.com.pl
+||tygodnikprzasnyski.com.pl^*^Mrowka%
