@@ -974,3 +974,5 @@ _banner_$domain=itwiz.pl
 ^baner_$domain=tygodnikmakowski.pl
 ^baner_$domain=tygodnikprzasnyski.com.pl
 ||tygodnikprzasnyski.com.pl^*^Mrowka%
+^baner_$domain=gazeta-mlawska.pl
+||gazeta-mlawska.pl^*^GA_GTO_
