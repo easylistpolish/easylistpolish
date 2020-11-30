@@ -971,3 +971,4 @@ _banner_$domain=itwiz.pl
 ||stargardzka.pl^*^impakserwisskup.
 ||kobiety-kobietom.com^*^dobrykantor.
 ^rek^$domain=barlinek24.pl
+^baner_$domain=tygodnikmakowski.pl
