@@ -1611,3 +1611,4 @@ nowykamieniarz.pl##img[alt="Reklama"]
 kosmetologa.pl##div[class^="a-single a-"]
 strefainzyniera.pl##a[href^="https://angielskitechniczny.edu.pl"]
 strefainzyniera.pl##a[href^="https://careers.mars.com/"]
+zywiecinfo.pl##.carouselbanner

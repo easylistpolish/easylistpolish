@@ -978,3 +978,4 @@ _banner_$domain=itwiz.pl
 ||gazeta-mlawska.pl^*^GA_GTO_
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
+^banners^$domain=zywiecinfo.pl
