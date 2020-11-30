@@ -27,3 +27,4 @@
 ||tja.pl^*^banerki$third-party
 ||tmefekt.pl/static/widget$third-party
 ||wydawca.lead.network/RKL_$third-party
+||euphoniserent.xyz^$third-party
