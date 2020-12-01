@@ -1618,3 +1618,5 @@ polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
 nowa-sprzedaz.pl##.block .auto-pr-block
 nowa-sprzedaz.pl##div.bannersm
 droneclub.pl###block-block-13
+trzcianka.info###block-block-7
+trzcianka.info###block-block-20
