@@ -1566,3 +1566,4 @@ tvwalbrzych.pl##a[class^="single_ad_"]
 wiadomosciwalbrzyskie.pl###media_image-2
 dzierzgon.info.pl###text-4
 dzierzgon.info.pl###text-12
+sm-manager.pl##.bannersm
