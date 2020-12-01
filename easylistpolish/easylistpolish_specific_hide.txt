@@ -1620,3 +1620,5 @@ nowa-sprzedaz.pl##div.bannersm
 droneclub.pl###block-block-13
 trzcianka.info###block-block-7
 trzcianka.info###block-block-20
+podlaskie.tv##aside#secondary.widget-area
+podlaskie.tv##.askdom-wrapper
