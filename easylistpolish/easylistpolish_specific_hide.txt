@@ -1615,3 +1615,5 @@ zywiecinfo.pl##.carouselbanner
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 konin24.info##.flex-list
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
+nieruchomosci-bez-posrednikow.com.pl##div#slider
+nieruchomosci-bez-posrednikow.com.pl##.banery2
