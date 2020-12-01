@@ -979,4 +979,5 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
+||slowopodlasia.pl^*^polnoc_nieruchomosci.
 ^adv^$domain=zyciegrajewa.pl
