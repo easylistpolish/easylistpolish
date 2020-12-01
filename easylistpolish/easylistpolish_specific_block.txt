@@ -979,3 +979,4 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
+_banner_$domain=katalogprzedsiebiorstw.pl
