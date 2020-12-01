@@ -1622,3 +1622,5 @@ trzcianka.info###block-block-7
 trzcianka.info###block-block-20
 podlaskie.tv##aside#secondary.widget-area
 podlaskie.tv##.askdom-wrapper
+slowopodlasia.pl##.advert-B1
+slowopodlasia.pl##.advert-A1
