@@ -979,3 +979,8 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
+||chemiaibiznes.com.pl^*^190x190_nigellin.
+^banner_$domain=chemiaibiznes.com.pl
+_baner_$domain=chemiaibiznes.com.pl
+_banner_$domain=chemiaibiznes.com.pl
+^baner_$domain=chemiaibiznes.com.pl
