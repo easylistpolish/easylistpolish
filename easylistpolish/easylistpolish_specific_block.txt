@@ -980,3 +980,4 @@ _banner_$domain=itwiz.pl
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
 ^banerm^$domain=co-slychac.pl
+^banery^$domain=co-slychac.pl
