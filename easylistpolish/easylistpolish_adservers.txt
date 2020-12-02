@@ -17,3 +17,4 @@
 ||waytogrow.pl^$third-party
 ||wtg-ads.com^$third-party
 ||netsalesmedia.pl^$third-party
+||shopeneo.network^$third-party
