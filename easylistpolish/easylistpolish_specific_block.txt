@@ -979,4 +979,4 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
-^reklama-$domain=tvciechanow.pl
+^reklama-$domain=fleschmazowsza.com.pl
