@@ -1630,3 +1630,4 @@ lubimyczytac.pl###tapetaEverywhere
 elektrosystemy.pl##.advertisement
 elektrosystemy.pl###gk-banner-top
 gazetabilgoraj.pl##a[href^="https://oms.org.pl/"]
+o-m.pl##div.bannersm
