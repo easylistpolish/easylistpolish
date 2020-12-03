@@ -1615,4 +1615,15 @@ zywiecinfo.pl##.carouselbanner
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 konin24.info##.flex-list
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
+nowa-sprzedaz.pl##.block .auto-pr-block
+nowa-sprzedaz.pl##div.bannersm
+droneclub.pl###block-block-13
+trzcianka.info###block-block-7
+trzcianka.info###block-block-20
+podlaskie.tv##aside#secondary.widget-area
+podlaskie.tv##.askdom-wrapper
+slowopodlasia.pl##.advert-B1
+slowopodlasia.pl##.advert-A1
+zyciegrajewa.pl##.head2
+zyciegrajewa.pl##.head1
 lubimyczytac.pl###tapetaEverywhere
