@@ -1626,3 +1626,4 @@ slowopodlasia.pl##.advert-B1
 slowopodlasia.pl##.advert-A1
 zyciegrajewa.pl##.head2
 zyciegrajewa.pl##.head1
+lubimyczytac.pl###tapetaEverywhere
