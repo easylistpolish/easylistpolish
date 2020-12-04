@@ -1615,3 +1615,39 @@ zywiecinfo.pl##.carouselbanner
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 konin24.info##.flex-list
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
+nowa-sprzedaz.pl##.block .auto-pr-block
+nowa-sprzedaz.pl##div.bannersm
+droneclub.pl###block-block-13
+trzcianka.info###block-block-7
+trzcianka.info###block-block-20
+podlaskie.tv##aside#secondary.widget-area
+podlaskie.tv##.askdom-wrapper
+slowopodlasia.pl##.advert-B1
+slowopodlasia.pl##.advert-A1
+zyciegrajewa.pl##.head2
+zyciegrajewa.pl##.head1
+lubimyczytac.pl###tapetaEverywhere
+elektrosystemy.pl##.advertisement
+elektrosystemy.pl###gk-banner-top
+gazetabilgoraj.pl##a[href^="https://oms.org.pl/"]
+o-m.pl##div.bannersm
+laj.pl##div.bannersm
+sm-manager.pl##div.bannersm
+nieruchomosci-komercyjne.info###slider
+nieruchomosci-komercyjne.info##.banery2
+ogloszenia-nieruchomosci.info##.banery1
+ogloszenia-nieruchomosci.info###slider
+ogloszenia-nieruchomosci.info##.banners-mainpage
+nieruchomosci-bez-posrednikow.com.pl###slider
+nieruchomosci-bez-posrednikow.com.pl##.banery2
+firmy-uslugi24.pl##.darmowe-baner
+firmy-uslugi24.pl###slider
+firmy-uslugi24.pl##.banery-m2
+losice.info##.td-a-rec
+losice.info##aside[class^="adni_widgets-"]
+portalpomorza.pl##.toplayer
+controllingirachunkowosc.pl##.panel-adsites
+e-commerce-24.pl##.panel-adsites
+finanseicontrolling.pl##.panel-adsites
+magazyn-produkcja.pl##.panel-adsites
+kociewiak.pl##.toplayer
