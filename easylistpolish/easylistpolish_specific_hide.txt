@@ -1650,3 +1650,4 @@ controllingirachunkowosc.pl##.panel-adsites
 e-commerce-24.pl##.panel-adsites
 finanseicontrolling.pl##.panel-adsites
 magazyn-produkcja.pl##.panel-adsites
+kociewiak.pl##.toplayer
