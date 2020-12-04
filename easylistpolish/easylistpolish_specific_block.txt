@@ -983,3 +983,4 @@ _banner_$domain=itwiz.pl
 ^adv^$domain=zyciegrajewa.pl
 ^baner%$domain=podlasie24.pl
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
+_banner_$domain=katalogprzedsiebiorstw.pl
