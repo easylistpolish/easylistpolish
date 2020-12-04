@@ -1652,3 +1652,4 @@ finanseicontrolling.pl##.panel-adsites
 magazyn-produkcja.pl##.panel-adsites
 kociewiak.pl##.toplayer
 kociewie24.pl##.dynamicAD
+infosokolka.pl###promoted-module
