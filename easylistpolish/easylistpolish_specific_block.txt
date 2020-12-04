@@ -994,3 +994,5 @@ _plansza_$domain=portalpomorza.pl
 ^banery^$domain=rynekpapierniczy.pl
 ||allebiznes.pl^*^logo-jooble.
 ^baner-$domain=allebiznes.pl
+-1140x250px.$domain=wirtualnekosmetyki.pl
+-262x700px.$domain=wirtualnekosmetyki.pl
