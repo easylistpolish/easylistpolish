@@ -1648,3 +1648,4 @@ losice.info##aside[class^="adni_widgets-"]
 portalpomorza.pl##.toplayer
 controllingirachunkowosc.pl##.panel-adsites
 e-commerce-24.pl##.panel-adsites
+finanseicontrolling.pl##.panel-adsites
