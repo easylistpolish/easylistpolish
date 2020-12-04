@@ -1001,3 +1001,4 @@ _plansza_$domain=portalpomorza.pl
 _baner_$domain=chemiaibiznes.com.pl
 _banner_$domain=chemiaibiznes.com.pl
 ^baner_$domain=chemiaibiznes.com.pl
+^banners^$domain=naszaostroda.pl
