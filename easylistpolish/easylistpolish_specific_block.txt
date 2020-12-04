@@ -988,3 +988,4 @@ _banner_$domain=katalogprzedsiebiorstw.pl
 ||goleniowska.com^*^2020/11/ogloszenie.
 -banerek-$domain=goleniowska.com
 -baner728.$domain=nieruchomosci-komercyjne.info
+_plansza_$domain=portalpomorza.pl
