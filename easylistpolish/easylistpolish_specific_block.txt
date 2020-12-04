@@ -1004,3 +1004,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^banners^$domain=naszaostroda.pl
 ^banerm^$domain=co-slychac.pl
 ^banery^$domain=co-slychac.pl
+^reklama-$domain=tvciechanow.pl
