@@ -996,3 +996,8 @@ _plansza_$domain=portalpomorza.pl
 ^baner-$domain=allebiznes.pl
 -1140x250px.$domain=wirtualnekosmetyki.pl
 -262x700px.$domain=wirtualnekosmetyki.pl
+||chemiaibiznes.com.pl^*^190x190_nigellin.
+^banner_$domain=chemiaibiznes.com.pl
+_baner_$domain=chemiaibiznes.com.pl
+_banner_$domain=chemiaibiznes.com.pl
+^baner_$domain=chemiaibiznes.com.pl
