@@ -1633,3 +1633,5 @@ gazetabilgoraj.pl##a[href^="https://oms.org.pl/"]
 o-m.pl##div.bannersm
 laj.pl##div.bannersm
 sm-manager.pl##div.bannersm
+nieruchomosci-komercyjne.info###slider
+nieruchomosci-komercyjne.info##.banery2
