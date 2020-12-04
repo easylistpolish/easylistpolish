@@ -985,3 +985,6 @@ _banner_$domain=itwiz.pl
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
 _banner_$domain=katalogprzedsiebiorstw.pl
 -baner728.$domain=ogloszenia-nieruchomosci.info
+||goleniowska.com^*^2020/11/ogloszenie.
+-banerek-$domain=goleniowska.com
+-baner728.$domain=nieruchomosci-komercyjne.info
