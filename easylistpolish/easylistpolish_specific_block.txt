@@ -992,3 +992,5 @@ _plansza_$domain=portalpomorza.pl
 ^baner.$domain=przemyslkosmetyczny.pl
 ^bannery2020^$domain=przemyslkosmetyczny.pl
 ^banery^$domain=rynekpapierniczy.pl
+||allebiznes.pl^*^logo-jooble.
+^baner-$domain=allebiznes.pl
