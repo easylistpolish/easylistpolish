@@ -1635,3 +1635,6 @@ laj.pl##div.bannersm
 sm-manager.pl##div.bannersm
 nieruchomosci-komercyjne.info###slider
 nieruchomosci-komercyjne.info##.banery2
+ogloszenia-nieruchomosci.info##.banery1
+ogloszenia-nieruchomosci.info###slider
+ogloszenia-nieruchomosci.info##.banners-mainpage
