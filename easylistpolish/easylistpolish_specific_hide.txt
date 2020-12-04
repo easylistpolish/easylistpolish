@@ -1638,3 +1638,5 @@ nieruchomosci-komercyjne.info##.banery2
 ogloszenia-nieruchomosci.info##.banery1
 ogloszenia-nieruchomosci.info###slider
 ogloszenia-nieruchomosci.info##.banners-mainpage
+nieruchomosci-bez-posrednikow.com.pl###slider
+nieruchomosci-bez-posrednikow.com.pl##.banery2
