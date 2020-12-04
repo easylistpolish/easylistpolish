@@ -1005,3 +1005,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^banerm^$domain=co-slychac.pl
 ^banery^$domain=co-slychac.pl
 ^reklama-$domain=tvciechanow.pl
+^reklama-$domain=fleschmazowsza.com.pl
