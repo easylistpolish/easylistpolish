@@ -1646,3 +1646,4 @@ firmy-uslugi24.pl##.banery-m2
 losice.info##.td-a-rec
 losice.info##aside[class^="adni_widgets-"]
 portalpomorza.pl##.toplayer
+controllingirachunkowosc.pl##.panel-adsites
