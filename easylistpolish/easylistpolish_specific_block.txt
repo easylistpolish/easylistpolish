@@ -979,5 +979,12 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
+||slowopodlasia.pl^*^polnoc_nieruchomosci.
+^adv^$domain=zyciegrajewa.pl
+^baner%$domain=podlasie24.pl
+||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
+_banner_$domain=katalogprzedsiebiorstw.pl
+-baner728.$domain=ogloszenia-nieruchomosci.info
 ||goleniowska.com^*^2020/11/ogloszenie.
 -banerek-$domain=goleniowska.com
+-baner728.$domain=nieruchomosci-komercyjne.info
