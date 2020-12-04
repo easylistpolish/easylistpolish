@@ -979,4 +979,9 @@ _banner_$domain=itwiz.pl
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ^a-posters^$domain=minskmaz.com
 ^banners^$domain=zywiecinfo.pl
-||ogloszenia-nieruchomosci.info^*^deweloperzy-baner
+||slowopodlasia.pl^*^polnoc_nieruchomosci.
+^adv^$domain=zyciegrajewa.pl
+^baner%$domain=podlasie24.pl
+||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
+_banner_$domain=katalogprzedsiebiorstw.pl
+-baner728.$domain=ogloszenia-nieruchomosci.info
