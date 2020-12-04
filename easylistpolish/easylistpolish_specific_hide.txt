@@ -1640,3 +1640,6 @@ ogloszenia-nieruchomosci.info###slider
 ogloszenia-nieruchomosci.info##.banners-mainpage
 nieruchomosci-bez-posrednikow.com.pl###slider
 nieruchomosci-bez-posrednikow.com.pl##.banery2
+firmy-uslugi24.pl##.darmowe-baner
+firmy-uslugi24.pl###slider
+firmy-uslugi24.pl##.banery-m2
