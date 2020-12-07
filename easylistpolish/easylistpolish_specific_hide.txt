@@ -1655,3 +1655,5 @@ kociewie24.pl##.dynamicAD
 infosokolka.pl###promoted-module
 narew.info##.toplayer
 zachodniemazowsze.info##[class^="g-single a-"]
+urzadzamy.pl###article_zpr_shopping
+urzadzamy.pl###floorLayer
