@@ -1655,3 +1655,6 @@ kociewie24.pl##.dynamicAD
 infosokolka.pl###promoted-module
 narew.info##.toplayer
 zachodniemazowsze.info##[class^="g-single a-"]
+rekomendowanefirmy.pl##div[class^="AD-"]
+rekomendowanefirmy.pl###polecamy-box-2
+rekomendowanefirmy.pl##div[id^="AD-"]
