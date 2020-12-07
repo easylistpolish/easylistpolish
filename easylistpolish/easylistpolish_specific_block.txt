@@ -1006,3 +1006,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^banery^$domain=co-slychac.pl
 ^reklama-$domain=tvciechanow.pl
 ^reklama-$domain=fleschmazowsza.com.pl
+||prestizowydom.pl^*^psb-art-
