@@ -1655,3 +1655,5 @@ kociewie24.pl##.dynamicAD
 infosokolka.pl###promoted-module
 narew.info##.toplayer
 zachodniemazowsze.info##[class^="g-single a-"]
+gotujmy.pl###ad_wallpaper
+gotujmy.pl##div[id^="adl-placement"]
