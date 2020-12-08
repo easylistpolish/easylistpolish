@@ -1670,3 +1670,5 @@ rekomendowanefirmy.pl##div[id^="AD-"]
 podnoszenieciezarow.pl##.owl-carousel
 traseo.pl###top-zone
 oswiecimonline.pl##[id^="rev_slider_"]
+tczewska.pl##.cycle-slideshow
+tczewska.pl##.toplayer
