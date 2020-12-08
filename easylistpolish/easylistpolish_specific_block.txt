@@ -1006,3 +1006,5 @@ _banner_$domain=chemiaibiznes.com.pl
 ^banery^$domain=co-slychac.pl
 ^reklama-$domain=tvciechanow.pl
 ^reklama-$domain=fleschmazowsza.com.pl
+||bstok.pl^*^iparts.
+^baner-$domain=bstok.pl
