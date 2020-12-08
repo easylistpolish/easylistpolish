@@ -1656,3 +1656,4 @@ infosokolka.pl###promoted-module
 narew.info##.toplayer
 zachodniemazowsze.info##[class^="g-single a-"]
 bstok.pl##div.ntphubdx
+salebiznesowe.pl##.header-banner
