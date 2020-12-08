@@ -1668,3 +1668,4 @@ rekomendowanefirmy.pl##div[class^="AD-"]
 rekomendowanefirmy.pl###polecamy-box-2
 rekomendowanefirmy.pl##div[id^="AD-"]
 podnoszenieciezarow.pl##.owl-carousel
+traseo.pl###top-zone
