@@ -1661,3 +1661,4 @@ prawo.pl##.banner-shortcode
 gotujmy.pl###ad_wallpaper
 gotujmy.pl##div[id^="adl-placement"]
 itbiznes.pl##.itbiz-top
+radioccm.pl##.com_reklamy
