@@ -1672,3 +1672,4 @@ traseo.pl###top-zone
 oswiecimonline.pl##[id^="rev_slider_"]
 tczewska.pl##.cycle-slideshow
 tczewska.pl##.toplayer
+infoszach.pl##.mh-content-ad
