@@ -1674,3 +1674,4 @@ tczewska.pl##.cycle-slideshow
 tczewska.pl##.toplayer
 infoszach.pl##.mh-content-ad
 8tvr.pl###SmallAds
+podobnestrony.pl##a[href^="/external/2"] > picture
