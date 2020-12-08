@@ -1006,3 +1006,7 @@ _banner_$domain=chemiaibiznes.com.pl
 ^banery^$domain=co-slychac.pl
 ^reklama-$domain=tvciechanow.pl
 ^reklama-$domain=fleschmazowsza.com.pl
+^banners^$domain=materialybudowlane.info.pl
+^baner-$domain=materialybudowlane.info.pl
+^baner_$domain=materialybudowlane.info.pl
+materialybudowlane.info.pl^*^megadekarz.
