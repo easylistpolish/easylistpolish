@@ -1667,3 +1667,4 @@ urzadzamy.pl###floorLayer
 rekomendowanefirmy.pl##div[class^="AD-"]
 rekomendowanefirmy.pl###polecamy-box-2
 rekomendowanefirmy.pl##div[id^="AD-"]
+podnoszenieciezarow.pl##.owl-carousel
