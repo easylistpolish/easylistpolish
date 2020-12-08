@@ -1655,4 +1655,21 @@ kociewie24.pl##.dynamicAD
 infosokolka.pl###promoted-module
 narew.info##.toplayer
 zachodniemazowsze.info##[class^="g-single a-"]
+bstok.pl##div.ntphubdx
+salebiznesowe.pl##.header-banner
+prawo.pl##.banner-shortcode
+gotujmy.pl###ad_wallpaper
+gotujmy.pl##div[id^="adl-placement"]
+itbiznes.pl##.itbiz-top
+radioccm.pl##.com_reklamy
+urzadzamy.pl###article_zpr_shopping
+urzadzamy.pl###floorLayer
+rekomendowanefirmy.pl##div[class^="AD-"]
+rekomendowanefirmy.pl###polecamy-box-2
+rekomendowanefirmy.pl##div[id^="AD-"]
+podnoszenieciezarow.pl##.owl-carousel
+traseo.pl###top-zone
+oswiecimonline.pl##[id^="rev_slider_"]
+tczewska.pl##.cycle-slideshow
+tczewska.pl##.toplayer
 infoszach.pl##.mh-content-ad
