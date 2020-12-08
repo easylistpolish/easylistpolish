@@ -1010,3 +1010,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^baner-$domain=bstok.pl
 ^PKPP-$domain=linia.com.pl
 -banner-$domain=biznes-hotel.pl
+||prestizowydom.pl^*^psb-art-
