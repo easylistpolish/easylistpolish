@@ -1,5 +1,4 @@
 ###ads_under_article
-###extraAdsBlock
 ###reklama_gora
 ###tytul_sponsorowane
 ##.a-d-v
