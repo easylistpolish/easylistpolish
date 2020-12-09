@@ -716,7 +716,6 @@ slupca.pl##.g-4
 slupca.pl##.g-8
 debica.tv##.g-9
 topmejt.co.uk##.g-single
-spottedlublin.pl##.g1-advertisement
 skawinska.pl##.gaskad-single
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
