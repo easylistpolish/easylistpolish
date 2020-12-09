@@ -1015,3 +1015,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^baner-$domain=materialybudowlane.info.pl
 ^baner_$domain=materialybudowlane.info.pl
 ||materialybudowlane.info.pl^*^megadekarz.
+^banners^$domain=motoocena.pl
