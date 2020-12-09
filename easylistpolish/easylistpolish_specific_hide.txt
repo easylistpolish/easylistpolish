@@ -265,7 +265,6 @@ polonika.fr###rt-top
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 przeclaw24.pl,tygodnik-krapkowicki.info###sbox-window
-czadrow24.pl###secondaild(3)
 techfreak.pl###secondary
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
