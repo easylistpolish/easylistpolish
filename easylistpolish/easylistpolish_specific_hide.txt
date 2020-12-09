@@ -922,7 +922,6 @@ lpg-forum.pl##.rek_kontener
 polskiprzemysl.com.pl##.rekalmy_sidebar
 regionfan.pl,sucha24.pl,wiersze.annet.pl##.rekl
 codziennikmlawski.pl##.rekl-side
-speedladies.pl##.rekl-top
 tysol.pl##.rekl_box
 mojabochnia.pl##.reklama
 24tp.pl##.reklama-box
