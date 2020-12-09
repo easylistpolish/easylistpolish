@@ -878,7 +878,6 @@ igostyn.pl,ijarocin.pl,ikalisz.pl,ikrotoszyn.pl,iostrowwlkp.pl,ipleszew.pl##.par
 cire.pl##.partnerzy_sep
 magazyngitarzysta.pl##.pasaz-content
 majsterkowo.pl##.patronpod
-wcj24.pl##.penci-ad-box
 okazjepodroznika.pl##.penci-banner-box
 oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 nysahot.pl##.penci-featured-ct
