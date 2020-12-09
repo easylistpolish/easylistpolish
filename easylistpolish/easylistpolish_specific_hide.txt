@@ -630,7 +630,6 @@ poscigi.pl##.bsaProContainerNew
 glamrap.pl##.bsaProFloating
 granty.pl##.bsaProItem
 ekstraklasatrolls.pl##.bsaProItems
-gazetabilgoraj.pl##.bsac-container
 infoserwiselk.pl##.btop
 dietetycy.org.pl##.buybox-widget
 naszahuta.pl##.c-banners
