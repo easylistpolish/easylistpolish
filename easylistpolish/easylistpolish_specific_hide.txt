@@ -129,7 +129,6 @@ msmobile.pl###custom_html-5
 sportdziennik.com###custom_html-7
 portalprzemyski.pl###custom_html-9
 wochenblatt.pl###custom_post_widget-8
-lacha.pl###divExoLayerWrapper
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowolodzi.pl,slowotrojmiasta.pl,slowowarszawy.pl###efaro-widget
