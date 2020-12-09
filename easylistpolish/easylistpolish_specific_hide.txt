@@ -1130,7 +1130,6 @@ wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 wirtualnyregion.pl##.widget_cyclone-slider-widget
 kurier-nakielski.pl,nowawrzesnia.pl##.widget_media_image
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,maszynydlameblarstwa.pl,meblarstwo.eu,narzedziapolska.pl,obrabiarkidodrewna.eu,tapicerstwo.co##.widget_media_image > h2 + a[rel]
-spottedlublin.pl##.widget_singlead
 4woodi.pl##.widget_snap_ad
 klin-tv.pl##.widget_supermag_ad
 goniec.net,opowiadaniaerotyczne.pl##.widget_text
