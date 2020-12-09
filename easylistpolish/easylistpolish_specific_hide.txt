@@ -471,7 +471,6 @@ bydgoszcz.com,damitv.pl,e-widuchowa.pl,korso.pl,korsokolbuszowskie.pl,portalpomo
 bydgoszcz.com,damitv.pl,e-widuchowa.pl,eluban.pl,lubelska.tv,tczewska.pl,telewizjazary.pl,tvsztum.pl,zulawyimierzeja24.pl##.advert-B1
 zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
-radioglos.pl##.advert-border
 zycie.pl##.advert-item
 antyradio.pl##.advert-movieads
 lovekrakow.pl##.advert-next-to-logo
