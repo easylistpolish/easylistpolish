@@ -13,7 +13,6 @@
 ||renormaliseras.xyz^$third-party
 ||rewords.pl^$third-party
 ||tvtoss.com^$third-party
-||waytogrow.eu^$third-party
 ||waytogrow.pl^$third-party
 ||netsalesmedia.pl^$third-party
 ||shopeneo.network^$third-party
