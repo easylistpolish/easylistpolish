@@ -444,7 +444,6 @@ rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
 szokuje.pl##.ads-under_menu
 tarnowiak.pl##.adsRightBox
-portalwysokichplonow.pl##.ads_top_nav
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
