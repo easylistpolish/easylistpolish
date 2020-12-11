@@ -1016,3 +1016,4 @@ _banner_$domain=chemiaibiznes.com.pl
 ^baner_$domain=materialybudowlane.info.pl
 ||materialybudowlane.info.pl^*^megadekarz.
 ^banners^$domain=motoocena.pl
+^cene0^$domain=baxu.pl

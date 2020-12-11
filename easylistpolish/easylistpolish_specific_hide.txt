@@ -1678,3 +1678,4 @@ podobnestrony.pl##a[href^="/external/2"] > picture
 dailyweb.pl##a[href*=".adj.st/"]
 motoocena.pl##div[class^="banner-ad-"]
 swiatoze.pl##a[href^="https://columbusenergy.pl/"]
+baxu.pl##a[href^="https://simpleanalytics.com/”]
