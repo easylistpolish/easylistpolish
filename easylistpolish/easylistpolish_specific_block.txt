@@ -1016,3 +1016,6 @@ _banner_$domain=chemiaibiznes.com.pl
 ^baner_$domain=materialybudowlane.info.pl
 ||materialybudowlane.info.pl^*^megadekarz.
 ^banners^$domain=motoocena.pl
+^728^$image,domain=meczenazywo.tv|meczlive.pl
+^750^$image,domain=meczenazywo.tv|meczlive.pl
+^300^$image,domain=meczenazywo.tv|meczlive.pl
