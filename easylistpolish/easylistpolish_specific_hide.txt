@@ -1671,3 +1671,4 @@ jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
 baxu.pl##a[href^="https://simpleanalytics.com/”]
 meczlive.pl##a[href="https://www.typ.pl"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
+wilanownews.pl##.hm-header-sidebar
