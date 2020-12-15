@@ -1669,3 +1669,4 @@ motoocena.pl##div[class^="banner-ad-"]
 swiatoze.pl##a[href^="https://columbusenergy.pl/"]
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
 baxu.pl##a[href^="https://simpleanalytics.com/”]
+meczlive.pl##a[href="https://www.typ.pl"]
