@@ -18,7 +18,6 @@
 ||qwerty1.co.pl/www/sys/ajs1.php?$third-party
 ||r.pless.nazwa.pl/public/banner^$third-party
 ||reklamy.hostings.pl^$third-party
-||sbhc.portalhc.com/172112/SearchBox^$third-party
 ||smartclick.pl/*adquant$third-party
 ||solutions4ad.com/partner^$third-party
 ||static.travelist.pl/web/js^$script,third-party
