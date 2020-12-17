@@ -1669,3 +1669,6 @@ baxu.pl##a[href^="https://simpleanalytics.com/”]
 meczlive.pl##a[href="https://www.typ.pl"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 wilanownews.pl##.hm-header-sidebar
+siechnice.com.pl##a[onclick*="'Banner'"]
+siechnice.com.pl##.header__ad-main
+siechnice.com.pl##.head-rek
