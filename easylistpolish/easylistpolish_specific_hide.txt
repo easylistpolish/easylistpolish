@@ -1669,3 +1669,7 @@ baxu.pl##a[href^="https://simpleanalytics.com/”]
 meczlive.pl##a[href="https://www.typ.pl"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 wilanownews.pl##.hm-header-sidebar
+superportal24.pl##.widget_sidebar_content > img
+superportal24.pl##.widget_sidebar_content > a[target="_blank"]
+superportal24.pl###top_above_menu
+superportal24.pl##.widget_no_mobile
