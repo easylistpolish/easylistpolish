@@ -1669,3 +1669,4 @@ baxu.pl##a[href^="https://simpleanalytics.com/”]
 meczlive.pl##a[href="https://www.typ.pl"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 wilanownews.pl##.hm-header-sidebar
+codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
