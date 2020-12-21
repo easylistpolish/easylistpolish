@@ -1020,5 +1020,7 @@ _banner_$domain=chemiaibiznes.com.pl
 ^750^$image,domain=meczenazywo.tv|meczlive.pl
 ^300^$image,domain=meczenazywo.tv|meczlive.pl
 ^cene0^$domain=baxu.pl
+_Banner$image,domain=make-cash.pl
+||fadstrack.com^$script,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
