@@ -1671,3 +1671,4 @@ motohigh.pl##section[id^="text-"] > .mvp-main-box
 wilanownews.pl##.hm-header-sidebar
 jozefow-news.pl###text-12
 jozefow-news.pl##.hm-header-sidebar
+rni24.eu##.head-wrap-in
