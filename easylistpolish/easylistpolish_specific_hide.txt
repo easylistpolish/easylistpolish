@@ -1678,3 +1678,4 @@ trawka.org###ipsLayout_mainArea > a > img
 siechnice.com.pl##a[onclick*="'Banner'"]
 siechnice.com.pl##.header__ad-main
 siechnice.com.pl##.head-rek
+strzelec.info##div[class*="advert-"]
