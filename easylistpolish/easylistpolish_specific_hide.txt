@@ -1680,3 +1680,4 @@ siechnice.com.pl##.header__ad-main
 siechnice.com.pl##.head-rek
 strzelec.info##div[class*="advert-"]
 rydzyna24.pl##div[id^="rydzy-"]
+pilkawregionie.pl###pg-2-4
