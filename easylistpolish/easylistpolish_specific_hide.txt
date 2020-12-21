@@ -1685,3 +1685,7 @@ gazetaregionalna.com##.td-a-rec > a > img
 wrp.pl##._ning_inner
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 purepc.pl##a[title="KIOXIA"]
+superportal24.pl##.widget_sidebar_content > img
+superportal24.pl##.widget_sidebar_content > a[target="_blank"]
+superportal24.pl###top_above_menu
+superportal24.pl##.widget_no_mobile
