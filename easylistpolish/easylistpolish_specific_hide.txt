@@ -1682,3 +1682,4 @@ strzelec.info##div[class*="advert-"]
 rydzyna24.pl##div[id^="rydzy-"]
 pilkawregionie.pl###pg-2-4
 gazetaregionalna.com##.td-a-rec > a > img
+wrp.pl##._ning_inner
