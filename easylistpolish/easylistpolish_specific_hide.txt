@@ -1689,3 +1689,8 @@ superportal24.pl##.widget_sidebar_content > img
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
 superportal24.pl###top_above_menu
 superportal24.pl##.widget_no_mobile
+twojaslupca.pl##.mobile-advert
+twojaslupca.pl##.mobile-advert2
+twojaslupca.pl##.cycloneslider-slide
+twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
+twojaslupca.pl##a[href*="autodoc.pl/"]
