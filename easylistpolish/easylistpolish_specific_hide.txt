@@ -1689,7 +1689,6 @@ superportal24.pl##.widget_sidebar_content > img
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
 superportal24.pl###top_above_menu
 superportal24.pl##.widget_no_mobile
-<<<<<<< HEAD
 wylecz.to##div[data-event="slotseen"]
 tarnobrzeg.info##aside[id^="custom_html-"] img
 lesko.info###content > center > a[target="_blank"]
@@ -1709,10 +1708,8 @@ czest.info###content-area .rtecenter > a[target="_blank"]
 bithub.pl##a[href*="utm_source=baner"]
 wkielcach.info##.wkiel-reklama_przyklad
 wkielcach.info##div[id^="wkiel-"] > a[target="_blank"]
-=======
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 twojaslupca.pl##.cycloneslider-slide
 twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
 twojaslupca.pl##a[href*="autodoc.pl/"]
->>>>>>> dd083d14656658a65e9feb491876eb9b402a49ea
