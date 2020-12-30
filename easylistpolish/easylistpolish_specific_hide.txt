@@ -1691,3 +1691,5 @@ superportal24.pl###top_above_menu
 superportal24.pl##.widget_no_mobile
 wylecz.to##div[data-event="slotseen"]
 tarnobrzeg.info##aside[id^="custom_html-"] img
+lesko.info###content > center > a[target="_blank"]
+lesko.info##div[id^="media_image-"]
