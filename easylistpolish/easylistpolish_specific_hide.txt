@@ -1698,3 +1698,5 @@ aleo.com##.profile-ad
 kalisz24.info.pl##div[class^="Reklama"]
 dzwignice.info##div[class^="adSliderIn"]
 dzwignice.info##.udtBox
+szefur.pl###leader-large
+szefur.pl###footer-leaderboard
