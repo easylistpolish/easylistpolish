@@ -1718,3 +1718,5 @@ maksymalnie.pl###content-wrap > div[style="text-align: center;"] img
 maksymalnie.pl###slider
 masztu.pl###sidebar > div[style="text-align: center;"] > a
 masztu.pl###slider
+wkatalog.pl###prawy
+wkatalog.pl###slider
