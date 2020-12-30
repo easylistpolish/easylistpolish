@@ -1027,3 +1027,4 @@ _Banner$image,domain=make-cash.pl
 _1000x165.$domain=krs-online.com.pl
 ||masztu.pl^$image,domain=czest.info
 ||bithub.pl^*^papier-kamien-
+||masztu.pl^*^udzialowiec.

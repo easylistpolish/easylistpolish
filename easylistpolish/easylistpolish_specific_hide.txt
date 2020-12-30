@@ -1716,3 +1716,5 @@ twojaslupca.pl##a[href*="autodoc.pl/"]
 maksymalnie.pl###sidebar > div[style="text-align: center;"] > a
 maksymalnie.pl###content-wrap > div[style="text-align: center;"] img
 maksymalnie.pl###slider
+masztu.pl###sidebar > div[style="text-align: center;"] > a
+masztu.pl###slider
