@@ -1689,11 +1689,8 @@ superportal24.pl##.widget_sidebar_content > img
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
 superportal24.pl###top_above_menu
 superportal24.pl##.widget_no_mobile
-<<<<<<< HEAD
 wylecz.to##div[data-event="slotseen"]
 tarnobrzeg.info##aside[id^="custom_html-"] img
 lesko.info###content > center > a[target="_blank"]
 lesko.info##div[id^="media_image-"]
-=======
 lwowecki.info##.td-a-rec
->>>>>>> 2649f945935da8b8f088d7d38024ba80787f048f
