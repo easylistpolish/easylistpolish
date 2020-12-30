@@ -1025,7 +1025,11 @@ _Banner$image,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 <<<<<<< HEAD
+<<<<<<< HEAD
 _1000x165.$domain=krs-online.com.pl
 =======
 ||masztu.pl^$image,domain=czest.info
 >>>>>>> 3c6d2e0ae530753e4e2b678a3ab37e1eb580b3d5
+=======
+||bithub.pl^*^papier-kamien-
+>>>>>>> ab808fc94de854016653420d30b6c22d7d72cbe8
