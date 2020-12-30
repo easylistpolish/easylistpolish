@@ -1713,3 +1713,6 @@ twojaslupca.pl##.mobile-advert2
 twojaslupca.pl##.cycloneslider-slide
 twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
 twojaslupca.pl##a[href*="autodoc.pl/"]
+maksymalnie.pl###sidebar > div[style="text-align: center;"] > a
+maksymalnie.pl###content-wrap > div[style="text-align: center;"] img
+maksymalnie.pl###slider
