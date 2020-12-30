@@ -1725,3 +1725,4 @@ buduj-remontuj-urzadzaj.pl,lekarze-gabinety.pl,miejskieinfo.pl,katalog.ospi.pl,o
 lekarze-gabinety.pl,oto-slub.pl,moto-oto.pl###content-wrap > div[style="text-align: center;"] img
 ospi.pl###lcol > div[style="text-align: center;"] > a
 gryfice24.online##.banner
+4programmers.net##.revive > a > img
