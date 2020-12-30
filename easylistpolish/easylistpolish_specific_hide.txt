@@ -1706,3 +1706,5 @@ czest.info###logo-title a[target="_blank"]
 czest.info##div[id^="block-block-"] a > img
 czest.info###content-area .rtecenter > a[target="_blank"]
 bithub.pl##a[href*="utm_source=baner"]
+wkielcach.info##.wkiel-reklama_przyklad
+wkielcach.info##div[id^="wkiel-"] > a[target="_blank"]
