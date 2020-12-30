@@ -1029,3 +1029,4 @@ _1000x165.$domain=krs-online.com.pl
 ||bithub.pl^*^papier-kamien-
 ||masztu.pl^*^udzialowiec.
 -baner.$domain=masztu.pl|czest.info|maksymalnie.pl|wkatalog.pl|oto-slub.pl|moto-oto.pl|lekarze-gabinety.pl|buduj-remontuj-urzadzaj.pl|miejskieinfo.pl|ospi.pl
+_banner-$domain=panoramakutna.pl
