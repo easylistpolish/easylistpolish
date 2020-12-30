@@ -1722,3 +1722,4 @@ wkatalog.pl###prawy
 wkatalog.pl###slider
 buduj-remontuj-urzadzaj.pl,lekarze-gabinety.pl,miejskieinfo.pl,katalog.ospi.pl,oto-slub.pl,moto-oto.pl,wkatalog.pl###sidebar > div[style="text-align: center;"] > a
 buduj-remontuj-urzadzaj.pl,lekarze-gabinety.pl,miejskieinfo.pl,katalog.ospi.pl,oto-slub.pl,moto-oto.pl,wkatalog.pl###slider
+lekarze-gabinety.pl,oto-slub.pl,moto-oto.pl###content-wrap > div[style="text-align: center;"] img
