@@ -1024,4 +1024,8 @@ _Banner$image,domain=make-cash.pl
 ||fadstrack.com^$script,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
+<<<<<<< HEAD
 _1000x165.$domain=krs-online.com.pl
+=======
+||masztu.pl^$image,domain=czest.info
+>>>>>>> 3c6d2e0ae530753e4e2b678a3ab37e1eb580b3d5

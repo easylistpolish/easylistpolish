@@ -1702,3 +1702,6 @@ szefur.pl###leader-large
 szefur.pl###footer-leaderboard
 posbud.com.pl##.banneritem
 posbud.com.pl##.as_marquee0
+czest.info###logo-title a[target="_blank"]
+czest.info##div[id^="block-block-"] a > img
+czest.info###content-area .rtecenter > a[target="_blank"]
