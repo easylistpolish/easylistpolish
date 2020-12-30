@@ -1696,3 +1696,5 @@ lesko.info##div[id^="media_image-"]
 lwowecki.info##.td-a-rec
 aleo.com##.profile-ad
 kalisz24.info.pl##div[class^="Reklama"]
+dzwignice.info##div[class^="adSliderIn"]
+dzwignice.info##.udtBox
