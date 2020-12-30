@@ -1726,3 +1726,4 @@ lekarze-gabinety.pl,oto-slub.pl,moto-oto.pl###content-wrap > div[style="text-ali
 ospi.pl###lcol > div[style="text-align: center;"] > a
 gryfice24.online##.banner
 4programmers.net##.revive > a > img
+kolbuszowalokalnie.pl##div[id^="text-"] a:not([href^="https://kolbuszowalokalnie.pl"])
