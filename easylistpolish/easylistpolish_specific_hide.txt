@@ -1700,3 +1700,5 @@ dzwignice.info##div[class^="adSliderIn"]
 dzwignice.info##.udtBox
 szefur.pl###leader-large
 szefur.pl###footer-leaderboard
+posbud.com.pl##.banneritem
+posbud.com.pl##.as_marquee0
