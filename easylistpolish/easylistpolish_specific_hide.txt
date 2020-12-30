@@ -1689,4 +1689,8 @@ superportal24.pl##.widget_sidebar_content > img
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
 superportal24.pl###top_above_menu
 superportal24.pl##.widget_no_mobile
+<<<<<<< HEAD
 wylecz.to##div[data-event="slotseen"]
+=======
+tarnobrzeg.info##aside[id^="custom_html-"] img
+>>>>>>> 97e2780c36ebff45fe124d4683112e41bc502dfc
