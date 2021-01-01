@@ -1024,3 +1024,4 @@ _Banner$image,domain=make-cash.pl
 ||fadstrack.com^$script,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
+^banery^$domain=swiatopon.info
