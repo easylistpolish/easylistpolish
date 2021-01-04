@@ -8,11 +8,11 @@
 ||incontext.pl^$third-party
 ||leadstar.pl^$third-party
 ||media.stsaff.pl^$third-party
+||netsalesmedia.pl^$third-party
 ||pocketads.pl^$third-party
 ||reklamawadowice24.pl^$third-party
 ||renormaliseras.xyz^$third-party
 ||rewords.pl^$third-party
+||shopeneo.network^$third-party
 ||tvtoss.com^$third-party
 ||waytogrow.pl^$third-party
-||netsalesmedia.pl^$third-party
-||shopeneo.network^$third-party
