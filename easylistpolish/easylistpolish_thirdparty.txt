@@ -9,6 +9,7 @@
 ||contexthub.net^$third-party
 ||czasdzieci.home.pl/mailingi/html5/hipp^$third-party
 ||ec.hub2.com.pl^$third-party
+||euphoniserent.xyz^$third-party
 ||lnaff.pl/RKL_$third-party
 ||ofertaplay.info^*^androidbanerrespons^$third-party
 ||offersprovider.widget.onet.pl^$third-party
@@ -26,4 +27,3 @@
 ||tja.pl^*^banerki$third-party
 ||tmefekt.pl/static/widget$third-party
 ||wydawca.lead.network/RKL_$third-party
-||euphoniserent.xyz^$third-party
