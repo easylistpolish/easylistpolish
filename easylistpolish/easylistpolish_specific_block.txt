@@ -1077,3 +1077,5 @@ _Banner$image,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 ^banery^$domain=swiatopon.info
+^Baner_$domain=noweinfo.pl
+^baner_$domain=sad24.pl
