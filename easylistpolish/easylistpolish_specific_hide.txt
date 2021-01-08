@@ -1841,3 +1841,4 @@ izabrze.pl##.td-a-rec
 izabrze.pl###custom_html-3
 ogrodinfo.pl##div[class^="angwp_"]
 ogrodinfo.pl##.main-top-banner
+infogliwice.pl##.td-a-rec
