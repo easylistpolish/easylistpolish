@@ -1842,3 +1842,5 @@ izabrze.pl###custom_html-3
 ogrodinfo.pl##div[class^="angwp_"]
 ogrodinfo.pl##.main-top-banner
 infogliwice.pl##.td-a-rec
+faktura.pl##div > a[href^="https://monetyzacja.pxf.io/"]
+faktura.pl##.hp__pricing-table
