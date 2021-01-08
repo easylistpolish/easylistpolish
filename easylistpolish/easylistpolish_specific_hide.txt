@@ -1824,3 +1824,4 @@ superportal24.pl##.widget_no_mobile
 rrs24.net##aside[id^="ai_widget-"]
 zkaszub.info##.edd
 losice.info##[id^="adni_"]
+asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
