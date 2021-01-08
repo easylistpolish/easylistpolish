@@ -1830,3 +1830,4 @@ elektroda.pl##a[href^="https://www.pcbway.com/activity/"]
 elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
 stargardzka.pl##._ning_inner
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
+make-cash.pl##a[rel^="external"] > .ipsImage
