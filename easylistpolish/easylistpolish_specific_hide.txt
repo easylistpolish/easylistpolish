@@ -1835,3 +1835,4 @@ pod24.info##.yjsquare_in  a[href*="youtube.com/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 karnickie.info##.adds
 karnickie.info###custom_post_widget-2
+jakodzyskacpieniadze.pl###media_image-2
