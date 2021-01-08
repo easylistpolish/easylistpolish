@@ -1845,3 +1845,4 @@ infogliwice.pl##.td-a-rec
 faktura.pl##div > a[href^="https://monetyzacja.pxf.io/"]
 faktura.pl##.hp__pricing-table
 kokos.pl##a[href*="&creation_type=BANNER&"] > img
+iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
