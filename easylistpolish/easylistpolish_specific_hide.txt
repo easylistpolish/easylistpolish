@@ -1837,3 +1837,5 @@ karnickie.info##.adds
 karnickie.info###custom_post_widget-2
 jakodzyskacpieniadze.pl###media_image-2
 luzna24.pl##div[class^="g-single a-"]
+izabrze.pl##.td-a-rec
+izabrze.pl###custom_html-3
