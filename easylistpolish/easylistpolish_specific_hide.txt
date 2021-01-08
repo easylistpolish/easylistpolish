@@ -1828,3 +1828,4 @@ elektroda.pl##.topic-lists > li:not([id]) a > img
 elektroda.pl##.container > div > div[style="z-index: 1;"] > section a > img
 elektroda.pl##a[href^="https://www.pcbway.com/activity/"]
 elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
+stargardzka.pl##._ning_inner
