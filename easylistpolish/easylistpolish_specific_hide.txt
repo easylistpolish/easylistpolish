@@ -1831,3 +1831,5 @@ elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
 stargardzka.pl##._ning_inner
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
 make-cash.pl##a[rel^="external"] > .ipsImage
+pod24.info##.yjsquare_in  a[href*="youtube.com/"][target="_blank"]
+pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
