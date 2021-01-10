@@ -1079,4 +1079,4 @@ _Banner$image,domain=make-cash.pl
 ^banery^$domain=swiatopon.info
 ^Baner_$domain=noweinfo.pl
 ^baner_$domain=sad24.pl
-inline__1_$domain=iotwock.info
+^inline__1_$domain=iotwock.info
