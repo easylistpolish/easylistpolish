@@ -1850,3 +1850,4 @@ asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 newsdiscopolo.info##.bn-lg-sidebar
 zyciemyszkowa.pl##.ad-info + div
 zyciemyszkowa.pl##.sad
+gazetamyszkowska.pl##.boards
