@@ -1081,3 +1081,4 @@ _Banner$image,domain=make-cash.pl
 ^baner_$domain=sad24.pl
 ^inline__1_$domain=iotwock.info
 ^banner_$domain=meblarskapolska.pl
+^baner_$domain=asystentbhp.pl
