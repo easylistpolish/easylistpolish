@@ -1077,3 +1077,7 @@ _Banner$image,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 ^banery^$domain=swiatopon.info
+||weben1.com^$domain=icyfrowypolsat.pl
+||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
+||ebroker.pl^$image,domain=icyfrowypolsat.pl
+||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
