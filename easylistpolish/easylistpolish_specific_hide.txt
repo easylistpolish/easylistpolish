@@ -1848,3 +1848,5 @@ iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 konecki24.pl##div[id^="bills_in_rotation_"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 newsdiscopolo.info##.bn-lg-sidebar
+zyciemyszkowa.pl##.ad-info + div
+zyciemyszkowa.pl##.sad
