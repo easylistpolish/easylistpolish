@@ -1851,3 +1851,4 @@ newsdiscopolo.info##.bn-lg-sidebar
 zyciemyszkowa.pl##.ad-info + div
 zyciemyszkowa.pl##.sad
 gazetamyszkowska.pl##.boards
+jg24.pl##a[href^="http://plakatowaniemiasta.com.pl/"]
