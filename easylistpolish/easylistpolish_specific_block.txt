@@ -1088,3 +1088,4 @@ _Banner$image,domain=make-cash.pl
 ^banners^$domain=przeglad-ogrodniczy.pl
 ^banners^$domain=fit-online.pl
 ^banners^$domain=mleczarnieonline.pl|masarnieonline.pl|portal-hale.pl
+^banners^$domain=piekarnieonline.pl
