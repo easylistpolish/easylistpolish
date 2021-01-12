@@ -1091,3 +1091,4 @@ _Banner$image,domain=make-cash.pl
 ^banners^$domain=piekarnieonline.pl
 ^banery^$domain=bialogardzianin.pl
 ^inline__1_$domain=ibielany.pl
+^banery^$domain=e-dobrydom.pl

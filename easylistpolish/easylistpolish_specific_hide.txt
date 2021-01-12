@@ -1860,3 +1860,5 @@ e-kolo.pl##div#reklama_pop3
 cozadzien.pl##a[href*="iparts.pl"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 strzal.pl##div[class*="ads-container-"]
+e-dobrydom.pl##div[class^="g-dyn a-"]
+e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
