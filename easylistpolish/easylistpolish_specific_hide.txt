@@ -1856,4 +1856,4 @@ rzeszowskieinfo.pl##.header-add
 rzeszowskieinfo.pl##div[class^="a-single a-"]
 cdpa.pl##div#shopuj
 namasce.pl##a[href*="iparts.pl"]
-
+e-kolo.pl##div#reklama_pop3
