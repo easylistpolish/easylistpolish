@@ -1859,3 +1859,4 @@ namasce.pl##a[href*="iparts.pl"]
 e-kolo.pl##div#reklama_pop3
 cozadzien.pl##a[href*="iparts.pl"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
+strzal.pl##div[class*="ads-container-"]
