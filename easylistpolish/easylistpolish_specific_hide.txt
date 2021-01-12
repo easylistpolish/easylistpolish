@@ -1380,7 +1380,7 @@ lowking.pl##a[href^="https://pitbullcity.pl/"]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 fresh-market.pl##a[href^="https://redpackmaszyny.pl/"]
 magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
-baxu.pl##a[href^="https://simpleanalytics.com/”]
+baxu.pl##a[href^="https://simpleanalytics.com/"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
@@ -1598,7 +1598,6 @@ naekranie.pl##div[style^="background: url('https://cont"]
 mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-align: left; color:"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 poloniusz.pl##div[style^="width:194px;"]
-elektroda.pl[class="the-contentcol-md-8"]a[href^="http://micros.com.pl/"]
 extraswiecie.pl#?#span:-abp-contains(REKLAMA)
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
@@ -1797,7 +1796,7 @@ dailyweb.pl##a[href*=".adj.st/"]
 motoocena.pl##div[class^="banner-ad-"]
 swiatoze.pl##a[href^="https://columbusenergy.pl/"]
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
-baxu.pl##a[href^="https://simpleanalytics.com/”]
+baxu.pl##a[href^="https://simpleanalytics.com/"]
 meczlive.pl##a[href="https://www.typ.pl"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 wilanownews.pl##.hm-header-sidebar
@@ -1824,3 +1823,34 @@ superportal24.pl##.widget_no_mobile
 rrs24.net##aside[id^="ai_widget-"]
 zkaszub.info##.edd
 losice.info##[id^="adni_"]
+elektroda.pl##.topic-lists > li:not([id]) a > img
+elektroda.pl##.container > div > div[style="z-index: 1;"] > section a > img
+elektroda.pl##a[href^="https://www.pcbway.com/activity/"]
+elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
+stargardzka.pl##._ning_inner
+noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
+make-cash.pl##a[rel^="external"] > .ipsImage
+pod24.info##.yjsquare_in  a[href*="youtube.com/"][target="_blank"]
+pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
+karnickie.info##.adds
+karnickie.info###custom_post_widget-2
+jakodzyskacpieniadze.pl###media_image-2
+luzna24.pl##div[class^="g-single a-"]
+izabrze.pl##.td-a-rec
+izabrze.pl###custom_html-3
+ogrodinfo.pl##div[class^="angwp_"]
+ogrodinfo.pl##.main-top-banner
+infogliwice.pl##.td-a-rec
+faktura.pl##div > a[href^="https://monetyzacja.pxf.io/"]
+faktura.pl##.hp__pricing-table
+kokos.pl##a[href*="&creation_type=BANNER&"] > img
+iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
+konecki24.pl##div[id^="bills_in_rotation_"]
+asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
+newsdiscopolo.info##.bn-lg-sidebar
+zyciemyszkowa.pl##.ad-info + div
+zyciemyszkowa.pl##.sad
+gazetamyszkowska.pl##.boards
+jg24.pl##a[href^="http://plakatowaniemiasta.com.pl/"]
+rzeszowskieinfo.pl##.header-add
+rzeszowskieinfo.pl##div[class^="a-single a-"]
