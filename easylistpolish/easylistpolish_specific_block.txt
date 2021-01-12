@@ -1085,3 +1085,4 @@ _Banner$image,domain=make-cash.pl
 ||fireads.org^$domain=newsdiscopolo.info
 ^banery^$domain=sportgniezno.pl
 ^banners^$domain=edzieci.pl
+^banners^$domain=przeglad-ogrodniczy.pl
