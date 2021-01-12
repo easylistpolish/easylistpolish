@@ -1857,3 +1857,5 @@ rzeszowskieinfo.pl##div[class^="a-single a-"]
 cdpa.pl##div#shopuj
 namasce.pl##a[href*="iparts.pl"]
 e-kolo.pl##div#reklama_pop3
+cozadzien.pl##a[href*="iparts.pl"]
+cozadzien.pl##a[href*="czesciauto24.pl"]
