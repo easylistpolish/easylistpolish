@@ -1854,3 +1854,4 @@ gazetamyszkowska.pl##.boards
 jg24.pl##a[href^="http://plakatowaniemiasta.com.pl/"]
 rzeszowskieinfo.pl##.header-add
 rzeszowskieinfo.pl##div[class^="a-single a-"]
+cdpa.pl##div#shopuj
