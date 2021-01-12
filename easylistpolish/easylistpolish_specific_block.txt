@@ -1084,3 +1084,4 @@ _Banner$image,domain=make-cash.pl
 ^baner_$domain=asystentbhp.pl
 ||fireads.org^$domain=newsdiscopolo.info
 ^banery^$domain=sportgniezno.pl
+^banners^$domain=edzieci.pl
