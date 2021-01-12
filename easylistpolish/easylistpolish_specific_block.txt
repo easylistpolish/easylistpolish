@@ -1087,3 +1087,4 @@ _Banner$image,domain=make-cash.pl
 ^banners^$domain=edzieci.pl
 ^banners^$domain=przeglad-ogrodniczy.pl
 ^banners^$domain=fit-online.pl
+^banners^$domain=mleczarnieonline.pl|masarnieonline.pl|portal-hale.pl
