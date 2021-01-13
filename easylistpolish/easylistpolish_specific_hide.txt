@@ -1865,3 +1865,4 @@ e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
 fotelik.info##div#addframe
 moviesroom.pl##.sidebar .basic-slider
 moviesroom.pl##.ad-box
+urania.edu.pl##[id*="reklama"]
