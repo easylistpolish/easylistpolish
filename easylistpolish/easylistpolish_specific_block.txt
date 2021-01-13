@@ -1077,3 +1077,7 @@ _Banner$image,domain=make-cash.pl
 ||gazetaslezanska.pl^*^jaross-
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 ^banery^$domain=swiatopon.info
+||transg.pl^*^meblohaus_
+_baner%20$domain=transg.pl
+^banner-$domain=transg.pl
+^reklama-$domain=transg.pl
