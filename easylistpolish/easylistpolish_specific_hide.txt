@@ -1867,3 +1867,4 @@ moviesroom.pl##.sidebar .basic-slider
 moviesroom.pl##.ad-box
 urania.edu.pl##[id*="reklama"]
 wolna-polska.pl##a[href^="https://auth.bitbay.net/"]
+nieznanyswiat.pl##.page-masthead
