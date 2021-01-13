@@ -1100,3 +1100,4 @@ _Banner$image,domain=make-cash.pl
 _baner%$domain=transg.pl
 ^banner-$domain=transg.pl
 ^reklama-$domain=transg.pl
+||prawy.pl^*^gabinety.
