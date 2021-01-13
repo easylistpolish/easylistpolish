@@ -1096,3 +1096,7 @@ _Banner$image,domain=make-cash.pl
 ||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
+||transg.pl^*^meblohaus_
+_baner%$domain=transg.pl
+^banner-$domain=transg.pl
+^reklama-$domain=transg.pl
