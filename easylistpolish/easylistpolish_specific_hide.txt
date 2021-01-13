@@ -1863,3 +1863,5 @@ strzal.pl##div[class*="ads-container-"]
 e-dobrydom.pl##div[class^="g-dyn a-"]
 e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
 fotelik.info##div#addframe
+moviesroom.pl##.sidebar .basic-slider
+moviesroom.pl##.ad-box
