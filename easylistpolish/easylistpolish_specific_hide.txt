@@ -1869,3 +1869,4 @@ urania.edu.pl##[id*="reklama"]
 wolna-polska.pl##a[href^="https://auth.bitbay.net/"]
 nieznanyswiat.pl##.page-masthead
 wiecbork112.pl##[class^="banner-promotions-"]
+info112.pl###firmy-box-inner
