@@ -1101,3 +1101,4 @@ _baner%$domain=transg.pl
 ^banner-$domain=transg.pl
 ^reklama-$domain=transg.pl
 ||prawy.pl^*^gabinety.
+^baner-$domain=wiecbork112.pl
