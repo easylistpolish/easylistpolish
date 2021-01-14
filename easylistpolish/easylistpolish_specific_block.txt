@@ -1109,3 +1109,4 @@ _baner.$domain=112malopolska.pl
 ^banner%$domain=sanok112.pl
 _baner.$domain=112wadowice.pl
 ^baner-$domain=infomalopolska.pl
+-reklamowy.$domain=koscian112.pl
