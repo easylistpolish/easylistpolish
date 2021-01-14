@@ -1876,3 +1876,4 @@ oswiecim112.pl##div[class^="g-col b-"]
 112wadowice.pl,gniezno112.pl##.td-a-rec
 lublin112.pl###firmy-box-inner
 radioandrychow.pl##.mradio-marketing
+firmowy.com.pl##a[target="_blank"] > .opacity2
