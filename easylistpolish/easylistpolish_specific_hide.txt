@@ -1871,3 +1871,4 @@ nieznanyswiat.pl##.page-masthead
 wiecbork112.pl##[class^="banner-promotions-"]
 info112.pl###firmy-box-inner
 krosno112.pl##.polecamy + .module-ct
+oswiecim112.pl##div[class^="g-col b-"]
