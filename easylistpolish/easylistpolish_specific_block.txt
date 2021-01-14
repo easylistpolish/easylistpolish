@@ -1106,3 +1106,4 @@ _baner%$domain=transg.pl
 ^baner^$domain=bielsko.info
 _baner.$domain=112malopolska.pl
 ||rzeszow112.pl^*^buz-3.
+^banner%$domain=sanok112.pl
