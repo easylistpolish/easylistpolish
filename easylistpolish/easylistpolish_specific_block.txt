@@ -1112,3 +1112,5 @@ _baner.$domain=112wadowice.pl
 -reklamowy.$domain=koscian112.pl
 ^baner^$domain=pszczyna.tv
 ^reklama_$domain=tylkotorun.pl
+^baner2.$domain=edebno.pl
+^promocja-$domain=edebno.pl

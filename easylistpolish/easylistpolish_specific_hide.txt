@@ -1890,3 +1890,5 @@ pszczyna.tv###topBaner
 czadrow24.pl##a[href^="https://www.facebook.com/ncpluswbiedronce/"]
 czadrow24.pl##aside img[width="900"]
 chojna24.pl##img[src*="googleusercontent.com"]
+edebno.pl##img[alt="banner"]
+edebno.pl##img[alt="reklama"]
