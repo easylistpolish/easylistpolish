@@ -1889,3 +1889,4 @@ bankier.pl##.n2b-ad-container
 pszczyna.tv###topBaner
 czadrow24.pl##a[href^="https://www.facebook.com/ncpluswbiedronce/"]
 czadrow24.pl##aside img[width="900"]
+chojna24.pl##img[src*="googleusercontent.com"]
