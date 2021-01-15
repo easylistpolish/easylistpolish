@@ -1111,3 +1111,4 @@ _baner.$domain=112wadowice.pl
 ^baner-$domain=infomalopolska.pl
 -reklamowy.$domain=koscian112.pl
 ^baner^$domain=pszczyna.tv
+^reklama_$domain=tylkotorun.pl
