@@ -1115,3 +1115,4 @@ _baner.$domain=112wadowice.pl
 ^baner2.$domain=edebno.pl
 ^promocja-$domain=edebno.pl
 ^baneryhtml5^$domain=mazury24.eu
+^banners^$domain=mleczarstwo.com
