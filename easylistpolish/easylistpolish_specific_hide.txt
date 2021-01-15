@@ -1892,3 +1892,5 @@ czadrow24.pl##aside img[width="900"]
 chojna24.pl##img[src*="googleusercontent.com"]
 edebno.pl##img[alt="banner"]
 edebno.pl##img[alt="reklama"]
+radomsport.pl##[id^="skyscraper"]
+radomsport.pl##.wiersz_news a[target="_blank"] > img
