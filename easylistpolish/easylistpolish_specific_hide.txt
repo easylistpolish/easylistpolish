@@ -1887,3 +1887,5 @@ super-polska.pl##a[href^="http://www.anf.pl"]
 bankier.pl##.n2b-ad-container
 112pila.pl##.home-e3lan > a
 pszczyna.tv###topBaner
+czadrow24.pl##a[href^="https://www.facebook.com/ncpluswbiedronce/"]
+czadrow24.pl##aside img[width="900"]
