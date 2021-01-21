@@ -1118,3 +1118,5 @@ _baner.$domain=112wadowice.pl
 ^banners^$domain=mleczarstwo.com
 _banner.$domain=swiatmetali.eu
 ^banery^$domain=zrobotyzowany.pl
+||nasygnale.com.pl^*^korona.
+||nasygnale.com.pl^*^kzpt1.

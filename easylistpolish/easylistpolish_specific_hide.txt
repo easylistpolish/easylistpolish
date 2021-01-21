@@ -1909,3 +1909,5 @@ itwiz.pl##div[class^="g-single a-"]
 magazynit.pl##.jPanelModule
 magazynit.pl##.banneritem
 magazynit.pl##.rstbox
+nasygnale.com.pl##div[id^="jssor_"]
+nasygnale.com.pl##.card > a[target="_blank"]
