@@ -1880,3 +1880,4 @@ firmowy.com.pl##a[target="_blank"] > .opacity2
 budoskop.pl##[id^="mediaContent"]
 koscian112.pl###media_image-3
 nasygnale.com.pl###jssor_2
+nasygnale.com.pl##.card a[target]
