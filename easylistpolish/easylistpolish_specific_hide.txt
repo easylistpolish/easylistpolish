@@ -1898,3 +1898,4 @@ strzelec.info##.toplayer
 mazury24.eu##.baner
 zrobotyzowany.pl##.sliding-baner-box--right
 zrobotyzowany.pl##a[data-type^="Reklama"]
+nolesnica.pl##.l-box--100 a[target="_blank"]
