@@ -1905,3 +1905,4 @@ stockwatch.pl###topAdCont
 polukr.net##[class*="e3lan-"]
 polakwholandii.nl##.o-ad__container
 polakwholandii.nl##.o-ad
+itwiz.pl##div[class^="g-single a-"]
