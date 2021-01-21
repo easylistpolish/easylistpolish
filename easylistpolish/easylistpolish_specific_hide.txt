@@ -1899,3 +1899,6 @@ mazury24.eu##.baner
 zrobotyzowany.pl##.sliding-baner-box--right
 zrobotyzowany.pl##a[data-type^="Reklama"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
+stockwatch.pl##.bnr3b
+stockwatch.pl##.box0b
+stockwatch.pl###topAdCont
