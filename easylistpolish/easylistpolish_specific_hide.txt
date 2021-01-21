@@ -1903,3 +1903,5 @@ stockwatch.pl##.bnr3b
 stockwatch.pl##.box0b
 stockwatch.pl###topAdCont
 polukr.net##[class*="e3lan-"]
+polakwholandii.nl##.o-ad__container
+polakwholandii.nl##.o-ad
