@@ -1120,3 +1120,4 @@ _banner.$domain=swiatmetali.eu
 ^banery^$domain=zrobotyzowany.pl
 ||nasygnale.com.pl^*^korona.
 ||nasygnale.com.pl^*^kzpt1.
+||mfiles.pl^*^comarch_
