@@ -1896,3 +1896,5 @@ radomsport.pl##[id^="skyscraper"]
 radomsport.pl##.wiersz_news a[target="_blank"] > img
 strzelec.info##.toplayer
 mazury24.eu##.baner
+zrobotyzowany.pl##.sliding-baner-box--right
+zrobotyzowany.pl##a[data-type^="Reklama"]

@@ -1117,3 +1117,4 @@ _baner.$domain=112wadowice.pl
 ^baneryhtml5^$domain=mazury24.eu
 ^banners^$domain=mleczarstwo.com
 _banner.$domain=swiatmetali.eu
+^banery^$domain=zrobotyzowany.pl
