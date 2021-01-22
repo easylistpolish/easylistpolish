@@ -1879,3 +1879,5 @@ radioandrychow.pl##.mradio-marketing
 firmowy.com.pl##a[target="_blank"] > .opacity2
 budoskop.pl##[id^="mediaContent"]
 koscian112.pl###media_image-3
+echokamienia.pl##.r-rek
+echokamienia.pl##.rek
