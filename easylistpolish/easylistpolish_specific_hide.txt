@@ -1945,3 +1945,4 @@ budoskop.pl##[id^="mediaContent"]
 koscian112.pl###media_image-3
 echokamienia.pl##.r-rek
 echokamienia.pl##.rek
+takze.pl##.penci-promo-link + img

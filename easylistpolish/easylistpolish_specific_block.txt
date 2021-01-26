@@ -1130,3 +1130,4 @@ _baner.$domain=112wadowice.pl
 ||miastokolobrzeg.pl^*^brico_
 ||miastokolobrzeg.pl^*^okazja2.
 ||miastokolobrzeg.pl^*^molis1.
+_baner_$domain=takze.pl
