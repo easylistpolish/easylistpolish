@@ -1955,3 +1955,4 @@ medme.pl##div[data-adslot-id]
 medme.pl##a[href^=”https://www.facebook.com/dozmagazyn”]
 cafesenior.pl##div[data-adslot-id]
 kz1.pl##.qa-widgets-main-top
+botland.com.pl##a[href^="https://jo.my/pcbway"]
