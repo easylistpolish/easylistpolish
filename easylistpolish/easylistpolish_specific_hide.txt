@@ -1949,3 +1949,4 @@ takze.pl##.penci-promo-link + img
 okkolobrzeg.pl##.ot-home-block
 piekarnieonline.pl###gk_banner
 terazprudnik.pl###rev-slider-widget-3
+tyna.info.pl##a[href="http://studiomeritum.pl/"] > img
