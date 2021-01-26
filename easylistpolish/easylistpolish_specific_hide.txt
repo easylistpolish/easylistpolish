@@ -1953,3 +1953,4 @@ tyna.info.pl##a[href="http://studiomeritum.pl/"] > img
 miejska.info.pl###text-54
 medme.pl##div[data-adslot-id]
 medme.pl##a[href^=”https://www.facebook.com/dozmagazyn”]
+cafesenior.pl##div[data-adslot-id]
