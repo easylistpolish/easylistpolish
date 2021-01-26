@@ -1136,3 +1136,4 @@ _baner_$domain=takze.pl
 ||botland.com.pl^*^banery_$script
 ^banners^$domain=bieganie.pl
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
+||ceneo.pl^$image,domain=komputery-pc.info
