@@ -1132,3 +1132,4 @@ _baner.$domain=112wadowice.pl
 ||miastokolobrzeg.pl^*^molis1.
 _baner_$domain=takze.pl
 ^banery^$domain=piekarnie24.pl
+||blogspot.com^$image,domain=mistrzbranzy.pl
