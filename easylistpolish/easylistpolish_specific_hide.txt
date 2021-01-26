@@ -1956,3 +1956,5 @@ medme.pl##a[href^=”https://www.facebook.com/dozmagazyn”]
 cafesenior.pl##div[data-adslot-id]
 kz1.pl##.qa-widgets-main-top
 botland.com.pl##a[href^="https://jo.my/pcbway"]
+poradnikzdrowie.pl###article_zpr_shopping
+poradnikzdrowie.pl##div[onclick^="ClickPollster("]
