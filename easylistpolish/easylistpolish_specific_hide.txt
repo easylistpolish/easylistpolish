@@ -1948,3 +1948,4 @@ echokamienia.pl##.rek
 takze.pl##.penci-promo-link + img
 okkolobrzeg.pl##.ot-home-block
 piekarnieonline.pl###gk_banner
+terazprudnik.pl###rev-slider-widget-3
