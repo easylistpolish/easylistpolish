@@ -1135,3 +1135,4 @@ _baner_$domain=takze.pl
 ||blogspot.com^$image,domain=mistrzbranzy.pl
 ||botland.com.pl^*^banery_$script
 ^banners^$domain=bieganie.pl
+||autorak.com.pl^$subdocument,domain=nadwisla24.pl
