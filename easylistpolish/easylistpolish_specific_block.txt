@@ -999,7 +999,6 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-<<<<<<< HEAD
 -baner.$domain=kociewie.online
 ||tv-pelplin.pl^*^MM-tv.
 ||tv-pelplin.pl^*^meble%20frost.
@@ -1134,6 +1133,5 @@ _baner.$domain=112wadowice.pl
 _baner_$domain=takze.pl
 ^banery^$domain=piekarnie24.pl
 ||blogspot.com^$image,domain=mistrzbranzy.pl
-=======
 ||botland.com.pl^*^banery_$script
->>>>>>> fb985f9b26858c34f9f7fb9fcc458ab280f681ee
+^banners^$domain=bieganie.pl
