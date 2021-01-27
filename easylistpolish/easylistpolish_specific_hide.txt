@@ -1743,13 +1743,10 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-<<<<<<< HEAD
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 b24tv.pl##.popmake-overlay
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl/"])
 mazovia24.pl##.ROTcarousel
 mazovia24.pl##.slides_oneDIV
-=======
 appleworld.pl##.a-widget
->>>>>>> 878b5bda266a5b2c8dc176c890501cc77c228183
