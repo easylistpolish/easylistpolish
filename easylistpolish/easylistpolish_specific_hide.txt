@@ -1750,3 +1750,4 @@ mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl/"])
 mazovia24.pl##.ROTcarousel
 mazovia24.pl##.slides_oneDIV
 appleworld.pl##.a-widget
+radioem.pl##div > a[name="Reklama"] + div + ul
