@@ -1745,3 +1745,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 b24tv.pl##.popmake-overlay
+bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
