@@ -1007,3 +1007,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niezalezna.
 -reklama-$domain=kurier-kolski.pl
 ||b24tv.pl^*^insula-
+^banners^$domain=automotivesuppliers.pl
+||automotivesuppliers.pl^*^2bodycote370.
