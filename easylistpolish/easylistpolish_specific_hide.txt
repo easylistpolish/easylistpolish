@@ -1746,3 +1746,6 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 b24tv.pl##.popmake-overlay
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
+mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl/"])
+mazovia24.pl##.ROTcarousel
+mazovia24.pl##.slides_oneDIV
