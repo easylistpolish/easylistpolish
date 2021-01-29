@@ -1010,3 +1010,4 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=automotivesuppliers.pl
 ||automotivesuppliers.pl^*^2bodycote370.
 ^banners^$domain=nowypm.pl
+-ad-$domain=myerp.pl
