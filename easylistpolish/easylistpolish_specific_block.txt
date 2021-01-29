@@ -1009,3 +1009,4 @@ _reklamy_$domain=chojna24.pl
 ||b24tv.pl^*^insula-
 ^banners^$domain=automotivesuppliers.pl
 ||automotivesuppliers.pl^*^2bodycote370.
+^banners^$domain=nowypm.pl
