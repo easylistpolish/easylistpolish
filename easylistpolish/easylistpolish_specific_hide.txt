@@ -1751,3 +1751,4 @@ mazovia24.pl##.slides_oneDIV
 appleworld.pl##.a-widget
 radioem.pl##div > a[name="Reklama"] + div + ul
 bosonamacie.pl##a[onclick*="Adverts"]
+speedtest.pl##a[href^="https://www.play.pl/oferta/"]
