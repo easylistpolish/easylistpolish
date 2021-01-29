@@ -1754,3 +1754,4 @@ bosonamacie.pl##a[onclick*="Adverts"]
 speedtest.pl##a[href^="https://www.play.pl/oferta/"]
 nowypm.pl##.bnr
 production-manager.pl##.banner-carousel
+tarnowiak.pl###content a[target]
