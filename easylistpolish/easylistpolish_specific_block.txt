@@ -1011,3 +1011,4 @@ _reklamy_$domain=chojna24.pl
 ||automotivesuppliers.pl^*^2bodycote370.
 ^banners^$domain=nowypm.pl
 -ad-$domain=myerp.pl
+||e-kg.pl^*^background/bg_
