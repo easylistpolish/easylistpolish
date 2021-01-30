@@ -1755,3 +1755,4 @@ speedtest.pl##a[href^="https://www.play.pl/oferta/"]
 nowypm.pl##.bnr
 production-manager.pl##.banner-carousel
 tarnowiak.pl###content a[target]
+gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
