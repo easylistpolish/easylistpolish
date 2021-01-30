@@ -1005,3 +1005,9 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-reklama-$domain=kurier-kolski.pl
+||b24tv.pl^*^insula-
+^banners^$domain=automotivesuppliers.pl
+||automotivesuppliers.pl^*^2bodycote370.
+^banners^$domain=nowypm.pl
+-ad-$domain=myerp.pl
