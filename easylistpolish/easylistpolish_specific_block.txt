@@ -1012,3 +1012,5 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=nowypm.pl
 -ad-$domain=myerp.pl
 ||e-kg.pl^*^background/bg_
+^300^$image,domain=emecze.pl
+^728^$image,domain=emecze.pl
