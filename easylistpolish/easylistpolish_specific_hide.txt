@@ -1756,3 +1756,8 @@ nowypm.pl##.bnr
 production-manager.pl##.banner-carousel
 tarnowiak.pl###content a[target]
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
+e-playonline.com##a[href^="https://www.novomatic.com/"]
+e-playonline.com##.elementor-column-wrap .elementor-widget a:not([href^="https://e-"])[target="_blank"]
+e-playonline.com##div[class^="a-single a-"]
+e-playonline.com##.post-single-ads1
+e-playonline.com##div[id*="_ads_banner_"]
