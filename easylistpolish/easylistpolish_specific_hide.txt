@@ -1767,3 +1767,5 @@ tvswietokrzyska.pl##.custommarginbanner_topbottom
 radio7.pl##aside .a-single
 gazeta-mlawska.pl##a[href^="https://www.stihl.pl/"]
 jozefow-news.pl##a[href^="http://www.kbprojekt.pl"]
+wawernews.pl##a[href^="http://www.kbprojekt.pl"]
+wawernews.pl##div[class^="g-dyn a-"]
