@@ -1016,3 +1016,5 @@ _reklamy_$domain=chojna24.pl
 -baner_$domain=nowagazeta.pl
 ^inline__1_$domain=nowagazeta.pl
 ^baner-$domain=naszsrem.pl
+^banerkiJPG^$domain=zulawy.com
+||zulawy.com^images^banerkiIFRAME^$subdocument
