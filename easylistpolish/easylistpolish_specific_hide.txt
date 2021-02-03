@@ -1764,3 +1764,4 @@ tsa24.com##.head-wrap-in
 itvwisla.tv##[class^="g g-"]
 4miasta.pl##[class^="miast-baner-"]
 tvswietokrzyska.pl##.custommarginbanner_topbottom
+radio7.pl##aside .a-single
