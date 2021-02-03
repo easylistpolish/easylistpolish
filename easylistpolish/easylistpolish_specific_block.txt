@@ -1013,3 +1013,5 @@ _reklamy_$domain=chojna24.pl
 -ad-$domain=myerp.pl
 ||e-kg.pl^*^background/bg_
 ^baner-$domain=portalwolow.pl
+-baner_$domain=nowagazeta.pl
+^inline__1_$domain=nowagazeta.pl
