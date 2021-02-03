@@ -1018,3 +1018,4 @@ _reklamy_$domain=chojna24.pl
 ^baner-$domain=naszsrem.pl
 ^banerkiJPG^$domain=zulawy.com
 ||zulawy.com^images^banerkiIFRAME^$subdocument
+^baner-$domain=linia.com.pl
