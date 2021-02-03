@@ -1015,3 +1015,4 @@ _reklamy_$domain=chojna24.pl
 ^baner-$domain=portalwolow.pl
 -baner_$domain=nowagazeta.pl
 ^inline__1_$domain=nowagazeta.pl
+^baner-$domain=naszsrem.pl
