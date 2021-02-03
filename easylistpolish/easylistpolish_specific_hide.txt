@@ -1761,3 +1761,4 @@ tydzien.net.pl##div.td-a-rec
 naszsrem.pl##.wp-caption a[target="_blank"]
 tyna.info.pl##.breadcrumbs-wrap ~ center a
 tsa24.com##.head-wrap-in
+itvwisla.tv##[class^="g g-"]
