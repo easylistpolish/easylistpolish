@@ -1021,3 +1021,4 @@ _reklamy_$domain=chojna24.pl
 ^baner-$domain=linia.com.pl
 -ad.$domain=wilanownews.pl
 -ad.$domain=konstancinjeziorna-news.pl
+||reklamy.naszraciborz.pl^ad^$script
