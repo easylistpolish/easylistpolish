@@ -1771,3 +1771,5 @@ wawernews.pl##a[href^="http://www.kbprojekt.pl"]
 wawernews.pl##div[class^="g-dyn a-"]
 konstancinjeziorna-news.pl##a[href^="http://www.kbprojekt.pl"]
 konstancinjeziorna-news.pl##div[class^="g-dyn a-"]
+wcj24.pl##.widget_metaslider_widget
+wcj24.pl##div.widget[id^="text-"] a
