@@ -1778,3 +1778,4 @@ pultusk.news##[id*="metaslider_container_"]
 pultusk.news##div[class$="-banner"]
 pultusk.news##a[id*="Banner"]
 ziemialeszczynska.pl##.oglo_box2
+zw.pl##.oglo_box2
