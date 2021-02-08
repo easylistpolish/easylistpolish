@@ -16,3 +16,4 @@
 ||shopeneo.network^$third-party
 ||tvtoss.com^$third-party
 ||waytogrow.pl^$third-party
+||spacead.pl^$third-party
