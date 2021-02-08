@@ -1034,3 +1034,4 @@ _reklamy_$domain=chojna24.pl
 ^baner_$domain=nanarty.info
 ^banner-$domain=nanarty.info
 ||ceneo.pl^*^banners^$image,domain=grojec24.net
+^baner-$domain=naszosie.pl

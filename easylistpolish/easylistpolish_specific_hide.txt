@@ -1794,3 +1794,4 @@ e-playonline.com##div[id*="_ads_banner_"]
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 kocham.wielun.pl##.module-abc
 transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
+naszosie.pl##.vc_figure
