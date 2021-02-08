@@ -1025,3 +1025,4 @@ _reklamy_$domain=chojna24.pl
 ||rocznikgdynski.pl^*^antywirus-
 ^homepage-banners^$domain=otomoto.pl
 -baner-$domain=miastokobiet.pl
+||rowery.org^*^banerrowery2020-
