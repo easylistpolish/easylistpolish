@@ -1029,3 +1029,4 @@ _reklamy_$domain=chojna24.pl
 ^reklama2-$domain=wirtualnyregion.pl
 ^300^$image,domain=emecze.pl
 ^728^$image,domain=emecze.pl
+||mecze24.pl^*^kasyno_
