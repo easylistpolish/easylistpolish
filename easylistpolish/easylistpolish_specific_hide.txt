@@ -1779,3 +1779,4 @@ pultusk.news##div[class$="-banner"]
 pultusk.news##a[id*="Banner"]
 ziemialeszczynska.pl##.oglo_box2
 zw.pl##.oglo_box2
+otomoto.pl##.advert
