@@ -1036,3 +1036,5 @@ _reklamy_$domain=chojna24.pl
 ||ceneo.pl^*^banners^$image,domain=grojec24.net
 ^baner-$domain=naszosie.pl
 ||spottedskarzysko.pl^*^szmaragd.
+||miastons.pl^*^rekrutacja-it-
+||miastons.pl^*^donking-
