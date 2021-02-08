@@ -1027,3 +1027,5 @@ _reklamy_$domain=chojna24.pl
 -baner-$domain=miastokobiet.pl
 ||rowery.org^*^banerrowery2020-
 ^reklama2-$domain=wirtualnyregion.pl
+^300^$image,domain=emecze.pl
+^728^$image,domain=emecze.pl
