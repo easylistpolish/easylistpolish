@@ -1798,3 +1798,4 @@ naszosie.pl##.vc_figure
 spottedstarachowice.pl###BoxColTop .box
 spottedstarachowice.pl###BoxColTop2
 spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
+sucha24.pl##[id^="bills_in_rotation_"]

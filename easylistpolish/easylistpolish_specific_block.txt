@@ -1038,3 +1038,4 @@ _reklamy_$domain=chojna24.pl
 ||spottedskarzysko.pl^*^szmaragd.
 ||miastons.pl^*^rekrutacja-it-
 ||miastons.pl^*^donking-
+^inline__1_$domain=sucha24.pl
