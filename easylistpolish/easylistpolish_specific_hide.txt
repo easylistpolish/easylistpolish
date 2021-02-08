@@ -1784,3 +1784,5 @@ mazopolska.pl##.banner
 mazopolska.pl###header-banner
 bogatyregion.pl##.td-a-rec
 bogatyregion.pl##.n2-section-smartslider
+wirtualnyregion.pl##.cycloneslider
+wirtualnyregion.pl##.td-a-rec

@@ -1026,3 +1026,4 @@ _reklamy_$domain=chojna24.pl
 ^homepage-banners^$domain=otomoto.pl
 -baner-$domain=miastokobiet.pl
 ||rowery.org^*^banerrowery2020-
+^reklama2-$domain=wirtualnyregion.pl
