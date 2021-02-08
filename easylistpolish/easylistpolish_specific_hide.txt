@@ -1782,3 +1782,5 @@ zw.pl##.oglo_box2
 otomoto.pl##.advert
 mazopolska.pl##.banner
 mazopolska.pl###header-banner
+bogatyregion.pl##.td-a-rec
+bogatyregion.pl##.n2-section-smartslider
