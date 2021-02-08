@@ -1030,3 +1030,6 @@ _reklamy_$domain=chojna24.pl
 ^300^$image,domain=emecze.pl
 ^728^$image,domain=emecze.pl
 ||mecze24.pl^*^kasyno_
+-banerek.$domain=nanarty.info
+^baner_$domain=nanarty.info
+^banner-$domain=nanarty.info
