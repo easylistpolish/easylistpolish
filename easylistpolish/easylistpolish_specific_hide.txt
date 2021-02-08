@@ -1786,3 +1786,8 @@ bogatyregion.pl##.td-a-rec
 bogatyregion.pl##.n2-section-smartslider
 wirtualnyregion.pl##.cycloneslider
 wirtualnyregion.pl##.td-a-rec
+e-playonline.com##a[href^="https://www.novomatic.com/"]
+e-playonline.com##.elementor-column-wrap .elementor-widget a:not([href^="https://e-"])[target="_blank"]
+e-playonline.com##div[class^="a-single a-"]
+e-playonline.com##.post-single-ads1
+e-playonline.com##div[id*="_ads_banner_"]
