@@ -1792,3 +1792,4 @@ e-playonline.com##div[class^="a-single a-"]
 e-playonline.com##.post-single-ads1
 e-playonline.com##div[id*="_ads_banner_"]
 okraglemiasto.pl##.td-a-rec > .td-all-devices
+magazynt3.pl###zox-lead-top
