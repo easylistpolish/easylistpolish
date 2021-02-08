@@ -1024,3 +1024,4 @@ _reklamy_$domain=chojna24.pl
 ||reklamy.naszraciborz.pl^ad^$script
 ||rocznikgdynski.pl^*^antywirus-
 ^homepage-banners^$domain=otomoto.pl
+-baner-$domain=miastokobiet.pl
