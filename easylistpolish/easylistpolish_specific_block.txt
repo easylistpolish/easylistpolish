@@ -1023,3 +1023,4 @@ _reklamy_$domain=chojna24.pl
 -ad.$domain=konstancinjeziorna-news.pl
 ||reklamy.naszraciborz.pl^ad^$script
 ||rocznikgdynski.pl^*^antywirus-
+^homepage-banners^$domain=otomoto.pl
