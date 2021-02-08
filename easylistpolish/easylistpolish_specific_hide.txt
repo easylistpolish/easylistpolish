@@ -1795,3 +1795,6 @@ okraglemiasto.pl##.td-a-rec > .td-all-devices
 kocham.wielun.pl##.module-abc
 transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
 naszosie.pl##.vc_figure
+spottedstarachowice.pl###BoxColTop .box
+spottedstarachowice.pl###BoxColTop2
+spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
