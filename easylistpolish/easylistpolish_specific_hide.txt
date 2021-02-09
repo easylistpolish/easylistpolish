@@ -1801,3 +1801,5 @@ spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 sucha24.pl##[id^="bills_in_rotation_"]
 radiovictoria.pl##.herald-txt-module div a
 kurierzurominski.pl##.herald-txt-module
+e-szczuczyn.pl###custom_html-3
+e-szczuczyn.pl##.one-1
