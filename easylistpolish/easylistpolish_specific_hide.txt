@@ -1809,3 +1809,4 @@ magazynt3.pl###zox-lead-top
 gazetasenior.pl##img[alt^="Reklama"]
 mojanorwegia.pl##.row.single > a[target="_blank"]
 anywhere.pl##div[class^="a-single a-"]
+komputerowapasja.pl##div[id^="dolnyobraz"]
