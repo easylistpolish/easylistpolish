@@ -1043,3 +1043,4 @@ _reklamy_$domain=chojna24.pl
 ||gazetasenior.pl^*_300x300_
 ||gazetasenior.pl^*-300-px-
 ||bolec.info^*^dth_
+||lokalna.info^*^kssse.
