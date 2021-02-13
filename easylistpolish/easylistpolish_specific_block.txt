@@ -1040,3 +1040,5 @@ _reklamy_$domain=chojna24.pl
 ||miastons.pl^*^donking-
 ^inline__1_$domain=sucha24.pl
 ^cuprum-$domain=retailnet.pl
+||gazetasenior.pl^*_300x300_
+||gazetasenior.pl^*-300-px-
