@@ -1811,3 +1811,4 @@ mojanorwegia.pl##.row.single > a[target="_blank"]
 anywhere.pl##div[class^="a-single a-"]
 komputerowapasja.pl##div[id^="dolnyobraz"]
 bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informacje/"]
+naszestrony.info.pl###pyre_tabs-widget-2
