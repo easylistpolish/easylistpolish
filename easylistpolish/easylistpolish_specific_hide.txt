@@ -1807,3 +1807,4 @@ ok24.tv##.sgpb-popup-overlay
 folk24.pl##.boxAdvert
 magazynt3.pl###zox-lead-top
 gazetasenior.pl##img[alt^="Reklama"]
+mojanorwegia.pl##.row.single > a[target="_blank"]
