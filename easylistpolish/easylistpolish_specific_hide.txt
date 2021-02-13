@@ -1804,3 +1804,4 @@ kurierzurominski.pl##.herald-txt-module
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/pl/"]
 ok24.tv###sgpb-popup-dialog-main-div-wrapper
 ok24.tv##.sgpb-popup-overlay
+folk24.pl##.boxAdvert
