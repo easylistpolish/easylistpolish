@@ -1802,4 +1802,5 @@ sucha24.pl##[id^="bills_in_rotation_"]
 radiovictoria.pl##.herald-txt-module div a
 kurierzurominski.pl##.herald-txt-module
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/pl/"]
-
+ok24.tv###sgpb-popup-dialog-main-div-wrapper
+ok24.tv##.sgpb-popup-overlay
