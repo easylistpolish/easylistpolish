@@ -1052,3 +1052,4 @@ _reklamy_$domain=chojna24.pl
 -baner.$domain=napoli24h.pl
 ||malagacf.pl^*^sts-laliga3.
 ||fcbtv.pl^*^sts-laliga3.
+^bans^$domain=plastech.pl
