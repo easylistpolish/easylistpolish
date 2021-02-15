@@ -1815,3 +1815,4 @@ naszestrony.info.pl###pyre_tabs-widget-2
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 dziennikteatralny.pl###topBigBanner
 budownictwo.co###media_image-5
+rynek-rolny.pl##div#fixedElement

@@ -1047,3 +1047,4 @@ _reklamy_$domain=chojna24.pl
 ^grafika2^$domain=tsk24.pl
 -baner-$domain=tygodnikpiski.pl
 -baner-$domain=budownictwo.co
+||zamioculcas.org^$script,domain=rynek-rolny.pl
