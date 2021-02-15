@@ -1801,4 +1801,26 @@ spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 sucha24.pl##[id^="bills_in_rotation_"]
 radiovictoria.pl##.herald-txt-module div a
 kurierzurominski.pl##.herald-txt-module
+waszaturystyka.pl##a[href^="https://www.corendonairlines.com/pl/"]
+ok24.tv###sgpb-popup-dialog-main-div-wrapper
+ok24.tv##.sgpb-popup-overlay
+folk24.pl##.boxAdvert
+magazynt3.pl###zox-lead-top
+gazetasenior.pl##img[alt^="Reklama"]
+mojanorwegia.pl##.row.single > a[target="_blank"]
+anywhere.pl##div[class^="a-single a-"]
+komputerowapasja.pl##div[id^="dolnyobraz"]
+bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informacje/"]
+naszestrony.info.pl###pyre_tabs-widget-2
+zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
+dziennikteatralny.pl###topBigBanner
+budownictwo.co###media_image-5
+rynek-rolny.pl##div#fixedElement
+slaskiesiemianowice.pl##.trzyreklamy
+dwakwadranse.pl##[class^="g g-"]
+widzewtomy.net##a[href^="https://www.ucando.pl/"]
+stylkibica.net###text-5
+stylkibica.net###text-9
+stylkibica.net###text-8
+terazpasy.pl##.block-type-1-polecane
 motorlublin.com###text-12
