@@ -1819,3 +1819,6 @@ rynek-rolny.pl##div#fixedElement
 slaskiesiemianowice.pl##.trzyreklamy
 dwakwadranse.pl##[class^="g g-"]
 widzewtomy.net##a[href^="https://www.ucando.pl/"]
+stylkibica.net###text-5
+stylkibica.net###text-9
+stylkibica.net###text-8
