@@ -1826,3 +1826,5 @@ terazpasy.pl##.block-type-1-polecane
 motorlublin.com###text-12
 spottedalert.pl##div#mvp-leader-wrap
 niezalezna.pl##div.prenumerata-banner
+e-szczuczyn.pl###custom_html-3
+e-szczuczyn.pl##.one-1 .post-content
