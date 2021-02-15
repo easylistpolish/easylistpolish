@@ -1045,3 +1045,4 @@ _reklamy_$domain=chojna24.pl
 ||bolec.info^*^dth_
 ||lokalna.info^*^kssse.
 ^grafika2^$domain=tsk24.pl
+-baner-$domain=tygodnikpiski.pl
