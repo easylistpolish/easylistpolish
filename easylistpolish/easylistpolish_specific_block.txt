@@ -1046,3 +1046,4 @@ _reklamy_$domain=chojna24.pl
 ||lokalna.info^*^kssse.
 ^grafika2^$domain=tsk24.pl
 -baner-$domain=tygodnikpiski.pl
+-baner-$domain=budownictwo.co
