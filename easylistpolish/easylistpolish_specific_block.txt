@@ -1039,4 +1039,16 @@ _reklamy_$domain=chojna24.pl
 ||miastons.pl^*^rekrutacja-it-
 ||miastons.pl^*^donking-
 ^inline__1_$domain=sucha24.pl
+^cuprum-$domain=retailnet.pl
+||gazetasenior.pl^*_300x300_
+||gazetasenior.pl^*-300-px-
+||bolec.info^*^dth_
+||lokalna.info^*^kssse.
+^grafika2^$domain=tsk24.pl
+-baner-$domain=tygodnikpiski.pl
+-baner-$domain=budownictwo.co
+||zamioculcas.org^$script,domain=rynek-rolny.pl
+-baner-$domain=dwakwadranse.pl
+-baner.$domain=napoli24h.pl
+||malagacf.pl^*^sts-laliga3.
 ||fcbtv.pl^*^sts-laliga3.
