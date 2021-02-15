@@ -1817,3 +1817,4 @@ dziennikteatralny.pl###topBigBanner
 budownictwo.co###media_image-5
 rynek-rolny.pl##div#fixedElement
 slaskiesiemianowice.pl##.trzyreklamy
+dwakwadranse.pl##[class^="g g-"]
