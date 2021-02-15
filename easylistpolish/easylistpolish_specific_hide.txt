@@ -1813,3 +1813,4 @@ komputerowapasja.pl##div[id^="dolnyobraz"]
 bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informacje/"]
 naszestrony.info.pl###pyre_tabs-widget-2
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
+dziennikteatralny.pl###topBigBanner
