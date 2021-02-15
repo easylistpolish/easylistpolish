@@ -1055,3 +1055,5 @@ _reklamy_$domain=chojna24.pl
 ^bans^$domain=plastech.pl
 ||lechia.net^*^miejsce-na-twoja.
 ||lechia.net^*^jooma-guru-
+_baner_$domain=stolarkabudowlana.eu
+-baner-$domain=stolarkabudowlana.eu
