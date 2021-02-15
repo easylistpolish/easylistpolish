@@ -1049,3 +1049,4 @@ _reklamy_$domain=chojna24.pl
 -baner-$domain=budownictwo.co
 ||zamioculcas.org^$script,domain=rynek-rolny.pl
 -baner-$domain=dwakwadranse.pl
+-baner.$domain=napoli24h.pl
