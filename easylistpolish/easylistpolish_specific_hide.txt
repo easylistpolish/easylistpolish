@@ -1824,3 +1824,4 @@ stylkibica.net###text-9
 stylkibica.net###text-8
 terazpasy.pl##.block-type-1-polecane
 motorlublin.com###text-12
+spottedalert.pl##div#mvp-leader-wrap
