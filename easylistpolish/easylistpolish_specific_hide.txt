@@ -1822,3 +1822,4 @@ widzewtomy.net##a[href^="https://www.ucando.pl/"]
 stylkibica.net###text-5
 stylkibica.net###text-9
 stylkibica.net###text-8
+terazpasy.pl##.block-type-1-polecane
