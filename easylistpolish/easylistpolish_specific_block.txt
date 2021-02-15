@@ -1050,3 +1050,4 @@ _reklamy_$domain=chojna24.pl
 ||zamioculcas.org^$script,domain=rynek-rolny.pl
 -baner-$domain=dwakwadranse.pl
 -baner.$domain=napoli24h.pl
+||malagacf.pl^*^sts-laliga3.
