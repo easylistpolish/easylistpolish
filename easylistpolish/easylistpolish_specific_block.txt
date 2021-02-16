@@ -1057,3 +1057,4 @@ _reklamy_$domain=chojna24.pl
 ||lechia.net^*^jooma-guru-
 _baner_$domain=stolarkabudowlana.eu
 -baner-$domain=stolarkabudowlana.eu
+^Betx^$domain=sportowebeskidy.pl
