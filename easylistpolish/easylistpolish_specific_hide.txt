@@ -1829,3 +1829,7 @@ niezalezna.pl##div.prenumerata-banner
 e-szczuczyn.pl###custom_html-3
 e-szczuczyn.pl##.one-1 .post-content
 stolarkabudowlana.eu##.navbar-ad-section
+nowezyciepabianic.pl##.ads480
+nowezyciepabianic.pl##.adv-wrap
+nowezyciepabianic.pl##.adv--above-news
+nowezyciepabianic.pl###adv-view-widget-5
