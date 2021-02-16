@@ -1829,3 +1829,9 @@ niezalezna.pl##div.prenumerata-banner
 e-szczuczyn.pl###custom_html-3
 e-szczuczyn.pl##.one-1 .post-content
 stolarkabudowlana.eu##.navbar-ad-section
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.grid-item—wpapiad
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.insert—top-offer
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.shoplovin-3P
+wp.pl##div[data-native-adv]
+wp.pl##li[data-adv]
