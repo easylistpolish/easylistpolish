@@ -1829,3 +1829,5 @@ niezalezna.pl##div.prenumerata-banner
 e-szczuczyn.pl###custom_html-3
 e-szczuczyn.pl##.one-1 .post-content
 stolarkabudowlana.eu##.navbar-ad-section
+cztery-lapy.pl##a[href^="/adv/"]
+cztery-lapy.pl##.top_banner_wrapper
