@@ -1801,3 +1801,4 @@ spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 sucha24.pl##[id^="bills_in_rotation_"]
 radiovictoria.pl##.herald-txt-module div a
 kurierzurominski.pl##.herald-txt-module
+zachodniopomorska.tv##.visible-lg
