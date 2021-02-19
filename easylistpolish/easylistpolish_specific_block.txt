@@ -1039,3 +1039,5 @@ _reklamy_$domain=chojna24.pl
 ||miastons.pl^*^rekrutacja-it-
 ||miastons.pl^*^donking-
 ^inline__1_$domain=sucha24.pl
+_banerek.$domain=plytkiceramiczne.info.pl
+^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
