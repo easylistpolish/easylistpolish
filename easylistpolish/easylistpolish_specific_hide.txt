@@ -1873,3 +1873,5 @@ zwolen24.pl###adocr
 cztery-lapy.pl##a[href^="/adv/"]
 cztery-lapy.pl##.top_banner_wrapper
 muzyczneradio.pl##.idBanner4
+otouczelnie.pl##div[style^="background: url('/assets/"]
+otouczelnie.pl###belka
