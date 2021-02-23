@@ -1061,3 +1061,4 @@ _baner_$domain=stolarkabudowlana.eu
 ^banners^$domain=polskatradycja.pl
 ^Betx^$domain=sportowebeskidy.pl
 ^banery^$domain=trentino.pl
+||faunaflora.com.pl/euroanimal.
