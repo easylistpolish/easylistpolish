@@ -1839,3 +1839,5 @@ wp.pl##.advarticle
 gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##div > .insert--top-offer
 gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##article > .insert--top-offer
 naszabramow.pl###sidebar a[target="_blank"] > img
+ciechanowonline.pl##.reklamy
+ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
