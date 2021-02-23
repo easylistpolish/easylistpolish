@@ -1865,3 +1865,4 @@ nowezyciepabianic.pl###adv-view-widget-5
 sfora.pl##.td-a-rec
 faunaflora.com.pl##td[colspan="3"] > a[target="_blank"]
 faunaflora.com.pl##a[href^="http://targikielce.pl/"]
+mtv24.tv##.adv
