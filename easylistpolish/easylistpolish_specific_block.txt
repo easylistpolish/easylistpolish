@@ -1064,3 +1064,4 @@ _baner_$domain=stolarkabudowlana.eu
 ||faunaflora.com.pl/euroanimal.
 ^banery^$domain=reszel.pl
 ||wielkopolska.tv^*^inea-logo.
+||pionki24.pl^*wizyt%
