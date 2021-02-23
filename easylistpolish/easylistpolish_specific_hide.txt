@@ -1856,3 +1856,4 @@ kryptoporadnik.pl###text-7
 polskatradycja.pl##a[href^="https://pln.tgm."]
 polskiemiasta.tv###wartozobaczyc
 lubaczow.tv##img[alt^="Ad banner"]
+biznesregion.pl##.syl-baner-place
