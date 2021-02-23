@@ -1854,3 +1854,4 @@ hodowle.eu###banner
 magazynbiomasa.pl##div[class^="g-dyn a-"]
 kryptoporadnik.pl###text-7
 polskatradycja.pl##a[href^="https://pln.tgm."]
+polskiemiasta.tv###wartozobaczyc
