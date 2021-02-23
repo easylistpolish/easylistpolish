@@ -1851,3 +1851,4 @@ glosrybnika.pl##a[href^="http://www.krakvet.pl/"]
 glosrzeszowa.pl##a[href^="http://www.krakvet.pl/"]
 glostorunia.pl##a[href^="http://www.krakvet.pl/"]
 hodowle.eu###banner
+magazynbiomasa.pl##div[class^="g-dyn a-"]
