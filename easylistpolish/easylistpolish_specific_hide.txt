@@ -1853,3 +1853,4 @@ glostorunia.pl##a[href^="http://www.krakvet.pl/"]
 hodowle.eu###banner
 magazynbiomasa.pl##div[class^="g-dyn a-"]
 kryptoporadnik.pl###text-7
+polskatradycja.pl##a[href^="https://pln.tgm."]
