@@ -1845,3 +1845,4 @@ twojepajeczno.pl##.scxxx
 dts24.pl##div[class^="a-single a-"]
 dts24.pl##a[href^="https://pl.jooble.org/"]
 dts24.pl##div[class^="g-single a-"]
+capuccino.eu##div[id^="n2-ss-"]
