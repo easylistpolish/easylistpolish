@@ -1063,3 +1063,4 @@ _baner_$domain=stolarkabudowlana.eu
 ^banery^$domain=trentino.pl
 ||faunaflora.com.pl/euroanimal.
 ^banery^$domain=reszel.pl
+||wielkopolska.tv^*^inea-logo.
