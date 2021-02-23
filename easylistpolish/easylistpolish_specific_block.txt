@@ -1065,3 +1065,4 @@ _baner_$domain=stolarkabudowlana.eu
 ^banery^$domain=reszel.pl
 ||wielkopolska.tv^*^inea-logo.
 ||pionki24.pl^*wizyt%
+^artykul%20kierunek^$domain=otouczelnie.pl
