@@ -1872,3 +1872,4 @@ gamingsociety.pl##a[href^="https://nazwa.pl/"]
 zwolen24.pl###adocr
 cztery-lapy.pl##a[href^="/adv/"]
 cztery-lapy.pl##.top_banner_wrapper
+muzyczneradio.pl##.idBanner4
