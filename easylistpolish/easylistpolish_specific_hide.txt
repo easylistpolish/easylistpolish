@@ -1869,3 +1869,4 @@ mtv24.tv##.adv
 staresiolkowice.pl###media_image-2
 wielkopolska.tv##.advertise
 gamingsociety.pl##a[href^="https://nazwa.pl/"]
+zwolen24.pl###adocr
