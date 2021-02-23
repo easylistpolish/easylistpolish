@@ -1060,3 +1060,4 @@ _baner_$domain=stolarkabudowlana.eu
 ^areklamy^$domain=e-lokalne.pl
 ^banners^$domain=polskatradycja.pl
 ^Betx^$domain=sportowebeskidy.pl
+^banery^$domain=trentino.pl
