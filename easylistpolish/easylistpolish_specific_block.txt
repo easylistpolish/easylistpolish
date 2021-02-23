@@ -1066,3 +1066,4 @@ _baner_$domain=stolarkabudowlana.eu
 ||wielkopolska.tv^*^inea-logo.
 ||pionki24.pl^*wizyt%
 ^artykul%20kierunek^$domain=otouczelnie.pl
+||burdadigital.pl^$subdocument,domain=focus.pl
