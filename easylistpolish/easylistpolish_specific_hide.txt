@@ -1842,3 +1842,6 @@ naszabramow.pl###sidebar a[target="_blank"] > img
 ciechanowonline.pl##.reklamy
 ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
 twojepajeczno.pl##.scxxx
+dts24.pl##div[class^="a-single a-"]
+dts24.pl##a[href^="https://pl.jooble.org/"]
+dts24.pl##div[class^="g-single a-"]
