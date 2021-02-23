@@ -1862,3 +1862,4 @@ nowezyciepabianic.pl##.ads480
 nowezyciepabianic.pl##.adv-wrap
 nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl###adv-view-widget-5
+sfora.pl##.td-a-rec
