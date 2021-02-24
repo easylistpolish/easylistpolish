@@ -1875,3 +1875,5 @@ cztery-lapy.pl##.top_banner_wrapper
 muzyczneradio.pl##.idBanner4
 otouczelnie.pl##div[style^="background: url('/assets/"]
 otouczelnie.pl###belka
+mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
+
