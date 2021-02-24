@@ -1074,3 +1074,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
 ^emisje^$domain=stalowemiasto.pl
 ||ifotos.pl^img^$domain=supertydzien.pl
+||alicdn.com^$image,domain=wlodawa.net
