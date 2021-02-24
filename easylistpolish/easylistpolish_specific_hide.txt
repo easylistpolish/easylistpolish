@@ -1877,3 +1877,4 @@ otouczelnie.pl##div[style^="background: url('/assets/"]
 otouczelnie.pl###belka
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
 terenyinwestycyjne.info##.advert-block-wide
+zachodniopomorska.tv##.visible-lg
