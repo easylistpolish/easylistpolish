@@ -1884,3 +1884,4 @@ stalowemiasto.pl##.slot-1280px
 ddwlkp.pl##.baner
 telewizjattm.pl##.banner-main-page
 ddwloclawek.pl##[class="row box-margin bvideo"]
+goral.info.pl##div.td-a-rec
