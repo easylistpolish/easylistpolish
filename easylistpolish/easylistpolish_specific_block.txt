@@ -1070,3 +1070,5 @@ _baner_$domain=stolarkabudowlana.eu
 ||gohel.pl^*^hotem-hel.
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ^banner_$domain=tu.swinoujscie.pl
+_banerek.$domain=plytkiceramiczne.info.pl
+^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
