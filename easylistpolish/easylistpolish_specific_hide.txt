@@ -1801,4 +1801,81 @@ spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 sucha24.pl##[id^="bills_in_rotation_"]
 radiovictoria.pl##.herald-txt-module div a
 kurierzurominski.pl##.herald-txt-module
+waszaturystyka.pl##a[href^="https://www.corendonairlines.com/pl/"]
+ok24.tv###sgpb-popup-dialog-main-div-wrapper
+ok24.tv##.sgpb-popup-overlay
+folk24.pl##.boxAdvert
+magazynt3.pl###zox-lead-top
+gazetasenior.pl##img[alt^="Reklama"]
+mojanorwegia.pl##.row.single > a[target="_blank"]
+anywhere.pl##div[class^="a-single a-"]
+komputerowapasja.pl##div[id^="dolnyobraz"]
+bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informacje/"]
+naszestrony.info.pl###pyre_tabs-widget-2
+zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
+dziennikteatralny.pl###topBigBanner
+budownictwo.co###media_image-5
+rynek-rolny.pl##div#fixedElement
+slaskiesiemianowice.pl##.trzyreklamy
+dwakwadranse.pl##[class^="g g-"]
+widzewtomy.net##a[href^="https://www.ucando.pl/"]
+stylkibica.net###text-5
+stylkibica.net###text-9
+stylkibica.net###text-8
+terazpasy.pl##.block-type-1-polecane
+motorlublin.com###text-12
+spottedalert.pl##div#mvp-leader-wrap
+niezalezna.pl##div.prenumerata-banner
+e-szczuczyn.pl###custom_html-3
+e-szczuczyn.pl##.one-1 .post-content
+stolarkabudowlana.eu##.navbar-ad-section
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.grid-item—wpapiad
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.insert—top-offer
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.shoplovin-3P
+wp.pl##div[data-native-adv]
+wp.pl##li[data-adv]
+wp.pl##.advarticle
+gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##div > .insert--top-offer
+gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##article > .insert--top-offer
+naszabramow.pl###sidebar a[target="_blank"] > img
+ciechanowonline.pl##.reklamy
+ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
+twojepajeczno.pl##.scxxx
+dts24.pl##div[class^="a-single a-"]
+dts24.pl##a[href^="https://pl.jooble.org/"]
+dts24.pl##div[class^="g-single a-"]
+capuccino.eu##div[id^="n2-ss-"]
+miechowski.pl##div[class*="sgpb-popup-"]
+glosrybnika.pl##a[href^="http://www.krakvet.pl/"]
+glosrzeszowa.pl##a[href^="http://www.krakvet.pl/"]
+glostorunia.pl##a[href^="http://www.krakvet.pl/"]
+hodowle.eu###banner
+magazynbiomasa.pl##div[class^="g-dyn a-"]
+kryptoporadnik.pl###text-7
+polskatradycja.pl##a[href^="https://pln.tgm."]
+polskiemiasta.tv###wartozobaczyc
+lubaczow.tv##img[alt^="Ad banner"]
+biznesregion.pl##.syl-baner-place
+bbfan.pl##[class^="_ngcontent-uua-"]
+nowezyciepabianic.pl##.ads480
+nowezyciepabianic.pl##.adv-wrap
+nowezyciepabianic.pl##.adv--above-news
+nowezyciepabianic.pl###adv-view-widget-5
+sfora.pl##.td-a-rec
+faunaflora.com.pl##td[colspan="3"] > a[target="_blank"]
+faunaflora.com.pl##a[href^="http://targikielce.pl/"]
+mtv24.tv##.adv
+staresiolkowice.pl###media_image-2
+wielkopolska.tv##.advertise
+gamingsociety.pl##a[href^="https://nazwa.pl/"]
+zwolen24.pl###adocr
+cztery-lapy.pl##a[href^="/adv/"]
+cztery-lapy.pl##.top_banner_wrapper
+muzyczneradio.pl##.idBanner4
+otouczelnie.pl##div[style^="background: url('/assets/"]
+otouczelnie.pl###belka
+mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
+terenyinwestycyjne.info##.advert-block-wide
+zachodniopomorska.tv##.visible-lg
 tu.swinoujscie.pl###text-15
