@@ -1878,3 +1878,4 @@ otouczelnie.pl###belka
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
 terenyinwestycyjne.info##.advert-block-wide
 zachodniopomorska.tv##.visible-lg
+tu.swinoujscie.pl###text-15
