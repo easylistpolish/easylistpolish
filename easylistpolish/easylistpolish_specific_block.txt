@@ -1067,3 +1067,4 @@ _baner_$domain=stolarkabudowlana.eu
 ||pionki24.pl^*wizyt%
 ^artykul%20kierunek^$domain=otouczelnie.pl
 ||burdadigital.pl^$subdocument,domain=focus.pl
+||gohel.pl^*^hotem-hel.
