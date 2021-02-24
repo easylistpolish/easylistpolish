@@ -1072,3 +1072,4 @@ _baner_$domain=stolarkabudowlana.eu
 ^banner_$domain=tu.swinoujscie.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 ^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
+^emisje^$domain=stalowemiasto.pl

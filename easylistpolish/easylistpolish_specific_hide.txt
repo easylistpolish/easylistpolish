@@ -1880,3 +1880,4 @@ terenyinwestycyjne.info##.advert-block-wide
 zachodniopomorska.tv##.visible-lg
 tu.swinoujscie.pl###text-15
 pzl24.info##.baner
+stalowemiasto.pl##.slot-1280px
