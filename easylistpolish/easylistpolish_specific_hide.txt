@@ -1889,3 +1889,7 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+lebork24.info##.elementor-widget-wp-widget-ai_widget
+lebork24.info##.ai_widget
+lebork24.info##.code-block-6
+lebork24.info##.code-block-15
