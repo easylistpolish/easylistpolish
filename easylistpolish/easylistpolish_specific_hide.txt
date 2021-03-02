@@ -1889,3 +1889,5 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+koscierzyna24.info##.advert-A1
+koscierzyna24.info##.advert-B1
