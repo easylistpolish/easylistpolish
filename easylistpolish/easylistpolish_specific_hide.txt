@@ -1889,3 +1889,5 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
+zakazanaprawda.pl##div[id^="custom_html-"]
