@@ -1077,3 +1077,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||alicdn.com^$image,domain=wlodawa.net
 ||skipol.pl^*^watermark_azoty.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
+||tkn24.pl^*^Pomagamy-i-
