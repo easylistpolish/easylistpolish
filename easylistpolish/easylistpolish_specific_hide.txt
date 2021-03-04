@@ -1889,3 +1889,5 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+ototorun.pl##.l-box--100 > p > a[target="_self"]
+ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
