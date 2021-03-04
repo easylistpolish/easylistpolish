@@ -1889,3 +1889,6 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+oknonet.pl##a[href^="/openurl.php?bid="]
+oknonet.pl###AdSmall
+oknonet.pl###AdBig
