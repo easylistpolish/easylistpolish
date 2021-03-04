@@ -1889,3 +1889,5 @@ skipol.pl###makler7
 skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
+francuskie.pl##div[id^="franc-"] img
+francuskie.pl##a[href^="https://dskrakow.otomoto.pl/"]
