@@ -1898,3 +1898,4 @@ stefczyk.info##.our-sites-links
 nowiny24.pl##article.contentStream
 pch24.info##.baner
 hokej.net##.birthday ~ a[target="_blank"]
+myslenicka24.pl##.mysle-reklama-glowna
