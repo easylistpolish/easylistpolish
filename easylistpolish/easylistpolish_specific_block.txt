@@ -1075,4 +1075,6 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ^emisje^$domain=stalowemiasto.pl
 ||ifotos.pl^img^$domain=supertydzien.pl
 ||alicdn.com^$image,domain=wlodawa.net
+||skipol.pl^*^watermark_azoty.
+||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ceneo.pl^$image,domain=pmi24.info
