@@ -1884,4 +1884,16 @@ stalowemiasto.pl##.slot-1280px
 ddwlkp.pl##.baner
 telewizjattm.pl##.banner-main-page
 ddwloclawek.pl##[class="row box-margin bvideo"]
+zawiercianskie.pl##div[id^="metaslider_"]
+skipol.pl###makler7
+skipol.pl###maklerboczna1
+open.fm##.listAdvSlot
+lubanski.eu##.shailan_banner_widget
+stylowi.pl##.sell
+pmi24.info##.baner
+goral.info.pl##div.td-a-rec
+tychy.info##.linki-sponsorowane-group-artykul
+koscierzyna24.info##.advert-B1
+stefczyk.info##.our-sites-links
+nowiny24.pl##article.contentStream
 pch24.info##.baner
