@@ -1079,3 +1079,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ceneo.pl^$image,domain=pmi24.info
 _baner_$domain=starosadeckie.info
+||contentstream.pl^$domain=shareinfo.pl
