@@ -1892,3 +1892,4 @@ lubanski.eu##.shailan_banner_widget
 stylowi.pl##.sell
 pmi24.info##.baner
 goral.info.pl##div.td-a-rec
+tychy.info##.linki-sponsorowane-group-artykul
