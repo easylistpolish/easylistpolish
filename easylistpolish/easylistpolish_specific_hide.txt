@@ -1900,3 +1900,4 @@ pch24.info##.baner
 hokej.net##.birthday ~ a[target="_blank"]
 myslenicka24.pl##.mysle-reklama-glowna
 mojgdow.pl###text-9
+mojgdowmagazyn.pl###media_image-5
