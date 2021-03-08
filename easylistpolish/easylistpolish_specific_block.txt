@@ -1083,3 +1083,4 @@ _baner_$domain=starosadeckie.info
 ||tipnet.pl^$image,domain=slowopodlasia.pl
 ||ceneo.pl^$image,domain=pch24.info
 ||hokej.net^*^kasynohex.
+^reklama-$domain=mojgdow.pl
