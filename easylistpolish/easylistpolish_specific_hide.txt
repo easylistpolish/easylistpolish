@@ -1890,3 +1890,4 @@ skipol.pl###maklerboczna1
 open.fm##.listAdvSlot
 lubanski.eu##.shailan_banner_widget
 stylowi.pl##.sell
+pmi24.info##.baner
