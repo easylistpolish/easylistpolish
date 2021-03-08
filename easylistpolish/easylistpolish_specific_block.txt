@@ -1078,3 +1078,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||skipol.pl^*^watermark_azoty.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ceneo.pl^$image,domain=pmi24.info
+_baner_$domain=starosadeckie.info
