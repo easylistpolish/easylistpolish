@@ -1081,3 +1081,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 _baner_$domain=starosadeckie.info
 ||contentstream.pl^$domain=shareinfo.pl
 ||tipnet.pl^$image,domain=slowopodlasia.pl
+||ceneo.pl^$image,domain=pch24.info

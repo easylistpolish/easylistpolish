@@ -1896,3 +1896,4 @@ tychy.info##.linki-sponsorowane-group-artykul
 koscierzyna24.info##.advert-B1
 stefczyk.info##.our-sites-links
 nowiny24.pl##article.contentStream
+pch24.info##.baner
