@@ -1,3 +1,4 @@
+||ad-work.pl^$third-party
 ||adsearch.pl^$third-party
 ||adsnet.pl^$third-party
 ||affiliates-solutions.com^$third-party
@@ -14,7 +15,6 @@
 ||renormaliseras.xyz^$third-party
 ||rewords.pl^$third-party
 ||shopeneo.network^$third-party
+||spacead.pl^$third-party
 ||tvtoss.com^$third-party
 ||waytogrow.pl^$third-party
-||spacead.pl^$third-party
-||ad-work.pl^$third-party
