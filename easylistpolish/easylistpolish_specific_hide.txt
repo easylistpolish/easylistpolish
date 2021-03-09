@@ -1930,3 +1930,4 @@ oknonet.pl###AdSmall
 oknonet.pl###AdBig
 planeta.pl##.advContainer
 radiozet.pl##.advContainer
+antyradio.pl##.advContainer
