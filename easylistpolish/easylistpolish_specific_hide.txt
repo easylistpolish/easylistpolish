@@ -1933,3 +1933,4 @@ radiozet.pl##.advContainer
 antyradio.pl##.advContainer
 silesia24.pl##.adds--top
 elubin.pl##div[class^="g-dyn a-"]
+nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
