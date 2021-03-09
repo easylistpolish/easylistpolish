@@ -1092,3 +1092,4 @@ _baner_$domain=starosadeckie.info
 ^inline__1_$domain=zambrow.org
 ||oknonawagrowiec.pl^*^sklady-opalowe-
 ^ban^$image,domain=kopaczka.pl
+^inne^$image,domain=mierzyn24.pl
