@@ -1935,3 +1935,4 @@ silesia24.pl##.adds--top
 elubin.pl##div[class^="g-dyn a-"]
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 roland-gazeta.pl##.banneritem
+mierzyn24.pl##.subpage-header2
