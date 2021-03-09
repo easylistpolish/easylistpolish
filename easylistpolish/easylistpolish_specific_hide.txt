@@ -1918,3 +1918,4 @@ lebork24.info##.elementor-widget-wp-widget-ai_widget
 lebork24.info##.ai_widget
 lebork24.info##.code-block-6
 lebork24.info##.code-block-15
+podlasie24.pl##a[href^="https://gry.lotto.pl/"]
