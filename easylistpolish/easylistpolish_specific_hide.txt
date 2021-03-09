@@ -1940,3 +1940,4 @@ infobeskidy.eu##.userad
 interia.pl##a[onclick^="iwa('trackEvent'"] > img
 odkrywamyzakryte.com##.custom-html-widget
 maslow.info.pl###newsflash2 a[target="_blank"] > img
+2x45.info##a[href^="https://in.betsson29.com/"]
