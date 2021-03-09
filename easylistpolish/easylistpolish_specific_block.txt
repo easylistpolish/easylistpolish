@@ -1091,3 +1091,4 @@ _baner_$domain=starosadeckie.info
 ^reklama-$domain=ifrancja.fr
 ^inline__1_$domain=zambrow.org
 ||oknonawagrowiec.pl^*^sklady-opalowe-
+^ban^$image,domain=kopaczka.pl
