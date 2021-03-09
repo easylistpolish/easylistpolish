@@ -1903,3 +1903,4 @@ mojgdow.pl###text-9
 mojgdowmagazyn.pl###media_image-5
 polskieligi.net##.ad-top-container
 gram.pl###floorLayer
+gracz.org##a[onclick^="gtag('event"][target="_blank"]
