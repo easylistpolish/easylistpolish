@@ -1096,3 +1096,4 @@ _baner_$domain=starosadeckie.info
 ||infobeskidy.eu^*^files/r*.png
 ^banery^$domain=maslow.info.pl
 -baner-$domain=gramwzielone.pl
+||kontakt-st.pl/bannery.
