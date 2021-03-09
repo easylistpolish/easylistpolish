@@ -1937,3 +1937,4 @@ nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 roland-gazeta.pl##.banneritem
 mierzyn24.pl##.subpage-header2
 infobeskidy.eu##.userad
+interia.pl##a[onclick^="iwa('trackEvent'"] > img
