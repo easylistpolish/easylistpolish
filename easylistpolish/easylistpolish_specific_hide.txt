@@ -1911,3 +1911,4 @@ koscianiak.pl#?#div:-abp-has(> .td-adspot-title)
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
 grojec24.net##[id^="reklama-"]
 naszrynek.pl##.toplayer
+plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
