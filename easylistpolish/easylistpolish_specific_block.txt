@@ -1094,3 +1094,4 @@ _baner_$domain=starosadeckie.info
 ^ban^$image,domain=kopaczka.pl
 ^inne^$image,domain=mierzyn24.pl
 ||infobeskidy.eu^*^files/r*.png
+^banery^$domain=maslow.info.pl

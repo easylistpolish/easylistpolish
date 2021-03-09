@@ -1939,3 +1939,4 @@ mierzyn24.pl##.subpage-header2
 infobeskidy.eu##.userad
 interia.pl##a[onclick^="iwa('trackEvent'"] > img
 odkrywamyzakryte.com##.custom-html-widget
+maslow.info.pl###newsflash2 a[target="_blank"] > img
