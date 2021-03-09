@@ -1095,3 +1095,4 @@ _baner_$domain=starosadeckie.info
 ^inne^$image,domain=mierzyn24.pl
 ||infobeskidy.eu^*^files/r*.png
 ^banery^$domain=maslow.info.pl
+-baner-$domain=gramwzielone.pl
