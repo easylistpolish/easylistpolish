@@ -1878,3 +1878,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+itv24.com.pl##div[style^="position: fixed; top: 354.5px;"]
+itv24.com.pl##div[style^="position: fixed; top: 0px; left: 0px;"]
+itv24.com.pl##a[href^="http://www.sovrana.pl/"]
