@@ -1945,3 +1945,4 @@ ototorun.pl##.l-box--100 > p > a[target="_self"]
 ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
 francuskie.pl##div[id^="franc-"] img
 francuskie.pl##a[href^="https://dskrakow.otomoto.pl/"]
+mma.pl##.js-sitehead-ads
