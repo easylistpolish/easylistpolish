@@ -1928,3 +1928,4 @@ centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 oknonet.pl##a[href^="/openurl.php?bid="]
 oknonet.pl###AdSmall
 oknonet.pl###AdBig
+planeta.pl##.advContainer
