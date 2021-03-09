@@ -1908,3 +1908,4 @@ kurierostrowiecki.pl##div[id^="sad_"]
 kurierwilenski.lt###media_image-6
 swarzedz24.pl###media_image-328
 koscianiak.pl#?#div:-abp-has(> .td-adspot-title)
+bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
