@@ -1941,3 +1941,5 @@ interia.pl##a[onclick^="iwa('trackEvent'"] > img
 odkrywamyzakryte.com##.custom-html-widget
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 2x45.info##a[href^="https://in.betsson29.com/"]
+ototorun.pl##.l-box--100 > p > a[target="_self"]
+ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
