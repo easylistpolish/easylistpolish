@@ -1938,3 +1938,4 @@ roland-gazeta.pl##.banneritem
 mierzyn24.pl##.subpage-header2
 infobeskidy.eu##.userad
 interia.pl##a[onclick^="iwa('trackEvent'"] > img
+odkrywamyzakryte.com##.custom-html-widget
