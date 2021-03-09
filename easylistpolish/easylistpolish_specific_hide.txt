@@ -1925,3 +1925,6 @@ skarzysko24.pl###slider394
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 zakazanaprawda.pl##div[id^="custom_html-"]
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
+oknonet.pl##a[href^="/openurl.php?bid="]
+oknonet.pl###AdSmall
+oknonet.pl###AdBig
