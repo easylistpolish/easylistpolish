@@ -1914,3 +1914,7 @@ naszrynek.pl##.toplayer
 plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
 koscierzyna24.info##.advert-A1
 koscierzyna24.info##.advert-B1
+lebork24.info##.elementor-widget-wp-widget-ai_widget
+lebork24.info##.ai_widget
+lebork24.info##.code-block-6
+lebork24.info##.code-block-15
