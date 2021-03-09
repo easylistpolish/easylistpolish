@@ -1087,3 +1087,5 @@ _baner_$domain=starosadeckie.info
 ^inline__1_$domain=inowroclaw.info.pl
 ||ceneo.pl^$image,domain=archigame.pl
 ||tkn24.pl^*^Pomagamy-i-
+||ifrancja.fr^*^jobsora.
+^reklama-$domain=ifrancja.fr
