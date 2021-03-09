@@ -1093,3 +1093,4 @@ _baner_$domain=starosadeckie.info
 ||oknonawagrowiec.pl^*^sklady-opalowe-
 ^ban^$image,domain=kopaczka.pl
 ^inne^$image,domain=mierzyn24.pl
+||infobeskidy.eu^*^files/r*.png
