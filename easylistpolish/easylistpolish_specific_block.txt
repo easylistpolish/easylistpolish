@@ -1085,3 +1085,4 @@ _baner_$domain=starosadeckie.info
 ||hokej.net^*^kasynohex.
 ^reklama-$domain=mojgdow.pl
 ^inline__1_$domain=inowroclaw.info.pl
+||ceneo.pl^$image,domain=archigame.pl
