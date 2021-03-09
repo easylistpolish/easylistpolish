@@ -1089,3 +1089,4 @@ _baner_$domain=starosadeckie.info
 ||tkn24.pl^*^Pomagamy-i-
 ||ifrancja.fr^*^jobsora.
 ^reklama-$domain=ifrancja.fr
+^inline__1_$domain=zambrow.org
