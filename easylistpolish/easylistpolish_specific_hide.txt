@@ -1929,3 +1929,4 @@ oknonet.pl##a[href^="/openurl.php?bid="]
 oknonet.pl###AdSmall
 oknonet.pl###AdBig
 planeta.pl##.advContainer
+radiozet.pl##.advContainer
