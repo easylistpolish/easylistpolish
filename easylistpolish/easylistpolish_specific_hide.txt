@@ -1931,3 +1931,4 @@ oknonet.pl###AdBig
 planeta.pl##.advContainer
 radiozet.pl##.advContainer
 antyradio.pl##.advContainer
+silesia24.pl##.adds--top
