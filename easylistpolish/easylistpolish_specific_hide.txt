@@ -1906,3 +1906,4 @@ gram.pl###floorLayer
 gracz.org##a[onclick^="gtag('event"][target="_blank"]
 kurierostrowiecki.pl##div[id^="sad_"]
 kurierwilenski.lt###media_image-6
+swarzedz24.pl###media_image-328
