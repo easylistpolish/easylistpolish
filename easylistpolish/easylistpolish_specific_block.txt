@@ -1061,3 +1061,4 @@ _reklamy_$domain=chojna24.pl
 ^BannerDB?$image,domain=energoelektronika.pl
 -baner.$domain=sulecin24.pl
 ^banners^$domain=rolnictwo.com.pl
+||trzoda-chlewna.com.pl^*^mainbg_img.
