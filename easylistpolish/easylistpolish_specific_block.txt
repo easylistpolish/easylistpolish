@@ -1065,3 +1065,4 @@ _reklamy_$domain=chojna24.pl
 ||lnaff.pl^$domain=darmowetv.pl
 ||fireads.org^$domain=darmowetv.pl
 ||lubanski.eu^*^Plakat_2015e.
+^bannery^$domain=czytelniamedyczna.pl
