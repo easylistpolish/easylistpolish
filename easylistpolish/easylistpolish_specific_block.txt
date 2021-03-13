@@ -1064,3 +1064,4 @@ _reklamy_$domain=chojna24.pl
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||lnaff.pl^$domain=darmowetv.pl
 ||fireads.org^$domain=darmowetv.pl
+||lubanski.eu^*^Plakat_2015e.
