@@ -1893,3 +1893,4 @@ kliknijwzdrowie.pl##a[href^="http://www.hospitec-polska.pl/"]
 kliknijwzdrowie.pl##.custom-html-widget
 kliknijwzdrowie.pl##a[href^="http://www.snoreeze.pl/"]
 wylecz.to##div[data-evet="slotseen"]
+styl.pl##a[onclick^="iwa('trackEvent'"] > img
