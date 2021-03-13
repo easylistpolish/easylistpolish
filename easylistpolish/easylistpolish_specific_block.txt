@@ -1068,3 +1068,4 @@ _reklamy_$domain=chojna24.pl
 ^bannery^$domain=czytelniamedyczna.pl
 ^banner3-$domain=przekultura.pl
 ^banner.$domain=przeambitni.pl
+^baner_$domain=chelsea24news.pl
