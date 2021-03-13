@@ -1889,3 +1889,5 @@ ceo.com.pl##.td_single_image_bg
 lubanski.eu##.widget_enqtran_images_banner_widget a:not([href*="luban"])
 przekultura.pl###text-3
 przeambitni.pl###mvp-leader-wrap
+kliknijwzdrowie.pl##a[href^="http://www.hospitec-polska.pl/"]
+kliknijwzdrowie.pl##.custom-html-widget
