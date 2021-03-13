@@ -1067,3 +1067,4 @@ _reklamy_$domain=chojna24.pl
 ||lubanski.eu^*^Plakat_2015e.
 ^bannery^$domain=czytelniamedyczna.pl
 ^banner3-$domain=przekultura.pl
+^banner.$domain=przeambitni.pl
