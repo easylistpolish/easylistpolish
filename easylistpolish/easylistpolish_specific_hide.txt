@@ -1884,3 +1884,4 @@ itv24.com.pl##a[href^="http://www.sovrana.pl/"]
 tvopolska.pl##.ads
 tvopolska.pl##a[href^="https://duocollagen.pl/"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
+trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
