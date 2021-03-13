@@ -1891,3 +1891,4 @@ przekultura.pl###text-3
 przeambitni.pl###mvp-leader-wrap
 kliknijwzdrowie.pl##a[href^="http://www.hospitec-polska.pl/"]
 kliknijwzdrowie.pl##.custom-html-widget
+kliknijwzdrowie.pl##a[href^="http://www.snoreeze.pl/"]
