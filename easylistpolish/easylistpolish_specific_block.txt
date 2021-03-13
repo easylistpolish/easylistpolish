@@ -1060,3 +1060,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^BannerDB?$image,domain=energoelektronika.pl
 -baner.$domain=sulecin24.pl
+^banners^$domain=rolnictwo.com.pl
