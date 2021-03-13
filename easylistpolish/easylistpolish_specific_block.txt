@@ -1062,3 +1062,5 @@ _reklamy_$domain=chojna24.pl
 -baner.$domain=sulecin24.pl
 ^banners^$domain=rolnictwo.com.pl
 ||trzoda-chlewna.com.pl^*^mainbg_img.
+||lnaff.pl^$domain=darmowetv.pl
+||fireads.org^$domain=darmowetv.pl
