@@ -1881,3 +1881,5 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 itv24.com.pl##div[style^="position: fixed; top: 354.5px;"]
 itv24.com.pl##div[style^="position: fixed; top: 0px; left: 0px;"]
 itv24.com.pl##a[href^="http://www.sovrana.pl/"]
+tvopolska.pl##.ads
+tvopolska.pl##a[href^="https://duocollagen.pl/"]
