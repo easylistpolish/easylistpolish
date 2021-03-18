@@ -1878,6 +1878,26 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+itv24.com.pl##div[style^="position: fixed; top: 354.5px;"]
+itv24.com.pl##div[style^="position: fixed; top: 0px; left: 0px;"]
+itv24.com.pl##a[href^="http://www.sovrana.pl/"]
+tvopolska.pl##.ads
+tvopolska.pl##a[href^="https://duocollagen.pl/"]
+rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
+trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
+ceo.com.pl##.td_single_image_bg
+lubanski.eu##.widget_enqtran_images_banner_widget a:not([href*="luban"])
+przekultura.pl###text-3
+przeambitni.pl###mvp-leader-wrap
+kliknijwzdrowie.pl##a[href^="http://www.hospitec-polska.pl/"]
+kliknijwzdrowie.pl##.custom-html-widget
+kliknijwzdrowie.pl##a[href^="http://www.snoreeze.pl/"]
+wylecz.to##div[data-evet="slotseen"]
+styl.pl##a[onclick^="iwa('trackEvent'"] > img
+polki.pl##div[id^="ecomm-ssr-wrapper-"]
+telekamery.pl##.owl-ads
+purepc.pl##a[href^="/redix.php?"][databx]
+wp.pl##li[data-adv] > div[data-native-adv]
 probasket.pl##.td-all-devices
 probasket.pl##.custom-html-widget a > img
 probasket.pl##.td-a-rec

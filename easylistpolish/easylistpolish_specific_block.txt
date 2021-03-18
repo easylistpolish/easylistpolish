@@ -1058,3 +1058,14 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^BannerDB?$image,domain=energoelektronika.pl
+-baner.$domain=sulecin24.pl
+^banners^$domain=rolnictwo.com.pl
+||trzoda-chlewna.com.pl^*^mainbg_img.
+||lnaff.pl^$domain=darmowetv.pl
+||fireads.org^$domain=darmowetv.pl
+||lubanski.eu^*^Plakat_2015e.
+^bannery^$domain=czytelniamedyczna.pl
+^banner3-$domain=przekultura.pl
+^banner.$domain=przeambitni.pl
+^baner_$domain=chelsea24news.pl
