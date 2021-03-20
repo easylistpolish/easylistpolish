@@ -1898,3 +1898,4 @@ polki.pl##div[id^="ecomm-ssr-wrapper-"]
 telekamery.pl##.owl-ads
 purepc.pl##a[href^="/redix.php?"][databx]
 wp.pl##li[data-adv] > div[data-native-adv]
+silesiainfotransport.pl###media_image-31
