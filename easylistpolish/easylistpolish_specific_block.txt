@@ -1069,3 +1069,4 @@ _reklamy_$domain=chojna24.pl
 ^banner3-$domain=przekultura.pl
 ^banner.$domain=przeambitni.pl
 ^baner_$domain=chelsea24news.pl
+||gramscien.xyz$script,domain=rybnik.com.pl
