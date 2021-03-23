@@ -1901,3 +1901,4 @@ wp.pl##li[data-adv] > div[data-native-adv]
 probasket.pl##.td-all-devices
 probasket.pl##.custom-html-widget a > img
 probasket.pl##.td-a-rec
+golfnews.pl##.banner-promotions-wrapper
