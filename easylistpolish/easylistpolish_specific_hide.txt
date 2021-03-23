@@ -1901,3 +1901,5 @@ wp.pl##li[data-adv] > div[data-native-adv]
 probasket.pl##.td-all-devices
 probasket.pl##.custom-html-widget a > img
 probasket.pl##.td-a-rec
+gazetakolobrzeska.pl##.elementor-element-7a2c026
+gazetakolobrzeska.pl##.elementor-element-42b6e5c
