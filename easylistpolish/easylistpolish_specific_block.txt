@@ -1071,3 +1071,4 @@ _reklamy_$domain=chojna24.pl
 ^baner_$domain=chelsea24news.pl
 ^banners^$domain=gazeta.ie
 ||gramscien.xyz$script,domain=rybnik.com.pl
+^baner_$domain=glosmordoru.pl
