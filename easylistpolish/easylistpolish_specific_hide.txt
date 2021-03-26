@@ -1904,3 +1904,4 @@ probasket.pl##.td-a-rec
 viva.pl##.ecomm-offer
 ilewazy.pl##.ecomm-offer
 gotujmy.pl##.ecomm-offer
+interia.pl###IPLAbanner
