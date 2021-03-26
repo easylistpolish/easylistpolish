@@ -1072,3 +1072,4 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=gazeta.ie
 ||gramscien.xyz$script,domain=rybnik.com.pl
 ^baner_$domain=glosmordoru.pl
+^banery_foto^$domain=bielskirynek.pl
