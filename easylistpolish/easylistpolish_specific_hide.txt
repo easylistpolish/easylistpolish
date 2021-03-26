@@ -1909,3 +1909,4 @@ rybnik.com.pl##[id^="_gramscien_"]
 bielskirynek.pl##.topLayer
 silesiainfotransport.pl###media_image-31
 jarock.pl##.ad
+bukmacherstwo.info##.custom-html-widget
