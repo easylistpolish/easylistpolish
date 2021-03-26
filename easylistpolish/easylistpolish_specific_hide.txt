@@ -1902,3 +1902,4 @@ probasket.pl##.td-all-devices
 probasket.pl##.custom-html-widget a > img
 probasket.pl##.td-a-rec
 viva.pl##.ecomm-offer
+ilewazy.pl##.ecomm-offer
