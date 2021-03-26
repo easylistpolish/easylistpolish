@@ -1912,3 +1912,6 @@ jarock.pl##.ad
 bukmacherstwo.info##.custom-html-widget
 bezrzecze24.pl##.subpage-header2
 gumience24.pl##.subpage-header2
+glospedagogiczny.pl##.bannersm
+glospedagogiczny.pl##.auto-pr-block > a
+glospedagogiczny.pl##[id^="smb_"]
