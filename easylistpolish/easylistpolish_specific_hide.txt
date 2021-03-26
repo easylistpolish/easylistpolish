@@ -1915,3 +1915,5 @@ gumience24.pl##.subpage-header2
 glospedagogiczny.pl##.bannersm
 glospedagogiczny.pl##.auto-pr-block > a
 glospedagogiczny.pl##[id^="smb_"]
+gazetakolobrzeska.pl##.elementor-element-7a2c026
+gazetakolobrzeska.pl##.elementor-element-42b6e5c
