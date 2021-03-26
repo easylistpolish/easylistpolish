@@ -1070,3 +1070,4 @@ _reklamy_$domain=chojna24.pl
 ^banner.$domain=przeambitni.pl
 ^baner_$domain=chelsea24news.pl
 ^banners^$domain=gazeta.ie
+||gramscien.xyz$script,domain=rybnik.com.pl

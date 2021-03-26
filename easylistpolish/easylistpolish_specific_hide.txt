@@ -1905,3 +1905,4 @@ viva.pl##.ecomm-offer
 ilewazy.pl##.ecomm-offer
 gotujmy.pl##.ecomm-offer
 interia.pl###IPLAbanner
+rybnik.com.pl##[id^="_gramscien_"]
