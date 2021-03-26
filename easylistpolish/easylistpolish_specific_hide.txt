@@ -1911,3 +1911,4 @@ silesiainfotransport.pl###media_image-31
 jarock.pl##.ad
 bukmacherstwo.info##.custom-html-widget
 bezrzecze24.pl##.subpage-header2
+gumience24.pl##.subpage-header2
