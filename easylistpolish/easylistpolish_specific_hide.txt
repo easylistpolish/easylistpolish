@@ -1921,3 +1921,4 @@ golfnews.pl##.banner-promotions-wrapper
 raportkolejowy.pl##.ad_adInfo
 raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
+dieroten.pl##a[href^="https://www.iparts.pl/"]
