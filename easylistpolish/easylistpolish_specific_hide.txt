@@ -1903,3 +1903,4 @@ probasket.pl##.custom-html-widget a > img
 probasket.pl##.td-a-rec
 viva.pl##.ecomm-offer
 ilewazy.pl##.ecomm-offer
+gotujmy.pl##.ecomm-offer
