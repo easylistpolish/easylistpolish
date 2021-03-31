@@ -1924,3 +1924,5 @@ deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
 dieroten.pl##a[href^="https://www.iparts.pl/"]
 samnaprawiam.com##a[href^="https://iparts.pl"]
 niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
+tonaszregion.pl###media_image-134
+tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
