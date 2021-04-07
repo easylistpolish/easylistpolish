@@ -1927,3 +1927,4 @@ niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
 allaboutmusic.pl##a[href^="https://www.euautoczesci.pl/"]
 fiatklubpolska.pl##a[href^="https://www.euautoczesci.pl/"]
 ecentrum.pl##.banneritem
+busko.com.pl##[class^="banner-"]
