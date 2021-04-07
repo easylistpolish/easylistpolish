@@ -1079,3 +1079,4 @@ _reklamy_$domain=chojna24.pl
 ^rotator^$domain=lubuskie24.pl
 ^baner_$domain=poligonowewiesci.pl
 ^baner%$domain=poligonowewiesci.pl
+||onetexpress.pl^*^Moje%20pliki^$image
