@@ -1086,3 +1086,4 @@ _reklamy_$domain=chojna24.pl
 ^inne^$domain=gminadobra24.pl
 ^banery^$domain=lubelszczyzna.info
 ||powr.io^$subdocument,domain=instalki.pl
+^promo^$domain=minecraft-list.pl
