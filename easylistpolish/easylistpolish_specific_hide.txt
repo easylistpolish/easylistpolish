@@ -1930,3 +1930,4 @@ ecentrum.pl##.banneritem
 busko.com.pl##[class^="banner-"]
 wiadomoscidebickie.pl###media_image-2
 skawina24.com##.reklamaoff
+hij.com.pl##.master-slider .ms-slide
