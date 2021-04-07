@@ -1942,3 +1942,6 @@ kodiwpigulce.pl##.jaw-banner
 adrestymczasowy.pl##a[href^="https://www.comperialead.pl/"]
 gminadobra24.pl##.subpage-header2
 emaszyny.pl##.aimg
+instalki.pl##.module-adv
+instalki.pl##.bannergroup-adv
+instalki.pl##.banner_mod_top
