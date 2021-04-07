@@ -1945,3 +1945,6 @@ emaszyny.pl##.aimg
 instalki.pl##.module-adv
 instalki.pl##.bannergroup-adv
 instalki.pl##.banner_mod_top
+pojezierze.com.pl##.pojez-widget > a[target="_blank"]
+pojezierze.com.pl##div[id^="pojez-"]
+pojezierze.com.pl##.posts-slider
