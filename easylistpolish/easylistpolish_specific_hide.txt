@@ -1928,3 +1928,4 @@ allaboutmusic.pl##a[href^="https://www.euautoczesci.pl/"]
 fiatklubpolska.pl##a[href^="https://www.euautoczesci.pl/"]
 ecentrum.pl##.banneritem
 busko.com.pl##[class^="banner-"]
+wiadomoscidebickie.pl###media_image-2
