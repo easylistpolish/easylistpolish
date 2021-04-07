@@ -1945,3 +1945,5 @@ emaszyny.pl##.aimg
 instalki.pl##.module-adv
 instalki.pl##.bannergroup-adv
 instalki.pl##.banner_mod_top
+ziemiastrzelecka.strzelce.pl###text-4
+ziemiastrzelecka.strzelce.pl###text-6
