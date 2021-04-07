@@ -1935,3 +1935,4 @@ livingroom24.pl##a[href^="/ads/"]
 livingroom24.pl##[class^="banner_"]
 tonaszregion.pl###media_image-134
 tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
+plonsk24.pl##.pole-banerowe > img
