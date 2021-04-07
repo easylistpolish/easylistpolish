@@ -1082,3 +1082,4 @@ _reklamy_$domain=chojna24.pl
 ||onetexpress.pl^*^Moje%20pliki^$image
 ^banners^$domain=ecentrum.pl
 ^banners^$domain=skawina24.com
+||tyna.info.pl^*^Meritum-
