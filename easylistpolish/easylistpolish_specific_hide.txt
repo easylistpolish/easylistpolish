@@ -1933,3 +1933,5 @@ skawina24.com##.reklamaoff
 hij.com.pl##.master-slider .ms-slide
 livingroom24.pl##a[href^="/ads/"]
 livingroom24.pl##[class^="banner_"]
+tonaszregion.pl###media_image-134
+tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
