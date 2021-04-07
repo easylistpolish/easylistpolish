@@ -1085,3 +1085,4 @@ _reklamy_$domain=chojna24.pl
 ||tyna.info.pl^*^Meritum-
 ^inne^$domain=gminadobra24.pl
 ^banery^$domain=lubelszczyzna.info
+||powr.io^$subdocument,domain=instalki.pl
