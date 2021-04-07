@@ -1084,3 +1084,4 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=skawina24.com
 ||tyna.info.pl^*^Meritum-
 ^inne^$domain=gminadobra24.pl
+^banery^$domain=lubelszczyzna.info
