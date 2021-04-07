@@ -1077,3 +1077,5 @@ _reklamy_$domain=chojna24.pl
 ^inne^$image,domain=gumience24.pl
 ^banners^$domain=internet-komputery.blogspot.com
 ^rotator^$domain=lubuskie24.pl
+^baner_$domain=poligonowewiesci.pl
+^baner%$domain=poligonowewiesci.pl
