@@ -1940,3 +1940,4 @@ swarzedz24.pl##a[href^="https://www.inea.pl/"]
 gazetabialolecka.waw.pl###custom_html-2
 kodiwpigulce.pl##.jaw-banner
 adrestymczasowy.pl##a[href^="https://www.comperialead.pl/"]
+gminadobra24.pl##.subpage-header2
