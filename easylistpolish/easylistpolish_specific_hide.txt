@@ -1945,3 +1945,4 @@ emaszyny.pl##.aimg
 instalki.pl##.module-adv
 instalki.pl##.bannergroup-adv
 instalki.pl##.banner_mod_top
+gostynin.info##.mb-xl a[target="_blank"]
