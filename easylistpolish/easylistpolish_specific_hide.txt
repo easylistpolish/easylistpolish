@@ -1945,3 +1945,4 @@ emaszyny.pl##.aimg
 instalki.pl##.module-adv
 instalki.pl##.bannergroup-adv
 instalki.pl##.banner_mod_top
+lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
