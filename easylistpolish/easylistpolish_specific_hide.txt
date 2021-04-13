@@ -1954,3 +1954,6 @@ e-chorzow.com##div[class^="a-single a-"]
 tygodnikpilski.pl##a[href^="http://angitiamed.pl"]
 nowytygodniklobeski.pl##div[id^="media_image-"] a > img
 dziennikstargardzki.pl###widget_sp_image-8
+pojezierze.com.pl##.pojez-widget > a[target="_blank"]
+pojezierze.com.pl##div[id^="pojez-"]
+pojezierze.com.pl##.posts-slider
