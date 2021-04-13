@@ -1090,3 +1090,4 @@ _reklamy_$domain=chojna24.pl
 ^banery^$domain=deblin24.eu
 ||deblin24.eu^*^blocars2.
 ||echotygodnik.info^*^pitro_bar.
+||noweinfo.pl^*^Pracnie-
