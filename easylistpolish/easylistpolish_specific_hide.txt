@@ -1950,3 +1950,4 @@ wiescipolickie.pl##a[href^="https://autoeksport-police."]
 kocham.wielun.pl##.module-article
 ziemiastrzelecka.strzelce.pl###text-4
 ziemiastrzelecka.strzelce.pl###text-6
+e-chorzow.com##div[class^="a-single a-"]
