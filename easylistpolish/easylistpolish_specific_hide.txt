@@ -1948,3 +1948,5 @@ instalki.pl##.banner_mod_top
 wiescipolickie.pl###wds_slideshow_image_container_0
 wiescipolickie.pl##a[href^="https://autoeksport-police."]
 kocham.wielun.pl##.module-article
+ziemiastrzelecka.strzelce.pl###text-4
+ziemiastrzelecka.strzelce.pl###text-6
