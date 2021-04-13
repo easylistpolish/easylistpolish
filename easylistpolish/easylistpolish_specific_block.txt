@@ -1089,3 +1089,4 @@ _reklamy_$domain=chojna24.pl
 ^promo^$domain=minecraft-list.pl
 ^banery^$domain=deblin24.eu
 ||deblin24.eu^*^blocars2.
+||echotygodnik.info^*^pitro_bar.
