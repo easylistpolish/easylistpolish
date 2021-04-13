@@ -1966,3 +1966,4 @@ powiatpolicki.info###mvp-leader-wrap
 superportal24.pl##.widget_article
 lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
 gwo24.pl##.td-a-rec
+chrzanow.pl###text-4
