@@ -1091,3 +1091,4 @@ _reklamy_$domain=chojna24.pl
 ||deblin24.eu^*^blocars2.
 ||echotygodnik.info^*^pitro_bar.
 ||noweinfo.pl^*^Pracnie-
+-banery^$domain=przeclaw24.pl

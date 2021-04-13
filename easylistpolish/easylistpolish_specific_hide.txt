@@ -1958,3 +1958,4 @@ pojezierze.com.pl##.pojez-widget > a[target="_blank"]
 pojezierze.com.pl##div[id^="pojez-"]
 pojezierze.com.pl##.posts-slider
 gostynin.info##.mb-xl a[target="_blank"]
+przeclaw24.pl##a[href^="https://booksy.com/"]
