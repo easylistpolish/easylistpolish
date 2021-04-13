@@ -1960,3 +1960,5 @@ pojezierze.com.pl##.posts-slider
 gostynin.info##.mb-xl a[target="_blank"]
 przeclaw24.pl##a[href^="https://booksy.com/"]
 genapps.pl##a[href^="https://www.zameczkowo.pl/"]
+historykon.pl##.adv_content
+historykon.pl##.adv
