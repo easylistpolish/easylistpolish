@@ -1963,3 +1963,4 @@ genapps.pl##a[href^="https://www.zameczkowo.pl/"]
 historykon.pl##.adv_content
 historykon.pl##.adv
 powiatpolicki.info###mvp-leader-wrap
+superportal24.pl##.widget_article
