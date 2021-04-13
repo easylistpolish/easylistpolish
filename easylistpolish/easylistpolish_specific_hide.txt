@@ -1945,3 +1945,5 @@ emaszyny.pl##.aimg
 instalki.pl##.module-adv
 instalki.pl##.bannergroup-adv
 instalki.pl##.banner_mod_top
+wiescipolickie.pl###wds_slideshow_image_container_0
+wiescipolickie.pl##a[href^="https://autoeksport-police."]
