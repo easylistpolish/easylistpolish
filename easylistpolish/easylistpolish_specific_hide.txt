@@ -976,11 +976,8 @@ na-pulpit.com,widoczki.com##.mng + .menu + a
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 bobrowniki.tv##.mod_banners_bottom_banners
-kocham.wielun.pl##.module-abc
 instalki.pl##.module-adv
-kocham.wielun.pl##.module-article
 krosno112.pl##.module-ct img[width="280"]
-kocham.wielun.pl##.module-mrowka
 em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
 tv-pelplin.pl##.moduletable sup
