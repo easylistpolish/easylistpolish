@@ -1073,3 +1073,5 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||bejsment.com^*^dalekDiamonds300x100_
+||bejsment.com^*^300x100xbejsment-ad-
