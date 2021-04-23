@@ -1939,3 +1939,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+forumzabki.pl###baner750
+forumzabki.pl##[id^="rek_rozwijana_bh1"]
+forumzabki.pl##[id^="reklama"]
