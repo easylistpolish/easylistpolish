@@ -1073,3 +1073,6 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||podrogach.pl^*^promocja-dunlop-
+||podrogach.pl^*^300x300_
+||podrogach.pl^*^mazda-golembiewscy-
