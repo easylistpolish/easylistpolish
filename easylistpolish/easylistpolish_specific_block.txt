@@ -1146,3 +1146,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||radiosudety24.pl^*^sad^$image
 ||bluepartner.pl^$script,domain=infofordon.pl
 -banner-$domain=tenisbydawid.pl
+||imge.pl^$image,domain=gpwinfostrefa.pl
