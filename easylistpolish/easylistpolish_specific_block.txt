@@ -1159,3 +1159,5 @@ _baner-$domain=nowytydzien.pl
 ||nowyzmigrod24.pl^*^uslogiroza20.
 -banner_$domain=kaszuby24.pl
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
+||ddbrodnica.pl^*^pw_majowka_
+||ddbrodnica.pl^*^inter-car-
