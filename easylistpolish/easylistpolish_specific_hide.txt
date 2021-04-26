@@ -1947,3 +1947,4 @@ gizycko.info##div.td-category-pos-above
 terazkrosno.pl##.sidebar a[target="_blank" ][rel="nofollow"]
 tygodnik.szczytno.pl##a[target="__new"]
 tyna.info.pl##body > center img
+podlaski.info##[class^="slider-banner-"]
