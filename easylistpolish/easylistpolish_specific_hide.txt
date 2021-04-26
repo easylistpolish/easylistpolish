@@ -1967,3 +1967,4 @@ zabrze24.info##.header__banner
 pod24.info##div[id^="adv"]
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
 nowyzmigrod24.pl##.bannergroup
+skarzysko24.pl##[class="custom none"]
