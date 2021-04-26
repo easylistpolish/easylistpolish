@@ -1941,3 +1941,5 @@ infofordon.pl##.ms_layers_wrapper
 tenisbydawid.pl###text-7
 tenismagazyn.pl###widget_sp_image-5
 tenismagazyn.pl###widget_sp_image-3
+wiadomoscidebickie.pl##.rl-image-widget
+wiadomoscidebickie.pl##.e3lan-top
