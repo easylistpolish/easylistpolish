@@ -1955,3 +1955,4 @@ tygodnikoko.pl##.advert-B1
 hokej.net##a[href="https://bogigolf.com.pl/"]
 palukitv.pl##.bannergroup img
 fiat.fm###text-3
+opieka.farm##div._ning_zone_inner
