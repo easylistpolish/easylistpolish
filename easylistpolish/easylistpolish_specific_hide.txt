@@ -976,11 +976,8 @@ na-pulpit.com,widoczki.com##.mng + .menu + a
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 bobrowniki.tv##.mod_banners_bottom_banners
-kocham.wielun.pl##.module-abc
 instalki.pl##.module-adv
-kocham.wielun.pl##.module-article
 krosno112.pl##.module-ct img[width="280"]
-kocham.wielun.pl##.module-mrowka
 em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
 tv-pelplin.pl##.moduletable sup
@@ -1939,4 +1936,33 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+infofordon.pl##div.ms_image
+infofordon.pl##.ms_layers_wrapper
+tenisbydawid.pl###text-7
+tenismagazyn.pl###widget_sp_image-5
+tenismagazyn.pl###widget_sp_image-3
+wiadomoscidebickie.pl##.rl-image-widget
+wiadomoscidebickie.pl##.e3lan-top
+gizycko.info##div.td-category-pos-above
+terazkrosno.pl##.sidebar a[target="_blank" ][rel="nofollow"]
+tygodnik.szczytno.pl##a[target="__new"]
+tyna.info.pl##body > center img
+podlaski.info##[class^="slider-banner-"]
+nowemiasto.com.pl##div#righttable a[title="komunikat"]
+swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
+tygodnikketrzynski.pl###text-54
+tygodnikoko.pl##.advert-B1
+hokej.net##a[href="https://bogigolf.com.pl/"]
+palukitv.pl##.bannergroup img
+fiat.fm###text-3
+opieka.farm##div._ning_zone_inner
+bejsment.com##.attachment-300x100
+skyradar.pl###HTML4
+kibice.net##a[href^="https://piroshop.pl"]
+stadionowioprawcy.net##.google_box a
+stadionowioprawcy.net##.bannerBox a[target="_blank"]
+lebork24.info##div.ai-viewport-1
+kalisz24.info.pl##img[data-image-title="Reklama"]
+zabrze24.info##.header__banner
+pod24.info##div[id^="adv"]
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
