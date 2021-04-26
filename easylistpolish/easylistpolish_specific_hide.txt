@@ -1951,3 +1951,4 @@ podlaski.info##[class^="slider-banner-"]
 nowemiasto.com.pl##div#righttable a[title="komunikat"]
 swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
 tygodnikketrzynski.pl###text-54
+tygodnikoko.pl##.advert-B1
