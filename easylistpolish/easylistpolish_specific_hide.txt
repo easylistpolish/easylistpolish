@@ -1953,3 +1953,4 @@ swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
 tygodnikketrzynski.pl###text-54
 tygodnikoko.pl##.advert-B1
 hokej.net##a[href="https://bogigolf.com.pl/"]
+palukitv.pl##.bannergroup img
