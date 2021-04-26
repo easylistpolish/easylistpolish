@@ -1939,3 +1939,5 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 infofordon.pl##div.ms_image
 infofordon.pl##.ms_layers_wrapper
 tenisbydawid.pl###text-7
+tenismagazyn.pl###widget_sp_image-5
+tenismagazyn.pl###widget_sp_image-3
