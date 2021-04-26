@@ -1166,3 +1166,4 @@ _baner-$domain=nowytydzien.pl
 ||beatcoin.pl^*^binance.
 ||kryptoporadnik.pl^*^bybit_sid.
 ||kryptoporadnik.pl^*^binance-dejavu.
+||cowwilanowie.pl^*^wilanow-zdrowie-angles.
