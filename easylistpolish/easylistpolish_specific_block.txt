@@ -1162,3 +1162,4 @@ _baner-$domain=nowytydzien.pl
 ||ddbrodnica.pl^*^pw_majowka_
 ||ddbrodnica.pl^*^inter-car-
 -reklama-$domain=bithub.pl
+-bannery-$domain=bogaty.men
