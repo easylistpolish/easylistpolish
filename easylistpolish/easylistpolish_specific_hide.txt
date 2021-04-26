@@ -1979,3 +1979,6 @@ domotechnika.pl###custom_html-2
 beatcoin.pl##[id^="trx_addons_widget_banner-"]
 e-kursy-walut.pl##.abc
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
+forumzabki.pl###baner750
+forumzabki.pl##[id^="rek_rozwijana_bh1"]
+forumzabki.pl##[id^="reklama"]
