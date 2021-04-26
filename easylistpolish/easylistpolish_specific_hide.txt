@@ -976,11 +976,8 @@ na-pulpit.com,widoczki.com##.mng + .menu + a
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 bobrowniki.tv##.mod_banners_bottom_banners
-kocham.wielun.pl##.module-abc
 instalki.pl##.module-adv
-kocham.wielun.pl##.module-article
 krosno112.pl##.module-ct img[width="280"]
-kocham.wielun.pl##.module-mrowka
 em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
 tv-pelplin.pl##.moduletable sup
@@ -1939,3 +1936,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+infofordon.pl##div.ms_image
+infofordon.pl##.ms_layers_wrapper
+tenisbydawid.pl###text-7
