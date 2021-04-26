@@ -1147,3 +1147,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||bluepartner.pl^$script,domain=infofordon.pl
 -banner-$domain=tenisbydawid.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
+^banners^$domain=polskaligatenisa.pl
