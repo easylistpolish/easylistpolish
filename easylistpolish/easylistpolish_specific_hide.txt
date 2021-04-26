@@ -1959,3 +1959,5 @@ opieka.farm##div._ning_zone_inner
 bejsment.com##.attachment-300x100
 skyradar.pl###HTML4
 kibice.net##a[href^="https://piroshop.pl"]
+stadionowioprawcy.net##.google_box a
+stadionowioprawcy.net##.bannerBox a[target="_blank"]
