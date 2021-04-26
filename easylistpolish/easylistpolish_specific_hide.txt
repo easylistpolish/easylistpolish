@@ -1976,3 +1976,4 @@ cai24.pl##a[href^="https://wogoole.pl/"]
 budujeimieszkam.pl###custom_html-3
 projektujdom.pl###custom_html-2
 domotechnika.pl###custom_html-2
+beatcoin.pl##[id^="trx_addons_widget_banner-"]

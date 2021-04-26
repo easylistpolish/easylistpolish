@@ -1163,3 +1163,4 @@ _baner-$domain=nowytydzien.pl
 ||ddbrodnica.pl^*^inter-car-
 -reklama-$domain=bithub.pl
 -bannery-$domain=bogaty.men
+||beatcoin.pl^*^binance.
