@@ -1144,3 +1144,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||ifotos.pl^img^$domain=supertydzien.pl
 ||alicdn.com^$image,domain=wlodawa.net
 ||radiosudety24.pl^*^sad^$image
+||bluepartner.pl^$script,domain=infofordon.pl
