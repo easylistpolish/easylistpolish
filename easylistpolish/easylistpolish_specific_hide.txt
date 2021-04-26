@@ -1954,3 +1954,4 @@ tygodnikketrzynski.pl###text-54
 tygodnikoko.pl##.advert-B1
 hokej.net##a[href="https://bogigolf.com.pl/"]
 palukitv.pl##.bannergroup img
+fiat.fm###text-3
