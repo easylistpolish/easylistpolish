@@ -1158,3 +1158,4 @@ _baner-$domain=nowytydzien.pl
 ||koscierzyna24.info^*^s3_
 ||nowyzmigrod24.pl^*^uslogiroza20.
 -banner_$domain=kaszuby24.pl
+||kreacje.ebroker.pl^$image,domain=max-kasa.pl
