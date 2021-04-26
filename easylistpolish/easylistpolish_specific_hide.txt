@@ -1965,3 +1965,4 @@ lebork24.info##div.ai-viewport-1
 kalisz24.info.pl##img[data-image-title="Reklama"]
 zabrze24.info##.header__banner
 pod24.info##div[id^="adv"]
+przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
