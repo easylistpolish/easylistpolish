@@ -1971,3 +1971,5 @@ skarzysko24.pl##[class="custom none"]
 twojdom24.pl###custom_html-2
 elementarzprojektanta.pl##.td-fix-index
 budowadom.pl###custom_html-4
+cai24.pl##a[href^="https://gentlemanmagazine.pl/"]
+cai24.pl##a[href^="https://wogoole.pl/"]
