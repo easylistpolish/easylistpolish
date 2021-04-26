@@ -1970,3 +1970,4 @@ nowyzmigrod24.pl##.bannergroup
 skarzysko24.pl##[class="custom none"]
 twojdom24.pl###custom_html-2
 elementarzprojektanta.pl##.td-fix-index
+budowadom.pl###custom_html-4
