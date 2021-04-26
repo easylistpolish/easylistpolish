@@ -1155,3 +1155,4 @@ _baner-$domain=nowytydzien.pl
 ^baner_$domain=tw-24.pl
 ||bejsment.com^*^dalekDiamonds300x100_
 ||bejsment.com^*^300x100xbejsment-ad-
+||koscierzyna24.info^*^s3_
