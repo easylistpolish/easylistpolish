@@ -1164,3 +1164,5 @@ _baner-$domain=nowytydzien.pl
 -reklama-$domain=bithub.pl
 -bannery-$domain=bogaty.men
 ||beatcoin.pl^*^binance.
+||kryptoporadnik.pl^*^bybit_sid.
+||kryptoporadnik.pl^*^binance-dejavu.
