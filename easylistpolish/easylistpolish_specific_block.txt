@@ -1157,3 +1157,4 @@ _baner-$domain=nowytydzien.pl
 ||bejsment.com^*^300x100xbejsment-ad-
 ||koscierzyna24.info^*^s3_
 ||nowyzmigrod24.pl^*^uslogiroza20.
+-banner_$domain=kaszuby24.pl
