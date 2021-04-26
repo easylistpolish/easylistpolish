@@ -1961,3 +1961,4 @@ skyradar.pl###HTML4
 kibice.net##a[href^="https://piroshop.pl"]
 stadionowioprawcy.net##.google_box a
 stadionowioprawcy.net##.bannerBox a[target="_blank"]
+lebork24.info##div.ai-viewport-1
