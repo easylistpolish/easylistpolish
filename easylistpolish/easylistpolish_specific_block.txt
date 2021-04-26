@@ -1148,3 +1148,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 -banner-$domain=tenisbydawid.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
 ^banners^$domain=polskaligatenisa.pl
+^banery_foto^$domain=terazgabin.pl
