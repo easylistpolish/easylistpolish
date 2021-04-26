@@ -1950,3 +1950,4 @@ tyna.info.pl##body > center img
 podlaski.info##[class^="slider-banner-"]
 nowemiasto.com.pl##div#righttable a[title="komunikat"]
 swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
+tygodnikketrzynski.pl###text-54
