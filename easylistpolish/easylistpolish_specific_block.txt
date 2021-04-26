@@ -1161,3 +1161,4 @@ _baner-$domain=nowytydzien.pl
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||ddbrodnica.pl^*^pw_majowka_
 ||ddbrodnica.pl^*^inter-car-
+-reklama-$domain=bithub.pl
