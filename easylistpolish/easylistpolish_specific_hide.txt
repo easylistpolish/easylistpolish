@@ -1948,3 +1948,4 @@ terazkrosno.pl##.sidebar a[target="_blank" ][rel="nofollow"]
 tygodnik.szczytno.pl##a[target="__new"]
 tyna.info.pl##body > center img
 podlaski.info##[class^="slider-banner-"]
+nowemiasto.com.pl##div#righttable a[title="komunikat"]
