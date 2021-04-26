@@ -1152,3 +1152,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||ceneo.pl^$image,domain=7dni.pila.pl
 ||tygodnikkrag.pl^*^jm-solar-
 _baner-$domain=nowytydzien.pl
+^baner_$domain=tw-24.pl
