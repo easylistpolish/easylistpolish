@@ -1978,3 +1978,4 @@ projektujdom.pl###custom_html-2
 domotechnika.pl###custom_html-2
 beatcoin.pl##[id^="trx_addons_widget_banner-"]
 e-kursy-walut.pl##.abc
+cryptonews.pl##a[href^="https://www.koinal.io/"] img
