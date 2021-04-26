@@ -1149,3 +1149,4 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
 ^banners^$domain=polskaligatenisa.pl
 ^banery_foto^$domain=terazgabin.pl
+||ceneo.pl^$image,domain=7dni.pila.pl
