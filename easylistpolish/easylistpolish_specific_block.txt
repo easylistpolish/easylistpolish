@@ -1153,3 +1153,5 @@ _banerek.$domain=plytkiceramiczne.info.pl
 ||tygodnikkrag.pl^*^jm-solar-
 _baner-$domain=nowytydzien.pl
 ^baner_$domain=tw-24.pl
+||bejsment.com^*^dalekDiamonds300x100_
+||bejsment.com^*^300x100xbejsment-ad-
