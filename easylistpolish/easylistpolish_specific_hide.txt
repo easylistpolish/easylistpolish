@@ -1975,3 +1975,4 @@ cai24.pl##a[href^="https://gentlemanmagazine.pl/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
 budujeimieszkam.pl###custom_html-3
 projektujdom.pl###custom_html-2
+domotechnika.pl###custom_html-2
