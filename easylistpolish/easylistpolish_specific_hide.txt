@@ -1944,3 +1944,4 @@ tenismagazyn.pl###widget_sp_image-3
 wiadomoscidebickie.pl##.rl-image-widget
 wiadomoscidebickie.pl##.e3lan-top
 gizycko.info##div.td-category-pos-above
+terazkrosno.pl##.sidebar a[target="_blank" ][rel="nofollow"]
