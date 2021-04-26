@@ -1156,3 +1156,4 @@ _baner-$domain=nowytydzien.pl
 ||bejsment.com^*^dalekDiamonds300x100_
 ||bejsment.com^*^300x100xbejsment-ad-
 ||koscierzyna24.info^*^s3_
+||nowyzmigrod24.pl^*^uslogiroza20.
