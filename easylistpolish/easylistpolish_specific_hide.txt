@@ -1996,3 +1996,5 @@ tarnobrzeg.info###jedrus
 30minut.pl##.banner-promotions-wrapper
 30minut.pl##.small-adv
 kalendarz.pl###banners
+mojanorwegia.pl##[class^="modMnNewTopBar-"]
+mojanorwegia.pl##.newLayerOuter
