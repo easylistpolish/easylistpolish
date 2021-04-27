@@ -2006,3 +2006,4 @@ stadiony.net##a[href^="https://twojtyp.pl/"]
 dostawczaki.pl##.bannery
 dostawczaki.pl###banners-section
 wyspiarzniebieski.pl###popup
+epainfo.pl##a[href^="http://www.pcmnzoz.pl/"]
