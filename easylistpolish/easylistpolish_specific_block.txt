@@ -1177,3 +1177,4 @@ _baner-$domain=nowytydzien.pl
 ^banners^$domain=deweloperzy.pl
 ^ad2^$domain=bankier.pl
 ^banners^$domain=praca.net
+^KasynoHEXPolska^$domain=goniec.com
