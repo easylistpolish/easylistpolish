@@ -1171,3 +1171,4 @@ _baner-$domain=nowytydzien.pl
 ||ostrowczanie.info^*^ajenttt.
 ||tarnobrzeg.info^*^drzwi-kiermasz.
 ^banners^$domain=pogoda.info
+||czest.info^*^drzwi-albud.
