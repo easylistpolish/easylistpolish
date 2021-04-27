@@ -1988,3 +1988,4 @@ twojepajeczno.pl##.td-aa-rec
 twojepajeczno.pl##div > .scxxxx
 pyrzyce.info##.header-right
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
+ostrowczanie.info##body > center > a
