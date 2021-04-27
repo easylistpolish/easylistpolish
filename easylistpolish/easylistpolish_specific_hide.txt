@@ -1995,3 +1995,4 @@ tarnobrzeg.info##.ads
 tarnobrzeg.info###jedrus
 30minut.pl##.banner-promotions-wrapper
 30minut.pl##.small-adv
+kalendarz.pl###banners
