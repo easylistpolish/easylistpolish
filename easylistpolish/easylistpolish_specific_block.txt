@@ -1189,3 +1189,4 @@ euslugi.pl##.banners
 ||podrogach.pl^*^promocja-dunlop-
 ||podrogach.pl^*^300x300_
 ||podrogach.pl^*^mazda-golembiewscy-
+||polonia-peterborough.uk^*^studio-fotograficzne-
