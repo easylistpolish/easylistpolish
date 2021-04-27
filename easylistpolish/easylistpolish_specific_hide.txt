@@ -1998,3 +1998,4 @@ tarnobrzeg.info###jedrus
 kalendarz.pl###banners
 mojanorwegia.pl##[class^="modMnNewTopBar-"]
 mojanorwegia.pl##.newLayerOuter
+slasknet.com##a[href^="https://sprbt.pl/"]
