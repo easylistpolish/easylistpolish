@@ -2017,3 +2017,4 @@ programtv.info##.banners
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 polskaizbabranzypogrzebowej.pl###post-2637
 polonia-peterborough.uk##.a-wrap
+kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
