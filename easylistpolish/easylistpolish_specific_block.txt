@@ -1169,3 +1169,4 @@ _baner-$domain=nowytydzien.pl
 ||cowwilanowie.pl^*^wilanow-zdrowie-angles.
 ||bstok.pl^*^masal-
 ||ostrowczanie.info^*^ajenttt.
+||tarnobrzeg.info^*^drzwi-kiermasz.
