@@ -1984,3 +1984,5 @@ forumzabki.pl##[id^="rek_rozwijana_bh1"]
 forumzabki.pl##[id^="reklama"]
 tenpoznan.pl##div.code-block
 bstok.pl##a[href^="https://askdom.pl/"]
+twojepajeczno.pl##.td-aa-rec
+twojepajeczno.pl##div > .scxxxx
