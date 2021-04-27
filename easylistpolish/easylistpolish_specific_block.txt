@@ -1175,3 +1175,4 @@ _baner-$domain=nowytydzien.pl
 ||lubawka.info/okna-drzwi-
 ||jablonka.info^*^AMP_
 ^banners^$domain=deweloperzy.pl
+^ad2^$domain=bankier.pl
