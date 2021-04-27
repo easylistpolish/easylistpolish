@@ -2009,3 +2009,6 @@ wyspiarzniebieski.pl###popup
 epainfo.pl##a[href^="http://www.pcmnzoz.pl/"]
 kaszuby24.pl##.td-a-rec
 wwl24.pl##div[class^="g-single a-"]
+swidnik.pl##.widgetable > a > img
+swidnik.pl##.sidebar_item > img
+swidnik.pl##a[href^="https://www.ucando.pl"]
