@@ -1183,3 +1183,4 @@ euslugi.pl##.banners
 ^bannnery^$domain=portalmorski.pl
 ^banners^$domain=notowania.net
 ^banners^$domain=programtv.info
+||mieszkaniec.pl^*^antykwariat-
