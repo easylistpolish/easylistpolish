@@ -1993,3 +1993,5 @@ tarnobrzeg.info##.header-advertise
 tarnobrzeg.info###obraz
 tarnobrzeg.info##.ads
 tarnobrzeg.info###jedrus
+30minut.pl##.banner-promotions-wrapper
+30minut.pl##.small-adv
