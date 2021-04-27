@@ -1986,3 +1986,5 @@ tenpoznan.pl##div.code-block
 bstok.pl##a[href^="https://askdom.pl/"]
 twojepajeczno.pl##.td-aa-rec
 twojepajeczno.pl##div > .scxxxx
+pyrzyce.info##.header-right
+pyrzyce.info##li[id^="text-"] a[target="_blank"]
