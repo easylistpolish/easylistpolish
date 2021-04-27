@@ -1186,3 +1186,6 @@ euslugi.pl##.banners
 ||mieszkaniec.pl^*^antykwariat-
 ^motor-land^$domain=motocykle125.pl
 ||motocykle125.pl^*^akumulator-moretti-
+||podrogach.pl^*^promocja-dunlop-
+||podrogach.pl^*^300x300_
+||podrogach.pl^*^mazda-golembiewscy-
