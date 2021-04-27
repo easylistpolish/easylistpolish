@@ -1168,3 +1168,4 @@ _baner-$domain=nowytydzien.pl
 ||kryptoporadnik.pl^*^binance-dejavu.
 ||cowwilanowie.pl^*^wilanow-zdrowie-angles.
 ||bstok.pl^*^masal-
+||ostrowczanie.info^*^ajenttt.
