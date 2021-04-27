@@ -1173,3 +1173,4 @@ _baner-$domain=nowytydzien.pl
 ^banners^$domain=pogoda.info
 ||czest.info^*^drzwi-albud.
 ||lubawka.info/okna-drzwi-
+||jablonka.info^*^AMP_
