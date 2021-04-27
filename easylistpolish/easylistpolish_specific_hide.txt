@@ -2008,3 +2008,4 @@ dostawczaki.pl###banners-section
 wyspiarzniebieski.pl###popup
 epainfo.pl##a[href^="http://www.pcmnzoz.pl/"]
 kaszuby24.pl##.td-a-rec
+wwl24.pl##div[class^="g-single a-"]
