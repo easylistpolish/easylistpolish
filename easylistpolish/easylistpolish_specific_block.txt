@@ -1184,3 +1184,5 @@ euslugi.pl##.banners
 ^banners^$domain=notowania.net
 ^banners^$domain=programtv.info
 ||mieszkaniec.pl^*^antykwariat-
+^motor-land^$domain=motocykle125.pl
+||motocykle125.pl^*^akumulator-moretti-
