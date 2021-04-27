@@ -2015,3 +2015,4 @@ swidnik.pl##a[href^="https://www.ucando.pl"]
 onet.pl###sponsoring
 programtv.info##.banners
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
+polskaizbabranzypogrzebowej.pl###post-2637
