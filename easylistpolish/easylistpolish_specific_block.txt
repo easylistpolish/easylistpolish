@@ -1182,3 +1182,4 @@ _baner-$domain=nowytydzien.pl
 euslugi.pl##.banners
 ^bannnery^$domain=portalmorski.pl
 ^banners^$domain=notowania.net
+^banners^$domain=programtv.info
