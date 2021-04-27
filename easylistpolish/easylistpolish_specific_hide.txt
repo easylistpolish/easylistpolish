@@ -2000,3 +2000,4 @@ mojanorwegia.pl##[class^="modMnNewTopBar-"]
 mojanorwegia.pl##.newLayerOuter
 slasknet.com##a[href^="https://sprbt.pl/"]
 bankier.pl###article-link-box
+android.com.pl##.welcome-popup > .welcome-popup__ad
