@@ -1999,3 +1999,4 @@ kalendarz.pl###banners
 mojanorwegia.pl##[class^="modMnNewTopBar-"]
 mojanorwegia.pl##.newLayerOuter
 slasknet.com##a[href^="https://sprbt.pl/"]
+bankier.pl###article-link-box
