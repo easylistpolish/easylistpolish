@@ -1172,3 +1172,4 @@ _baner-$domain=nowytydzien.pl
 ||tarnobrzeg.info^*^drzwi-kiermasz.
 ^banners^$domain=pogoda.info
 ||czest.info^*^drzwi-albud.
+||lubawka.info/okna-drzwi-
