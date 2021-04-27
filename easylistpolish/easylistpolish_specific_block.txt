@@ -1180,3 +1180,4 @@ _baner-$domain=nowytydzien.pl
 ^KasynoHEXPolska^$domain=goniec.com
 ^banners^$domain=euslugi.pl
 euslugi.pl##.banners
+^bannnery^$domain=portalmorski.pl
