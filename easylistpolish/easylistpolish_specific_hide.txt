@@ -1989,3 +1989,4 @@ twojepajeczno.pl##div > .scxxxx
 pyrzyce.info##.header-right
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 ostrowczanie.info##body > center > a
+tarnobrzeg.info##.header-advertise
