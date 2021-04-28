@@ -62,3 +62,4 @@
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
 @@||zarzadca.pl^*^zarzadca.
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
+@@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
