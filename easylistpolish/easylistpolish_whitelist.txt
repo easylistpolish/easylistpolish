@@ -61,3 +61,4 @@
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
 @@||zarzadca.pl^*^zarzadca.
+@@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
