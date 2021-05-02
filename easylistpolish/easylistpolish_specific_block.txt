@@ -1107,4 +1107,7 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nowytydzien.pl^*^stokrotkaAd.
+^banery_foto^$domain=mlodagdynia.pl
+^baner^$domain=biif.pl
 _baner_$domain=ccifp.pl
