@@ -2000,3 +2000,4 @@ vwgolf.pl##a[href^="https://www.iparts.pl/"]
 renaultlaguna.pl##a[href^="https://www.iparts.pl/"]
 dziennikwschodni.pl##.pngmonet
 3don.pl##a[data-item="banner"]
+zkaszub.info##[class^="zkasz-"]
