@@ -2002,3 +2002,4 @@ dziennikwschodni.pl##.pngmonet
 3don.pl##a[data-item="banner"]
 zkaszub.info##[class^="zkasz-"]
 pkf.org.pl##.start-site-banners
+firmypolski.pl##.hot-info-slider
