@@ -1999,3 +1999,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 vwgolf.pl##a[href^="https://www.iparts.pl/"]
 renaultlaguna.pl##a[href^="https://www.iparts.pl/"]
 dziennikwschodni.pl##.pngmonet
+3don.pl##a[data-item="banner"]
