@@ -1109,3 +1109,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niezalezna.
 ||nowytydzien.pl^*^stokrotkaAd.
 ^banery_foto^$domain=mlodagdynia.pl
+^baner^$domain=biif.pl
