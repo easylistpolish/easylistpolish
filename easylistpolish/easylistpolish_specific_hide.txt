@@ -2006,3 +2006,4 @@ firmypolski.pl##.hot-info-slider
 osowa24.pl##div[style="margin-bottom: 10px;"]
 osowa24.pl##.subpage-header2
 rynekinstalacyjny.pl##.marta
+info-net.com.pl###banners
