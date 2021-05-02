@@ -1110,3 +1110,4 @@ euslugi.pl##.banners
 ||nowytydzien.pl^*^stokrotkaAd.
 ^banery_foto^$domain=mlodagdynia.pl
 ^baner^$domain=biif.pl
+_baner_$domain=ccifp.pl
