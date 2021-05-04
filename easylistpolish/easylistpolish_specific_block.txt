@@ -1109,3 +1109,5 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+garneczki.pl##.top-banner
+^banners^$domain=garneczki.pl
