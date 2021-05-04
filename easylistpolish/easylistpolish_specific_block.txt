@@ -1107,4 +1107,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-banery^$domain=kbf.pl
+||kbf.pl^*^warszewo.
