@@ -21,6 +21,7 @@
 @@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
 @@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
 @@||garsoniera.com.pl^*^8bf83-
+@@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gorzow24.pl^*^im_91.
 @@||gostynin24.pl^*^banners/LOGO
@@ -47,6 +48,7 @@
 @@||portalpszczelarski.pl^*^baners/354fb5466cc9e88d182d5ed7809c4997.
 @@||ppr.pl^*^banners^*ppr.
 @@||radiofest.pl^*^piosenka-banner.
+@@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||rzeszow.pl/ad/view^
 @@||samoloty.pl^*^lgp2.
 @@||sanatoria.com.pl^*-pobyty-zdrowotne.
@@ -61,5 +63,3 @@
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
 @@||zarzadca.pl^*^zarzadca.
-@@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
-@@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
