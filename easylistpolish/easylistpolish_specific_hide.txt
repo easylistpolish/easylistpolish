@@ -1996,3 +1996,15 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+vwgolf.pl##a[href^="https://www.iparts.pl/"]
+renaultlaguna.pl##a[href^="https://www.iparts.pl/"]
+dziennikwschodni.pl##.pngmonet
+3don.pl##a[data-item="banner"]
+zkaszub.info##[class^="zkasz-"]
+pkf.org.pl##.start-site-banners
+firmypolski.pl##.hot-info-slider
+osowa24.pl##div[style="margin-bottom: 10px;"]
+osowa24.pl##.subpage-header2
+rynekinstalacyjny.pl##.marta
+info-net.com.pl###banners
+wbaziefirm.pl##.wrapper-flash
