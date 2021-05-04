@@ -1111,3 +1111,4 @@ euslugi.pl##.banners
 ^banery_foto^$domain=mlodagdynia.pl
 ^baner^$domain=biif.pl
 _baner_$domain=ccifp.pl
+||kbf.pl^*^warszewo.
