@@ -1109,3 +1109,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
