@@ -2008,3 +2008,5 @@ elubaczow.com##div.listings
 pokerlistings.pl###js-cta-banner
 pokerlistings.pl##[class^="spu-"]
 kanal10.pl##[class^="moduletable_banner"]
+spottedskarzysko.pl###Box4
+spottedskarzysko.pl###gkMainbodyTop
