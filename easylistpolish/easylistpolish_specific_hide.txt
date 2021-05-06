@@ -2005,3 +2005,5 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 elubaczow.com##div.listings
+pokerlistings.pl###js-cta-banner
+pokerlistings.pl##[class^="spu-"]
