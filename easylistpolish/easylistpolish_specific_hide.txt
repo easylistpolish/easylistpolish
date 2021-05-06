@@ -2007,3 +2007,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 elubaczow.com##div.listings
 pokerlistings.pl###js-cta-banner
 pokerlistings.pl##[class^="spu-"]
+kanal10.pl##[class^="moduletable_banner"]
