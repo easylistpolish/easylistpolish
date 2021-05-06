@@ -1110,3 +1110,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||infokatowice.pl^*^mniam-kosciuszki-
+||rlu24.pl^marek2.
