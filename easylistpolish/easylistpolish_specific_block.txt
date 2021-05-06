@@ -1111,3 +1111,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niezalezna.
 ||infokatowice.pl^*^mniam-kosciuszki-
 ||rlu24.pl^marek2.
+||elubaczow.com^*^lprez.
