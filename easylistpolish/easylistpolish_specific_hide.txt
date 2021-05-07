@@ -2015,3 +2015,4 @@ edunews.pl##.bannergroup
 cgm.pl##.bsaPopupWrapper
 cgm.pl##.bsaPopupWrapperBg
 portel.pl##div[id^="zone"]
+emecze.pl##a[href^="https://bitcoinpl.org/"]

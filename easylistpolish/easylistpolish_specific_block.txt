@@ -1112,3 +1112,4 @@ euslugi.pl##.banners
 ||infokatowice.pl^*^mniam-kosciuszki-
 ||rlu24.pl^marek2.
 ||elubaczow.com^*^lprez.
+^720^$image,domain=emecze.pl
