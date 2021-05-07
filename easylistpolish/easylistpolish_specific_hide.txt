@@ -2012,3 +2012,5 @@ spottedskarzysko.pl###Box4
 spottedskarzysko.pl###gkMainbodyTop
 spottedstarachowice.pl###Box1
 edunews.pl##.bannergroup
+cgm.pl##.bsaPopupWrapper
+cgm.pl##.bsaPopupWrapperBg
