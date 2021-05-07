@@ -1113,3 +1113,4 @@ euslugi.pl##.banners
 ||rlu24.pl^marek2.
 ||elubaczow.com^*^lprez.
 ^720^$image,domain=emecze.pl
+||grymel.pl^*^MHR_takeover_bg.
