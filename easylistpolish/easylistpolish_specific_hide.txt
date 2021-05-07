@@ -2004,4 +2004,18 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+elubaczow.com##div.listings
+pokerlistings.pl###js-cta-banner
+pokerlistings.pl##[class^="spu-"]
+kanal10.pl##[class^="moduletable_banner"]
+spottedskarzysko.pl###Box4
+spottedskarzysko.pl###gkMainbodyTop
+spottedstarachowice.pl###Box1
+edunews.pl##.bannergroup
+cgm.pl##.bsaPopupWrapper
+cgm.pl##.bsaPopupWrapperBg
+portel.pl##div[id^="zone"]
+emecze.pl##a[href^="https://bitcoinpl.org/"]
+anglia.today##.ad
+anglia.today##.place-for-advertisement
 chnnews.pl##.bannergroupright-banner
