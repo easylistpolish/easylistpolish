@@ -1114,9 +1114,5 @@ euslugi.pl##.banners
 ||elubaczow.com^*^lprez.
 ^720^$image,domain=emecze.pl
 ||grymel.pl^*^MHR_takeover_bg.
-kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 ||emisja.contentstream.pl^$domain=sportowy24.pl
-mojegotowanie.pl##.advContainer
-radionadzieja.pl##.et_pb_image_wrap 
-glosojcapio.pl##.banneritem
 ^nowosc_images^$domain=angielski.slowka.pl

@@ -2021,3 +2021,7 @@ anglia.today##.place-for-advertisement
 chnnews.pl##.bannergroupright-banner
 szpileczki.pl###carousel-example-generic
 szpileczki.pl##a[href^="https://ad.zanox."]
+mojegotowanie.pl##.advContainer
+radionadzieja.pl##.et_pb_image_wrap 
+glosojcapio.pl##.banneritem
+kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
