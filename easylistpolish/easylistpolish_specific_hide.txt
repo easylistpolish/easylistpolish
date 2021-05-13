@@ -2025,3 +2025,4 @@ mojegotowanie.pl##.advContainer
 radionadzieja.pl##.et_pb_image_wrap 
 glosojcapio.pl##.banneritem
 kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
+menshealth.pl##a[onclick*="welcompage-reklama"]
