@@ -1119,3 +1119,4 @@ kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 mojegotowanie.pl##.advContainer
 radionadzieja.pl##.et_pb_image_wrap 
 glosojcapio.pl##.banneritem
+^nowosc_images^$domain=angielski.slowka.pl
