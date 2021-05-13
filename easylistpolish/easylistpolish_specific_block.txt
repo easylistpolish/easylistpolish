@@ -1118,3 +1118,4 @@ euslugi.pl##.banners
 ^nowosc_images^$domain=angielski.slowka.pl
 ||wielkopolska.tv^*^osk_wawrzyniak-
 ^baner_$domain=radioradom.pl
+^inline__$domain=e-kg.pl
