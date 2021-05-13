@@ -2029,3 +2029,4 @@ beskidnews.pl##.main-slider
 naszabydgoszcz.pl##[class^="g g-"]
 e-kg.pl##div.l-ad-top
 e-kg.pl##div.jm-footer-bottom
+turek.net.pl##.mfp-ready
