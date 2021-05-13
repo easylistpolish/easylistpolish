@@ -1117,3 +1117,4 @@ euslugi.pl##.banners
 ||emisja.contentstream.pl^$domain=sportowy24.pl
 ^nowosc_images^$domain=angielski.slowka.pl
 ||wielkopolska.tv^*^osk_wawrzyniak-
+^baner_$domain=radioradom.pl
