@@ -1109,4 +1109,13 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infokatowice.pl^*^mniam-kosciuszki-
+||rlu24.pl^marek2.
+||elubaczow.com^*^lprez.
+^720^$image,domain=emecze.pl
+||grymel.pl^*^MHR_takeover_bg.
+||emisja.contentstream.pl^$domain=sportowy24.pl
+^nowosc_images^$domain=angielski.slowka.pl
+||wielkopolska.tv^*^osk_wawrzyniak-
+^baner_$domain=radioradom.pl
 ^inline__$domain=e-kg.pl
