@@ -2019,3 +2019,5 @@ emecze.pl##a[href^="https://bitcoinpl.org/"]
 anglia.today##.ad
 anglia.today##.place-for-advertisement
 chnnews.pl##.bannergroupright-banner
+szpileczki.pl###carousel-example-generic
+szpileczki.pl##a[href^="https://ad.zanox."]
