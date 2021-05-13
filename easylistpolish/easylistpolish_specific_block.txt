@@ -1114,3 +1114,4 @@ euslugi.pl##.banners
 ||elubaczow.com^*^lprez.
 ^720^$image,domain=emecze.pl
 ||grymel.pl^*^MHR_takeover_bg.
+kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
