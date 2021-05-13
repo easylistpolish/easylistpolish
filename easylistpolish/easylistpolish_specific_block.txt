@@ -1118,3 +1118,4 @@ kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 ||emisja.contentstream.pl^$domain=sportowy24.pl
 mojegotowanie.pl##.advContainer
 radionadzieja.pl##.et_pb_image_wrap 
+glosojcapio.pl##.banneritem
