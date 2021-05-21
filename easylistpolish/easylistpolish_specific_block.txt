@@ -1119,3 +1119,4 @@ euslugi.pl##.banners
 ||wielkopolska.tv^*^osk_wawrzyniak-
 ^baner_$domain=radioradom.pl
 ^inline__$domain=e-kg.pl
+||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
