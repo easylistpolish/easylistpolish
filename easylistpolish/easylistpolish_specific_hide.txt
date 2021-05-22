@@ -2038,3 +2038,4 @@ tychy.info##[data-ads-id]
 menshealth.pl##a[onclick*="welcompage-reklama"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 sadistic.pl##[id^="sad_"]
+wbj.pl##.highlight__adv-title + a 
