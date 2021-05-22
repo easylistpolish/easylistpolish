@@ -2025,4 +2025,14 @@ mojegotowanie.pl##.advContainer
 radionadzieja.pl##.et_pb_image_wrap 
 glosojcapio.pl##.banneritem
 kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
+beskidnews.pl##.main-slider
+naszabydgoszcz.pl##[class^="g g-"]
+e-kg.pl##div.l-ad-top
+e-kg.pl##div.jm-footer-bottom
+turek.net.pl##.mfp-ready
+wyszukana.com.pl###text-4
+styl.fm##.ad-container
+fm.tuba.pl##app-advert
+bielsko.info##[data-ads-id]
+tychy.info##[data-ads-id]
 menshealth.pl##a[onclick*="welcompage-reklama"]
