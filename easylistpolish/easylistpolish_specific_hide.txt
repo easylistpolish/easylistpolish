@@ -2032,3 +2032,4 @@ e-kg.pl##div.jm-footer-bottom
 turek.net.pl##.mfp-ready
 wyszukana.com.pl###text-4
 styl.fm##.ad-container
+fm.tuba.pl##app-advert
