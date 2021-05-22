@@ -2036,3 +2036,4 @@ fm.tuba.pl##app-advert
 bielsko.info##[data-ads-id]
 tychy.info##[data-ads-id]
 menshealth.pl##a[onclick*="welcompage-reklama"]
+forum.optymalizacja.com##.ipsWidget_vertical > center img
