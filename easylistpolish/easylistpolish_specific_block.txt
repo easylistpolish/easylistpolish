@@ -1120,3 +1120,5 @@ euslugi.pl##.banners
 ^baner_$domain=radioradom.pl
 ^inline__$domain=e-kg.pl
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
+^banner-$domain=bobrzanie.pl
+
