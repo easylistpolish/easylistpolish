@@ -2039,3 +2039,6 @@ menshealth.pl##a[onclick*="welcompage-reklama"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 sadistic.pl##[id^="sad_"]
 wbj.pl##.highlight__adv-title + a 
+truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
+truckitransport.pl##.jsn-mod-custom img
+
