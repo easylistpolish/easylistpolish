@@ -1126,3 +1126,4 @@ euslugi.pl##.banners
 ^banners^$domain=przedsiebiorcarolny.pl
 ^banner_$domain=biegowe.pl
 _baner_$domain=biegologia.pl
+_baner_$domain=sbiegacza.pl
