@@ -2039,5 +2039,7 @@ menshealth.pl##a[onclick*="welcompage-reklama"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 sadistic.pl##[id^="sad_"]
 wbj.pl##.highlight__adv-title + a 
+brief.pl###banner
+bobrzanie.pl##.sidebar .img-300
+tvklodzka.pl##a[href^="https://ng.pl/"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
-
