@@ -2050,3 +2050,5 @@ echogorzowa.pl##.ba
 naklo24.pl###okazje2
 tsl-biznes.pl##[class^="g g-"]
 portal-transportowy.pl###text-16
+truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
+truckitransport.pl##.jsn-mod-custom img
