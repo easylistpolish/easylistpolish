@@ -2047,3 +2047,4 @@ globenergia.pl##.article_headline_ad
 asta24.pl##.baner
 gorzow24.pl##div#ims_over_cont
 echogorzowa.pl##.ba
+naklo24.pl###okazje2
