@@ -1120,5 +1120,11 @@ euslugi.pl##.banners
 ^baner_$domain=radioradom.pl
 ^inline__$domain=e-kg.pl
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
+^banners^$domain=brief.pl
+||burdadigital.pl^$domain=gala.pl|przyslijprzepis.pl|focus.pl
+^banner-$domain=bobrzanie.pl
+^banners^$domain=przedsiebiorcarolny.pl
+^banner_$domain=biegowe.pl
+_baner_$domain=biegologia.pl
+_baner_$domain=sbiegacza.pl
 ^banner-$domain=biokurier.pl
-
