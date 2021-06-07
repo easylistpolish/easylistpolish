@@ -1129,3 +1129,5 @@ _baner_$domain=biegologia.pl
 _baner_$domain=sbiegacza.pl
 ^banner-$domain=biokurier.pl
 ^banner_$domain=truckitransport.pl
+||bitcoin.pl^*^rozliczanie-kryptowalut-
+||bitcoin.pl^*^bnr-nowe-rynki-
