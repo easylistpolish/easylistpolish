@@ -1125,3 +1125,4 @@ euslugi.pl##.banners
 ^banner-$domain=bobrzanie.pl
 ^banners^$domain=przedsiebiorcarolny.pl
 ^banner_$domain=biegowe.pl
+_baner_$domain=biegologia.pl
