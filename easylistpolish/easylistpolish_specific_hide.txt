@@ -2056,3 +2056,4 @@ truckitransport.pl##.jsn-mod-custom img
 truck-van.pl##[class^="g g-"]
 portalmorski.pl##.pmb_banners
 bitcoin.pl##div.pb-5
+portalspozywczy.pl##.box-0
