@@ -1124,3 +1124,4 @@ euslugi.pl##.banners
 ||burdadigital.pl^$domain=gala.pl|przyslijprzepis.pl|focus.pl
 ^banner-$domain=bobrzanie.pl
 ^banners^$domain=przedsiebiorcarolny.pl
+^banner_$domain=biegowe.pl
