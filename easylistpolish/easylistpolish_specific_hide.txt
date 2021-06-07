@@ -2045,3 +2045,4 @@ tvklodzka.pl##a[href^="https://ng.pl/"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
 globenergia.pl##.article_headline_ad
 asta24.pl##.baner
+gorzow24.pl##div#ims_over_cont
