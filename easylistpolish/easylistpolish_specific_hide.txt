@@ -2042,3 +2042,4 @@ wbj.pl##.highlight__adv-title + a
 brief.pl###banner
 bobrzanie.pl##.sidebar .img-300
 tvklodzka.pl##a[href^="https://ng.pl/"]
+eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
