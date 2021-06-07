@@ -2049,3 +2049,4 @@ gorzow24.pl##div#ims_over_cont
 echogorzowa.pl##.ba
 naklo24.pl###okazje2
 tsl-biznes.pl##[class^="g g-"]
+portal-transportowy.pl###text-16
