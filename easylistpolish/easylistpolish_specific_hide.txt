@@ -2039,5 +2039,18 @@ menshealth.pl##a[onclick*="welcompage-reklama"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 sadistic.pl##[id^="sad_"]
 wbj.pl##.highlight__adv-title + a 
+brief.pl###banner
+bobrzanie.pl##.sidebar .img-300
+tvklodzka.pl##a[href^="https://ng.pl/"]
+eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
+globenergia.pl##.article_headline_ad
+asta24.pl##.baner
+gorzow24.pl##div#ims_over_cont
+echogorzowa.pl##.ba
+naklo24.pl###okazje2
+tsl-biznes.pl##[class^="g g-"]
+portal-transportowy.pl###text-16
+truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
+truckitransport.pl##.jsn-mod-custom img
+4trucks.pl##.rekl
 truck-van.pl##[class^="g g-"]
-
