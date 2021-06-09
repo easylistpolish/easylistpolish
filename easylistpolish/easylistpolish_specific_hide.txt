@@ -2045,3 +2045,4 @@ plotek.pl##.ban001_wrapper
 gazeta.pl##[id^="adUnit-"]
 gazeta.pl##[id^="ads"]
 gazeta.pl##[class^="ban00"]
+gazeta.pl##[id^="banC"]
