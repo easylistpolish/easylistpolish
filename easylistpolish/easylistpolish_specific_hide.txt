@@ -2043,3 +2043,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 onlineradio.com.pl##.ai-placement
 plotek.pl##.ban001_wrapper
 gazeta.pl##[id^="adUnit-"]
+gazeta.pl##[id^="ads"]
