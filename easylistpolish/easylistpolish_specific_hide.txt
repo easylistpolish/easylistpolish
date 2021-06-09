@@ -2044,3 +2044,4 @@ onlineradio.com.pl##.ai-placement
 plotek.pl##.ban001_wrapper
 gazeta.pl##[id^="adUnit-"]
 gazeta.pl##[id^="ads"]
+gazeta.pl##[class^="ban00"]
