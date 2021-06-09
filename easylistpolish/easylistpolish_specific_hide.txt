@@ -2040,4 +2040,8 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+onlineradio.com.pl##.ai-placement
+plotek.pl##.ban001_wrapper
+gazeta.pl##[id^="adUnit-"]
+gazeta.pl##[id^="ads"]
 gazeta.pl##[class^="ban00"]
