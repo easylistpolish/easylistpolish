@@ -2049,3 +2049,4 @@ gazeta.pl##[id^="banC"]
 forumbranzowe.com##.reklama_sidebar
 forumbranzowe.com###reklama_2
 e-golub.info.pl##.topLayer
+nowezyciepabianic.pl###header-right-section
