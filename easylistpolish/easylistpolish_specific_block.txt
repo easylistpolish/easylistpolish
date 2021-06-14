@@ -1122,3 +1122,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=spawalnictwo.com.pl
+^baner^$domain=enowiny.pl
