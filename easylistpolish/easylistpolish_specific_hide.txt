@@ -2048,3 +2048,4 @@ gazeta.pl##[class^="ban00"]
 gazeta.pl##[id^="banC"]
 forumbranzowe.com##.reklama_sidebar
 forumbranzowe.com###reklama_2
+e-golub.info.pl##.topLayer
