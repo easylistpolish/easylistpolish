@@ -2046,3 +2046,5 @@ gazeta.pl##[id^="adUnit-"]
 gazeta.pl##[id^="ads"]
 gazeta.pl##[class^="ban00"]
 gazeta.pl##[id^="banC"]
+forumbranzowe.com##.reklama_sidebar
+forumbranzowe.com###reklama_2
