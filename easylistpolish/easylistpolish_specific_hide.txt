@@ -2052,3 +2052,6 @@ e-golub.info.pl##.topLayer
 nowezyciepabianic.pl###header-right-section
 radiofm-online.com##.ad
 mistrzostwaswiata.pl###text-2
+sloworegionu.pl##.mfp-wrap
+sloworegionu.pl##.bannergroup iframe
+sloworegionu.pl##.mfp-bg

@@ -1124,3 +1124,4 @@ euslugi.pl##.banners
 ^banery^$domain=spawalnictwo.com.pl
 ^baner^$domain=enowiny.pl
 ||nowinykomornickie.pl^*^ogloszenie-770-
+||sloworegionu.pl^*^internet_2_
