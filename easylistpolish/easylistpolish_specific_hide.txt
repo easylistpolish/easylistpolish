@@ -2051,3 +2051,4 @@ forumbranzowe.com###reklama_2
 e-golub.info.pl##.topLayer
 nowezyciepabianic.pl###header-right-section
 radiofm-online.com##.ad
+mistrzostwaswiata.pl###text-2
