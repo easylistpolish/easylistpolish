@@ -2055,3 +2055,5 @@ mistrzostwaswiata.pl###text-2
 sloworegionu.pl##.mfp-wrap
 sloworegionu.pl##.bannergroup iframe
 sloworegionu.pl##.mfp-bg
+dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
+dlaprodukcji.pl##.adv-wide
