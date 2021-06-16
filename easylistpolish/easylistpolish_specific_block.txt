@@ -1123,3 +1123,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=spawalnictwo.com.pl
 ^baner^$domain=enowiny.pl
+||nowinykomornickie.pl^*^ogloszenie-770-
