@@ -1121,4 +1121,10 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^banery^$domain=spawalnictwo.com.pl
+^baner^$domain=enowiny.pl
+||nowinykomornickie.pl^*^ogloszenie-770-
+||sloworegionu.pl^*^internet_2_
+||miastokolobrzeg.pl^*^brico2.
+||mypolacy.de^*^comarch_
 _baner_$domain=podlaskie24.pl
