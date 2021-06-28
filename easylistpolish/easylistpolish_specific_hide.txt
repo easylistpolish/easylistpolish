@@ -2059,3 +2059,4 @@ dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
 dlaprodukcji.pl##.adv-wide
 scs.htw.pl##iframe[name="billboard-top"]
 gk24.pl##[class^="lista_content_stream_"]
+ekoszalin.pl##[class^="advert"]
