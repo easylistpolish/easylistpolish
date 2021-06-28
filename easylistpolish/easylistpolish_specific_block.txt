@@ -1125,3 +1125,4 @@ euslugi.pl##.banners
 ^baner^$domain=enowiny.pl
 ||nowinykomornickie.pl^*^ogloszenie-770-
 ||sloworegionu.pl^*^internet_2_
+||miastokolobrzeg.pl^*^brico2.
