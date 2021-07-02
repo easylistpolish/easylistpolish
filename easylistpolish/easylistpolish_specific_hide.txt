@@ -2063,3 +2063,4 @@ ekoszalin.pl##[class^="advert"]
 gawex.pl##a[href^="https://www.hotelquattro.pl/"]
 gawex.pl##a[href^="http://www.domyszczecinek.pl/"]
 gawex.pl##a[href^="https://go.toya.net.pl/"]
+polski-tenis.pl##aside .plakat
