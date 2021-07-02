@@ -1128,3 +1128,4 @@ euslugi.pl##.banners
 ||miastokolobrzeg.pl^*^brico2.
 ||mypolacy.de^*^comarch_
 _baner_$domain=podlaskie24.pl
+||tenis.net.pl^*^mtc.
