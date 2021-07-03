@@ -1125,3 +1125,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||reacivepl.club^$domain=kinogo.biz
