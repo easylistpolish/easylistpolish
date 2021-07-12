@@ -2060,3 +2060,5 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 estadios24.pl##a[href^="https://typ.pl/"]
+thinkapple.pl###post-banner-ad
+thinkapple.pl##li[id^="media_image-"]
