@@ -2090,3 +2090,4 @@ gawex.pl##a[href^="http://www.domyszczecinek.pl/"]
 gawex.pl##a[href^="https://go.toya.net.pl/"]
 polski-tenis.pl##aside .plakat
 swiatoze.pl##.header_marker
+nto.pl##[class^="lista_content_stream_"]
