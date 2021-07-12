@@ -1138,3 +1138,4 @@ _baner_$domain=podlaskie24.pl
 ||tenis.net.pl^*^mtc.
 -banner-$domain=swiatoze.pl
 -banner-$domain=wirlandii.pl
+-baner2021.$domain=rowery.org
