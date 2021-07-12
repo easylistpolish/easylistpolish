@@ -69,7 +69,7 @@
 ^baner-$domain=allebiznes.pl|automotivesuppliers.pl|bstok.pl|centrumdruku3d.pl|cksport.pl|cowkrakowie.pl|cowwilanowie.pl|crypto-trader.pl|echokamienia.pl|genetyczne.pl|gloskoninski.pl|gorydlaciebie.pl|hi-fi.com.pl|iloveslubice.pl|infokatowice.pl|infokonin.pl|infomalopolska.pl|jazdaprawna.pl|kk24.pl|limanowianin.in|linia.com.pl|luzyce.info|magazynvip.pl|materialybudowlane.info.pl|mazopolska.pl|miastokobiet.pl|mysnet.pl|naszosie.pl|naszsrem.pl|niezaleznemediapodlasia.pl|ostrodanews.pl|oswiecim112.pl|oto-samochody.pl|polskacanada.com|portalkujawski.pl|portalwolow.pl|powrotroberta.pl|przewodnicywedkarscy.pl|regionalna.pl|rynekinwestycji.pl|sochaczewianin.pl|starosadeckie.info|szczecinek.com|tarnobrzeskie.eu|tv28.pl|tvbraniewo24.pl|twojaslupca.pl|tygodnik-rolniczy.pl|tygodnikkrag.pl|tygodnikpiski.pl|tylkotorun.pl|tyna.info.pl|wiadomosci.com|wiecbork112.pl|wirtualnelegionowo.pl|wirtualnemazowsze24.pl|wirtualnynowydwor.pl|wolanie.info|zw.pl|zwrotnikraka.pl|zyciezamoscia.pl
 ^baner.$domain=magazynfakty.pl|ostrodanews.pl|przemyslkosmetyczny.pl|sokolka.tv
 ^baner2.$domain=edebno.pl
-^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
+^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|enowiny.pl|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
 ^baner_$domain=7dni.pila.pl|asystentbhp.pl|bloog.pl|chcemybycrodzicami.pl|chelsea24news.pl|chemiaibiznes.com.pl|chorzowianin.pl|cksport.pl|czestochowskie24.pl|dzierzgon-twojemiasto.pl|e-pingpong.pl|extra.info.pl|forumfajerwerki.pl|fresh-market.pl|futbolfejs.pl|gazeta-mlawska.pl|gazetacz.com.pl|gazetagazeta.com|gielda-koni.com.pl|glogow-info.pl|glosmordoru.pl|grapplerinfo.pl|info.stargard.pl|infofordon.pl|infokatowice.pl|jaw.pl|jazdaprawna.pl|kurier-kolski.pl|kurierostrowski.pl|kurierzamojski.pl|legitymizm.org|lexus-forum.pl|magazynregionalny.pl|materialybudowlane.info.pl|meteoprog.pl|mojeniemcy.de|nanarty.info|nowawrzesnia.pl|podgorze.pl|podlaskieagro.pl|portalkosmiczny.pl|przemyskie.info|przewodnicywedkarscy.pl|radiopiekary.pl|radomsport.pl|rdn.pl|regionalna.pl|sporteuro.pl|sweetwedding.pl|swiatoze.pl|swidnik.pl|tc.ciechanow.pl|thinkapple.pl|tvostrow.pl|tygodnik-krapkowicki.info|tygodnik-rolniczy.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|urodaizdrowie.pl|vwgolf.pl|wdrawskupomorskim.pl|wiadomosci.rii.pl|wiatriwoda.pl|widzewtomy.net|wirtualnelegionowo.pl|wirtualnynowydwor.pl|zapytam.com|zkaszub.info|zpazurem.pl|zyciezamoscia.pl
 ^Baner_$domain=noweinfo.pl
 ^baner_$domain=poligonowewiesci.pl|radioradom.pl|sad24.pl|tc.ciechanow.pl|tw-24.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl
@@ -83,7 +83,7 @@
 ^baners^$domain=konieimy.pl|nowaruda.info|podlasie24.pl|portalpszczelarski.pl|q4.pl|zyciekalisza.pl
 ^banery/8^$domain=sportowememy.pl
 ^banery2019^$domain=wysokomazowiecki24.pl
-^banery^$domain=24tp.pl|alexjones.pl|archeton.pl|asta24.pl|belchatow.bai.pl|bialogardzianin.pl|bielsko.biala.pl|brodnica.net|bukowinatatrzanska.pl|cieszyninfo.pl|co-slychac.pl|dachy.info.pl|deblin24.eu|doba.pl|e-dobrydom.pl|e-konkursy.info|ebarlinek.pl|eglos.pl|emysliborz.pl|epszczyna.pl|fachowydekarz.pl|glowny-mechanik.pl|goryonline.com|haczyk.pl|haloursynow.pl|hotelinfo24.pl|igorzow.pl|igostyn.pl|ijarocin.pl|ikalisz.pl|ikamien.pl|ikrotoszyn.pl|infotydzien.info|iostrowwlkp.pl|ipleszew.pl|ipolska.info|ipyrzyce.pl|iswinoujscie.pl|jagiellonia.net|karpacz.net|kibice.net|kozienice24.pl|kuriergarwolinski.pl|kutno.net.pl|lipsko24.pl|lokalna24.pl|lubelszczyzna.info|maritime.com.pl|maslow.info.pl|mazury24.eu|mebleinfo.pl|miedzyrzec.info|moja-ostroleka.pl|mojaleczyca.pl|mragowo24.info|mymma.pl|nadmorze.pl|naszeopoczno.pl|nasztomaszow.pl|nowaruda.info|nowoczesnywarsztat.pl|opakowania.biz|ostrowmaz24.pl|paliwa.pl|piekarnie24.pl|pionki24.pl|pojezierze24.pl|polskicaravaning.pl|pomyslnadom.pl|portalwrc.pl|ppw.fishing|prudnicka.pl|przemyskie.info|pulskosmosu.pl|pultuszczak.pl|radomsport.pl|reszel.pl|rynekpapierniczy.pl|skionline.pl|sluzby-ur.pl|sportgniezno.pl|staleo.pl|strzelecopolski.pl|swiatogloszen.net.pl|swiatopon.info|trentino.pl|twojeradio.fm|tworzymyhistorie.pl|tygodnikpodhalanski.pl|tygodnikprudnicki.pl|tygodniksiedlecki.com|typersi.pl|wcf.org.pl|wiadomoscihandlowe.pl|wloclawek.info.pl|wpr24.pl|zpazurem.pl|zrobotyzowany.pl|zwolen24.pl|zywiecsupernowa.pl
+^banery^$domain=24tp.pl|alexjones.pl|archeton.pl|asta24.pl|belchatow.bai.pl|bialogardzianin.pl|bielsko.biala.pl|brodnica.net|bukowinatatrzanska.pl|cieszyninfo.pl|co-slychac.pl|dachy.info.pl|deblin24.eu|doba.pl|e-dobrydom.pl|e-konkursy.info|ebarlinek.pl|eglos.pl|emysliborz.pl|epszczyna.pl|fachowydekarz.pl|glowny-mechanik.pl|goryonline.com|haczyk.pl|haloursynow.pl|hotelinfo24.pl|igorzow.pl|igostyn.pl|ijarocin.pl|ikalisz.pl|ikamien.pl|ikrotoszyn.pl|infotydzien.info|iostrowwlkp.pl|ipleszew.pl|ipolska.info|ipyrzyce.pl|iswinoujscie.pl|jagiellonia.net|karpacz.net|kibice.net|kozienice24.pl|kuriergarwolinski.pl|kutno.net.pl|lipsko24.pl|lokalna24.pl|lubelszczyzna.info|maritime.com.pl|maslow.info.pl|mazury24.eu|mebleinfo.pl|miedzyrzec.info|moja-ostroleka.pl|mojaleczyca.pl|mragowo24.info|mymma.pl|nadmorze.pl|naszeopoczno.pl|nasztomaszow.pl|nowaruda.info|nowoczesnywarsztat.pl|opakowania.biz|ostrowmaz24.pl|paliwa.pl|piekarnie24.pl|pionki24.pl|pojezierze24.pl|polskicaravaning.pl|pomyslnadom.pl|portalwrc.pl|ppw.fishing|prudnicka.pl|przemyskie.info|pulskosmosu.pl|pultuszczak.pl|radomsport.pl|reszel.pl|rynekpapierniczy.pl|skionline.pl|sluzby-ur.pl|spawalnictwo.com.pl|sportgniezno.pl|staleo.pl|strzelecopolski.pl|swiatogloszen.net.pl|swiatopon.info|trentino.pl|twojeradio.fm|tworzymyhistorie.pl|tygodnikpodhalanski.pl|tygodnikprudnicki.pl|tygodniksiedlecki.com|typersi.pl|wcf.org.pl|wiadomoscihandlowe.pl|wloclawek.info.pl|wpr24.pl|zpazurem.pl|zrobotyzowany.pl|zwolen24.pl|zywiecsupernowa.pl
 ^banery_$domain=instalacjebudowlane.pl|iszczecinek.pl|kuchenny.com.pl|maritime.com.pl|ogrodinfo.pl|portalplock.pl|sokolka.tv|tygodnik.pl|zegarkiipasja.pl|zyciesiedleckie.pl
 ^banery_foto^$domain=bielskirynek.pl|expresskaszubski.pl|gle24.pl|gostyn24.pl|gwe24.pl|ki24.info|mlodagdynia.pl|pulsciechanowa.pl|roztocze.net|rzeczkrotoszynska.pl|terazgabin.pl|terazlipno.pl|tusochaczew.pl
 ^banery_reklamowe^$domain=rtw.org.pl
@@ -190,7 +190,7 @@ _ban_$domain=glos.live
 _baner%$domain=transg.pl
 _baner-$domain=nowytydzien.pl|przewodnicywedkarscy.pl
 _baner.$domain=112malopolska.pl|112wadowice.pl|gazetagazeta.com|hafija.pl|iknurow.pl|kociesprawy.pl|mojapsychologia.pl|nasz-glos.com|oirplodz.pl|osowa24.pl|polacywewloszech.com|polonia.nl|pozatorun.pl|przysucha.informator-lokalny.pl|ptvr.pl|radomsport.pl|regionalna.pl|sww.w.szu.pl
-_baner_$domain=bialogardinfo.pl|biegologia.pl|bmw-klub.pl|ccifp.pl|chemiaibiznes.com.pl|dogosfera.pl|forum-norwegia.pl|gazetagazeta.com|genetyczne.pl|grapplerinfo.pl|inthecage.pl|kuriergarwolinski.pl|laboratoria.net|marketinvest.pl|meblosfera.pl|my3miasto.pl|obiektysakralne.pl|poloniahannover.de|poscigi.pl|radomsport.pl|regionalna.pl|rzeszow-news.pl|sbiegacza.pl|sklep-muzyczny.com.pl|sokolka.tv|staraoliwa.pl|starosadeckie.info|stolarkabudowlana.eu|takze.pl|wdrawskupomorskim.pl|wirtualnekosmetyki.pl
+_baner_$domain=bialogardinfo.pl|biegologia.pl|bmw-klub.pl|ccifp.pl|chemiaibiznes.com.pl|dogosfera.pl|forum-norwegia.pl|gazetagazeta.com|genetyczne.pl|grapplerinfo.pl|inthecage.pl|kuriergarwolinski.pl|laboratoria.net|marketinvest.pl|meblosfera.pl|my3miasto.pl|obiektysakralne.pl|podlaskie24.pl|poloniahannover.de|poscigi.pl|radomsport.pl|regionalna.pl|rzeszow-news.pl|sbiegacza.pl|sklep-muzyczny.com.pl|sokolka.tv|staraoliwa.pl|starosadeckie.info|stolarkabudowlana.eu|takze.pl|wdrawskupomorskim.pl|wirtualnekosmetyki.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banery_$domain=automotivesuppliers.pl
@@ -637,6 +637,7 @@ euslugi.pl##.banners
 ||miastokobiet.pl^*^energylandia-
 ||miastokobiet.pl^*^WK_TheCrown20_
 ||miastokolobrzeg.pl^*^b_all2.
+||miastokolobrzeg.pl^*^brico2.
 ||miastokolobrzeg.pl^*^brico_
 ||miastokolobrzeg.pl^*^jacex2019.
 ||miastokolobrzeg.pl^*^molis1.
@@ -663,6 +664,7 @@ euslugi.pl##.banners
 ||my3miasto.pl^*^2016/02/logo_my3miasto.
 ||my3miasto.pl^*^2016/03/unnamed.
 ||my3miasto.pl^*^MyTr%C3%B3jmiasto.
+||mypolacy.de^*^comarch_
 ||mypolacy.de^*^ubezpieczenia_1.
 ||nadmorski24.pl^*3o2V9.
 ||nakolei.pl^*^logo-750_100.
@@ -690,6 +692,7 @@ euslugi.pl##.banners
 ||nolesnica.pl^*^0dee4-980_50.
 ||nowaruda.info/mBanner.
 ||noweinfo.pl^*^Pracnie-
+||nowinykomornickie.pl^*^ogloszenie-770-
 ||nowinynyskie.com.pl^*^inline__1_4448.
 ||nowytydzien.pl^*^baner-330x200.
 ||nowytydzien.pl^*^diagnostyka512_
@@ -869,6 +872,7 @@ euslugi.pl##.banners
 ||slaskiesiemianowice.pl^*^asgrawbaner-
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
 ||slowopodlasia.pl^*^polnoc_nieruchomosci.
+||sloworegionu.pl^*^internet_2_
 ||sochaczew24.info^*^erawa-
 ||sochaczewianin.pl^*^fast-serice-na-
 ||socialpress.pl^*^niech-cie-
@@ -1121,6 +1125,9 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^kamienie_small
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||estadios24.pl/img/*.webp
+^banery^$domain=elblag.net
+||reacivepl.club^$domain=kinogo.biz
 ^banery^$domain=spawalnictwo.com.pl
 ^baner^$domain=enowiny.pl
 ||nowinykomornickie.pl^*^ogloszenie-770-
@@ -1128,3 +1135,5 @@ euslugi.pl##.banners
 ||miastokolobrzeg.pl^*^brico2.
 ||mypolacy.de^*^comarch_
 _baner_$domain=podlaskie24.pl
+||tenis.net.pl^*^mtc.
+-banner-$domain=swiatoze.pl
