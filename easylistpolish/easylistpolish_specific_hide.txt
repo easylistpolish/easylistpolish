@@ -2062,3 +2062,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 estadios24.pl##a[href^="https://typ.pl/"]
 thinkapple.pl###post-banner-ad
 thinkapple.pl##li[id^="media_image-"]
+elblag.net##div[class^="baner"]
