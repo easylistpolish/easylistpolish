@@ -2091,3 +2091,4 @@ gawex.pl##a[href^="https://go.toya.net.pl/"]
 polski-tenis.pl##aside .plakat
 swiatoze.pl##.header_marker
 nto.pl##[class^="lista_content_stream_"]
+sloworegionu.pl##a[title="canal+grafika"]
