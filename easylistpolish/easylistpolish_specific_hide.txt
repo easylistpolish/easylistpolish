@@ -2065,3 +2065,27 @@ thinkapple.pl##li[id^="media_image-"]
 elblag.net##div[class^="baner"]
 niewiarygodne.pl##.td-a-rec
 onet.pl###branding-webmail-wrapper
+onlineradio.com.pl##.ai-placement
+plotek.pl##.ban001_wrapper
+gazeta.pl##[id^="adUnit-"]
+gazeta.pl##[id^="ads"]
+gazeta.pl##[class^="ban00"]
+gazeta.pl##[id^="banC"]
+forumbranzowe.com##.reklama_sidebar
+forumbranzowe.com###reklama_2
+e-golub.info.pl##.topLayer
+nowezyciepabianic.pl###header-right-section
+radiofm-online.com##.ad
+mistrzostwaswiata.pl###text-2
+sloworegionu.pl##.mfp-wrap
+sloworegionu.pl##.bannergroup iframe
+sloworegionu.pl##.mfp-bg
+dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
+dlaprodukcji.pl##.adv-wide
+scs.htw.pl##iframe[name="billboard-top"]
+gk24.pl##[class^="lista_content_stream_"]
+ekoszalin.pl##[class^="advert"]
+gawex.pl##a[href^="https://www.hotelquattro.pl/"]
+gawex.pl##a[href^="http://www.domyszczecinek.pl/"]
+gawex.pl##a[href^="https://go.toya.net.pl/"]
+polski-tenis.pl##aside .plakat
