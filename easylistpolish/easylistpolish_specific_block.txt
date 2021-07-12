@@ -1126,3 +1126,4 @@ euslugi.pl##.banners
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||estadios24.pl/img/*.webp
+^banery^$domain=elblag.net
