@@ -2064,3 +2064,4 @@ thinkapple.pl###post-banner-ad
 thinkapple.pl##li[id^="media_image-"]
 elblag.net##div[class^="baner"]
 niewiarygodne.pl##.td-a-rec
+onet.pl###branding-webmail-wrapper
