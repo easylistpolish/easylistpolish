@@ -2094,3 +2094,4 @@ nto.pl##[class^="lista_content_stream_"]
 sloworegionu.pl##a[title="canal+grafika"]
 rowerowa.pl##.placement
 cowwilanowie.pl##.a-re + a
+nczas.com##[id*="970x250"]
