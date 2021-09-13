@@ -309,7 +309,6 @@ _reklamy_$domain=chojna24.pl
 ||cowwilanowie.pl^*^wilanow-zdrowie-angles.
 ||cyfrowaekonomia.pl^*quark3.
 ||czest.info^*^drzwi-albud.
-||czestochowskie24.pl^*^2020/09/0001-
 ||czestochowskie24.pl^*^trepka-biuro-
 ||ddbrodnica.pl^*^inter-car-
 ||ddbrodnica.pl^*^pw_majowka_
