@@ -384,8 +384,6 @@ euslugi.pl##.banners
 ||esensja.pl^*^skapiec-
 ||estrzelce.pl^*^*maral.
 ||eswinoujscie.pl^*-noclegi-baza-hotelowa-
-||eswinoujscie.pl^*^02/optyk.jpg
-||eswinoujscie.pl^*^kino-sroda.
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^q10-swinoujscie.
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
