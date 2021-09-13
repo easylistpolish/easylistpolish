@@ -134,7 +134,6 @@
 ^kaczynski_click^$subdocument,domain=wylecz.to
 ^kampania_reklamowa^$domain=lubliniec.info
 ^KasynoHEXPolska^$domain=goniec.com
-^kurkuma185.$domain=wikirose.pl
 ^logo-$domain=legitymizm.org
 ^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
 ^motor-land^$domain=motocykle125.pl
