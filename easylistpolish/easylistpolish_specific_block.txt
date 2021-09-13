@@ -385,7 +385,6 @@ _reklamy_$domain=chojna24.pl
 ||extraswiecie.pl^*^t_pogoda_
 ||extraswiecie.pl^*^vbanner^
 ||facetpo40.pl^*-Series-7-grey-
-||facetpo40.pl^*_1214148276_
 ||fadstrack.com^$script,domain=make-cash.pl
 ||faunaflora.com.pl/euroanimal.
 ||fcbtv.pl^*^sts-laliga3.
