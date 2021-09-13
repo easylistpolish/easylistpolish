@@ -624,7 +624,6 @@ euslugi.pl##.banners
 ||miastons.pl^*-promocji.
 ||miastons.pl^*^doner-
 ||miastons.pl^*^donking-
-||miastons.pl^*^rekrutacja-it-
 ||miastons.pl^*_740x123.
 ||miechowski.pl^*-zatrudni-kucharzy.
 ||miedzyrzecz.biz^*-rankingi-350x100.
