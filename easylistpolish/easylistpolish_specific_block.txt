@@ -655,7 +655,6 @@ euslugi.pl##.banners
 ||naszwodzislaw.com^*^1464700184pwsz_knefel_prawy-
 ||networkmagazyn.pl/files^
 ||nevicom.pl/wyswietl_baner.$script,third-party
-||newsbook.pl^*^dzia%C5%82ka.jpg
 ||nextclick.pl/widget/widget.advertisement
 ||niebiescy.pl^*^chimimeca_
 ||niebiescy.pl^*^icservice_
