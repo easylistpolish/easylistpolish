@@ -662,7 +662,6 @@ euslugi.pl##.banners
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
 ||niebiescy.pl^*^uks_szyby_
-||nolesnica.pl^*^0dee4-980_50.
 ||nowaruda.info/mBanner.
 ||noweinfo.pl^*^Pracnie-
 ||nowinykomornickie.pl^*^ogloszenie-770-
