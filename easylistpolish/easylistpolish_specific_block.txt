@@ -392,8 +392,6 @@ euslugi.pl##.banners
 ||evertiq.pl/bximg^
 ||extraswiecie.pl^*^14.anamej.
 ||extraswiecie.pl^*^6.meranti.
-||extraswiecie.pl^*^67077666_
-||extraswiecie.pl^*^67211580_
 ||extraswiecie.pl^*^7.roplast.
 ||extraswiecie.pl^*^extra_swiecie.jpg?89
 ||extraswiecie.pl^*^t_pogoda_
