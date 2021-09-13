@@ -440,7 +440,6 @@ euslugi.pl##.banners
 ||getyourguide.com$domain=tuhiszpania.pl
 ||glamrap.pl^*^580x400_
 ||glos-tn.krakow.pl/palottifm.
-||glos-tn.krakow.pl/serenada01.
 ||glos.live^*^Vitality_
 ||gloskrakowa.pl^*^Fusion-System.
 ||glostrojmiasta.pl^*^Ko%C5%82dra-
