@@ -588,7 +588,6 @@ euslugi.pl##.banners
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||magazynfakty.pl^*^ventana_r.
 ||magazyngitarzysta.pl^*^750x200_
-||magazynregionalny.pl^*^mr%C3%B3wka%20listopad.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.js?
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.css?
 ||malagacf.pl^*^sts-laliga3.
