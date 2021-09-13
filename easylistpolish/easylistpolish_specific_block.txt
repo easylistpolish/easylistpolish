@@ -781,7 +781,6 @@ euslugi.pl##.banners
 ||radomnews.pl^*^logo_bfresh.
 ||radomnews.pl^*^logo_teatr_radom.
 ||radomnews.pl^*^medjana_
-||radomnews.pl^*^radpec_2019.
 ||radomsport.pl^*^fitplatinium2019.
 ||radomsport.pl^*^windoor-wietrzenie-
 ||rankomat.pl$domain=tuhiszpania.pl
