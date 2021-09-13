@@ -886,7 +886,6 @@ euslugi.pl##.banners
 ||supernowosci24.pl^*^potokowa.
 ||suwalki.info^*^ibn60p.
 ||sweetwedding.pl^*-290x290.
-||sweetwedding.pl^*^%C5%82apacze-wspomnien%CC%81-
 ||sweetwedding.pl^*^duetfotografowslubnych.
 ||sweetwedding.pl^*^pokadrowani-
 ||sweetwedding.pl^*^vasco-images.
