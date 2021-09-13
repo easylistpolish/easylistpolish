@@ -361,7 +361,6 @@ euslugi.pl##.banners
 ||ec.bankier.pl^$domain=mavelo.pl|miedziak.info.pl|tutajglogow.pl|tutajlegnica.pl|tutajpolkowice.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
-||echotygodnik.info^*^pitro_bar.
 ||edunews.pl^*-baner728x90pl.
 ||eduson.pl^*-reklama-panel^
 ||efilmy.tv/adsvid^
