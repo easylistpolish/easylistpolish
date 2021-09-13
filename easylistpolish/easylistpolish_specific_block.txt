@@ -993,7 +993,6 @@ euslugi.pl##.banners
 ||visitslovenia.pl^*_banner_GoOpti_
 ||w203.pl/autoczescionline24_120x300_
 ||w203.pl/sklep-motoryzacyjny-iparts.
-||wadowice24.pl/341d2261c6973dfdea8a344a0dcef583.
 ||wagaciezka.com/banery/upload^
 ||walbrzych24.com^*^Bannery_HTML/Hotel^
 ||walewice.pl^*^mos-1326.
