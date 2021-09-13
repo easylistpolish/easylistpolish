@@ -722,7 +722,7 @@ _reklamy_$domain=chojna24.pl
 ||ppr.pl^*^banners^
 ||prawy.pl^*^gabinety.
 ||prestizowydom.pl^*^psb-art-
-||probasket.pl^*^2018/07/probasket-2.gif
+||probasket.pl^*^2018/07/probasket
 ||probasket.pl^*^2018/07/probasket.jpg
 ||probasket.pl^*^czesciauto24_
 ||probasket.pl^*^GIF4.
