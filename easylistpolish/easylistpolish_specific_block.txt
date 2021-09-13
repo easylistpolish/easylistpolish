@@ -462,7 +462,6 @@ euslugi.pl##.banners
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||gramscien.xyz$script,domain=rybnik.com.pl
 ||greencanoe.pl^*-802x118.
-||greencanoe.pl^*^2017/09/Greencanoe.
 ||greencanoe.pl^*^248x248px_
 ||greencanoe.pl^*^substral.
 ||grymel.pl^*^MHR_takeover_bg.
