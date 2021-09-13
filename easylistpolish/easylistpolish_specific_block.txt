@@ -944,7 +944,6 @@ euslugi.pl##.banners
 ||trybunaczestochowska.pl^*^bajor.jpg
 ||trybunaczestochowska.pl^*^brzeczek.
 ||trybunaczestochowska.pl^*^maderpol.
-||trybunaczestochowska.pl^*^pansalata-
 ||trybunaczestochowska.pl^*^pasze.
 ||trybunaczestochowska.pl^*^popup-maker^$script
 ||trybunaczestochowska.pl^*^PROJEKTY-DOM%C3%93W-
