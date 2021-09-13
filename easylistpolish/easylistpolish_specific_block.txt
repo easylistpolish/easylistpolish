@@ -510,7 +510,6 @@ euslugi.pl##.banners
 ||jablonka.info^*^AMP_
 ||jagodnik.pl^*^ceres_niebieski2020.
 ||jaw.pl^*^parcelabc.
-||jelonka.com^*^10177.
 ||jelonka.com^*^9057.
 ||jelonka.com^*^k_9006^
 ||jpktraders.pl^*^am1.
