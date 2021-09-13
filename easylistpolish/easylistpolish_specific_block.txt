@@ -1019,7 +1019,6 @@ _reklamy_$domain=chojna24.pl
 ||ziemiakepinska.pl^*^smaragdSzkolka300.
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||ziemialimanowska.pl^*^CKU-plakat222-
-||ziemialimanowska.pl^*^SOLIDARNOSC-modified_
 ||zkrainynba.com^*^04/thumbnail.
 ||zlubaczowa.pl^*^beztroski-kredyt,
 ||zlubaczowa.pl^*^narol=
