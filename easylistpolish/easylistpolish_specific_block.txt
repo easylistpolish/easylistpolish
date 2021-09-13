@@ -836,7 +836,6 @@ _reklamy_$domain=chojna24.pl
 ||sportsiedlce.pl^*^garwacki.
 ||sportsiedlce.pl^*^Mal-Pol-
 ||sportsiedlce.pl^*^SDB2_
-||sportslaski.pl^*^1/2383.
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
