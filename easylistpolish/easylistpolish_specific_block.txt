@@ -803,7 +803,6 @@ euslugi.pl##.banners
 ||rowery.org^*^banerrowery2020.
 ||rr.rzeszowiak.pl^
 ||rrs24.net^*^marta_ubezpieczenia.
-||runeat.pl^*^2016/05/logo.
 ||rutatour.pl^*^signal-idiuna.
 ||ryms.pl^*^oko-logo2.
 ||rzeszow112.pl^*^buz-3.
