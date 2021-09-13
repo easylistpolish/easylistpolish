@@ -1012,7 +1012,6 @@ _reklamy_$domain=chojna24.pl
 ||xlomza.pl^*_300-250.
 ||zakliczyninfo.pl^*^ls1.
 ||zamioculcas.org^$script,domain=budujesz.info|rynek-rolny.pl
-||zd24.pl^*^41009_
 ||zd24.pl^*^Jesienna-zaduma-
 ||zd24.pl^*^mapa%20polski.
 ||zd24.pl^*^speedaldies.
