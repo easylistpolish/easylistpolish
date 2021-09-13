@@ -756,7 +756,6 @@ euslugi.pl##.banners
 ||przeclaw24.pl^*^pediatra.
 ||przewodnicywedkarscy.pl^*^banermefistofishing.
 ||przewodnicywedkarscy.pl^*^salmo_
-||przewodnicywedkarscy.pl^*^spin_mad.
 ||przewodnicywedkarscy.pl^*_130x3601.
 ||przyjacielprzypracy.pl^*^969x90.
 ||przyjacielprzypracy.pl^*^baner_
