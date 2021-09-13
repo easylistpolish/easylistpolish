@@ -257,7 +257,6 @@ _reklamy_$domain=chojna24.pl
 ||bezale.pl^*_suplementy.
 ||bielskiedrogi.pl^*^adviva.
 ||bielskiedrogi.pl^*^dron_zdjecia-
-||bielskiedrogi.pl^*^mobilne_strony_
 ||biotechnologia.pl^*^ats^
 ||bitcoin-online.pl/images/*baner.jpg
 ||bitcoin.pl^*^bnr-nowe-rynki-
