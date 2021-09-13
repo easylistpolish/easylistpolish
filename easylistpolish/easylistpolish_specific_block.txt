@@ -511,7 +511,6 @@ euslugi.pl##.banners
 ||jagodnik.pl^*^ceres_niebieski2020.
 ||jaw.pl^*^parcelabc.
 ||jelonka.com^*^10177.
-||jelonka.com^*^9002.
 ||jelonka.com^*^9057.
 ||jelonka.com^*^9862.
 ||jelonka.com^*^k_9006^
