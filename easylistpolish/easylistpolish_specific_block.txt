@@ -679,7 +679,6 @@ euslugi.pl##.banners
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||oirplodz.pl^*^ksiegarnia_prawnicza_
 ||oirplodz.pl^*^legalis.
-||oirplodz.pl^*_przedsradcoprawnypartnerkirp_
 ||ok24.tv^*^06/lasvegan.
 ||ok24.tv^*^KADA_55.
 ||oknonawagrowiec.pl^*^sklady-opalowe-
