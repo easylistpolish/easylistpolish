@@ -382,7 +382,6 @@ _reklamy_$domain=chojna24.pl
 ||extraswiecie.pl^*^14.anamej.
 ||extraswiecie.pl^*^6.meranti.
 ||extraswiecie.pl^*^7.roplast.
-||extraswiecie.pl^*^extra_swiecie.jpg?89
 ||extraswiecie.pl^*^t_pogoda_
 ||extraswiecie.pl^*^vbanner^
 ||facetpo40.pl^*-Series-7-grey-
