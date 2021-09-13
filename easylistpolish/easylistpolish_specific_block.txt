@@ -322,7 +322,6 @@ _reklamy_$domain=chojna24.pl
 ||dodajauto.pl^*^logo%20ds%20baner.
 ||dodajauto.pl^*^sf.
 ||dogosfera.pl^*^Canifel-West-Paw-
-||dogosfera.pl^*^Wo%CC%81zki-
 ||domenergo.com^*^pasek_reklamowy.
 ||dopilar.pl^*^penire_plus.
 ||dopilar.pl^*^sky1.
