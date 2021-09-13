@@ -583,8 +583,7 @@ euslugi.pl##.banners
 ||lukowicatomy.pl^*^napedy4x4_
 ||lwowecki.info^*^03/samson-
 ||lwowecki.info^*^bielak-fotowoltaika.
-||lwowecki.info^*^biuro-rachunkowe.
-||lwowecki.info^*^biuro_rachunkowe_
+||lwowecki.info^*^biuro-rachunkowe
 ||lwowecki.info^*^sjo-germanos.
 ||lwowecki.info^*^skrojan-okna-drzwi.
 ||magazynfakty.pl^*^ventana_r.
