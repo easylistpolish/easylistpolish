@@ -377,7 +377,6 @@ _reklamy_$domain=chojna24.pl
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^q10-swinoujscie.
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
-||eswinoujscie.pl^*^Sesja-%C5%9Blubna-
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||evertiq.pl/bximg^
 ||extraswiecie.pl^*^14.anamej.
