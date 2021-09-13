@@ -849,7 +849,6 @@ euslugi.pl##.banners
 ||spolecznosci.net^$domain=bezuzyteczna.pl|fotka.com
 ||sportowebeskidy.pl/materialy/system_banerowy^
 ||sportsiedlce.pl^*/uploads/2019/02/0.jpg|$image
-||sportsiedlce.pl^*^000010570.
 ||sportsiedlce.pl^*^000010959.
 ||sportsiedlce.pl^*^01/tasta.
 ||sportsiedlce.pl^*^03/BUDOMATEX.
