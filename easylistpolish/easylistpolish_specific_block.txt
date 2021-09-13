@@ -822,7 +822,6 @@ euslugi.pl##.banners
 ||service.weben1.com^$subdocument,domain=abc-survival.pl
 ||skarzysko24.pl/images/dp.
 ||skarzysko24.pl^*^OUT3^
-||skarzysko24.pl^*^uninetx2.
 ||skarzysko24.pl^*^uninp.
 ||skiny.pl/rp.
 ||skipol.pl^*^watermark_azoty.
