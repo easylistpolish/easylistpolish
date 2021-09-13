@@ -864,7 +864,6 @@ _reklamy_$domain=chojna24.pl
 ||suwalki.info^*^ibn60p.
 ||sweetwedding.pl^*-290x290.
 ||sweetwedding.pl^*^duetfotografowslubnych.
-||sweetwedding.pl^*^pokadrowani-
 ||sweetwedding.pl^*^vasco-images.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
