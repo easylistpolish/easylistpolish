@@ -639,7 +639,6 @@ euslugi.pl##.banners
 ||motocyklistow.pl^*^e1130-
 ||my3miasto.pl^*^2016/02/logo_my3miasto.
 ||my3miasto.pl^*^2016/03/unnamed.
-||my3miasto.pl^*^MyTr%C3%B3jmiasto.
 ||mypolacy.de^*^comarch_
 ||mypolacy.de^*^ubezpieczenia_1.
 ||nadmorski24.pl^*3o2V9.
