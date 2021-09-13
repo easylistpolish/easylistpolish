@@ -251,7 +251,6 @@ _reklamy_$domain=chojna24.pl
 ||bejsment.com^*^dalekDiamonds300x100_
 ||betonline.net.pl^*^betfan-kod-promocyjny.
 ||bezale.pl^*^320_
-||bezale.pl^*^chrapanie_
 ||bezale.pl^*^suplementy-
 ||bezale.pl^*^zwyrodnienie-
 ||bezale.pl^*_dieta.
