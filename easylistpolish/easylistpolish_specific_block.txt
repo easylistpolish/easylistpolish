@@ -308,7 +308,6 @@ euslugi.pl##.banners
 ||chemiaibiznes.com.pl^*^190x190_nigellin.
 ||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||ciechanowinaczej.pl^*-ci1150x250
-||ciechanowinaczej.pl^*_8983.
 ||cmas.pl^*^banners^animacja_
 ||cn-tryton.pl^*^dan.
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
