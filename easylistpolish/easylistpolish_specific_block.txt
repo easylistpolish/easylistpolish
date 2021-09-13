@@ -175,7 +175,6 @@
 ^szumilo-$domain=radiobonton.pl
 ^Termotopw_$domain=radiobonton.pl
 ^therapy.$domain=tvklodzka.pl
-^top%2B10%2Biherb.$domain=wikirose.pl
 ^Trevda/132.$domain=polska-zbrojna.pl
 ^view.php?key=$image,domain=gpcodziennie.pl
 ^widgets^$domain=karpacz24.pl
