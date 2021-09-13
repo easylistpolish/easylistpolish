@@ -419,7 +419,6 @@ euslugi.pl##.banners
 ||garsoniera.com.pl^*^r_logo_
 ||gazeta-mlawska.pl^*^baner.
 ||gazeta-mlawska.pl^*^GA_GTO_
-||gazeta-mlawska.pl^*klonik%20BHP.
 ||gazeta-mosina.pl^*-mosina2.
 ||gazeta-mosina.pl^*^Skl-857.
 ||gazeta-olawa.pl^*_Probus_portal300x300-
