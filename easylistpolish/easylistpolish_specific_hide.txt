@@ -2042,7 +2042,6 @@ legnica.fm##span + ul > .banneritem
 pudelek.tv,wp.pl##span[id^="dynacrems-adv"]
 disco-polo.info##span[style^="text-transform:uppercase"]
 ubucentrum.net##style + .post-share
-maratonypolskie.pl##table[cellspacing="0"][border="0"][width="1075"]
 stooq.pl##table[height="250"]
 stooq.pl##td > #f10:first-child
 nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
