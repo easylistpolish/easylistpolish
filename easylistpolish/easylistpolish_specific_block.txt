@@ -721,7 +721,6 @@ euslugi.pl##.banners
 ||podhale-sport.pl^*^bank.gif
 ||podhale24.pl/uploads/r^
 ||podrogach.pl^*^300x300_
-||podrogach.pl^*^mazda-golembiewscy-
 ||podrogach.pl^*^promocja-dunlop-
 ||pogoda.nl^*^ban_
 ||pogoda.nl^*^header3_1_black.
