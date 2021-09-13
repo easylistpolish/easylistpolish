@@ -790,7 +790,6 @@ _reklamy_$domain=chojna24.pl
 ||s3.amazonaws.com^$domain=vidfile.net
 ||s6.ifotos.pl^*^dezynjpg_
 ||s6.ifotos.pl^*^embudjpg_
-||s6.ifotos.pl^*^Ogloszeni_
 ||s6.ifotos.pl^*^stch-wsei_
 ||sadownictwo.com.pl^*^Filel/300x.
 ||sadownictwo.com.pl^*^Owoce-300x.
