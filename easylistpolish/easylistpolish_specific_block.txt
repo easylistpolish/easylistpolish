@@ -577,7 +577,6 @@ euslugi.pl##.banners
 ||lnaff.pl^$domain=darmowetv.pl
 ||lokalna.info^*^kssse.
 ||lokalna24.pl^*^debowe_wzgorze.
-||lokalna24.pl^*^s3_13helios.
 ||lokalna24.pl^*^wasbruk_
 ||lubanski.eu^*^Plakat_2015e.
 ||lubartow24.pl/b^
