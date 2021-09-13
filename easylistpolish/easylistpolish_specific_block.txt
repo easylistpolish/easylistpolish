@@ -472,7 +472,6 @@ euslugi.pl##.banners
 ||haszysz.com/images/banners^
 ||hifi.pl/anicss^
 ||hip-hop.pl^*^skateshop-skate-europe.
-||hiszpania-apartamenty.pl^*^GLOBUS-5.
 ||hiszpania-apartamenty.pl^*^hotele.jpg
 ||hiszpania-apartamenty.pl^*^samochody.jpg
 ||hokej.net^*^kasynohex.
