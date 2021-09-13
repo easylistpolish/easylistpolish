@@ -512,7 +512,6 @@ euslugi.pl##.banners
 ||jaw.pl^*^parcelabc.
 ||jelonka.com^*^10177.
 ||jelonka.com^*^9057.
-||jelonka.com^*^9862.
 ||jelonka.com^*^k_9006^
 ||jpktraders.pl^*^am1.
 ||jpktraders.pl^*^ledger_nano-
