@@ -712,7 +712,6 @@ euslugi.pl##.banners
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||plonsk24.pl^*^img_145^
 ||plonsk24.pl^*^img_154^
-||plonsk24.pl^*^img_50^
 ||plonsk24.pl^*^img_60^
 ||plonsk24.pl^*^img_67^
 ||plonsk24.pl^*^img_72^
