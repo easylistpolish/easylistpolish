@@ -253,7 +253,6 @@ _reklamy_$domain=chojna24.pl
 ||bezale.pl^*^320_
 ||bezale.pl^*^chrapanie_
 ||bezale.pl^*^suplementy-
-||bezale.pl^*^zakupy_
 ||bezale.pl^*^zwyrodnienie-
 ||bezale.pl^*_dieta.
 ||bezale.pl^*_suplement_
