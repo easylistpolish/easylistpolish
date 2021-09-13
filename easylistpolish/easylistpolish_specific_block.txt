@@ -219,7 +219,6 @@ _reklamy_$domain=chojna24.pl
 ||aferyprawa.eu^*^xbaner.
 ||aferyprawa.eu^*^xbarwy-bezprawia-
 ||aferyprawa.eu^*^xbizuteria.
-||aferyprawa.eu^*^xg9tv.
 ||aferyprawa.eu^*^xmuszynska.
 ||aferyprawa.eu^*^xradiobc.
 ||aferyprawa.eu^*^xruch.
