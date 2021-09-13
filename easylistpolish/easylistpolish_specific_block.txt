@@ -422,7 +422,6 @@ euslugi.pl##.banners
 ||gazeta-mlawska.pl^*klonik%20BHP.
 ||gazeta-mosina.pl^*-mosina2.
 ||gazeta-mosina.pl^*^Skl-857.
-||gazeta-olawa.pl^*^Fospol23.
 ||gazeta-olawa.pl^*_Probus_portal300x300-
 ||gazeta.pl/pub^
 ||gazetagazeta.com^*-Jewellery-
