@@ -301,7 +301,6 @@ _reklamy_$domain=chojna24.pl
 ||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||ciechanowinaczej.pl^*-ci1150x250
 ||cmas.pl^*^banners^animacja_
-||cn-tryton.pl^*^dan.
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
 ||codziennikmlawski.pl^*_720x80.
