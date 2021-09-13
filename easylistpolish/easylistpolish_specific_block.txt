@@ -723,7 +723,6 @@ _reklamy_$domain=chojna24.pl
 ||prawy.pl^*^gabinety.
 ||prestizowydom.pl^*^psb-art-
 ||probasket.pl^*^2018/07/probasket
-||probasket.pl^*^2018/07/probasket.jpg
 ||probasket.pl^*^czesciauto24_
 ||probasket.pl^*^GIF4.
 ||probasket.pl^*^PRODC.
