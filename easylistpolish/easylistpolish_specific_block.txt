@@ -418,7 +418,6 @@ _reklamy_$domain=chojna24.pl
 ||gazetasenior.pl^*_300x300_
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 ||gazetaslezanska.pl^*^jaross-
-||gazetatwojeinfo.pl^*^BU-MAAK.
 ||gazetatwojeinfo.pl^*^WEGA-GIF-
 ||gazetatwojeinfo.pl^*^WIS_-
 ||gazetawalbrzych.pl^*^Chleb-bezglutenowy.
