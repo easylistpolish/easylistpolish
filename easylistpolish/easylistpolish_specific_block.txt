@@ -848,7 +848,6 @@ euslugi.pl##.banners
 ||spliff.pl^*^sensimilla_logo_
 ||spolecznosci.net^$domain=bezuzyteczna.pl|fotka.com
 ||sportowebeskidy.pl/materialy/system_banerowy^
-||sportowememy.pl^*^1573500374.
 ||sportsiedlce.pl^*/uploads/2019/02/0.jpg|$image
 ||sportsiedlce.pl^*^000010570.
 ||sportsiedlce.pl^*^000010959.
