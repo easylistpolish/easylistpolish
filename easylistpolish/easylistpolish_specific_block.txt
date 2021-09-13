@@ -728,7 +728,6 @@ euslugi.pl##.banners
 ||poland.us^*^katalog^
 ||polonia-peterborough.uk^*^studio-fotograficzne-
 ||polskielupki.pl^*^*consulting.
-||poludnie.com.pl^*_093454.
 ||poludnie.com.pl^*_banery-www2.
 ||poradnik-pacjenta.pl^*-rekl.
 ||porady.mobi^*^domowelaboratorium.
