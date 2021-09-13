@@ -700,7 +700,6 @@ euslugi.pl##.banners
 ||pclab.pl^*^extra^$image
 ||pepe-tv.eu^*^01-oskar.
 ||pepe-tv.eu^*^180x140-1.
-||pepe-tv.eu^*^nowy-styl.
 ||pepe-tv.eu^*^star-03.
 ||perspektywy.pl/system_banerowy^
 ||pfcc.eu^*^automaty.png
