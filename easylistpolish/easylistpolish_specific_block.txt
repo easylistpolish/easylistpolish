@@ -472,7 +472,6 @@ _reklamy_$domain=chojna24.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
 ||imgur.com/J1GuRdM.$domain=myfootballmanager.pl
 ||imgur.com/w8Wno9V.$domain=myfootballmanager.pl
-||imgur.com/yW3pjue.$domain=myfootballmanager.pl
 ||info.elblag.pl^*^tla/*.jpg?v=1
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
