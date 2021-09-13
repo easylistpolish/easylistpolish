@@ -616,7 +616,6 @@ euslugi.pl##.banners
 ||miastokobiet.pl^*^energylandia-
 ||miastokobiet.pl^*^WK_TheCrown20_
 ||miastokolobrzeg.pl^*^b_all2.
-||miastokolobrzeg.pl^*^brico2.
 ||miastokolobrzeg.pl^*^brico_
 ||miastokolobrzeg.pl^*^jacex2019.
 ||miastokolobrzeg.pl^*^molis1.
