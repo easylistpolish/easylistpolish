@@ -997,7 +997,6 @@ euslugi.pl##.banners
 ||walbrzych24.com^*^Bannery_HTML/Hotel^
 ||walewice.pl^*^mos-1326.
 ||wdrawskupomorskim.pl^*^jobsora%
-||wdrawskupomorskim.pl^*^mr%C3%B3wka%20listopad.
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wedding.pl/camp^$image
 ||wiadomosci.com^*-300x250.
