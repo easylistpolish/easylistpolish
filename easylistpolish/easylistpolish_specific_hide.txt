@@ -1486,7 +1486,6 @@ tvwlodawa.pl##a + a > img[width="300"]
 futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
 leczna24.pl##a > img[src^="b/"][class="img-responsive"]
 zegocina.in##a [id^="banner-"]
-elektroda.pl##a.KwksNxK42jpm
 nowawrzesnia.pl##a.vc_box_border_grey
 kierunekchemia.pl,kierunekenergetyka.pl,kierunekfarmacja.pl,kierunekkosmetyki.pl,kierunekpompy.pl,kierunekspozywczy.pl,kieruneksurowce.pl,kierunekwodkan.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
 meblosfera.pl##a:not([href*="osfera."]) > img[alt^="Advertise"]
