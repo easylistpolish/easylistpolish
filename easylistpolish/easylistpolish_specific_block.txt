@@ -774,7 +774,6 @@ euslugi.pl##.banners
 ||radomnews.pl^*^banerekPRU_320.
 ||radomnews.pl^*^czas_na_kawe.
 ||radomnews.pl^*^fanfar_
-||radomnews.pl^*^gregfin_
 ||radomnews.pl^*^helios_
 ||radomnews.pl^*^jadar_logo.
 ||radomnews.pl^*^korej_baner1.
