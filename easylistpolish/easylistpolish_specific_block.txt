@@ -692,7 +692,6 @@ _reklamy_$domain=chojna24.pl
 ||pionki24.pl^*wizyt%
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||plonsk24.pl^*^img_154^
-||plonsk24.pl^*^img_60^
 ||plonsk24.pl^*^img_67^
 ||plonsk24.pl^*^img_72^
 ||plonskwsieci.pl^upload^malypuz.
