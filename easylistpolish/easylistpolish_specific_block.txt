@@ -651,7 +651,6 @@ euslugi.pl##.banners
 ||naszekielce.com^*_900x200.
 ||naszsrem.pl^*^psb_mrowka_
 ||naszwodzislaw.com^*^1354565932fotonaplotnie-
-||naszwodzislaw.com^*^1440404402unnamed-
 ||naszwodzislaw.com^*^1441366179nautica_knefel_prawy-
 ||naszwodzislaw.com^*^1464700184pwsz_knefel_prawy-
 ||networkmagazyn.pl/files^
