@@ -450,7 +450,6 @@ _reklamy_$domain=chojna24.pl
 ||greencanoe.pl^*^substral.
 ||grymel.pl^*^MHR_takeover_bg.
 ||gwarek.com.pl^*^uploads/a^
-||gwe24.pl^*^37.jpg?
 ||gwint24.pl^*_750x200.
 ||haker.nie-spamuj.eu/wiejskie.
 ||haszysz.com/images/banners^
