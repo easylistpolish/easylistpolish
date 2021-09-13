@@ -120,6 +120,7 @@ lebork24.info###bottom-banner
 szuster.com.pl###box-4
 laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
+onet.pl###branding-webmail-wrapper
 bb365.info###bsa-html
 o.pl###button-czynszowy
 wspolnota.org.pl###c325
@@ -282,6 +283,7 @@ betonline.net.pl,dkl24.pl,mecze24.pl,meczenazywo.pl,wyspiarzniebieski.pl###popup
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl###popupContainer
 polskaizbabranzypogrzebowej.pl###post-2637
+thinkapple.pl###post-banner-ad
 baxu.pl###postTopAd
 baxu.pl###postTopAdMobile
 babiel.com.pl###prawa
@@ -465,6 +467,7 @@ jarock.pl##.a-d-banner-medium
 bezposrednie.com##.a-d-sHeader
 bezposrednie.com##.a-d-sHeader + div
 minskmaz.com##.a-dis
+cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
 cryptonews.pl,infoskierniewice.pl,nowy-sacz.info,oswiecim112.pl,radio5.com.pl,radioradom.pl,tygodniksanocki.pl##.a-single
 cowwilanowie.pl##.a-slider
@@ -681,7 +684,7 @@ sucha24.pl##.banneritem > a
 palukitv.pl##.banneritem > a[href^="/component/banners/click/"]
 roland-gazeta.pl##.banneritem img[src$="green.webp"]
 niedziela.nl##.banneritem_
-e-stargard.pl,informacjelodzkie.pl,isrhornet.pl,megatiming.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
+e-stargard.pl,euslugi.pl,informacjelodzkie.pl,isrhornet.pl,megatiming.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
 rzeszowairport.pl##.banners-content
 ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl,magazyn-ecommerce.pl##.bannersm
@@ -904,6 +907,7 @@ rzeszowiak.pl##.header-wizytowki
 siechnice.com.pl##.header__ad-main
 nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
 podkarpacielive.pl##.header_banner
+swiatoze.pl##.header_marker
 spece.it##.helion_meta
 spece.it##.helion_okladka
 gwint24.pl,kurierzurominski.pl##.herald-txt-module
@@ -1082,7 +1086,7 @@ takze.pl##.penci-promo-link + img
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 anglia.today##.place-for-advertisement
-siedlcesiedzieje.pl##.placement
+rowerowa.pl,siedlcesiedzieje.pl##.placement
 portalmorski.pl##.pmb_banners
 dziennikwschodni.pl##.pngmonet
 noclegi.biz##.podzialreklama
@@ -1268,7 +1272,7 @@ skarzysko24.pl##.t3-spotlight-1
 tabletowo.pl##.tab-rek
 tabletowo.pl##.table-reklama_po_komentarzach
 my3miasto.pl##.takeover
-112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,dzielnicewroclawia.pl,dziennikmazowiecki.pl,dzierzgon-twojemiasto.pl,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,gniezno112.pl,goniec.net,gwo24.pl,i-basket.pl,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,infokatowice.pl,interameryka.com,inthecage.pl,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kle-news.pl,kuriergmin.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,mojebankowanie.pl,naszosie.pl,niebywalesuwalki.pl,noweinfo.pl,panoramakutna.pl,portalprzemyslowy.pl,poscigi.pl,probasket.pl,progressforpoland.com,prohelvetia.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sfora.pl,sochaczew24.info,sochaczewianin.pl,sporteuro.pl,sportgliwice.pl,streetwearhypeclub.com,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,tvzg.pl,twojezaglebie.pl,twojkurierolsztynski.pl,vrhunters.pl,wataha.no,wdolnymslasku.com,wirtualnyregion.pl,wlkp24.info##.td-a-rec
+112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,dzielnicewroclawia.pl,dziennikmazowiecki.pl,dzierzgon-twojemiasto.pl,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,gniezno112.pl,goniec.net,gwo24.pl,i-basket.pl,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,infokatowice.pl,interameryka.com,inthecage.pl,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kle-news.pl,kuriergmin.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,mojebankowanie.pl,naszosie.pl,niebywalesuwalki.pl,niewiarygodne.pl,noweinfo.pl,panoramakutna.pl,portalprzemyslowy.pl,poscigi.pl,probasket.pl,progressforpoland.com,prohelvetia.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sfora.pl,sochaczew24.info,sochaczewianin.pl,sporteuro.pl,sportgliwice.pl,streetwearhypeclub.com,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,tvzg.pl,twojezaglebie.pl,twojkurierolsztynski.pl,vrhunters.pl,wataha.no,wdolnymslasku.com,wirtualnyregion.pl,wlkp24.info##.td-a-rec
 tarnogorski.info##.td-a-rec > .td-adspot-title + a
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 gazetaregionalna.com##.td-a-rec > a > img
@@ -1445,7 +1449,7 @@ tylkopilka.pl##[class^="g-col b-2 a"]
 kle-news.pl,nysahot.pl##[class^="g-dyn a-"]
 elubaczow.com,korpovoice.pl,zachodniemazowsze.info##[class^="g-single a-"]
 nowinynyskie.com.pl##[class^="l-box l-box--"] img[width="1170"]
-gk24.pl##[class^="lista_content_stream_"]
+gk24.pl,nto.pl##[class^="lista_content_stream_"]
 4miasta.pl##[class^="miast-baner-"]
 mojanorwegia.pl##[class^="modMnNewTopBar-"]
 kanal10.pl##[class^="moduletable_banner"]
@@ -1454,6 +1458,7 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 bielsko.info,tychy.info##[data-ads-id]
 abczdrowie.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,luxlux.pl,medycyna24.pl,nerwica.com,open.fm,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
+nczas.com##[id*="970x250"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 rybnik.com.pl##[id^="_gramscien_"]
@@ -1666,6 +1671,7 @@ slasknet.com##a[href^="https://sprbt.pl/"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
 gram.pl##a[href^="https://track.webgains.com/"]
 stadiony.net##a[href^="https://twojtyp.pl/"]
+estadios24.pl##a[href^="https://typ.pl/"]
 gazetagazeta.com##a[href^="https://wmjewellery.wixsite.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
 radiogol.pl##a[href^="https://www.autoczescionline24.pl/"]
@@ -1744,11 +1750,13 @@ maratonypolskie.pl##a[target="pw"]
 maratonypolskie.pl##a[target="sz"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
 purepc.pl##a[title="KIOXIA"]
+sloworegionu.pl##a[title="canal+grafika"]
 fm.tuba.pl##app-advert
 fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl##article > .insert--top-offer
 nowiny24.pl##article.contentStream
 pomorska.pl##article[class^="lista_content_stream_"]
 radio7.pl##aside .a-single
+polski-tenis.pl##aside .plakat
 linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 jaw.pl##aside div a > img
 czadrow24.pl##aside img[width="900"]
@@ -1837,6 +1845,7 @@ legionisci.com##div[class^="adslot_"]
 realizator.pl##div[class^="advert"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
+elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 motoocena.pl##div[class^="banner-ad-"]
 lajfy.com##div[class^="banner-over-"]
@@ -2018,6 +2027,7 @@ wp.pl##li[data-adv]
 wp.pl##li[data-adv] > div[data-native-adv]
 tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
+thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 pzhkiperybnik.vgh.pl##marquee
 money.pl,pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
@@ -2053,40 +2063,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-estadios24.pl##a[href^="https://typ.pl/"]
-thinkapple.pl###post-banner-ad
-thinkapple.pl##li[id^="media_image-"]
-elblag.net##div[class^="baner"]
-niewiarygodne.pl##.td-a-rec
-onet.pl###branding-webmail-wrapper
-onlineradio.com.pl##.ai-placement
-plotek.pl##.ban001_wrapper
-gazeta.pl##[id^="adUnit-"]
-gazeta.pl##[id^="ads"]
-gazeta.pl##[class^="ban00"]
-gazeta.pl##[id^="banC"]
-forumbranzowe.com##.reklama_sidebar
-forumbranzowe.com###reklama_2
-e-golub.info.pl##.topLayer
-nowezyciepabianic.pl###header-right-section
-radiofm-online.com##.ad
-mistrzostwaswiata.pl###text-2
-sloworegionu.pl##.mfp-wrap
-sloworegionu.pl##.bannergroup iframe
-sloworegionu.pl##.mfp-bg
-dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
-dlaprodukcji.pl##.adv-wide
-scs.htw.pl##iframe[name="billboard-top"]
-gk24.pl##[class^="lista_content_stream_"]
-ekoszalin.pl##[class^="advert"]
-gawex.pl##a[href^="https://www.hotelquattro.pl/"]
-gawex.pl##a[href^="http://www.domyszczecinek.pl/"]
-gawex.pl##a[href^="https://go.toya.net.pl/"]
-polski-tenis.pl##aside .plakat
-swiatoze.pl##.header_marker
-nto.pl##[class^="lista_content_stream_"]
-sloworegionu.pl##a[title="canal+grafika"]
-rowerowa.pl##.placement
-cowwilanowie.pl##.a-re + a
-nczas.com##[id*="970x250"]
-euslugi.pl##.banners
