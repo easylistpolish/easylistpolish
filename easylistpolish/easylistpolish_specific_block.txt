@@ -1062,7 +1062,6 @@ euslugi.pl##.banners
 ||zwielkopolski24.pl/img/banery/
 ||zycie.pl^*^adverts-
 ||zycieczestochowy.pl^*_1110x138_
-||zyciezamoscia.pl^*^04/CHATA
 ||zyciezamoscia.pl^*^900x200.
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^kamienie_small
