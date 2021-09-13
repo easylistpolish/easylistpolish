@@ -940,7 +940,6 @@ euslugi.pl##.banners
 ||truckeronroad.com^*^08/simglob-
 ||truckeronroad.com^*^autoport-
 ||truckeronroad.com^*^marketing-studio-
-||trybunaczestochowska.pl^*^2018/05/image-10.
 ||trybunaczestochowska.pl^*^bajor.jpg
 ||trybunaczestochowska.pl^*^brzeczek.
 ||trybunaczestochowska.pl^*^maderpol.
