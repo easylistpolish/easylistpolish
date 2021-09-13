@@ -921,7 +921,6 @@ _reklamy_$domain=chojna24.pl
 ||trybunaczestochowska.pl^*^maderpol.
 ||trybunaczestochowska.pl^*^pasze.
 ||trybunaczestochowska.pl^*^popup-maker^$script
-||trybunaczestochowska.pl^*^PROJEKTY-DOM%C3%93W-
 ||trybunaczestochowska.pl^*^toyota.jpg
 ||trzemeszno24.info^*^950x67.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
