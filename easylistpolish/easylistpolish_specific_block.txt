@@ -284,8 +284,6 @@ euslugi.pl##.banners
 ||botland.com.pl^*^banery_$script
 ||bronradom.pl^*_482131.
 ||bronradom.pl^*_600522.
-||bronradom.pl^*_769133.
-||bronradom.pl^*_883257.
 ||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
