@@ -578,7 +578,6 @@ euslugi.pl##.banners
 ||lokalna.info^*^kssse.
 ||lokalna24.pl^*^debowe_wzgorze.
 ||lokalna24.pl^*^wasbruk_
-||lubanski.eu^*^Plakat_2015e.
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
 ||lukowicatomy.pl^*^napedy4x4_
