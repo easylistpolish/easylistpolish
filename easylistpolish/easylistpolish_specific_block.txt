@@ -406,7 +406,6 @@ _reklamy_$domain=chojna24.pl
 ||garsoniera.com.pl^*^r_logo_
 ||gazeta-mlawska.pl^*^baner.
 ||gazeta-mlawska.pl^*^GA_GTO_
-||gazeta-mosina.pl^*-mosina2.
 ||gazeta-mosina.pl^*^Skl-857.
 ||gazeta-olawa.pl^*_Probus_portal300x300-
 ||gazeta.pl/pub^
