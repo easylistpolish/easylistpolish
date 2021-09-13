@@ -1026,7 +1026,6 @@ euslugi.pl##.banners
 ||wysokomazowiecki24.pl^*^banery2018^
 ||wysokomazowiecki24.pl^*^bazarek.
 ||wysokomazowiecki24.pl^*^pieer1.
-||wysokomazowiecki24.pl^*^pier202004.
 ||wysokomazowiecki24.pl^*^sikorki2020.
 ||wysokomazowiecki24.pl^*^zakopiec2020.
 ||xlomza.pl^*^fab.
