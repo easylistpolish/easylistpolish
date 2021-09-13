@@ -930,7 +930,6 @@ euslugi.pl##.banners
 ||toyotaklub.org.pl/iparts.
 ||transg.pl^*^meblohaus_
 ||trawka.org^*^300X150.
-||trawka.org^*^dutchpassion2.
 ||trawka.org^*^ganjafarmer.
 ||trawka.org^*^grasspower.
 ||trawka.org^*^growbox.
