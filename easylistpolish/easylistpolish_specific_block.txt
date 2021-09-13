@@ -771,7 +771,6 @@ euslugi.pl##.banners
 ||radioq.fm^*^jquery.gafancybox.$script
 ||radiosudety24.pl^*^sad^$image
 ||radiowrzesnia.pl^*^pum^$script
-||radomnews.pl^*^administrator_magnolia17.
 ||radomnews.pl^*^banerekPRU_320.
 ||radomnews.pl^*^czas_na_kawe.
 ||radomnews.pl^*^fanfar_
