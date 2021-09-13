@@ -831,7 +831,6 @@ _reklamy_$domain=chojna24.pl
 ||sportsiedlce.pl^*^01/tasta.
 ||sportsiedlce.pl^*^03/BUDOMATEX.
 ||sportsiedlce.pl^*^08/apartament.
-||sportsiedlce.pl^*^84869_
 ||sportsiedlce.pl^*^Eden-
 ||sportsiedlce.pl^*^garwacki.
 ||sportsiedlce.pl^*^Mal-Pol-
