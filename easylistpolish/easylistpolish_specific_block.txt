@@ -923,7 +923,6 @@ euslugi.pl##.banners
 ||tkn24.pl^*^Nexera-
 ||tkn24.pl^*^Pomagamy-i-
 ||tkn24.pl^*^Sypytkowski-sport-gif.
-||tkn24.pl^*^upcomp-gif.
 ||tkn24.pl^*_125x125.
 ||tko.pl^*^banerrr.
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
