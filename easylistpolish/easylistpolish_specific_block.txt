@@ -891,7 +891,6 @@ _reklamy_$domain=chojna24.pl
 ||tenis.net.pl^*^mtc.
 ||tipnet.pl^$image,domain=slowopodlasia.pl
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
-||tkn24.pl^*^2015/08/OLIMPIA.
 ||tkn24.pl^*^Ceramic-
 ||tkn24.pl^*^Ceramic.
 ||tkn24.pl^*^Dachbud.gif
