@@ -2095,3 +2095,4 @@ sloworegionu.pl##a[title="canal+grafika"]
 rowerowa.pl##.placement
 cowwilanowie.pl##.a-re + a
 nczas.com##[id*="970x250"]
+euslugi.pl##.banners
