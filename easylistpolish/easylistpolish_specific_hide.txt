@@ -2058,3 +2058,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 whatsnext.pl##.wnbad
 whatsnext.pl##.retina-image
 kto-dzwonil.com##a[href^="https://www.xio.pl/"]
+hellozdrowie.pl##.adf-cont
