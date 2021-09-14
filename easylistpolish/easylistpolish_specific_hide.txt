@@ -1566,7 +1566,7 @@ pannamloda.com##a[href="reklama.html"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
 dziennikwschodni.pl##a[href*="/artykuly-sponsorowane/"]
-monitorlocalnews.com##a[href^="/banners/click"]
+monitorlocalnews.com##a[href*="/banners/click"]
 podobnestrony.pl##a[href^="/external/2"] > picture
 magazynpolonia.com##a[href^="/klikacz/"]
 oknonet.pl##a[href^="/openurl.php?bid="]
