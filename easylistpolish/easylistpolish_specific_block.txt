@@ -441,6 +441,7 @@ _reklamy_$domain=chojna24.pl
 ||gorydlaciebie.pl^*^booking-
 ||gorzow24.pl^*^ims^
 ||gostynin.info^*^koparka_1x1-
+||gostynin.info^*^new_project_30.
 ||gostynin.info^*^stacja.
 ||gpi2.website.pl^$domain=glogow-info.pl|glogow.info.pl
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
@@ -1038,4 +1039,3 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||gostynin.info^*^new_project_30.

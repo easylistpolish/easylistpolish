@@ -507,6 +507,7 @@ karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
+hellozdrowie.pl##.adf-cont
 gram.pl##.adocean
 pomorska.pl##.adoceanGora1Wrapper
 3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,forum.bitcoin.pl,globenergia.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
@@ -1167,6 +1168,7 @@ konindzieciom.pl##.rektop
 sekrety-zdrowia.org##.rekwrap
 sekrety-zdrowia.org##.rekwraph
 rmf24.pl##.relatedListAds
+whatsnext.pl##.retina-image
 miejscawewroclawiu.pl##.rev_slider_wrapper
 4programmers.net##.revive > a > img
 gazetagazeta.com##.right > a > img
@@ -1395,6 +1397,7 @@ radioostrowiec.pl##.widgettitle-reklama
 radioostrowiec.pl##.widgettitle-reklama + a
 radomsport.pl##.wiersz_news a[target="_blank"] > img
 wkielcach.info##.wkiel-reklama_przyklad
+whatsnext.pl##.wnbad
 studialicencjackie.info##.wo_rek font[size="5"]
 naszsrem.pl##.wp-caption a[target="_blank"]
 zupelnieinnaopowiesc.com##.wpa
@@ -1663,6 +1666,7 @@ starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 slasknet.com##a[href^="https://sprbt.pl/"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
+czytajsklad.com##a[href^="https://track.adtraction."]
 gram.pl##a[href^="https://track.webgains.com/"]
 stadiony.net##a[href^="https://twojtyp.pl/"]
 estadios24.pl,kanonierzy.com##a[href^="https://typ.pl/"]
@@ -1696,6 +1700,7 @@ ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
 kanonierzy.com,swidnik.pl,widzewtomy.net##a[href^="https://www.ucando.pl"]
 elubin.pl##a[href^="https://www.vichy.pl/"]
 wykop.pl##a[href^="https://www.wykop.pl/adverts"]
+kto-dzwonil.com##a[href^="https://www.xio.pl/"]
 genapps.pl##a[href^="https://www.zameczkowo.pl/"]
 bankier.pl##a[href^="https://www3.smartadserver.com/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
@@ -2055,8 +2060,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-whatsnext.pl##.wnbad
-whatsnext.pl##.retina-image
-kto-dzwonil.com##a[href^="https://www.xio.pl/"]
-hellozdrowie.pl##.adf-cont
-czytajsklad.com##a[href^="https://track.adtraction."]
