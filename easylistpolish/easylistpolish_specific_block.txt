@@ -1038,3 +1038,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||gostynin.info^*^new_project_30.
