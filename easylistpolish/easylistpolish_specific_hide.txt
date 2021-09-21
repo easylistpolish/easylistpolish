@@ -1308,7 +1308,6 @@ gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 elektroda.pl##.the-list a[data-event-value="JLCPCB"]
-elektroda.pl##.the-list a[href^="https://jlcpcb.com/"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 gazetaslupecka.pl##.theiaStickySidebar .simple-image
 sportdziennik.com##.theiaStickySidebar > .sport-widget
