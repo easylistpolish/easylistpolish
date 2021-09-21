@@ -1148,7 +1148,6 @@ eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.rekl
 infobus.pl##.reklamaR2Napis
 infobus.pl##.reklamaR2Napis + div
 moje-gniezno.pl##.reklamaTEKST
-moje-gniezno.pl##.reklamaTEKST + *
 dkl24.pl##.reklama_700
 portalprzemyski.pl##.reklama_boczna
 rzeszow-news.pl##.reklama_gora
