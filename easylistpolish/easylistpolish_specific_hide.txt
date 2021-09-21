@@ -1206,7 +1206,7 @@ mragowo24.info##.show-adv
 moviesroom.pl##.sidebar .basic-slider
 bobrzanie.pl##.sidebar .img-300
 purepc.pl##.sidebar a[href^="/rediz.php?"]
-terazkrosno.pl##.sidebar a[target="_blank" ][rel="nofollow"]
+terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
 radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
