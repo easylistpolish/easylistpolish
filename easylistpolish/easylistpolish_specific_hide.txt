@@ -2066,3 +2066,4 @@ pless.pl##.blok-r
 przeglad-sejnenski.pl###kolRight .banerEl
 przeglad-sejnenski.pl###baner
 przeglad-sejnenski.pl###kolLeft .banerEl
+demaskator24.pl##.componentsAdsContent
