@@ -2062,3 +2062,4 @@ dts24.pl##a[href^="https://abcekodom.pl/"]
 radiopik.pl##.rma
 erp-view.pl##.jpanelHandle
 erp-view.pl##.banneritem
+pless.pl##.blok-r
