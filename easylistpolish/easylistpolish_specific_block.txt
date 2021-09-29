@@ -1041,3 +1041,4 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^niezalezna.
 baner930x$domain=sadeczanin.info
 -banner.$domain=nowepomorze.pl
+^baner-$domain=przeglad-sejnenski.pl

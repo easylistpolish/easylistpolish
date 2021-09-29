@@ -2063,3 +2063,6 @@ radiopik.pl##.rma
 erp-view.pl##.jpanelHandle
 erp-view.pl##.banneritem
 pless.pl##.blok-r
+przeglad-sejnenski.pl###kolRight .banerEl
+przeglad-sejnenski.pl###baner
+przeglad-sejnenski.pl###kolLeft .banerEl
