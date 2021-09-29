@@ -2060,3 +2060,5 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 dts24.pl##a[href^="https://abcekodom.pl/"]
 radiopik.pl##.rma
+erp-view.pl##.jpanelHandle
+erp-view.pl##.banneritem
