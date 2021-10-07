@@ -1042,3 +1042,4 @@ _reklamy_$domain=chojna24.pl
 baner930x$domain=sadeczanin.info
 -banner.$domain=nowepomorze.pl
 ^baner-$domain=przeglad-sejnenski.pl
+^inline__1_$domain=ibialoleka.pl
