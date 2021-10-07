@@ -2068,3 +2068,4 @@ przeglad-sejnenski.pl###baner
 przeglad-sejnenski.pl###kolLeft .banerEl
 demaskator24.pl##.componentsAdsContent
 gazeta.pl##.DFP-premiumBoardReservedPlace
+ciekawostkihistoryczne.pl##.placeholderAds
