@@ -2058,4 +2058,17 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+dts24.pl##a[href^="https://abcekodom.pl/"]
+radiopik.pl##.rma
+erp-view.pl##.jpanelHandle
+erp-view.pl##.banneritem
+pless.pl##.blok-r
+przeglad-sejnenski.pl###kolRight .banerEl
+przeglad-sejnenski.pl###baner
+przeglad-sejnenski.pl###kolLeft .banerEl
+demaskator24.pl##.componentsAdsContent
+gazeta.pl##.DFP-premiumBoardReservedPlace
+ciekawostkihistoryczne.pl##.placeholderAds
+ostrowmaz.com###top_advertisement
+goral.info.pl##[class^="l-box l-box--"] a[target]
 spozywczetechnologie.pl##.bannergroup
