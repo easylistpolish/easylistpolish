@@ -2072,3 +2072,4 @@ ciekawostkihistoryczne.pl##.placeholderAds
 ostrowmaz.com###top_advertisement
 goral.info.pl##[class^="l-box l-box--"] a[target]
 spozywczetechnologie.pl##.bannergroup
+alarmy.org##.baner750
