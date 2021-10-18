@@ -2070,3 +2070,4 @@ demaskator24.pl##.componentsAdsContent
 gazeta.pl##.DFP-premiumBoardReservedPlace
 ciekawostkihistoryczne.pl##.placeholderAds
 ostrowmaz.com###top_advertisement
+goral.info.pl##[class^="l-box l-box--"] a[target]
