@@ -2073,3 +2073,4 @@ ostrowmaz.com###top_advertisement
 goral.info.pl##[class^="l-box l-box--"] a[target]
 spozywczetechnologie.pl##.bannergroup
 alarmy.org##.baner750
+o2.pl##div[class$="container"]:not([class*="player"],.npp-container)
