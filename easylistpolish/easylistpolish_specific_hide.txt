@@ -953,7 +953,6 @@ lubiehrubie.pl##.jcarousel-container
 hokej.net##.jcarousel-wrapper.second
 londynek.net##.jd-oaz-d
 londynek.net##.jd-sponsored-link
-chwaszczyno.pl##.jet-images-layout[data-settings*="justifyHeight"]
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
