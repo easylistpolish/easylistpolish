@@ -929,7 +929,6 @@ faktura.pl##.hp__pricing-table
 rdn.pl##.hred_cont_re
 rdn.pl##.hred_right_re
 rdn.pl##.hred_sport_re
-money.pl##.iQjREM
 korso.pl,korsokolbuszowskie.pl##.iad
 klubowa.pl##.id217
 klubowa.pl##.id52
