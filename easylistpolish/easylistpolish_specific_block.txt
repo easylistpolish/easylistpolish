@@ -1026,3 +1026,4 @@ baner930x$domain=sadeczanin.info
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||appboxes.co/wp-content/uploads/nagam/$domain=nagieamatorki.net
