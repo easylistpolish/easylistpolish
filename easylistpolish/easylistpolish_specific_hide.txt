@@ -1113,7 +1113,6 @@ kutno.net.pl##.promo-section
 portaltatrzanski.pl##.promoadv
 lol24.com,zumi.pl##.promotion
 przegladpiaseczynski.pl##.przeglad-reklama-box
-filmikiporno.tv##.publis-bottom
 gazetalubliniecka.pl,kryptoholik.pl,ool24.pl##.pum-overlay
 kz1.pl##.qa-widgets-main-top
 ekoexpo.pl,gorzow24.pl##.r
