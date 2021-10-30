@@ -2075,3 +2075,4 @@ spozywczetechnologie.pl##.bannergroup
 alarmy.org##.baner750
 o2.pl##div[class$="container"]:not([class*="player"],.npp-container)
 24kurier.pl##.box_reklama
+4programmers.net##.container-fluid > a > img[width="728"][height="91"]
