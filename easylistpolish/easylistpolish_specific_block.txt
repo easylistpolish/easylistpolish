@@ -618,7 +618,6 @@ baner930x$domain=sadeczanin.info
 ||my3miasto.pl^*^2016/03/unnamed.
 ||mypolacy.de^*^comarch_
 ||mypolacy.de^*^ubezpieczenia_1.
-||nadmorski24.pl^*3o2V9.
 ||nakolei.pl^*^logo-750_100.
 ||nasygnale.com.pl^*^korona.
 ||nasygnale.com.pl^*^kzpt1.
