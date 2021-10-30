@@ -568,7 +568,7 @@ baner930x$domain=sadeczanin.info
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.css?
 ||malagacf.pl^*^sts-laliga3.
 ||mamaklub.pl^*^dobre-powody.
-||market.bia24.pl^
+||market.bia24.pl/
 ||masztu.pl^$image,domain=czest.info
 ||masztu.pl^*^udzialowiec.
 ||maszwolne.pl^*^pages^
