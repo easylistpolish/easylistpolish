@@ -707,7 +707,6 @@ _reklamy_$domain=chojna24.pl
 ||porady.mobi^*^domowelaboratorium.
 ||porady.mobi^*^domowetesty.
 ||portal.plocman.pl^*^300x600.
-||portalkosmiczny.pl^*^Siec_Badawcza_Lukasiewicz-
 ||portalmorski.pl^*^pmb^
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
