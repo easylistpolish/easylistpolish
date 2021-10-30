@@ -468,7 +468,6 @@ baner930x$domain=sadeczanin.info
 ||iknurow.pl^*^samociuk-
 ||img.staticbg.com^$domain=rzeszowska24.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
-||imgur.com/J1GuRdM.$domain=myfootballmanager.pl
 ||imgur.com/w8Wno9V.$domain=myfootballmanager.pl
 ||info.elblag.pl^*^tla/*.jpg?v=1
 ||info.stargard.pl^*^tlo_info.
