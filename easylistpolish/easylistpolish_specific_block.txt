@@ -955,7 +955,7 @@ _reklamy_$domain=chojna24.pl
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
 ||visitslovenia.pl^*_banner_GoOpti_
-||w203.pl/autoczescionline24_120x300_
+||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
 ||wagaciezka.com/banery/upload^
 ||walbrzych24.com^*^Bannery_HTML/Hotel^
