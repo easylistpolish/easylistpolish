@@ -228,7 +228,6 @@ baner930x$domain=sadeczanin.info
 ||androidpolska.pl/skapiec-opony.
 ||angielskieespresso.pl^*^253x300.
 ||app.travellead.pl$domain=belekaj.eu
-||appboxes.co/wp-content/uploads/nagam/$domain=nagieamatorki.net
 ||archeton.pl^*^ciekawostkinarynku^
 ||arpass.nazwa.pl^*^fdbrs.
 ||atthost.pl/banery/$domain=warownie.pl
