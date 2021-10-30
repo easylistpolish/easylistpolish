@@ -839,7 +839,6 @@ _reklamy_$domain=chojna24.pl
 ||starosadeckie.info^*rolbud-
 ||starosadeckie.info^*rolbud.
 ||starosadeckie.info^*szewczyk-
-||starysacz.info/web/files/FACEBOOK(1).png
 ||starysacz.info^*^r3333333.
 ||static2.elektroda.pl^*^menuBarAds^
 ||sterta.pl^$domain=linkologia.pl
