@@ -1379,7 +1379,6 @@ dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
 superportal24.pl##.widget_article
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 wirtualnyregion.pl##.widget_cyclone-slider-widget
-lubanski.eu##.widget_enqtran_images_banner_widget a:not([href*="luban"])
 kurier-nakielski.pl,nowawrzesnia.pl##.widget_media_image
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,maszynydlameblarstwa.pl,meblarstwo.eu,narzedziapolska.pl,obrabiarkidodrewna.eu,tapicerstwo.co##.widget_media_image > h2 + a[rel]
 wcj24.pl##.widget_metaslider_widget
