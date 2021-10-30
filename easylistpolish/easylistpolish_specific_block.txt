@@ -628,7 +628,6 @@ _reklamy_$domain=chojna24.pl
 ||naszekielce.com^*_250x500.
 ||naszekielce.com^*_900x200.
 ||naszsrem.pl^*^psb_mrowka_
-||naszwodzislaw.com^*^1441366179nautica_knefel_prawy-
 ||naszwodzislaw.com^*^1464700184pwsz_knefel_prawy-
 ||networkmagazyn.pl/files^
 ||nevicom.pl/wyswietl_baner.$script,third-party
