@@ -453,7 +453,6 @@ facetemjestem.pl##.CampaignType--popup
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
-lwypolnocy.pl##.DnnModule-922
 mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
 lwowecki.info##.TwoInRowCentered
