@@ -296,7 +296,6 @@ _reklamy_$domain=chojna24.pl
 ||chemiabudowlana.info/banery^$image
 ||chemiaibiznes.com.pl^*^190x190_nigellin.
 ||chlodnictwoiklimatyzacja.pl^*_reklama9.
-||ciechanowinaczej.pl^*-ci1150x250
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
