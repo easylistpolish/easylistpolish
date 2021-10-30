@@ -1175,7 +1175,7 @@ woor.pl##.right_box
 wiadomoscidebickie.pl##.rl-image-widget
 ws-24.pl##.rl-image-widget-link
 radiopik.pl##.rma a[href^="http://www.czesciauto24.pl"]
-radiopik.pl##.rma a[href="https://www.autodoc.pl/"]
+radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 radiopik.pl##.rma a[href^="http://dom.perfekt-brodnica.pl"]
 tromil.pl##.rotator-ceneo
 chcemybycrodzicami.pl##.row > .the-a
