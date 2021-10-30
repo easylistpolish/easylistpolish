@@ -18,7 +18,7 @@
 -banery-$domain=automotivesuppliers.pl
 -banery^$domain=przeclaw24.pl
 -banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|erp-view.pl|forbot.pl|iknurow.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|pokonajlysienie.com|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
--banner.$domain=gieldaklasykow.pl|legitymizm.org|naszosie.pl|postawnaswoim.pl|pozyczkaportal.pl|przedsiebiorczepodlasie.pl|tvzg.pl|wwl24.pl
+-banner.$domain=gieldaklasykow.pl|legitymizm.org|naszosie.pl|nowepomorze.pl|postawnaswoim.pl|pozyczkaportal.pl|przedsiebiorczepodlasie.pl|tvzg.pl|wwl24.pl
 -banner_$domain=kaszuby24.pl|oirplodz.pl
 -bannery-$domain=bogaty.men|zarobmy.se
 -bener-$domain=meblosfera.pl|tapicerstwo.co|tkaninyobiciowe.eu
@@ -66,7 +66,7 @@
 ^ban^$image,domain=kopaczka.pl
 ^banbron.$domain=oczamiostrego.pl
 ^baner%$domain=magazynregionalny.pl|podlasie24.pl|poligonowewiesci.pl|wdrawskupomorskim.pl
-^baner-$domain=allebiznes.pl|automotivesuppliers.pl|bstok.pl|centrumdruku3d.pl|cksport.pl|cowkrakowie.pl|cowwilanowie.pl|crypto-trader.pl|echokamienia.pl|genetyczne.pl|gloskoninski.pl|gorydlaciebie.pl|hi-fi.com.pl|iloveslubice.pl|infokatowice.pl|infokonin.pl|infomalopolska.pl|jazdaprawna.pl|kk24.pl|limanowianin.in|linia.com.pl|luzyce.info|magazynvip.pl|materialybudowlane.info.pl|mazopolska.pl|miastokobiet.pl|mysnet.pl|naszosie.pl|naszsrem.pl|niezaleznemediapodlasia.pl|ostrodanews.pl|oswiecim112.pl|oto-samochody.pl|polskacanada.com|portalkujawski.pl|portalwolow.pl|powrotroberta.pl|przewodnicywedkarscy.pl|regionalna.pl|rynekinwestycji.pl|sochaczewianin.pl|starosadeckie.info|szczecinek.com|tarnobrzeskie.eu|tv28.pl|tvbraniewo24.pl|twojaslupca.pl|tygodnik-rolniczy.pl|tygodnikkrag.pl|tygodnikpiski.pl|tylkotorun.pl|tyna.info.pl|wiadomosci.com|wiecbork112.pl|wirtualnelegionowo.pl|wirtualnemazowsze24.pl|wirtualnynowydwor.pl|wolanie.info|zw.pl|zwrotnikraka.pl|zyciezamoscia.pl
+^baner-$domain=allebiznes.pl|automotivesuppliers.pl|bstok.pl|centrumdruku3d.pl|cksport.pl|cowkrakowie.pl|cowwilanowie.pl|crypto-trader.pl|echokamienia.pl|genetyczne.pl|gloskoninski.pl|gorydlaciebie.pl|hi-fi.com.pl|iloveslubice.pl|infokatowice.pl|infokonin.pl|infomalopolska.pl|jazdaprawna.pl|kk24.pl|limanowianin.in|linia.com.pl|luzyce.info|magazynvip.pl|materialybudowlane.info.pl|mazopolska.pl|miastokobiet.pl|mysnet.pl|naszosie.pl|naszsrem.pl|niezaleznemediapodlasia.pl|ostrodanews.pl|oswiecim112.pl|oto-samochody.pl|polskacanada.com|portalkujawski.pl|portalwolow.pl|powrotroberta.pl|przeglad-sejnenski.pl|przewodnicywedkarscy.pl|regionalna.pl|rynekinwestycji.pl|sochaczewianin.pl|starosadeckie.info|szczecinek.com|tarnobrzeskie.eu|tv28.pl|tvbraniewo24.pl|twojaslupca.pl|tygodnik-rolniczy.pl|tygodnikkrag.pl|tygodnikpiski.pl|tylkotorun.pl|tyna.info.pl|wiadomosci.com|wiecbork112.pl|wirtualnelegionowo.pl|wirtualnemazowsze24.pl|wirtualnynowydwor.pl|wolanie.info|zw.pl|zwrotnikraka.pl|zyciezamoscia.pl
 ^baner.$domain=magazynfakty.pl|ostrodanews.pl|przemyslkosmetyczny.pl|sokolka.tv
 ^baner2.$domain=edebno.pl
 ^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|enowiny.pl|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
@@ -125,7 +125,7 @@
 ^homepage-banners^$domain=otomoto.pl
 ^img_bannery^$domain=piszanin.pl
 ^inline__$domain=e-kg.pl|sejny.net
-^inline__1_$domain=24jgora.pl|24wroclaw.pl|ciechanowinaczej.pl|egarwolin.pl|eprzasnysz.pl|gpr24.pl|ibielany.pl|inowroclaw.info.pl|iochota.pl|iotwock.info|nowagazeta.pl|nwloclawek.pl|ototorun.pl|sucha24.pl|tudeblin.pl|turyki.pl|zambrow.org|zycie.pila.pl|zyciekalisza.pl
+^inline__1_$domain=24jgora.pl|24wroclaw.pl|ciechanowinaczej.pl|egarwolin.pl|eprzasnysz.pl|gpr24.pl|ibialoleka.pl|ibielany.pl|inowroclaw.info.pl|iochota.pl|iotwock.info|nowagazeta.pl|nwloclawek.pl|ototorun.pl|sucha24.pl|tudeblin.pl|turyki.pl|zambrow.org|zycie.pila.pl|zyciekalisza.pl
 ^inline_images/114^$domain=mylomza.pl
 ^inne^$domain=gminadobra24.pl
 ^inne^$image,domain=bezrzecze24.pl|gumience24.pl|mierzyn24.pl
@@ -202,6 +202,7 @@ _reklama_$domain=wdrawskupomorskim.pl
 _reklamy2^$domain=epoznan.pl
 _reklamy^$domain=dlagimnazjalisty.info|dlamaturzysty.info|dlaprzedszkolaka.info|dlaucznia.info|edubaza.pl|infobus.pl|infotram.pl|kampusy.info|kierunki-studiow.info|kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kwalifikacjezawodowe.info|organizacjestudenckie.pl|pracaikariera.pl|rektorzy.pl|studenckamarka.pl|studenckamoda.pl|studentka.pl|studentmapa.pl|studentnews.pl|studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wiadomoscisasiedzkie.pl
 _reklamy_$domain=chojna24.pl
+baner930x$domain=sadeczanin.info
 ||24gliwice.pl^*-taxiraj.
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
@@ -1025,7 +1026,3 @@ _reklamy_$domain=chojna24.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-baner930x$domain=sadeczanin.info
--banner.$domain=nowepomorze.pl
-^baner-$domain=przeglad-sejnenski.pl
-^inline__1_$domain=ibialoleka.pl
