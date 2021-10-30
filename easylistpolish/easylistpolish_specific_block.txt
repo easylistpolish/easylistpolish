@@ -48,7 +48,6 @@
 ^750^$image,domain=meczenazywo.tv|meczlive.pl
 ^750x200.$domain=tygodnik-rolniczy.pl
 ^750x200_$domain=geekweek.pl|polsatsport.pl
-^787fe504fcc37d9fd342c3584614fb9d_$domain=zd24.pl
 ^a-posters^$domain=minskmaz.com
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad2^$domain=bankier.pl
