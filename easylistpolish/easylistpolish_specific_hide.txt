@@ -1153,7 +1153,7 @@ portalprzemyski.pl##.reklama_boczna
 rzeszow-news.pl##.reklama_gora
 wirtualnyzgierz.pl##.reklama_head
 zakazany-humor.pl##.reklama_nad_trescia
-mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl/"])
+mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl"])
 forumbranzowe.com##.reklama_sidebar
 okraglemiasto.pl##.reklama_top
 skawina24.com##.reklamaoff
