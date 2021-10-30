@@ -801,7 +801,6 @@ baner930x$domain=sadeczanin.info
 ||slowopodlasia.pl^*^polnoc_nieruchomosci.
 ||sloworegionu.pl^*^internet_2_
 ||sochaczew24.info^*^erawa-
-||sochaczewianin.pl^*^fast-serice-na-
 ||softonet.pl^*^670pobierz.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
