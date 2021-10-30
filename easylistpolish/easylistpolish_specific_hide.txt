@@ -596,7 +596,6 @@ parenting.pl##.article__textbox
 globenergia.pl##.article_headline_ad
 posbud.com.pl##.as_marquee0
 podlaskie.tv##.askdom-wrapper
-bejsment.com##.attachment-300x100
 glospedagogiczny.pl##.auto-pr-block > a
 elektroda.pl##.auto-promotion
 tutsplus.com##.avert
