@@ -1269,7 +1269,6 @@ meska-kuchnia.pl##.sw-inner a[href="https://dietetykwmiescie.pl/"]
 karpacz.net##.swiper-container-fade
 biznesregion.pl,super-nowa.pl##.syl-baner-place
 2x45.info,serwislokalny.com##.system_banner
-skarzysko24.pl##.t3-spotlight-1
 tabletowo.pl##.tab-rek
 tabletowo.pl##.table-reklama_po_komentarzach
 my3miasto.pl##.takeover
