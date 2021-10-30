@@ -993,7 +993,6 @@ beskidnews.pl##.main-slider
 ogrodinfo.pl,sad24.pl##.main-top-banner
 gazetanowodworska.com##.mainSlider
 laboratoria.net##.mainbanner
-gawex.pl##.margin-bottom-50 > .row > .col-md-12
 rodzinazdrowia.pl##.marketingElement
 rynekinstalacyjny.pl##.marta
 sklepbazant.pl,swiatmodeli.eu##.mask
