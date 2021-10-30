@@ -831,7 +831,6 @@ _reklamy_$domain=chojna24.pl
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
-||staleo.pl^*^587c74fe36f77_
 ||staleo.pl^*^58ad3a2c4bf73_
 ||staleo.pl^*^5c3701bfc8ed4_
 ||stalowemiasto.pl/_a^
