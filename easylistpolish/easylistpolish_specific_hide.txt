@@ -1049,7 +1049,6 @@ mojaniderlandia.pl##.newArticleA
 mojanorwegia.pl##.newLayerOuter
 naszraciborz.pl,naszwodzislaw.com##.news_box_google
 naszraciborz.pl,naszwodzislaw.com##.news_box_reklama
-echogorzowa.pl##.news_cont + [id^="ims_"] .ba a[href^="http"]
 fakty.lca.pl##.news_reklama
 gazetaostrowska.pl##.nivoSlider
 networkmagazyn.pl##.nmSectionBanner
