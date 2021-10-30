@@ -116,7 +116,6 @@
 ^commerto.$domain=oczamiostrego.pl
 ^Company-Ads^$domain=informatorpolonijny.se
 ^cuprum-$domain=retailnet.pl
-^d77b170a03da3f5858bf6cfa299f37fa.$domain=otozawiercie.pl
 ^dekoran-fototapety-$image,domain=ckinfo.pl
 ^dronmedia.$domain=7dni.pila.pl
 ^edytom.$domain=legitymizm.org
