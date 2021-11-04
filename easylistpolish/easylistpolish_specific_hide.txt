@@ -2082,3 +2082,4 @@ piast.gliwice.pl##.baner-container
 police24.pl##.topLayer
 slu24.pl##.topLayer
 infoskierniewice.pl##.topLayer
+terazstrzelno.pl##.topLayer
