@@ -2089,3 +2089,4 @@ zlomzy.pl##.topLayer
 wrzesnia.info.pl##.topLayer
 e-wabrzezno.info.pl##.topLayer
 dziennikpolicki.pl##.bannergroup
+ipolice.pl##.ad-slider-right
