@@ -2080,3 +2080,4 @@ piast.gliwice.pl###text-26
 piast.gliwice.pl###text-22
 piast.gliwice.pl##.baner-container
 police24.pl##.topLayer
+slu24.pl##.topLayer
