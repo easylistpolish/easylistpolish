@@ -2076,3 +2076,6 @@ alarmy.org##.baner750
 o2.pl##div[class$="container"]:not([class*="player"],.npp-container)
 pilkarskiswiat.com###primary a[href="/go/betcris"]
 pilkarskiswiat.com##.header-layout-1 + center
+piast.gliwice.pl###text-26
+piast.gliwice.pl###text-22
+piast.gliwice.pl##.baner-container
