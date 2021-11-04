@@ -2090,3 +2090,5 @@ wrzesnia.info.pl##.topLayer
 e-wabrzezno.info.pl##.topLayer
 dziennikpolicki.pl##.bannergroup
 ipolice.pl##.ad-slider-right
+tvpolice.com.pl##[class*="advert-"]
+tvpolice.com.pl##.rbox
