@@ -2085,3 +2085,4 @@ infoskierniewice.pl##.topLayer
 terazstrzelno.pl##.topLayer
 radzyninfo.pl##.topLayer
 glospowiatusredzkiego.pl##.topLayer
+zlomzy.pl##.topLayer
