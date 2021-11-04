@@ -2092,3 +2092,6 @@ dziennikpolicki.pl##.bannergroup
 ipolice.pl##.ad-slider-right
 tvpolice.com.pl##[class*="advert-"]
 tvpolice.com.pl##.rbox
+wiescipolickie.pl##.wds_slider_cont
+wiescipolickie.pl###custom_html-22
+wiescipolickie.pl###custom_html-2
