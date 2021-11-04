@@ -2095,3 +2095,7 @@ tvpolice.com.pl##.rbox
 wiescipolickie.pl##.wds_slider_cont
 wiescipolickie.pl###custom_html-22
 wiescipolickie.pl###custom_html-2
+eplastics.pl##.sideNas
+eplastics.pl###topNas
+eplastics.pl##[id^="toppartner"]
+eplastics.pl##[class^="reklama"]
