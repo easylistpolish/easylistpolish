@@ -2084,3 +2084,4 @@ slu24.pl##.topLayer
 infoskierniewice.pl##.topLayer
 terazstrzelno.pl##.topLayer
 radzyninfo.pl##.topLayer
+glospowiatusredzkiego.pl##.topLayer
