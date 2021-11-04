@@ -2087,3 +2087,4 @@ radzyninfo.pl##.topLayer
 glospowiatusredzkiego.pl##.topLayer
 zlomzy.pl##.topLayer
 wrzesnia.info.pl##.topLayer
+e-wabrzezno.info.pl##.topLayer
