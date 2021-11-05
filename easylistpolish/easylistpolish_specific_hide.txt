@@ -2101,3 +2101,5 @@ eplastics.pl##[id^="toppartner"]
 eplastics.pl##[class^="reklama"]
 chemical.pl###topNas
 chemical.pl##.sideNas
+rubber.pl##.sideNas
+rubber.pl###topNas
