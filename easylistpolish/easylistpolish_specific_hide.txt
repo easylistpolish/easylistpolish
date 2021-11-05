@@ -2107,3 +2107,5 @@ studentnews.pl##.bm
 wydawca.com.pl###sow-slider-20
 wydawca.com.pl###sow-slider-22
 bolec.info##.baner-max
+gieldykryptowalut.pl###text-55
+gieldykryptowalut.pl###text-49
