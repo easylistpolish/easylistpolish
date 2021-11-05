@@ -1024,3 +1024,4 @@ baner930x$domain=sadeczanin.info
 ^baner-$domain=przeglad-sejnenski.pl
 ^inline__1_$domain=ibialoleka.pl
 ^dodatki_po_prawej^$domain=kwalifikacjezawodowe.info
+^dodatki_po_prawej^$domain=studentnews.pl
