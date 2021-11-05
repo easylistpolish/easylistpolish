@@ -2099,3 +2099,5 @@ eplastics.pl##.sideNas
 eplastics.pl###topNas
 eplastics.pl##[id^="toppartner"]
 eplastics.pl##[class^="reklama"]
+chemical.pl###topNas
+chemical.pl##.sideNas
