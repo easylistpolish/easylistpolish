@@ -1025,3 +1025,4 @@ baner930x$domain=sadeczanin.info
 ^inline__1_$domain=ibialoleka.pl
 ^dodatki_po_prawej^$domain=kwalifikacjezawodowe.info
 ^dodatki_po_prawej^$domain=studentnews.pl
+_banner_$domain=wydawca.com.pl

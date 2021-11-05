@@ -2104,3 +2104,5 @@ chemical.pl##.sideNas
 rubber.pl##.sideNas
 rubber.pl###topNas
 studentnews.pl##.bm
+wydawca.com.pl###sow-slider-20
+wydawca.com.pl###sow-slider-22
