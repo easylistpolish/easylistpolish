@@ -1026,3 +1026,4 @@ baner930x$domain=sadeczanin.info
 ^dodatki_po_prawej^$domain=kwalifikacjezawodowe.info
 ^dodatki_po_prawej^$domain=studentnews.pl
 _banner_$domain=wydawca.com.pl
+^reklamowe^$domain=bolec.info

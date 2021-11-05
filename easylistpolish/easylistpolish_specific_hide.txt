@@ -2106,3 +2106,4 @@ rubber.pl###topNas
 studentnews.pl##.bm
 wydawca.com.pl###sow-slider-20
 wydawca.com.pl###sow-slider-22
+bolec.info##.baner-max
