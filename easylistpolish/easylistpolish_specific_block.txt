@@ -1020,3 +1020,7 @@ baner930x$domain=sadeczanin.info
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-banner.$domain=nowepomorze.pl
+^baner-$domain=przeglad-sejnenski.pl
+^inline__1_$domain=ibialoleka.pl
+^dodatki_po_prawej^$domain=kwalifikacjezawodowe.info
