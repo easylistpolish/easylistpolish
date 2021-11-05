@@ -2111,3 +2111,4 @@ gieldykryptowalut.pl###text-55
 gieldykryptowalut.pl###text-49
 ecopoznan.pl##.elementor-shortcode
 codziennypoznan.pl##.site-header .elementor-shortcode
+motopoznan.com##.mt-container ._ning_outer
