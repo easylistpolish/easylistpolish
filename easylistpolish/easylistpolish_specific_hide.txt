@@ -2125,3 +2125,4 @@ spottedstarachowice.pl##a[href^="https://www.romerpp.pl"]
 disco-polo.eu##.stream-item-below-post-content
 newsdiscopolo.info##.post-next-prev ~ iframe
 nowezyciepabianic.pl###custom_html-6
+pulskosmosu.pl###media_image-24
