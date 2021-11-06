@@ -1028,3 +1028,4 @@ baner930x$domain=sadeczanin.info
 _banner_$domain=wydawca.com.pl
 ^reklamowe^$domain=bolec.info
 ^reklamy_$domain=supertydzien.pl
+^campaign^$domain=cire.pl
