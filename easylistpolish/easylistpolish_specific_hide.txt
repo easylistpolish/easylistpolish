@@ -2123,3 +2123,4 @@ skarzysko24.pl##.t3-sl
 spottedskarzysko.pl##.bannergroup
 spottedstarachowice.pl##a[href^="https://www.romerpp.pl"]
 disco-polo.eu##.stream-item-below-post-content
+newsdiscopolo.info##.post-next-prev ~ iframe
