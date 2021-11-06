@@ -2119,3 +2119,4 @@ eostroleka.pl##div[style^="max-width: 1100px"]
 terazostroleka.pl##.c-content__adv
 terazostroleka.pl##.l-ad-top
 ddbrodnica.pl##[class^="ddbro-tresc_"]
+skarzysko24.pl##.t3-sl
