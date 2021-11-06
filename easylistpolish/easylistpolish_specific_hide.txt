@@ -2074,3 +2074,5 @@ goral.info.pl##[class^="l-box l-box--"] a[target]
 spozywczetechnologie.pl##.bannergroup
 alarmy.org##.baner750
 o2.pl##div[class$="container"]:not([class*="player"],.npp-container)
+eostroleka.pl##div[style^="max-width: 715px"]
+eostroleka.pl##div[style^="max-width: 1100px"]
