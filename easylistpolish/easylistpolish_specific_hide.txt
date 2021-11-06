@@ -2114,3 +2114,5 @@ codziennypoznan.pl##.site-header .elementor-shortcode
 motopoznan.com##.mt-container ._ning_outer
 czasdzieci.pl##.aTopBox
 cenyrolnicze.pl##[class="custom view-pc"]
+eostroleka.pl##div[style^="max-width: 715px"]
+eostroleka.pl##div[style^="max-width: 1100px"]
