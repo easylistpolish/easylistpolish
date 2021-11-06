@@ -2113,3 +2113,4 @@ ecopoznan.pl##.elementor-shortcode
 codziennypoznan.pl##.site-header .elementor-shortcode
 motopoznan.com##.mt-container ._ning_outer
 czasdzieci.pl##.aTopBox
+cenyrolnicze.pl##[class="custom view-pc"]
