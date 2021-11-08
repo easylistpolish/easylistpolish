@@ -2128,3 +2128,4 @@ nowezyciepabianic.pl###custom_html-6
 pulskosmosu.pl###media_image-24
 egarwolin.pl##.l-ad-top
 eglos.pl##[id^="baner"] iframe
+ddb24.pl##.l-ad-top
