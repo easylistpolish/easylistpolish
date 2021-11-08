@@ -1043,3 +1043,5 @@ baner930x$domain=sadeczanin.info
 -banner.$domain=nowepomorze.pl
 ^baner-$domain=przeglad-sejnenski.pl
 ^inline__1_$domain=ibialoleka.pl
+||e-stargard.pl^*^horizoncenter.
+||e-stargard.pl^*^pisz320.
