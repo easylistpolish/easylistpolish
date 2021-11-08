@@ -2136,3 +2136,4 @@ szkolkarstwo.com.pl###widget-175
 staresiolkowice.pl###media_image-4
 stressfree.pl##.stressfree_image_advert
 sucha24.pl##.l-ad-top
+swietokrzyskie24.eu###metaslider_container_4396
