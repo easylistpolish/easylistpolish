@@ -2131,3 +2131,5 @@ eglos.pl##[id^="baner"] iframe
 ddb24.pl##.l-ad-top
 radomsport.pl##.lewa
 radomsport.pl##.prawa
+szkolkarstwo.com.pl###widget-185
+szkolkarstwo.com.pl###widget-175
