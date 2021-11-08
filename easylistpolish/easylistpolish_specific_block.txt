@@ -1033,3 +1033,5 @@ _baner_$domain=xlomza.pl
 ||xlomza.pl^*^nowa_fabryka.
 ^banners^$domain=ebrodnica.pl
 ^baner_$domain=miedzyzdroje.tv
+||e-stargard.pl^*^horizoncenter.
+||e-stargard.pl^*^pisz320.
