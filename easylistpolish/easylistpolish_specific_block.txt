@@ -1037,3 +1037,4 @@ _baner_$domain=xlomza.pl
 ||e-stargard.pl^*^pisz320.
 ||slupca.pl^*^zatrzymaj-plakat2.
 ^bananer^$domain=sportowebeskidy.pl
+^bananer^$domain=sportslaski.pl
