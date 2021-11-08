@@ -2134,3 +2134,4 @@ radomsport.pl##.prawa
 szkolkarstwo.com.pl###widget-185
 szkolkarstwo.com.pl###widget-175
 staresiolkowice.pl###media_image-4
+stressfree.pl##.stressfree_image_advert
