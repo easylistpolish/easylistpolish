@@ -2137,3 +2137,4 @@ staresiolkowice.pl###media_image-4
 stressfree.pl##.stressfree_image_advert
 sucha24.pl##.l-ad-top
 swietokrzyskie24.eu###metaslider_container_4396
+sychar.org##a[href^="http://www.tolle.pl/"]
