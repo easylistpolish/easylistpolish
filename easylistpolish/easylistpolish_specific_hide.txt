@@ -2141,3 +2141,4 @@ sychar.org##a[href^="http://www.tolle.pl/"]
 szubin24.pl###okazje2
 testynaojcostwo.pl###banner-17
 portfelpolaka.pl##.td-a-rec
+portfelpolaka.pl##div[class^="g-single a-"]
