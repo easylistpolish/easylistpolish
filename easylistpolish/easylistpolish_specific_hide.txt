@@ -2108,4 +2108,4 @@ gazetawawerska.pl###header_leaderboard
 whitemad.pl##.cb-contents
 netkonkret.pl##.td-a-rec
 bezpiecznyrynekpracy.pl##.banner-block
-
+bezpiecznyrynekpracy.pl##.banner
