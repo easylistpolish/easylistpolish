@@ -2143,3 +2143,4 @@ testynaojcostwo.pl###banner-17
 portfelpolaka.pl##.td-a-rec
 portfelpolaka.pl##div[class^="g-single a-"]
 comparic.pl##.gkliuiy-single
+bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
