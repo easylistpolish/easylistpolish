@@ -2106,3 +2106,5 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 gazetawawerska.pl###header_leaderboard
 whitemad.pl##.cb-contents
+netkonkret.pl##.td-a-rec
+bezpiecznyrynekpracy.pl##.banner-block
