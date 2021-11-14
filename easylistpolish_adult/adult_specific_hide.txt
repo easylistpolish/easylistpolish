@@ -1,10 +1,10 @@
-filmy69.pl##.sidebar_right
-filmy69.pl#?#li.videoblock:-abp-has(iframe[id][src*="/www/delivery/"])
-filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
-filmyporno.tv###playerOverlay
 sexrura.pl###bottom-right-container
-sexrura.pl##.sidebar-img-nice
+filmyporno.tv###playerOverlay
 filmyporno.tv##.aff-sec
 pornkai.com##.margin_ad
-polskiepornole.pl##.squareWrapper
-pornoman.pl##.squareWrapper
+filmikiporno.tv##.publis-bottom
+sexrura.pl##.sidebar-img-nice
+filmy69.pl##.sidebar_right
+polskiepornole.pl,pornoman.pl##.squareWrapper
+filmy69.pl#?#li.videoblock:-abp-has(iframe[id][src*="/www/delivery/"])
+filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
