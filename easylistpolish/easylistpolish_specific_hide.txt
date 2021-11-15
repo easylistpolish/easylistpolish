@@ -2131,3 +2131,4 @@ uniejow.net.pl##.santa-main-wrapper
 nizanskie.info##.santa-main-wrapper
 ekutno.pl##.santa-main-wrapper
 gwe24.pl##.santa-main-wrapper
+gostyn24.pl##.santa-main-wrapper
