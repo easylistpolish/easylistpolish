@@ -2128,3 +2128,4 @@ czas.tygodnik.pl##.santa-main-wrapper
 bydgoszcz24.pl##.santa-main-wrapper
 tygodnik.pl##.santa-main-wrapper
 uniejow.net.pl##.santa-main-wrapper
+nizanskie.info##.santa-main-wrapper
