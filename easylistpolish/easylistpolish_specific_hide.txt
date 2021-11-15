@@ -2127,3 +2127,4 @@ gorlice24.pl##.santa-main-wrapper
 czas.tygodnik.pl##.santa-main-wrapper
 bydgoszcz24.pl##.santa-main-wrapper
 tygodnik.pl##.santa-main-wrapper
+uniejow.net.pl##.santa-main-wrapper
