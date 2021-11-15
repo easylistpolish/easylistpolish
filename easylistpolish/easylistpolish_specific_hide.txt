@@ -2117,3 +2117,4 @@ swiecie24.pl##.santa-main-wrapper
 koronowo.net.pl##.santa-main-wrapper
 zyciesokolowa.pl##.santa-main-wrapper
 e-krajna.pl##.santa-main-wrapper
+zyciesiedleckie.pl##.santa-main-wrapper
