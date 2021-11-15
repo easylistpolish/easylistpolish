@@ -2122,3 +2122,4 @@ kolniak24.eu##.santa-main-wrapper
 gniewkowo.eu##.santa-main-wrapper
 terazlipno.pl##.santa-main-wrapper
 itvszubin.pl##.santa-main-wrapper
+superchodziez.pl##.santa-main-wrapper
