@@ -2110,3 +2110,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 extrawalcz.pl##.santa-main-wrapper
 ddwloclawek.pl##.santa-main-wrapper
 ddtorun.pl##.santa-main-wrapper
+ki24.info##.santa-main-wrapper
