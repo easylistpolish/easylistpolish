@@ -2126,3 +2126,4 @@ superchodziez.pl##.santa-main-wrapper
 gorlice24.pl##.santa-main-wrapper
 czas.tygodnik.pl##.santa-main-wrapper
 bydgoszcz24.pl##.santa-main-wrapper
+tygodnik.pl##.santa-main-wrapper
