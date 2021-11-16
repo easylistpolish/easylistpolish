@@ -2132,3 +2132,4 @@ nizanskie.info##.santa-main-wrapper
 ekutno.pl##.santa-main-wrapper
 gwe24.pl##.santa-main-wrapper
 gostyn24.pl##.santa-main-wrapper
+grudziadz365.pl##.santa-main-wrapper
