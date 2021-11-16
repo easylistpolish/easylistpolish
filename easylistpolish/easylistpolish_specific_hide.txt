@@ -1219,6 +1219,7 @@ epiotrkow.pl##.rtop
 dlagimnazjalisty.info,dlamaturzysty.info,edubaza.pl,gramatyka-angielska.info,pracaikariera.pl,studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,zebrra.tv##.sam-container
+abcjanikowo24.pl,bydgoszcz24.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-krajna.pl,ekstrasierpc.pl,ekutno.pl,extrawalcz.pl,faktypilskie.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwe24.pl,isanok.pl,itvszubin.pl,jastrowie24.pl,ki24.info,kolniak24.eu,koronowo.net.pl,mojakruszwica.pl,nizanskie.info,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazlipno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.santa-main-wrapper
 naekranie.pl##.screening-banner
 twojepajeczno.pl##.scxx
 twojepajeczno.pl##.scxxx
@@ -2107,38 +2108,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-extrawalcz.pl##.santa-main-wrapper
-ddwloclawek.pl##.santa-main-wrapper
-ddtorun.pl##.santa-main-wrapper
-ki24.info##.santa-main-wrapper
-faktypilskie.pl##.santa-main-wrapper
-ciechocinek.biz##.santa-main-wrapper
-swiecie24.pl##.santa-main-wrapper
-koronowo.net.pl##.santa-main-wrapper
-zyciesokolowa.pl##.santa-main-wrapper
-e-krajna.pl##.santa-main-wrapper
-zyciesiedleckie.pl##.santa-main-wrapper
-kolniak24.eu##.santa-main-wrapper
-gniewkowo.eu##.santa-main-wrapper
-terazlipno.pl##.santa-main-wrapper
-itvszubin.pl##.santa-main-wrapper
-superchodziez.pl##.santa-main-wrapper
-gorlice24.pl##.santa-main-wrapper
-czas.tygodnik.pl##.santa-main-wrapper
-bydgoszcz24.pl##.santa-main-wrapper
-tygodnik.pl##.santa-main-wrapper
-uniejow.net.pl##.santa-main-wrapper
-nizanskie.info##.santa-main-wrapper
-ekutno.pl##.santa-main-wrapper
-gwe24.pl##.santa-main-wrapper
-gostyn24.pl##.santa-main-wrapper
-grudziadz365.pl##.santa-main-wrapper
-jastrowie24.pl##.santa-main-wrapper
-tarnowska.pl##.santa-main-wrapper
-ekstrasierpc.pl##.santa-main-wrapper
-gst24.pl##.santa-main-wrapper
-abcjanikowo24.pl##.santa-main-wrapper
-mojakruszwica.pl##.santa-main-wrapper
-isanok.pl##.santa-main-wrapper
-e-chelmno.pl##.santa-main-wrapper
-tusochaczew.pl##.santa-main-wrapper
