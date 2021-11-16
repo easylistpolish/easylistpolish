@@ -2137,3 +2137,4 @@ jastrowie24.pl##.santa-main-wrapper
 tarnowska.pl##.santa-main-wrapper
 ekstrasierpc.pl##.santa-main-wrapper
 gst24.pl##.santa-main-wrapper
+abcjanikowo24.pl##.santa-main-wrapper
