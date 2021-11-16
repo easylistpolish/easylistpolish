@@ -2141,3 +2141,4 @@ abcjanikowo24.pl##.santa-main-wrapper
 mojakruszwica.pl##.santa-main-wrapper
 isanok.pl##.santa-main-wrapper
 e-chelmno.pl##.santa-main-wrapper
+tusochaczew.pl##.santa-main-wrapper
