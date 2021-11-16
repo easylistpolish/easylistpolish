@@ -2135,3 +2135,4 @@ gostyn24.pl##.santa-main-wrapper
 grudziadz365.pl##.santa-main-wrapper
 jastrowie24.pl##.santa-main-wrapper
 tarnowska.pl##.santa-main-wrapper
+ekstrasierpc.pl##.santa-main-wrapper
