@@ -2131,3 +2131,4 @@ pulsciechanowa.pl##.santa-main-wrapper
 miastko24.pl##.santa-main-wrapper
 iszczecinek.pl##.santa-main-wrapper
 ejarocin.pl##.santa-main-wrapper
+rzeczkrotoszynska.pl##.santa-main-wrapper
