@@ -2108,3 +2108,27 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+expresskaszubski.pl##.santa-main-wrapper
+brodnica365.pl##.santa-main-wrapper
+pakosc24.pl##.santa-main-wrapper
+chocianow.com.pl##.santa-main-wrapper
+esopot.pl##.santa-main-wrapper
+spotradomsko.pl##.santa-main-wrapper
+sompolno24.pl##.santa-main-wrapper
+gwio.pl##.santa-main-wrapper
+naszradziejow.pl##.santa-main-wrapper
+plonskwsieci.pl##.santa-main-wrapper
+hej.mielec.pl##.santa-main-wrapper
+wiescimiedzychodzkie.pl##.santa-main-wrapper
+chelmza365.pl##.santa-main-wrapper
+portalsremski.pl##.santa-main-wrapper
+infomogilno24.pl##.santa-main-wrapper
+leszno24.pl##.santa-main-wrapper
+wkikole.pl##.santa-main-wrapper
+ipoddebice.pl##.santa-main-wrapper
+faktyct.pl##.santa-main-wrapper
+pulsciechanowa.pl##.santa-main-wrapper
+miastko24.pl##.santa-main-wrapper
+iszczecinek.pl##.santa-main-wrapper
+ejarocin.pl##.santa-main-wrapper
+rzeczkrotoszynska.pl##.santa-main-wrapper
