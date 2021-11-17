@@ -2120,3 +2120,4 @@ naszradziejow.pl##.santa-main-wrapper
 plonskwsieci.pl##.santa-main-wrapper
 hej.mielec.pl##.santa-main-wrapper
 wiescimiedzychodzkie.pl##.santa-main-wrapper
+chelmza365.pl##.santa-main-wrapper
