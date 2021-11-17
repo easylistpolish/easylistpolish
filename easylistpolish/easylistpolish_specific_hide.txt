@@ -2108,4 +2108,15 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+expresskaszubski.pl##.santa-main-wrapper
+brodnica365.pl##.santa-main-wrapper
+pakosc24.pl##.santa-main-wrapper
+chocianow.com.pl##.santa-main-wrapper
+esopot.pl##.santa-main-wrapper
+spotradomsko.pl##.santa-main-wrapper
+sompolno24.pl##.santa-main-wrapper
+gwio.pl##.santa-main-wrapper
+naszradziejow.pl##.santa-main-wrapper
+plonskwsieci.pl##.santa-main-wrapper
+hej.mielec.pl##.santa-main-wrapper
 wiescimiedzychodzkie.pl##.santa-main-wrapper
