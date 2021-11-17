@@ -2127,3 +2127,4 @@ leszno24.pl##.santa-main-wrapper
 wkikole.pl##.santa-main-wrapper
 ipoddebice.pl##.santa-main-wrapper
 faktyct.pl##.santa-main-wrapper
+pulsciechanowa.pl##.santa-main-wrapper
