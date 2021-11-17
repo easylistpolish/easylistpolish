@@ -2122,3 +2122,4 @@ hej.mielec.pl##.santa-main-wrapper
 wiescimiedzychodzkie.pl##.santa-main-wrapper
 chelmza365.pl##.santa-main-wrapper
 portalsremski.pl##.santa-main-wrapper
+infomogilno24.pl##.santa-main-wrapper
