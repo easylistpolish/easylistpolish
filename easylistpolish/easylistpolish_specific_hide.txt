@@ -2125,3 +2125,4 @@ portalsremski.pl##.santa-main-wrapper
 infomogilno24.pl##.santa-main-wrapper
 leszno24.pl##.santa-main-wrapper
 wkikole.pl##.santa-main-wrapper
+ipoddebice.pl##.santa-main-wrapper
