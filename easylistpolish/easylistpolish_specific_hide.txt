@@ -2117,3 +2117,4 @@ spotradomsko.pl##.santa-main-wrapper
 sompolno24.pl##.santa-main-wrapper
 gwio.pl##.santa-main-wrapper
 naszradziejow.pl##.santa-main-wrapper
+plonskwsieci.pl##.santa-main-wrapper
