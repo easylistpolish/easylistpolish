@@ -2113,3 +2113,4 @@ brodnica365.pl##.santa-main-wrapper
 pakosc24.pl##.santa-main-wrapper
 chocianow.com.pl##.santa-main-wrapper
 esopot.pl##.santa-main-wrapper
+spotradomsko.pl##.santa-main-wrapper
