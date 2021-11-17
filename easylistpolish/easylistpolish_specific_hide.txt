@@ -2111,3 +2111,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 expresskaszubski.pl##.santa-main-wrapper
 brodnica365.pl##.santa-main-wrapper
 pakosc24.pl##.santa-main-wrapper
+chocianow.com.pl##.santa-main-wrapper
