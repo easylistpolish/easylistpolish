@@ -2119,3 +2119,4 @@ gwio.pl##.santa-main-wrapper
 naszradziejow.pl##.santa-main-wrapper
 plonskwsieci.pl##.santa-main-wrapper
 hej.mielec.pl##.santa-main-wrapper
+wiescimiedzychodzkie.pl##.santa-main-wrapper
