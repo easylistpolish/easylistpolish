@@ -2132,3 +2132,4 @@ wrzesnia.info.pl##.santa-main-wrapper
 slu24.pl##.santa-main-wrapper
 police24.pl##.santa-main-wrapper
 ino.online###sidebar_main_classified
+wabrzezno-cwa.pl##.l-ad-top
