@@ -2122,3 +2122,4 @@ e-wabrzezno.info.pl##.santa-main-wrapper
 drawskopomorskie.com##.santa-main-wrapper
 infoskierniewice.pl##.santa-main-wrapper
 terazstrzelno.pl##.santa-main-wrapper
+zawiercie365.pl##.santa-main-wrapper
