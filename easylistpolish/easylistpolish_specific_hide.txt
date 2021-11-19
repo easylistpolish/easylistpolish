@@ -2110,3 +2110,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 terazgabin.pl##.santa-main-wrapper
 roztocze.net##.santa-main-wrapper
+ibytow.pl##.santa-main-wrapper
