@@ -781,6 +781,7 @@ baner930x$domain=sadeczanin.info
 ||rrs24.net^*^marta_ubezpieczenia.
 ||rutatour.pl^*^signal-idiuna.
 ||ryms.pl^*^oko-logo2.
+||rynekinformacji.pl^*^wiwb-
 ||rzeszow112.pl^*^buz-3.
 ||s0urce.io^*^idletowerminer^
 ||s3.amazonaws.com^$domain=vidfile.net
@@ -1027,4 +1028,3 @@ baner930x$domain=sadeczanin.info
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||rynekinformacji.pl^*^wiwb-
