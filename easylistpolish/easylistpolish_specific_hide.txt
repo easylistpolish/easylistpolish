@@ -2128,3 +2128,4 @@ radzyninfo.pl##.santa-main-wrapper
 glospowiatusredzkiego.pl##.santa-main-wrapper
 zlomzy.pl##.santa-main-wrapper
 bielskirynek.pl##.santa-main-wrapper
+wrzesnia.info.pl##.santa-main-wrapper
