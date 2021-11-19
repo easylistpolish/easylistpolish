@@ -2114,3 +2114,4 @@ ibytow.pl##.santa-main-wrapper
 mlodagdynia.pl##.santa-main-wrapper
 gwarek.com.pl##.santa-main-wrapper
 lowiczanin.info##.santa-main-wrapper
+hej.rzeszow.pl##.santa-main-wrapper
