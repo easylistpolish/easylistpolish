@@ -2108,4 +2108,21 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+terazgabin.pl##.santa-main-wrapper
+roztocze.net##.santa-main-wrapper
+ibytow.pl##.santa-main-wrapper
+mlodagdynia.pl##.santa-main-wrapper
+gwarek.com.pl##.santa-main-wrapper
+lowiczanin.info##.santa-main-wrapper
+hej.rzeszow.pl##.santa-main-wrapper
+pulsgminy.pl##.santa-main-wrapper
+wpu24.pl##.santa-main-wrapper
+e-golub.info.pl##.santa-main-wrapper
+e-wabrzezno.info.pl##.santa-main-wrapper
+drawskopomorskie.com##.santa-main-wrapper
+infoskierniewice.pl##.santa-main-wrapper
+terazstrzelno.pl##.santa-main-wrapper
+zawiercie365.pl##.santa-main-wrapper
+myszkow365.pl##.santa-main-wrapper
+radzyninfo.pl##.santa-main-wrapper
 glospowiatusredzkiego.pl##.santa-main-wrapper
