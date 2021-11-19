@@ -2123,3 +2123,4 @@ drawskopomorskie.com##.santa-main-wrapper
 infoskierniewice.pl##.santa-main-wrapper
 terazstrzelno.pl##.santa-main-wrapper
 zawiercie365.pl##.santa-main-wrapper
+myszkow365.pl##.santa-main-wrapper
