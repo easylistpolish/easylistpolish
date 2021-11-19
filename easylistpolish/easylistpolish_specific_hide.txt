@@ -2116,3 +2116,4 @@ gwarek.com.pl##.santa-main-wrapper
 lowiczanin.info##.santa-main-wrapper
 hej.rzeszow.pl##.santa-main-wrapper
 pulsgminy.pl##.santa-main-wrapper
+wpu24.pl##.santa-main-wrapper
