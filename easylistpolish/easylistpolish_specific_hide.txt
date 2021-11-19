@@ -2108,4 +2108,10 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+terazgabin.pl##.santa-main-wrapper
+roztocze.net##.santa-main-wrapper
+ibytow.pl##.santa-main-wrapper
+mlodagdynia.pl##.santa-main-wrapper
+gwarek.com.pl##.santa-main-wrapper
+lowiczanin.info##.santa-main-wrapper
 hej.rzeszow.pl##.santa-main-wrapper
