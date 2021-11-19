@@ -2119,3 +2119,4 @@ pulsgminy.pl##.santa-main-wrapper
 wpu24.pl##.santa-main-wrapper
 e-golub.info.pl##.santa-main-wrapper
 e-wabrzezno.info.pl##.santa-main-wrapper
+drawskopomorskie.com##.santa-main-wrapper
