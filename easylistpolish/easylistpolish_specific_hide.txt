@@ -2127,3 +2127,4 @@ myszkow365.pl##.santa-main-wrapper
 radzyninfo.pl##.santa-main-wrapper
 glospowiatusredzkiego.pl##.santa-main-wrapper
 zlomzy.pl##.santa-main-wrapper
+bielskirynek.pl##.santa-main-wrapper
