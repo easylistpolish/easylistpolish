@@ -2112,3 +2112,4 @@ terazgabin.pl##.santa-main-wrapper
 roztocze.net##.santa-main-wrapper
 ibytow.pl##.santa-main-wrapper
 mlodagdynia.pl##.santa-main-wrapper
+gwarek.com.pl##.santa-main-wrapper
