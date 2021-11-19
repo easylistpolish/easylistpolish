@@ -2118,3 +2118,4 @@ hej.rzeszow.pl##.santa-main-wrapper
 pulsgminy.pl##.santa-main-wrapper
 wpu24.pl##.santa-main-wrapper
 e-golub.info.pl##.santa-main-wrapper
+e-wabrzezno.info.pl##.santa-main-wrapper
