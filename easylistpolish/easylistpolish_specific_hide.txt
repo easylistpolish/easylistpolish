@@ -2119,3 +2119,4 @@ kocham.wielun.pl##.module-xyz
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 divers24.pl##div[class^="angwp-"]
 eska.pl##.zpr_shopping__article
+stockwatch.pl##.adbloki-sroki
