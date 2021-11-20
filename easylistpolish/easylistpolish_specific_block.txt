@@ -1029,3 +1029,4 @@ baner930x$domain=sadeczanin.info
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||cdn.sterta.pl^$domain=rusz.pl
+^baner-$domain=plotkibiznesowe.pl
