@@ -2113,3 +2113,4 @@ police24.pl##.TOPNewsB
 slu24.pl##.TOPNewsB
 infoskierniewice.pl##.TOPNewsB
 tysol.pl##div[id^="reklama"]
+plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
