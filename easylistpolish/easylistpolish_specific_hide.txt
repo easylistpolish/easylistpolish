@@ -2116,3 +2116,4 @@ tysol.pl##div[id^="reklama"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 plotkibiznesowe.pl##.stream-item-above-header
 kocham.wielun.pl##.module-xyz
+glamrap.pl##section[id^="custom_html-"] .custom-html-widget
