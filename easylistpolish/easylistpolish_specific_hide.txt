@@ -2118,3 +2118,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 informator-stolicy.pl###pm_gora
 40ton.net##.widget_adbaner_widget
 oknonawagrowiec.pl##.penci-promo-item > img
+40ton.net##img[alt="Advertisement"]
