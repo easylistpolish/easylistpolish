@@ -1765,7 +1765,6 @@ musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 menshealth.pl##a[onclick*="welcompage-reklama"]
 dziecisawazne.pl##a[onclick="onClick_mega();"]
 cda.pl##a[onclick="pixelView(true);"]
-instalacjebudowlane.pl##a[onclick^="_gaq.push(['_trackEvent', 'kampanie banerowe'"]
 instalacjebudowlane.pl##a[onclick^="_gaq.push(['_trackEvent', 'stopki patronow'"]
 elektroda.pl##a[onclick^="eventSender('"]
 swiatdronow.pl##a[onclick^="ga('send'"]
