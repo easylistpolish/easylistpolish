@@ -2124,3 +2124,4 @@ panoramakutna.pl##.ms-slide-bgcont
 wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 instalacjebudowlane.pl##a[onclick*="kampanie banerowe"]
 fachowcybudowlani.pl##a[onclick*="kampanie banerowe"]
+poradybudowlane.com.pl##a[onclick*="kampanie banerowe"]
