@@ -2121,3 +2121,4 @@ oknonawagrowiec.pl##.penci-promo-item > img
 40ton.net##img[alt="Advertisement"]
 panoramakutna.pl##.reklama-google
 panoramakutna.pl##.ms-slide-bgcont
+wentylacyjny.pl##a[onclick*="kampanie banerowe"]
