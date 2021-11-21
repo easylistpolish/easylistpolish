@@ -2122,3 +2122,4 @@ oknonawagrowiec.pl##.penci-promo-item > img
 panoramakutna.pl##.reklama-google
 panoramakutna.pl##.ms-slide-bgcont
 wentylacyjny.pl##a[onclick*="kampanie banerowe"]
+instalacjebudowlane.pl##a[onclick*="kampanie banerowe"]
