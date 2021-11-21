@@ -2119,3 +2119,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 faktypilskie.pl##.TOPNewsB
 ddtorun.pl##.TOPNewsB
+ddwloclawek.pl##.TOPNewsB
