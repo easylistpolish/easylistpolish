@@ -2121,3 +2121,4 @@ faktypilskie.pl##.TOPNewsB
 ddtorun.pl##.TOPNewsB
 ddwloclawek.pl##.TOPNewsB
 ciechocinek.biz##.TOPNewsB
+swiecie24.pl##.TOPNewsB
