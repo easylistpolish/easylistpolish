@@ -476,6 +476,7 @@ wyspiarzniebieski.pl##.CommTxt1
 gazeta.pl##.DFP-premiumBoardReservedPlace
 mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
+infoskierniewice.pl,police24.pl,slu24.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
@@ -520,6 +521,7 @@ grodzisknews.pl##.ad_suw_nad
 egryfino.pl##.ada
 rebelianci.org##.adad
 automobilista.com.pl,praca-niemcy24.pl##.adblock
+stockwatch.pl##.adbloki-sroki
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 nowytarg24.tv##.adbox[target="_blank"]
 zeglarski.info##.add-box
@@ -1057,6 +1059,7 @@ twojaslupca.pl##.mobile-advert2
 bobrowniki.tv##.mod_banners_bottom_banners
 instalki.pl##.module-adv
 krosno112.pl##.module-ct img[width="280"]
+kocham.wielun.pl##.module-xyz
 em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
 tv-pelplin.pl##.moduletable sup
@@ -1295,6 +1298,7 @@ portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
 lajfy.com##.sticky-banner
 legio24.pl##.stream-item
+plotkibiznesowe.pl##.stream-item-above-header
 wzielonej.pl##.stream-item-below-post
 disco-polo.eu##.stream-item-below-post-content
 lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
@@ -1454,7 +1458,7 @@ pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
 infoprzasnysz.com##.zodnbrutw-image
-mjakmama24.pl##.zpr_shopping__article
+eska.pl,mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 zumi.pl##.zumi-ads-top
 zyciezamoscia.pl##.zycie-po-tresci
@@ -1708,6 +1712,7 @@ dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 slasknet.com##a[href^="https://sprbt.pl/"]
+plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
 czytajsklad.com##a[href^="https://track.adtraction."]
 gram.pl##a[href^="https://track.webgains.com/"]
@@ -1888,6 +1893,7 @@ astrona.pl##div[class^="adsense"]
 legionisci.com##div[class^="adslot_"]
 realizator.pl##div[class^="advert"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
+divers24.pl##div[class^="angwp-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
@@ -1984,6 +1990,7 @@ satkurier.pl##div[id^="pasek_hollex"]
 mjakmama24.pl,se.pl##div[id^="placement"]
 pojezierze.com.pl##div[id^="pojez-"]
 ostrowiec-sw.pl##div[id^="re_"]
+tysol.pl##div[id^="reklama"]
 teraz-wilanow.pl##div[id^="rev_slider_1"]
 teraz-wilanow.pl##div[id^="rev_slider_2_"]
 rydzyna24.pl##div[id^="rydzy-"]
@@ -2092,6 +2099,7 @@ wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
 pabianice.tv##section[id^="adrotate_widgets"]
+glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 poczta.o2.pl,poczta.wp.pl##sidebar-feed
 legnica.fm##span + ul > .banneritem

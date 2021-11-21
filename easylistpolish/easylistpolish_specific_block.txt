@@ -67,7 +67,7 @@
 ^bananer^$domain=sportowebeskidy.pl|sportslaski.pl
 ^banbron.$domain=oczamiostrego.pl
 ^baner%$domain=magazynregionalny.pl|podlasie24.pl|poligonowewiesci.pl|wdrawskupomorskim.pl
-^baner-$domain=allebiznes.pl|automotivesuppliers.pl|bstok.pl|centrumdruku3d.pl|cksport.pl|cowkrakowie.pl|cowwilanowie.pl|crypto-trader.pl|echokamienia.pl|genetyczne.pl|gloskoninski.pl|gorydlaciebie.pl|hi-fi.com.pl|iloveslubice.pl|infokatowice.pl|infokonin.pl|infomalopolska.pl|jazdaprawna.pl|kk24.pl|limanowianin.in|linia.com.pl|luzyce.info|magazynvip.pl|materialybudowlane.info.pl|mazopolska.pl|miastokobiet.pl|mysnet.pl|naszosie.pl|naszsrem.pl|niezaleznemediapodlasia.pl|ostrodanews.pl|oswiecim112.pl|oto-samochody.pl|polskacanada.com|portalkujawski.pl|portalwolow.pl|powrotroberta.pl|przeglad-sejnenski.pl|przewodnicywedkarscy.pl|regionalna.pl|rynekinwestycji.pl|sochaczewianin.pl|starosadeckie.info|szczecinek.com|tarnobrzeskie.eu|tv28.pl|tvbraniewo24.pl|twojaslupca.pl|tygodnik-rolniczy.pl|tygodnikkrag.pl|tygodnikpiski.pl|tylkotorun.pl|tyna.info.pl|whitemad.pl|wiadomosci.com|wiecbork112.pl|wirtualnelegionowo.pl|wirtualnemazowsze24.pl|wirtualnynowydwor.pl|wolanie.info|zw.pl|zwrotnikraka.pl|zyciezamoscia.pl
+^baner-$domain=allebiznes.pl|automotivesuppliers.pl|bstok.pl|centrumdruku3d.pl|cksport.pl|cowkrakowie.pl|cowwilanowie.pl|crypto-trader.pl|echokamienia.pl|genetyczne.pl|gloskoninski.pl|gorydlaciebie.pl|hi-fi.com.pl|iloveslubice.pl|infokatowice.pl|infokonin.pl|infomalopolska.pl|jazdaprawna.pl|kk24.pl|limanowianin.in|linia.com.pl|luzyce.info|magazynvip.pl|materialybudowlane.info.pl|mazopolska.pl|miastokobiet.pl|mysnet.pl|naszosie.pl|naszsrem.pl|niezaleznemediapodlasia.pl|ostrodanews.pl|oswiecim112.pl|oto-samochody.pl|plotkibiznesowe.pl|polskacanada.com|portalkujawski.pl|portalwolow.pl|powrotroberta.pl|przeglad-sejnenski.pl|przewodnicywedkarscy.pl|regionalna.pl|rynekinwestycji.pl|sochaczewianin.pl|starosadeckie.info|szczecinek.com|tarnobrzeskie.eu|tv28.pl|tvbraniewo24.pl|twojaslupca.pl|tygodnik-rolniczy.pl|tygodnikkrag.pl|tygodnikpiski.pl|tylkotorun.pl|tyna.info.pl|whitemad.pl|wiadomosci.com|wiecbork112.pl|wirtualnelegionowo.pl|wirtualnemazowsze24.pl|wirtualnynowydwor.pl|wolanie.info|zw.pl|zwrotnikraka.pl|zyciezamoscia.pl
 ^baner.$domain=magazynfakty.pl|ostrodanews.pl|przemyslkosmetyczny.pl|sokolka.tv
 ^baner2.$domain=edebno.pl
 ^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|enowiny.pl|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
@@ -290,6 +290,7 @@ baner930x$domain=sadeczanin.info
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
 ||cdn.dcsaas.net^$domain=sklepbazant.pl|swiatmodeli.eu
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
+||cdn.sterta.pl^$domain=rusz.pl
 ||ceneo.pl^$image,domain=7dni.pila.pl|archigame.pl|exerim.pl|komputery-pc.info|pch24.info|pmi24.info
 ||ceneo.pl^*^banners^$domain=nowinylokalne.pl|pgo24.pl|ppw.fishing|tromil.pl
 ||ceneo.pl^*^banners^$image,domain=grojec24.net
