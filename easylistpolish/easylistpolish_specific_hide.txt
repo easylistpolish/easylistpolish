@@ -2128,3 +2128,8 @@ poradybudowlane.com.pl##a[onclick*="kampanie banerowe"]
 kuchenny.com.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
+faktypilskie.pl##.TOPNewsB
+ddtorun.pl##.TOPNewsB
+ddwloclawek.pl##.TOPNewsB
+ciechocinek.biz##.TOPNewsB
+swiecie24.pl##.TOPNewsB
