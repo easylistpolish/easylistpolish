@@ -210,6 +210,7 @@ baner930x$domain=sadeczanin.info
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 ||40ton.net^*-664x124.
+||40ton.net^*^euromaster.gif
 ||7dni.com.pl^*^pierwsza-wyprawka.
 ||abc-dachy.pl/banery/
 ||ad.polskiprzemysl.com.pl^
@@ -1029,4 +1030,3 @@ baner930x$domain=sadeczanin.info
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||40ton.net^*^euromaster.gif
