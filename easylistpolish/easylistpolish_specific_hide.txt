@@ -285,6 +285,7 @@ hitra-wedkarstwo.cba.pl###partnerzy
 pilkawregionie.pl###pg-2-4
 hoga.pl###php_widget-32
 planeteplus.pl###planeteplus-add-1
+informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
 mkspolonia.com###pomagajaslider
@@ -476,7 +477,7 @@ wyspiarzniebieski.pl##.CommTxt1
 gazeta.pl##.DFP-premiumBoardReservedPlace
 mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
-infoskierniewice.pl,police24.pl,slu24.pl##.TOPNewsB
+ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,infoskierniewice.pl,police24.pl,slu24.pl,swiecie24.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
@@ -1067,6 +1068,7 @@ sztafeta.pl##.mom-e3lanat-wrap
 infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
 boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
+panoramakutna.pl##.ms-slide-bgcont
 infofordon.pl##.ms_layers_wrapper
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
@@ -1117,6 +1119,7 @@ oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 nysahot.pl##.penci-featured-ct
 oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
+oknonawagrowiec.pl##.penci-promo-item > img
 takze.pl##.penci-promo-link + img
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
@@ -1174,6 +1177,7 @@ tysol.pl##.rekl_box
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 tychy.info##.reklama-display-desktop
+panoramakutna.pl##.reklama-google
 cnc.info.pl,kalisz24.info.pl,radom24.pl##.reklama-top
 polonia.nl##.reklama-warpper
 polemi.co.uk##.reklama8
@@ -1419,6 +1423,7 @@ boardtime.pl##.widget-header
 deon.pl##.widget-products
 gorydlaciebie.pl##.widgetKP
 dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
+40ton.net##.widget_adbaner_widget
 superportal24.pl##.widget_article
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 wirtualnyregion.pl##.widget_cyclone-slider-widget
@@ -1762,11 +1767,11 @@ siechnice.com.pl##a[onclick*="'Banner'"]
 centrumdruku3d.pl##a[onclick*="'Banners'"]
 bosonamacie.pl##a[onclick*="Adverts"]
 musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
+fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
+lazienkowy.pl##a[onclick*="sekcje specjalne"]
 menshealth.pl##a[onclick*="welcompage-reklama"]
 dziecisawazne.pl##a[onclick="onClick_mega();"]
 cda.pl##a[onclick="pixelView(true);"]
-instalacjebudowlane.pl##a[onclick^="_gaq.push(['_trackEvent', 'kampanie banerowe'"]
-instalacjebudowlane.pl##a[onclick^="_gaq.push(['_trackEvent', 'stopki patronow'"]
 elektroda.pl##a[onclick^="eventSender('"]
 swiatdronow.pl##a[onclick^="ga('send'"]
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
@@ -2045,6 +2050,7 @@ kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 bajery.pl##iframe[name="rek"]
 wladek.pl##img[alt$="eklama"]
 jakzrobicwexcelu.pl##img[alt$="reklama"]
+40ton.net##img[alt="Advertisement"]
 gosc.pl,nowykamieniarz.pl,radioem.pl##img[alt="Reklama"]
 zegarkiclub.pl##img[alt="advertisement_alt"]
 wirtualnekosmetyki.pl##img[alt="baner szeroki"]
@@ -2117,3 +2123,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+mojanorwegia.pl##.newLayerBack
+nportal.no##.commercial-top
+bielskiedrogi.pl###block-block-9,#block-block-12
