@@ -2130,3 +2130,4 @@ facetpo40.pl##.oxad-image
 facetpo40.pl##._ad
 pcworld.pl##.ad-sky2
 pcworld.pl##.ad
+onet.pl##div[data-section^="ad-flat"]
