@@ -2133,3 +2133,4 @@ pcworld.pl##.ad
 onet.pl##div[data-section^="ad-flat"]
 onet.pl##div[data-section^="flat-gigaboard"]
 pcworld.pl##.ad-bilbo2
+pcworld.pl##.bilbo_ad
