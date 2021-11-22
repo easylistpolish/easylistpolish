@@ -113,6 +113,7 @@ trzcianka.info###block-block-20
 zmianynaziemi.pl###block-block-26
 zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
+bielskiedrogi.pl###block-block-9,#block-block-12
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 hrubieszow.info,innemedium.pl###block-views-reklama-block
 forum.alfaholicy.org###block_html_3
@@ -807,6 +808,7 @@ przepisy.pl##.col-sm-7
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
 43bis.media.pl##.column-right-advertising a:not([href^="http://www.43bis.media.pl"])
 radioccm.pl##.com_reklamy
+nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
 demaskator24.pl##.componentsAdsContent
 legnica24h.pl##.container-advert-top
@@ -1083,6 +1085,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,kultyrystyka.pl,maszynydlameblarstwa.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu##.navbar-ad-section
 mojaniderlandia.pl##.newArticleA
+mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
 naszraciborz.pl,naszwodzislaw.com##.news_box_google
 naszraciborz.pl,naszwodzislaw.com##.news_box_reklama
@@ -2123,6 +2126,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-mojanorwegia.pl##.newLayerBack
-nportal.no##.commercial-top
-bielskiedrogi.pl###block-block-9,#block-block-12
