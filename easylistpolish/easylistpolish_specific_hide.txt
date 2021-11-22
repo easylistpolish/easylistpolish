@@ -2129,3 +2129,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 facetpo40.pl##.oxad-image
 facetpo40.pl##._ad
 pcworld.pl##.ad-sky2
+pcworld.pl##.ad
