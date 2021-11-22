@@ -2132,3 +2132,4 @@ pcworld.pl##.ad-sky2
 pcworld.pl##.ad
 onet.pl##div[data-section^="ad-flat"]
 onet.pl##div[data-section^="flat-gigaboard"]
+pcworld.pl##.ad-bilbo2
