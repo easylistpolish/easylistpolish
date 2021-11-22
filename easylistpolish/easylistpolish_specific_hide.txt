@@ -2135,3 +2135,4 @@ onet.pl##div[data-section^="flat-gigaboard"]
 pcworld.pl##.ad-bilbo2
 pcworld.pl##.bilbo_ad
 onet.pl##body[onload*=".loadAds"]
+top24.pl##a[href^="https://ad-server."]
