@@ -2125,3 +2125,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 mojanorwegia.pl##.newLayerBack
 nportal.no##.commercial-top
+bielskiedrogi.pl###block-block-9,#block-block-12
