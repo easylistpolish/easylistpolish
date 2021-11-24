@@ -2170,3 +2170,4 @@ naszradziejow.pl##.TOPNewsB
 plonskwsieci.pl##.TOPNewsB
 sompolno24.pl##.TOPNewsB
 gwio.pl##.TOPNewsB
+hej.mielec.pl##.TOPNewsB
