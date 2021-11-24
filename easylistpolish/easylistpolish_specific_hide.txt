@@ -2148,3 +2148,4 @@ roztocze.net##.TOPNewsB
 ibytow.pl##.TOPNewsB
 e-wabrzezno.info.pl##.TOPNewsB
 e-golub.info.pl##.TOPNewsB
+drawskopomorskie.com##.TOPNewsB
