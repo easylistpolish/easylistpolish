@@ -2157,3 +2157,4 @@ wpu24.pl##.TOPNewsB
 miastko24.pl##.TOPNewsB
 iszczecinek.pl##.TOPNewsB
 faktyct.pl##.TOPNewsB
+ipoddebice.pl##.TOPNewsB
