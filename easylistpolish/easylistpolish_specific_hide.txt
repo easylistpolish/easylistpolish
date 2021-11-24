@@ -2154,3 +2154,4 @@ hej.rzeszow.pl##.TOPNewsB
 pulsgminy.pl##.TOPNewsB
 gwarek.com.pl##.TOPNewsB
 wpu24.pl##.TOPNewsB
+miastko24.pl##.TOPNewsB
