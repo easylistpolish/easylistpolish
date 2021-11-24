@@ -2165,3 +2165,4 @@ portalsremski.pl##.TOPNewsB
 chelmza365.pl##.TOPNewsB
 pulsciechanowa.pl##.TOPNewsB
 ejarocin.pl##.TOPNewsB
+rzeczkrotoszynska.pl##.TOPNewsB
