@@ -2153,3 +2153,4 @@ lowiczanin.info##.TOPNewsB
 hej.rzeszow.pl##.TOPNewsB
 pulsgminy.pl##.TOPNewsB
 gwarek.com.pl##.TOPNewsB
+wpu24.pl##.TOPNewsB
