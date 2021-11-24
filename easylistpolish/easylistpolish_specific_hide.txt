@@ -2161,3 +2161,4 @@ ipoddebice.pl##.TOPNewsB
 leszno24.pl##.TOPNewsB
 wkikole.pl##.TOPNewsB
 infomogilno24.pl##.TOPNewsB
+portalsremski.pl##.TOPNewsB
