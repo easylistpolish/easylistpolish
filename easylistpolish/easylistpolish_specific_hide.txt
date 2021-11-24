@@ -2145,3 +2145,4 @@ terazstrzelno.pl##.TOPNewsB
 zawiercie365.pl##.TOPNewsB
 terazgabin.pl##.TOPNewsB
 roztocze.net##.TOPNewsB
+ibytow.pl##.TOPNewsB
