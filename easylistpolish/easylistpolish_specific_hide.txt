@@ -2140,3 +2140,4 @@ zlomzy.pl##.TOPNewsB
 myszkow365.pl##.TOPNewsB
 radzyninfo.pl##.TOPNewsB
 bielskirynek.pl##.TOPNewsB
+wrzesnia.info.pl##.TOPNewsB
