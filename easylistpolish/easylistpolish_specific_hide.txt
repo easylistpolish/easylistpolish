@@ -2167,3 +2167,4 @@ pulsciechanowa.pl##.TOPNewsB
 ejarocin.pl##.TOPNewsB
 rzeczkrotoszynska.pl##.TOPNewsB
 naszradziejow.pl##.TOPNewsB
+plonskwsieci.pl##.TOPNewsB
