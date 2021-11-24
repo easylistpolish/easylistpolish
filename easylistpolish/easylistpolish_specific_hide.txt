@@ -2150,3 +2150,4 @@ e-wabrzezno.info.pl##.TOPNewsB
 e-golub.info.pl##.TOPNewsB
 drawskopomorskie.com##.TOPNewsB
 lowiczanin.info##.TOPNewsB
+hej.rzeszow.pl##.TOPNewsB
