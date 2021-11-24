@@ -2158,3 +2158,4 @@ miastko24.pl##.TOPNewsB
 iszczecinek.pl##.TOPNewsB
 faktyct.pl##.TOPNewsB
 ipoddebice.pl##.TOPNewsB
+leszno24.pl##.TOPNewsB
