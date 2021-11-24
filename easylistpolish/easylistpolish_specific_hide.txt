@@ -481,6 +481,7 @@ e-telecom.pl,sklep-militarny.com.pl##.Reklamy
 ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,infoskierniewice.pl,police24.pl,slu24.pl,swiecie24.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
+facetpo40.pl##._ad
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 slupca.pl##.a-220
 portalmorski.pl##.a-block
@@ -505,13 +506,15 @@ gazeta-olawa.pl##.absolute
 gazeta-olawa.pl##.absolute + img
 gazeta-olawa.pl##.absolute + p
 echirurgia.pl##.actr
-300polityka.pl,anglia.today,atleti.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,demoty.pl,dwadozera.pl,egit.pl,evertiq.pl,gazeo.pl,ipolska24.pl,jarock.pl,lublin112.pl,mma.pl,mojabochnia.pl,nurkowapolska.pl,pclab.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,takze.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
+300polityka.pl,anglia.today,atleti.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,demoty.pl,dwadozera.pl,egit.pl,evertiq.pl,gazeo.pl,ipolska24.pl,jarock.pl,lublin112.pl,mma.pl,mojabochnia.pl,nurkowapolska.pl,pclab.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,takze.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
 kazimierzdolny.pl##.ad--main
+pcworld.pl##.ad-bilbo2
 eholiday.pl,fcinter.pl,moviesroom.pl##.ad-box
 biznesalert.pl,styl.fm##.ad-container
 promocja.mielec.pl##.ad-image
 zyciemyszkowa.pl##.ad-info + div
 chelmski.eu##.ad-single1
+pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
 7dnikalisza.com##.ad-small
 polskieligi.net##.ad-top-container
@@ -730,6 +733,7 @@ bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informac
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
+pcworld.pl##.bilbo_ad
 ddwloclawek.pl,portalzamojski.pl,samosia.pl,sieradz.com.pl,teksty.org##.billboard
 tustolica.pl##.bimg
 hokej.net##.birthday ~ a[target="_blank"]
@@ -1109,6 +1113,7 @@ olx.pl##.otokredytbox
 stefczyk.info##.our-sites-links
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
+facetpo40.pl##.oxad-image
 nieznanyswiat.pl##.page-masthead
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 farmer.pl,pomorska.pl##.partner
@@ -1662,6 +1667,7 @@ swoszowice.org.pl##a[href^="http://www.unison.pl/"]
 e-grajewo.pl##a[href^="http://www.yasam.com.pl"]
 mdhmyslowice.pl##a[href^="http://www.znaczki-turystyczne.pl/znaczkowe-miejsca-turystyczne/"]
 dts24.pl##a[href^="https://abcekodom.pl/"]
+top24.pl##a[href^="https://ad-server."]
 szpileczki.pl##a[href^="https://ad.zanox."]
 strefainzyniera.pl##a[href^="https://angielskitechniczny.edu.pl/"]
 bstok.pl##a[href^="https://askdom.pl/"]
@@ -1833,6 +1839,7 @@ przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
 busradar.pl##bls-banner-ad
 ostrowczanie.info##body > center > a
 tyna.info.pl##body > center img
+onet.pl##body[onload*=".loadAds"]
 tkn24.pl##center > a[target="_blank"] > img
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.o2.pl,poczta.wp.pl##dd-holder
@@ -1950,6 +1957,8 @@ wylecz.to##div[data-event="slotSeen"]
 wylecz.to##div[data-event="slotseen"]
 wylecz.to##div[data-evet="slotseen"]
 wp.pl##div[data-native-adv]
+onet.pl##div[data-section^="ad-flat"]
+onet.pl##div[data-section^="flat-gigaboard"]
 miastokolobrzeg.pl##div[id*="-baner-"]
 e-playonline.com##div[id*="_ads_banner_"]
 rekomendowanefirmy.pl##div[id^="AD-"]
