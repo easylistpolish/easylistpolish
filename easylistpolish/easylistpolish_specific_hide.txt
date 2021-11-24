@@ -2137,3 +2137,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 glospowiatusredzkiego.pl##.TOPNewsB
 zlomzy.pl##.TOPNewsB
+myszkow365.pl##.TOPNewsB
