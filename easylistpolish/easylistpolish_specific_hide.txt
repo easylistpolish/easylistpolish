@@ -2140,3 +2140,4 @@ mojakruszwica.pl##.TOPNewsB
 abcjanikowo24.pl##.TOPNewsB
 gst24.pl##.TOPNewsB
 spotradomsko.pl##.TOPNewsB
+esopot.pl##.TOPNewsB
