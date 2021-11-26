@@ -2149,3 +2149,4 @@ e-chelmno.pl##.TOPNewsB
 tusochaczew.pl##.TOPNewsB
 tarnowska.pl##.TOPNewsB
 jastrowie24.pl##.TOPNewsB
+grudziadz365.pl##.TOPNewsB
