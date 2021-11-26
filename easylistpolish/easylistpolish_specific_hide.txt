@@ -2144,3 +2144,4 @@ esopot.pl##.TOPNewsB
 chocianow.com.pl##.TOPNewsB
 pakosc24.pl##.TOPNewsB
 brodnica365.pl##.TOPNewsB
+expresskaszubski.pl##.TOPNewsB
