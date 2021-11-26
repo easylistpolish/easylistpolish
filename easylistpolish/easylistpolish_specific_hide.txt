@@ -2147,3 +2147,4 @@ brodnica365.pl##.TOPNewsB
 expresskaszubski.pl##.TOPNewsB
 e-chelmno.pl##.TOPNewsB
 tusochaczew.pl##.TOPNewsB
+tarnowska.pl##.TOPNewsB
