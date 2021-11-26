@@ -2142,3 +2142,4 @@ gst24.pl##.TOPNewsB
 spotradomsko.pl##.TOPNewsB
 esopot.pl##.TOPNewsB
 chocianow.com.pl##.TOPNewsB
+pakosc24.pl##.TOPNewsB
