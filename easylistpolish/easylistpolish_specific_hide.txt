@@ -2152,3 +2152,4 @@ jastrowie24.pl##.TOPNewsB
 grudziadz365.pl##.TOPNewsB
 gle24.pl##.santa-main-wrapper
 gle24.pl##.TOPNewsB
+extrawalcz.pl##.TOPNewsB
