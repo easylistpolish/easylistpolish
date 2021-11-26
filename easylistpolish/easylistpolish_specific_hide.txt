@@ -2135,5 +2135,20 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+isanok.pl##.TOPNewsB
+mojakruszwica.pl##.TOPNewsB
+abcjanikowo24.pl##.TOPNewsB
+gst24.pl##.TOPNewsB
+spotradomsko.pl##.TOPNewsB
+esopot.pl##.TOPNewsB
+chocianow.com.pl##.TOPNewsB
+pakosc24.pl##.TOPNewsB
+brodnica365.pl##.TOPNewsB
+expresskaszubski.pl##.TOPNewsB
+e-chelmno.pl##.TOPNewsB
+tusochaczew.pl##.TOPNewsB
+tarnowska.pl##.TOPNewsB
+jastrowie24.pl##.TOPNewsB
+grudziadz365.pl##.TOPNewsB
 gle24.pl##.santa-main-wrapper
 gle24.pl##.TOPNewsB
