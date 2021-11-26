@@ -2137,3 +2137,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 isanok.pl##.TOPNewsB
 mojakruszwica.pl##.TOPNewsB
+abcjanikowo24.pl##.TOPNewsB
