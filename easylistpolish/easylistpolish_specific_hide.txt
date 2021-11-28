@@ -2152,3 +2152,4 @@ e-krajna.pl##.TOPNewsB
 zyciesokolowa.pl##.TOPNewsB
 koronowo.net.pl##.TOPNewsB
 kolniak24.eu##.TOPNewsB
+gniewkowo.eu##.TOPNewsB
