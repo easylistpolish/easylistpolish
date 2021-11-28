@@ -2144,3 +2144,4 @@ ekutno.pl##.TOPNewsB
 nizanskie.info##.TOPNewsB
 uniejow.net.pl##.TOPNewsB
 tygodnik.pl##.TOPNewsB
+gorlice24.pl##.TOPNewsB
