@@ -2142,3 +2142,4 @@ gostyn24.pl##.TOPNewsB
 gwe24.pl##.TOPNewsB
 ekutno.pl##.TOPNewsB
 nizanskie.info##.TOPNewsB
+uniejow.net.pl##.TOPNewsB
