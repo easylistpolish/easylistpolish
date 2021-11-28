@@ -2135,4 +2135,21 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+superchodziez.pl##.TOPNewsB
+itvszubin.pl##.TOPNewsB
+terazlipno.pl##.TOPNewsB
+gostyn24.pl##.TOPNewsB
+gwe24.pl##.TOPNewsB
+ekutno.pl##.TOPNewsB
+nizanskie.info##.TOPNewsB
+uniejow.net.pl##.TOPNewsB
+tygodnik.pl##.TOPNewsB
+gorlice24.pl##.TOPNewsB
+czas.tygodnik.pl##.TOPNewsB
+bydgoszcz24.pl##.TOPNewsB
+zyciesiedleckie.pl##.TOPNewsB
+e-krajna.pl##.TOPNewsB
+zyciesokolowa.pl##.TOPNewsB
+koronowo.net.pl##.TOPNewsB
+kolniak24.eu##.TOPNewsB
 gniewkowo.eu##.TOPNewsB
