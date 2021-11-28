@@ -478,7 +478,7 @@ wyspiarzniebieski.pl##.CommTxt1
 gazeta.pl##.DFP-premiumBoardReservedPlace
 mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
-abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,drawskopomorskie.com,e-chelmno.pl,e-golub.info.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,jastrowie24.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazstrzelno.pl,tusochaczew.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl##.TOPNewsB
+abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,drawskopomorskie.com,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,kolniak24.eu,koronowo.net.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 facetpo40.pl##._ad
@@ -2135,21 +2135,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-superchodziez.pl##.TOPNewsB
-itvszubin.pl##.TOPNewsB
-terazlipno.pl##.TOPNewsB
-gostyn24.pl##.TOPNewsB
-gwe24.pl##.TOPNewsB
-ekutno.pl##.TOPNewsB
-nizanskie.info##.TOPNewsB
-uniejow.net.pl##.TOPNewsB
-tygodnik.pl##.TOPNewsB
-gorlice24.pl##.TOPNewsB
-czas.tygodnik.pl##.TOPNewsB
-bydgoszcz24.pl##.TOPNewsB
-zyciesiedleckie.pl##.TOPNewsB
-e-krajna.pl##.TOPNewsB
-zyciesokolowa.pl##.TOPNewsB
-koronowo.net.pl##.TOPNewsB
-kolniak24.eu##.TOPNewsB
-gniewkowo.eu##.TOPNewsB
