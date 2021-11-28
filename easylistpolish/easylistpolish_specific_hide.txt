@@ -2147,3 +2147,4 @@ tygodnik.pl##.TOPNewsB
 gorlice24.pl##.TOPNewsB
 czas.tygodnik.pl##.TOPNewsB
 bydgoszcz24.pl##.TOPNewsB
+zyciesiedleckie.pl##.TOPNewsB
