@@ -2149,3 +2149,4 @@ czas.tygodnik.pl##.TOPNewsB
 bydgoszcz24.pl##.TOPNewsB
 zyciesiedleckie.pl##.TOPNewsB
 e-krajna.pl##.TOPNewsB
+zyciesokolowa.pl##.TOPNewsB
