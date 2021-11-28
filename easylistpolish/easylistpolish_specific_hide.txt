@@ -2139,3 +2139,4 @@ superchodziez.pl##.TOPNewsB
 itvszubin.pl##.TOPNewsB
 terazlipno.pl##.TOPNewsB
 gostyn24.pl##.TOPNewsB
+gwe24.pl##.TOPNewsB
