@@ -2150,3 +2150,4 @@ kurierlubelski.pl##.adsSlotContainer
 nowiny24.pl##.atomsAdsCellModel
 nowiny24.pl##.adsSlotContainer
 pomorska.pl##.atomsAdsCellModel
+pomorska.pl##.adsSlotContainer
