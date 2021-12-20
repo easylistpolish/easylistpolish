@@ -2155,3 +2155,4 @@ poranny.pl##.atomsAdsCellModel
 poranny.pl##.adsSlotContainer
 forumbranzowe.com##section[id^="reklama_"]
 eporady24.pl##a[href^="https://bluepillows.pl/"]
+spadek.info##a[href^="https://bluepillows.pl/"]
