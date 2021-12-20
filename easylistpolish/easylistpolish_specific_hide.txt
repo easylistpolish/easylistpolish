@@ -2151,3 +2151,4 @@ nowiny24.pl##.atomsAdsCellModel
 nowiny24.pl##.adsSlotContainer
 pomorska.pl##.atomsAdsCellModel
 pomorska.pl##.adsSlotContainer
+poranny.pl##.atomsAdsCellModel
