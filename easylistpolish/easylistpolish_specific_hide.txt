@@ -2148,3 +2148,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kurierlubelski.pl##.atomsAdsCellModel
 kurierlubelski.pl##.adsSlotContainer
 nowiny24.pl##.atomsAdsCellModel
+nowiny24.pl##.adsSlotContainer
