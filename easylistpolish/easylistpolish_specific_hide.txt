@@ -2153,3 +2153,4 @@ dziennikbaltycki.pl##.atomsAdsCellModel
 dziennikbaltycki.pl##.adsSlotContainer
 dzienniklodzki.pl##.atomsAdsCellModel
 dzienniklodzki.pl##.adsSlotContainer
+dziennikpolski24.pl##.atomsAdsCellModel
