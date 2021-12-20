@@ -606,7 +606,7 @@ chaosvault.com##.advertising
 glamour.pl##.advertising-billboard
 gala.pl##.advertising-box
 mojanorwegia.pl##.advertisment-info
-plotek.pl,haps.pl,edziecko.pl##.adviewDFPBanner
+sport.pl,plotek.pl,haps.pl,edziecko.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
 dailyweb.pl##.adwse-headerr
