@@ -2149,3 +2149,4 @@ echodnia.eu##.atomsAdsCellModel
 echodnia.eu##.adsSlotContainer
 polskatimes.pl##.atomsAdsCellModel
 polskatimes.pl##.adsSlotContainer
+dziennikbaltycki.pl##.atomsAdsCellModel
