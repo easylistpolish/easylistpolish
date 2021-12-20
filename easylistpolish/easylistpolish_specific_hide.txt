@@ -2151,3 +2151,4 @@ polskatimes.pl##.atomsAdsCellModel
 polskatimes.pl##.adsSlotContainer
 dziennikbaltycki.pl##.atomsAdsCellModel
 dziennikbaltycki.pl##.adsSlotContainer
+dzienniklodzki.pl##.atomsAdsCellModel
