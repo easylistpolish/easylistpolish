@@ -2163,3 +2163,4 @@ gk24.pl##.atomsAdsCellModel
 gk24.pl##.adsSlotContainer
 gloswielkopolski.pl##.atomsAdsCellModel
 gloswielkopolski.pl##.adsSlotContainer
+gp24.pl##.atomsAdsCellModel
