@@ -2148,3 +2148,4 @@ edziecko.pl##div[id^="div-gpt-ad-"]
 egospodarka.pl##.ad750
 edziecko.pl##.banLabel
 edziecko.pl##div[id^="adUnit-"]
+edziecko.pl##.adviewDFPBanner
