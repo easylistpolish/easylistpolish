@@ -2143,3 +2143,4 @@ gazetalubuska.pl##.adsSlotContainer
 gazetakrakowska.pl##.adsSlotContainer
 gazetakrakowska.pl##.atomsAdsCellModel
 edziecko.pl##div[id^="ads"]
+fizjoterapeuty.pl##div[class^="a-single a-"]
