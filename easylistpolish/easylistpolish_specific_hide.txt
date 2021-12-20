@@ -2159,3 +2159,4 @@ dziennikzachodni.pl##.atomsAdsCellModel
 dziennikzachodni.pl##.adsSlotContainer
 expressbydgoski.pl##.atomsAdsCellModel
 expressbydgoski.pl##.adsSlotContainer
+gk24.pl##.atomsAdsCellModel
