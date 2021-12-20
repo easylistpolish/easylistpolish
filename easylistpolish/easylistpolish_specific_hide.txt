@@ -2139,3 +2139,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nportal.no##[class^="commercial-"]
 twojradom.pl##.l-ad-top
 gazetalubuska.pl##.atomsAdsCellModel
+gazetalubuska.pl##.adsSlotContainer
