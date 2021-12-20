@@ -2161,3 +2161,4 @@ expressbydgoski.pl##.atomsAdsCellModel
 expressbydgoski.pl##.adsSlotContainer
 gk24.pl##.atomsAdsCellModel
 gk24.pl##.adsSlotContainer
+gloswielkopolski.pl##.atomsAdsCellModel
