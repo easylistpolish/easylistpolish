@@ -2147,3 +2147,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 echodnia.eu##.atomsAdsCellModel
 echodnia.eu##.adsSlotContainer
+polskatimes.pl##.atomsAdsCellModel
