@@ -2153,3 +2153,4 @@ pomorska.pl##.atomsAdsCellModel
 pomorska.pl##.adsSlotContainer
 poranny.pl##.atomsAdsCellModel
 poranny.pl##.adsSlotContainer
+forumbranzowe.com##section[id^="reklama_"]
