@@ -2145,3 +2145,4 @@ gazetakrakowska.pl##.atomsAdsCellModel
 edziecko.pl##div[id^="ads"]
 fizjoterapeuty.pl##div[class^="a-single a-"]
 edziecko.pl##div[id^="div-gpt-ad-"]
+egospodarka.pl##.ad750
