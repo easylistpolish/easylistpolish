@@ -556,7 +556,7 @@ kamienskie.info##.ads-subpage
 szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
 tarnowiak.pl##.adsRightBox
-gazetakrakowska.pl,gazetalubuska.pl,gs24.pl##.adsSlotContainer
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,polskatimes.pl##.adsSlotContainer
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
@@ -629,7 +629,7 @@ parenting.pl##.article__textbox
 globenergia.pl##.article_headline_ad
 posbud.com.pl##.as_marquee0
 podlaskie.tv##.askdom-wrapper
-gazetakrakowska.pl,gazetalubuska.pl,gs24.pl##.atomsAdsCellModel
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,polskatimes.pl##.atomsAdsCellModel
 glospedagogiczny.pl##.auto-pr-block > a
 elektroda.pl##.auto-promotion
 tutsplus.com##.avert
@@ -2145,23 +2145,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-echodnia.eu##.atomsAdsCellModel
-echodnia.eu##.adsSlotContainer
-polskatimes.pl##.atomsAdsCellModel
-polskatimes.pl##.adsSlotContainer
-dziennikbaltycki.pl##.atomsAdsCellModel
-dziennikbaltycki.pl##.adsSlotContainer
-dzienniklodzki.pl##.atomsAdsCellModel
-dzienniklodzki.pl##.adsSlotContainer
-dziennikpolski24.pl##.atomsAdsCellModel
-dziennikpolski24.pl##.adsSlotContainer
-dziennikzachodni.pl##.atomsAdsCellModel
-dziennikzachodni.pl##.adsSlotContainer
-expressbydgoski.pl##.atomsAdsCellModel
-expressbydgoski.pl##.adsSlotContainer
-gk24.pl##.atomsAdsCellModel
-gk24.pl##.adsSlotContainer
-gloswielkopolski.pl##.atomsAdsCellModel
-gloswielkopolski.pl##.adsSlotContainer
-gp24.pl##.atomsAdsCellModel
-gp24.pl##.adsSlotContainer
