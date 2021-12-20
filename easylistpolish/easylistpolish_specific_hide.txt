@@ -2140,3 +2140,4 @@ nportal.no##[class^="commercial-"]
 twojradom.pl##.l-ad-top
 gazetalubuska.pl##.atomsAdsCellModel
 gazetalubuska.pl##.adsSlotContainer
+gazetakrakowska.pl##.adsSlotContainer
