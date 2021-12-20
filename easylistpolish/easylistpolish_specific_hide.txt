@@ -2150,3 +2150,4 @@ edziecko.pl##.banLabel
 edziecko.pl##div[id^="adUnit-"]
 edziecko.pl##.adviewDFPBanner
 gs24.pl##.atomsAdsCellModel
+gs24.pl##.adsSlotContainer
