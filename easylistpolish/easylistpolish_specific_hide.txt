@@ -2142,3 +2142,4 @@ gazetalubuska.pl##.atomsAdsCellModel
 gazetalubuska.pl##.adsSlotContainer
 gazetakrakowska.pl##.adsSlotContainer
 gazetakrakowska.pl##.atomsAdsCellModel
+edziecko.pl##div[id^="ads"]
