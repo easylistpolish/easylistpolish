@@ -2149,3 +2149,4 @@ egospodarka.pl##.ad750
 edziecko.pl##.banLabel
 edziecko.pl##div[id^="adUnit-"]
 edziecko.pl##.adviewDFPBanner
+gs24.pl##.atomsAdsCellModel
