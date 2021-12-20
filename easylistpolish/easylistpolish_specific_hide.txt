@@ -556,7 +556,7 @@ kamienskie.info##.ads-subpage
 szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
 tarnowiak.pl##.adsRightBox
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,polskatimes.pl##.adsSlotContainer
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl##.adsSlotContainer
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
@@ -606,7 +606,7 @@ chaosvault.com##.advertising
 glamour.pl##.advertising-billboard
 gala.pl##.advertising-box
 mojanorwegia.pl##.advertisment-info
-sport.pl,plotek.pl,haps.pl,edziecko.pl##.adviewDFPBanner
+edziecko.pl,haps.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
 dailyweb.pl##.adwse-headerr
@@ -629,7 +629,7 @@ parenting.pl##.article__textbox
 globenergia.pl##.article_headline_ad
 posbud.com.pl##.as_marquee0
 podlaskie.tv##.askdom-wrapper
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,polskatimes.pl##.atomsAdsCellModel
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl##.atomsAdsCellModel
 glospedagogiczny.pl##.auto-pr-block > a
 elektroda.pl##.auto-promotion
 tutsplus.com##.avert
@@ -646,7 +646,7 @@ szubin24.pl##.ban
 koty24.pl##.ban-71
 badaniaprenatalne.pl##.ban-top
 plotek.pl##.ban001_wrapper
-sport.pl,plotek.pl,haps.pl,edziecko.pl##.banLabel
+edziecko.pl,haps.pl,plotek.pl,sport.pl##.banLabel
 pulskwidzyna.pl##.banToper
 mapabts.pl##.bane
 asta24.pl,ddwlkp.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pch24.info,pmi24.info,pojezierze24.pl,polskicaravaning.pl,pszczynska.pl,pzl24.info,speedwaynews.pl,sportowebeskidy.pl,swiatkarinki.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl,wygasle.net##.baner
@@ -981,6 +981,7 @@ muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
 6krokow.pl##.img_rkl
 autoline.com.pl##.index-banners
+gazeta.pl##.indexPremium__adv
 infozlocieniec.pl##.infoz-widget
 komorkomania.pl##.insert--top-offer
 abczdrowie.pl,autocentrum.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.insert—top-offer
@@ -1163,6 +1164,7 @@ ewejsciowki.pl##.promo-container
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 kutno.net.pl##.promo-section
 portaltatrzanski.pl##.promoadv
+forumbranzowe.com##.promocje
 lol24.com,zumi.pl##.promotion
 przegladpiaseczynski.pl##.przeglad-reklama-box
 gazetalubliniecka.pl,kryptoholik.pl,ool24.pl##.pum-overlay
@@ -1684,6 +1686,7 @@ swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
 pl.ign.com##a[href^="https://bit.ly/"]
 emecze.pl##a[href^="https://bitcoinpl.org/"]
 icomp.pl##a[href^="https://biuropro.pl/"]
+eporady24.pl,spadek.info##a[href^="https://bluepillows.pl/"]
 hokej.net##a[href^="https://bogigolf.com.pl"]
 przeclaw24.pl##a[href^="https://booksy.com/"]
 narodowcy.net##a[href^="https://capitalbook.com.pl/"]
@@ -1970,12 +1973,12 @@ miastokolobrzeg.pl##div[id*="-baner-"]
 e-playonline.com##div[id*="_ads_banner_"]
 rekomendowanefirmy.pl##div[id^="AD-"]
 mgsm.pl##div[id^="AdArea"]
-sport.pl,plotek.pl,haps.pl,edziecko.pl##div[id^="adUnit-"]
+edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="adUnit-"]
 interia.pl##div[id^="ad_box"]
 starysacz.info##div[id^="addon-rotator-"]
 signs.pl##div[id^="adibadi"]
 gotujmy.pl##div[id^="adl-placement"]
-sport.pl,plotek.pl,haps.pl,edziecko.pl##div[id^="ads"]
+edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="ads"]
 dzienniknarodowy.pl##div[id^="adswidget"]
 pod24.info,samosia.pl,wawalove.pl##div[id^="adv"]
 pch24.pl##div[id^="baner"]
@@ -1990,7 +1993,7 @@ przemysl24.pl##div[id^="box-rek-"]
 zakazanaprawda.pl##div[id^="custom_html-"]
 dziennikplocki.pl##div[id^="cycloneslider-reklama"]
 radiopiekary.pl##div[id^="cycloneslider-reklama-"]
-sport.pl,plotek.pl,haps.pl,edziecko.pl##div[id^="div-gpt-ad-"]
+edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="div-gpt-ad-"]
 komputerowapasja.pl##div[id^="dolnyobraz"]
 polki.pl##div[id^="ecomm-ssr-wrapper-"]
 francuskie.pl##div[id^="franc-"] img
@@ -2128,6 +2131,7 @@ miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
 pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
+forumbranzowe.com##section[id^="reklama_"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 poczta.o2.pl,poczta.wp.pl##sidebar-feed
 legnica.fm##span + ul > .banneritem
@@ -2145,16 +2149,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-kurierlubelski.pl##.atomsAdsCellModel
-kurierlubelski.pl##.adsSlotContainer
-nowiny24.pl##.atomsAdsCellModel
-nowiny24.pl##.adsSlotContainer
-pomorska.pl##.atomsAdsCellModel
-pomorska.pl##.adsSlotContainer
-poranny.pl##.atomsAdsCellModel
-poranny.pl##.adsSlotContainer
-forumbranzowe.com##section[id^="reklama_"]
-eporady24.pl##a[href^="https://bluepillows.pl/"]
-spadek.info##a[href^="https://bluepillows.pl/"]
-forumbranzowe.com##.promocje
-gazeta.pl##.indexPremium__adv
