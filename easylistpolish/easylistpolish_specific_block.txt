@@ -1035,3 +1035,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=faktypilskie.pl
 ^banery_foto^$domain=ddtorun.pl
 ^banery_foto^$domain=ciechocinek.biz
+^banery_foto^$domain=swiecie24.pl
