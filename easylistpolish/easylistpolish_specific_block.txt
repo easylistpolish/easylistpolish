@@ -1043,3 +1043,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=itvszubin.pl
 ^banery_foto^$domain=gniewkowo.eu
 ^banery_foto^$domain=kolniak24.eu
+^banery_foto^$domain=e-krajna.pl
