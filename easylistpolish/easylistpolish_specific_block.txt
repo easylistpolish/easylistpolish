@@ -1040,3 +1040,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=bydgoszcz24.pl
 ^banery_foto^$domain=gorlice24.pl
 ^banery_foto^$domain=superchodziez.pl
+^banery_foto^$domain=itvszubin.pl
