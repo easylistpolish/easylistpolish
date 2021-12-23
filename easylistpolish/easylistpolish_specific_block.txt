@@ -1031,4 +1031,11 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^banery_foto^$domain=ddwloclawek.pl
+^banery_foto^$domain=faktypilskie.pl
+^banery_foto^$domain=ddtorun.pl
+^banery_foto^$domain=ciechocinek.biz
+^banery_foto^$domain=swiecie24.pl
+^banery_foto^$domain=uniejow.net.pl
+^banery_foto^$domain=bydgoszcz24.pl
 ^banery_foto^$domain=gorlice24.pl
