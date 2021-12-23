@@ -1047,3 +1047,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=zyciesokolowa.pl
 ^banery_foto^$domain=koronowo.net.pl
 ^banery_foto^$domain=nizanskie.info
+^banery_foto^$domain=ekutno.pl
