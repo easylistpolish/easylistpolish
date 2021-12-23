@@ -1037,3 +1037,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=ciechocinek.biz
 ^banery_foto^$domain=swiecie24.pl
 ^banery_foto^$domain=uniejow.net.pl
+^banery_foto^$domain=bydgoszcz24.pl
