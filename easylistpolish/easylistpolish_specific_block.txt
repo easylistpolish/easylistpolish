@@ -1045,3 +1045,4 @@ inline__1_$domain=twojradom.pl
 ^banery_foto^$domain=kolniak24.eu
 ^banery_foto^$domain=e-krajna.pl
 ^banery_foto^$domain=zyciesokolowa.pl
+^banery_foto^$domain=koronowo.net.pl
