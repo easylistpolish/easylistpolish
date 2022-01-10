@@ -39,6 +39,7 @@ kozienice24.pl,zwolen24.pl###adocr
 gexe.pl,infookno.pl,swieradowzdroj.pl###ads
 icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
+businessinsider.com.pl##.adsContainer
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
 tygodnik.szczytno.pl###advContener
