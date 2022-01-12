@@ -2155,3 +2155,4 @@ iwola.pl##.l-ad-top
 ibialoleka.pl##.l-ad-top
 wio.waw.pl##.l-ad-top
 ibielany.pl##.l-ad-top
+ibemowo.pl##.l-ad-top
