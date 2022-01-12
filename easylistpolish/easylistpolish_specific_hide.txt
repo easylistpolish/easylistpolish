@@ -2154,3 +2154,4 @@ przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 iwola.pl##.l-ad-top
 ibialoleka.pl##.l-ad-top
 wio.waw.pl##.l-ad-top
+ibielany.pl##.l-ad-top
