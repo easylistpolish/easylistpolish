@@ -1032,3 +1032,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^inline__1_$domain=iwola.pl
+^inline__1_$domain=ibemowo.pl
