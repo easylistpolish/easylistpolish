@@ -2151,3 +2151,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
+iwola.pl##.l-ad-top
