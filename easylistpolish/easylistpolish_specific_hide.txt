@@ -39,6 +39,7 @@ kozienice24.pl,zwolen24.pl###adocr
 gexe.pl,infookno.pl,swieradowzdroj.pl###ads
 icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
+businessinsider.com.pl##.adsContainer
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
 tygodnik.szczytno.pl###advContener
@@ -2149,3 +2150,13 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
+iwola.pl##.l-ad-top
+ibialoleka.pl##.l-ad-top
+wio.waw.pl##.l-ad-top
+ibielany.pl##.l-ad-top
+ibemowo.pl##.l-ad-top
+iwola.pl##.l-ad-top
+iochota.pl##.l-ad-top
+iursynow.pl##.l-ad-top
+trojmiasto.pl##.banner-a
