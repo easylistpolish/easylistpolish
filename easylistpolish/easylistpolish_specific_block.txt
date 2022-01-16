@@ -1031,4 +1031,6 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^inline__1_$domain=iwola.pl
+^inline__1_$domain=ibemowo.pl
 ^inline__1_$domain=iursus.pl
