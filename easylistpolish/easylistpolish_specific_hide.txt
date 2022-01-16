@@ -39,7 +39,6 @@ kozienice24.pl,zwolen24.pl###adocr
 gexe.pl,infookno.pl,swieradowzdroj.pl###ads
 icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
-businessinsider.com.pl##.adsContainer
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
 tygodnik.szczytno.pl###advContener
@@ -556,6 +555,7 @@ rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
 szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
+businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl##.adsSlotContainer
 news-sport.pl##.adscounter
@@ -677,6 +677,7 @@ doba.pl##.baneryB-140
 instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,nadwisla24.pl,naekranie.pl,naszekwatery.pl,netkonkret.pl,nieruchomoscipodlaskie.pl,obligacje.pl,on-line24h.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
 pracujwlogistyce.pl##.banner-1
+trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
 lebork24.info##.banner-box
 production-manager.pl##.banner-carousel
@@ -1014,7 +1015,7 @@ walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
 kuriergmin.pl##.kurie-billboard
-ddb24.pl,egarwolin.pl,mylomza.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,twojradom.pl,wabrzezno-cwa.pl##.l-ad-top
+ddb24.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,iochota.pl,iursynow.pl,iwola.pl,mylomza.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl##.l-ad-top
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
@@ -1353,6 +1354,7 @@ elementarzprojektanta.pl##.td-fix-index
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 sulecin24.pl##.td-rec-spot img
+przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 progressforpoland.org##.td_block_single_image
 sochaczewianin.pl##.td_block_wrap .td-a-rec
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
@@ -2150,13 +2152,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
-iwola.pl##.l-ad-top
-ibialoleka.pl##.l-ad-top
-wio.waw.pl##.l-ad-top
-ibielany.pl##.l-ad-top
-ibemowo.pl##.l-ad-top
-iwola.pl##.l-ad-top
-iochota.pl##.l-ad-top
-iursynow.pl##.l-ad-top
-trojmiasto.pl##.banner-a
