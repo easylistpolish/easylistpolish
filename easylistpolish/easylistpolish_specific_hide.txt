@@ -2157,3 +2157,4 @@ wio.waw.pl##.l-ad-top
 ibielany.pl##.l-ad-top
 ibemowo.pl##.l-ad-top
 iwola.pl##.l-ad-top
+iochota.pl##.l-ad-top
