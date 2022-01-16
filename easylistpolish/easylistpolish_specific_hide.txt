@@ -2159,3 +2159,4 @@ ibemowo.pl##.l-ad-top
 iwola.pl##.l-ad-top
 iochota.pl##.l-ad-top
 iursynow.pl##.l-ad-top
+trojmiasto.pl##.banner-a
