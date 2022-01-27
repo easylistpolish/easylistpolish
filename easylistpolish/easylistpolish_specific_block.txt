@@ -1033,3 +1033,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^inline__1_$domain=iwilanow.pl
 ^inline__1_$domain=itargowek.pl
+^inline__1_$domain=izoliborz.pl
