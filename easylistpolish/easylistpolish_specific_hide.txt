@@ -2157,3 +2157,4 @@ iwilanow.pl##.l-ad-top
 iursus.pl##.l-ad-top
 iwesola.pl##.l-ad-top
 irembertow.pl##.l-ad-top
+itargowek.pl##.l-ad-top
