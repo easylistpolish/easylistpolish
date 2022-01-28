@@ -6,6 +6,7 @@
 ||banmax.com^$third-party
 ||converti.se^$third-party
 ||convertiser.com^$third-party
+||cozyrepeatedlycowardly.com^$third-party
 ||hub.com.pl^$third-party
 ||incontext.pl^$third-party
 ||leadstar.pl^$third-party
