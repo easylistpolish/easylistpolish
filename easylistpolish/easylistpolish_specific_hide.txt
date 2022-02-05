@@ -2173,3 +2173,4 @@ lubimyczytac.pl##.ads-body
 mjakmama24.pl###hook_box_top1
 ppe.pl##.banner-placeholder-screening
 ppe.pl##.banner-screening
+ppe.pl##.banner-skyscraper
