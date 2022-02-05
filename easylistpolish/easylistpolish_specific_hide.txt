@@ -2167,3 +2167,4 @@ haps.pl##div[id^="adUnit-"]
 haps.pl##div[id^="google_ads_iframe_"]
 haps.pl##div[id^="ad_unit"]
 haps.pl##.activeBan
+kobieta.pl##.advertising-billboard
