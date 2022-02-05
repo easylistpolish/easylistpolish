@@ -2181,3 +2181,4 @@ goleniowska.com###golen-442451448
 goleniowska.com###mvp-leader-wrap
 tulegnica.pl##.l-ad-box
 tulegnica.pl##.l-ad-top
+tudeblin.pl##.l-ad-box
