@@ -2178,3 +2178,4 @@ icelandnews.is##.td-a-rec
 fsd24.pl##.banneritem
 fsd24.pl##.bannergroup
 fsd24.pl##.mod-banners
+estrzelce.pl##.bannergroup
