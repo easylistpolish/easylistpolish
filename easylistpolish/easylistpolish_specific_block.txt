@@ -315,7 +315,6 @@ inline__1_$domain=twojradom.pl
 ||czestochowskie24.pl^*^trepka-biuro-
 ||ddbrodnica.pl^*^inter-car-
 ||ddbrodnica.pl^*^pw_majowka_
-||deblin24.eu^*^blocars2.
 ||dentoforum.pl^*^baner1.
 ||di.com.pl^*^inpost.
 ||di.com.pl^*^kalkulator-oc-mfind.
