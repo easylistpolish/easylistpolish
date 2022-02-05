@@ -301,8 +301,8 @@ inline__1_$domain=twojradom.pl
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiabudowlana.info/banery^$image
-||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
+||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
@@ -557,6 +557,7 @@ inline__1_$domain=twojradom.pl
 ||lokalna24.pl^*^wasbruk_
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
+||lubimyczytac.pl/upload/wallpapers/1088/960847-1660x1.$image
 ||lukowicatomy.pl^*^napedy4x4_
 ||lwowecki.info^*^03/samson-
 ||lwowecki.info^*^bielak-fotowoltaika.
@@ -1023,4 +1024,3 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||lubimyczytac.pl/upload/wallpapers/1088/960847-1660x1.$image
