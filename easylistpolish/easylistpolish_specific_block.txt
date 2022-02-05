@@ -331,7 +331,6 @@ inline__1_$domain=twojradom.pl
 ||dynacrems.wp.pl^*=dynacrems-adv-
 ||dz-ow.pl^*^narty.
 ||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
-||dziennikzwiazkowy.com*^*01/PNA.
 ||dzierzgon-twojemiasto.pl^*^mn_przeglady-
 ||dzisiajwgliwicach.pl^*^sixsilver-jubiler
 ||e-hotelarz.pl^*=300x80^
