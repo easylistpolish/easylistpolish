@@ -2169,3 +2169,4 @@ haps.pl##div[id^="ad_unit"]
 haps.pl##.activeBan
 kobieta.pl##.advertising-billboard
 kobieta.pl##div[id^="div-gpt-ad-"]
+lubimyczytac.pl##.ads-body
