@@ -2163,3 +2163,4 @@ haps.pl##.adviewDFPBanner
 interia.pl##[class^="article-body__ad-"]
 interia.pl##.ad-container
 haps.pl##.adviewDFPBanner
+haps.pl##div[id^="adUnit-"]
