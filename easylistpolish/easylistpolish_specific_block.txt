@@ -301,7 +301,6 @@ inline__1_$domain=twojradom.pl
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiabudowlana.info/banery^$image
-||chemiaibiznes.com.pl^*^190x190_nigellin.
 ||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
