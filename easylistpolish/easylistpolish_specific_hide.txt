@@ -30,7 +30,6 @@ dieroten.pl###ad-sts-top
 jasnet.pl###adBox1
 grodzisknews.pl###ad_Container
 a3-club.net###ad_global_below_navbar
-dzieci.org.pl###ad_overall_banner_1
 gotujmy.pl###ad_wallpaper
 fight24.pl###add_produkt
 togethermagazyn.pl###addbaner
