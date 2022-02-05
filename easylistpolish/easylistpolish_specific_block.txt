@@ -380,7 +380,6 @@ inline__1_$domain=twojradom.pl
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||evertiq.pl/bximg^
-||extraswiecie.pl^*^14.anamej.
 ||extraswiecie.pl^*^6.meranti.
 ||extraswiecie.pl^*^7.roplast.
 ||extraswiecie.pl^*^t_pogoda_
