@@ -1031,3 +1031,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lubimyczytac.pl/upload/wallpapers/1088/960847-1660x1.$image
