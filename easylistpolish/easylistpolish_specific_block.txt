@@ -400,7 +400,6 @@ inline__1_$domain=twojradom.pl
 ||fordclubpolska.org^*^iparts-
 ||forum-norwegia.pl^*^MyCall*.
 ||forum.haszysz.com/solarr^$image
-||fresh-market.pl^*^aksun_200x54.
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
 ||garsoniera.com.pl^*^r_logo_
