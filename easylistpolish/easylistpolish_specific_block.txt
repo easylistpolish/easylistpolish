@@ -353,7 +353,6 @@ inline__1_$domain=twojradom.pl
 ||ec.bankier.pl^$domain=mavelo.pl|miedziak.info.pl|tutajglogow.pl|tutajlegnica.pl|tutajpolkowice.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
-||edunews.pl^*-baner728x90pl.
 ||eduson.pl^*-reklama-panel^
 ||efilmy.tv/adsvid^
 ||egorzow.pl^*-pzu_gorzow_mieszka.
