@@ -10,6 +10,7 @@ spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
 smak-zdrowia.blogspot.com,techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
+internet-komputery.blogspot.com###HTML2
 skyradar.pl###HTML4
 interia.pl###IPLAbanner
 stereoikolorowo.blogspot.com###Image10
@@ -101,8 +102,10 @@ mecze24.pl###bg
 tychy.pl###bilboard_970x90
 ftb.pl,ino.online,poszkole.pl###billboard
 o.pl###billboard-container
+dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
+dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
 obiektysakralne.pl###block-63
 droneclub.pl###block-block-13
@@ -185,6 +188,7 @@ tvswietokrzyska.pl###gkBannerReklama1
 spottedskarzysko.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 niedziela.nl,piekarnieonline.pl###gk_banner
+goleniowska.com###golen-442451448
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
 tkn24.pl###header + center
@@ -221,6 +225,7 @@ goal.pl###link_sponsor
 psy.pl###logo-partner
 czest.info###logo-title a[target="_blank"]
 ostrowiecnews.pl###main > center:first-of-type > a
+gorliczanin.pl###main > section[id^="metaslider_widget-"]
 czadrow24.pl###main a[rel="noopener noreferrer"]
 wilanownews.pl###main center > a
 wawernews.pl###main center > a[target="_blank"]
@@ -269,7 +274,7 @@ noworudzianin.pl###metaslider_widget-2
 dziennik.pl###miejsce101
 dziennik.pl###miejsce9
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
-brd24.pl,glamrap.pl,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
+brd24.pl,glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
 glamrap.pl###mvp-wallpaper
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
@@ -586,10 +591,10 @@ wp.pl##.advarticle
 medexpress.pl##.adver_box
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,otomoto.pl,ox.pl,podkarpacielive.pl,polishexpress.co.uk,polska-zbrojna.pl,pozytywniej.pl,radiopark.com.pl,radiopark.fm,radiozet.pl,rynek-drzewny.pl,stacja7.pl,tygodnik-rolniczy.pl,warzywaiowoce.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
-damitv.pl,eluban.pl,korso.pl,korsokolbuszowskie.pl,koscierzyna24.info,lubelska.tv,portalpomorza.pl,radiosochaczew.pl,slowopodlasia.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tv-wschod.pl,tvpogranicze.pl##.advert-A1
-bydgoszcz.com,damitv.pl,e-widuchowa.pl,korso.pl,korsokolbuszowskie.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
+damitv.pl,eluban.pl,korso.pl,korsokolbuszowskie.pl,koscierzyna24.info,lubelska.tv,portalpomorza.pl,radiosochaczew.pl,slowopodlasia.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tuolawa.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
+bydgoszcz.com,damitv.pl,e-widuchowa.pl,korso.pl,korsokolbuszowskie.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
 bydgoszcz.com,damitv.pl,e-widuchowa.pl,eluban.pl,koscierzyna24.info,lokalnatelewizja.pl,lubelska.tv,slowopodlasia.pl,tczewska.pl,telewizjazary.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
-zulawyimierzeja24.pl##.advert-C1
+tuolawa.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
 zycie.pl##.advert-item
@@ -753,6 +758,7 @@ tustolica.pl##.bimg
 hokej.net##.birthday ~ a[target="_blank"]
 nowa-sprzedaz.pl##.block .auto-pr-block
 zinfo.pl##.block-ads-wrapper
+grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
 multifishing.pl##.blockadvmulti
@@ -917,6 +923,7 @@ slupca.pl##.g-8
 debica.tv##.g-9
 topmejt.co.uk##.g-single
 skawinska.pl##.gaskad-single
+gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetalubliniecka.pl##.gazet-vip1
@@ -936,6 +943,7 @@ gorzow24.pl##.gml
 magazyn.elubin.pl##.gofollow[data-track]
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
+gorliczanin.pl##.gorliczanin-ogloszenie section[id^="media_image-"]
 log4.pl##.grafikaKlienta
 abczdrowie.pl,autocentrum.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
@@ -1024,7 +1032,8 @@ walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
 kuriergmin.pl##.kurie-billboard
-ddb24.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,irembertow.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,mylomza.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl##.l-ad-top
+tudeblin.pl,tulegnica.pl##.l-ad-box
+ddb24.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,irembertow.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,mylomza.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl##.l-ad-top
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
@@ -1202,6 +1211,7 @@ polskiprzemysl.com.pl##.rekalmy_sidebar
 4trucks.pl,regionfan.pl,sucha24.pl,wiersze.annet.pl##.rekl
 codziennikmlawski.pl##.rekl-side
 tysol.pl##.rekl_box
+glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 tychy.info##.reklama-display-desktop
@@ -1580,6 +1590,7 @@ zegocina.in##a [id^="banner"]
 nowawrzesnia.pl##a.vc_box_border_grey
 kierunekchemia.pl,kierunekenergetyka.pl,kierunekfarmacja.pl,kierunekkosmetyki.pl,kierunekpompy.pl,kierunekspozywczy.pl,kieruneksurowce.pl,kierunekwodkan.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
 meblosfera.pl##a:not([href*="osfera."]) > img[alt^="Advertise"]
+grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
 nowinynyskie.com.pl##a:not([href^="https://nowinynyskie.com.pl/"]) img[width="370"]
 perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
@@ -1789,6 +1800,7 @@ ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
 meczlive.pl##a[href^="https://www.typ.pl"]
 kanonierzy.com,swidnik.pl,widzewtomy.net##a[href^="https://www.ucando.pl"]
 elubin.pl##a[href^="https://www.vichy.pl/"]
+starosadeckie.info##a[href^="https://www.wsb-nlu.edu.pl"]
 wykop.pl##a[href^="https://www.wykop.pl/adverts"]
 kto-dzwonil.com##a[href^="https://www.xio.pl/"]
 genapps.pl##a[href^="https://www.zameczkowo.pl/"]
@@ -1844,6 +1856,7 @@ nowiny24.pl##article.contentStream
 pomorska.pl##article[class^="lista_content_stream_"]
 radio7.pl##aside .a-single
 polski-tenis.pl##aside .plakat
+gorliczanin.pl##aside > section[id^="media_image-"]
 linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 jaw.pl##aside div a > img
 czadrow24.pl##aside img[width="900"]
@@ -2167,23 +2180,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-gazetalubliniecka.pl##.gazet-gold-zone
-grojeckie24.pl##.block-image > .imageblock-image
-grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
-gorliczanin.pl##.gorliczanin-ogloszenie section[id^="media_image-"]
-gorliczanin.pl###main > section[id^="metaslider_widget-"]
-gorliczanin.pl##aside > section[id^="media_image-"]
-starosadeckie.info##a[href^="https://www.wsb-nlu.edu.pl"]
-dnews.pl###black-studio-tinymce-99
-dnews.pl###black-studio-tinymce-111
-glosmordoru.pl##.reklama-banner
-goleniowska.com###golen-442451448
-goleniowska.com###mvp-leader-wrap
-tulegnica.pl##.l-ad-box
-tulegnica.pl##.l-ad-top
-tudeblin.pl##.l-ad-box
-tudeblin.pl##.l-ad-top
-tuolawa.pl##.advert-C1
-tuolawa.pl##.advert-A2
-tuolawa.pl##.advert-A1
-internet-komputery.blogspot.com###HTML2
