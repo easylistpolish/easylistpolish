@@ -2165,3 +2165,4 @@ interia.pl##.ad-container
 haps.pl##.adviewDFPBanner
 haps.pl##div[id^="adUnit-"]
 haps.pl##div[id^="google_ads_iframe_"]
+haps.pl##div[id^="ad_unit"]
