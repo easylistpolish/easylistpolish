@@ -2183,3 +2183,4 @@ tulegnica.pl##.l-ad-box
 tulegnica.pl##.l-ad-top
 tudeblin.pl##.l-ad-box
 tudeblin.pl##.l-ad-top
+tuolawa.pl##.advert-C1
