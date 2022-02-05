@@ -2158,3 +2158,4 @@ interia.pl##.has-mixerAdTopRight
 interia.pl##.mixerAdTopRight-wrapper
 interia.pl##.adStandardTop
 haps.pl##.banLabel
+haps.pl##div[id^="div-gpt-ad-"]
