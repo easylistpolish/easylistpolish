@@ -377,7 +377,6 @@ inline__1_$domain=twojradom.pl
 ||estrzelce.pl^*^*maral.
 ||eswinoujscie.pl^*-noclegi-baza-hotelowa-
 ||eswinoujscie.pl^*^layered-popups^
-||eswinoujscie.pl^*^q10-swinoujscie.
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||evertiq.pl/bximg^
