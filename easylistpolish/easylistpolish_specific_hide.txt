@@ -2170,3 +2170,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 gazetalubliniecka.pl##.gazet-gold-zone
 grojeckie24.pl##.block-image > .imageblock-image
 grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
+gorliczanin.pl##.gorliczanin-ogloszenie section[id^="media_image-"]
