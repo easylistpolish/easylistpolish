@@ -2161,3 +2161,4 @@ haps.pl##.banLabel
 haps.pl##div[id^="div-gpt-ad-"]
 haps.pl##.adviewDFPBanner
 interia.pl##[class^="article-body__ad-"]
+interia.pl##.ad-container
