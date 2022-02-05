@@ -2186,3 +2186,4 @@ tudeblin.pl##.l-ad-top
 tuolawa.pl##.advert-C1
 tuolawa.pl##.advert-A2
 tuolawa.pl##.advert-A1
+internet-komputery.blogspot.com###HTML2
