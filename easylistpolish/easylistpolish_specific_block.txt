@@ -396,7 +396,6 @@ inline__1_$domain=twojradom.pl
 ||fireads.online^$third-party
 ||fireads.org^$domain=darmowetv.pl|newsdiscopolo.info|online-tv.pl
 ||fishing-test.pl^*^ft_st_croix.
-||fishing-test.pl^*^shimano-baner02.
 ||fordclubpolska.org^*^iparts-
 ||forum-norwegia.pl^*^MyCall*.
 ||forum.haszysz.com/solarr^$image
