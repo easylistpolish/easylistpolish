@@ -2155,3 +2155,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 forum.interia.pl##.f3-sidebar--ad
 interia.pl##div[id^="ad-view-"]
 interia.pl##.has-mixerAdTopRight
+interia.pl##.mixerAdTopRight-wrapper
