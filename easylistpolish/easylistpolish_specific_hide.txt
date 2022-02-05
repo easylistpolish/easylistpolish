@@ -2175,3 +2175,4 @@ gorliczanin.pl###main > section[id^="metaslider_widget-"]
 gorliczanin.pl##aside > section[id^="media_image-"]
 starosadeckie.info##a[href^="https://www.wsb-nlu.edu.pl"]
 dnews.pl###black-studio-tinymce-99
+dnews.pl###black-studio-tinymce-111
