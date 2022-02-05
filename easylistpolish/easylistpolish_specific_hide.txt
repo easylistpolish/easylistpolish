@@ -2176,3 +2176,4 @@ ppe.pl##.banner-skyscraper
 ppe.pl##.banner-placeholder
 icelandnews.is##.td-a-rec
 fsd24.pl##.banneritem
+fsd24.pl##.bannergroup
