@@ -2171,3 +2171,4 @@ kobieta.pl##.advertising-billboard
 kobieta.pl##div[id^="div-gpt-ad-"]
 lubimyczytac.pl##.ads-body
 mjakmama24.pl###hook_box_top1
+ppe.pl##.banner-placeholder-screening
