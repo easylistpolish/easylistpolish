@@ -2156,3 +2156,4 @@ forum.interia.pl##.f3-sidebar--ad
 interia.pl##div[id^="ad-view-"]
 interia.pl##.has-mixerAdTopRight
 interia.pl##.mixerAdTopRight-wrapper
+interia.pl##.adStandardTop
