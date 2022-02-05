@@ -2178,3 +2178,5 @@ dnews.pl###black-studio-tinymce-99
 dnews.pl###black-studio-tinymce-111
 glosmordoru.pl##.reklama-banner
 goleniowska.com###golen-442451448
+goleniowska.com###mvp-leader-wrap
+
