@@ -2036,7 +2036,6 @@ haps.pl##div[id^="google_ads_iframe_"]
 express-miejski.pl##div[id^="gpt-ad-d"]
 express-miejski.pl##div[id^="gpt-ad-d"] + .small
 ttg.com.pl##div[id^="header-banner"]
-zywiecinfo.pl##div[id^="jsemrp_1"]
 nasygnale.com.pl##div[id^="jssor_"]
 tvwlodawa.pl##div[id^="layerslider_"]
 agropolska.pl##div[id^="mediaContent"]
