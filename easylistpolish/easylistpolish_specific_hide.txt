@@ -1505,7 +1505,6 @@ infoprzasnysz.com##.zodnbrutw-image
 eska.pl,mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 zumi.pl##.zumi-ads-top
-zyciezamoscia.pl##.zycie-po-tresci
 eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not([align]) > a[href*="/goto/"]
 pwm.org.pl##A[onclick^="countAdClick"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
