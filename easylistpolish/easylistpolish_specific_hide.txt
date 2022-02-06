@@ -1584,7 +1584,7 @@ elektroda.pl##[onclick*="'Click'"]
 elektroda.pl##[onclick*="naviboxEvent"]
 elektroda.pl##[onclick*="this.target='_blank';"]
 tvwlodawa.pl##a + a > img[width="300"]
-futbolnews.pl,zzapolowy.com##a > img[class^="alignnone wp"]
+futbolnews.pl##a > img[class^="alignnone wp"]
 leczna24.pl##a > img[src^="b/"][class="img-responsive"]
 zegocina.in##a [id^="banner"]
 nowawrzesnia.pl##a.vc_box_border_grey
