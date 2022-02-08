@@ -2201,3 +2201,4 @@ naszahistoria.pl##.atomsAdsCellModel
 24jgora.pl##.l-ad-top
 24jgora.pl##.l-ad-box
 ciechanowinaczej.pl##.l-ad-box
+ciechanowinaczej.pl##.l-ad-top
