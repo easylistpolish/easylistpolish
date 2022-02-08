@@ -2180,3 +2180,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zzapolowy.com###text-12
 pch24.pl##a > img[width="1340"][height="300"]
 pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
+kartuzy.info##.l-ad-box
