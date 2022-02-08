@@ -2196,3 +2196,4 @@ strefaagro.pl##.adsSlotContainer
 strefaagro.pl##.atomsAdsCellModel
 stronakobiet.pl##.atomsAdsCellModel
 stronakobiet.pl##.adsSlotContainer
+naszahistoria.pl##.adsSlotContainer
