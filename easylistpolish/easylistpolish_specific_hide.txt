@@ -2212,3 +2212,4 @@ ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
 gpr24.pl##.l-ad-top
 gpr24.pl##.l-ad-box
 tugrodzisk.pl##.l-ad-box
+tugrodzisk.pl##.l-ad-top
