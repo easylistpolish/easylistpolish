@@ -2224,3 +2224,4 @@ itvpiaseczno.pl##.l-ad-box
 e-wyszogrod.pl##.l-ad-top
 e-wyszogrod.pl##.l-ad-box
 izabelin24.pl##a[href^="https://bys.pl"]
+izabelin24.pl##.l-ad-box
