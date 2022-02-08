@@ -2204,3 +2204,4 @@ ciechanowinaczej.pl##.l-ad-box
 ciechanowinaczej.pl##.l-ad-top
 plonszczak.pl##.l-ad-top
 plonszczak.pl##.l-ad-box
+eprzasnysz.pl##.l-ad-box
