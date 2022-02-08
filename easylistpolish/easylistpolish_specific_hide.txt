@@ -2198,3 +2198,4 @@ stronakobiet.pl##.atomsAdsCellModel
 stronakobiet.pl##.adsSlotContainer
 naszahistoria.pl##.adsSlotContainer
 naszahistoria.pl##.atomsAdsCellModel
+24jgora.pl##.l-ad-top
