@@ -385,7 +385,7 @@ vanessa.fm###text-10 div
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
 gazetalubliniecka.pl,love4tennis.pl,miastoiludzie.pl###text-11
-dzierzgon.info.pl,ipulawy.pl,jozefow-news.pl,motorlublin.com,wiesci.com.pl###text-12
+dzierzgon.info.pl,ipulawy.pl,jozefow-news.pl,motorlublin.com,wiesci.com.pl,zzapolowy.com###text-12
 luckyhorse.pl###text-13
 wawernews.pl###text-131
 greencanoe.pl,lowking.pl,mojlask.pl,trybawaryjny.pl,tu.swinoujscie.pl,wszedobylscy.com,zpopk.pl###text-15
@@ -486,6 +486,7 @@ abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,cho
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 facetpo40.pl##._ad
+e-sochaczew.pl,kartuzy.info##._ad_loaded
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 slupca.pl##.a-220
 portalmorski.pl##.a-block
@@ -564,7 +565,7 @@ szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
 businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl##.adsSlotContainer
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.adsSlotContainer
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
@@ -637,7 +638,7 @@ parenting.pl##.article__textbox
 globenergia.pl##.article_headline_ad
 posbud.com.pl##.as_marquee0
 podlaskie.tv##.askdom-wrapper
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl##.atomsAdsCellModel
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.atomsAdsCellModel
 glospedagogiczny.pl##.auto-pr-block > a
 elektroda.pl##.auto-promotion
 tutsplus.com##.avert
@@ -913,6 +914,7 @@ wronieckibazar.pl##.fright + div
 wronieckibazar.pl##.fright + div + div
 starosadeckie.info##.front-medium
 starosadeckie.info##.front-top
+skript.pl##.fuckAdBlock
 oswiecimonline.pl##.fullwidthabanner
 dzisiajwgliwicach.pl##.g div[class^="g-dyn a-"]
 slupca.pl##.g-2
@@ -1031,8 +1033,8 @@ walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
 kuriergmin.pl##.kurie-billboard
-tudeblin.pl,tulegnica.pl##.l-ad-box
-ddb24.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,irembertow.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,mylomza.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl##.l-ad-top
+24jgora.pl,ciechanowinaczej.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,itvpiaseczno.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
+24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,mylomza.pl,plonszczak.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
@@ -1174,6 +1176,7 @@ zloty-pociag.com##.popup_wrapper iframe
 newsdiscopolo.info##.post-next-prev ~ iframe
 e-playonline.com##.post-single-ads1
 pojezierze.com.pl##.posts-slider
+swidnik.pl##.ppsPopupShell
 radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
 centrumdruku3d.pl##.printers_a
@@ -1584,6 +1587,7 @@ elektroda.pl##[onclick*="this.target='_blank';"]
 tvwlodawa.pl##a + a > img[width="300"]
 futbolnews.pl##a > img[class^="alignnone wp"]
 leczna24.pl##a > img[src^="b/"][class="img-responsive"]
+pch24.pl##a > img[width="1340"][height="300"]
 zegocina.in##a [id^="banner"]
 nowawrzesnia.pl##a.vc_box_border_grey
 kierunekchemia.pl,kierunekenergetyka.pl,kierunekfarmacja.pl,kierunekkosmetyki.pl,kierunekpompy.pl,kierunekspozywczy.pl,kieruneksurowce.pl,kierunekwodkan.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
@@ -1607,6 +1611,7 @@ kokos.pl##a[href*="&creation_type=BANNER"] > img
 badaniaprenatalne.pl##a[href*="&utm_campaign="]
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
+itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
 dailyweb.pl##a[href*=".adj.st/"]
 kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl"]
 domiporta.pl##a[href*="/ad.doubleclick."]
@@ -1713,6 +1718,7 @@ icomp.pl##a[href^="https://biuropro.pl/"]
 eporady24.pl,spadek.info##a[href^="https://bluepillows.pl/"]
 hokej.net##a[href^="https://bogigolf.com.pl"]
 przeclaw24.pl##a[href^="https://booksy.com/"]
+izabelin24.pl##a[href^="https://bys.pl"]
 narodowcy.net##a[href^="https://capitalbook.com.pl/"]
 strefainzyniera.pl##a[href^="https://careers.mars.com/"]
 swoszowice.org.pl##a[href^="https://carline.com.pl/"]
@@ -1750,6 +1756,7 @@ plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
 kibice.net##a[href^="https://piroshop.pl/"]
 lowking.pl##a[href^="https://pitbull.pl/"]
 lowking.pl##a[href^="https://pitbullcity.pl/"]
+ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
 dts24.pl##a[href^="https://pl.jooble.org/"]
 polskatradycja.pl##a[href^="https://pln.tgm."]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
@@ -1768,6 +1775,7 @@ stadiony.net##a[href^="https://twojtyp.pl/"]
 estadios24.pl,kanonierzy.com##a[href^="https://typ.pl/"]
 gazetagazeta.com##a[href^="https://wmjewellery.wixsite.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
+swidnik.pl##a[href^="https://www.aliorbank.pl"]
 radiogol.pl,walbrzyszek.com##a[href^="https://www.autoczescionline24.pl/"]
 klubpodroznikow.com,linktopoland.com,lipno-cli.pl,radiogol.pl,swidnica24.pl,swoszowice.org.pl##a[href^="https://www.autodoc.pl/"]
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
@@ -1786,6 +1794,7 @@ radiobielsko.pl##a[href^="https://www.kubisa24.pl/"]
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
 narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
 e-playonline.com##a[href^="https://www.novomatic.com/"]
+itvpiaseczno.pl##a[href^="https://www.orange.pl"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
 elektroda.pl##a[href^="https://www.pcbway.com/activity/"]
 miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
@@ -1803,6 +1812,7 @@ wykop.pl##a[href^="https://www.wykop.pl/adverts"]
 kto-dzwonil.com##a[href^="https://www.xio.pl/"]
 genapps.pl##a[href^="https://www.zameczkowo.pl/"]
 bankier.pl##a[href^="https://www3.smartadserver.com/"]
+pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
 jelonka.com##a[href^="zlicz.php?id="]
 pultusk.news##a[id*="Banner"]
@@ -2177,52 +2187,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-zzapolowy.com###text-12
-pch24.pl##a > img[width="1340"][height="300"]
-pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
-kartuzy.info##.l-ad-box
-kartuzy.info##._ad_loaded
-e-sochaczew.pl##._ad_loaded
-kartuzy.info##.l-ad-top
-e-sochaczew.pl##.l-ad-box
-e-sochaczew.pl##.l-ad-top
-skript.pl##.fuckAdBlock
-zambrow.org##.l-ad-top
-swidnik.pl##a[href^="https://www.aliorbank.pl"]
-swidnik.pl##.ppsPopupShell
-gol24.pl##.atomsAdsCellModel
-gol24.pl##.adsSlotContainer
-strefaagro.pl##.adsSlotContainer
-strefaagro.pl##.atomsAdsCellModel
-stronakobiet.pl##.atomsAdsCellModel
-stronakobiet.pl##.adsSlotContainer
-naszahistoria.pl##.adsSlotContainer
-naszahistoria.pl##.atomsAdsCellModel
-24jgora.pl##.l-ad-top
-24jgora.pl##.l-ad-box
-ciechanowinaczej.pl##.l-ad-box
-ciechanowinaczej.pl##.l-ad-top
-plonszczak.pl##.l-ad-top
-plonszczak.pl##.l-ad-box
-eprzasnysz.pl##.l-ad-box
-eprzasnysz.pl##.l-ad-top
-ipragapoludnie.pl##.l-ad-top
-ipragapoludnie.pl##.l-ad-box
-ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
-gpr24.pl##.l-ad-top
-gpr24.pl##.l-ad-box
-tugrodzisk.pl##.l-ad-box
-tugrodzisk.pl##.l-ad-top
-izyrardow.pl##.l-ad-top
-izyrardow.pl##.l-ad-box
-ikampinos.pl##.l-ad-box
-ikampinos.pl##.l-ad-top
-itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
-itvpiaseczno.pl##a[href^="https://www.orange.pl"]
-itvpiaseczno.pl##.l-ad-top
-itvpiaseczno.pl##.l-ad-box
-e-wyszogrod.pl##.l-ad-top
-e-wyszogrod.pl##.l-ad-box
-izabelin24.pl##a[href^="https://bys.pl"]
-izabelin24.pl##.l-ad-box
-izabelin24.pl##.l-ad-top
