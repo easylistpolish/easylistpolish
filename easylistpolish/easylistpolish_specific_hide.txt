@@ -2206,3 +2206,4 @@ plonszczak.pl##.l-ad-top
 plonszczak.pl##.l-ad-box
 eprzasnysz.pl##.l-ad-box
 eprzasnysz.pl##.l-ad-top
+ipragapoludnie.pl##.l-ad-top
