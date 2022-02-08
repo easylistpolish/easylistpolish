@@ -2208,3 +2208,4 @@ eprzasnysz.pl##.l-ad-box
 eprzasnysz.pl##.l-ad-top
 ipragapoludnie.pl##.l-ad-top
 ipragapoludnie.pl##.l-ad-box
+ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
