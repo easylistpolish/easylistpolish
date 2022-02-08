@@ -2183,3 +2183,4 @@ pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
 kartuzy.info##.l-ad-box
 kartuzy.info##._ad_loaded
 e-sochaczew.pl##._ad_loaded
+kartuzy.info##.l-ad-top
