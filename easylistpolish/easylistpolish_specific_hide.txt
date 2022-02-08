@@ -2217,3 +2217,4 @@ izyrardow.pl##.l-ad-top
 izyrardow.pl##.l-ad-box
 ikampinos.pl##.l-ad-box
 ikampinos.pl##.l-ad-top
+itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
