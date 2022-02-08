@@ -2188,3 +2188,4 @@ e-sochaczew.pl##.l-ad-box
 e-sochaczew.pl##.l-ad-top
 skript.pl##.fuckAdBlock
 zambrow.org##.l-ad-top
+swidnik.pl##a[href^="https://www.aliorbank.pl"]
