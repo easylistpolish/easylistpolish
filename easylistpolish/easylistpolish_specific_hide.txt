@@ -2216,3 +2216,4 @@ tugrodzisk.pl##.l-ad-top
 izyrardow.pl##.l-ad-top
 izyrardow.pl##.l-ad-box
 ikampinos.pl##.l-ad-box
+ikampinos.pl##.l-ad-top
