@@ -2221,3 +2221,4 @@ itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
 itvpiaseczno.pl##a[href^="https://www.orange.pl"]
 itvpiaseczno.pl##.l-ad-top
 itvpiaseczno.pl##.l-ad-box
+e-wyszogrod.pl##.l-ad-top
