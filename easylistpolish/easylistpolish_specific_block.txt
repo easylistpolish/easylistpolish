@@ -1024,3 +1024,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-banner-$domain=itvpiaseczno.pl
