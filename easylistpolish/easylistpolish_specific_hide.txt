@@ -2193,3 +2193,4 @@ swidnik.pl##.ppsPopupShell
 gol24.pl##.atomsAdsCellModel
 gol24.pl##.adsSlotContainer
 strefaagro.pl##.adsSlotContainer
+strefaagro.pl##.atomsAdsCellModel
