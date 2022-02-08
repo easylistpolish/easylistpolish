@@ -2178,3 +2178,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zzapolowy.com###text-12
+pch24.pl##a > img[width="1340"][height="300"]
