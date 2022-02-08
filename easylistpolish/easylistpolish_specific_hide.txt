@@ -2214,3 +2214,4 @@ gpr24.pl##.l-ad-box
 tugrodzisk.pl##.l-ad-box
 tugrodzisk.pl##.l-ad-top
 izyrardow.pl##.l-ad-top
+izyrardow.pl##.l-ad-box
