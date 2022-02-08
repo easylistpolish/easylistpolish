@@ -2191,3 +2191,4 @@ zambrow.org##.l-ad-top
 swidnik.pl##a[href^="https://www.aliorbank.pl"]
 swidnik.pl##.ppsPopupShell
 gol24.pl##.atomsAdsCellModel
+gol24.pl##.adsSlotContainer
