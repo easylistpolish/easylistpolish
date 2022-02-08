@@ -2187,3 +2187,4 @@ kartuzy.info##.l-ad-top
 e-sochaczew.pl##.l-ad-box
 e-sochaczew.pl##.l-ad-top
 skript.pl##.fuckAdBlock
+zambrow.org##.l-ad-top
