@@ -2195,3 +2195,4 @@ gol24.pl##.adsSlotContainer
 strefaagro.pl##.adsSlotContainer
 strefaagro.pl##.atomsAdsCellModel
 stronakobiet.pl##.atomsAdsCellModel
+stronakobiet.pl##.adsSlotContainer
