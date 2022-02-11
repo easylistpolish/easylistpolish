@@ -1025,3 +1025,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||b24tv.pl^*^streamevent-$image
+^baner-$domain=kaszuby24.pl
