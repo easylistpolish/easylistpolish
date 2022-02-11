@@ -2188,3 +2188,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 lipno-cli.pl##.l-ad-box
+lipno-cli.pl##.l-ad-top
