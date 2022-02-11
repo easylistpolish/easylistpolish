@@ -2193,3 +2193,4 @@ gazetatrybunalska.info###media_image-15
 gazetatrybunalska.info###media_image-7
 b24tv.pl##.sgpb-popup-overlay-57344
 b24tv.pl###sgpb-popup-dialog-main-div-wrapper
+czestochowskie24.pl###custom_html-14
