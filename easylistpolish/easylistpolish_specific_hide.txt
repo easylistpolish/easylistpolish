@@ -147,7 +147,7 @@ stereoikolorowo.blogspot.com###crosscol-overflow
 portalprzemyski.pl###custom_html-10
 e-playbet.com###custom_html-12
 wachtyrz.eu###custom_html-13
-wachtyrz.eu###custom_html-14
+czestochowskie24.pl,wachtyrz.eu###custom_html-14
 whitemad.pl###custom_html-15
 domotechnika.pl,gazetabialolecka.waw.pl,kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 gazetacz.com.pl###custom_html-2 + .gazet-widget
@@ -239,6 +239,7 @@ skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
 planeta.pl###mavPlContener78
 tonaszregion.pl###media_image-134
+gazetatrybunalska.info###media_image-15
 gazetagazeta.com###media_image-18
 jakodzyskacpieniadze.pl,staresiolkowice.pl,wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
 pulskosmosu.pl###media_image-24
@@ -262,7 +263,7 @@ ostrodanews.pl###media_image-52
 kurierwilenski.lt###media_image-6
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
-gazetaslupecka.pl###media_image-7
+gazetaslupecka.pl,gazetatrybunalska.info###media_image-7
 ostrodanews.pl###media_image-85
 toproste.pl###menu_zlewej
 inthecage.pl###metaslider-id-131935
@@ -346,7 +347,7 @@ polonia.laziska.pl###section2
 polonia.laziska.pl###section5
 webhostingtalk.pl###sectionb
 naekranie.pl###sg_belka_srodek
-dzierzgon-twojemiasto.pl,glokalna.pl,nowawrzesnia.pl,ok24.tv###sgpb-popup-dialog-main-div-wrapper
+b24tv.pl,dzierzgon-twojemiasto.pl,glokalna.pl,nowawrzesnia.pl,ok24.tv###sgpb-popup-dialog-main-div-wrapper
 chrzanowski24.pl###sidebar
 buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,oto-slub.pl,wkatalog.pl###sidebar > div[style="text-align: center;"] > a
 wiadomosci.com###sidebar [id^="wiado-"]
@@ -1033,8 +1034,8 @@ walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
 kuriergmin.pl##.kurie-billboard
-24jgora.pl,ciechanowinaczej.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,itvpiaseczno.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
-24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,mylomza.pl,plonszczak.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
+24jgora.pl,ciechanowinaczej.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,itvpiaseczno.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
+24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,mylomza.pl,plonszczak.pl,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
@@ -1279,6 +1280,7 @@ bezpiecznydom.net##.section-banner-44
 gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl,ok24.tv##.sgpb-popup-overlay
+b24tv.pl##.sgpb-popup-overlay-57344
 lubanski.eu##.shailan_banner_widget
 dziecisawazne.pl##.shop-div
 abczdrowie.pl,autocentrum.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
@@ -2187,10 +2189,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-lipno-cli.pl##.l-ad-box
-lipno-cli.pl##.l-ad-top
-gazetatrybunalska.info###media_image-15
-gazetatrybunalska.info###media_image-7
-b24tv.pl##.sgpb-popup-overlay-57344
-b24tv.pl###sgpb-popup-dialog-main-div-wrapper
-czestochowskie24.pl###custom_html-14
