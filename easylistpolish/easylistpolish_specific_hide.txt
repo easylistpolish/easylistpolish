@@ -2189,3 +2189,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 lipno-cli.pl##.l-ad-box
 lipno-cli.pl##.l-ad-top
+gazetatrybunalska.info###media_image-15
