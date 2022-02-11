@@ -2192,3 +2192,4 @@ lipno-cli.pl##.l-ad-top
 gazetatrybunalska.info###media_image-15
 gazetatrybunalska.info###media_image-7
 b24tv.pl##.sgpb-popup-overlay-57344
+b24tv.pl###sgpb-popup-dialog-main-div-wrapper
