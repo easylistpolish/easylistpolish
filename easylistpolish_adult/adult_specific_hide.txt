@@ -8,3 +8,4 @@ filmy69.pl##.sidebar_right
 polskiepornole.pl,pornoman.pl##.squareWrapper
 filmy69.pl#?#li.videoblock:-abp-has(iframe[id][src*="/www/delivery/"])
 filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
+filmikiporno.tv##.publ1s-b0ttom
