@@ -1025,4 +1025,6 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^inline__1_$domain=iwawer.pl
+^inline__1_$domain=wio.waw.pl
 ^inline_images/512$domain=e-kg.pl
