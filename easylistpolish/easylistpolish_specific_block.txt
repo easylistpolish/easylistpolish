@@ -217,14 +217,6 @@ inline__1_$domain=twojradom.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
 ||adform.net^$domain=300polityka.pl
-||aferyprawa.eu^*^jooble.
-||aferyprawa.eu^*^xbaner.
-||aferyprawa.eu^*^xbarwy-bezprawia-
-||aferyprawa.eu^*^xbizuteria.
-||aferyprawa.eu^*^xmuszynska.
-||aferyprawa.eu^*^xradiobc.
-||aferyprawa.eu^*^xruch.
-||aferyprawa.eu^*^xwolnosc-i-suwerennosc.
 ||aktyw14.net/images/WR.
 ||aktyw14.net^*^anwbanerekmaly.
 ||aktyw14.net^*^autonom.
