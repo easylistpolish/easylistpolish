@@ -1025,3 +1025,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^inline_images/512$domain=e-kg.pl
