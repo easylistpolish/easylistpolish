@@ -2192,3 +2192,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 isrodmiescie.pl##.l-ad-top
 kurierbytowski.com.pl##.l-ad-top
 kurierpodlaski.pl##.l-ad-top
+kuriersuwalski.pl##[class="g g-1"]
