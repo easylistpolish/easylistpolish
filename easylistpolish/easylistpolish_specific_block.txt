@@ -1023,3 +1023,4 @@ inline__1_$domain=twojradom.pl
 -baner-$domain=firmy.meblarstwo.eu
 ^banner_$domain=firmy.meblarstwo.eu
 ^inline__1_$domain=kurierpodlaski.pl
+^xbaner_$domain=kuriernauczycielski.pl
