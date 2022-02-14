@@ -1018,3 +1018,7 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-reklama-$domain=firmy.meblarstwo.eu
+^baner-$domain=firmy.meblarstwo.eu
+-baner-$domain=firmy.meblarstwo.eu
+^banner_$domain=firmy.meblarstwo.eu
