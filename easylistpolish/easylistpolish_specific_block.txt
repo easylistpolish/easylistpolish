@@ -971,7 +971,6 @@ inline__1_$domain=twojradom.pl
 ||wolbrom.pl^*^warta.
 ||worldofbookmakers.com^*^sts300.
 ||wronieckibazar.pl^*^izometwww.
-||wronieckibazar.pl^*^meblowy.
 ||wronieckibazar.pl^*^starymlynb.
 ||wrzesnia.info.pl^*^links^
 ||wszczecinie.pl/r/www/images^
