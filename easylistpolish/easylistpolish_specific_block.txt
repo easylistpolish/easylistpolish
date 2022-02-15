@@ -979,7 +979,6 @@ inline__1_$domain=twojradom.pl
 ||www.optyczne.pl/partnerzy_sm^
 ||wykop.pl^*^adblock_$image
 ||wylecz.to^*^?clickTAG=/zzz_click^
-||wysokomazowiecki24.pl^*^banery2018^
 ||xlomza.pl^*^fab.
 ||xlomza.pl^*^fabryka_
 ||xlomza.pl^*^gina.
@@ -1014,3 +1013,11 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-reklama-$domain=firmy.meblarstwo.eu
+^baner-$domain=firmy.meblarstwo.eu
+-baner-$domain=firmy.meblarstwo.eu
+^banner_$domain=firmy.meblarstwo.eu
+^inline__1_$domain=kurierpodlaski.pl
+^xbaner_$domain=kuriernauczycielski.pl
+_baner_$domain=kuriersuwalski.pl
+^banery2018^$domain=wysokomazowiecki24.pl
