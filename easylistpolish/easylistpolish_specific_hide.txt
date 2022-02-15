@@ -371,6 +371,7 @@ wydawca.com.pl###sow-slider-22
 mosir.ostrowiec.pl###sp-banery
 wysokomazowiecki24.pl###sp-reklamatop
 kuriersuwalski.pl###sp-section-6
+wysokomazowiecki24.pl###sp-top-bar
 mosir.ostrowiec.pl###sp-user7
 webhelp.pl###sponsor
 bramka.pl###sponsorBox
@@ -1035,7 +1036,7 @@ jelonka.com,swidniczka.com##.kol3
 dziennikpolski24.pl##.krh-m-g
 kuriergmin.pl##.kurie-billboard
 24jgora.pl,ciechanowinaczej.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,itvpiaseczno.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
-24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
+24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 ciechanowinaczej.pl##.l-box [href^="https://mazowiecka.edu.pl"]
 szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
@@ -1519,6 +1520,7 @@ turek.net.pl##[class*="l-banners-"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 skarzysko24.pl##[class="custom none"]
 cenyrolnicze.pl##[class="custom view-pc"]
+kuriersuwalski.pl##[class="g g-1"]
 ddwloclawek.pl##[class="row box-margin bvideo"]
 elektroda.pl##[class="the-content col-md-8"] a[href^="http://micros.com.pl/"]
 elektroda.pl##[class="the-content col-md-8"] a[href^="http://www.biall.com.pl/"]
@@ -2189,8 +2191,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-isrodmiescie.pl##.l-ad-top
-kurierbytowski.com.pl##.l-ad-top
-kurierpodlaski.pl##.l-ad-top
-kuriersuwalski.pl##[class="g g-1"]
-wysokomazowiecki24.pl###sp-top-bar
