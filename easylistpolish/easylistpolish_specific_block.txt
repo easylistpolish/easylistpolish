@@ -995,7 +995,6 @@ inline__1_$domain=twojradom.pl
 ||zdrowyportal.org^*^rw_adrotator^
 ||ziemiakepinska.pl^*^smaragdSzkolka300.
 ||ziemialimanowska.pl^*.hutekprojekty.
-||zkrainynba.com^*^04/thumbnail.
 ||zlubaczowa.pl^*^beztroski-kredyt,
 ||zlubaczowa.pl^*^narol=
 ||zlubaczowa.pl^*^stantanders.
