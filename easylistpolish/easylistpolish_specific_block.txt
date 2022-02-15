@@ -979,10 +979,6 @@ inline__1_$domain=twojradom.pl
 ||www.optyczne.pl/partnerzy_sm^
 ||wykop.pl^*^adblock_$image
 ||wylecz.to^*^?clickTAG=/zzz_click^
-||wysokomazowiecki24.pl^*^bazarek.
-||wysokomazowiecki24.pl^*^pieer1.
-||wysokomazowiecki24.pl^*^sikorki2020.
-||wysokomazowiecki24.pl^*^zakopiec2020.
 ||xlomza.pl^*^fab.
 ||xlomza.pl^*^fabryka_
 ||xlomza.pl^*^gina.
