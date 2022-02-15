@@ -2193,3 +2193,4 @@ isrodmiescie.pl##.l-ad-top
 kurierbytowski.com.pl##.l-ad-top
 kurierpodlaski.pl##.l-ad-top
 kuriersuwalski.pl##[class="g g-1"]
+wysokomazowiecki24.pl###sp-top-bar
