@@ -960,7 +960,6 @@ inline__1_$domain=twojradom.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||wieliczkacity.pl^*^leroy_
-||wielkopolska.tv^*^inea-logo.
 ||wielkopolska.tv^*^osk_wawrzyniak-
 ||wiesci.com.pl^*^forma43.
 ||wiocha.pl/subpages^
