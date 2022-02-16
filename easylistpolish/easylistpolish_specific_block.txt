@@ -1018,3 +1018,4 @@ inline__1_$domain=twojradom.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 _baner_$domain=kuriersuwalski.pl
 ^banery2018^$domain=wysokomazowiecki24.pl
+^xreklama-$domain=tv-pelplin.pl
