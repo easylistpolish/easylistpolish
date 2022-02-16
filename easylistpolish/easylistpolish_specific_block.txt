@@ -911,9 +911,6 @@ inline__1_$domain=twojradom.pl
 ||tucholanin.pl^*^mbso_vision_
 ||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
-||tv-pelplin.pl^*^auto-frost2016.
-||tv-pelplin.pl^*^meble%20frost.
-||tv-pelplin.pl^*^MM-tv.
 ||tvbraniewo24.pl^*^cfc.
 ||tvbraniewo24.pl^*^daniluk.
 ||tvbraniewo24.pl^*^intertom.
