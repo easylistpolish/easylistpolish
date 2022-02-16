@@ -897,9 +897,6 @@ inline__1_$domain=twojradom.pl
 ||trojmiasto.pl^*-&block=1&
 ||trojmiasto.pl^*^a_d_s/banners.
 ||tromil.pl^*^09/parownice-multimatic.
-||truckeronroad.com^*^08/simglob-
-||truckeronroad.com^*^autoport-
-||truckeronroad.com^*^marketing-studio-
 ||trybunaczestochowska.pl^*^bajor.jpg
 ||trybunaczestochowska.pl^*^brzeczek.
 ||trybunaczestochowska.pl^*^maderpol.
