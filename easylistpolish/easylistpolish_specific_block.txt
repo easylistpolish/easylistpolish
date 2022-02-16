@@ -914,9 +914,6 @@ inline__1_$domain=twojradom.pl
 ||tv-pelplin.pl^*^auto-frost2016.
 ||tv-pelplin.pl^*^meble%20frost.
 ||tv-pelplin.pl^*^MM-tv.
-||tvbraniewo24.pl^*^cfc.
-||tvbraniewo24.pl^*^daniluk.
-||tvbraniewo24.pl^*^intertom.
 ||tvmalbork.pl^*^domex_
 ||tvmalbork.pl^*_300x200.
 ||tvtoya.pl^*^banners/first_page/$image
