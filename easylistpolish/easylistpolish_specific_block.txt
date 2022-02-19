@@ -876,14 +876,6 @@ inline__1_$domain=twojradom.pl
 ||tenis.net.pl^*^mtc.
 ||tipnet.pl^$image,domain=slowopodlasia.pl
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
-||tkn24.pl^*^Ceramic-
-||tkn24.pl^*^Ceramic.
-||tkn24.pl^*^Dachbud.gif
-||tkn24.pl^*^Dekam-
-||tkn24.pl^*^melisa-baner.
-||tkn24.pl^*^Nexera-
-||tkn24.pl^*^Sypytkowski-sport-gif.
-||tkn24.pl^*_125x125.
 ||tko.pl^*^banerrr.
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
 ||torrentcity.pl^*^1qdcefergrt.
