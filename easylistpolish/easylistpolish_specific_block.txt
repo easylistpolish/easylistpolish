@@ -752,7 +752,6 @@ inline__1_$domain=twojradom.pl
 ||radomsport.pl^*^fitplatinium2019.
 ||radomsport.pl^*^windoor-wietrzenie-
 ||rankomat.pl$domain=tuhiszpania.pl
-||reacivepl.club^$domain=kinogo.biz
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
