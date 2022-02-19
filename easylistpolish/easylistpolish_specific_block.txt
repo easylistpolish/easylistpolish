@@ -677,9 +677,7 @@ inline__1_$domain=twojradom.pl
 ||pfcc.eu^*^choryzont.gif
 ||pfcc.eu^*^goldrop.
 ||pfcc.eu^*^mie11.
-||pionki24.pl^*^budmax0218_
 ||pionki24.pl^*^zlomotex_
-||pionki24.pl^*wizyt%
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||plonsk24.pl^*^img_154^
 ||plonsk24.pl^*^img_67^
