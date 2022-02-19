@@ -749,7 +749,6 @@ inline__1_$domain=twojradom.pl
 ||radomnews.pl^*^logo_bfresh.
 ||radomnews.pl^*^logo_teatr_radom.
 ||radomnews.pl^*^medjana_
-||radomsport.pl^*^fitplatinium2019.
 ||radomsport.pl^*^windoor-wietrzenie-
 ||rankomat.pl$domain=tuhiszpania.pl
 ||reacivepl.club^$domain=kinogo.biz
