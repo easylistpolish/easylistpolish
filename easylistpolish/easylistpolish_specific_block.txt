@@ -661,7 +661,6 @@ inline__1_$domain=twojradom.pl
 ||ostrowczanie.info^*^ajenttt.
 ||oto-samochody.pl^*^ban-
 ||panoramakutna.pl^*-box.
-||panoramakutna.pl^*^mgpartner-
 ||partner.$domain=zzapolowy.com
 ||partner.rankomat.pl/tracking/media^$image,third-party
 ||partner.rankomat.pl^$domain=skionline.pl
