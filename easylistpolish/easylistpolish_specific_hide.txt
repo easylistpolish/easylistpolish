@@ -2197,3 +2197,4 @@ wronieckibazar.pl##.site-branding a[target]
 all-inclusive.com.pl##.et_pb_text_inner a
 pudelek.pl##div[style="position: relative; top: 0px; z-index: 0;"]
 pionki24.pl##.kozie-before-content-placement
+szczecinek.com##[id^="bills_in_rotation_1_"]
