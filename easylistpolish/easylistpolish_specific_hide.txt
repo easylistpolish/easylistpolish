@@ -2192,3 +2192,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 tygodnikkrag.pl##[class^="a-single a-"]
 szczecinek.com##.l-ad-top
+wysokomazowiecki24.pl##.sppb-addon-single-image-container
