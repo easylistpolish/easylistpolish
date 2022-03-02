@@ -2194,3 +2194,4 @@ tygodnikkrag.pl##[class^="a-single a-"]
 szczecinek.com##.l-ad-top
 wysokomazowiecki24.pl##.sppb-addon-single-image-container
 wronieckibazar.pl##.site-branding a[target]
+all-inclusive.com.pl##.et_pb_text_inner a
