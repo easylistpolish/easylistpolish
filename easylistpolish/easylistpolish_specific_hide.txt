@@ -2085,7 +2085,6 @@ filmweb.pl##div[rel="billboard"]
 jelonka.com##div[style$="solid #000;padding:1px 5px 2px"]
 calisia.pl##div[style*="max-width: 1200px; max-height: 300px;"]
 calisia.pl##div[style*="max-width: 380px; max-height: 380px;"]
-calisia.pl##div[style*="max-width: 500px; max-height: 200px;"]
 filmweb.pl##div[style="height: 1080px;"]
 inwestinfo.pl##div[style="height:25px;text-align: center;"]
 osowa24.pl##div[style="margin-bottom: 10px;"]
@@ -2191,4 +2190,6 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+tygodnikkrag.pl##[class^="a-single a-"]
+szczecinek.com##.l-ad-top
 wysokomazowiecki24.pl##.sppb-addon-single-image-container
