@@ -677,9 +677,7 @@ inline__1_$domain=twojradom.pl
 ||pfcc.eu^*^choryzont.gif
 ||pfcc.eu^*^goldrop.
 ||pfcc.eu^*^mie11.
-||pionki24.pl^*^budmax0218_
 ||pionki24.pl^*^zlomotex_
-||pionki24.pl^*wizyt%
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||plonsk24.pl^*^img_154^
 ||plonsk24.pl^*^img_67^
@@ -749,10 +747,8 @@ inline__1_$domain=twojradom.pl
 ||radomnews.pl^*^logo_bfresh.
 ||radomnews.pl^*^logo_teatr_radom.
 ||radomnews.pl^*^medjana_
-||radomsport.pl^*^fitplatinium2019.
 ||radomsport.pl^*^windoor-wietrzenie-
 ||rankomat.pl$domain=tuhiszpania.pl
-||reacivepl.club^$domain=kinogo.biz
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
@@ -876,14 +872,6 @@ inline__1_$domain=twojradom.pl
 ||tenis.net.pl^*^mtc.
 ||tipnet.pl^$image,domain=slowopodlasia.pl
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
-||tkn24.pl^*^Ceramic-
-||tkn24.pl^*^Ceramic.
-||tkn24.pl^*^Dachbud.gif
-||tkn24.pl^*^Dekam-
-||tkn24.pl^*^melisa-baner.
-||tkn24.pl^*^Nexera-
-||tkn24.pl^*^Sypytkowski-sport-gif.
-||tkn24.pl^*_125x125.
 ||tko.pl^*^banerrr.
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
 ||torrentcity.pl^*^1qdcefergrt.
@@ -897,9 +885,6 @@ inline__1_$domain=twojradom.pl
 ||trojmiasto.pl^*-&block=1&
 ||trojmiasto.pl^*^a_d_s/banners.
 ||tromil.pl^*^09/parownice-multimatic.
-||truckeronroad.com^*^08/simglob-
-||truckeronroad.com^*^autoport-
-||truckeronroad.com^*^marketing-studio-
 ||trybunaczestochowska.pl^*^bajor.jpg
 ||trybunaczestochowska.pl^*^brzeczek.
 ||trybunaczestochowska.pl^*^maderpol.
@@ -921,14 +906,9 @@ inline__1_$domain=twojradom.pl
 ||twojglos-garwolin.pl^*^inline_images^
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ||tygodnikkepinski.pl^*^specialbanners^
-||tygodnikkrag.pl^*^ajk-serwis.
 ||tygodnikkrag.pl^*^jm-solar-
 ||tygodnikpiski.pl^*-290x150.
 ||tygodnikprzasnyski.com.pl^*^Mrowka%
-||tyna.info.pl^*^Meritum-
-||tyna.info.pl^*^nowy-sandomierz-net-
-||tyna.info.pl^*^puz-online700.
-||tyna.info.pl^*^wsa_1.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
 ||typersi.pl/pliki/unibet^
@@ -1007,3 +987,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||gazetaklobucka.pl^*^tvs-1.
