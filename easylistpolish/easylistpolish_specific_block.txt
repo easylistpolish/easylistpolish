@@ -685,8 +685,6 @@ inline__1_$domain=twojradom.pl
 ||plonskwsieci.pl^upload^malypuz.
 ||plonskwsieci.pl^upload^piekarczykmaly.
 ||poczta-online.com^*^globkurier.
-||podhale-sport.pl^*^ban-
-||podhale-sport.pl^*^bank.gif
 ||podhale24.pl/uploads/r^
 ||podrogach.pl^*^300x300_
 ||podrogach.pl^*^promocja-dunlop-
