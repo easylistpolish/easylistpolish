@@ -719,7 +719,6 @@ inline__1_$domain=twojradom.pl
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
-||psy24.pl^*^poradniki.
 ||ptvr.pl^*^elektronik_
 ||ptvr.pl^*^rek_
 ||pzbuk.pl^$script,domain=lowking.pl
