@@ -688,8 +688,6 @@ inline__1_$domain=twojradom.pl
 ||podhale-sport.pl^*^ban-
 ||podhale-sport.pl^*^bank.gif
 ||podhale24.pl/uploads/r^
-||podrogach.pl^*^300x300_
-||podrogach.pl^*^promocja-dunlop-
 ||pogoda.nl^*^ban_
 ||pogoda.nl^*^header3_1_black.
 ||pokerbonus.com^$domain=drhtv.com.pl
