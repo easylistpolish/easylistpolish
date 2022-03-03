@@ -719,8 +719,6 @@ inline__1_$domain=twojradom.pl
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
-||ptvr.pl^*^elektronik_
-||ptvr.pl^*^rek_
 ||pzbuk.pl^$script,domain=lowking.pl
 ||r.pless.nazwa.pl^$domain=tychy.info
 ||radio5.com.pl^*-eurpregion-niemen.
