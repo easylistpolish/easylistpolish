@@ -682,8 +682,6 @@ inline__1_$domain=twojradom.pl
 ||plonsk24.pl^*^img_154^
 ||plonsk24.pl^*^img_67^
 ||plonsk24.pl^*^img_72^
-||plonskwsieci.pl^upload^malypuz.
-||plonskwsieci.pl^upload^piekarczykmaly.
 ||poczta-online.com^*^globkurier.
 ||podhale24.pl/uploads/r^
 ||pogoda.nl^*^ban_
