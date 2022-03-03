@@ -718,7 +718,6 @@ inline__1_$domain=twojradom.pl
 ||proskarzysko.pl^*^kumers-wyprzedaz-
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
-||prv.pl/prv_billboard
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||psy24.pl^*^poradniki.
 ||ptvr.pl^*^elektronik_
