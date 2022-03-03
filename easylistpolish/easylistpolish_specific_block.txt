@@ -720,9 +720,6 @@ inline__1_$domain=twojradom.pl
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||prv.pl/prv_billboard
 ||przeclaw24.pl^*^pediatra.
-||przewodnicywedkarscy.pl^*^banermefistofishing.
-||przewodnicywedkarscy.pl^*^salmo_
-||przewodnicywedkarscy.pl^*_130x3601.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||psy24.pl^*^poradniki.
 ||ptvr.pl^*^elektronik_
