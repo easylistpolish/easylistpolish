@@ -719,12 +719,6 @@ inline__1_$domain=twojradom.pl
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||prv.pl/prv_billboard
-||przewodnicywedkarscy.pl^*^banermefistofishing.
-||przewodnicywedkarscy.pl^*^salmo_
-||przewodnicywedkarscy.pl^*_130x3601.
-||przyjacielprzypracy.pl^*^969x90.
-||przyjacielprzypracy.pl^*^baner_
-||przyjacielprzypracy.pl^*_969x90.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||psy24.pl^*^poradniki.
 ||ptvr.pl^*^elektronik_
