@@ -728,8 +728,6 @@ inline__1_$domain=twojradom.pl
 ||przyjacielprzypracy.pl^*_969x90.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||psy24.pl^*^poradniki.
-||ptvr.pl^*^elektronik_
-||ptvr.pl^*^rek_
 ||pzbuk.pl^$script,domain=lowking.pl
 ||r.pless.nazwa.pl^$domain=tychy.info
 ||radio5.com.pl^*-eurpregion-niemen.
