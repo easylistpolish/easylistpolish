@@ -935,14 +935,8 @@ inline__1_$domain=twojradom.pl
 ||www.optyczne.pl/partnerzy_sm^
 ||wykop.pl^*^adblock_$image
 ||wylecz.to^*^?clickTAG=/zzz_click^
-||xlomza.pl^*^fab.
-||xlomza.pl^*^fabryka_
 ||xlomza.pl^*^gina.
-||xlomza.pl^*^maj20.
-||xlomza.pl^*^nowa_fabryka.
-||xlomza.pl^*^unispaw.
 ||xlomza.pl^*^wizytowka_kaledarz.
-||xlomza.pl^*_300-250.
 ||zamioculcas.org^$script,domain=budujesz.info|rynek-rolny.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||ziemialimanowska.pl^*.hutekprojekty.
