@@ -934,7 +934,6 @@ inline__1_$domain=twojradom.pl
 ||www.filmweb.pl/welcomeScreenJS
 ||www.optyczne.pl/partnerzy_sm^
 ||wykop.pl^*^adblock_$image
-||wylecz.to^*^?clickTAG=/zzz_click^
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||zamioculcas.org^$script,domain=budujesz.info|rynek-rolny.pl
