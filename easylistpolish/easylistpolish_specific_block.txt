@@ -955,7 +955,6 @@ inline__1_$domain=twojradom.pl
 ||zlubaczowa.pl^*^narol=
 ||zlubaczowa.pl^*^stantanders.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
-||zol.pl/banery^
 ||zulawy.com^images^banerkiIFRAME^$subdocument
 ||zw.lt^*-280x280.
 ||zycie.pl^*^adverts-
