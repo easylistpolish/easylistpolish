@@ -955,3 +955,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=zol.pl
+^reklamy^$domain=zdrowybialystok.pl
