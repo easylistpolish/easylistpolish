@@ -960,8 +960,6 @@ inline__1_$domain=twojradom.pl
 ||zulawy.com^images^banerkiIFRAME^$subdocument
 ||zulawytv.pl^*^wulkanizacja_serwis_
 ||zw.lt^*-280x280.
-||zw.lt^*^budimex_970_90
-||zw.lt^*^fundacja-orlen-
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
