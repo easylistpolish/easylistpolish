@@ -929,7 +929,6 @@ inline__1_$domain=twojradom.pl
 ||worldofbookmakers.com^*^sts300.
 ||wronieckibazar.pl^*^izometwww.
 ||wronieckibazar.pl^*^starymlynb.
-||wrzesnia.info.pl^*^links^
 ||wszczecinie.pl/r/www/images^
 ||www.filmweb.pl/welcomeScreenJS
 ||www.optyczne.pl/partnerzy_sm^
