@@ -923,7 +923,6 @@ inline__1_$domain=twojradom.pl
 ||wiocha.pl/subpages^
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
-||wirtualnynowydwor.pl^*^plakat-zsz-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
 ||wronieckibazar.pl^*^starymlynb.
