@@ -943,7 +943,6 @@ inline__1_$domain=twojradom.pl
 ||xlomza.pl^*^unispaw.
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xlomza.pl^*_300-250.
-||zakliczyninfo.pl^*^ls1.
 ||zamioculcas.org^$script,domain=budujesz.info|rynek-rolny.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||ziemialimanowska.pl^*.hutekprojekty.
