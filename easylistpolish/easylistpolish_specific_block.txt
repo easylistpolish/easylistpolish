@@ -964,7 +964,5 @@ inline__1_$domain=twojradom.pl
 ||zw.lt^*^fundacja-orlen-
 ||zwielkopolski24.pl/img/banery/
 ||zycie.pl^*^adverts-
-||zyciezamoscia.pl^*^900x200.
-||zyciezamoscia.pl^*^billboard-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
