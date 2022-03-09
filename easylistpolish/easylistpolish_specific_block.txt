@@ -958,7 +958,6 @@ inline__1_$domain=twojradom.pl
 ||zol.pl/banery^
 ||zolti.pl^$script,domain=appleworld.pl
 ||zulawy.com^images^banerkiIFRAME^$subdocument
-||zulawytv.pl^*^wulkanizacja_serwis_
 ||zw.lt^*-280x280.
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
