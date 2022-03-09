@@ -946,7 +946,6 @@ inline__1_$domain=twojradom.pl
 ||zakliczyninfo.pl^*^ls1.
 ||zamioculcas.org^$script,domain=budujesz.info|rynek-rolny.pl
 ||zd24.pl^*^Jesienna-zaduma-
-||zd24.pl^*^speedaldies.
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zulawy.com^images^banerkiIFRAME^$subdocument
