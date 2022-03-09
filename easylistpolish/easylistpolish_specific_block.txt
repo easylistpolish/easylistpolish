@@ -924,7 +924,6 @@ inline__1_$domain=twojradom.pl
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wirtualnynowydwor.pl^*^plakat-zsz-
-||wislakrakow.com^*^lv750.
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
 ||wronieckibazar.pl^*^starymlynb.
