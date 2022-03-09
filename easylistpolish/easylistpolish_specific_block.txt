@@ -919,7 +919,6 @@ inline__1_$domain=twojradom.pl
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||wieliczkacity.pl^*^leroy_
 ||wielkopolska.tv^*^osk_wawrzyniak-
-||wiesci.com.pl^*^forma43.
 ||wiocha.pl/subpages^
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
