@@ -926,7 +926,6 @@ inline__1_$domain=twojradom.pl
 ||wirtualnynowydwor.pl^*^plakat-zsz-
 ||wislakrakow.com^*^lv750.
 ||wolbrom.pl^*^warta.
-||worldofbookmakers.com^*^sts300.
 ||wronieckibazar.pl^*^izometwww.
 ||wronieckibazar.pl^*^starymlynb.
 ||wszczecinie.pl/r/www/images^
