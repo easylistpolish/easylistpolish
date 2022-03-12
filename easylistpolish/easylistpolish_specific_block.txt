@@ -912,7 +912,6 @@ inline__1_$domain=twojradom.pl
 ||walewice.pl^*^mos-1326.
 ||wdrawskupomorskim.pl^*^jobsora%
 ||weben1.com^$domain=icyfrowypolsat.pl
-||wedding.pl/camp^$image
 ||wiadomosci.ipb.org.pl^*^dc_logo.
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
