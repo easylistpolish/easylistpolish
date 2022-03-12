@@ -897,7 +897,6 @@ inline__1_$domain=twojradom.pl
 ||typosfera.net^$domain=drhtv.com.pl
 ||typuje.pl^*^betfan3.
 ||typuje.pl^*^superbet.
-||tysol.pl^*^reklamaPhoto^
 ||ulub.pl^*^klikbill.
 ||unitedtails.com^*^logo-RC.
 ||uzz.thrash.pl/file^$image,domain=arka.tv
