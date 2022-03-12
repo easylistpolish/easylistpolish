@@ -913,7 +913,6 @@ inline__1_$domain=twojradom.pl
 ||wdrawskupomorskim.pl^*^jobsora%
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wedding.pl/camp^$image
-||wiadomosci.com^*-300x250.
 ||wiadomosci.ipb.org.pl^*^dc_logo.
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
