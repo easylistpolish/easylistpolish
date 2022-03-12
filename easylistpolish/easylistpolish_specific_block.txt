@@ -885,7 +885,6 @@ inline__1_$domain=twojradom.pl
 ||tvtoya.pl^*^banners/first_page/$image
 ||twojatv.info^*^popup.js$script
 ||twojglos-garwolin.pl^*^inline_images^
-||tygodnikdzialdowski.pl^*^GA_GTO_
 ||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
