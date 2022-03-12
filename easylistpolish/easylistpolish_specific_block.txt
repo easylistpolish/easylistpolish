@@ -907,7 +907,6 @@ inline__1_$domain=twojradom.pl
 ||visitslovenia.pl^*_banner_GoOpti_
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
-||wagaciezka.com/banery/upload^
 ||walewice.pl^*^mos-1326.
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.ipb.org.pl^*^dc_logo.
