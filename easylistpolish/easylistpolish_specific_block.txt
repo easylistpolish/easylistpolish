@@ -901,7 +901,6 @@ inline__1_$domain=twojradom.pl
 ||ulub.pl^*^klikbill.
 ||unitedtails.com^*^logo-RC.
 ||uzz.thrash.pl/file^$image,domain=arka.tv
-||v.wpimg.pl^$media,domain=open.fm
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
 ||w203.pl/autoczescionline24_
