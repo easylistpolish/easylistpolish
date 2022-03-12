@@ -876,8 +876,6 @@ inline__1_$domain=twojradom.pl
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||tu.swinoujscie.pl^*-banner1.
 ||tu.swinoujscie.pl^*^trotter.
-||tucholanin.pl^*^koronakorki_
-||tucholanin.pl^*^mbso_vision_
 ||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
 ||tygodnikpiski.pl^*-290x150.
