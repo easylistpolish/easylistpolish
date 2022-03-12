@@ -894,7 +894,6 @@ inline__1_$domain=twojradom.pl
 ||typersi.pl/pliki/fortuna^
 ||typersi.pl/pliki/unibet^
 ||typersi.pl^*^milenium/baner_
-||typosfera.net^$domain=drhtv.com.pl
 ||ulub.pl^*^klikbill.
 ||unitedtails.com^*^logo-RC.
 ||uzz.thrash.pl/file^$image,domain=arka.tv
