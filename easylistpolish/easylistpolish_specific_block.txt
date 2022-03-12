@@ -887,7 +887,6 @@ inline__1_$domain=twojradom.pl
 ||twojglos-garwolin.pl^*^inline_images^
 ||tygodnikdzialdowski.pl^*^GA_GTO_
 ||tygodnikkepinski.pl^*^specialbanners^
-||tygodnikkrag.pl^*^jm-solar-
 ||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
