@@ -910,7 +910,6 @@ inline__1_$domain=twojradom.pl
 ||wagaciezka.com/banery/upload^
 ||walbrzych24.com^*^Bannery_HTML/Hotel^
 ||walewice.pl^*^mos-1326.
-||wdrawskupomorskim.pl^*^jobsora%
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.ipb.org.pl^*^dc_logo.
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
