@@ -904,7 +904,6 @@ inline__1_$domain=twojradom.pl
 ||v.wpimg.pl^$media,domain=open.fm
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||visitslovenia.pl^*_banner_GoOpti_
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
 ||walewice.pl^*^mos-1326.
