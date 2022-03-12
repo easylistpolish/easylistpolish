@@ -880,8 +880,6 @@ inline__1_$domain=twojradom.pl
 ||tucholanin.pl^*^mbso_vision_
 ||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
-||tvmalbork.pl^*^domex_
-||tvmalbork.pl^*_300x200.
 ||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
