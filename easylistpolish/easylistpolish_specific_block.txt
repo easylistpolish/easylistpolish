@@ -889,7 +889,6 @@ inline__1_$domain=twojradom.pl
 ||tygodnikkepinski.pl^*^specialbanners^
 ||tygodnikkrag.pl^*^jm-solar-
 ||tygodnikpiski.pl^*-290x150.
-||tygodnikprzasnyski.com.pl^*^Mrowka%
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
 ||typersi.pl/pliki/unibet^
