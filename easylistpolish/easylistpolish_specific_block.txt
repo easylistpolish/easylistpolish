@@ -908,7 +908,6 @@ inline__1_$domain=twojradom.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
 ||wagaciezka.com/banery/upload^
-||walbrzych24.com^*^Bannery_HTML/Hotel^
 ||walewice.pl^*^mos-1326.
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.ipb.org.pl^*^dc_logo.
