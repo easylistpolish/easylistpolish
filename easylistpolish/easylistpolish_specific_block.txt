@@ -882,7 +882,6 @@ inline__1_$domain=twojradom.pl
 ||tustolica.pl/bimg^
 ||tvmalbork.pl^*^domex_
 ||tvmalbork.pl^*_300x200.
-||tvtoya.pl^*^banners/first_page/$image
 ||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
