@@ -2202,3 +2202,4 @@ ptvr.pl###text-15
 przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 podhale-sport.pl##a[href^="https://www.sport-corner.pl/"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
+pionki24.pl##img[alt="spot_img"]
