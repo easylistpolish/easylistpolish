@@ -919,3 +919,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=zol.pl
 ^reklamy^$domain=zdrowybialystok.pl
+^baner_$domain=ptvr.pl
