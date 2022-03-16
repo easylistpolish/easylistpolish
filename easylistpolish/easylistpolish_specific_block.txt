@@ -920,3 +920,5 @@ inline__1_$domain=twojradom.pl
 ^banery^$domain=zol.pl
 ^reklamy^$domain=zdrowybialystok.pl
 ^baner_$domain=ptvr.pl
+^banerek-$domain=all-inclusive.com.pl
+^banner-$domain=all-inclusive.com.pl
