@@ -2214,3 +2214,4 @@ tvregionalna24.pl##.advert-B1
 tvdzierzgon.pl##.advert-B1
 wieliczkacity.pl##.reklama_980
 twojglos-garwolin.pl###reklama + a
+tygodnikpiski.pl##.small-12 center a
