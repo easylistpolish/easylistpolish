@@ -922,3 +922,5 @@ inline__1_$domain=twojradom.pl
 ^baner_$domain=ptvr.pl
 ^banerek-$domain=all-inclusive.com.pl
 ^banner-$domain=all-inclusive.com.pl
+^2022baner^$domain=wysokomazowiecki24.pl
+^2021banery^$domain=wysokomazowiecki24.pl
