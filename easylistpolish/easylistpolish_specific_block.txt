@@ -924,3 +924,4 @@ inline__1_$domain=twojradom.pl
 ^banner-$domain=all-inclusive.com.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
 ^2021banery^$domain=wysokomazowiecki24.pl
+^baner^$domain=przyjaznawarszawa.pl
