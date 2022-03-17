@@ -926,3 +926,4 @@ inline__1_$domain=twojradom.pl
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^baner^$domain=przyjaznawarszawa.pl
 ^baner_$domain=wieliczkacity.pl
+^inline__1_$domain=tulegnica.pl
