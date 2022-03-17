@@ -2213,3 +2213,4 @@ tvmalbork.pl##.advert-B1
 tvregionalna24.pl##.advert-B1
 tvdzierzgon.pl##.advert-B1
 wieliczkacity.pl##.reklama_980
+twojglos-garwolin.pl###reklama + a
