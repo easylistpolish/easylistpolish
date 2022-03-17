@@ -2205,3 +2205,4 @@ podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
 pionki24.pl##img[alt="spot_img"]
 porady.mobi##center a
 lowking.pl###text-32
+przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
