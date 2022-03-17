@@ -2207,3 +2207,5 @@ porady.mobi##center a
 lowking.pl###text-32
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 xlomza.pl##img.uk-margin-top
+wiesci.com.pl###text-8
+wiesci.com.pl###text-16
