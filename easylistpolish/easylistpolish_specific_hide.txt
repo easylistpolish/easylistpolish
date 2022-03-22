@@ -322,6 +322,7 @@ wyborcza.pl###rectangle-splint
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
 mybank.pl###rek_prawe_menu
+twojglos-garwolin.pl###reklama + a
 poprostupycha.com.pl###reklama-wlasna
 kryniczanie.pl###reklama1
 elka.pl###reklamaGooglePrawa336Last
@@ -390,9 +391,9 @@ gazetalubliniecka.pl,love4tennis.pl,miastoiludzie.pl###text-11
 dzierzgon.info.pl,ipulawy.pl,jozefow-news.pl,motorlublin.com,wiesci.com.pl,zzapolowy.com###text-12
 luckyhorse.pl###text-13
 wawernews.pl###text-131
-greencanoe.pl,lowking.pl,mojlask.pl,trybawaryjny.pl,tu.swinoujscie.pl,wszedobylscy.com,zpopk.pl###text-15
+greencanoe.pl,lowking.pl,mojlask.pl,ptvr.pl,trybawaryjny.pl,tu.swinoujscie.pl,wszedobylscy.com,zpopk.pl###text-15
 tylkopilka.pl###text-157
-miniomki.pl,naszglospoznanski.pl,portal-transportowy.pl,trybawaryjny.pl###text-16
+miniomki.pl,naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.pl###text-16
 bbfan.pl,smartage.pl###text-17
 bbfan.pl,blogprezesa.pl,tkn24.pl,winterszus.pl###text-18
 blogprezesa.pl,tarnobrzeskie.eu,trybawaryjny.pl,tur-tur.pl###text-19
@@ -405,6 +406,7 @@ gazetarumska.pl,medycznamarihuana.com,piast.gliwice.pl,tarnobrzeskie.eu,zycieols
 jasionka24.pl,wiesci.com.pl###text-23
 piast.gliwice.pl###text-26
 custodianofmecatolrex.znadplanszy.pl,dania-dietetyczne.pl,dopilar.pl,fiat.fm,gazetaklobucka.pl,historykon.pl,konzdrowyjak.com.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,streetfoodpolska.pl,tarnow.in,terazgrodkow24.pl###text-3
+lowking.pl###text-32
 stacja-tluszcz.pl###text-35
 wolna-polska.pl###text-39
 24legnica.pl,chrzanow.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,lowiczanin.info,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,powiatowy.pl,prokapitalizm.pl,wyszukana.com.pl,ziemiastrzelecka.strzelce.pl###text-4
@@ -421,7 +423,7 @@ e-playbet.com###text-70
 czestochowskie24.pl,forumkwiatowe.pl###text-75
 antyauto.pl###text-76
 kamienskie.info###text-79
-24legnica.pl,dingdog.pl,greencanoe.pl,kurier-lokalny.com,niebezpiecznik.pl,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wydzialykomunikacji.pl###text-8
+24legnica.pl,dingdog.pl,greencanoe.pl,kurier-lokalny.com,niebezpiecznik.pl,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
 gazetalubliniecka.pl,kobieta-zmienna-jest.pl,kurier-lokalny.com,mojgdow.pl,olgasmile.com,prasowki.org,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl,wiesci.com.pl###text-9
 lukowicatomy.pl###text-html-widget-14
@@ -595,7 +597,7 @@ alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,
 cowkrakowie.pl##.advert--component
 damitv.pl,eluban.pl,korso.pl,korsokolbuszowskie.pl,koscierzyna24.info,lubelska.tv,portalpomorza.pl,radiosochaczew.pl,slowopodlasia.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tuolawa.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
 bydgoszcz.com,damitv.pl,e-widuchowa.pl,korso.pl,korsokolbuszowskie.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
-bydgoszcz.com,damitv.pl,e-widuchowa.pl,eluban.pl,koscierzyna24.info,lokalnatelewizja.pl,lubelska.tv,slowopodlasia.pl,tczewska.pl,telewizjazary.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
+bydgoszcz.com,damitv.pl,e-widuchowa.pl,eluban.pl,koscierzyna24.info,lokalnatelewizja.pl,lubelska.tv,slowopodlasia.pl,tczewska.pl,telewizjazary.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
 tuolawa.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
@@ -1232,6 +1234,8 @@ infobus.pl##.reklamaR2Napis
 infobus.pl##.reklamaR2Napis + div
 moje-gniezno.pl##.reklamaTEKST
 dkl24.pl##.reklama_700
+wieliczkacity.pl##.reklama_980
+wieliczkacity.pl##.reklama_980 ~ center a
 portalprzemyski.pl##.reklama_boczna
 rzeszow-news.pl##.reklama_gora
 wirtualnyzgierz.pl##.reklama_head
@@ -1325,6 +1329,7 @@ tygodnik.szczytno.pl##.slitslider_reklama_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
 slowoseniora.pl##.slowo-widget
+tygodnikpiski.pl##.small-12 center a
 30minut.pl##.small-adv
 4tour.pl##.span2
 infotydzien.info##.span3
@@ -1655,8 +1660,10 @@ portalplock.pl##a[href="1005_sponsorowane"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 e-petrol.pl##a[href="http://www.bartergaz.pl"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
+przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
+podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
 pannamloda.com##a[href="reklama.html"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
@@ -1794,6 +1801,7 @@ waszaturystyka.pl##a[href^="https://www.corendonairlines.com/"]
 ddb24.pl,twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
 allaboutmusic.pl,fiatklubpolska.pl,klubpodroznikow.com##a[href^="https://www.euautoczesci.pl/"]
 czadrow24.pl##a[href^="https://www.facebook.com/ncpluswbiedronce/"]
+przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
 ddb24.pl##a[href^="https://www.gowork.pl/"]
 gawex.pl##a[href^="https://www.hotelquattro.pl/"]
@@ -1811,6 +1819,7 @@ miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
 speedtest.pl##a[href^="https://www.play.pl/oferta/"]
 spottedstarachowice.pl##a[href^="https://www.romerpp.pl"]
 fight24.pl,kochamsilownie.pl,kulturystyka.pl##a[href^="https://www.sfd.pl/"]
+podhale-sport.pl##a[href^="https://www.sport-corner.pl/"]
 gazeta-mlawska.pl##a[href^="https://www.stihl.pl/"]
 warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
 ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
@@ -1897,6 +1906,7 @@ ostrowczanie.info##body > center > a
 tyna.info.pl##body > center img
 onet.pl##body[onload*=".loadAds"]
 tkn24.pl##center > a[target="_blank"] > img
+porady.mobi##center a
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.o2.pl,poczta.wp.pl##dd-holder
 fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl##div > .insert--top-offer
@@ -2012,6 +2022,7 @@ cafesenior.pl,medme.pl##div[data-adslot-id]
 wylecz.to##div[data-event="slotSeen"]
 wylecz.to##div[data-event="slotseen"]
 wylecz.to##div[data-evet="slotseen"]
+wylecz.to##div[data-evnet="slotseen"]
 wp.pl##div[data-native-adv]
 onet.pl##div[data-section^="ad-flat"]
 onet.pl##div[data-section^="flat-gigaboard"]
@@ -2121,6 +2132,7 @@ poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
 scs.htw.pl##iframe[name="billboard-top"]
 kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 bajery.pl##iframe[name="rek"]
+xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
 jakzrobicwexcelu.pl##img[alt$="reklama"]
 40ton.net##img[alt="Advertisement"]
@@ -2131,6 +2143,7 @@ cowkrakowie.pl##img[alt="baner"]
 edebno.pl##img[alt="banner"]
 edebno.pl,evertiq.pl##img[alt="reklama"]
 hfc.com.pl##img[alt="s-e-r-v-e-r-a-d-s"]
+pionki24.pl##img[alt="spot_img"]
 lubaczow.tv##img[alt^="Ad banner"]
 gazetasenior.pl##img[alt^="Reklama"]
 supertydzien.pl##img[alt^="reklama"]
@@ -2197,23 +2210,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-ptvr.pl###text-16
-ptvr.pl###text-15
-przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
-podhale-sport.pl##a[href^="https://www.sport-corner.pl/"]
-podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
-pionki24.pl##img[alt="spot_img"]
-porady.mobi##center a
-lowking.pl###text-32
-przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
-xlomza.pl##img.uk-margin-top
-wiesci.com.pl###text-8
-wiesci.com.pl###text-16
-tvmalbork.pl##.advert-B1
-tvregionalna24.pl##.advert-B1
-tvdzierzgon.pl##.advert-B1
-wieliczkacity.pl##.reklama_980
-twojglos-garwolin.pl###reklama + a
-tygodnikpiski.pl##.small-12 center a
-wylecz.to##div[data-evnet="slotseen"]
-wieliczkacity.pl##.reklama_980 ~ center a
