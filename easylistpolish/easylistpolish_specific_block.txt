@@ -874,7 +874,6 @@ inline__1_$domain=twojradom.pl
 ||trybunaczestochowska.pl^*^pasze.
 ||trybunaczestochowska.pl^*^popup-maker^$script
 ||trybunaczestochowska.pl^*^toyota.jpg
-||trzemeszno24.info^*^950x67.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||tu.swinoujscie.pl^*-banner1.
 ||tulegnica.pl^*^inline__1_6446.
