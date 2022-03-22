@@ -868,12 +868,6 @@ inline__1_$domain=twojradom.pl
 ||trojmiasto.pl^*-&block=1&
 ||trojmiasto.pl^*^a_d_s/banners.
 ||tromil.pl^*^09/parownice-multimatic.
-||trybunaczestochowska.pl^*^bajor.jpg
-||trybunaczestochowska.pl^*^brzeczek.
-||trybunaczestochowska.pl^*^maderpol.
-||trybunaczestochowska.pl^*^pasze.
-||trybunaczestochowska.pl^*^popup-maker^$script
-||trybunaczestochowska.pl^*^toyota.jpg
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||tu.swinoujscie.pl^*-banner1.
 ||tulegnica.pl^*^inline__1_6446.
