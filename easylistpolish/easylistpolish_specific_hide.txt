@@ -2216,3 +2216,4 @@ wieliczkacity.pl##.reklama_980
 twojglos-garwolin.pl###reklama + a
 tygodnikpiski.pl##.small-12 center a
 wylecz.to##div[data-evnet="slotseen"]
+wieliczkacity.pl##.reklama_980 ~ center a
