@@ -877,7 +877,6 @@ inline__1_$domain=twojradom.pl
 ||trzemeszno24.info^*^950x67.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||tu.swinoujscie.pl^*-banner1.
-||tu.swinoujscie.pl^*^trotter.
 ||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
 ||tygodnikpiski.pl^*-290x150.
