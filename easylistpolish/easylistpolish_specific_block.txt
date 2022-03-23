@@ -857,7 +857,6 @@ inline__1_$domain=twojradom.pl
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||tko.pl^*^banerrr.
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
-||torrentcity.pl^*^1qdcefergrt.
 ||transg.pl^*^meblohaus_
 ||trawka.org^*^300X150.
 ||tromil.pl^*^09/parownice-multimatic.
