@@ -843,7 +843,6 @@ inline__1_$domain=twojradom.pl
 ||szukam-ksiazki.pl/marbet_hurtownia.
 ||szukam-ksiazki.pl^*^havana.
 ||tanuki.pl/imglink^
-||tarnobrzeg.info^*^drzwi-kiermasz.
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
