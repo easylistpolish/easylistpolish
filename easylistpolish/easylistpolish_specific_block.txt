@@ -853,9 +853,7 @@ inline__1_$domain=twojradom.pl
 ||telewizjarepublika.pl^*^joyvie.
 ||temi.pl^*^klient/forma.
 ||tenis.net.pl^*^mtc.
-||tipnet.pl^$image,domain=slowopodlasia.pl
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
-||tko.pl^*^banerrr.
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
 ||transg.pl^*^meblohaus_
 ||trawka.org^*^300X150.
