@@ -861,10 +861,6 @@ inline__1_$domain=twojradom.pl
 ||toyotaklub.org.pl/iparts.
 ||transg.pl^*^meblohaus_
 ||trawka.org^*^300X150.
-||trawka.org^*^ganjafarmer.
-||trawka.org^*^grasspower.
-||trawka.org^*^growbox.
-||trawka.org^*^vapuj-pl-
 ||tromil.pl^*^09/parownice-multimatic.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||tu.swinoujscie.pl^*-banner1.
