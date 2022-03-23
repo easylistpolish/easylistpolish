@@ -850,7 +850,6 @@ inline__1_$domain=twojradom.pl
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||teleriumads-$domain=telerium.tv
-||telewizjarepublika.pl^*^joyvie.
 ||tenis.net.pl^*^mtc.
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
