@@ -827,8 +827,6 @@ inline__1_$domain=twojradom.pl
 ||supernowosci24.pl^*^potokowa.
 ||suwalki.info^*^ibn60p.
 ||sweetwedding.pl^*-290x290.
-||sweetwedding.pl^*^duetfotografowslubnych.
-||sweetwedding.pl^*^vasco-images.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||swietokrzyskie24.eu^*^oklejaniebanerek.
