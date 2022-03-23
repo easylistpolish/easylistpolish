@@ -837,8 +837,6 @@ inline__1_$domain=twojradom.pl
 ||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
 ||systemyplatnosci.com^*^fundacja_zoodoptuj.
 ||systemyplatnosci.com^*^hotpay_
-||szczecinek.com^*-hosso_
-||szczecinek.com^*-szkola2.
 ||szczecinek.com^*^inline_
 ||szukam-ksiazki.pl/marbet_hurtownia.
 ||szukam-ksiazki.pl^*^havana.
