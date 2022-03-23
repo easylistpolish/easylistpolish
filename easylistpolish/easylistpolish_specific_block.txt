@@ -849,7 +849,6 @@ inline__1_$domain=twojradom.pl
 ||tarnobrzeskie.eu^*^tani-druk-
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
-||teleriumads-$domain=telerium.tv
 ||tenis.net.pl^*^mtc.
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
