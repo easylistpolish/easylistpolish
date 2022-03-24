@@ -819,7 +819,6 @@ inline__1_$domain=twojradom.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
 ||stop-oszustom.pl^*^markor_
-||strajk.eu^*^strajk-324x320-9.
 ||supernowosci24.pl^*^decoeco2.
 ||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
