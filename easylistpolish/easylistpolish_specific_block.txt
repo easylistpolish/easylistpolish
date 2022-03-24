@@ -818,7 +818,6 @@ inline__1_$domain=twojradom.pl
 ||sterta.pl^$domain=linkologia.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
-||stop-oszustom.pl^*^markor_
 ||supernowosci24.pl^*^decoeco2.
 ||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
