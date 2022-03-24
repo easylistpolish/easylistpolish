@@ -22,7 +22,6 @@
 -banner_$domain=kaszuby24.pl|oirplodz.pl
 -bannery-$domain=bogaty.men|zarobmy.se
 -bener-$domain=meblosfera.pl|tapicerstwo.co|tkaninyobiciowe.eu
--popup.$domain=streetwearhypeclub.com
 -reklama-$domain=bithub.pl|chelmski.eu|e-hotelarz.pl|firmy.meblarstwo.eu|golub-cgd.pl|infobusko.pl|kurekmazurski.pl|kurier-kolski.pl|nasz-glos.com|przedsiebiorczepodlasie.pl|radomszczanska.pl|starosadeckie.info|tkaninyobiciowe.eu|tv-pelplin.pl
 -reklama.$domain=flarrow.pl|gazeta-mosina.pl|gazetatrybunalska.pl|jeleniagora998.pl|mojewronki.pl|ostrodanews.pl|popradio.pl|przysucha.informator-lokalny.pl|sochaczewianin.pl|tu.swinoujscie.pl
 -reklama^$domain=kurekmazurski.pl
@@ -821,7 +820,6 @@ inline__1_$domain=twojradom.pl
 ||stoczniowcy.pl^*^jds.
 ||stop-oszustom.pl^*^markor_
 ||strajk.eu^*^strajk-324x320-9.
-||streetwearhypeclub.com^*^NIKE_box.
 ||supernowosci24.pl^*^decoeco2.
 ||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
