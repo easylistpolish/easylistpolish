@@ -807,7 +807,6 @@ inline__1_$domain=twojradom.pl
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
 ||stalowemiasto.pl/_a^
 ||stalowemiasto.pl/colada2^
-||stargardzka.pl^*^impakserwisskup.
 ||starosadeckie.info^*^CZYSTE-POWIETRZE.
 ||starosadeckie.info^*^myjnia.
 ||starosadeckie.info^*rolbud-
