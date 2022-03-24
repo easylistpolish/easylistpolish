@@ -824,7 +824,6 @@ inline__1_$domain=twojradom.pl
 ||streetwearhypeclub.com^*^NIKE_box.
 ||sts.pl^$subdocument,domain=e-play.eu|izaktv.pl
 ||supernowosci24.pl^*^decoeco2.
-||supernowosci24.pl^*^potokowa.
 ||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
