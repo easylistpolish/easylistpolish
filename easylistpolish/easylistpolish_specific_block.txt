@@ -791,7 +791,6 @@ inline__1_$domain=twojradom.pl
 ||spliff.pl^*^DomowaUprawa_
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^sensimilla_logo_
-||spolecznosci.net^$domain=fotka.com
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
