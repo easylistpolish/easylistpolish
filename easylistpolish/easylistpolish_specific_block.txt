@@ -776,7 +776,6 @@ inline__1_$domain=twojradom.pl
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
 ||slowopodlasia.pl^*^polnoc_nieruchomosci.
 ||sloworegionu.pl^*^internet_2_
-||slupca.pl^*^zatrzymaj-plakat2.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
