@@ -778,7 +778,6 @@ inline__1_$domain=twojradom.pl
 ||sloworegionu.pl^*^internet_2_
 ||slupca.pl^*^zatrzymaj-plakat2.
 ||sochaczew24.info^*^erawa-
-||softonet.pl^*^670pobierz.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
