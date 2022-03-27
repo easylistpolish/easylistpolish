@@ -786,7 +786,6 @@ inline__1_$domain=twojradom.pl
 ||sokolka.tv^*^szkolka_kolpak
 ||sokolka.tv^*^warsztat-samochodowy.
 ||sokolka.tv^*_250x250_
-||spacead.pl$image,domain=naszciechanow.pl
 ||spliff.pl^*^DomowaUprawa_
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^sensimilla_logo_
