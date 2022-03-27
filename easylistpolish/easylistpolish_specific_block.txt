@@ -109,7 +109,6 @@
 ^BanneryElka^$domain=elka.pl
 ^bannnery^$domain=portalmorski.pl
 ^bans^$domain=plastech.pl
-^Betx^$domain=sportowebeskidy.pl
 ^bgz_$domain=oczamiostrego.pl
 ^boxy_po_prawej^$domain=ang24.pl|dlagimnazjalisty.info|dlamaturzysty.info|dlaprzedszkolaka.info|dlaucznia.info|doctoralstudy.eu|edubaza.pl|gramatyka-angielska.info|kampusy.info|kierunki-studiow.info|kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|kwalifikacjezawodowe.info|mba-studies.eu|organizacjestudenckie.pl|postgraduatestudy.eu|pracaikariera.pl|rektorzy.pl|studenckamarka.pl|studenckamoda.pl|studentka.pl|studentmapa.pl|studentnews.eu|studentnews.pl|studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info
 ^campaign^$domain=cire.pl
@@ -793,7 +792,6 @@ inline__1_$domain=twojradom.pl
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^sensimilla_logo_
 ||spolecznosci.net^$domain=bezuzyteczna.pl|fotka.com
-||sportowebeskidy.pl/materialy/system_banerowy^
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
