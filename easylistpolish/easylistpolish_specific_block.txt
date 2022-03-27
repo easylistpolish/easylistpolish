@@ -781,11 +781,6 @@ inline__1_$domain=twojradom.pl
 ||softonet.pl^*^670pobierz.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
-||sokolka.tv^*^sokole-oko-
-||sokolka.tv^*^sokole-oko.
-||sokolka.tv^*^szkolka_kolpak
-||sokolka.tv^*^warsztat-samochodowy.
-||sokolka.tv^*_250x250_
 ||spliff.pl^*^DomowaUprawa_
 ||spliff.pl^*^ecobison_logo_
 ||spliff.pl^*^sensimilla_logo_
