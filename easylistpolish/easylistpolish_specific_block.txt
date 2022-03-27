@@ -794,14 +794,6 @@ inline__1_$domain=twojradom.pl
 ||spliff.pl^*^sensimilla_logo_
 ||spolecznosci.net^$domain=bezuzyteczna.pl|fotka.com
 ||sportowebeskidy.pl/materialy/system_banerowy^
-||sportsiedlce.pl^*/uploads/2019/02/0.jpg|$image
-||sportsiedlce.pl^*^01/tasta.
-||sportsiedlce.pl^*^03/BUDOMATEX.
-||sportsiedlce.pl^*^08/apartament.
-||sportsiedlce.pl^*^Eden-
-||sportsiedlce.pl^*^garwacki.
-||sportsiedlce.pl^*^Mal-Pol-
-||sportsiedlce.pl^*^SDB2_
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
