@@ -777,7 +777,6 @@ inline__1_$domain=twojradom.pl
 ||slowopodlasia.pl^*^polnoc_nieruchomosci.
 ||sloworegionu.pl^*^internet_2_
 ||slupca.pl^*^zatrzymaj-plakat2.
-||sochaczew24.info^*^erawa-
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
