@@ -775,7 +775,6 @@ inline__1_$domain=twojradom.pl
 ||slaskiesiemianowice.pl^*^asgrawbaner-
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
 ||slowopodlasia.pl^*^polnoc_nieruchomosci.
-||sloworegionu.pl^*^internet_2_
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
