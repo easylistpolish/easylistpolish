@@ -165,7 +165,6 @@
 ^reklamy_$domain=cenyrolnicze.pl|galeriafirm.eu|gazetka.be|pilkanozna.pl|plonskwsieci.pl|supertydzien.pl|tugazeta.pl
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
-^rkm^$domain=skiny.pl
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl|wcipy.pl|zarzadca.pl
 ^ruchchorzowBAN.$domain=ruchchorzow.com.pl
 ^rusztowania123.$domain=bmw-klub.pl
@@ -769,7 +768,6 @@ inline__1_$domain=twojradom.pl
 ||skarzysko24.pl/images/dp.
 ||skarzysko24.pl^*^OUT3^
 ||skarzysko24.pl^*^uninp.
-||skiny.pl/rp.
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
