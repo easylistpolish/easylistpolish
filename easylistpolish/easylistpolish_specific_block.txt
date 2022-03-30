@@ -774,7 +774,6 @@ inline__1_$domain=twojradom.pl
 ||sklep-muzyczny.com.pl^*^nowy_credit.
 ||slaskiesiemianowice.pl^*^asgrawbaner-
 ||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
-||slowopodlasia.pl^*^polnoc_nieruchomosci.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
