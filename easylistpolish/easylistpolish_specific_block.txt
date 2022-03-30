@@ -765,9 +765,6 @@ inline__1_$domain=twojradom.pl
 ||satkurier.pl/banery^
 ||seriale.co^*^baner.
 ||service.weben1.com^$subdocument,domain=abc-survival.pl
-||skarzysko24.pl/images/dp.
-||skarzysko24.pl^*^OUT3^
-||skarzysko24.pl^*^uninp.
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
