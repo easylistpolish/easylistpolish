@@ -773,7 +773,6 @@ inline__1_$domain=twojradom.pl
 ||skipol.pl^*^watermark_azoty.
 ||sklep-muzyczny.com.pl^*^nowy_credit.
 ||slaskiesiemianowice.pl^*^asgrawbaner-
-||slotverify.dreamlab.pl^$subdocument,domain=onet.pl
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
