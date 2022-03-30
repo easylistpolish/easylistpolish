@@ -754,9 +754,6 @@ inline__1_$domain=twojradom.pl
 ||rzeszow112.pl^*^buz-3.
 ||s0urce.io^*^idletowerminer^
 ||s3.amazonaws.com^$domain=vidfile.net
-||s6.ifotos.pl^*^dezynjpg_
-||s6.ifotos.pl^*^embudjpg_
-||s6.ifotos.pl^*^stch-wsei_
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
