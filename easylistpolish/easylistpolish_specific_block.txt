@@ -764,7 +764,6 @@ inline__1_$domain=twojradom.pl
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||satkurier.pl/banery^
 ||seriale.co^*^baner.
-||service.weben1.com^$subdocument,domain=abc-survival.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
