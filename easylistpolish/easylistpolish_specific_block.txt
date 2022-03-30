@@ -757,9 +757,6 @@ inline__1_$domain=twojradom.pl
 ||s6.ifotos.pl^*^dezynjpg_
 ||s6.ifotos.pl^*^embudjpg_
 ||s6.ifotos.pl^*^stch-wsei_
-||sadownictwo.com.pl^*^Filel/300x.
-||sadownictwo.com.pl^*^Owoce-300x.
-||sadownictwo.com.pl^*^Plantivax-
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
