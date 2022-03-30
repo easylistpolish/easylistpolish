@@ -762,7 +762,6 @@ inline__1_$domain=twojradom.pl
 ||sadownictwo.com.pl^*^Plantivax-
 ||samzobacz.pl^*^2018/09/Blik.
 ||sas-sap.com/$domain=polonia.poznan.pl
-||satkurier.pl/banery^
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
