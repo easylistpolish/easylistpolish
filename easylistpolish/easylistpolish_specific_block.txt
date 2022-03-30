@@ -772,7 +772,6 @@ inline__1_$domain=twojradom.pl
 ||skiny.pl/rp.
 ||skipol.pl^*^watermark_azoty.
 ||sklep-muzyczny.com.pl^*^nowy_credit.
-||slaskiesiemianowice.pl^*^asgrawbaner-
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
