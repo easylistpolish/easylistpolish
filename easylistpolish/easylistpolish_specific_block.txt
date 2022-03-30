@@ -753,7 +753,6 @@ inline__1_$domain=twojradom.pl
 ||rynekinformacji.pl^*^wiwb-
 ||rzeszow112.pl^*^buz-3.
 ||s0urce.io^*^idletowerminer^
-||s3.amazonaws.com^$domain=vidfile.net
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
