@@ -2212,3 +2212,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 m.joemonster.org###bottomRect
 m.joemonster.org###middleRect
 m.joemonster.org###main_billboard
+instalki.pl##.wtgLazyWrapper
