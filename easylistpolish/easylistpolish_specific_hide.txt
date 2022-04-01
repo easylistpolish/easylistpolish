@@ -121,6 +121,7 @@ hrubieszow.info,innemedium.pl###block-views-reklama-block
 forum.alfaholicy.org###block_html_3
 open.fm###bnr-top
 lebork24.info###bottom-banner
+m.joemonster.org###bottomRect
 szuster.com.pl###box-4
 laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
@@ -232,6 +233,7 @@ wawernews.pl###main center > a[target="_blank"]
 zawiercianskie.pl###main-header .widget_media_image
 wodnyrelax.pl###main2
 filmweb.pl###mainSkyBanner-pl_PL
+m.joemonster.org###main_billboard
 oknonet.pl###mainbaner
 biegowki.pl###makler42
 skipol.pl###makler7
@@ -272,6 +274,7 @@ kurierostrowski.pl###metaslider_975
 swietokrzyskie24.eu###metaslider_container_4396
 gloskoninski.pl###metaslider_widget-10
 noworudzianin.pl###metaslider_widget-2
+m.joemonster.org###middleRect
 dziennik.pl###miejsce101
 dziennik.pl###miejsce9
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
@@ -1512,6 +1515,7 @@ naszamlawa.pl##.wprss_ajax
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
 wbaziefirm.pl##.wrapper-flash
 filmweb.pl##.ws__wrapper
+instalki.pl##.wtgLazyWrapper
 poradnikhandlowca.com.pl##.yReklamy
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
@@ -2209,7 +2213,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-m.joemonster.org###bottomRect
-m.joemonster.org###middleRect
-m.joemonster.org###main_billboard
-instalki.pl##.wtgLazyWrapper
