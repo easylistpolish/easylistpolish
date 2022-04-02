@@ -749,7 +749,6 @@ inline__1_$domain=twojradom.pl
 ||rr.rzeszowiak.pl^
 ||rrs24.net^*^marta_ubezpieczenia.
 ||rutatour.pl^*^signal-idiuna.
-||ryms.pl^*^oko-logo2.
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
