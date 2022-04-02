@@ -747,7 +747,6 @@ inline__1_$domain=twojradom.pl
 ||rowery.org^*^banerrowery2020-
 ||rowery.org^*^banerrowery2020.
 ||rr.rzeszowiak.pl^
-||rrs24.net^*^marta_ubezpieczenia.
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
