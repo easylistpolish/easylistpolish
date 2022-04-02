@@ -744,8 +744,6 @@ inline__1_$domain=twojradom.pl
 ||rodaknet.com/reklamujemy^
 ||romantycznyweekend.eu/banery^
 ||roosevelta81.pl^*^domb3.
-||rowery.org^*^banerrowery2020-
-||rowery.org^*^banerrowery2020.
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
