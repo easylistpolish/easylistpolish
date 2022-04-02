@@ -743,7 +743,6 @@ inline__1_$domain=twojradom.pl
 ||rocznikgdynski.pl^*^antywirus-
 ||rodaknet.com/reklamujemy^
 ||romantycznyweekend.eu/banery^
-||roosevelta81.pl^*^domb3.
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
