@@ -637,6 +637,7 @@ e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
 comparic.pl##.akliuiy-single
 gsmmaniak.pl##.anal-post-popularne
 mojanorwegia.pl##.animatedA
+spidersweb.pl##.app-adBox
 a6klub.pl##.arek
 niskaemisja.ekoscan.pl##.art-slider
 naekranie.pl##.article-header [style^=" width: 375."]
@@ -2213,4 +2214,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-spidersweb.pl##.app-adBox
