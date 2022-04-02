@@ -751,7 +751,6 @@ inline__1_$domain=twojradom.pl
 ||rutatour.pl^*^signal-idiuna.
 ||ryms.pl^*^oko-logo2.
 ||rynekinformacji.pl^*^wiwb-
-||rzeszow112.pl^*^buz-3.
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
