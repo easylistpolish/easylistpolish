@@ -707,6 +707,7 @@ inline__1_$domain=twojradom.pl
 ||probasket.pl^*^PRODC.
 ||progressforpoland.org^*^oilpassion-
 ||prokapitalizm.pl^*^zloto_prokap.
+||promocjebetx.pl^$domain=tenis.net.pl
 ||proskarzysko.pl^*^kumers-wyprzedaz-
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
@@ -782,6 +783,7 @@ inline__1_$domain=twojradom.pl
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
+||tenis.net.pl^*^oszustwo300x200
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
 ||transg.pl^*^meblohaus_
@@ -830,5 +832,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||tenis.net.pl^*^oszustwo300x200
-||promocjebetx.pl^$domain=tenis.net.pl

@@ -107,6 +107,8 @@ przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
 dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
+tarnobrzeg.info###block-21
+tarnobrzeg.info###block-22
 obiektysakralne.pl###block-63
 droneclub.pl###block-block-13
 innemedium.pl,tylkomedycyna.pl###block-block-16
@@ -262,6 +264,7 @@ staresiolkowice.pl###media_image-4
 gazetagazeta.com###media_image-41
 budownictwo.co,kurierwilenski.lt,mojgdowmagazyn.pl###media_image-5
 ostrodanews.pl###media_image-52
+tkaninyobiciowe.eu###media_image-59
 kurierwilenski.lt###media_image-6
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
@@ -1126,7 +1129,7 @@ bankier.pl##.n2b-ad-container
 wmeritum.pl##.naa
 mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
-budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,kultyrystyka.pl,maszynydlameblarstwa.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu##.navbar-ad-section
+budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,kultyrystyka.pl,maszynydlameblarstwa.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 mojaniderlandia.pl##.newArticleA
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -2214,8 +2217,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-tkaninyobiciowe.eu##.navbar-ad-section
-tkaninyobiciowe.eu###media_image-59
-tapicerstwo.co##.navbar-ad-section
-tarnobrzeg.info###block-22
-tarnobrzeg.info###block-21
