@@ -2217,3 +2217,5 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 tkaninyobiciowe.eu##.navbar-ad-section
 tkaninyobiciowe.eu###media_image-59
 tapicerstwo.co##.navbar-ad-section
+tarnobrzeg.info###block-22
+tarnobrzeg.info###block-21
