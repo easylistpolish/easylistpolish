@@ -741,7 +741,6 @@ inline__1_$domain=twojradom.pl
 ||reklamy.naszraciborz.pl^ad^$script
 ||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||rlu24.pl^marek2.
-||rocznikgdynski.pl^*^antywirus-
 ||rodaknet.com/reklamujemy^
 ||s0urce.io^*^idletowerminer^
 ||sas-sap.com/$domain=polonia.poznan.pl
