@@ -2222,3 +2222,4 @@ tko.pl##.oln-desktop_a
 roosevelta81.pl##a[href^="https://superbet.pl/"]
 spliff.pl###gkRight
 stoczniowcy.pl###reklama_top
+speedtest.pl##div.mb-4
