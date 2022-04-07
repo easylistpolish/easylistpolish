@@ -2220,3 +2220,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 sadownictwo.com.pl##.isotopeGrid-item .edcwidgetAnhor
 tko.pl##.oln-desktop_a
 roosevelta81.pl##a[href^="https://superbet.pl/"]
+spliff.pl###gkRight
