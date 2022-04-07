@@ -729,7 +729,6 @@ inline__1_$domain=twojradom.pl
 ||radomnews.pl^*^logo_teatr_radom.
 ||radomnews.pl^*^medjana_
 ||radomsport.pl^*^windoor-wietrzenie-
-||rankomat.pl$domain=tuhiszpania.pl
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
