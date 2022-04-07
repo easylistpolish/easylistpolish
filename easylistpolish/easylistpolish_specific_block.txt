@@ -733,8 +733,6 @@ inline__1_$domain=twojradom.pl
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
-||regionalna.pl^*^firmy-wspolpracujace_
-||regionalna.pl^*^inwazja_
 ||rehabilitacyjne.pl^*_maxim.
 ||rek.www.wp.pl^
 ||reklama-lowicz.pl^$image,domain=lowicz24.eu
