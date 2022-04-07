@@ -183,7 +183,7 @@
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^wpjslib-sgap.$script,domain=poczta.wp.pl
 ^xbaner_$domain=kuriernauczycielski.pl
-^xreklama-$domain=tv-pelplin.pl
+^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
 _1000x165.$domain=krs-online.com.pl
 _200x50.$domain=fresh-market.pl
 _940x300.$domain=polishexpress.co.uk
@@ -828,4 +828,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^xreklama-$domain=tu.swinoujscie.pl
