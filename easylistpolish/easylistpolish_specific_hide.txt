@@ -2224,3 +2224,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 slowopodlasia.pl##.my-3 .tipad_tag  + a
+tu.swinoujscie.pl###media_image-11
