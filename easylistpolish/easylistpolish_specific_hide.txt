@@ -2231,3 +2231,4 @@ tarnobrzeg.info###block-11
 wylecz.to##[class$="330e"]
 ki24.info##.bvideo
 stoczniowcy.pl##.right
+starosadeckie.info##.the-slider + p
