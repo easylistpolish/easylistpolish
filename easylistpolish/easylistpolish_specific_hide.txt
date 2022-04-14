@@ -2227,3 +2227,4 @@ slowopodlasia.pl##.my-3 .tipad_tag  + a
 tu.swinoujscie.pl###media_image-11
 tko.pl##.oln-sticky
 tkaninyobiciowe.eu###media_image-63
+tarnobrzeg.info###block-11
