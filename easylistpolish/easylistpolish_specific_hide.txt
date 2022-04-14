@@ -2229,3 +2229,4 @@ tko.pl##.oln-sticky
 tkaninyobiciowe.eu###media_image-63
 tarnobrzeg.info###block-11
 wylecz.to##[class$="330e"]
+ki24.info##.bvideo
