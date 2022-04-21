@@ -5,7 +5,7 @@
 -300x400.$domain=polacywewloszech.com
 -728x82.$domain=plportal.pl
 -970x250.$domain=plportal.pl
--ad-$domain=myerp.pl
+-ad-$domain=myerp.pl|tuhiszpania.pl
 -ad.$domain=konstancinjeziorna-news.pl|wilanownews.pl
 -baner-$domain=automotivesuppliers.pl|budownictwo.co|dietetycy.org.pl|dwakwadranse.pl|firmy.meblarstwo.eu|genetyczne.pl|gramwzielone.pl|infobusko.pl|konflikty.pl|kurier-lokalny.com|meblarskapolska.pl|meblosfera.pl|miastokobiet.pl|mysnet.pl|obiektysakralne.pl|opowiecie.info|ostrodanews.pl|panoramakutna.pl|powrotroberta.pl|prostoomuzyce.pl|radiobiper.info|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|sulecin24.pl|sweetwedding.pl|tapicerstwo.co|tkaninyobiciowe.eu|tkn24.pl|tygodnikpiski.pl|wszystkookotach.pl
 -baner.$domain=blogprezesa.pl|brzeg24.pl|buduj-remontuj-urzadzaj.pl|businesstraveller.pl|crypto-trader.pl|czest.info|dzisiajwgliwicach.pl|genetyczne.pl|gloskoninski.pl|ibialoleka.pl|ipulawy.pl|jaw.pl|kociewie.online|lekarze-gabinety.pl|lwowecki.info|magazynfakty.pl|maksymalnie.pl|masztu.pl|mazopolska.pl|miejskieinfo.pl|moto-oto.pl|napoli24h.pl|nowagazeta.pl|ospi.pl|oto-slub.pl|pgo24.pl|przeclaw24.pl|rdn.pl|sokolka.tv|sulecin24.pl|twojaslupca.pl|tygodnikkrag.pl|wirtualnyzgierz.pl|wkatalog.pl|wolanie.info|zielonanews.pl
@@ -57,6 +57,7 @@
 ^adsrotator^$domain=korex.net.pl
 ^adv^$domain=alltube.tv|goryizerskie.pl|naszglospoznanski.pl|radio.kielce.pl|ringpolska.pl|sportsiedlce.pl|zyciegrajewa.pl
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
+^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
 ^adwokat.gif?$domain=swarzedz24.pl
 ^areklamy^$domain=e-lokalne.pl
@@ -827,5 +828,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
--ad-$domain=tuhiszpania.pl
-^advert^$domain=tarnow.net.pl
