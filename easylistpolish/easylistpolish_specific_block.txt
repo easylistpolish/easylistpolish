@@ -828,3 +828,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 -ad-$domain=tuhiszpania.pl
+^advert^$domain=tarnow.net.pl
