@@ -766,7 +766,6 @@ inline__1_$domain=twojradom.pl
 ||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
-||swietokrzyskie24.eu^*^oklejaniebanerek.
 ||sychar.org^*^tolle-wide-
 ||syrena.nekla.eu^*-agraf-
 ||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
