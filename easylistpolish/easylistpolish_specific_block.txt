@@ -718,16 +718,6 @@ inline__1_$domain=twojradom.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ||radiosudety24.pl^*^sad^$image
 ||radiowrzesnia.pl^*^pum^$script
-||radomnews.pl^*^banerekPRU_320.
-||radomnews.pl^*^czas_na_kawe.
-||radomnews.pl^*^fanfar_
-||radomnews.pl^*^helios_
-||radomnews.pl^*^jadar_logo.
-||radomnews.pl^*^korej_baner1.
-||radomnews.pl^*^kwiatkowski_pr.
-||radomnews.pl^*^logo_bfresh.
-||radomnews.pl^*^logo_teatr_radom.
-||radomnews.pl^*^medjana_
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefine.hit.stat24.com^$subdocument,domain=polsatsport.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
