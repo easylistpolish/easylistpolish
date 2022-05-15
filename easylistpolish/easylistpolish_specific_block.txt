@@ -815,3 +815,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^pictures/Mostbet.$image,domain=2x45.info
+^pictures/TOTAL%20BET%$image,domain=2x45.info
