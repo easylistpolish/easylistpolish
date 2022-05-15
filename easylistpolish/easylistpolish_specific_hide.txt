@@ -1008,7 +1008,6 @@ klubowa.pl##.id52
 muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
 6krokow.pl##.img_rkl
-autoline.com.pl##.index-banners
 gazeta.pl##.indexPremium__adv
 infozlocieniec.pl##.infoz-widget
 komorkomania.pl##.insert--top-offer
