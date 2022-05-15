@@ -610,7 +610,6 @@ tuolawa.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
 zycie.pl##.advert-item
-antyradio.pl##.advert-movieads
 lovekrakow.pl##.advert-next-to-logo
 ox.pl##.advert-owl
 bryk.pl##.advert-right-wrapper
