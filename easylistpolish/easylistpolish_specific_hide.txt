@@ -1105,7 +1105,6 @@ sloworegionu.pl##.mfp-wrap
 infoszach.pl##.mh-content-ad
 tv.pl##.middle-salesmedia
 10minut.tv##.minut-po-tresci
-10minut.tv##.minut-widget
 interia.pl##.mixerAdTopRight-wrapper
 ipulawy.pl##.mkd-content-top-holder
 na-pulpit.com,widoczki.com##.mng
