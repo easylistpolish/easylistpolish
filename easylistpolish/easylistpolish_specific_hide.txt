@@ -2212,3 +2212,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 24wspolnota.pl##.article__ad-special
 24wspolnota.pl##.kd_ns_ads
 30minut.pl###block-13
+30minut.pl###media_image-4
