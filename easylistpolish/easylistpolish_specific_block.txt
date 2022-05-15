@@ -818,3 +818,4 @@ inline__1_$domain=twojradom.pl
 ^pictures/TOTAL%20BET%$image,domain=2x45.info
 ^pictures/BETSSON%$image,domain=2x45.info
 ^fortunatv-$domain=atleti.pl
+^imghttps/750^$domain=atleti.pl
