@@ -2216,3 +2216,4 @@ android.com.pl##.banner
 android.com.pl##.banner__placeholder
 android.com.pl##.banner--big
 antyauto.pl##.kd_ns_placement
+antyauto.pl##.kd_ns_ads
