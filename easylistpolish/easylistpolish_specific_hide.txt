@@ -84,7 +84,6 @@ o.pl###banner-czynszowy
 lebork24.info###banner-main
 lebork24.info###banner-main2
 lowcaburzwielun.pl.tl###banner-right
-4lomza.pl###banner-slider
 suwalki.info###banner-standard
 chip.pl,lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
 dkl24.pl###banner10
