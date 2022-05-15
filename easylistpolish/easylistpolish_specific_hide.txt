@@ -612,7 +612,7 @@ ox.pl##.advert-owl
 bryk.pl##.advert-right-wrapper
 filmweb.pl##.advertButton
 automatyka.pl,laboratoria.xtech.pl##.advertHd
-automatyka.pl,laboratoria.xtech.pl##.advertHd + div
+laboratoria.xtech.pl##.advertHd + div
 zory24.pl##.advertbutton
 grupacbb.pl,wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
