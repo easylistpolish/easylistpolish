@@ -430,7 +430,6 @@ e-playbet.com###text-66
 fiat.fm,fredrikstad.pl,goldap.org.pl,kazimierzdolny24.pl,kcynia.info,kryptoporadnik.pl,stopnadwadze.pl,swoszowice.org.pl,tenisbydawid.pl###text-7
 e-playbet.com###text-70
 czestochowskie24.pl,forumkwiatowe.pl###text-75
-antyauto.pl###text-76
 kamienskie.info###text-79
 24legnica.pl,dingdog.pl,greencanoe.pl,kurier-lokalny.com,niebezpiecznik.pl,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
