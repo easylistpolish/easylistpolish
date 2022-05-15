@@ -1068,7 +1068,6 @@ czecho.pl,pless.pl,pszczyna.tv,tychy.info##.linki-sponsorowane-col
 tychy.info##.linki-sponsorowane-group-artykul
 wrzesnia.info.pl##.links
 open.fm##.listAdvSlot
-4wymiar.pl##.loc1
 e-grajewo.pl##.logos-container
 lokalnyreporter.pl##.lokal-widget
 love4tennis.pl##.love4-adlabel ~ a
