@@ -2214,3 +2214,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 30minut.pl###media_image-4
 android.com.pl##.banner
 android.com.pl##.banner__placeholder
+android.com.pl##.banner--big
