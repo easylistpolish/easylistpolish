@@ -541,7 +541,7 @@ polskielupki.pl##.ad_info
 grodzisknews.pl##.ad_suw_nad
 egryfino.pl##.ada
 rebelianci.org##.adad
-automobilista.com.pl,praca-niemcy24.pl##.adblock
+praca-niemcy24.pl##.adblock
 stockwatch.pl##.adbloki-sroki
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 nowytarg24.tv##.adbox[target="_blank"]
