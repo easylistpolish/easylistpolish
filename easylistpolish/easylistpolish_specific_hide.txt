@@ -1176,7 +1176,6 @@ oknonawagrowiec.pl##.penci-promo-item > img
 takze.pl##.penci-promo-link + img
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
-anglia.today##.place-for-advertisement
 ciekawostkihistoryczne.pl##.placeholderAds
 rowerowa.pl,siedlcesiedzieje.pl##.placement
 portalmorski.pl##.pmb_banners
