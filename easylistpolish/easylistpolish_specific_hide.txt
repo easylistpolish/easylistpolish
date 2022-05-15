@@ -1626,7 +1626,6 @@ cashless.pl##a[data="advert-link"]
 gazetalubliniecka.pl##a[href$="&utm_medium=banner&utm_campaign="]
 twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
-##a[href*="&utm_campaign="]
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
