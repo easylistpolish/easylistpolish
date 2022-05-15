@@ -2215,3 +2215,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 android.com.pl##.banner
 android.com.pl##.banner__placeholder
 android.com.pl##.banner--big
+antyauto.pl##.kd_ns_placement
