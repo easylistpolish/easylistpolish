@@ -47,7 +47,6 @@ pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
 swiatkoni.pl###advmain
 swiatkoni.pl###advwide
-appleworld.pl###app-store-topcharts-3
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
 bankier.pl###article-link-box
