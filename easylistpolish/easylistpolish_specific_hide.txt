@@ -1180,7 +1180,6 @@ plonsk24.pl##.pole-banerowe > a:not([href^="/"]):not([href*="plonsk24.pl/"])
 plonsk24.pl##.pole-banerowe > img
 24tp.pl,dkl24.pl##.polecamy
 krosno112.pl##.polecamy + .module-ct
-b24tv.pl##.popmake-overlay
 zloty-pociag.com##.popup_wrapper iframe
 newsdiscopolo.info##.post-next-prev ~ iframe
 e-playonline.com##.post-single-ads1
