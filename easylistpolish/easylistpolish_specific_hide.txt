@@ -960,7 +960,7 @@ dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 gorliczanin.pl##.gorliczanin-ogloszenie section[id^="media_image-"]
 log4.pl##.grafikaKlienta
-abczdrowie.pl,autocentrum.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
+autocentrum.pl,autokult.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
