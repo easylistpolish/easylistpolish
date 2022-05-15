@@ -2209,3 +2209,4 @@ dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 24wspolnota.pl##.ads
 24wspolnota.pl##.ads__wrapper
+24wspolnota.pl##.article__ad-special
