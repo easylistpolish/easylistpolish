@@ -97,7 +97,7 @@
 ^banner.$domain=archispace.pl|cksport.pl|diablo.phx.pl|porady.mobi|przeambitni.pl|transportchorego.pl|tripybiznesekipy.pl
 ^banner1.$domain=infoskierniewice.pl
 ^banner3-$domain=przekultura.pl
-^banner^$domain=4lomza.pl|autoklub.pl|calisia.pl|cashless.pl|centrumdruku3d.pl|chords.pl|dlalejdis.pl|enduhub.com|eurobuildcee.com|exspace.pl|extremehobby.eu|flashscore.pl|geoforum.pl|gospodarz.pl|konin24.info|miastociechocinek.com|moje-dzialdowo.pl|movie-box.pl|opinieouczelniach.pl|palukimogilno.pl|polonika.at|polskieradio.com|probasket.pl|strazacki.pl|tawernaskipperow.pl|tygodnik-krapkowicki.info|tygodnikzamojski.pl|zawodykonne.com
+^banner^$domain=alipaczka.pl|4lomza.pl|autoklub.pl|calisia.pl|cashless.pl|centrumdruku3d.pl|chords.pl|dlalejdis.pl|enduhub.com|eurobuildcee.com|exspace.pl|extremehobby.eu|flashscore.pl|geoforum.pl|gospodarz.pl|konin24.info|miastociechocinek.com|moje-dzialdowo.pl|movie-box.pl|opinieouczelniach.pl|palukimogilno.pl|polonika.at|polskieradio.com|probasket.pl|strazacki.pl|tawernaskipperow.pl|tygodnik-krapkowicki.info|tygodnikzamojski.pl|zawodykonne.com
 ^banner_$domain=7dni.pila.pl|angielskieespresso.pl|biegowe.pl|chemiaibiznes.com.pl|conamokotowie.pl|coreblog.pl|e-play.pl|exspace.pl|fcinter.pl|firmy.meblarstwo.eu|forumfajerwerki.pl|kotdoskonaly.pl|kucharze.pl|kurier-bielski.cnm.pl|legitymizm.org|lexus-forum.pl|meblarskapolska.pl|meczenazywo.pl|my3miasto.pl|podlaskieagro.pl|portalmedialny.pl|prestizgliwice.pl|probasket.pl|rdn.pl|sadnowoczesny.pl|slupca.pl|super-warez.eu|sweetwedding.pl|truckitransport.pl|tu.swinoujscie.pl|tygodnikpiski.pl|urodaizdrowie.pl|wrc.net.pl|zielonanews.pl
 ^BannerDB?$image,domain=energoelektronika.pl
 ^bannerImages^$domain=40ton.net
