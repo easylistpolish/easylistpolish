@@ -40,6 +40,7 @@ icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
+tygodnikszczytno.pl###advBox
 tygodnik.szczytno.pl###advContener
 torun.com.pl###adv_layer
 filmweb.pl###advertBar-pl_PL
@@ -1324,6 +1325,7 @@ pulskwidzyna.pl##.sliderBox
 gostynin24.pl,puszczawkrzanska.pl##.slides
 mazovia24.pl##.slides_oneDIV
 staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
+tygodnikszczytno.pl##.slitslider_container
 tygodnik.szczytno.pl##.slitslider_reklama_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
@@ -1624,7 +1626,7 @@ cashless.pl##a[data="advert-link"]
 gazetalubliniecka.pl##a[href$="&utm_medium=banner&utm_campaign="]
 twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
-badaniaprenatalne.pl##a[href*="&utm_campaign="]
+##a[href*="&utm_campaign="]
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
@@ -2206,5 +2208,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-tygodnikszczytno.pl###advBox
-tygodnikszczytno.pl##.slitslider_container
