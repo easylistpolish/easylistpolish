@@ -953,7 +953,6 @@ krknews.pl##.gdxxhnu
 eku24.net##.gkCols6
 comparic.pl##.gkliuiy-single
 24gliwice.pl##.gliwi-a1-gora-portalu
-24gliwice.pl##.gliwi-a5-na-koncu-artykulow
 24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
