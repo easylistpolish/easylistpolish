@@ -2217,3 +2217,4 @@ android.com.pl##.banner__placeholder
 android.com.pl##.banner--big
 antyauto.pl##.kd_ns_placement
 antyauto.pl##.kd_ns_ads
+automobilista.com.pl##a[href^="https://www.ucando.pl/"]
