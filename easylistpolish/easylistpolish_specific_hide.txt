@@ -166,7 +166,6 @@ tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowolodzi.pl,slowotrojmiasta.pl,slowowarszawy.pl###efaro-widget
 goniecpolski.nl###execphp-2
-appleworld.pl###execphp-9
 chemiabudowlana.info###fadeinbox
 kozienice24.pl###fbbfo
 woda-scieki.com###firms
