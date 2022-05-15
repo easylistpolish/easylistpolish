@@ -1268,7 +1268,6 @@ sekrety-zdrowia.org##.rekwraph
 rmf24.pl##.relatedListAds
 whatsnext.pl##.retina-image
 miejscawewroclawiu.pl##.rev_slider_wrapper
-4programmers.net##.revive > a > img
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 woor.pl##.right_box
