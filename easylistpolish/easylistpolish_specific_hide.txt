@@ -458,7 +458,6 @@ silacze.org###tri-mot
 tygodnik.szczytno.pl###tygm_lewa
 prokuratura-zz.pl###ubezpieczenie-top
 bankier.pl###underArtAdv
-24gliwice.pl###vce_adsense_widget-5
 telewizjaleszno.pl###vlog-module-0-0
 polskiemiasta.tv###wartozobaczyc
 zakliczyninfo.pl###wdb_advert-line
