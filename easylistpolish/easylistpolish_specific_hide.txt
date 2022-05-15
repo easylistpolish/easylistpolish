@@ -1215,7 +1215,6 @@ kryptoholik.pl,ool24.pl##.pum-overlay
 kz1.pl##.qa-widgets-main-top
 ekoexpo.pl,gorzow24.pl##.r
 echokamienia.pl##.r-rek
-24wspolnota.pl##.rBox
 goryiludzie.pl##.rad
 cire.pl##.ramka_sponsorzy_kont
 futbolnews.pl,zzapolowy.com##.ranking
