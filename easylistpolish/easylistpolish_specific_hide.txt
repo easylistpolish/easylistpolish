@@ -732,7 +732,7 @@ e-kolo.pl##.banner_polecane
 pik.kielce.pl##.banner_reklama_el
 rzesport.pl##.banner_wrapper
 przekrojlokalny.pl,slubickie.info##.banner_zone
-aviation24.pl,cenyrolnicze.pl,chnnews.pl,chwaszczyno.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,estrzelce.pl,ezamosc.pl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,halogorlice.info,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,kuriersuwalski.pl,msfera.pl,norwegofil.pl,nowyzmigrod24.pl,obserwatorgospodarczy.pl,okiemrolnika.pl,podhaleregion.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,swidnik.pl,wadowiceonline.pl,wgmedia.eu,wybrzeze24.pl##.bannergroup
+cenyrolnicze.pl,chnnews.pl,chwaszczyno.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,estrzelce.pl,ezamosc.pl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,halogorlice.info,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,kuriersuwalski.pl,msfera.pl,norwegofil.pl,nowyzmigrod24.pl,obserwatorgospodarczy.pl,okiemrolnika.pl,podhaleregion.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,swidnik.pl,wadowiceonline.pl,wgmedia.eu,wybrzeze24.pl##.bannergroup
 sloworegionu.pl##.bannergroup iframe
 palukitv.pl##.bannergroup img
 instalki.pl##.bannergroup-adv
