@@ -105,6 +105,7 @@ przedreptacswiat.pl###black-studio-tinymce-5
 dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
 tarnobrzeg.info###block-11
+30minut.pl###block-13
 tarnobrzeg.info###block-21
 tarnobrzeg.info###block-22
 obiektysakralne.pl###block-63
@@ -259,7 +260,7 @@ swarzedz24.pl###media_image-328
 gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
-staresiolkowice.pl###media_image-4
+30minut.pl,staresiolkowice.pl###media_image-4
 gazetagazeta.com###media_image-41
 budownictwo.co,kurierwilenski.lt,mojgdowmagazyn.pl###media_image-5
 ostrodanews.pl###media_image-52
@@ -556,7 +557,7 @@ hellozdrowie.pl##.adf-cont
 tvn24.pl##.ado-placeholder
 gram.pl##.adocean
 pomorska.pl##.adoceanGora1Wrapper
-3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,forum.bitcoin.pl,globenergia.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,forum.bitcoin.pl,globenergia.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
 zeglarski.info##.ads-block-right
@@ -576,6 +577,7 @@ nowezyciepabianic.pl##.ads480
 businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.adsSlotContainer
+24wspolnota.pl##.ads__wrapper
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
@@ -644,6 +646,7 @@ a6klub.pl##.arek
 niskaemisja.ekoscan.pl##.art-slider
 naekranie.pl##.article-header [style^=" width: 375."]
 gazetarumska.pl##.articleBottom-ads
+24wspolnota.pl##.article__ad-special
 parenting.pl##.article__textbox
 globenergia.pl##.article_headline_ad
 posbud.com.pl##.as_marquee0
@@ -692,7 +695,8 @@ ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-bez-posrednikow.com.pl,nieruchomosci-komercyjne.info##.banery2
 doba.pl##.baneryB-140
 instalacjebudowlane.pl##.banery_lewy_pasek
-24starogard.pl,300polityka.pl,3trzy3.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,nadwisla24.pl,naekranie.pl,naszekwatery.pl,netkonkret.pl,nieruchomoscipodlaskie.pl,obligacje.pl,on-line24h.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
+24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,biala24.pl,doradcasmaku.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,nadwisla24.pl,naekranie.pl,naszekwatery.pl,netkonkret.pl,nieruchomoscipodlaskie.pl,obligacje.pl,on-line24h.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
+android.com.pl##.banner--big
 pracujwlogistyce.pl##.banner-1
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
@@ -725,6 +729,7 @@ stadionowioprawcy.net##.bannerBox a[target="_blank"]
 zlotowskie.pl##.bannerSlider
 mojanorwegia.pl,podhale24.pl##.bannerTop
 3trzy3.pl##.banner_1
+android.com.pl##.banner__placeholder
 roksa.pl##.banner_bottom
 instalki.pl##.banner_mod_top
 confero.pl##.banner_panel
@@ -1033,10 +1038,10 @@ mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
 mgsm.pl##.karta-widget-prices
-damitv.pl,igryfino.pl,korsosanockie.pl,koscierzyna24.info,kronikatygodnia.pl,kuriergarwolinski.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
+24wspolnota.pl,antyauto.pl,damitv.pl,igryfino.pl,korsosanockie.pl,koscierzyna24.info,kronikatygodnia.pl,kuriergarwolinski.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
 bezux.pl,ckm.pl,crowdmedia.pl,demotywatory.pl,dziennikbaltycki.pl,dziennikelblaski.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetaolsztynska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,goal.pl,gosc.pl,gp24.pl,gs24.pl,harpersbazaar.pl,innpoland.pl,kociewiak.pl,korso.pl,kuriergarwolinski.pl,kurierlubelski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 kuriergarwolinski.pl##.kd_ns_logo
-kurierzurominski.pl##.kd_ns_placement
+antyauto.pl,kurierzurominski.pl##.kd_ns_placement
 typuje.pl##.kodbaner
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
@@ -1824,6 +1829,7 @@ warzywapolowe.pl##a[href^="https://www.syngenta.pl/uprawy/"]
 ototorun.pl##a[href^="https://www.torun-plaza.pl/"]
 meczlive.pl##a[href^="https://www.typ.pl"]
 kanonierzy.com,swidnik.pl,widzewtomy.net##a[href^="https://www.ucando.pl"]
+automobilista.com.pl##a[href^="https://www.ucando.pl/"]
 elubin.pl##a[href^="https://www.vichy.pl/"]
 starosadeckie.info##a[href^="https://www.wsb-nlu.edu.pl"]
 wykop.pl##a[href^="https://www.wykop.pl/adverts"]
@@ -2206,15 +2212,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24wspolnota.pl##.ads
-24wspolnota.pl##.ads__wrapper
-24wspolnota.pl##.article__ad-special
-24wspolnota.pl##.kd_ns_ads
-30minut.pl###block-13
-30minut.pl###media_image-4
-android.com.pl##.banner
-android.com.pl##.banner__placeholder
-android.com.pl##.banner--big
-antyauto.pl##.kd_ns_placement
-antyauto.pl##.kd_ns_ads
-automobilista.com.pl##a[href^="https://www.ucando.pl/"]
