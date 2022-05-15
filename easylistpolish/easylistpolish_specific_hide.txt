@@ -1811,7 +1811,7 @@ klubpodroznikow.com,linktopoland.com,lipno-cli.pl,radiogol.pl,swidnica24.pl,swos
 techpolska.pl##a[href^="https://www.ceneo.pl/"]
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/"]
 ddb24.pl,twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
-allaboutmusic.pl,fiatklubpolska.pl,klubpodroznikow.com##a[href^="https://www.euautoczesci.pl/"]
+fiatklubpolska.pl,klubpodroznikow.com##a[href^="https://www.euautoczesci.pl/"]
 czadrow24.pl##a[href^="https://www.facebook.com/ncpluswbiedronce/"]
 przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
