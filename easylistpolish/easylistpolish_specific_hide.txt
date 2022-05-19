@@ -452,7 +452,6 @@ linia.com.pl###travel2
 silacze.org###tri-mot
 tygodnik.szczytno.pl###tygm_lewa
 prokuratura-zz.pl###ubezpieczenie-top
-bankier.pl###underArtAdv
 telewizjaleszno.pl###vlog-module-0-0
 polskiemiasta.tv###wartozobaczyc
 zakliczyninfo.pl###wdb_advert-line
