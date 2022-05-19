@@ -773,7 +773,6 @@ magazynszum.pl##.block_reklama_top
 multifishing.pl##.blockadvmulti
 bielsko.tv,czechowice.tv,pless.pl,pszczyna.tv,tychy.info##.blok-baner
 czecho.pl,pless.pl##.blok-billboard
-bielsko.tv##.blok-link-sponsorowany
 bielsko.tv,czecho.pl,pless.pl##.blok-r
 grupyogrodnicze.pl##.blok_reklam
 studentnews.pl##.bm
