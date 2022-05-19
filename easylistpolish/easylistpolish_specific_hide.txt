@@ -1781,7 +1781,6 @@ polskatradycja.pl##a[href^="https://pln.tgm."]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 fresh-market.pl##a[href^="https://redpackmaszyny.pl/"]
 magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
-baxu.pl##a[href^="https://simpleanalytics.com/"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
