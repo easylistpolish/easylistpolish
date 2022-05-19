@@ -115,7 +115,6 @@ trzcianka.info###block-block-20
 zmianynaziemi.pl###block-block-26
 zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
-bielskiedrogi.pl###block-block-9,#block-block-12
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 hrubieszow.info,innemedium.pl###block-views-reklama-block
 forum.alfaholicy.org###block_html_3
