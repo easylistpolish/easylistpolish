@@ -1642,7 +1642,7 @@ cozadzien.pl,namasce.pl##a[href*="iparts.pl"]
 etransport.pl##a[href*="kampanie.etransport.pl"]
 kuriergarwolinski.pl##a[href*="klikniecia"]
 naszraciborz.pl##a[href*="link_r"]
-blogpress.pl,prokapitalizm.pl##a[href*="multibook.pl"] > img
+prokapitalizm.pl##a[href*="multibook.pl"] > img
 inthecage.pl##a[href*="page?key"]
 elubaczow.com##a[href*="rdir.php?"]
 e-petrol.pl##a[href*="redir?part=banner"]
