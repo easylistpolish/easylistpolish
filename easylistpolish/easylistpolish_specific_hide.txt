@@ -500,7 +500,6 @@ slupca.pl##.a-220
 portalmorski.pl##.a-block
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
-bezposrednie.com##.a-d-sHeader + div
 minskmaz.com##.a-dis
 cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
