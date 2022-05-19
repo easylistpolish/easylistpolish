@@ -1457,7 +1457,6 @@ sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 facet.wp.pl##.view-first > mask > logo_cdc_big + box_wyprzedane
 webiko.pl##.view-promocje a[target="_blank"]
 gastrowiedza.pl##.view-reklama
-bielskiedrogi.pl##.view-reklamy
 sad24.pl##.vip
 zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
