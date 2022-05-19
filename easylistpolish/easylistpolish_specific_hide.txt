@@ -1469,7 +1469,6 @@ dziennikzwiazkowy.com,prudnik24.pl##.widget-3
 dziennikzwiazkowy.com##.widget-4
 lsw24.pl##.widget-ad-image
 bezale.pl##.widget-area
-boardtime.pl##.widget-header
 deon.pl##.widget-products
 gorydlaciebie.pl##.widgetKP
 dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
