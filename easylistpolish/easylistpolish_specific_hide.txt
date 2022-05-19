@@ -1287,7 +1287,6 @@ businesswomanlife.pl##.sead > a > img
 ekologia.pl##.sec-pasaz
 radiojura.pl##.sec-promo
 e-tlumacze.net##.section-banner
-bezpiecznydom.net##.section-banner-44
 gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl,ok24.tv##.sgpb-popup-overlay
