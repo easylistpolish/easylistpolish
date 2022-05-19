@@ -553,7 +553,7 @@ hellozdrowie.pl##.adf-cont
 tvn24.pl##.ado-placeholder
 gram.pl##.adocean
 pomorska.pl##.adoceanGora1Wrapper
-24wspolnota.pl,3dwpraktyce.pl,bezprawnik.pl,dziennik.com,fdb.pl,forum.bitcoin.pl,globenergia.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,dziennik.com,fdb.pl,forum.bitcoin.pl,globenergia.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
 zeglarski.info##.ads-block-right
