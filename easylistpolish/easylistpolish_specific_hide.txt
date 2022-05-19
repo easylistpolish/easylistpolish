@@ -50,7 +50,6 @@ swiatkoni.pl###advmain
 swiatkoni.pl###advwide
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
-bankier.pl###article-link-box
 mragowo24.info###articleAds
 poradnikzdrowie.pl,urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
