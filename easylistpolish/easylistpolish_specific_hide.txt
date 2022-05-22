@@ -2202,3 +2202,4 @@ bobrzanie.pl##.homeadv
 bosonamacie.pl###big-wrapper
 brief.pl##a[href^="https://dreamemployer.pl"]
 brief.pl##a[href^="https://www.foodtown.pl"]
+bstok.pl##.vc_custom_1639400766487
