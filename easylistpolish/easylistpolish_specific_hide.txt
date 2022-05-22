@@ -2200,5 +2200,5 @@ blogpress.pl###sidebar-right > div[id^="block-block-"]
 blogprezesa.pl##img[title="Binance"]
 bobrzanie.pl##.homeadv
 bosonamacie.pl###big-wrapper
-brief.pl##a[href^="https://dreamemployer.pl/"]
+brief.pl##a[href^="https://dreamemployer.pl"]
 brief.pl##a[href^="https://www.foodtown.pl"]
