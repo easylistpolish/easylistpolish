@@ -2195,3 +2195,4 @@ bielskiedrogi.pl##.reklama-display-desktop
 bielskiedrogi.pl##.blok-r
 bielskiedrogi.pl##.blok-billboard
 bielskirynek.pl##.topLayer
+bitcoin.pl###advertisements
