@@ -2196,3 +2196,4 @@ bielskiedrogi.pl##.blok-r
 bielskiedrogi.pl##.blok-billboard
 bielskirynek.pl##.topLayer
 bitcoin.pl###advertisements
+blogpress.pl###sidebar-right > div[id^="block-block-"]
