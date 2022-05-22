@@ -2198,3 +2198,4 @@ bielskirynek.pl##.topLayer
 bitcoin.pl###advertisements
 blogpress.pl###sidebar-right > div[id^="block-block-"]
 blogprezesa.pl##img[title="Binance"]
+bobrzanie.pl##.homeadv
