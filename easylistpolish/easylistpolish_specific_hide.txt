@@ -2205,3 +2205,4 @@ brief.pl##a[href^="https://www.foodtown.pl"]
 bstok.pl##.vc_custom_1639400766487
 budowlanematerialy.eu###block-43
 cai24.pl##.td_block_single_image
+calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 220px;"]
