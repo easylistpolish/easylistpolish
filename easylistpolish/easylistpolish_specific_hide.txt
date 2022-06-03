@@ -2209,3 +2209,4 @@ menshealth.pl###optad-sub-970x250_3
 menshealth.pl##.mh-optad
 motocykl-online.pl##.mo-optad
 womenshealth.pl##.wh-optad
+motocykl-online.pl##.side-right p
