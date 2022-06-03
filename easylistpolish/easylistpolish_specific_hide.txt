@@ -2207,3 +2207,4 @@ portal-polski.pl##a[href^="https://webep1.com/"]
 auto-motor-i-sport.pl##.amis-optad
 menshealth.pl###optad-sub-970x250_3
 menshealth.pl##.mh-optad
+motocykl-online.pl##.mo-optad
