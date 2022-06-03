@@ -2208,3 +2208,4 @@ auto-motor-i-sport.pl##.amis-optad
 menshealth.pl###optad-sub-970x250_3
 menshealth.pl##.mh-optad
 motocykl-online.pl##.mo-optad
+womenshealth.pl##.wh-optad
