@@ -148,7 +148,7 @@ stereoikolorowo.blogspot.com###crosscol-overflow
 portalprzemyski.pl###custom_html-10
 e-playbet.com###custom_html-12
 wachtyrz.eu###custom_html-13
-czestochowskie24.pl,wachtyrz.eu###custom_html-14
+wachtyrz.eu###custom_html-14
 whitemad.pl###custom_html-15
 domotechnika.pl,gazetabialolecka.waw.pl,kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 gazetacz.com.pl###custom_html-2 + .gazet-widget
