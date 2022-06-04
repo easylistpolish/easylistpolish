@@ -1427,7 +1427,6 @@ radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm##.vc_wp_text
 24gliwice.pl,banita.travel.pl##.vce-sticky
 razdwasport.pl##.vendor-holder-main-page
-debica.tv##.video-overlay-front
 prostoomuzyce.pl##.view-banery
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 facet.wp.pl##.view-first > mask > logo_cdc_big + box_wyprzedane
