@@ -707,7 +707,7 @@ trojmiasto.pl##.banner-maxia--glowna
 ppe.pl##.banner-placeholder
 ppe.pl##.banner-placeholder-screening
 zabawkowo.com##.banner-plecaki
-30minut.pl,budosfera.eu,gazetaslupecka.pl,golfnews.pl,info-ketrzyn24.pl##.banner-promotions-wrapper
+30minut.pl,gazetaslupecka.pl,golfnews.pl,info-ketrzyn24.pl##.banner-promotions-wrapper
 ppe.pl##.banner-screening
 prawo.pl##.banner-shortcode
 ppe.pl##.banner-skyscraper
