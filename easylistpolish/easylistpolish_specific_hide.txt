@@ -704,7 +704,6 @@ forum-bron.pl##.banner1
 id-24.pl##.banner1-wrap
 drhtv.com.pl,kanonierzy.com##.banner2
 codziennikmlawski.pl##.banner3
-doba.pl##.banner750x200
 stadionowioprawcy.net##.bannerBox a[target="_blank"]
 zlotowskie.pl##.bannerSlider
 mojanorwegia.pl,podhale24.pl##.bannerTop
