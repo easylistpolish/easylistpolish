@@ -284,6 +284,7 @@ elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 tarnobrzeg.info###obraz
 naklo24.pl,szubin24.pl###okazje2
+menshealth.pl###optad-sub-970x250_3
 karpacz.net###oskar
 bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
 miastokolobrzeg.pl###panel_baner
@@ -532,6 +533,7 @@ stockwatch.pl##.adbloki-sroki
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 nowytarg24.tv##.adbox[target="_blank"]
 zeglarski.info##.add-box
+gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 efilmy.tv##.addbackground
 karnickie.info##.adds
 silesia24.pl##.adds--top
@@ -561,7 +563,7 @@ nowezyciepabianic.pl##.ads480
 businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.adsSlotContainer
-24wspolnota.pl##.ads__wrapper
+24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 naszraciborz.pl##.adsense_title
@@ -620,6 +622,7 @@ codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
 emaszyny.pl##.aimg
 e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
+auto-motor-i-sport.pl##.amis-optad
 gsmmaniak.pl##.anal-post-popularne
 mojanorwegia.pl##.animatedA
 spidersweb.pl##.app-adBox
@@ -1065,12 +1068,14 @@ sloworegionu.pl##.mfp-bg
 felcia.co.uk,turek.net.pl##.mfp-ready
 sloworegionu.pl##.mfp-wrap
 infoszach.pl##.mh-content-ad
+menshealth.pl##.mh-optad
 tv.pl##.middle-salesmedia
 10minut.tv##.minut-po-tresci
 interia.pl##.mixerAdTopRight-wrapper
 ipulawy.pl##.mkd-content-top-holder
 na-pulpit.com,widoczki.com##.mng
 na-pulpit.com,widoczki.com##.mng + .menu + a
+motocykl-online.pl##.mo-optad
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 fsd24.pl##.mod-banners
@@ -1259,6 +1264,7 @@ lubanski.eu##.shailan_banner_widget
 dziecisawazne.pl##.shop-div
 echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 mragowo24.info##.show-adv
+motocykl-online.pl##.side-right p
 eplastics.pl,rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
 purepc.pl##.sidebar a[href^="/rediz.php?"]
@@ -1430,6 +1436,7 @@ spidersweb.pl##.wall-bg-banner
 epiotrkow.pl##.wcont a[href^="rd.php?id="]
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
+womenshealth.pl##.wh-optad
 zycie.pl##.wide-wd
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
@@ -1740,6 +1747,7 @@ roosevelta81.pl##a[href^="https://superbet.pl/"]
 gram.pl##a[href^="https://track.webgains.com/"]
 stadiony.net##a[href^="https://twojtyp.pl/"]
 estadios24.pl,kanonierzy.com##a[href^="https://typ.pl/"]
+portal-polski.pl##a[href^="https://webep1.com/"]
 gazetagazeta.com##a[href^="https://wmjewellery.wixsite.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
 swidnik.pl##a[href^="https://www.aliorbank.pl"]
@@ -2144,12 +2152,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 dziennikplocki.pl##ul[id^="campaign"]
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
-gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
-portal-polski.pl##a[href^="https://webep1.com/"]
-auto-motor-i-sport.pl##.amis-optad
-menshealth.pl###optad-sub-970x250_3
-menshealth.pl##.mh-optad
-motocykl-online.pl##.mo-optad
-womenshealth.pl##.wh-optad
-motocykl-online.pl##.side-right p
