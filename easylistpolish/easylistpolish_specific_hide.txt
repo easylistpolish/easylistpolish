@@ -1386,7 +1386,6 @@ gazetazoliborza.pl##.theiaStickySidebar div[data-ai]
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
-disco-polo.info##.top-advertisment
 weszlo.com##.top-adw
 egzotycznaturystyka.pl,magazynbieganie.pl,pulsmiasta.tv##.top-banner
 tyna.info.pl##.top-bar-content a
