@@ -2135,7 +2135,6 @@ motohigh.pl##section[id^="text-"] > .mvp-main-box
 poczta.o2.pl,poczta.wp.pl##sidebar-feed
 legnica.fm##span + ul > .banneritem
 pudelek.tv,wp.pl##span[id^="dynacrems-adv"]
-disco-polo.info##span[style^="text-transform:uppercase"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
 stooq.pl##td > #f10:first-child
