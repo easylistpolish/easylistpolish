@@ -1328,7 +1328,6 @@ lajfy.com##.sticky-banner
 legio24.pl##.stream-item
 plotkibiznesowe.pl##.stream-item-above-header
 wzielonej.pl##.stream-item-below-post
-disco-polo.eu##.stream-item-below-post-content
 lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
 wzielonej.pl##.stream-item-top-wrapper
 legio24.pl##.stream-item-widget-content
