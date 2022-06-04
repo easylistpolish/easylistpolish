@@ -413,7 +413,7 @@ custodianofmecatolrex.znadplanszy.pl,dania-dietetyczne.pl,dopilar.pl,fiat.fm,gaz
 lowking.pl###text-32
 stacja-tluszcz.pl###text-35
 wolna-polska.pl###text-39
-24legnica.pl,chrzanow.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,lowiczanin.info,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,powiatowy.pl,prokapitalizm.pl,wyszukana.com.pl,ziemiastrzelecka.strzelce.pl###text-4
+24legnica.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,lowiczanin.info,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,powiatowy.pl,prokapitalizm.pl,wyszukana.com.pl,ziemiastrzelecka.strzelce.pl###text-4
 wolna-polska.pl###text-40
 zyciezamoscia.pl###text-42
 gieldykryptowalut.pl###text-49
