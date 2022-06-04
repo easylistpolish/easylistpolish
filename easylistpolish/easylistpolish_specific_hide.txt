@@ -520,7 +520,6 @@ eholiday.pl,fcinter.pl,moviesroom.pl##.ad-box
 biznesalert.pl,interia.pl,styl.fm##.ad-container
 promocja.mielec.pl##.ad-image
 zyciemyszkowa.pl##.ad-info + div
-chelmski.eu##.ad-single1
 pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
 7dnikalisza.com##.ad-small
