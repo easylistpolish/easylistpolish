@@ -1887,7 +1887,6 @@ opieka.farm##div._ning_zone_inner
 portalstoczniowy.pl##div.adsy
 lebork24.info##div.ai-viewport-1
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
-ddtorun.pl##div.bvideo
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
 e-kg.pl##div.jm-footer-bottom
