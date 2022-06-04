@@ -1930,7 +1930,6 @@ elubaczow.com##div.listings
 realizator.pl##div.m-advert
 speedtest.pl##div.mb-4
 infofordon.pl##div.ms_image
-bstok.pl##div.ntphubdx
 niezalezna.pl##div.prenumerata-banner
 elbi.pl##div.reklama_przycisk
 goral.info.pl,starnowa.tv,tydzien.net.pl##div.td-a-rec
