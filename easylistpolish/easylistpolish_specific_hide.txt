@@ -1831,7 +1831,6 @@ pultusk.news##a[id*="Banner"]
 tko.pl##a[onclick*="'Adverts'"]
 siechnice.com.pl##a[onclick*="'Banner'"]
 centrumdruku3d.pl##a[onclick*="'Banners'"]
-bosonamacie.pl##a[onclick*="Adverts"]
 musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
