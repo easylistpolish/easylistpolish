@@ -934,7 +934,6 @@ gazetalubliniecka.pl##.gazet-wpisy2
 lubartow24.pl##.gazetka-box
 krknews.pl##.gdxxhnu
 eku24.net##.gkCols6
-comparic.pl##.gkliuiy-single
 24gliwice.pl##.gliwi-a1-gora-portalu
 24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
