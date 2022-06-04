@@ -58,7 +58,6 @@ toproste.pl###asd
 krosno112.pl###avatar-body-top-block
 tuhiszpania.pl###b_searchboxInc
 krs-online.com.pl###bad
-dawnawarszawa.waw.pl###ban
 plastech.pl###banbox_1
 plastech.pl###banbox_3
 przeglad-sejnenski.pl,sarp.org.pl###baner
