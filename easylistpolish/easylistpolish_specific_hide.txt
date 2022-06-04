@@ -830,7 +830,6 @@ przepisy.pl##.col-sm-7
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-demaskator24.pl##.componentsAdsContent
 legnica24h.pl##.container-advert-top
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 elektroda.pl##.container2 a[href^="https://jlcpcb.com/"]
