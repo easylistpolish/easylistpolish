@@ -1281,7 +1281,7 @@ lubanski.eu##.shailan_banner_widget
 dziecisawazne.pl##.shop-div
 echirurgia.pl,fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 mragowo24.info##.show-adv
-chemical.pl,eplastics.pl,rubber.pl##.sideNas
+eplastics.pl,rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
 purepc.pl##.sidebar a[href^="/rediz.php?"]
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
