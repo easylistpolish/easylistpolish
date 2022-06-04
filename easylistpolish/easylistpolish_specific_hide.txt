@@ -616,7 +616,6 @@ mojanorwegia.pl##.advertisment-info
 edziecko.pl,haps.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
-dailyweb.pl##.adwse-headerr
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
 onlineradio.com.pl##.ai-placement
