@@ -205,7 +205,6 @@ kujawy.info###homepageUnderEightAds
 mjakmama24.pl###hook_box_top1
 fullmp3.pl###hotcpm_137_7
 kuriergarwolinski.pl###iFrameResizer1
-boruh.com.pl###inst53
 trawka.org###ipsLayout_mainArea > a > img
 miasto.koszalin.pl###ja-banner
 tarnobrzeg.info###jedrus
