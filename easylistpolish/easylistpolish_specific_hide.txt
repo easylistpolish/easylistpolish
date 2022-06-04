@@ -1889,7 +1889,6 @@ cowkrakowie.pl##aside[id^="metaslider_widget-"]
 golfpl.com##aside[id^="text-"] a > img
 kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
-busradar.pl##bls-banner-ad
 ostrowczanie.info##body > center > a
 tyna.info.pl##body > center img
 onet.pl##body[onload*=".loadAds"]
