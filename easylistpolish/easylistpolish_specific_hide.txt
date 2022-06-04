@@ -156,7 +156,6 @@ gazetacz.com.pl###custom_html-2 + .gazet-widget
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
 belekaj.eu,budujeimieszkam.pl,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
-budowadom.pl###custom_html-4
 msmobile.pl###custom_html-5
 nowezyciepabianic.pl###custom_html-6
 sportdziennik.com###custom_html-7
