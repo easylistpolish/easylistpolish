@@ -1071,7 +1071,6 @@ sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 nowywyszkowiak.pl##.medium_baner
 elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
-conamokotowie.pl##.menu__ul + .a-re + a
 gada.pl##.menu_reklama
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
