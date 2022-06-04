@@ -1076,7 +1076,7 @@ gada.pl##.menu_reklama
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
 sloworegionu.pl##.mfp-bg
-comparic.pl,felcia.co.uk,turek.net.pl##.mfp-ready
+felcia.co.uk,turek.net.pl##.mfp-ready
 sloworegionu.pl##.mfp-wrap
 infoszach.pl##.mh-content-ad
 tv.pl##.middle-salesmedia
