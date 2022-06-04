@@ -627,7 +627,6 @@ codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
 emaszyny.pl##.aimg
 e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
-comparic.pl##.akliuiy-single
 gsmmaniak.pl##.anal-post-popularne
 mojanorwegia.pl##.animatedA
 spidersweb.pl##.app-adBox
