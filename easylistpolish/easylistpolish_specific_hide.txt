@@ -825,7 +825,6 @@ mmanews.pl##.clickableBlock
 faktykonopne.pl##.code-block
 lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
-codziennikmlawski.pl##.code-block-9
 gorzow.com##.col-lg-2
 biznesalert.pl##.col-md-12
 lokalna24.pl##.col-md-12 div[style="overflow:hidden"] a:not([href^="https://www.lokalna24.pl/"])
