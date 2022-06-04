@@ -762,7 +762,7 @@ grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
 multifishing.pl##.blockadvmulti
-bielsko.tv,czechowice.tv,pless.pl,pszczyna.tv,tychy.info##.blok-baner
+bielsko.tv,pless.pl,pszczyna.tv,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 grupyogrodnicze.pl##.blok_reklam
