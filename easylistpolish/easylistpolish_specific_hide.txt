@@ -1150,7 +1150,6 @@ controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjaza
 farmer.pl,pomorska.pl##.partner
 naszraciborz.pl##.partner_next
 igostyn.pl,ijarocin.pl,ikalisz.pl,ikrotoszyn.pl,iostrowwlkp.pl,ipleszew.pl##.partners2
-cire.pl##.partnerzy_sep
 magazyngitarzysta.pl##.pasaz-content
 majsterkowo.pl##.patronpod
 okazjepodroznika.pl##.penci-banner-box
