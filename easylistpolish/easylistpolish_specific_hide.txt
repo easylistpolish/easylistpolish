@@ -134,7 +134,6 @@ wspolnota.org.pl###c325
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
 mgsm.pl###ceneo
-boxing.pl###collapseobj_module_57
 centrummedyczne-przyjazna.pl###column
 felcia.co.uk###commercial
 olsztyn24.com###contener_billboard
