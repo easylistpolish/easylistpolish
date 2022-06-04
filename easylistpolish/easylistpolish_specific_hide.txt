@@ -504,7 +504,7 @@ czasdzieci.pl##.a_dslot
 ilovenysa.pl##.aas_zone
 e-kursy-walut.pl##.abc
 40ton.net##.above-text-ads
-demotywatory.pl,mistrzowie.org##.abox-view-content
+mistrzowie.org##.abox-view-content
 gazeta-olawa.pl##.absolute
 gazeta-olawa.pl##.absolute + img
 gazeta-olawa.pl##.absolute + p
