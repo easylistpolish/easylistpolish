@@ -1865,7 +1865,6 @@ lubaczow.tv##aside[id^="custom_html-"]
 e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
 tarnobrzeg.info##aside[id^="custom_html-"] img
 petportal.pl##aside[id^="media_image-"]
-cowkrakowie.pl##aside[id^="metaslider_widget-"]
 golfpl.com##aside[id^="text-"] a > img
 kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
