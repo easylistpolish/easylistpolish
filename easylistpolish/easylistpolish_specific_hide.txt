@@ -1852,7 +1852,6 @@ polski-tenis.pl##aside .plakat
 gorliczanin.pl##aside > section[id^="media_image-"]
 linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 jaw.pl##aside div a > img
-czadrow24.pl##aside img[width="900"]
 podlaskie.tv##aside#secondary.widget-area
 nowy-sacz.info##aside#text-6
 walbrzyszek.com##aside.rpre_tlo
