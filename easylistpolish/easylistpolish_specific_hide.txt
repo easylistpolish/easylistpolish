@@ -1601,7 +1601,6 @@ kokos.pl##a[href*="&creation_type=BANNER"] > img
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
-dailyweb.pl##a[href*=".adj.st/"]
 kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl"]
 domiporta.pl##a[href*="/ad.doubleclick."]
 dziennikwschodni.pl##a[href*="/artykuly-sponsorowane/"]
