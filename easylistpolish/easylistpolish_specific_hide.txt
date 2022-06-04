@@ -1306,7 +1306,7 @@ infotydzien.info##.span3
 infotydzien.info##.span9
 gdziepolek.pl##.spns
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
-dlastudenta.pl,dobaku.pl,docelu.pl,dojazd.org,footroll.pl,irss.pl,mapa.info,odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
+dobaku.pl,docelu.pl,dojazd.org,footroll.pl,irss.pl,mapa.info,odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
 cybersport.pl##.sponsor
 mybank.pl,portalplock.pl,zielonyogrodek.pl##.sponsored
