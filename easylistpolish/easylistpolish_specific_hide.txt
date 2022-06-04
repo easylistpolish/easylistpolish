@@ -803,7 +803,6 @@ glamrap.pl##.bsaProFloating
 granty.pl##.bsaProItem
 ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
-dietetycy.org.pl##.buybox-widget
 ki24.info##.bvideo
 naszahuta.pl##.c-banners
 terazostroleka.pl##.c-content__adv
