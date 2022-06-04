@@ -83,7 +83,7 @@ lebork24.info###banner-main
 lebork24.info###banner-main2
 lowcaburzwielun.pl.tl###banner-right
 suwalki.info###banner-standard
-chip.pl,lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
+lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
 dkl24.pl###banner10
 energetykacieplna.pl###bannerTop
 hrubieszow.info###banner_nad_fotorel
