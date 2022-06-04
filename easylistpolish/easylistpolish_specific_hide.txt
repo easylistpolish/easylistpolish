@@ -1192,7 +1192,6 @@ kz1.pl##.qa-widgets-main-top
 ekoexpo.pl,gorzow24.pl##.r
 echokamienia.pl##.r-rek
 goryiludzie.pl##.rad
-cire.pl##.ramka_sponsorzy_kont
 futbolnews.pl,zzapolowy.com##.ranking
 money.pl##.ranks-reports
 lokalna24.pl,tvpolice.com.pl,tvsudecka.pl##.rbox
