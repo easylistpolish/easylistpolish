@@ -663,7 +663,7 @@ scie24.pl##.baner a[href^="/counter/"]
 piast.gliwice.pl##.baner-container
 bolec.info##.baner-max
 re-volta.pl##.baner-medium-rectangle-on
-czechowice.tv,pless.pl,pszczyna.tv,tychy.info##.baner-row
+pless.pl,pszczyna.tv,tychy.info##.baner-row
 tygodniksiedlecki.com##.baner-text
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,jedzenie.info.pl,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
 haloursynow.pl##.baner390x60
