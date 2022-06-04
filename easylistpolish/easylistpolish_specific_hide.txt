@@ -951,7 +951,6 @@ zyciegrajewa.pl##.head1
 zyciegrajewa.pl##.head2
 portaltenisowy.info##.header--advert
 rzeszowskieinfo.pl##.header-add
-deon24.com##.header-adds
 tarnobrzeg.info##.header-advertise
 rynek-ksiazki.pl##.header-baner
 dts24.pl,nysahot.pl,prestizgliwice.pl,probasket.pl,salebiznesowe.pl##.header-banner
