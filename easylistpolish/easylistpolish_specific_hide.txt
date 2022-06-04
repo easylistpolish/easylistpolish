@@ -297,7 +297,7 @@ informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
 mkspolonia.com###pomagajaslider
-betonline.net.pl,dkl24.pl,mecze24.pl,meczenazywo.pl,wyspiarzniebieski.pl###popup
+betonline.net.pl,mecze24.pl,meczenazywo.pl,wyspiarzniebieski.pl###popup
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl###popupContainer
 polskaizbabranzypogrzebowej.pl###post-2637
