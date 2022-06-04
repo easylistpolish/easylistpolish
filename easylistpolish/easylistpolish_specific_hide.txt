@@ -407,7 +407,6 @@ dania-dietetyczne.pl,foteleobrotowe.com.pl,ikmag.pl,kcynia.info,krynica-zdroj.ne
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,lowking.pl,medycznamarihuana.com,tarnow.in###text-21
-centrumchemii.torun.pl###text-2119118571
 gazetarumska.pl,medycznamarihuana.com,piast.gliwice.pl,tarnobrzeskie.eu,zycieolsztyna.pl###text-22
 jasionka24.pl,wiesci.com.pl###text-23
 piast.gliwice.pl###text-26
