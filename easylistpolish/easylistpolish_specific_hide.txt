@@ -613,7 +613,6 @@ zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
 elektrosystemy.pl,hokej.net,przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
-chaosvault.com##.advertising
 glamour.pl,kobieta.pl##.advertising-billboard
 gala.pl##.advertising-box
 mojanorwegia.pl##.advertisment-info
