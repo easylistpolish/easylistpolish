@@ -225,7 +225,6 @@ psy.pl###logo-partner
 czest.info###logo-title a[target="_blank"]
 ostrowiecnews.pl###main > center:first-of-type > a
 gorliczanin.pl###main > section[id^="metaslider_widget-"]
-czadrow24.pl###main a[rel="noopener noreferrer"]
 wilanownews.pl###main center > a
 wawernews.pl###main center > a[target="_blank"]
 zawiercianskie.pl###main-header .widget_media_image
