@@ -1182,7 +1182,6 @@ pojezierze.com.pl##.posts-slider
 swidnik.pl##.ppsPopupShell
 radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
-centrumdruku3d.pl##.printers_a
 wnet.fm##.prom-block
 mmo24.pl,nf.pl##.promo
 odkryjpomorze.pl##.promo-box
