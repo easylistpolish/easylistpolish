@@ -1904,7 +1904,6 @@ nowemiasto.com.pl##div#righttable a[title="komunikat"]
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 cdpa.pl##div#shopuj
 opieka.farm##div._ning_zone_inner
-chorzowianin.pl##div.ads-responsive-container
 portalstoczniowy.pl##div.adsy
 lebork24.info##div.ai-viewport-1
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
