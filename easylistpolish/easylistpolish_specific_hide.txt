@@ -918,7 +918,6 @@ slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
 slupca.pl##.g-8
-debica.tv##.g-9
 topmejt.co.uk##.g-single
 skawinska.pl##.gaskad-single
 gazetalubliniecka.pl##.gazet-gold-zone
