@@ -1434,7 +1434,6 @@ zycie.pl##.wide-wd
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
 prudnik24.pl##.widget-3
-dziennikzwiazkowy.com##.widget-4
 lsw24.pl##.widget-ad-image
 bezale.pl##.widget-area
 deon.pl##.widget-products
