@@ -149,7 +149,7 @@ e-playbet.com###custom_html-12
 wachtyrz.eu###custom_html-13
 wachtyrz.eu###custom_html-14
 whitemad.pl###custom_html-15
-domotechnika.pl,gazetabialolecka.waw.pl,kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
+gazetabialolecka.waw.pl,kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 gazetacz.com.pl###custom_html-2 + .gazet-widget
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
