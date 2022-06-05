@@ -1236,7 +1236,7 @@ tromil.pl##.rotator-ceneo
 mojanorwegia.pl##.row.single > a[target="_blank"]
 nowawrzesnia.pl##.rs-advertisement
 magazynit.pl##.rstbox
-e-kg.pl,wirtualnygarwolin.pl##.rstboxes
+wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
 edubaza.pl,gramatyka-angielska.info,pracaikariera.pl,studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
