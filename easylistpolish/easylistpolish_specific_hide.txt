@@ -1717,7 +1717,6 @@ gamingsociety.pl##a[href^="https://nazwa.pl/"]
 tvklodzka.pl##a[href^="https://ng.pl/"]
 dziennikopolski.pl,dziennikwarszawy.pl,gazetawalbrzych.pl,gazetawielkopolska.pl,glosczestochowy.pl,gloskatowic.pl,gloskrakowa.pl,gloslodzi.pl,glosrybnika.pl,glosrzeszowa.pl,glostorunia.pl,glostrojmiasta.pl,gloswroclawia.pl##a[href^="https://oh-my-wear.com/"]
 gazetabilgoraj.pl##a[href^="https://oms.org.pl/"]
-drhtv.com.pl##a[href^="https://online-mexos."]
 skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
 iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
