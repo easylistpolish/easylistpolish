@@ -704,7 +704,7 @@ ele24.net,kurier-kolejowy.pl,kurierkolejowy.eu##.banner-top
 faktykaliskie.pl##.banner-wrapper
 forum-bron.pl##.banner1
 id-24.pl##.banner1-wrap
-drhtv.com.pl,kanonierzy.com##.banner2
+kanonierzy.com##.banner2
 codziennikmlawski.pl##.banner3
 stadionowioprawcy.net##.bannerBox a[target="_blank"]
 zlotowskie.pl##.bannerSlider
