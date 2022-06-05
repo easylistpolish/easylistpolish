@@ -1169,7 +1169,7 @@ lokalna24.pl,tvpolice.com.pl,tvsudecka.pl##.rbox
 tabletowo.pl##.rd_widget_text
 meblosfera.pl##.recommendation-panel-content
 podroze.se.pl##.refashionLayer
-echokamienia.pl,epiotrkow.pl,infoserwiselk.pl,sport.lovekrakow.pl,tysol.pl,vidfile.net##.rek
+epiotrkow.pl,infoserwiselk.pl,sport.lovekrakow.pl,tysol.pl,vidfile.net##.rek
 lubiehrubie.pl##.rek-text
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
