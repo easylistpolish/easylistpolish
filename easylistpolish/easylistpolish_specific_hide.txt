@@ -838,7 +838,6 @@ telko.in##.custom-html p > script + a
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
-e-kg.pl##.custompartners
 przeclaw24.pl##.custompolecamy
 tczewska.pl##.cycle-slideshow
 mediagroupinfo.pl,wirtualnyregion.pl##.cycloneslider
