@@ -572,7 +572,6 @@ cgm.pl,historykon.pl,mtv24.tv,neosite.pl,onet.pl,pogonszczecin.pl,propertynews.p
 nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl##.adv--next-logo
 nowezyciepabianic.pl##.adv--top
-dorzeczy.pl##.adv-aside
 tekstowo.pl##.adv-home
 cosmopolitan.pl##.adv-slot-wrapper
 dlaprodukcji.pl##.adv-wide
