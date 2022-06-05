@@ -869,7 +869,6 @@ mamotoja.pl##.ecomm-wrapper
 party.pl##.ecomm-zalando
 zkaszub.info##.edd
 kb.pl##.element-click
-e-playonline.com##.elementor-column-wrap .elementor-widget a:not([href^="https://e-"])[target="_blank"]
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
 powrotroberta.pl##.elementor-image a[href^="https://online-mexos."]
 ecopoznan.pl##.elementor-shortcode
