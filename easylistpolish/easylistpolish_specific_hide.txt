@@ -1853,7 +1853,6 @@ rynek-rolny.pl##div#fixedElement
 gorzow24.pl##div#ims_over_cont
 spottedalert.pl##div#mvp-leader-wrap
 gostynin.info##div#popup-billboard
-e-kolo.pl##div#reklama_pop3
 nowemiasto.com.pl##div#righttable a[title="komunikat"]
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 cdpa.pl##div#shopuj
