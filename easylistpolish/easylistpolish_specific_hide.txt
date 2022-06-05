@@ -1789,7 +1789,6 @@ musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
 menshealth.pl##a[onclick*="welcompage-reklama"]
-dziecisawazne.pl##a[onclick="onClick_mega();"]
 elektroda.pl##a[onclick^="eventSender('"]
 swiatdronow.pl##a[onclick^="ga('send'"]
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
