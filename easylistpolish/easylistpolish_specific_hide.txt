@@ -1146,7 +1146,6 @@ plonsk24.pl##.pole-banerowe > img
 krosno112.pl##.polecamy + .module-ct
 zloty-pociag.com##.popup_wrapper iframe
 newsdiscopolo.info##.post-next-prev ~ iframe
-e-playonline.com##.post-single-ads1
 pojezierze.com.pl##.posts-slider
 swidnik.pl##.ppsPopupShell
 radomsport.pl##.prawa
