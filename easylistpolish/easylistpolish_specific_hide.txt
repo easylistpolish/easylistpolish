@@ -777,7 +777,7 @@ queer.pl##.box-adv
 futbolnews.pl##.box-banner
 sportowememy.pl##.box-entertainment
 jaslo4u.pl##.box-info a[target="_blank"] > img[width="270"]
-dorzeczy.pl,wprost.pl##.box-list-item-recommendation-content-stream
+wprost.pl##.box-list-item-recommendation-content-stream
 morzaioceany.pl##.box-reklamy
 spidersweb.pl##.box-specjalna
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
