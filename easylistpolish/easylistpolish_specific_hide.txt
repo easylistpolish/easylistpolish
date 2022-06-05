@@ -500,7 +500,6 @@ gazeta-olawa.pl##.absolute
 gazeta-olawa.pl##.absolute + img
 gazeta-olawa.pl##.absolute + p
 haps.pl##.activeBan
-echirurgia.pl##.actr
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,egit.pl,evertiq.pl,gazeo.pl,ipolska24.pl,jarock.pl,lublin112.pl,mma.pl,mojabochnia.pl,nurkowapolska.pl,pclab.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,takze.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
 kazimierzdolny.pl##.ad--main
 pcworld.pl##.ad-bilbo2
