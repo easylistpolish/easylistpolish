@@ -1863,7 +1863,6 @@ lebork24.info##div.ai-viewport-1
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
-e-kg.pl##div.jm-footer-bottom
 e-kg.pl##div.l-ad-top
 elubaczow.com##div.listings
 realizator.pl##div.m-advert
