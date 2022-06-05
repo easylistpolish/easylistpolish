@@ -478,7 +478,7 @@ e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszu
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 facetpo40.pl##._ad
-e-sochaczew.pl,kartuzy.info##._ad_loaded
+kartuzy.info##._ad_loaded
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 slupca.pl##.a-220
 portalmorski.pl##.a-block
