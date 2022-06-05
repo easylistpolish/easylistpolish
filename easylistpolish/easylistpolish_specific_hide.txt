@@ -497,7 +497,6 @@ polonia-peterborough.uk##.a-wrap
 czasdzieci.pl##.aTopBox
 czasdzieci.pl##.a_dslot
 ilovenysa.pl##.aas_zone
-e-kursy-walut.pl##.abc
 40ton.net##.above-text-ads
 mistrzowie.org##.abox-view-content
 gazeta-olawa.pl##.absolute
