@@ -616,7 +616,6 @@ life4style.pl,sporteuro.pl##.ai-rotate
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
 emaszyny.pl##.aimg
-e-kursy-walut.pl##.ajax[data-href*="/reklamy.php"]
 auto-motor-i-sport.pl##.amis-optad
 gsmmaniak.pl##.anal-post-popularne
 mojanorwegia.pl##.animatedA
