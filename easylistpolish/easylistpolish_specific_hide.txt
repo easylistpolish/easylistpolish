@@ -735,7 +735,7 @@ e-stargard.pl,euslugi.pl,informacjelodzkie.pl,isrhornet.pl,megatiming.pl,oswieci
 rzeszowairport.pl##.banners-content
 ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl,magazyn-ecommerce.pl##.bannersm
-dostawczaki.pl,mamopracuj.pl##.bannery
+mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
 taternik.org##.bantitle
 taternik.org##.bantitle + a
