@@ -143,7 +143,6 @@ grojec24.net###cookieinfo2
 mecze24.pl###couponcode
 stereoikolorowo.blogspot.com###crosscol-overflow
 portalprzemyski.pl###custom_html-10
-e-playbet.com###custom_html-12
 wachtyrz.eu###custom_html-13
 wachtyrz.eu###custom_html-14
 whitemad.pl###custom_html-15
