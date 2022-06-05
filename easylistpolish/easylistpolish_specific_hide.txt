@@ -272,7 +272,6 @@ swietokrzyskie24.eu###metaslider_container_4396
 gloskoninski.pl###metaslider_widget-10
 noworudzianin.pl###metaslider_widget-2
 m.joemonster.org###middleRect
-dziennik.pl###miejsce101
 dziennik.pl###miejsce9
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
