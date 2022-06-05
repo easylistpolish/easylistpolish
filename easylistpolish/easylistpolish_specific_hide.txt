@@ -1438,7 +1438,6 @@ lsw24.pl##.widget-ad-image
 bezale.pl##.widget-area
 deon.pl##.widget-products
 gorydlaciebie.pl##.widgetKP
-dzikabanda.pl##.widget_ad_widget_sizes_buzzed_magazine
 40ton.net##.widget_adbaner_widget
 superportal24.pl##.widget_article
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
