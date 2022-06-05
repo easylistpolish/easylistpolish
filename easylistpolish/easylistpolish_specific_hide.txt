@@ -70,7 +70,7 @@ eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
 wirtualnyzgierz.pl###baner_dol
 infomare.pl###baneranim
-archispace.pl,e-grajewo.pl,gpcodziennie.pl,heuristic.pl,hodowle.eu,inforail.pl,instalki.pl,transinfo.pl###banner
+archispace.pl,gpcodziennie.pl,heuristic.pl,hodowle.eu,inforail.pl,instalki.pl,transinfo.pl###banner
 testynaojcostwo.pl###banner-17
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
