@@ -1061,7 +1061,6 @@ bobrowniki.tv##.mod_banners_bottom_banners
 instalki.pl##.module-adv
 krosno112.pl##.module-ct img[width="280"]
 kocham.wielun.pl##.module-xyz
-em.kielce.pl##.module_banner
 goldap.info##.modulereklamar1
 tv-pelplin.pl##.moduletable sup
 sztafeta.pl##.mom-e3lanat-wrap
