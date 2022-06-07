@@ -25,7 +25,6 @@ satkurier.pl###SATKurierNews_top_750x100_r
 smak-zdrowia.blogspot.com###Text9
 trybun.org.pl###_dropslide1
 ekorodzice.pl###a_d_billboard
-estrzelce.pl###ac-wrapper
 onetech.pl###ad
 dieroten.pl###ad-sts-top
 jasnet.pl###adBox1
