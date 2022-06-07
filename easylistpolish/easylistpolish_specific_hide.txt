@@ -816,7 +816,6 @@ nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
 legnica24h.pl##.container-advert-top
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
-elektroda.pl##.container2 a[href^="https://jlcpcb.com/"]
 elektroda.pl##.container2 a[href^="https://www.pcbway.com/"]
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
 tomaszowiak.net##.contentAupper
