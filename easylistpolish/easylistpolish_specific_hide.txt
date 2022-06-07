@@ -1236,7 +1236,7 @@ lubanski.eu##.shailan_banner_widget
 fotoblogia.pl,gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 mragowo24.info##.show-adv
 motocykl-online.pl##.side-right p
-eplastics.pl,rubber.pl##.sideNas
+rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
 purepc.pl##.sidebar a[href^="/rediz.php?"]
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
