@@ -1520,7 +1520,6 @@ gazeta.pl##[id^="adUnit-"]
 losice.info##[id^="adni_"]
 gazeta.pl,wyborcza.pl##[id^="ads"]
 gazeta.pl##[id^="banC"]
-eglos.pl##[id^="baner"] iframe
 sucha24.pl##[id^="bills_in_rotation_"]
 szczecinek.com##[id^="bills_in_rotation_1_"]
 deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
