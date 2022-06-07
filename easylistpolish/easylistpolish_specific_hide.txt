@@ -1207,7 +1207,6 @@ eurologistics.pl##.reklamka_sidebar
 bb365.info##.reklamki
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 wiesci.info.pl##.reklamyPrawa
-ehumor.pl##.reklamyskapiec
 konindzieciom.pl##.rektop
 sekrety-zdrowia.org##.rekwrap
 sekrety-zdrowia.org##.rekwraph
