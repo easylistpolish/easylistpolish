@@ -1350,7 +1350,6 @@ gram.pl##.text-ad-center
 gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-elektroda.pl##.the-list a[data-event-value="JLCPCB"]
 starosadeckie.info##.the-slider + p
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
