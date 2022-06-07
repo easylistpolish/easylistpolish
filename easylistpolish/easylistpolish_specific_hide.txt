@@ -1993,7 +1993,6 @@ eostroleka.pl##div[style^="max-width: 715px"]
 itv24.com.pl##div[style^="position: fixed; top: 0px; left: 0px;"]
 itv24.com.pl##div[style^="position: fixed; top: 354.5px;"]
 poloniusz.pl##div[style^="width:194px;"]
-extraswiecie.pl#?#span:-abp-contains(REKLAMA)
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
 kursyjezykowe.biz##font[size="5"]
