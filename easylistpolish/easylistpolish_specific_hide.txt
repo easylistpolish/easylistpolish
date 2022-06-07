@@ -463,7 +463,6 @@ sprzedajemy.pl##.AdsAds_
 optykamysliwska.pl##.AdvAnnouncements
 turek.net.pl##.BanerP
 medonet.pl##.Block-Banner
-facetemjestem.pl##.CampaignType--popup
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
