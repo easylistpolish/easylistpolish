@@ -954,7 +954,6 @@ reflex.com.pl##.home_menu-images-right
 bobrzanie.pl##.homeadv
 skawinska.pl##.homepage-ad-area
 firmypolski.pl##.hot-info-slider
-faktura.pl##.hp__pricing-table
 rdn.pl##.hred_cont_re
 rdn.pl##.hred_right_re
 rdn.pl##.hred_sport_re
