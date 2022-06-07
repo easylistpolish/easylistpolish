@@ -1401,7 +1401,6 @@ zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
 businessjournal.pl##.vmagazine_medium_ad
 spidersweb.pl##.wall-bg-banner
-epiotrkow.pl##.wcont a[href^="rd.php?id="]
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
 womenshealth.pl##.wh-optad
