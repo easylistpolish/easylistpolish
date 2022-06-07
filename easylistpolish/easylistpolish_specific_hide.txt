@@ -1376,7 +1376,6 @@ bielskirynek.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypils
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
-elektroda.pl##.topic-lists > li:not([id]) a > img
 eluban.pl,expresselblag.pl,kociewiak.pl,lokalna.news,narew.info,naszrynek.pl,portalpomorza.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
