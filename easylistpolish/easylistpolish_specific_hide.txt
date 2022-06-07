@@ -1290,7 +1290,7 @@ osp.com.pl##.sponsors-wrapper
 gazeta.myslenice.pl##.spot
 kuriergarwolinski.pl##.spot-in-article
 wysokomazowiecki24.pl##.sppb-addon-single-image-container
-esportnow.pl,slowoseniora.pl##.spu-box
+slowoseniora.pl##.spu-box
 portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
 lajfy.com##.sticky-banner
