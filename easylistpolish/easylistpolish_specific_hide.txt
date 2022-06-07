@@ -1236,7 +1236,6 @@ naekranie.pl##.screening-banner
 twojepajeczno.pl##.scxx
 twojepajeczno.pl##.scxxx
 businesswomanlife.pl##.sead > a > img
-ekologia.pl##.sec-pasaz
 radiojura.pl##.sec-promo
 e-tlumacze.net##.section-banner
 gostynin.info,powiat-piaseczynski.info##.section-billboard
