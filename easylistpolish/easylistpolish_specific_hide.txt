@@ -1387,7 +1387,6 @@ krdp.fm##.vc_wp_text
 razdwasport.pl##.vendor-holder-main-page
 prostoomuzyce.pl##.view-banery
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
-facet.wp.pl##.view-first > mask > logo_cdc_big + box_wyprzedane
 webiko.pl##.view-promocje a[target="_blank"]
 gastrowiedza.pl##.view-reklama
 sad24.pl##.vip
