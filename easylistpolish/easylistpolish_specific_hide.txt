@@ -1917,7 +1917,6 @@ edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="ads"]
 pod24.info,samosia.pl,wawalove.pl##div[id^="adv"]
 pch24.pl##div[id^="baner"]
 satkurier.pl##div[id^="banner"]
-eurobuildcee.com##div[id^="banner_area_"]
 wykop.pl##div[id^="banner_top_"]
 konecki24.pl##div[id^="bills_in_rotation_"]
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
