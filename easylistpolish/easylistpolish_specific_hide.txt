@@ -1794,7 +1794,6 @@ centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.o2.pl,poczta.wp.pl##dd-holder
 fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl##div > .insert--top-offer
 twojepajeczno.pl##div > .scxxxx
-faktura.pl##div > a[href^="https://monetyzacja.pxf.io/"]
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
