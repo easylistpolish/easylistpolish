@@ -428,7 +428,7 @@ stockwatch.pl###topAdCont
 polskielupki.pl###topAdd
 pszczyna.tv###topBaner
 dziennikteatralny.pl###topBigBanner
-eplastics.pl,rubber.pl###topNas
+rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
 zambrowiacy.pl###topbanner
