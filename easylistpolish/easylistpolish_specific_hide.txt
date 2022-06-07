@@ -1774,7 +1774,7 @@ gracz.org##a[onclick^="gtag('event"][target="_blank"]
 interia.pl,styl.pl##a[onclick^="iwa('trackEvent'"] > img
 elektroda.pl##a[onclick^="navBoxEvent("]
 elektroda.pl##a[onclick^="patronEvt("]
-edubaza.pl,gramatyka-angielska.info,pracaikariera.pl,studentnews.pl,studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+gramatyka-angielska.info,pracaikariera.pl,studentnews.pl,studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
 jagodnik.pl##a[onclick^="trackOutboundLink("]:not([onclick*=".jagodnik.pl/"])
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
 queer.pl##a[rel="nofollow"]
