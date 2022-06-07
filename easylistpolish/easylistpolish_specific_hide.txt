@@ -1039,7 +1039,6 @@ agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 nowywyszkowiak.pl##.medium_baner
-elektroda.pl##.menuBarAd:not([href*="elektroda.pl/"])
 gada.pl##.menu_reklama
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
