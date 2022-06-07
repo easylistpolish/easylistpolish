@@ -275,7 +275,6 @@ glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
 glamrap.pl###mvp-wallpaper
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
-elektroda.pl###news a[href^="https://jlcpcb.com/"][rel^="nofollow"]
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 tarnobrzeg.info###obraz
 naklo24.pl,szubin24.pl###okazje2
