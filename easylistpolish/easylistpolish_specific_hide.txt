@@ -753,7 +753,6 @@ superportal24.pl##.bnr--billboard
 otososnowiec.pl##.bnr-spns
 stockwatch.pl##.bnr3b
 gazetamyszkowska.pl,telewizjamazury.pl,telewizjaolsztyn.pl##.boards
-eswinoujscie.pl##.bos_searchbox_widget_class
 palegro.pl##.bottom-toolbar a[target="_blank"] > img
 podkarpacielive.pl##.bottom_banner
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
