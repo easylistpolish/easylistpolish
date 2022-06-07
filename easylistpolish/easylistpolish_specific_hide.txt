@@ -1357,7 +1357,7 @@ egzotycznaturystyka.pl,magazynbieganie.pl,pulsmiasta.tv##.top-banner
 tyna.info.pl##.top-bar-content a
 ortograf.pl##.top-billboard
 ifrancja.fr##.top-main-ads
-f5.pl,fpiec.pl##.top-offer-box
+fpiec.pl##.top-offer-box
 dobragazeta.com.pl##.top-panel
 swidnica24.pl##.top-sliding-ad
 jelonka.com,swidniczka.com,walbrzyszek.com##.top5
