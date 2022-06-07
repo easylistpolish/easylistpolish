@@ -1035,7 +1035,6 @@ hij.com.pl##.master-slider .ms-slide
 lpu24.pl##.master-slider-parent
 gostynin.info##.mb-xl > .uk-display-inline-block
 gostynin.info##.mb-xl a[target="_blank"]
-elektroda.pl##.mb10 section
 agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
