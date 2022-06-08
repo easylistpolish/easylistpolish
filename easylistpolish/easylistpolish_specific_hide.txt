@@ -1432,7 +1432,6 @@ jarek-kefir.org##.wpcnt
 naszamlawa.pl##.wprss_ajax
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
 wbaziefirm.pl##.wrapper-flash
-filmweb.pl##.ws__wrapper
 instalki.pl##.wtgLazyWrapper
 poradnikhandlowca.com.pl##.yReklamy
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
