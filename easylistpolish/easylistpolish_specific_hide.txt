@@ -2039,7 +2039,6 @@ miastokolobrzeg.pl##section[id$="-sponsorowane"]
 miastokolobrzeg.pl##section[id*="-reklama-"]
 pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
-forumbranzowe.com##section[id^="reklama_"]
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 poczta.o2.pl,poczta.wp.pl##sidebar-feed
 legnica.fm##span + ul > .banneritem
