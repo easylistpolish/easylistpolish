@@ -760,7 +760,6 @@ morzaioceany.pl##.box-reklamy
 spidersweb.pl##.box-specjalna
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 stockwatch.pl##.box0b
-filmweb.pl##.boxAddon
 folk24.pl##.boxAdvert
 pch24.pl##.boxKsiegarnia
 flashscore.pl,wynikinazywo.pl##.boxOverContent__banner
