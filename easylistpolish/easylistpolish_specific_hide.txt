@@ -2071,3 +2071,4 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 miastons.pl##.banner-tracking-gtm
+nowosadecki24.pl##.moduletable .custom a
