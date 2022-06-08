@@ -130,7 +130,6 @@ szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
 mgsm.pl###ceneo
 centrummedyczne-przyjazna.pl###column
-felcia.co.uk###commercial
 olsztyn24.com###contener_billboard
 lesko.info###content > center > a[target="_blank"]
 tarnowiak.pl###content a[target]
