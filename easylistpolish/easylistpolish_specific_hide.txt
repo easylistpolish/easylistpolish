@@ -2072,3 +2072,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 miastons.pl##.banner-tracking-gtm
 nowosadecki24.pl##.moduletable .custom a
+piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
