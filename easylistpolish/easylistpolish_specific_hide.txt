@@ -1594,7 +1594,6 @@ openlinksys.info##a[href^="http://sieciovo.pl/"] > img
 bobrowniki.tv##a[href^="http://slaskieplyty.pl"]
 e-grajewo.pl##a[href^="http://spoldzielcza1.pl"]
 tyna.info.pl##a[href^="http://studiomeritum.pl"] > img
-faunaflora.com.pl##a[href^="http://targikielce.pl/"]
 super-polska.pl##a[href^="http://www.anf.pl/"]
 chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
 telewizjarepublika.pl,walbrzyszek.com##a[href^="http://www.czesciauto24.pl"]
