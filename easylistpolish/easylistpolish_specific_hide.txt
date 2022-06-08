@@ -208,7 +208,6 @@ ospi.pl###lcol > div[style="text-align: center;"] > a
 szefur.pl###leader-large
 sportsiedlce.pl###leaderboard a > img[height="90"]
 oko.info.pl###leftAdv
-fylmy.pl###light
 goal.pl###link_sponsor
 psy.pl###logo-partner
 czest.info###logo-title a[target="_blank"]
