@@ -1951,7 +1951,6 @@ tabletowo.pl##div[id^="table-"] > .table-adlabel + a
 tabletowo.pl##div[id^="table-"] > .table-adlabel + div
 kolbuszowalokalnie.pl##div[id^="text-"] a:not([href^="https://kolbuszowalokalnie.pl"])
 tvmstalowawola.pl##div[id^="tvmst-slider-"]
-filmweb.pl##div[id^="video5_ima"]
 wkielcach.info##div[id^="wkiel-"] > a[target="_blank"]
 portel.pl##div[id^="zone"]
 echogorzowa.pl##div[onclick*="'BANERY'"]
