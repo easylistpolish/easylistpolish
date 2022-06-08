@@ -1909,7 +1909,6 @@ radiopiekary.pl##div[id^="cycloneslider-reklama-"]
 edziecko.pl,haps.pl,kobieta.pl,plotek.pl,sport.pl##div[id^="div-gpt-ad-"]
 komputerowapasja.pl##div[id^="dolnyobraz"]
 polki.pl##div[id^="ecomm-ssr-wrapper-"]
-francuskie.pl##div[id^="franc-"] img
 nowyoutsourcing.pl##div[id^="g1-ad-"]
 gazetaklobucka.pl##div[id^="gazet-"]
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
