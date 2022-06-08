@@ -30,7 +30,6 @@ dieroten.pl###ad-sts-top
 jasnet.pl###adBox1
 grodzisknews.pl###ad_Container
 gotujmy.pl###ad_wallpaper
-fight24.pl###add_produkt
 togethermagazyn.pl###addbaner
 mamotoja.pl###adl-placement-0-wrapper
 kozienice24.pl,zwolen24.pl###adocr
