@@ -583,7 +583,6 @@ zycie.pl##.advert-item
 lovekrakow.pl##.advert-next-to-logo
 ox.pl##.advert-owl
 bryk.pl##.advert-right-wrapper
-filmweb.pl##.advertButton
 automatyka.pl,laboratoria.xtech.pl##.advertHd
 laboratoria.xtech.pl##.advertHd + div
 zory24.pl##.advertbutton
