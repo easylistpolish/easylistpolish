@@ -2054,3 +2054,4 @@ piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
 comparic.pl##.container16,.container11
 pfcc.eu##[color="#FFFFFF"] a
 skarzysko24.pl##.t3-sidebar .custom a
+tuhiszpania.pl###text-9
