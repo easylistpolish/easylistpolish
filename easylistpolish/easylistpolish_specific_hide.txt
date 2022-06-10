@@ -2055,3 +2055,4 @@ comparic.pl##.container16,.container11
 pfcc.eu##[color="#FFFFFF"] a
 skarzysko24.pl##.t3-sidebar .custom a
 tuhiszpania.pl###text-9
+slowopodlasia.pl##.widget-advert_placement
