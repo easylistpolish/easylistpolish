@@ -950,7 +950,6 @@ klubowa.pl##.id52
 muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
 6krokow.pl##.img_rkl
-gazeta.pl##.indexPremium__adv
 infozlocieniec.pl##.infoz-widget
 komorkomania.pl##.insert--top-offer
 homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.insert—top-offer
