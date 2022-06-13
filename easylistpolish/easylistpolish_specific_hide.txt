@@ -185,7 +185,6 @@ tkn24.pl###header + center
 mazopolska.pl,planowaniewesela.pl###header-banner
 gdanskstrefa.com,nowezyciepabianic.pl,zwiedzamyparyz.pl###header-right-section
 my3miasto.pl###headerBanner
-gazetawawerska.pl###header_leaderboard
 e-grajewo.pl###headpartnership
 spiz.pl###home-reklama
 kujawy.info###homepageUnderEightAds
