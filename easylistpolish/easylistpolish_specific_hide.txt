@@ -399,7 +399,7 @@ czestochowskie24.pl###text-75
 kamienskie.info###text-79
 24legnica.pl,greencanoe.pl,kurier-lokalny.com,niebezpiecznik.pl,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
-gazetalubliniecka.pl,kobieta-zmienna-jest.pl,kurier-lokalny.com,mojgdow.pl,olgasmile.com,prasowki.org,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl,wiesci.com.pl###text-9
+gazetalubliniecka.pl,kobieta-zmienna-jest.pl,kurier-lokalny.com,mojgdow.pl,olgasmile.com,prasowki.org,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl,tuhiszpania.pl,wiesci.com.pl###text-9
 lukowicatomy.pl###text-html-widget-14
 terazgrodkow24.pl###text-html-widget-2
 okiemmiszy.pl###ti_image_banner-3
@@ -663,6 +663,7 @@ prawo.pl##.banner-shortcode
 ppe.pl##.banner-skyscraper
 wyspagier.pl##.banner-static-game
 ele24.net,kurier-kolejowy.pl,kurierkolejowy.eu##.banner-top
+miastons.pl##.banner-tracking-gtm
 forum-bron.pl##.banner1
 id-24.pl##.banner1-wrap
 kanonierzy.com##.banner2
@@ -785,6 +786,7 @@ nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
 legnica24h.pl##.container-advert-top
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
+comparic.pl##.container16,.container11
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
 tomaszowiak.net##.contentAupper
 bestofwhisky.pl##.contetn-left-ad-top
@@ -1026,6 +1028,7 @@ instalki.pl##.module-adv
 krosno112.pl##.module-ct img[width="280"]
 kocham.wielun.pl##.module-xyz
 goldap.info##.modulereklamar1
+nowosadecki24.pl##.moduletable .custom a
 tv-pelplin.pl##.moduletable sup
 sztafeta.pl##.mom-e3lanat-wrap
 infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
@@ -1271,6 +1274,7 @@ meska-kuchnia.pl##.sw-inner a[href^="https://dietetykwmiescie.pl"]
 karpacz.net##.swiper-container-fade
 biznesregion.pl,super-nowa.pl##.syl-baner-place
 2x45.info,serwislokalny.com##.system_banner
+skarzysko24.pl##.t3-sidebar .custom a
 skarzysko24.pl##.t3-sidebar-right #Mod417, #Mod401
 skarzysko24.pl##.t3-sl
 tabletowo.pl##.tab-rek
@@ -1366,6 +1370,7 @@ esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
 prudnik24.pl##.widget-3
 lsw24.pl##.widget-ad-image
+slowopodlasia.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 gorydlaciebie.pl##.widgetKP
@@ -1446,6 +1451,7 @@ eplastics.pl##[class^="reklama"]
 podlaski.info##[class^="slider-banner-"]
 pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
+pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
 abczdrowie.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,luxlux.pl,medycyna24.pl,nerwica.com,open.fm,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
 nczas.com##[id*="970x250"]
@@ -1675,6 +1681,7 @@ genapps.pl##a[href^="https://www.zameczkowo.pl/"]
 bankier.pl##a[href^="https://www3.smartadserver.com/"]
 pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
+piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
 jelonka.com##a[href^="zlicz.php?id="]
 pultusk.news##a[id*="Banner"]
 tko.pl##a[onclick*="'Adverts'"]
@@ -2013,11 +2020,3 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-miastons.pl##.banner-tracking-gtm
-nowosadecki24.pl##.moduletable .custom a
-piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
-comparic.pl##.container16,.container11
-pfcc.eu##[color="#FFFFFF"] a
-skarzysko24.pl##.t3-sidebar .custom a
-tuhiszpania.pl###text-9
-slowopodlasia.pl##.widget-advert_placement
