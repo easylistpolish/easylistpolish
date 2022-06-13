@@ -248,7 +248,7 @@ kurierwilenski.lt###media_image-6
 tkaninyobiciowe.eu###media_image-63
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
-gazetaslupecka.pl,gazetatrybunalska.info###media_image-7
+gazetatrybunalska.info###media_image-7
 ostrodanews.pl###media_image-85
 toproste.pl###menu_zlewej
 inthecage.pl###metaslider-id-131935
