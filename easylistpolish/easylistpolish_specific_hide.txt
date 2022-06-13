@@ -1356,7 +1356,7 @@ dzwignice.info##.udtBox
 eswinoujscie.pl##.ulp-window-container
 40ton.net##.under-text-ads
 ceny-zlomu.pl##.uniq-banner
-gazetakartuska.pl,infobeskidy.eu##.userad
+infobeskidy.eu##.userad
 bstok.pl##.vc_custom_1639400766487
 naszosie.pl##.vc_figure
 radiowarszawa.com.pl##.vc_single_image-wrapper
