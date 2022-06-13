@@ -1250,7 +1250,6 @@ tygodnikpiski.pl##.small-12 center a
 4tour.pl##.span2
 infotydzien.info##.span3
 infotydzien.info##.span9
-gdziepolek.pl##.spns
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
 irss.pl,mapa.info,odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
