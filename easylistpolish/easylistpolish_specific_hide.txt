@@ -259,7 +259,6 @@ noworudzianin.pl###metaslider_widget-2
 m.joemonster.org###middleRect
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
-glamrap.pl###mvp-wallpaper
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
