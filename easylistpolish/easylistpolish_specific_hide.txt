@@ -254,7 +254,6 @@ inthecage.pl###metaslider-id-131935
 kurierostrowski.pl###metaslider_970
 kurierostrowski.pl###metaslider_975
 swietokrzyskie24.eu###metaslider_container_4396
-gloskoninski.pl###metaslider_widget-10
 noworudzianin.pl###metaslider_widget-2
 m.joemonster.org###middleRect
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
