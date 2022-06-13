@@ -1679,7 +1679,6 @@ klubpodroznikow.com##a[href^="https://www.euautoczesci.pl/"]
 brief.pl##a[href^="https://www.foodtown.pl"]
 przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
-gawex.pl##a[href^="https://www.hotelquattro.pl/"]
 swarzedz24.pl##a[href^="https://www.inea.pl/"]
 dieroten.pl,radiogol.pl,renaultlaguna.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
