@@ -1073,7 +1073,6 @@ wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
-gazeta.pl##.o-section--offers-mainBox
 ekspertbudowlany.pl,izolacje.com.pl##.oferteo-widget
 laczynaspilka.pl##.off-partners
 v10.pl##.oglo
