@@ -918,7 +918,6 @@ spece.it##.helion_meta
 spece.it##.helion_okladka
 gwint24.pl,kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
-gloskoninski.pl##.hero-area
 bezdroza.pl##.hestia-banner
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 wbj.pl##.highlight__adv-title + a
