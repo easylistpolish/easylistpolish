@@ -747,7 +747,6 @@ palegro.pl##.bottom-toolbar a[target="_blank"] > img
 podkarpacielive.pl##.bottom_banner
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 portalspozywczy.pl##.box-0
-gazeta-mosina.pl##.box-1 img[width="300"]
 queer.pl##.box-adv
 futbolnews.pl##.box-banner
 sportowememy.pl##.box-entertainment
