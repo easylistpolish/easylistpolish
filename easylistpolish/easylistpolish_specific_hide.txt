@@ -487,7 +487,6 @@ czasdzieci.pl##.a_dslot
 ilovenysa.pl##.aas_zone
 40ton.net##.above-text-ads
 mistrzowie.org##.abox-view-content
-gazeta-olawa.pl##.absolute
 gazeta-olawa.pl##.absolute + img
 gazeta-olawa.pl##.absolute + p
 haps.pl##.activeBan
