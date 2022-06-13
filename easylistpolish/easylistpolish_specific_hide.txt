@@ -241,7 +241,6 @@ gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
 30minut.pl,staresiolkowice.pl###media_image-4
-gazetagazeta.com###media_image-41
 budownictwo.co,kurierwilenski.lt,mojgdowmagazyn.pl###media_image-5
 ostrodanews.pl###media_image-52
 tkaninyobiciowe.eu###media_image-59
