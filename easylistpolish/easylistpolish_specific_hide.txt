@@ -1377,7 +1377,6 @@ razdwasport.pl##.vendor-holder-main-page
 prostoomuzyce.pl##.view-banery
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 webiko.pl##.view-promocje a[target="_blank"]
-gastrowiedza.pl##.view-reklama
 sad24.pl##.vip
 zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
