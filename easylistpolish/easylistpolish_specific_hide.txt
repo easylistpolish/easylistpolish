@@ -957,7 +957,7 @@ iloveslubice.pl##.ilove-boczna-b2-300x250
 gazeta.pl##.indexPremium__adv
 infozlocieniec.pl##.infoz-widget
 komorkomania.pl##.insert--top-offer
-gadzetomania.pl,homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.insert—top-offer
+homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.insert—top-offer
 olx.pl##.inter-box_ad-detail_boxing
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
