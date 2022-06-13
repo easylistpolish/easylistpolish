@@ -1322,7 +1322,6 @@ ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider + p
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
-gazetaslupecka.pl##.theiaStickySidebar .simple-image
 sportdziennik.com##.theiaStickySidebar > .sport-widget
 forumfirm.pl##.theiaStickySidebar > div[id^="media_image-"]
 gazetazoliborza.pl##.theiaStickySidebar div[data-ai]
