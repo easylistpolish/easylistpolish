@@ -1932,7 +1932,6 @@ inwestinfo.pl##div[style="height:25px;text-align: center;"]
 osowa24.pl##div[style="margin-bottom: 10px;"]
 podhale24.pl##div[style="margin-bottom:20px;width: 820px;"]
 ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
-gazetalubliniecka.pl##div[style="margin-top: 75px; margin-bottom: 25px;"] > center
 calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 220px;"]
 lubartow24.pl##div[style="margin: 0 auto; text-align: center; max-width: 750px;"]
 pudelek.pl##div[style="position: relative; top: 0px; z-index: 0;"]
