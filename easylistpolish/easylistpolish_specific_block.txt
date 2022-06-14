@@ -660,7 +660,6 @@ inline__1_$domain=twojradom.pl
 ||oknoserwis.pl^*^prez-met.
 ||oknoserwis.pl^*^schuco_
 ||ono24.info^*^sad^
-||oto-samochody.pl^*^ban-
 ||panoramakutna.pl^*-box.
 ||partner.$domain=zzapolowy.com
 ||partner.rankomat.pl/tracking/media^$image,third-party
