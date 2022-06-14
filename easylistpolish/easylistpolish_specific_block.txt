@@ -818,3 +818,5 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^promocja-$domain=olawa24.pl
+-banner-$domain=olawa24.pl
