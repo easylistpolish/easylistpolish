@@ -659,7 +659,6 @@ inline__1_$domain=twojradom.pl
 ||oknonawagrowiec.pl^*^sklady-opalowe-
 ||oknoserwis.pl^*^prez-met.
 ||oknoserwis.pl^*^schuco_
-||onetexpress.pl^*^Moje%20pliki^$image
 ||ono24.info^*^sad^
 ||ostrowczanie.info^*^ajenttt.
 ||oto-samochody.pl^*^ban-
