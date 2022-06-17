@@ -354,6 +354,7 @@ bukowskilider.pl###sticky-posts-3
 wirtualnelegionowo.pl,wirtualnynowydwor.pl###szeroka-reklama
 skarzysko24.pl###t3-content .djslider-loader
 lubimyczytac.pl###tapetaEverywhere
+panoramakutna.pl###tdi_55
 vanessa.fm###text-10 div
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
@@ -1023,6 +1024,7 @@ motopoznan.com##.mt-container ._ning_outer
 lokalna24.pl##.mw_aside.mw-57 iframe
 lokalna24.pl##.mw_aside.mw-67 iframe
 slowopodlasia.pl##.my-3 .tipad_tag + a
+olawa24.pl##.my-6
 myslenicka24.pl##.mysle-reklama-glowna
 bogatyregion.pl##.n2-section-smartslider
 czasciechanowa.pl##.n2-ss-slider
@@ -1406,7 +1408,7 @@ polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 skarzysko24.pl##[class="custom none"]
-kuriersuwalski.pl##[class="g g-1"]
+kuriersuwalski.pl,panoramakutna.pl##[class="g g-1"]
 prostozopolskiego.pl,rzg.pl,tygodnikkrag.pl##[class^="a-single a-"]
 ekoszalin.pl##[class^="advert"]
 deblinnews.pl##[class^="aligncenter wp-image-"]
