@@ -510,7 +510,6 @@ tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
 hellozdrowie.pl##.adf-cont
 tvn24.pl##.ado-placeholder
-gram.pl##.adocean
 pomorska.pl##.adoceanGora1Wrapper
 24wspolnota.pl,3dwpraktyce.pl,fdb.pl,hurtidetal.pl,kardiolo.pl,kochamrzesy.pl,kodeksymezoamerykanskie.eu,mragowo24.info,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
 nocowanie.pl##.ads--sr
