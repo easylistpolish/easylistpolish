@@ -883,7 +883,6 @@ gorzow24.pl##.gml
 magazyn.elubin.pl##.gofollow[data-track]
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
-gorliczanin.pl##.gorliczanin-ogloszenie section[id^="media_image-"]
 log4.pl##.grafikaKlienta
 homebook.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
 gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
