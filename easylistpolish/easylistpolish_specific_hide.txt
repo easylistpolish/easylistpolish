@@ -1776,7 +1776,7 @@ speedtest.pl##div.mb-4
 infofordon.pl##div.ms_image
 niezalezna.pl##div.prenumerata-banner
 elbi.pl##div.reklama_przycisk
-goral.info.pl,starnowa.tv,tydzien.net.pl##div.td-a-rec
+starnowa.tv,tydzien.net.pl##div.td-a-rec
 gizycko.info##div.td-category-pos-above
 wcj24.pl##div.widget[id^="text-"] a
 kurierprzasnyski.pl##div[aria-label="Slajder"]
