@@ -1371,7 +1371,6 @@ lsw24.pl##.widget-ad-image
 slowopodlasia.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
-gorydlaciebie.pl##.widgetKP
 40ton.net##.widget_adbaner_widget
 superportal24.pl##.widget_article
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
