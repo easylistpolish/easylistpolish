@@ -1062,7 +1062,7 @@ nieznanyswiat.pl##.page-masthead
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 pomorska.pl##.partner
 naszraciborz.pl##.partner_next
-ijarocin.pl,ikalisz.pl,ikrotoszyn.pl,iostrowwlkp.pl,ipleszew.pl##.partners2
+ikalisz.pl,ikrotoszyn.pl,iostrowwlkp.pl,ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
 majsterkowo.pl##.patronpod
 okazjepodroznika.pl##.penci-banner-box
