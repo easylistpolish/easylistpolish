@@ -79,7 +79,6 @@ lowcaburzwielun.pl.tl###banner-right
 suwalki.info###banner-standard
 lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
 dkl24.pl###banner10
-hrubieszow.info###banner_nad_fotorel
 nadzagozdzonka.pl###banner_wrap
 info-net.com.pl,kalendarz.pl,tvkstella.pl###banners
 dostawczaki.pl###banners-section
