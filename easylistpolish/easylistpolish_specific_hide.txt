@@ -1688,7 +1688,6 @@ menshealth.pl##a[onclick*="welcompage-reklama"]
 swiatdronow.pl##a[onclick^="ga('send'"]
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
 grodzisknews.pl##a[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
-gracz.org##a[onclick^="gtag('event"][target="_blank"]
 interia.pl,styl.pl##a[onclick^="iwa('trackEvent'"] > img
 elektroda.pl##a[onclick^="navBoxEvent("]
 elektroda.pl##a[onclick^="patronEvt("]
