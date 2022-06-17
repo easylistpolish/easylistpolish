@@ -717,7 +717,6 @@ multifishing.pl##.blockadvmulti
 bielsko.tv,pless.pl,pszczyna.tv,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
-grupyogrodnicze.pl##.blok_reklam
 studentnews.pl##.bm
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl,superportal24.pl##.bnr
