@@ -573,7 +573,7 @@ elektrosystemy.pl,hokej.net,przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twoj
 glamour.pl,kobieta.pl##.advertising-billboard
 gala.pl##.advertising-box
 mojanorwegia.pl##.advertisment-info
-edziecko.pl,haps.pl,plotek.pl,sport.pl##.adviewDFPBanner
+edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
 w203.pl##.af_sidebar
