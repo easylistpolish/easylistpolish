@@ -32,7 +32,6 @@ togethermagazyn.pl###addbaner
 mamotoja.pl###adl-placement-0-wrapper
 kozienice24.pl,zwolen24.pl###adocr
 infookno.pl,swieradowzdroj.pl###ads
-icelandnews.is###ads-top-1-header
 icelandnews.is###ads-top-2-header
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
