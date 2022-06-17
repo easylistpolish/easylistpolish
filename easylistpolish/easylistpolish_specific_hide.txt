@@ -813,7 +813,7 @@ infoprzasnysz.com,terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
 radiofon.fm##.easingslider
 ele24.net##.eb-modules-banner-nad-newsem
 party.pl##.ecomm-content
-ilewazy.pl,viva.pl##.ecomm-offer
+viva.pl##.ecomm-offer
 mamotoja.pl##.ecomm-wrapper
 party.pl##.ecomm-zalando
 zkaszub.info##.edd
