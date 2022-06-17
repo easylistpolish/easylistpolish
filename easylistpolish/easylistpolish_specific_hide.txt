@@ -939,7 +939,6 @@ magazynit.pl##.jPanelModule
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
 lubiehrubie.pl##.jcarousel-container
-hokej.net##.jcarousel-wrapper.second
 londynek.net##.jd-oaz-d
 londynek.net##.jd-sponsored-link
 mma.pl##.js-sitehead-ads
