@@ -177,7 +177,6 @@ spottedskarzysko.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
-goleniowska.com###golen-442451448
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
 tkn24.pl###header + center
