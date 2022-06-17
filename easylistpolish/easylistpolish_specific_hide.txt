@@ -1305,7 +1305,6 @@ onetontour.pl##.test-drive-banner
 tvgorzow.pl##.testimonial_rotator_slide
 lifemanagerka.pl##.text-5
 lifemanagerka.pl##.text-9
-gram.pl##.text-ad-center
 gram.pl##.text-ad-right
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
