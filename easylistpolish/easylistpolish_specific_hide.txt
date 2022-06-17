@@ -266,7 +266,6 @@ klubkwadrat.pl,kreskowki-online.pl,magazynpolonia.com###partners
 ekoexpo.pl###partners_bar
 hitra-wedkarstwo.cba.pl###partnerzy
 pilkawregionie.pl###pg-2-4
-hoga.pl###php_widget-32
 planeteplus.pl###planeteplus-add-1
 informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
