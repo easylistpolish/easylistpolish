@@ -753,7 +753,6 @@ tyna.info.pl##.breadcrumbs-wrap ~ center a
 cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
 poscigi.pl##.bsaProContainerNew
-granty.pl##.bsaProItem
 ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
