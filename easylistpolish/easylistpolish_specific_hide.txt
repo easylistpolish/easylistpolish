@@ -31,7 +31,7 @@ gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
 mamotoja.pl###adl-placement-0-wrapper
 kozienice24.pl,zwolen24.pl###adocr
-infookno.pl,swieradowzdroj.pl###ads
+swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl,pudelekx.pl###adv03
 tygodnikszczytno.pl###advBox
