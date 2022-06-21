@@ -809,7 +809,7 @@ podaj.to##.doubleadvert-wrapper
 kociewie24.pl,nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-widget
 gryfickie.info,swinoujskie.info##.e3lan
-infoprzasnysz.com,terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
+terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
 radiofon.fm##.easingslider
 ele24.net##.eb-modules-banner-nad-newsem
 party.pl##.ecomm-content
