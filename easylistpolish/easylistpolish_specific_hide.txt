@@ -1013,7 +1013,6 @@ goldap.info##.modulereklamar1
 nowosadecki24.pl##.moduletable .custom a
 tv-pelplin.pl##.moduletable sup
 sztafeta.pl##.mom-e3lanat-wrap
-infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
 boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
 panoramakutna.pl##.ms-slide-bgcont
