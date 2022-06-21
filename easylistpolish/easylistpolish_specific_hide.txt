@@ -1389,7 +1389,6 @@ poradnikhandlowca.com.pl##.yReklamy
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
-infoprzasnysz.com##.zodnbrutw-image
 mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 zumi.pl##.zumi-ads-top
