@@ -993,7 +993,6 @@ nowawrzesnia.pl##.metaslider-nivo
 sloworegionu.pl##.mfp-bg
 turek.net.pl##.mfp-ready
 sloworegionu.pl##.mfp-wrap
-infoszach.pl##.mh-content-ad
 menshealth.pl##.mh-optad
 tv.pl##.middle-salesmedia
 10minut.tv##.minut-po-tresci
