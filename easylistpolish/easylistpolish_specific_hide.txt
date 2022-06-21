@@ -481,7 +481,6 @@ ipolice.pl##.ad-slider-right
 7dnikalisza.com##.ad-small
 polskieligi.net##.ad-top-container
 egospodarka.pl##.ad750
-interia.pl##.adStandardTop
 raportkolejowy.pl##.ad_adInfo
 rrs24.net##.ad_img_baner_glowny
 polskielupki.pl##.ad_info
