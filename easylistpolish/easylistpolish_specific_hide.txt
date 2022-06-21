@@ -88,7 +88,7 @@ otouczelnie.pl###belka
 mecze24.pl###bg
 bosonamacie.pl###big-wrapper
 tychy.pl###bilboard_970x90
-ftb.pl,ino.online,poszkole.pl###billboard
+ftb.pl,poszkole.pl###billboard
 o.pl###billboard-container
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
