@@ -542,7 +542,6 @@ antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dzienni
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
-infobus.pl##.advRekl
 historykon.pl##.adv_content
 wp.pl##.advarticle
 medexpress.pl##.adver_box
