@@ -1129,7 +1129,6 @@ polemi.co.uk##.reklama8
 wiesci.info.pl##.reklamaLewa
 eostroleka.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis
 kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis + *
-infobus.pl##.reklamaR2Napis
 infobus.pl##.reklamaR2Napis + div
 moje-gniezno.pl##.reklamaTEKST
 dkl24.pl##.reklama_700
