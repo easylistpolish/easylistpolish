@@ -1017,7 +1017,6 @@ infokrakow24.pl##.mom_custom_text a[rel="external noopener noreferrer"]
 boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
 panoramakutna.pl##.ms-slide-bgcont
-infofordon.pl##.ms_layers_wrapper
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
 lokalna24.pl##.mw_aside.mw-57 iframe
