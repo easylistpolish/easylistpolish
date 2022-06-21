@@ -1713,7 +1713,6 @@ twojepajeczno.pl##div > .scxxxx
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
-interia.pl##div a[onclick*="plushbezlimitu.pl"]
 przeglad.olkuski.pl##div a[style*="-baner-"]
 transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
 fotelik.info##div#addframe
