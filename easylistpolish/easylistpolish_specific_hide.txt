@@ -152,7 +152,7 @@ goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
 kozienice24.pl###fbbfo
 woda-scieki.com###firms
-info112.pl,lublin112.pl###firmy-box-inner
+lublin112.pl###firmy-box-inner
 calisia.pl###fixed_abox_1
 linguajob.pl###flash_baner
 urzadzamy.pl###floorLayer
