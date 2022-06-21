@@ -1961,7 +1961,6 @@ nerwica.com,open.fm,money.pl,o2.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.p
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,polskatimes.pl,nowosci.com.pl,kurierlubelski.pl,pomorska.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
-infobus.pl##object[idrekl]
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 magazif.com##p[data-banner]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
