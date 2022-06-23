@@ -304,7 +304,6 @@ anime-odcinki.pl###reklama_prawa
 zakazany-humor.pl###reklama_s
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
-kociesprawy.pl###reklamy
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 pl.jooble.org###rightBannerPlace
