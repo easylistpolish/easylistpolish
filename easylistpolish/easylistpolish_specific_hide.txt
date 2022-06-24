@@ -2,7 +2,6 @@ money.pl###ADrail
 oknonet.pl,portalpszczelarski.pl###AdBig
 oknonet.pl###AdSmall
 signs.pl###BD
-spottedskarzysko.pl###Box4
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
