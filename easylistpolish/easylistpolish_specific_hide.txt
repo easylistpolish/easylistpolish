@@ -5,7 +5,7 @@ signs.pl###BD
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-smak-zdrowia.blogspot.com,techmaniachd.pl###HTML1
+techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
 internet-komputery.blogspot.com###HTML2
