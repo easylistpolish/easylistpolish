@@ -11,9 +11,7 @@ wikirose.pl###HTML15
 internet-komputery.blogspot.com###HTML2
 skyradar.pl###HTML4
 stereoikolorowo.blogspot.com###Image10
-stereoikolorowo.blogspot.com###Image12
 stereoikolorowo.blogspot.com###Image5
-stereoikolorowo.blogspot.com###Image7
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 satkurier.pl###SATKurierNews_top_750x100_r
