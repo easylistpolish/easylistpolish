@@ -1617,7 +1617,6 @@ cryptonews.pl##a[href^="https://www.koinal.io/"] img
 radiobielsko.pl##a[href^="https://www.kubisa24.pl/"]
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
 narodowcy.net##a[href^="https://www.nasz-sklep.net/"]
-itvpiaseczno.pl##a[href^="https://www.orange.pl"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
 miasto-gazeta.pl##a[href^="https://www.planetcinema.pl/"]
 speedtest.pl##a[href^="https://www.play.pl/oferta/"]
