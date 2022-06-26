@@ -1468,7 +1468,6 @@ twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
 kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
-itvpiaseczno.pl##a[href*="&utm_medium=banner_"]
 kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl"]
 dziennikwschodni.pl##a[href*="/artykuly-sponsorowane/"]
 monitorlocalnews.com##a[href*="/banners/click"]
