@@ -1670,7 +1670,6 @@ polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
 niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
 wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
-inwestycje.pl##a[target="_blank"] > img[width="1200"][height="300"]
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
 maratonypolskie.pl##a[target="pw"]
 maratonypolskie.pl##a[target="sz"]
