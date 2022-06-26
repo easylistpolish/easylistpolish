@@ -717,7 +717,6 @@ portalspozywczy.pl##.box-0
 queer.pl##.box-adv
 futbolnews.pl##.box-banner
 sportowememy.pl##.box-entertainment
-jaslo4u.pl##.box-info a[target="_blank"] > img[width="270"]
 wprost.pl##.box-list-item-recommendation-content-stream
 morzaioceany.pl##.box-reklamy
 spidersweb.pl##.box-specjalna
