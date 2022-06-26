@@ -1885,7 +1885,6 @@ mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 eostroleka.pl##div[style^="max-width: 1100px"]
 eostroleka.pl##div[style^="max-width: 715px"]
-itv24.com.pl##div[style^="position: fixed; top: 354.5px;"]
 poloniusz.pl##div[style^="width:194px;"]
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
