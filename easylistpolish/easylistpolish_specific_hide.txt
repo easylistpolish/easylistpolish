@@ -923,7 +923,6 @@ forum.optymalizacja.com##.ipsWidget_vertical > center img
 gazzettaitalia.pl##.irw-widget
 ostrodaflesz.pl##.islemag_single_ad
 sadownictwo.com.pl##.isotopeGrid-item .edcwidgetAnhor
-itbiznes.pl##.itbiz-top
 v10.pl##.iwrap
 magazynit.pl##.jPanelModule
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
