@@ -370,7 +370,7 @@ ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,lowking.pl,medycznamarihuana.com,tarnow.in###text-21
 medycznamarihuana.com,piast.gliwice.pl,tarnobrzeskie.eu,zycieolsztyna.pl###text-22
-jasionka24.pl,wiesci.com.pl###text-23
+wiesci.com.pl###text-23
 piast.gliwice.pl###text-26
 dopilar.pl,fiat.fm,historykon.pl,konzdrowyjak.com.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,streetfoodpolska.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
