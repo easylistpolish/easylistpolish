@@ -25,7 +25,6 @@ trybun.org.pl###_dropslide1
 ekorodzice.pl###a_d_billboard
 onetech.pl###ad
 dieroten.pl###ad-sts-top
-jasnet.pl###adBox1
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
 mamotoja.pl###adl-placement-0-wrapper
