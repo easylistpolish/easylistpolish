@@ -756,6 +756,7 @@ mojecoventry.pl##.companies-block-sponsors
 legnica24h.pl##.container-advert-top
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 comparic.pl##.container16,.container11
+comparic.pl##.containerRectangle
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
 tomaszowiak.net##.contentAupper
 bestofwhisky.pl##.contetn-left-ad-top
@@ -1949,4 +1950,3 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-comparic.pl##.containerRectangle
