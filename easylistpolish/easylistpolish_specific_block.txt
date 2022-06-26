@@ -553,7 +553,6 @@ inline__1_$domain=twojradom.pl
 ||leszczynskisport.pl^*^tempus.
 ||lilia.doba.pl^$image
 ||linktopoland.com^*^autoczescionline24-pl.
-||lnaff.pl^$domain=darmowetv.pl
 ||lokalna.info^*^kssse.
 ||lokalna24.pl^*^debowe_wzgorze.
 ||lokalna24.pl^*^wasbruk_
@@ -803,3 +802,4 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^baner1200x200-$domain=starosadeckie.info

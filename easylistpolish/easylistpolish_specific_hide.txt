@@ -2,20 +2,16 @@ money.pl###ADrail
 oknonet.pl,portalpszczelarski.pl###AdBig
 oknonet.pl###AdSmall
 signs.pl###BD
-spottedstarachowice.pl###Box1
-spottedskarzysko.pl###Box4
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-smak-zdrowia.blogspot.com,techmaniachd.pl###HTML1
+techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
 internet-komputery.blogspot.com###HTML2
 skyradar.pl###HTML4
 stereoikolorowo.blogspot.com###Image10
-stereoikolorowo.blogspot.com###Image12
 stereoikolorowo.blogspot.com###Image5
-stereoikolorowo.blogspot.com###Image7
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 satkurier.pl###SATKurierNews_top_750x100_r
@@ -39,8 +35,6 @@ filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
-swiatkoni.pl###advmain
-swiatkoni.pl###advwide
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
 mragowo24.info###articleAds
@@ -86,7 +80,7 @@ otouczelnie.pl###belka
 mecze24.pl###bg
 bosonamacie.pl###big-wrapper
 tychy.pl###bilboard_970x90
-ftb.pl,poszkole.pl###billboard
+ftb.pl###billboard
 o.pl###billboard-container
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
@@ -303,7 +297,6 @@ anime-odcinki.pl###reklama_prawa
 zakazany-humor.pl###reklama_s
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
-kociesprawy.pl###reklamy
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 pl.jooble.org###rightBannerPlace
@@ -1956,3 +1949,4 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+comparic.pl##.containerRectangle
