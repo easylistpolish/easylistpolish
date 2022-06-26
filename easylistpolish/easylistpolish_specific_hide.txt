@@ -217,7 +217,7 @@ planeta.pl###mavPlContener78
 tu.swinoujscie.pl###media_image-11
 tonaszregion.pl###media_image-134
 gazetatrybunalska.info###media_image-15
-jakodzyskacpieniadze.pl,staresiolkowice.pl,wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
+staresiolkowice.pl,wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
 pulskosmosu.pl###media_image-24
 gazetagazeta.com###media_image-25
 gazetagazeta.com###media_image-28
