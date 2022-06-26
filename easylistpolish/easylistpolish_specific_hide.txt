@@ -1631,7 +1631,6 @@ bankier.pl##a[href^="https://www3.smartadserver.com/"]
 pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
 piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
-jelonka.com##a[href^="zlicz.php?id="]
 pultusk.news##a[id*="Banner"]
 tko.pl##a[onclick*="'Adverts'"]
 siechnice.com.pl##a[onclick*="'Banner'"]
