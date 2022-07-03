@@ -888,7 +888,7 @@ radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 wbj.pl##.highlight__adv-title + a
-jozefow-news.pl,wilanownews.pl##.hm-header-sidebar
+wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
 112pila.pl##.home-e3lan > a
 weszlo.com##.home-posts-adv
