@@ -848,7 +848,7 @@ magazyn.elubin.pl##.gofollow[data-track]
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
-komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
+medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
 kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
