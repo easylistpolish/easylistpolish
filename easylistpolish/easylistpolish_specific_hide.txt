@@ -1448,7 +1448,6 @@ staleo.pl,zrobotyzowany.pl##a[data-type^="Reklama"]
 cashless.pl##a[data="advert-link"]
 twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
-kliknijwzdrowie.pl##a[href*="&utm_campaign=banner&"]
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 kurierrzeszowski.pl##a[href*=".tr.netsalesmedia.pl"]
 dziennikwschodni.pl##a[href*="/artykuly-sponsorowane/"]
