@@ -1107,8 +1107,8 @@ cnc.info.pl,kalisz24.info.pl,radom24.pl##.reklama-top
 polonia.nl##.reklama-warpper
 polemi.co.uk##.reklama8
 wiesci.info.pl##.reklamaLewa
-eostroleka.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis
-kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis + *
+eostroleka.pl,ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis
+ligapolska.pl,primeradivision.pl,seriea.pl##.reklamaNapis + *
 moje-gniezno.pl##.reklamaTEKST
 dkl24.pl##.reklama_700
 wieliczkacity.pl##.reklama_980
