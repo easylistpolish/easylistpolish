@@ -182,7 +182,6 @@ tarnobrzeg.info###jedrus
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
 anonse-krosno.pl###jm-top-mod2-in
 wadowiceonline.pl###jmMobile
-joe.pl###joe_rek2
 pokerlistings.pl###js-cta-banner
 jarmark.com.pl###k3
 przeglad-sejnenski.pl###kolLeft .banerEl
