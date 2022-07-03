@@ -246,7 +246,6 @@ maslow.info.pl###newsflash2 a[target="_blank"] > img
 tarnobrzeg.info###obraz
 naklo24.pl,szubin24.pl###okazje2
 menshealth.pl###optad-sub-970x250_3
-karpacz.net###oskar
 bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
 miastokolobrzeg.pl###panel_baner
 klubkwadrat.pl,kreskowki-online.pl,magazynpolonia.com###partners
