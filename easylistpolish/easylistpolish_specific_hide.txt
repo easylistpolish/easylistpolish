@@ -807,7 +807,6 @@ gloslodzi.pl##.entry_content
 epainfo.pl##.epain-widget.td_block_template_1
 radionadzieja.pl##.et_pb_image_wrap
 all-inclusive.com.pl##.et_pb_text_inner a
-kiwiportal.pl##.eventAd
 ittechblog.pl##.ext-link > img
 forum.interia.pl##.f3-sidebar--ad
 e-stargard.pl##.fb_widget
