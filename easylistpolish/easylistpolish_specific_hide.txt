@@ -1053,7 +1053,6 @@ pojezierze.com.pl##.pojez-widget > a[target="_blank"]
 plonsk24.pl##.pole-banerowe > a:not([href^="/"]):not([href*="plonsk24.pl/"])
 plonsk24.pl##.pole-banerowe > img
 24tp.pl,dkl24.pl##.polecamy
-krosno112.pl##.polecamy + .module-ct
 zloty-pociag.com##.popup_wrapper iframe
 newsdiscopolo.info##.post-next-prev ~ iframe
 pojezierze.com.pl##.posts-slider
