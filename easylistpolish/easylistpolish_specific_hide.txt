@@ -900,7 +900,6 @@ klubowa.pl##.id52
 muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
 6krokow.pl##.img_rkl
-komorkomania.pl##.insert--top-offer
 komorkomania.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.insert—top-offer
 olx.pl##.inter-box_ad-detail_boxing
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
