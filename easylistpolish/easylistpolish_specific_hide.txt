@@ -1643,7 +1643,7 @@ cosmopolitan.pl,expressbydgoski.pl,harpersbazaar.pl,kociewiak.pl,korso.pl,kurier
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 mojewronki.pl##a[rel^="sponsored"]
-kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
+ligapolska.pl,primeradivision.pl,seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
 kafeteria.pl,kardiolo.pl,kciuk.pl,komorkomania.pl,kowbojki.pl,luxlux.pl,medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
 tygodnik.szczytno.pl##a[target="__new"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
