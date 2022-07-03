@@ -378,7 +378,6 @@ akademiawitalnosci.pl,budujzdrewna.pl,gazetalubliniecka.pl,malyrekin.pl,polacywe
 fiat.fm,goldap.org.pl,kazimierzdolny24.pl,kcynia.info,kryptoporadnik.pl,stopnadwadze.pl,swoszowice.org.pl,tenisbydawid.pl###text-7
 e-playbet.com###text-70
 czestochowskie24.pl###text-75
-kamienskie.info###text-79
 24legnica.pl,greencanoe.pl,kurier-lokalny.com,niebezpiecznik.pl,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
 kamienskie.info###text-82
 gazetalubliniecka.pl,kobieta-zmienna-jest.pl,kurier-lokalny.com,mojgdow.pl,olgasmile.com,prasowki.org,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl,tuhiszpania.pl,wiesci.com.pl###text-9
