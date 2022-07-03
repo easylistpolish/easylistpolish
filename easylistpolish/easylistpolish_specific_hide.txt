@@ -1289,7 +1289,7 @@ bielskirynek.pl,klobuck365.pl,kolniak24.eu,koronowo.net.pl,kozieglowy365.pl,kuri
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
-kociewiak.pl,lokalna.news,narew.info,naszrynek.pl,portalpomorza.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
+lokalna.news,narew.info,naszrynek.pl,portalpomorza.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
 slaskiesiemianowice.pl##.trzyreklamy
