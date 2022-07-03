@@ -894,7 +894,7 @@ firmypolski.pl##.hot-info-slider
 rdn.pl##.hred_cont_re
 rdn.pl##.hred_right_re
 rdn.pl##.hred_sport_re
-korso.pl,korsokolbuszowskie.pl##.iad
+korsokolbuszowskie.pl##.iad
 klubowa.pl##.id217
 klubowa.pl##.id52
 muzyczneradio.pl##.idBanner4
