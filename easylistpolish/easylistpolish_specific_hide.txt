@@ -70,7 +70,7 @@ suwalki.info###banner-standard
 lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
 dkl24.pl###banner10
 nadzagozdzonka.pl###banner_wrap
-info-net.com.pl,kalendarz.pl,tvkstella.pl###banners
+info-net.com.pl,tvkstella.pl###banners
 dostawczaki.pl###banners-section
 drhtv.com.pl###bannertop
 domy.pl###bb-ad-inline-2
