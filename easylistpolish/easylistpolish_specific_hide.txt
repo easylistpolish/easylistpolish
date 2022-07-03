@@ -1658,7 +1658,7 @@ gazeta-wiesci.pl##a[title*="clicks."] > img
 purepc.pl##a[title="KIOXIA"]
 sloworegionu.pl##a[title="canal+grafika"]
 fm.tuba.pl##app-advert
-kafeteria.pl,komorkomania.pl,medycyna24.pl##article > .insert--top-offer
+komorkomania.pl,medycyna24.pl##article > .insert--top-offer
 nowiny24.pl##article.contentStream
 pomorska.pl##article[class^="lista_content_stream_"]
 radio7.pl##aside .a-single
