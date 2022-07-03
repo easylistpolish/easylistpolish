@@ -142,7 +142,6 @@ tcz.pl###dynamic-loading
 slowolodzi.pl,slowotrojmiasta.pl,slowowarszawy.pl###efaro-widget
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
-kozienice24.pl###fbbfo
 woda-scieki.com###firms
 lublin112.pl###firmy-box-inner
 calisia.pl###fixed_abox_1
