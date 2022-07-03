@@ -1227,7 +1227,6 @@ kurier-kolejowy.pl##.strefa_banerowa
 stressfree.pl##.stressfree_image_advert
 bezrzecze24.pl,gminadobra24.pl,gumience24.pl,mierzyn24.pl,osowa24.pl##.subpage-header2
 meska-kuchnia.pl##.sw-inner a[href^="https://dietetykwmiescie.pl"]
-karpacz.net##.swiper-container-fade
 biznesregion.pl,super-nowa.pl##.syl-baner-place
 2x45.info,serwislokalny.com##.system_banner
 skarzysko24.pl##.t3-sidebar .custom a
