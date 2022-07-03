@@ -1862,7 +1862,6 @@ elektroda.pl##form[action^="https://www.tme.eu/"]
 wirtualneoslo.pl##header > center > a
 poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
 scs.htw.pl##iframe[name="billboard-top"]
-kozaczek.pl##iframe[name="hybrid_inimage_ssp_api"]
 bajery.pl##iframe[name="rek"]
 xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
