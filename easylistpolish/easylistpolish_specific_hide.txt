@@ -919,7 +919,7 @@ truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
 mgsm.pl##.karta-widget-prices
 24wspolnota.pl,antyauto.pl,korsosanockie.pl,koscierzyna24.info,kronikatygodnia.pl,kuriergarwolinski.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
-expressbydgoski.pl,harpersbazaar.pl,korso.pl,kuriergarwolinski.pl,kurierlubelski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
+expressbydgoski.pl,harpersbazaar.pl,kuriergarwolinski.pl,kurierlubelski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 kuriergarwolinski.pl##.kd_ns_logo
 antyauto.pl,kurierzurominski.pl##.kd_ns_placement
 typuje.pl##.kodbaner
