@@ -529,7 +529,7 @@ medexpress.pl##.adver_box
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,otomoto.pl,ox.pl,podkarpacielive.pl,polishexpress.co.uk,polska-zbrojna.pl,pozytywniej.pl,radiopark.com.pl,radiopark.fm,radiozet.pl,rynek-drzewny.pl,stacja7.pl,tygodnik-rolniczy.pl,warzywaiowoce.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
 eluban.pl,koscierzyna24.info,lubelska.tv,portalpomorza.pl,radiosochaczew.pl,slowopodlasia.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tuolawa.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
-bydgoszcz.com,e-widuchowa.pl,korsokolbuszowskie.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
+bydgoszcz.com,e-widuchowa.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
 bydgoszcz.com,e-widuchowa.pl,eluban.pl,koscierzyna24.info,lokalnatelewizja.pl,lubelska.tv,slowopodlasia.pl,tczewska.pl,telewizjazary.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
 tuolawa.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
