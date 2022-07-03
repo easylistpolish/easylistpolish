@@ -1371,7 +1371,6 @@ eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not(
 pwm.org.pl##A[onclick^="countAdClick"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 wylecz.to##[class$="330e"]
-kapustnebeztajemnic.pl##[class$="_rand "]
 tvpolice.com.pl##[class*="advert-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
