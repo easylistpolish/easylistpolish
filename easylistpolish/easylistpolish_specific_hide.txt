@@ -1561,7 +1561,6 @@ skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
 iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
 plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
-kibice.net##a[href^="https://piroshop.pl/"]
 lowking.pl##a[href^="https://pitbull.pl/"]
 lowking.pl##a[href^="https://pitbullcity.pl/"]
 ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
