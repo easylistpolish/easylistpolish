@@ -786,7 +786,7 @@ iturek.net##.djslider
 tkn24.pl##.dk-image-rotator-widget
 zywawiara.pl##.dobrodzieje
 podaj.to##.doubleadvert-wrapper
-kociewie24.pl,nadmorski24.pl##.dynamicAD
+nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-widget
 gryfickie.info,swinoujskie.info##.e3lan
 terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
