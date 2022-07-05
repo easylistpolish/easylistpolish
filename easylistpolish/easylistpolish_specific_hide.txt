@@ -629,7 +629,7 @@ ppe.pl##.banner-screening
 prawo.pl##.banner-shortcode
 ppe.pl##.banner-skyscraper
 wyspagier.pl##.banner-static-game
-ele24.net,kurier-kolejowy.pl,kurierkolejowy.eu##.banner-top
+ele24.net,kurier-kolejowy.pl##.banner-top
 miastons.pl##.banner-tracking-gtm
 forum-bron.pl##.banner1
 id-24.pl##.banner1-wrap
