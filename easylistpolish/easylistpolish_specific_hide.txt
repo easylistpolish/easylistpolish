@@ -223,7 +223,6 @@ gazetagazeta.com###media_image-39
 budownictwo.co,mojgdowmagazyn.pl###media_image-5
 ostrodanews.pl###media_image-52
 tkaninyobiciowe.eu###media_image-59
-kurierwilenski.lt###media_image-6
 tkaninyobiciowe.eu###media_image-63
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
