@@ -48,7 +48,7 @@ przeglad-sejnenski.pl,sarp.org.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 wirtualnyzgierz.pl###baner-gora1
 genetyczne.pl###baner-gorny
-hotelinfo24.pl,kuriergarwolinski.pl###baner2
+hotelinfo24.pl###baner2
 forumzabki.pl###baner750
 eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
