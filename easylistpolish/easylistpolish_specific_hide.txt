@@ -231,7 +231,6 @@ gazetatrybunalska.info###media_image-7
 ostrodanews.pl###media_image-85
 toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
-kurierostrowski.pl###metaslider_975
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
 m.joemonster.org###middleRect
