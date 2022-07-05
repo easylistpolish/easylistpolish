@@ -98,7 +98,6 @@ trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
 open.fm###bnr-top
-lebork24.info###bottom-banner
 m.joemonster.org###bottomRect
 szuster.com.pl###box-4
 laboratoria.net###box40
