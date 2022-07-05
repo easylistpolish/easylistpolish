@@ -737,7 +737,6 @@ przepisy.pl##.col-sm-7
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-legnica24h.pl##.container-advert-top
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 comparic.pl##.container16,.container11
 comparic.pl##.containerRectangle
