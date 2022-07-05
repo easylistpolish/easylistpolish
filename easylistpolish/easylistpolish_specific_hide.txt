@@ -1894,7 +1894,6 @@ pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 motohigh.pl##section[id^="text-"] > .mvp-main-box
 poczta.o2.pl,poczta.wp.pl##sidebar-feed
-legnica.fm##span + ul > .banneritem
 pudelek.tv,wp.pl##span[id^="dynacrems-adv"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
