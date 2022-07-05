@@ -1844,7 +1844,6 @@ eostroleka.pl##div[style^="max-width: 715px"]
 poloniusz.pl##div[style^="width:194px;"]
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
-kursyjezykowe.biz##font[size="5"]
 elektroda.pl##form[action^="https://www.tme.eu/"]
 wirtualneoslo.pl##header > center > a
 poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
