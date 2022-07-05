@@ -921,7 +921,6 @@ typuje.pl##.kodbaner
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 pionki24.pl##.kozie-before-content-placement
-kuriergmin.pl##.kurie-billboard
 24jgora.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 szczecinek.com##.l-box--100 > div[align="center"]
