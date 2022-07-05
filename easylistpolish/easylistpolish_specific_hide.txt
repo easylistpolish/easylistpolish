@@ -61,7 +61,6 @@ genetyczne.pl###banner-21
 genetyczne.pl###banner-6
 suwalki.info###banner-billboard
 o.pl###banner-czynszowy
-lebork24.info###banner-main2
 lowcaburzwielun.pl.tl###banner-right
 suwalki.info###banner-standard
 lowcaburzwielun.pl.tl,przemysl24.pl###banner-top
