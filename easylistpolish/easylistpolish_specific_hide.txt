@@ -1895,7 +1895,7 @@ pzhkiperybnik.vgh.pl##marquee
 money.pl,pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
 nerwica.com,open.fm,money.pl,o2.pl,wp.pl,medycyna24.pl,parenting.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
-nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,polskatimes.pl,nowosci.com.pl,kurierlubelski.pl,pomorska.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
+nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,polskatimes.pl,nowosci.com.pl,pomorska.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
