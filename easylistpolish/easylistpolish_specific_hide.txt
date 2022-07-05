@@ -606,7 +606,6 @@ android.com.pl##.banner--big
 pracujwlogistyce.pl##.banner-1
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
-lebork24.info##.banner-box
 production-manager.pl##.banner-carousel
 naszatve.pl##.banner-center
 kb.pl,radiosud.pl##.banner-container
