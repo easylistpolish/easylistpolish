@@ -1201,7 +1201,6 @@ wysokomazowiecki24.pl##.sppb-addon-single-image-container
 slowoseniora.pl##.spu-box
 portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
-lajfy.com##.sticky-banner
 legio24.pl##.stream-item
 plotkibiznesowe.pl##.stream-item-above-header
 wzielonej.pl##.stream-item-below-post
