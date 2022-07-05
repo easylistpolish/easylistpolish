@@ -1201,7 +1201,6 @@ plotkibiznesowe.pl##.stream-item-above-header
 wzielonej.pl##.stream-item-below-post
 lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
 wzielonej.pl##.stream-item-top-wrapper
-legio24.pl##.stream-item-widget-content
 kurier-kolejowy.pl##.strefa_banerowa
 stressfree.pl##.stressfree_image_advert
 bezrzecze24.pl,gminadobra24.pl,gumience24.pl,mierzyn24.pl,osowa24.pl##.subpage-header2
