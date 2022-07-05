@@ -324,7 +324,6 @@ wydawca.com.pl###sow-slider-20
 wydawca.com.pl###sow-slider-22
 mosir.ostrowiec.pl###sp-banery
 wysokomazowiecki24.pl###sp-reklamatop
-kuriersuwalski.pl###sp-section-6
 wysokomazowiecki24.pl###sp-top-bar
 mosir.ostrowiec.pl###sp-user7
 webhelp.pl###sponsor
