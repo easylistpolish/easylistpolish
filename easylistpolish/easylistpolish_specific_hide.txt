@@ -528,7 +528,7 @@ bryk.pl##.advert-right-wrapper
 automatyka.pl,laboratoria.xtech.pl##.advertHd
 laboratoria.xtech.pl##.advertHd + div
 zory24.pl##.advertbutton
-grupacbb.pl,wielkopolska.tv##.advertise
+wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
