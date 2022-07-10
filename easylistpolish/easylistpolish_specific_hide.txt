@@ -1245,7 +1245,6 @@ starosadeckie.info##.the-slider + p
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 sportdziennik.com##.theiaStickySidebar > .sport-widget
-forumfirm.pl##.theiaStickySidebar > div[id^="media_image-"]
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
