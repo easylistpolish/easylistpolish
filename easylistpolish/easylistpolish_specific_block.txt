@@ -356,7 +356,6 @@ inline__1_$domain=twojradom.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
 ||eduson.pl^*-reklama-panel^
-||efilmy.tv/adsvid^
 ||egorzow.pl^*-pzu_gorzow_mieszka.
 ||ekologia.guru^*^baner03.
 ||ekologia.guru^*^seo.
