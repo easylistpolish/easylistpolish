@@ -152,7 +152,7 @@ telewizja.lukow.pl###frontpage-area_a_3
 telewizja.lukow.pl###frontpage-area_b_2
 pozatorun.pl,tylkotorun.pl###fsp_light
 minskmaz.com###g-a-s
-elektrosystemy.pl,naszatve.pl###gk-banner-top
+naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
 spottedskarzysko.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
@@ -534,7 +534,7 @@ grupacbb.pl,wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
-elektrosystemy.pl,przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
+przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
 gala.pl##.advertising-box
 mojanorwegia.pl##.advertisment-info
