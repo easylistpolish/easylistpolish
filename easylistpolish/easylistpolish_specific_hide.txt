@@ -122,7 +122,7 @@ portalprzemyski.pl###custom_html-10
 wachtyrz.eu###custom_html-13
 wachtyrz.eu###custom_html-14
 whitemad.pl###custom_html-15
-gazetabialolecka.waw.pl,kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
+kazimierzdolny24.pl,palegro.pl,projektujdom.pl,swiatdronow.pl,swift-iban.pl,twojdom24.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
 belekaj.eu,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
