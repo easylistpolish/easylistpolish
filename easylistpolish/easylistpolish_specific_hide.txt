@@ -647,7 +647,7 @@ sucha24.pl##.banneritem > a
 palukitv.pl##.banneritem > a[href^="/component/banners/click/"]
 roland-gazeta.pl##.banneritem img[src$="green.webp"]
 niedziela.nl##.banneritem_
-e-stargard.pl,informacjelodzkie.pl,isrhornet.pl,megatiming.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
+e-stargard.pl,informacjelodzkie.pl,megatiming.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
 rzeszowairport.pl##.banners-content
 ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl,magazyn-ecommerce.pl##.bannersm
