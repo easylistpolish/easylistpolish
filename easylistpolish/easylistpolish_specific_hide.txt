@@ -393,7 +393,6 @@ prokuratura-zz.pl###ubezpieczenie-top
 telewizjaleszno.pl###vlog-module-0-0
 polskiemiasta.tv###wartozobaczyc
 zakliczyninfo.pl###wdb_advert-line
-forumpuszczykowo.pl###wds_container1_0
 wiescipolickie.pl###wds_slideshow_image_container_0
 polukr.net###weptile-image-slider-widget-11
 polukr.net###weptile-image-slider-widget-12
