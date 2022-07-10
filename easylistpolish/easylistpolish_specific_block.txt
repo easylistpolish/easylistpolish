@@ -450,7 +450,6 @@ inline__1_$domain=twojradom.pl
 ||greencanoe.pl^*^substral.
 ||grymel.pl^*^MHR_takeover_bg.
 ||gwarek.com.pl^*^uploads/a^
-||gwint24.pl^*_750x200.
 ||haker.nie-spamuj.eu/wiejskie.
 ||haszysz.com/images/banners^
 ||hifi.pl/anicss^
