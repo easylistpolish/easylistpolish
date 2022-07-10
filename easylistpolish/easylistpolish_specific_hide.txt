@@ -1664,7 +1664,6 @@ spottedalert.pl##div#mvp-leader-wrap
 gostynin.info##div#popup-billboard
 nowemiasto.com.pl##div#righttable a[title="komunikat"]
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
-cdpa.pl##div#shopuj
 opieka.farm##div._ning_zone_inner
 portalstoczniowy.pl##div.adsy
 lebork24.info##div.ai-viewport-1
