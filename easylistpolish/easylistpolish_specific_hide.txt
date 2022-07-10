@@ -461,7 +461,8 @@ raportkolejowy.pl##.ad_adInfo
 rrs24.net##.ad_img_baner_glowny
 polskielupki.pl##.ad_info
 grodzisknews.pl##.ad_suw_nad
-egryfino.pl##.ada
+egryfino.pl,gryfinska.pl##.ada
+gryfinska.pl##.ada-rwd
 rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
 stockwatch.pl##.adbloki-sroki
@@ -1535,6 +1536,7 @@ magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
+parcfer.me##a[href^="https://sportbetfan.pl/"]
 slasknet.com##a[href^="https://sprbt.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 pomorskifutbol.pl##a[href^="https://stsplaffiliates-api."]
@@ -1555,6 +1557,7 @@ przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
 swarzedz24.pl##a[href^="https://www.inea.pl/"]
 dieroten.pl,radiogol.pl,renaultlaguna.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
+kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
 radiobielsko.pl##a[href^="https://www.kubisa24.pl/"]
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
@@ -1617,6 +1620,8 @@ fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
 nowiny24.pl##article.contentStream
 pomorska.pl##article[class^="lista_content_stream_"]
+allegro.pl##article[data-analytics-view-label^="allegro.advertising.adspremium"]
+allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
 polski-tenis.pl##aside .plakat
 gorliczanin.pl##aside > section[id^="media_image-"]
@@ -1734,6 +1739,8 @@ makowonline.pl##div[data-adid]
 bithub.pl##div[data-adid] > a[href^="https://"]
 bielsko.info##div[data-ads-id]
 cafesenior.pl,medme.pl##div[data-adslot-id]
+allegro.pl##div[data-box-name^="AdsPremium"]
+allegro.pl##div[data-box-name^="pure_offers_ads"]
 wylecz.to##div[data-event="slotSeen"]
 wylecz.to##div[data-event="slotseen"]
 wylecz.to##div[data-evet="slotseen"]
@@ -1894,11 +1901,3 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-parcfer.me##a[href^="https://sportbetfan.pl/"]
-allegro.pl##article[data-analytics-view-label^="allegro.advertising.adspremium"]
-allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
-allegro.pl##div[data-box-name^="AdsPremium"]
-allegro.pl##div[data-box-name^="pure_offers_ads"]
-kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
-gryfinska.pl##.ada-rwd
-gryfinska.pl##.ada

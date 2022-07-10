@@ -477,6 +477,7 @@ inline__1_$domain=twojradom.pl
 ||infobusko.pl^*^gutek-kruk-
 ||infokatowice.pl^*^mniam-kosciuszki-
 ||inforiders.pl^*^tvp.berlin.
+||infotydzien.info^
 ||infotydzien.info^*^yj_piecemaker^
 ||infotydzien.info^*^zlotex^
 ||instalki.pl^*^banners/Vebo_
@@ -801,4 +802,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||infotydzien.info^
