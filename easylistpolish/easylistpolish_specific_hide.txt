@@ -969,7 +969,6 @@ radioandrychow.pl##.mradio-marketing
 panoramakutna.pl##.ms-slide-bgcont
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
-lokalna24.pl##.mw_aside.mw-57 iframe
 lokalna24.pl##.mw_aside.mw-67 iframe
 slowopodlasia.pl##.my-3 .tipad_tag + a
 olawa24.pl##.my-6
