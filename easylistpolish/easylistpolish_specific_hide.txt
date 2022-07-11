@@ -1620,7 +1620,6 @@ jaw.pl##aside div a > img
 podlaskie.tv##aside#secondary.widget-area
 nowy-sacz.info##aside#text-6
 walbrzyszek.com##aside.rpre_tlo
-losice.info##aside[class^="adni_widgets-"]
 rrs24.net##aside[id^="ai_widget-"]
 lubaczow.tv##aside[id^="custom_html-"]
 e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
