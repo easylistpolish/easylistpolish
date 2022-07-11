@@ -335,7 +335,7 @@ panoramakutna.pl###tdi_55
 vanessa.fm###text-10 div
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
-gazetalubliniecka.pl,love4tennis.pl,miastoiludzie.pl###text-11
+gazetalubliniecka.pl,miastoiludzie.pl###text-11
 dzierzgon.info.pl,ipulawy.pl,motorlublin.com,wiesci.com.pl,zzapolowy.com###text-12
 luckyhorse.pl###text-13
 wawernews.pl###text-131
