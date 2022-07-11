@@ -1246,7 +1246,7 @@ jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 walbrzyszek.com##.top5 a[href^="/zlicz/"]
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-bielskirynek.pl,kurierwysmaz.pl,lelow365.pl,lowiczanin.info,lubliniec365.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,niegowa365.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,poraj365.pl,portalplock.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+bielskirynek.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,niegowa365.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,poraj365.pl,portalplock.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
