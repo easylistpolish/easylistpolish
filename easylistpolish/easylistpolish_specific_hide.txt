@@ -1621,7 +1621,6 @@ allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
 polski-tenis.pl##aside .plakat
 gorliczanin.pl##aside > section[id^="media_image-"]
-linia.com.pl##aside a[href^="https://linia.com.pl/linkout/"]
 jaw.pl##aside div a > img
 podlaskie.tv##aside#secondary.widget-area
 nowy-sacz.info##aside#text-6
