@@ -1050,7 +1050,6 @@ tabletowo.pl##.rd_widget_text
 meblosfera.pl##.recommendation-panel-content
 podroze.se.pl##.refashionLayer
 epiotrkow.pl,infoserwiselk.pl,sport.lovekrakow.pl,tysol.pl,vidfile.net##.rek
-lubiehrubie.pl##.rek-text
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
