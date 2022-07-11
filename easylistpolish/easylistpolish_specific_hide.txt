@@ -889,7 +889,6 @@ v10.pl##.iwrap
 magazynit.pl##.jPanelModule
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
-lubiehrubie.pl##.jcarousel-container
 londynek.net##.jd-oaz-d
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
