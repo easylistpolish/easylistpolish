@@ -724,7 +724,6 @@ faktykonopne.pl##.code-block
 lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
 biznesalert.pl##.col-md-12
-lokalna24.pl##.col-md-12 div[style="overflow:hidden"] a:not([href^="https://www.lokalna24.pl/"])
 telefonowal.pl##.col-md-3.right > h4
 przepisy.pl##.col-sm-7
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
