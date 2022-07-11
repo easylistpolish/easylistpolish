@@ -913,7 +913,6 @@ szczecinek.com##.l-box--100 > div[align="center"]
 ototorun.pl##.l-box--100 > p > a[target="_self"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
 radiorodzina.pl##.left-large-ad
-lepiejbiegac.pl##.lepiej-content-3
 lepiejbiegac.pl##.lepiej-widget
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
