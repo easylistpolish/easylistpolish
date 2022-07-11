@@ -1907,3 +1907,4 @@ gol24.pl##.componentsPromotionsArticlePromotedList
 legionisci.com##.kd_ns_ads
 legionisci.com##.ad-billboard1
 jasnet.pl##[id^="metaslider-id-"]
+techmaniachd.pl###sidebar-right-1 a[href^="https://www.ceneo.pl/"]
