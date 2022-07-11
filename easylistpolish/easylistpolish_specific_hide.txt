@@ -919,7 +919,6 @@ wrzesnia.info.pl##.links
 open.fm##.listAdvSlot
 e-grajewo.pl##.logos-container
 lokalnyreporter.pl##.lokal-widget
-love4tennis.pl##.love4-adlabel ~ a
 lubiehrubie.pl##.lubie-widget
 jarmark.com.pl##.mMaterialRotator
 beskidnews.pl##.main-slider
