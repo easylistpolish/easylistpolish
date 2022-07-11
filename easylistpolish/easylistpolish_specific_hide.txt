@@ -1910,3 +1910,4 @@ jasnet.pl##[id^="metaslider-id-"]
 techmaniachd.pl###sidebar-right-1 a[href^="https://www.ceneo.pl/"]
 tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 to.com.pl##.adsSlotContainer
+faktykaliskie.info##.widget-advert_placement
