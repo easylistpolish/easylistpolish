@@ -1904,3 +1904,5 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 widzew24.pl##a[href^="http://www.iparts.pl/"]
 widzewtomy.net###left-sidebar .widget:nth-of-type(1)
 gol24.pl##.componentsPromotionsArticlePromotedList
+legionisci.com##.kd_ns_ads
+legionisci.com##.ad-billboard1
