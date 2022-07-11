@@ -385,7 +385,6 @@ rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
 zambrowiacy.pl###topbanner
-linia.com.pl###travel2
 silacze.org###tri-mot
 tygodnik.szczytno.pl###tygm_lewa
 prokuratura-zz.pl###ubezpieczenie-top
