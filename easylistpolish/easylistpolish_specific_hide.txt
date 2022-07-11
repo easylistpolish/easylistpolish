@@ -1182,7 +1182,6 @@ portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
 plotkibiznesowe.pl##.stream-item-above-header
 wzielonej.pl##.stream-item-below-post
-lpu24.pl##.stream-item-mag a:not([href*="lpu24.pl/"])
 wzielonej.pl##.stream-item-top-wrapper
 kurier-kolejowy.pl##.strefa_banerowa
 stressfree.pl##.stressfree_image_advert
