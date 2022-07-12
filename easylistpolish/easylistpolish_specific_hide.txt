@@ -168,6 +168,7 @@ spiz.pl###home-reklama
 kujawy.info###homepageUnderEightAds
 mjakmama24.pl###hook_box_top1
 kuriergarwolinski.pl###iFrameResizer1
+comparic.pl###icegram_messages_container
 trawka.org###ipsLayout_mainArea > a > img
 miasto.koszalin.pl###ja-banner
 tarnobrzeg.info###jedrus
@@ -181,6 +182,7 @@ przeglad-sejnenski.pl###kolRight .banerEl
 ospi.pl###lcol > div[style="text-align: center;"] > a
 szefur.pl###leader-large
 sportsiedlce.pl###leaderboard a > img[height="90"]
+widzewtomy.net###left-sidebar .widget:nth-of-type(1)
 oko.info.pl###leftAdv
 psy.pl###logo-partner
 czest.info###logo-title a[target="_blank"]
@@ -308,6 +310,7 @@ e-stargard.pl###sidebar video
 tucholanin.pl###sidebar-primary #text-14
 ifrancja.fr###sidebar-random-ads
 blogpress.pl###sidebar-right > div[id^="block-block-"]
+techmaniachd.pl###sidebar-right-1 a[href^="https://www.ceneo.pl/"]
 buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,nieruchomosci-bez-posrednikow.com.pl,nieruchomosci-komercyjne.info,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
 naszesudety.pl###slider2
 skarzysko24.pl###slider394
@@ -444,6 +447,7 @@ mistrzowie.org##.abox-view-content
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,mma.pl,mojabochnia.pl,nurkowapolska.pl,pclab.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,takze.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
 kazimierzdolny.pl##.ad--main
 pcworld.pl##.ad-bilbo2
+legionisci.com##.ad-billboard1
 moviesroom.pl##.ad-box
 biznesalert.pl,interia.pl,styl.fm##.ad-container
 promocja.mielec.pl##.ad-image
@@ -489,7 +493,7 @@ szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
 businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.adsSlotContainer
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,to.com.pl##.adsSlotContainer
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
@@ -728,6 +732,7 @@ przepisy.pl##.col-sm-7
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
+gol24.pl##.componentsPromotionsArticlePromotedList
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 comparic.pl##.container16,.container11
 comparic.pl##.containerRectangle
@@ -893,7 +898,7 @@ mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
 mgsm.pl##.karta-widget-prices
-24wspolnota.pl,antyauto.pl,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
+24wspolnota.pl,antyauto.pl,legionisci.com,prawdaobiektywna.pl,rmf24.pl,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
 expressbydgoski.pl,nczas.com,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 antyauto.pl##.kd_ns_placement
 typuje.pl##.kodbaner
@@ -1279,7 +1284,7 @@ esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
 prudnik24.pl##.widget-3
 lsw24.pl##.widget-ad-image
-slowopodlasia.pl##.widget-advert_placement
+faktykaliskie.info,slowopodlasia.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 40ton.net##.widget_adbaner_widget
@@ -1331,6 +1336,7 @@ turek.net.pl##[class*="l-banners-"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 skarzysko24.pl##[class="custom none"]
 kuriersuwalski.pl,panoramakutna.pl##[class="g g-1"]
+tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,rzg.pl,tygodnikkrag.pl##[class^="a-single a-"]
 ekoszalin.pl##[class^="advert"]
 deblinnews.pl##[class^="aligncenter wp-image-"]
@@ -1369,7 +1375,7 @@ deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
 raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 budoskop.pl##[id^="mediaContent"]
-panoramakutna.pl##[id^="metaslider-id-"]
+jasnet.pl,panoramakutna.pl##[id^="metaslider-id-"]
 forumzabki.pl##[id^="rek_rozwijana_bh"]
 forumzabki.pl##[id^="reklama"]
 grojec24.net##[id^="reklama-"]
@@ -1458,6 +1464,7 @@ chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
 telewizjarepublika.pl,walbrzyszek.com##a[href^="http://www.czesciauto24.pl"]
 polski-sport.pl,wterenie.pl##a[href^="http://www.czesciauto24.pl/"]
 elbi.pl##a[href^="http://www.et-media.pl"]
+widzew24.pl##a[href^="http://www.iparts.pl/"]
 wawernews.pl##a[href^="http://www.kbprojekt.pl/"]
 glogow-info.pl##a[href^="http://www.koparka-darnet.pl/"]
 glostorunia.pl##a[href^="http://www.krakvet.pl/"]
@@ -1879,15 +1886,3 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-widzew24.pl##a[href^="http://www.iparts.pl/"]
-widzewtomy.net###left-sidebar .widget:nth-of-type(1)
-gol24.pl##.componentsPromotionsArticlePromotedList
-legionisci.com##.kd_ns_ads
-legionisci.com##.ad-billboard1
-jasnet.pl##[id^="metaslider-id-"]
-techmaniachd.pl###sidebar-right-1 a[href^="https://www.ceneo.pl/"]
-tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
-to.com.pl##.adsSlotContainer
-faktykaliskie.info##.widget-advert_placement
-tvsudecka.pl##[class="text-center my-3 container"]
-comparic.pl###icegram_messages_container
