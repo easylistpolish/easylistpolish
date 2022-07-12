@@ -729,7 +729,6 @@ inline__1_$domain=twojradom.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
 ||supernowosci24.pl^*^decoeco2.
-||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||sychar.org^*^tolle-wide-
