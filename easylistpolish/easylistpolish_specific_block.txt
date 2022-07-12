@@ -1,4 +1,3 @@
--300x125.$domain=naszerecenzje.wordpress.com
 -300x400.$domain=polacywewloszech.com
 -728x82.$domain=plportal.pl
 -970x250.$domain=plportal.pl
