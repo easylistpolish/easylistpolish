@@ -1,4 +1,3 @@
--300x400.$domain=polacywewloszech.com
 -728x82.$domain=plportal.pl
 -970x250.$domain=plportal.pl
 -ad-$domain=myerp.pl|tuhiszpania.pl
