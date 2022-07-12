@@ -1,4 +1,3 @@
--970x250.$domain=plportal.pl
 -ad-$domain=myerp.pl|tuhiszpania.pl
 -ad.$domain=konstancinjeziorna-news.pl|wilanownews.pl
 -baner-$domain=automotivesuppliers.pl|budownictwo.co|dietetycy.org.pl|dwakwadranse.pl|firmy.meblarstwo.eu|genetyczne.pl|gramwzielone.pl|infobusko.pl|konflikty.pl|kurier-lokalny.com|meblarskapolska.pl|meblosfera.pl|miastokobiet.pl|mysnet.pl|obiektysakralne.pl|opowiecie.info|ostrodanews.pl|panoramakutna.pl|powrotroberta.pl|prostoomuzyce.pl|radiobiper.info|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|sulecin24.pl|sweetwedding.pl|tapicerstwo.co|tkaninyobiciowe.eu|tkn24.pl|tygodnikpiski.pl|wszystkookotach.pl
