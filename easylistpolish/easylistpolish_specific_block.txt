@@ -1,5 +1,4 @@
 -1200x200.$domain=popradio.pl
--262x700px.$domain=wirtualnekosmetyki.pl
 -300x125.$domain=naszerecenzje.wordpress.com
 -300x400.$domain=polacywewloszech.com
 -728x82.$domain=plportal.pl
