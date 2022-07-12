@@ -1890,3 +1890,4 @@ tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 to.com.pl##.adsSlotContainer
 faktykaliskie.info##.widget-advert_placement
 tvsudecka.pl##[class="text-center my-3 container"]
+comparic.pl###icegram_messages_container
