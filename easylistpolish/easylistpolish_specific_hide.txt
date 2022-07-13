@@ -225,7 +225,6 @@ toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
-m.joemonster.org###middleRect
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
 slonskyradio.eu###n2-ss-4-align
