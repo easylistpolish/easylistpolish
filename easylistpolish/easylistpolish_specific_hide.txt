@@ -1854,7 +1854,6 @@ nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,polska
 o2.pl#?#div:-abp-has(> img[data-testid^="ad-placeholder-"])
 o2.pl#?#div:-abp-properties(box-sizing: content-box;):-abp-has(a > div)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
-magazif.com##p[data-banner]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 poscigi.pl##rs-slides
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
