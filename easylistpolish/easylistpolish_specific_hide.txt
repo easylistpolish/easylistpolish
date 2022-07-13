@@ -23,7 +23,6 @@ onetech.pl###ad
 dieroten.pl###ad-sts-top
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
-mamotoja.pl###adl-placement-0-wrapper
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
