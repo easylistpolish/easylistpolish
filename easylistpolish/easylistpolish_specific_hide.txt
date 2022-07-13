@@ -1509,7 +1509,6 @@ ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
 dts24.pl##a[href^="https://pl.jooble.org/"]
 polskatradycja.pl##a[href^="https://pln.tgm."]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
-magazyngitarzysta.pl##a[href^="https://shop.fender.com/"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
