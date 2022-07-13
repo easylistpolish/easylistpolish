@@ -820,7 +820,6 @@ lubartow24.pl##.gazetka-box
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 gorzow24.pl##.gml
-magazyn.elubin.pl##.gofollow[data-track]
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
