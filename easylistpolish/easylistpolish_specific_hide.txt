@@ -1378,7 +1378,6 @@ pch24.pl##a > img[width="1340"][height="300"]
 zegocina.in##a [id^="banner"]
 nowawrzesnia.pl##a.vc_box_border_grey
 kierunekchemia.pl,kierunekenergetyka.pl,kierunekfarmacja.pl,kierunekkosmetyki.pl,kierunekpompy.pl,kierunekspozywczy.pl,kieruneksurowce.pl,kierunekwodkan.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
-meblosfera.pl##a:not([href*="osfera."]) > img[alt^="Advertise"]
 grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
 nowinynyskie.com.pl##a:not([href^="https://nowinynyskie.com.pl/"]) img[width="370"]
 perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
