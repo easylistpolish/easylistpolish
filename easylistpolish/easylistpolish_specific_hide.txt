@@ -1549,7 +1549,6 @@ siechnice.com.pl##a[onclick*="'Banner'"]
 musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
-menshealth.pl##a[onclick*="welcompage-reklama"]
 swiatdronow.pl##a[onclick^="ga('send'"]
 elektroda.pl##a[onclick^="ga('send'"]:not([href^="https://www.elektroda."])
 grodzisknews.pl##a[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
