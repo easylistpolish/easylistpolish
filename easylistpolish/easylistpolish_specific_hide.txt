@@ -1219,7 +1219,7 @@ bialogardinfo.pl##.theiaStickySidebar .g-dyn
 sportdziennik.com##.theiaStickySidebar > .sport-widget
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
-maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
+meblarskapolska.pl##.tm-promt-image
 weszlo.com##.top-adw
 egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
 tyna.info.pl##.top-bar-content a
