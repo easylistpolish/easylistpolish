@@ -406,7 +406,6 @@ magazynt3.pl###zox-lead-top
 sprzedajemy.pl##.AdsAds_
 optykamysliwska.pl##.AdvAnnouncements
 turek.net.pl##.BanerP
-medonet.pl##.Block-Banner
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
