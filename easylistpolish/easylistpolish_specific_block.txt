@@ -1,7 +1,6 @@
 -ad-$domain=tuhiszpania.pl
 -baner-$domain=budownictwo.co|firmy.meblarstwo.eu|infobusko.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
 -baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|wirtualnyzgierz.pl|wolanie.info
--baner2021.$domain=rowery.org
 -baner728.$domain=nieruchomosci-komercyjne.info|ogloszenia-nieruchomosci.info
 -baner_$domain=kk24.pl|my3miasto.pl|nolesnica.pl|nowagazeta.pl|regionfan.pl
 -banerek-$domain=goleniowska.com
