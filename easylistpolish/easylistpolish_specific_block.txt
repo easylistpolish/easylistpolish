@@ -1,15 +1,6 @@
--1140x250px.$domain=wirtualnekosmetyki.pl
--1200x200.$domain=popradio.pl
--262x700px.$domain=wirtualnekosmetyki.pl
--300x125.$domain=naszerecenzje.wordpress.com
--300x400.$domain=polacywewloszech.com
--728x82.$domain=plportal.pl
--970x250.$domain=plportal.pl
--ad-$domain=myerp.pl|tuhiszpania.pl
--ad.$domain=konstancinjeziorna-news.pl|wilanownews.pl
--baner-$domain=automotivesuppliers.pl|budownictwo.co|dietetycy.org.pl|dwakwadranse.pl|firmy.meblarstwo.eu|genetyczne.pl|gramwzielone.pl|infobusko.pl|konflikty.pl|kurier-lokalny.com|meblarskapolska.pl|meblosfera.pl|miastokobiet.pl|mysnet.pl|obiektysakralne.pl|opowiecie.info|ostrodanews.pl|panoramakutna.pl|powrotroberta.pl|prostoomuzyce.pl|radiobiper.info|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|sulecin24.pl|sweetwedding.pl|tapicerstwo.co|tkaninyobiciowe.eu|tkn24.pl|tygodnikpiski.pl|wszystkookotach.pl
--baner.$domain=blogprezesa.pl|brzeg24.pl|buduj-remontuj-urzadzaj.pl|businesstraveller.pl|crypto-trader.pl|czest.info|dzisiajwgliwicach.pl|genetyczne.pl|gloskoninski.pl|ibialoleka.pl|ipulawy.pl|jaw.pl|kociewie.online|lekarze-gabinety.pl|lwowecki.info|magazynfakty.pl|maksymalnie.pl|masztu.pl|mazopolska.pl|miejskieinfo.pl|moto-oto.pl|napoli24h.pl|nowagazeta.pl|ospi.pl|oto-slub.pl|pgo24.pl|przeclaw24.pl|rdn.pl|sokolka.tv|sulecin24.pl|twojaslupca.pl|tygodnikkrag.pl|wirtualnyzgierz.pl|wkatalog.pl|wolanie.info|zielonanews.pl
--baner2021.$domain=rowery.org
+-ad-$domain=tuhiszpania.pl
+-baner-$domain=budownictwo.co|firmy.meblarstwo.eu|infobusko.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
+-baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|wirtualnyzgierz.pl|wolanie.info
 -baner728.$domain=nieruchomosci-komercyjne.info|ogloszenia-nieruchomosci.info
 -baner_$domain=kk24.pl|my3miasto.pl|nolesnica.pl|nowagazeta.pl|regionfan.pl
 -banerek-$domain=goleniowska.com
@@ -197,7 +188,7 @@ _ban_$domain=glos.live
 _baner%$domain=transg.pl
 _baner-$domain=nowytydzien.pl|przewodnicywedkarscy.pl
 _baner.$domain=112malopolska.pl|112wadowice.pl|gazetagazeta.com|hafija.pl|iknurow.pl|kociesprawy.pl|mojapsychologia.pl|nasz-glos.com|oirplodz.pl|osowa24.pl|polacywewloszech.com|polonia.nl|pozatorun.pl|przysucha.informator-lokalny.pl|ptvr.pl|radomsport.pl|regionalna.pl|sww.w.szu.pl
-_baner_$domain=bialogardinfo.pl|biegologia.pl|bmw-klub.pl|ccifp.pl|chemiaibiznes.com.pl|dogosfera.pl|forum-norwegia.pl|gazetagazeta.com|genetyczne.pl|grapplerinfo.pl|inthecage.pl|kuriergarwolinski.pl|kuriersuwalski.pl|laboratoria.net|marketinvest.pl|meblosfera.pl|my3miasto.pl|obiektysakralne.pl|podlaskie24.pl|poloniahannover.de|poscigi.pl|radomsport.pl|regionalna.pl|rzeszow-news.pl|sbiegacza.pl|sokolka.tv|staraoliwa.pl|starosadeckie.info|stolarkabudowlana.eu|takze.pl|wdrawskupomorskim.pl|wirtualnekosmetyki.pl|xlomza.pl
+_baner_$domain=bialogardinfo.pl|biegologia.pl|bmw-klub.pl|ccifp.pl|chemiaibiznes.com.pl|dogosfera.pl|forum-norwegia.pl|gazetagazeta.com|genetyczne.pl|grapplerinfo.pl|inthecage.pl|kuriergarwolinski.pl|kuriersuwalski.pl|laboratoria.net|marketinvest.pl|meblosfera.pl|my3miasto.pl|obiektysakralne.pl|podlaskie24.pl|poloniahannover.de|poscigi.pl|radiotczew.pl|radomsport.pl|regionalna.pl|rzeszow-news.pl|sbiegacza.pl|sokolka.tv|staraoliwa.pl|starosadeckie.info|stolarkabudowlana.eu|takze.pl|wdrawskupomorskim.pl|wirtualnekosmetyki.pl|xlomza.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banery_$domain=automotivesuppliers.pl
@@ -737,7 +728,6 @@ inline__1_$domain=twojradom.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
 ||supernowosci24.pl^*^decoeco2.
-||sweetwedding.pl^*-290x290.
 ||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||sychar.org^*^tolle-wide-
@@ -802,4 +792,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_baner_$domain=radiotczew.pl
