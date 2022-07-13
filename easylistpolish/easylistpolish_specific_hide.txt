@@ -1889,3 +1889,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 sweetwedding.pl##.ecrosio-header-slider
 wirtualnekosmetyki.pl##img[alt*=" baner szeroki "]
 panoramakutna.pl##a[href^="http://kominki.kutno.pl"] img
+sokolka.tv###jm-content-top
