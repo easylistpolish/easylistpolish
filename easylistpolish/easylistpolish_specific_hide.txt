@@ -1206,7 +1206,6 @@ sochaczewianin.pl##.td_block_wrap .td-a-rec
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 sulecin24.pl##.td_rec > .td_mod_wrap > img
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
-maratonypolskie.pl##.tekst > center > #menu2
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
 tvgorzow.pl##.testimonial_rotator_slide
