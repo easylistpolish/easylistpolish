@@ -1096,7 +1096,6 @@ radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 tromil.pl##.rotator-ceneo
 mojanorwegia.pl##.row.single > a[target="_blank"]
 nowawrzesnia.pl##.rs-advertisement
-magazynit.pl##.rstbox
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
 pracaikariera.pl,studentnews.pl##.s_dodatkowa font[size="5"]
