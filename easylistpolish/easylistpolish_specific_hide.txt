@@ -1227,7 +1227,7 @@ odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 maszynydlameblarstwa.pl,meblarskapolska.pl##.tm-promt-image
 weszlo.com##.top-adw
-egzotycznaturystyka.pl,magazynbieganie.pl,pulsmiasta.tv##.top-banner
+egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
 tyna.info.pl##.top-bar-content a
 ortograf.pl##.top-billboard
 ifrancja.fr##.top-main-ads
