@@ -1001,7 +1001,6 @@ pomorska.pl##.partner
 naszraciborz.pl##.partner_next
 ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
-majsterkowo.pl##.patronpod
 okazjepodroznika.pl##.penci-banner-box
 oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 nysahot.pl##.penci-featured-ct
