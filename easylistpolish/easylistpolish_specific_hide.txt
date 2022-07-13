@@ -644,7 +644,7 @@ niedziela.nl##.banneritem_
 e-stargard.pl,informacjelodzkie.pl,megatiming.pl,oswieciminfo.pl,otososnowiec.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
 rzeszowairport.pl##.banners-content
 ogloszenia-nieruchomosci.info##.banners-mainpage
-glospedagogiczny.pl,magazyn-ecommerce.pl##.bannersm
+glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
 taternik.org##.bantitle
