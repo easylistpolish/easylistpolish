@@ -1277,7 +1277,7 @@ superportal24.pl##.widget_article
 wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 wirtualnyregion.pl##.widget_cyclone-slider-widget
 kurier-nakielski.pl,nowawrzesnia.pl##.widget_media_image
-budownictwo.co,meblarstwo.eu,narzedziapolska.pl,obrabiarkidodrewna.eu,tapicerstwo.co##.widget_media_image > h2 + a[rel]
+budownictwo.co,narzedziapolska.pl,obrabiarkidodrewna.eu,tapicerstwo.co##.widget_media_image > h2 + a[rel]
 wcj24.pl##.widget_metaslider_widget
 superportal24.pl##.widget_no_mobile
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
