@@ -340,7 +340,7 @@ tarnobrzeskie.eu,trybawaryjny.pl,tur-tur.pl###text-19
 foteleobrotowe.com.pl,kcynia.info,mistrzostwaswiata.pl,olalalchf.pl,panoramakutna.pl,wilanownews.pl###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
-gazetaklobucka.pl,medycznamarihuana.com,tarnow.in###text-21
+gazetaklobucka.pl,tarnow.in###text-21
 medycznamarihuana.com,piast.gliwice.pl,tarnobrzeskie.eu,zycieolsztyna.pl###text-22
 wiesci.com.pl###text-23
 piast.gliwice.pl###text-26
