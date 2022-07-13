@@ -1104,7 +1104,7 @@ gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl,ok24.tv##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
-medycyna24.pl,money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
+money.pl,nerwica.com,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 mragowo24.info##.show-adv
 motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
