@@ -71,7 +71,6 @@ domy.pl###bb-ad-inline-2
 domy.pl###bb-banner-top
 mapa.targeo.pl###bblbrd_outer
 otouczelnie.pl###belka
-mecze24.pl###bg
 bosonamacie.pl###big-wrapper
 tychy.pl###bilboard_970x90
 ftb.pl###billboard
