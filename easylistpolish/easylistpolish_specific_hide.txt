@@ -1156,7 +1156,7 @@ tygodnikpiski.pl##.small-12 center a
 infotydzien.info##.span3
 infotydzien.info##.span9
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
-mapa.info,odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
+odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
 cybersport.pl##.sponsor
 mybank.pl,portalplock.pl,zielonyogrodek.pl##.sponsored
