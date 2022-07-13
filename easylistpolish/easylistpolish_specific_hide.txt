@@ -305,7 +305,7 @@ e-stargard.pl###sidebar video
 tucholanin.pl###sidebar-primary #text-14
 ifrancja.fr###sidebar-random-ads
 blogpress.pl###sidebar-right > div[id^="block-block-"]
-buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,nieruchomosci-bez-posrednikow.com.pl,nieruchomosci-komercyjne.info,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
+buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,nieruchomosci-bez-posrednikow.com.pl,nieruchomosci-komercyjne.info,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
 naszesudety.pl###slider2
 skarzysko24.pl###slider394
 legnica.fm###sliderbanner1
