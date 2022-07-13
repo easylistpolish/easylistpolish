@@ -881,7 +881,6 @@ gazzettaitalia.pl##.irw-widget
 ostrodaflesz.pl##.islemag_single_ad
 sadownictwo.com.pl##.isotopeGrid-item .edcwidgetAnhor
 v10.pl##.iwrap
-magazynit.pl##.jPanelModule
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
 londynek.net##.jd-oaz-d
