@@ -308,7 +308,6 @@ dobretargi.pl,nowymagazyn.pl###slideshow_xl
 swinoujskie.info###snppopup-welcome
 wydawca.com.pl###sow-slider-20
 wydawca.com.pl###sow-slider-22
-mosir.ostrowiec.pl###sp-banery
 wysokomazowiecki24.pl###sp-reklamatop
 wysokomazowiecki24.pl###sp-top-bar
 mosir.ostrowiec.pl###sp-user7
