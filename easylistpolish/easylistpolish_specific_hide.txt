@@ -1687,6 +1687,9 @@ bithub.pl##div[data-adid] > a[href^="https://"]
 bielsko.info##div[data-ads-id]
 cafesenior.pl##div[data-adslot-id]
 allegro.pl##div[data-box-name^="AdsPremium"]
+allegro.pl##div[data-box-name^="allegro.advertising.adspremium.premiumad"]
+allegro.pl##div[data-box-name^="leftpanel_ads"]
+allegro.pl##div[data-box-name^="premium.with.dfp"]
 allegro.pl##div[data-box-name^="pure_offers_ads"]
 wylecz.to##div[data-event="slotSeen"]
 wylecz.to##div[data-event="slotseen"]
@@ -1842,3 +1845,10 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+mazopolska.pl###posts-banner
+gloskoninski.pl##[id^="media_image-"]
+gloskoninski.pl###block-26
+dzisiajwgliwicach.pl##div[class^="g-single a-"]
+polacywewloszech.com###text-17
+infobusko.pl###text-2
+sokolka.tv###jm-right

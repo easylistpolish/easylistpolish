@@ -792,3 +792,13 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+_banery_$domain=stolarkabudowlana.eu
+_banner_$domain=stolarkabudowlana.eu
+||jaw.pl^*^autobanasikbaner_
+^banner_$domain=polacywewloszech.com
+^baner_$domain=polacywewloszech.com
+-banner-$domain=dwakwadranse.pl
+-banner-$domain=infobusko.pl
+-reklama-$domain=ostrodanews.pl
+_baner_$domain=ostrodanews.pl
+_ban.$domain=radomsport.pl
