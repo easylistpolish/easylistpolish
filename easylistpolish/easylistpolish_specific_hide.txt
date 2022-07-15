@@ -1151,7 +1151,6 @@ haloursynow.pl##.spons
 cybersport.pl##.sponsor
 mybank.pl,portalplock.pl,zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
-mojanorwegia.pl##.sponsoredbox_sidebar
 chodzezkijami.pl##.sponsors
 osp.com.pl##.sponsors-wrapper
 gazeta.myslenice.pl##.spot
