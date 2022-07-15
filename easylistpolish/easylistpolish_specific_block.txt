@@ -795,3 +795,5 @@ inline__1_$domain=twojradom.pl
 _banery_$domain=stolarkabudowlana.eu
 _banner_$domain=stolarkabudowlana.eu
 ||jaw.pl^*^autobanasikbaner_
+^banner_$domain=polacywewloszech.com
+^baner_$domain=polacywewloszech.com
