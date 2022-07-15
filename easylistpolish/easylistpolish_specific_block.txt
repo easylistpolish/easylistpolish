@@ -798,3 +798,4 @@ _banner_$domain=stolarkabudowlana.eu
 ^banner_$domain=polacywewloszech.com
 ^baner_$domain=polacywewloszech.com
 -banner-$domain=dwakwadranse.pl
+-banner-$domain=infobusko.pl
