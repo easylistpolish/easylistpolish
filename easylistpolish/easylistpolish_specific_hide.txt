@@ -674,7 +674,6 @@ queer.pl##.box-adv
 futbolnews.pl##.box-banner
 sportowememy.pl##.box-entertainment
 wprost.pl##.box-list-item-recommendation-content-stream
-morzaioceany.pl##.box-reklamy
 spidersweb.pl##.box-specjalna
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 stockwatch.pl##.box0b
