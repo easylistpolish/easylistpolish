@@ -522,7 +522,6 @@ zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
 przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
-mojanorwegia.pl##.advertisment-info
 edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
