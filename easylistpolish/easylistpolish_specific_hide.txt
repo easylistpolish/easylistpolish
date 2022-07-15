@@ -1875,3 +1875,4 @@ gloskoninski.pl###block-26
 dzisiajwgliwicach.pl##div[class^="g-single a-"]
 polacywewloszech.com###text-17
 infobusko.pl###text-2
+sokolka.tv###jm-right
