@@ -1819,7 +1819,7 @@ opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 pzhkiperybnik.vgh.pl##marquee
-money.pl,pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
+pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
 motofakty.pl#?#.contentStreamLink:-abp-has(.kd_ns_sponsored)
 nerwica.com,open.fm,money.pl,o2.pl,wp.pl,parenting.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nto.pl,poranny.pl,polskatimes.pl,nowosci.com.pl,pomorska.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
