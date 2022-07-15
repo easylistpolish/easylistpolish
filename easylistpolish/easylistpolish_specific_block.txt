@@ -794,3 +794,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niezalezna.
 _banery_$domain=stolarkabudowlana.eu
 _banner_$domain=stolarkabudowlana.eu
+||jaw.pl^*^autobanasikbaner_
