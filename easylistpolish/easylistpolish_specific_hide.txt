@@ -239,7 +239,6 @@ planeteplus.pl###planeteplus-add-1
 informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
-mkspolonia.com###pomagajaslider
 betonline.net.pl,wyspiarzniebieski.pl###popup
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl###popupContainer
