@@ -337,7 +337,7 @@ naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.p
 smartage.pl###text-17
 tkn24.pl,winterszus.pl###text-18
 tarnobrzeskie.eu,trybawaryjny.pl,tur-tur.pl###text-19
-foteleobrotowe.com.pl,kcynia.info,mistrzostwaswiata.pl,olalalchf.pl,panoramakutna.pl,wilanownews.pl###text-2
+foteleobrotowe.com.pl,kcynia.info,olalalchf.pl,panoramakutna.pl,wilanownews.pl###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
