@@ -792,3 +792,5 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+_banery_$domain=stolarkabudowlana.eu
+_banner_$domain=stolarkabudowlana.eu
