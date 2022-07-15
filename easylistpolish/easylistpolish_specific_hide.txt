@@ -104,7 +104,6 @@ o.pl###button-czynszowy
 wspolnota.org.pl###c325
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
-mgsm.pl###ceneo
 centrummedyczne-przyjazna.pl###column
 olsztyn24.com###contener_billboard
 lesko.info###content > center > a[target="_blank"]
