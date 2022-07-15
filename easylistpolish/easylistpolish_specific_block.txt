@@ -799,3 +799,5 @@ _banner_$domain=stolarkabudowlana.eu
 ^baner_$domain=polacywewloszech.com
 -banner-$domain=dwakwadranse.pl
 -banner-$domain=infobusko.pl
+-reklama-$domain=ostrodanews.pl
+_baner_$domain=ostrodanews.pl
