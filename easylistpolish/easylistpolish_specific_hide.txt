@@ -1645,7 +1645,6 @@ dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl,tsl-biz
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
 lajty.pl##div[class^="adace_ad_"]
-mojlask.pl##div[class^="ads"]
 ulub.pl##div[class^="ads_"]
 astrona.pl##div[class^="adsense"]
 realizator.pl##div[class^="advert"]
