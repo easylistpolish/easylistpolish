@@ -1758,7 +1758,6 @@ teraz-wilanow.pl##div[id^="rev_slider_1"]
 teraz-wilanow.pl##div[id^="rev_slider_2_"]
 rydzyna24.pl##div[id^="rydzy-"]
 kurierostrowiecki.pl##div[id^="sad_"]
-miastokolobrzeg.pl##div[id^="sp-reklama-"]
 jagodnik.pl##div[id^="spu-"]
 tabletowo.pl##div[id^="table-"] > .table-adlabel + a
 tabletowo.pl##div[id^="table-"] > .table-adlabel + div
