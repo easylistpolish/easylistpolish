@@ -801,3 +801,4 @@ _banner_$domain=stolarkabudowlana.eu
 -banner-$domain=infobusko.pl
 -reklama-$domain=ostrodanews.pl
 _baner_$domain=ostrodanews.pl
+_ban.$domain=radomsport.pl
