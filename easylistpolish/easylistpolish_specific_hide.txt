@@ -1741,7 +1741,6 @@ agropolska.pl##div[id^="mediaContent"]
 lesko.info##div[id^="media_image-"]
 nowytygodniklobeski.pl##div[id^="media_image-"] a > img
 tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
-mojadieta.pl##div[id^="metaslider-id-"]
 zawiercianskie.pl##div[id^="metaslider_"]
 capuccino.eu##div[id^="n2-ss-"]
 kurierzamojski.pl##div[id^="nowyk-"]
