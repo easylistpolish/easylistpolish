@@ -144,7 +144,6 @@ mojabudowa.pl###footerReklamyIgn
 telewizja.lukow.pl###frontpage-area_a_3
 telewizja.lukow.pl###frontpage-area_b_2
 pozatorun.pl,tylkotorun.pl###fsp_light
-minskmaz.com###g-a-s
 naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
 spottedskarzysko.pl###gkMainbodyTop
