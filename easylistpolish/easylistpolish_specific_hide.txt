@@ -1872,3 +1872,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 mazopolska.pl###posts-banner
 gloskoninski.pl##[id^="media_image-"]
 gloskoninski.pl###block-26
+dzisiajwgliwicach.pl##div[class^="g-single a-"]
