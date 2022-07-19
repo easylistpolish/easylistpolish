@@ -480,7 +480,6 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
-naszraciborz.pl##.adsense_title
 tustolica.pl##.adslot_top
 cgm.pl,historykon.pl,mtv24.tv,neosite.pl,onet.pl,pogonszczecin.pl,propertynews.pl,vegespot.pl,weszlo.com##.adv
 nowezyciepabianic.pl##.adv--above-news
