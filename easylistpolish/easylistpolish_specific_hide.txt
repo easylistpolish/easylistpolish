@@ -1278,7 +1278,6 @@ nowawrzesnia.pl##.wpb_images_carousel
 okraglemiasto.pl##.wpb_left-to-right
 noweinfo.pl##.wpb_text_column img[width="300"]
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
-naszamlawa.pl##.wprss_ajax
 polanddaily.com##.wrapper img[style^="margin-bottom: 20px; max-width: 750px;"]
 wbaziefirm.pl##.wrapper-flash
 poradnikhandlowca.com.pl##.yReklamy
