@@ -62,7 +62,6 @@ o.pl###banner-czynszowy
 suwalki.info###banner-standard
 przemysl24.pl###banner-top
 dkl24.pl###banner10
-nadzagozdzonka.pl###banner_wrap
 info-net.com.pl,tvkstella.pl###banners
 dostawczaki.pl###banners-section
 drhtv.com.pl###bannertop
