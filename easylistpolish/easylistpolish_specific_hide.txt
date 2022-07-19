@@ -691,7 +691,6 @@ sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
 whitemad.pl##.cb-contents
-nasze.fm##.clearfix + h6 + a
 kramik.pl##.click-banner
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
 mmanews.pl##.clickableBlock
