@@ -1141,7 +1141,7 @@ eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
 odleglosci.info,procesor.pl,rozmiar.com,speedwaynews.pl,trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
 cybersport.pl##.sponsor
-mybank.pl,portalplock.pl,zielonyogrodek.pl##.sponsored
+portalplock.pl,zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
 osp.com.pl##.sponsors-wrapper
