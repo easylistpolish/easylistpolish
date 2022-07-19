@@ -153,7 +153,6 @@ przegladkoninski.pl###head_advertise
 tkn24.pl###header + center
 mazopolska.pl,planowaniewesela.pl###header-banner
 gdanskstrefa.com,nowezyciepabianic.pl,zwiedzamyparyz.pl###header-right-section
-my3miasto.pl###headerBanner
 e-grajewo.pl###headpartnership
 spiz.pl###home-reklama
 kujawy.info###homepageUnderEightAds
