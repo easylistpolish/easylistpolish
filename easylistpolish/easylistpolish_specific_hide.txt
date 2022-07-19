@@ -687,7 +687,6 @@ infoserwiselk.pl##.btop
 ki24.info##.bvideo
 naszahuta.pl##.c-banners
 terazostroleka.pl##.c-content__adv
-nasygnale.com.pl##.card > a[target="_blank"]
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
