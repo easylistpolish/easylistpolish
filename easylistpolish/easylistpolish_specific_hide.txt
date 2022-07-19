@@ -1215,7 +1215,7 @@ bielskirynek.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,naszradziejow.pl,nie
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
-narew.info,naszrynek.pl,portalpomorza.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
+naszrynek.pl,portalpomorza.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
 slaskiesiemianowice.pl##.trzyreklamy
