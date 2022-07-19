@@ -976,7 +976,6 @@ facetpo40.pl##.oxad-image
 nieznanyswiat.pl##.page-masthead
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 pomorska.pl##.partner
-naszraciborz.pl##.partner_next
 ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
 okazjepodroznika.pl##.penci-banner-box
