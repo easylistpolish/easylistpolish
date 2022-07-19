@@ -949,7 +949,7 @@ fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
-naszraciborz.pl,naszwodzislaw.com##.news_box_google
+naszwodzislaw.com##.news_box_google
 naszraciborz.pl,naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
 gazetaostrowska.pl##.nivoSlider
