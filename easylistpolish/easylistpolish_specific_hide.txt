@@ -634,7 +634,7 @@ infoludek.pl##.banneryflex
 taternik.org##.bantitle
 taternik.org##.bantitle + a
 kt24.pl##.bar-container
-naszrybnik.com,naszwodzislaw.com##.bazarek
+naszwodzislaw.com##.bazarek
 komercyjne.pl##.bb-ad-outer
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
