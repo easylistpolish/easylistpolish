@@ -950,7 +950,7 @@ budosfera.eu,budowlanematerialy.eu,budownictwo.co,forumfirm.eu,kuchniosfera.pl,m
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
 naszwodzislaw.com##.news_box_google
-naszraciborz.pl,naszwodzislaw.com##.news_box_reklama
+naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
 gazetaostrowska.pl##.nivoSlider
 networkmagazyn.pl##.nmSectionBanner
