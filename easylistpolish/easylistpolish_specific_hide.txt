@@ -1001,7 +1001,7 @@ swidnik.pl##.ppsPopupShell
 radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
 wnet.fm##.prom-block
-mmo24.pl,nf.pl##.promo
+mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 ewejsciowki.pl##.promo-container
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
