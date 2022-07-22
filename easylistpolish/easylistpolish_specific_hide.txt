@@ -1596,7 +1596,6 @@ przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_b
 e-kg.pl##div.l-ad-top
 realizator.pl##div.m-advert
 speedtest.pl##div.mb-4
-niezalezna.pl##div.prenumerata-banner
 elbi.pl##div.reklama_przycisk
 starnowa.tv,tydzien.net.pl##div.td-a-rec
 gizycko.info##div.td-category-pos-above
