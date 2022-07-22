@@ -297,7 +297,7 @@ tucholanin.pl###sidebar-primary #text-14
 ifrancja.fr###sidebar-random-ads
 blogpress.pl###sidebar-right > div[id^="block-block-"]
 techmaniachd.pl###sidebar-right-1 a[href^="https://www.ceneo.pl/"]
-buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,nieruchomosci-komercyjne.info,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
+buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
 naszesudety.pl###slider2
 skarzysko24.pl###slider394
 legnica.fm###sliderbanner1
