@@ -481,7 +481,7 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 news-sport.pl##.adscounter
 pl.hospitalby.com##.adsense
 tustolica.pl##.adslot_top
-cgm.pl,historykon.pl,mtv24.tv,neosite.pl,onet.pl,pogonszczecin.pl,propertynews.pl,vegespot.pl,weszlo.com##.adv
+cgm.pl,historykon.pl,mtv24.tv,onet.pl,pogonszczecin.pl,propertynews.pl,vegespot.pl,weszlo.com##.adv
 nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl##.adv--next-logo
 nowezyciepabianic.pl##.adv--top
