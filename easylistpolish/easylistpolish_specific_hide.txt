@@ -971,7 +971,6 @@ stefczyk.info##.our-sites-links
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
 facetpo40.pl##.oxad-image
-nieznanyswiat.pl##.page-masthead
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 pomorska.pl##.partner
 ipleszew.pl##.partners2
