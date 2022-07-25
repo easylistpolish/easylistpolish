@@ -957,7 +957,6 @@ tko.pl##.oln-desktop_a
 tko.pl##.oln-sticky
 e-szczuczyn.pl##.one-1 .post-content
 okkolobrzeg.pl##.ot-home-block
-olx.pl##.otokredytbox
 stefczyk.info##.our-sites-links
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
