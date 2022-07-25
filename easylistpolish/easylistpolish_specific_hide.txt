@@ -1,6 +1,5 @@
 money.pl###ADrail
 portalpszczelarski.pl###AdBig
-oknonet.pl###AdSmall
 signs.pl###BD
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
