@@ -1638,7 +1638,7 @@ filmweb.pl##div[class^="fa faBar"]
 oswiecim112.pl,swiatmotocykli.pl##div[class^="g-col b-"]
 dobra-mama.pl,e-dobrydom.pl,gamesfanatic.pl,kalisz24.info.pl,kolobrzeginfo.pl,koszalininfo.pl,kujawy.info,magazynbiomasa.pl,metropoliabydgoska.pl,radio5.com.pl,radio7.pl,radioradom.pl,radiowrzesnia.pl,sci24.pl,starachowicka.pl,urodaizdrowie.pl,wawernews.pl,wlkp24.info,wnetrzadomow.pl,zbiam.pl,zielonanews.pl,ziemiadebicka.pl,zw.lt##div[class^="g-dyn a-"]
 nadwisla24.pl##div[class^="g-dyn a-"] a:not([href^="https://nadwisla24.pl/"])
-anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,nswiecie.pl,onet.pl,pabianice.tv,plock.fm,portalprzemyski.pl,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,tylkotorun.pl,uavo.com.pl,urodaizdrowie.pl,vipmultimedia.pl,wlkp24.info,wwl24.pl,zielonanews.pl##div[class^="g-single a-"]
+anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,onet.pl,pabianice.tv,plock.fm,portalprzemyski.pl,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,tylkotorun.pl,uavo.com.pl,urodaizdrowie.pl,vipmultimedia.pl,wlkp24.info,wwl24.pl,zielonanews.pl##div[class^="g-single a-"]
 slupca.pl##div[class^="g-single a-"] > div[style="margin:auto; text-align: center;"]
 portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
 gazetalubliniecka.pl##div[class^="gazet-slidebar"]
