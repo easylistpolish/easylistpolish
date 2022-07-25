@@ -797,7 +797,7 @@ gorzow24.pl##.gml
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
-money.pl,o2.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
+money.pl,open.fm,parenting.pl,pudelek.pl,sfora.pl,wp.pl##.grid-item—wpapiad
 nowiny24.pl,nowosci.com.pl,polskatimes.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
