@@ -96,7 +96,6 @@ laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
 onet.pl###branding-webmail-wrapper
 bb365.info###bsa-html
-o.pl###button-czynszowy
 wspolnota.org.pl###c325
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
