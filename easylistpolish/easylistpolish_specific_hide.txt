@@ -1,5 +1,5 @@
 money.pl###ADrail
-oknonet.pl,portalpszczelarski.pl###AdBig
+portalpszczelarski.pl###AdBig
 oknonet.pl###AdSmall
 signs.pl###BD
 spottedskarzysko.pl###BoxColTop
