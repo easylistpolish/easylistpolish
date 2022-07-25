@@ -1150,7 +1150,6 @@ tabletowo.pl##.table-reklama_po_komentarzach
 tarnogorski.info##.td-a-rec > .td-adspot-title + a
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 treningbiegacza.pl##.td-a-rec a[target="_blank"]
-okraglemiasto.pl##.td-a-rec-id-content_top
 24klodzko.pl##.td-a-rec-id-header
 twojepajeczno.pl##.td-aa-rec
 probasket.pl##.td-all-devices
