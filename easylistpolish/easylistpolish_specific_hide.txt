@@ -993,7 +993,7 @@ portaltatrzanski.pl##.promoadv
 forumbranzowe.com##.promocje
 lol24.com,zumi.pl##.promotion
 przegladpiaseczynski.pl##.przeglad-reklama-box
-kryptoholik.pl,ool24.pl##.pum-overlay
+kryptoholik.pl##.pum-overlay
 ekoexpo.pl,gorzow24.pl##.r
 goryiludzie.pl##.rad
 futbolnews.pl,zzapolowy.com##.ranking
