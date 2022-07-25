@@ -1074,7 +1074,7 @@ radiojura.pl##.sec-promo
 e-tlumacze.net##.section-banner
 gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
-glokalna.pl,nowawrzesnia.pl,ok24.tv##.sgpb-popup-overlay
+glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
 open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
