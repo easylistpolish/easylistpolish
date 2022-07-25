@@ -1527,7 +1527,7 @@ pracaikariera.pl,studentnews.pl,studialicencjackie.info##a[onclick^="return otwo
 jagodnik.pl##a[onclick^="trackOutboundLink("]:not([onclick*=".jagodnik.pl/"])
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
 queer.pl##a[rel="nofollow"]
-expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##a[rel="nofollow"] + .kd_ns_lead
+expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,parenting.pl,polskatimes.pl,pomorska.pl,poranny.pl,portalniezalezny.pl,pzl24.pl,regionfan.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##a[rel="nofollow"] + .kd_ns_lead
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 primeradivision.pl,seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
