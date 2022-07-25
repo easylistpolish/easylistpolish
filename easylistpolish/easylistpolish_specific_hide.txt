@@ -1381,7 +1381,6 @@ livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
 podobnestrony.pl##a[href^="/external/"] > picture
 magazynpolonia.com##a[href^="/klikacz/"]
-oknonet.pl##a[href^="/openurl.php?bid="]
 dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 purepc.pl##a[href^="/redix.php?"][databx]
 powiatowa.info##a[href^="/rozne/reklama/"]
