@@ -71,7 +71,6 @@ otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
 tychy.pl###bilboard_970x90
 ftb.pl###billboard
-o.pl###billboard-container
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
