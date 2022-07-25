@@ -1704,7 +1704,6 @@ nasygnale.com.pl##div[id^="jssor_"]
 tvwlodawa.pl##div[id^="layerslider_"]
 agropolska.pl##div[id^="mediaContent"]
 lesko.info##div[id^="media_image-"]
-nowytygodniklobeski.pl##div[id^="media_image-"] a > img
 tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
 zawiercianskie.pl##div[id^="metaslider_"]
 capuccino.eu##div[id^="n2-ss-"]
