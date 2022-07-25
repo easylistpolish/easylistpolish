@@ -1551,7 +1551,6 @@ kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
 ostrowczanie.info##body > center > a
 tyna.info.pl##body > center img
-onet.pl##body[onload*=".loadAds"]
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
