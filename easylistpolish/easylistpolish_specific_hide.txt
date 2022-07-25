@@ -1164,7 +1164,7 @@ probasket.pl##.td-all-devices
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
 lwowecki.info##.td-all-devices2
 eswinoujscie.pl##.td-banner-bg
-nswiecie.pl,poloniairlandia.pl##.td-banner-wrap-full
+poloniairlandia.pl##.td-banner-wrap-full
 elementarzprojektanta.pl##.td-fix-index
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
