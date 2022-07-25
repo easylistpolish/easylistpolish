@@ -510,7 +510,6 @@ swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
-onlineradio.com.pl##.ai-placement
 life4style.pl,sporteuro.pl##.ai-rotate
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
