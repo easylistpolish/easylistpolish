@@ -81,7 +81,6 @@ tarnobrzeg.info###block-11
 tarnobrzeg.info###block-21
 tarnobrzeg.info###block-22
 budowlanematerialy.eu###block-43
-obiektysakralne.pl###block-63
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
 trzcianka.info###block-block-20
