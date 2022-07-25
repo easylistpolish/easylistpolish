@@ -702,7 +702,6 @@ naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
 tomaszowiak.net##.contentAupper
 bestofwhisky.pl##.contetn-left-ad-top
 mecze.com##.cool-stuff
-olx.pl##.creditbox
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
