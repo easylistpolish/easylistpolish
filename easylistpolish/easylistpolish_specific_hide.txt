@@ -731,7 +731,6 @@ radiofon.fm##.easingslider
 ele24.net##.eb-modules-banner-nad-newsem
 viva.pl##.ecomm-offer
 mamotoja.pl##.ecomm-wrapper
-party.pl##.ecomm-zalando
 sweetwedding.pl##.ecrosio-header-slider
 zkaszub.info##.edd
 kb.pl##.element-click
