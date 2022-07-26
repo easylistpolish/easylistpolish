@@ -18,7 +18,6 @@
 -reklama_$domain=noworudzianin.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
-/^https?:\/\/www\.filmweb\.pl\/[a-z0-9A-Z]{20,}/$subdocument,domain=filmweb.pl
 ^1000x390-$domain=tygodnik.szczytno.pl
 ^1200x1200_$domain=dziennikopolski.pl|dziennikwarszawy.pl|gazetawalbrzych.pl|gazetawielkopolska.pl|glosczestochowy.pl|gloskatowic.pl|gloskrakowa.pl|gloslodzi.pl|glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
 ^1450x370-$domain=tygodnik.szczytno.pl
