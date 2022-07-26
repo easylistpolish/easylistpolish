@@ -640,7 +640,6 @@ nowypm.pl,superportal24.pl##.bnr
 superportal24.pl##.bnr--billboard
 stockwatch.pl##.bnr3b
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
-palegro.pl##.bottom-toolbar a[target="_blank"] > img
 podkarpacielive.pl##.bottom_banner
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 portalspozywczy.pl##.box-0
