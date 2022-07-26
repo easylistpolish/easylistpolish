@@ -202,7 +202,6 @@ tkaninyobiciowe.eu###media_image-63
 podlaskapilka.pl###media_image-67
 podlaskapilka.pl###media_image-69
 gazetatrybunalska.info###media_image-7
-ostrodanews.pl###media_image-85
 toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
 swietokrzyskie24.eu###metaslider_container_4396
