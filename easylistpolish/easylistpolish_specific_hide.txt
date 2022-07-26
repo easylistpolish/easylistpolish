@@ -1708,7 +1708,6 @@ calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 22
 pudelek.pl##div[style="position: relative; top: 0px; z-index: 0;"]
 travelmaniacy.pl##div[style="width: 305px; height: 270px; margin: 5px 0 5px 0;"]
 stooq.pl##div[style="width:300;height:250"]
-otouczelnie.pl##div[style^="background: url('/assets/"]
 mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-align: left; color:"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 eostroleka.pl##div[style^="max-width: 1100px"]
