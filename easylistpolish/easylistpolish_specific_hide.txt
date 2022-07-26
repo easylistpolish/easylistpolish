@@ -197,7 +197,6 @@ gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
 30minut.pl,staresiolkowice.pl###media_image-4
 budownictwo.co###media_image-5
-ostrodanews.pl###media_image-52
 tkaninyobiciowe.eu###media_image-59
 tkaninyobiciowe.eu###media_image-63
 podlaskapilka.pl###media_image-67
