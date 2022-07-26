@@ -764,7 +764,6 @@ wronieckibazar.pl##.fright + div + div
 starosadeckie.info##.front-medium
 starosadeckie.info##.front-top
 skript.pl##.fuckAdBlock
-oswiecimonline.pl##.fullwidthabanner
 slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
