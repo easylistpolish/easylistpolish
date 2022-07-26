@@ -17,7 +17,6 @@
 -reklama.$domain=flarrow.pl|gazeta-mosina.pl|gazetatrybunalska.pl|jeleniagora998.pl|mojewronki.pl|ostrodanews.pl|popradio.pl|przysucha.informator-lokalny.pl|sochaczewianin.pl|tu.swinoujscie.pl
 -reklama^$domain=kurekmazurski.pl
 -reklama_$domain=noworudzianin.pl
--reklamowy.$domain=koscian112.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
 .300x180.$domain=gostynin.info
