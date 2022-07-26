@@ -638,7 +638,6 @@ studentnews.pl##.bm
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl,superportal24.pl##.bnr
 superportal24.pl##.bnr--billboard
-otososnowiec.pl##.bnr-spns
 stockwatch.pl##.bnr3b
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 palegro.pl##.bottom-toolbar a[target="_blank"] > img
