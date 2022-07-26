@@ -16,7 +16,7 @@
 -reklama-$domain=bithub.pl|chelmski.eu|e-hotelarz.pl|firmy.meblarstwo.eu|golub-cgd.pl|infobusko.pl|kurekmazurski.pl|kurier-kolski.pl|nasz-glos.com|przedsiebiorczepodlasie.pl|radomszczanska.pl|starosadeckie.info|tkaninyobiciowe.eu|tv-pelplin.pl
 -reklama.$domain=flarrow.pl|gazeta-mosina.pl|gazetatrybunalska.pl|jeleniagora998.pl|mojewronki.pl|ostrodanews.pl|popradio.pl|przysucha.informator-lokalny.pl|sochaczewianin.pl|tu.swinoujscie.pl
 -reklama^$domain=kurekmazurski.pl
--reklama_$domain=gazeta-mosina.pl|noworudzianin.pl
+-reklama_$domain=noworudzianin.pl
 -reklamowy.$domain=koscian112.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
