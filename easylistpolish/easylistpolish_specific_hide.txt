@@ -1322,7 +1322,6 @@ grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
 nowinynyskie.com.pl##a:not([href^="https://nowinynyskie.com.pl/"]) img[width="370"]
 perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
-pch24.pl##a:not([href^="https://www.pch24.pl/"]) img[src*="/banery/"]
 truckeronroad.com##a[aria-label*="banner"]
 domyseniora.pl,przedszkola.edu.pl##a[class^="js-banery-"]
 tvwalbrzych.pl##a[class^="single_ad_"]
