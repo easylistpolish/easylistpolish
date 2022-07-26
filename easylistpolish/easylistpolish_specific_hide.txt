@@ -1005,7 +1005,6 @@ glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 bielskiedrogi.pl,tychy.info##.reklama-display-desktop
-panoramakutna.pl##.reklama-google
 cnc.info.pl,kalisz24.info.pl,radom24.pl##.reklama-top
 polonia.nl##.reklama-warpper
 polemi.co.uk##.reklama8
