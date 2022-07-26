@@ -1386,7 +1386,6 @@ zyciepabianic.pl##a[href^="http://psm-pabianice.pl/"]
 e-grajewo.pl##a[href^="http://pssgrajewo.pl"]
 infoplocktv.pl##a[href^="http://pssplock.pl/"]
 skladaniekomputera.pl##a[href^="http://seldarco.getleads.pl"]
-openlinksys.info##a[href^="http://sieciovo.pl/"] > img
 bobrowniki.tv##a[href^="http://slaskieplyty.pl"]
 e-grajewo.pl##a[href^="http://spoldzielcza1.pl"]
 tyna.info.pl##a[href^="http://studiomeritum.pl"] > img
