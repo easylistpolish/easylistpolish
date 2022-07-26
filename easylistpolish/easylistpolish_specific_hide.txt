@@ -1475,7 +1475,6 @@ wykop.pl##a[href^="https://www.wykop.pl/adverts"]
 kto-dzwonil.com##a[href^="https://www.xio.pl/"]
 genapps.pl##a[href^="https://www.zameczkowo.pl/"]
 bankier.pl##a[href^="https://www3.smartadserver.com/"]
-pch24.pl##a[href^="https://zadnychlockdownow.pl/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
 piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
 pultusk.news##a[id*="Banner"]
