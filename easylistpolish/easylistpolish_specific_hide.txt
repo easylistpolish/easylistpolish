@@ -913,7 +913,6 @@ tv-pelplin.pl##.moduletable sup
 sztafeta.pl##.mom-e3lanat-wrap
 boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
-panoramakutna.pl##.ms-slide-bgcont
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
 slowopodlasia.pl##.my-3 .tipad_tag + a
