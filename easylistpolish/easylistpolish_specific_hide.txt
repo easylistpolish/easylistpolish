@@ -539,7 +539,7 @@ badaniaprenatalne.pl##.ban-top
 plotek.pl##.ban001_wrapper
 edziecko.pl,haps.pl,plotek.pl,sport.pl##.banLabel
 pulskwidzyna.pl##.banToper
-asta24.pl,ddwlkp.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pch24.info,pmi24.info,pojezierze24.pl,polskicaravaning.pl,pszczynska.pl,pzl24.info,speedwaynews.pl,sportowebeskidy.pl,swiatkarinki.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl,wygasle.net##.baner
+asta24.pl,ddwlkp.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pmi24.info,pojezierze24.pl,polskicaravaning.pl,pszczynska.pl,pzl24.info,speedwaynews.pl,sportowebeskidy.pl,swiatkarinki.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl,wygasle.net##.baner
 scie24.pl##.baner a[href^="/counter/"]
 piast.gliwice.pl##.baner-container
 bolec.info##.baner-max
