@@ -1345,7 +1345,6 @@ okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
 dziennikwschodni.pl##a[href*="/artykuly-sponsorowane/"]
 monitorlocalnews.com##a[href*="/banners/click"]
 dsi.net.pl##a[href*="/banners/click/"]
-oprocentowanielokat.pl##a[href*="/serwis.akc.php?akcja=reklama&"]
 divers24.pl##a[href*="_bannerid="] > img
 brodnica-cbr.pl,linktopoland.com##a[href*="autoczescionline24.pl"]
 twojaslupca.pl##a[href*="autodoc.pl"]
