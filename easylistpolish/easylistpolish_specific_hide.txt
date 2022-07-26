@@ -1067,7 +1067,7 @@ gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
-open.fm,parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
+parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
