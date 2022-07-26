@@ -1360,7 +1360,6 @@ przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
-pannamloda.com##a[href="reklama.html"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
 podobnestrony.pl##a[href^="/external/"] > picture
