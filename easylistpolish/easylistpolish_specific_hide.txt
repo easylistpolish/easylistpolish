@@ -1060,7 +1060,7 @@ gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
-parenting.pl,pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
+pudelek.pl,sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
