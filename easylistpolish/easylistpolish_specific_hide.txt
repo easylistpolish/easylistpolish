@@ -78,6 +78,7 @@ tarnobrzeg.info###block-11
 30minut.pl###block-13
 tarnobrzeg.info###block-21
 tarnobrzeg.info###block-22
+gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
@@ -153,6 +154,7 @@ comparic.pl###icegram_messages_container
 trawka.org###ipsLayout_mainArea > a > img
 tarnobrzeg.info###jedrus
 sokolka.tv###jm-content-top
+sokolka.tv###jm-right
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
 anonse-krosno.pl###jm-top-mod2-in
 wadowiceonline.pl###jmMobile
@@ -231,6 +233,7 @@ polskaizbabranzypogrzebowej.pl###post-2637
 thinkapple.pl###post-banner-ad
 baxu.pl###postTopAd
 baxu.pl###postTopAdMobile
+mazopolska.pl###posts-banner
 babiel.com.pl###prawa
 legitymizm.org###prawa_kolumna .ramka:last-child
 drhtv.com.pl###prawo
@@ -315,10 +318,10 @@ wawernews.pl###text-131
 greencanoe.pl,ptvr.pl,trybawaryjny.pl,tu.swinoujscie.pl,wszedobylscy.com,zpopk.pl###text-15
 tylkopilka.pl###text-157
 naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.pl###text-16
-smartage.pl###text-17
+polacywewloszech.com,smartage.pl###text-17
 tkn24.pl,winterszus.pl###text-18
 tarnobrzeskie.eu,trybawaryjny.pl,tur-tur.pl###text-19
-foteleobrotowe.com.pl,kcynia.info,wilanownews.pl###text-2
+foteleobrotowe.com.pl,infobusko.pl,kcynia.info,wilanownews.pl###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
@@ -813,6 +816,7 @@ kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
+skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
 wbj.pl##.highlight__adv-title + a
 wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
@@ -1298,6 +1302,7 @@ deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
 raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 budoskop.pl##[id^="mediaContent"]
+gloskoninski.pl##[id^="media_image-"]
 jasnet.pl##[id^="metaslider-id-"]
 forumzabki.pl##[id^="rek_rozwijana_bh"]
 forumzabki.pl##[id^="reklama"]
@@ -1427,6 +1432,7 @@ gamingsociety.pl##a[href^="https://nazwa.pl/"]
 tvklodzka.pl##a[href^="https://ng.pl/"]
 gloswroclawia.pl##a[href^="https://oh-my-wear.com/"]
 skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
+skijumping.pl##a[href^="https://online.efortuna.pl/"][target="_blank"]
 iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
 plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
@@ -1434,6 +1440,7 @@ ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
 dts24.pl##a[href^="https://pl.jooble.org/"]
 polskatradycja.pl##a[href^="https://pln.tgm."]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
+skijumping.pl##a[href^="https://real-logistics.pl"][target="_blank"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
@@ -1600,7 +1607,7 @@ filmweb.pl##div[class^="fa faBar"]
 oswiecim112.pl,swiatmotocykli.pl##div[class^="g-col b-"]
 dobra-mama.pl,e-dobrydom.pl,gamesfanatic.pl,kalisz24.info.pl,kolobrzeginfo.pl,koszalininfo.pl,kujawy.info,magazynbiomasa.pl,metropoliabydgoska.pl,radio5.com.pl,radio7.pl,radioradom.pl,radiowrzesnia.pl,sci24.pl,starachowicka.pl,urodaizdrowie.pl,wawernews.pl,wlkp24.info,wnetrzadomow.pl,zbiam.pl,zielonanews.pl,ziemiadebicka.pl,zw.lt##div[class^="g-dyn a-"]
 nadwisla24.pl##div[class^="g-dyn a-"] a:not([href^="https://nadwisla24.pl/"])
-anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,pabianice.tv,plock.fm,portalprzemyski.pl,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,tylkotorun.pl,uavo.com.pl,urodaizdrowie.pl,vipmultimedia.pl,wlkp24.info,wwl24.pl,zielonanews.pl##div[class^="g-single a-"]
+anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,dzisiajwgliwicach.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,pabianice.tv,plock.fm,portalprzemyski.pl,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,tylkotorun.pl,uavo.com.pl,urodaizdrowie.pl,vipmultimedia.pl,wlkp24.info,wwl24.pl,zielonanews.pl##div[class^="g-single a-"]
 slupca.pl##div[class^="g-single a-"] > div[style="margin:auto; text-align: center;"]
 portalprzemyski.pl##div[class^="gasdf-single aasdf-"]
 gazetalubliniecka.pl##div[class^="gazet-slidebar"]
@@ -1748,11 +1755,10 @@ opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 pzhkiperybnik.vgh.pl##marquee
-pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
-wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,poranny.pl,polskatimes.pl,nowosci.com.pl,pomorska.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
+pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
 poscigi.pl##rs-slides
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
@@ -1769,14 +1775,5 @@ podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
+wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-mazopolska.pl###posts-banner
-gloskoninski.pl##[id^="media_image-"]
-gloskoninski.pl###block-26
-dzisiajwgliwicach.pl##div[class^="g-single a-"]
-polacywewloszech.com###text-17
-infobusko.pl###text-2
-sokolka.tv###jm-right
-skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
-skijumping.pl##a[href^="https://online.efortuna.pl/"][target="_blank"]
-skijumping.pl##a[href^="https://real-logistics.pl"][target="_blank"]
