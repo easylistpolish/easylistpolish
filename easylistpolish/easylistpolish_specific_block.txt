@@ -69,7 +69,6 @@
 ^dekoran-fototapety-$domain=ckinfo.pl
 ^edytom.$domain=legitymizm.org
 ^fortunatv-$domain=atleti.pl
-^gfx^$domain=hrubieszow.info
 ^grafika2^$domain=tsk24.pl
 ^homepage-banners^$domain=otomoto.pl
 ^img_bannery^$domain=piszanin.pl
