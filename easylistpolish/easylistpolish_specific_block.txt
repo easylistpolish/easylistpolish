@@ -24,7 +24,6 @@
 ^468^$domain=worldofbookmakers.com
 ^728^$domain=betgol.pl|extragoals.com|mecze.com|oddslivesport.com|emecze.pl
 ^750^$domain=meczlive.pl
-^750x200_$domain=polsatsport.pl
 ^a-posters^$domain=minskmaz.com
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad2^$domain=bankier.pl
