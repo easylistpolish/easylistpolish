@@ -23,7 +23,7 @@
 ^300^$domain=betglob.pl|betgol.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|oddslivesport.com|worldofbookmakers.com|emecze.pl|meczenazywo.tv|meczlive.pl
 ^468^$domain=worldofbookmakers.com
 ^728^$domain=betgol.pl|extragoals.com|mecze.com|oddslivesport.com|emecze.pl
-^750^$image,domain=meczlive.pl
+^750^$domain=meczlive.pl
 ^750x200_$domain=geekweek.pl|polsatsport.pl
 ^a-posters^$domain=minskmaz.com
 ^AAAreklamy^$domain=zulawytv.pl
