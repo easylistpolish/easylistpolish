@@ -26,7 +26,6 @@
 ^750^$domain=meczlive.pl
 ^a-posters^$domain=minskmaz.com
 ^AAAreklamy^$domain=zulawytv.pl
-^ad2^$domain=bankier.pl
 ^ad^$domain=pieniny24.pl|sportowepodhale.pl
 ^admaster^$domain=suwalki24.pl
 ^ads^$domain=oswiecimskie24.pl|polski-tenis.pl
