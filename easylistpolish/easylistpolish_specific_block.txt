@@ -32,7 +32,6 @@
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
-^adwokat.gif?$domain=swarzedz24.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
 ^as^$image,domain=xtech.pl
