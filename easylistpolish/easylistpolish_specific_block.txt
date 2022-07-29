@@ -21,7 +21,7 @@
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
 ^300^$domain=betglob.pl|betgol.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|oddslivesport.com|worldofbookmakers.com|emecze.pl|meczenazywo.tv|meczlive.pl
-^468^$domain=betgol.pl|worldofbookmakers.com
+^468^$domain=worldofbookmakers.com
 ^700x999-$domain=tygodnik.szczytno.pl
 ^720^$image,domain=emecze.pl
 ^728^$domain=betgol.pl|epilka.pl|extragoals.com|kuszotv.pl|mecze.com|mecze24.pl|meczelive.tv|oddslivesport.com
