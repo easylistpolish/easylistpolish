@@ -1778,3 +1778,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zyciekalisza.pl##.c-content__adv
+portalpszczelarski.pl##.biggDickus
