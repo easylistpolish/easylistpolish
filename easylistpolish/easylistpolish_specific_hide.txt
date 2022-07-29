@@ -1780,3 +1780,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zyciekalisza.pl##.c-content__adv
 portalpszczelarski.pl##.biggDickus
 sanok112.pl##.head-search
+leba24.info##.advertizing-slots
