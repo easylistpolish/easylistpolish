@@ -34,7 +34,7 @@
 ^advertiseButtons^$domain=smanager.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
-^ban^$domain=kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|kwalifikacjezawodowe.info|mba-studies.eu|organizacjestudenckie.pl|postgraduatestudy.eu|pracaikariera.pl|rektorzy.pl|studenckamarka.pl|studenckamoda.pl|studentka.pl|studentmapa.pl|studentnews.eu|studentnews.pl|studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wincomparator.com
+^ban^$domain=kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|kwalifikacjezawodowe.info|mba-studies.eu|organizacjestudenckie.pl|postgraduatestudy.eu|pracaikariera.pl|rektorzy.pl|studenckamarka.pl|studenckamoda.pl|studentka.pl|studentmapa.pl|studentnews.eu|studentnews.pl|studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wincomparator.com
 ^ban^$image,domain=kopaczka.pl
 ^bananer^$domain=sportowebeskidy.pl|sportslaski.pl
 ^banbron.$domain=oczamiostrego.pl
