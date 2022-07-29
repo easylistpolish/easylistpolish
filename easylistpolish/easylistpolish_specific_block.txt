@@ -767,3 +767,5 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 -baner-$domain=edebno.pl
+^bjpg^$domain=info.elblag.pl
+^biframe^$domain=info.elblag.pl
