@@ -28,7 +28,7 @@
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad^$domain=pieniny24.pl|sportowepodhale.pl
 ^admaster^$domain=suwalki24.pl
-^ads^$domain=oswiecimskie24.pl|polski-tenis.pl
+^ads^$domain=polski-tenis.pl
 ^adsrotator^$domain=korex.net.pl
 ^adv^$domain=alltube.tv|goryizerskie.pl|naszglospoznanski.pl|radio.kielce.pl|ringpolska.pl|sportsiedlce.pl|zyciegrajewa.pl
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
