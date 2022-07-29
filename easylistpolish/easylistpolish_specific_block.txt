@@ -45,7 +45,6 @@
 ^baner_$domain=7dni.pila.pl|asystentbhp.pl|bloog.pl|chcemybycrodzicami.pl|chelsea24news.pl|chemiaibiznes.com.pl|chorzowianin.pl|cksport.pl|czestochowskie24.pl|dzierzgon-twojemiasto.pl|e-pingpong.pl|extra.info.pl|forumfajerwerki.pl|fresh-market.pl|futbolfejs.pl|gazeta-mlawska.pl|gazetacz.com.pl|gazetagazeta.com|gielda-koni.com.pl|glogow-info.pl|glosmordoru.pl|grapplerinfo.pl|info.stargard.pl|infofordon.pl|infokatowice.pl|jaw.pl|jazdaprawna.pl|kurier-kolski.pl|kurierostrowski.pl|kurierzamojski.pl|legitymizm.org|lexus-forum.pl|magazynregionalny.pl|materialybudowlane.info.pl|meteoprog.pl|miedzyzdroje.tv|mojeniemcy.de|nanarty.info|nowawrzesnia.pl|podgorze.pl|podlaskieagro.pl|portalkosmiczny.pl|przemyskie.info|przewodnicywedkarscy.pl|radiopiekary.pl|radomsport.pl|rdn.pl|regionalna.pl|sporteuro.pl|sweetwedding.pl|swiatoze.pl|swidnik.pl|tc.ciechanow.pl|thinkapple.pl|tvostrow.pl|tygodnik-krapkowicki.info|tygodnik-rolniczy.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|urodaizdrowie.pl|vwgolf.pl|wdrawskupomorskim.pl|wiadomosci.rii.pl|wiatriwoda.pl|widzewtomy.net|wirtualnelegionowo.pl|wirtualnynowydwor.pl|zapytam.com|zkaszub.info|zpazurem.pl|zyciezamoscia.pl
 ^baner_$domain=polacywewloszech.com|poligonowewiesci.pl|ptvr.pl|radioradom.pl|sad24.pl|tc.ciechanow.pl|tw-24.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|wieliczkacity.pl
 ^banerkiJPG^$domain=zulawy.com
-^banerm^$domain=co-slychac.pl
 ^banerpromocja.$domain=zapytam.com
 ^baners^$domain=konieimy.pl|nowaruda.info|podlasie24.pl|portalpszczelarski.pl|q4.pl|zyciekalisza.pl
 ^banery/8^$domain=sportowememy.pl
