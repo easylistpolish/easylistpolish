@@ -65,7 +65,7 @@
 ^boxy_po_prawej^$domain=dlamaturzysty.info|dlaprzedszkolaka.info|dlaucznia.info|doctoralstudy.eu|edubaza.pl|gramatyka-angielska.info|kampusy.info|kierunki-studiow.info|kierunki-zamawiane.pl|kontastudenckie.pl|kursyjezykowe.biz|kursyletnie.pl|kursyonline.info|kursysemestralne.pl|kwalifikacjezawodowe.info|mba-studies.eu|organizacjestudenckie.pl|postgraduatestudy.eu|pracaikariera.pl|rektorzy.pl|studenckamarka.pl|studenckamoda.pl|studentka.pl|studentmapa.pl|studentnews.eu|studentnews.pl|studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
-^canvas^$image,domain=naszrybnik.com|naszwodzislaw.com
+^canvas^$image,domain=naszrybnik.com
 ^cene0^$domain=baxu.pl
 ^com_reklamy^$domain=radiofest.pl
 ^commerto.$domain=oczamiostrego.pl
