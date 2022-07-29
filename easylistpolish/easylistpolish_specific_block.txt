@@ -18,7 +18,6 @@
 -reklama_$domain=noworudzianin.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
-^2020bannery^$domain=wysokomazowiecki24.pl
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
 ^300^$domain=betglob.pl|betgol.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|oddslivesport.com|worldofbookmakers.com
