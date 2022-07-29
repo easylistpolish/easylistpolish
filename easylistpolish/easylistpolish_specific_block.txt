@@ -18,7 +18,7 @@
 -reklama_$domain=noworudzianin.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
-^1200x1200_$domain=glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
+^1200x1200_$domain=glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
 ^2020bannery^$domain=wysokomazowiecki24.pl
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
