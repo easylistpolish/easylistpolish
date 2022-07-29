@@ -68,7 +68,6 @@
 ^com_reklamy^$domain=radiofest.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
 ^edytom.$domain=legitymizm.org
-^emisje^$domain=stalowemiasto.pl
 ^fortunatv-$domain=atleti.pl
 ^gfx^$domain=hrubieszow.info
 ^grafika2^$domain=tsk24.pl
