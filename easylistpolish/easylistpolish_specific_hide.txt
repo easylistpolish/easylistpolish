@@ -72,6 +72,7 @@ ftb.pl###billboard
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
+hrubieszow.info###black-studio-tinymce-7
 dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
 tarnobrzeg.info###block-11
@@ -120,6 +121,7 @@ wochenblatt.pl###custom_post_widget-8
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowolodzi.pl,slowotrojmiasta.pl,slowowarszawy.pl###efaro-widget
+hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
 woda-scieki.com###firms
@@ -505,6 +507,7 @@ zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
 przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
+leba24.info##.advertizing-slots
 edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
@@ -626,6 +629,7 @@ komercyjne.pl##.bb-ad-outer
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
+portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 ddwloclawek.pl,portalzamojski.pl,samosia.pl,sieradz.com.pl,teksty.org##.billboard
 tustolica.pl##.bimg
@@ -668,7 +672,7 @@ ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
 naszahuta.pl##.c-banners
-terazostroleka.pl##.c-content__adv
+terazostroleka.pl,zyciekalisza.pl##.c-content__adv
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
@@ -791,6 +795,7 @@ super-warez.eu##.h_banner-block
 dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
 interia.pl##.has-mixerAdTopRight
 siechnice.com.pl##.head-rek
+sanok112.pl##.head-search
 rni24.eu,rta24.eu,tsa24.com##.head-wrap-in
 zyciegrajewa.pl##.head1
 zyciegrajewa.pl##.head2
@@ -1777,9 +1782,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-zyciekalisza.pl##.c-content__adv
-portalpszczelarski.pl##.biggDickus
-sanok112.pl##.head-search
-leba24.info##.advertizing-slots
-hrubieszow.info###black-studio-tinymce-7
-hrubieszow.info###endo_wrc_widget-2
