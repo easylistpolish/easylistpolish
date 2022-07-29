@@ -34,7 +34,7 @@
 ^advertiseButtons^$domain=smanager.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
-^ban^$image,domain=kopaczka.pl
+^ban^$domain=kopaczka.pl
 ^bananer^$domain=sportowebeskidy.pl|sportslaski.pl
 ^banbron.$domain=oczamiostrego.pl
 ^baner%$domain=magazynregionalny.pl|podlasie24.pl|poligonowewiesci.pl|wdrawskupomorskim.pl
