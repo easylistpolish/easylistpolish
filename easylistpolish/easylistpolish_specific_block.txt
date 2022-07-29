@@ -67,7 +67,7 @@
 ^cene0^$domain=baxu.pl
 ^com_reklamy^$domain=radiofest.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
-^dodatki_po_prawej^$domain=kwalifikacjezawodowe.info|studentnews.pl
+^dodatki_po_prawej^$domain=studentnews.pl
 ^dronmedia.$domain=7dni.pila.pl
 ^edytom.$domain=legitymizm.org
 ^emisje^$domain=stalowemiasto.pl
