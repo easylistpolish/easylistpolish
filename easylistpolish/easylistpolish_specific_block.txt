@@ -64,7 +64,6 @@
 ^bans^$domain=plastech.pl
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
-^canvas^$image,domain=naszrybnik.com
 ^cene0^$domain=baxu.pl
 ^com_reklamy^$domain=radiofest.pl
 ^commerto.$domain=oczamiostrego.pl
