@@ -53,7 +53,6 @@
 ^banery_$domain=instalacjebudowlane.pl|iszczecinek.pl|kuchenny.com.pl|maritime.com.pl|ogrodinfo.pl|portalplock.pl|sokolka.tv|tygodnik.pl|zegarkiipasja.pl|zyciesiedleckie.pl
 ^banery_foto^$domain=bielskirynek.pl|bydgoszcz24.pl|ciechocinek.biz|ddtorun.pl|ddwloclawek.pl|e-krajna.pl|ekutno.pl|expresskaszubski.pl|faktypilskie.pl|gle24.pl|gniewkowo.eu|gorlice24.pl|gostyn24.pl|gwe24.pl|itvszubin.pl|ki24.info|kolniak24.eu|koronowo.net.pl|mlodagdynia.pl|nizanskie.info|pulsciechanowa.pl|roztocze.net|rzeczkrotoszynska.pl|superchodziez.pl|swiecie24.pl|terazgabin.pl|terazlipno.pl|tusochaczew.pl|uniejow.net.pl|zyciesokolowa.pl
 ^baneryJPG^$domain=pomorskifutbol.pl
-^banner%$domain=sanok112.pl
 ^banner-$domain=24firma.pl|420polska.pl|4pm.pl|all-inclusive.com.pl|biokurier.pl|bobrzanie.pl|businesswomanlife.pl|chinskiraport.pl|cksport.pl|czasnadmorze.pl|dzisiajwgliwicach.pl|gorydlaciebie.pl|juliarozumek.pl|ktoto.info|kurierzamojski.pl|meska-kuchnia.pl|morzaioceany.pl|nadarzyn.tv|nanarty.info|nowaruda.info|pielegniarki.info.pl|polacywewloszech.com|przewodnicywedkarscy.pl|psychatog.pl|racingforum.pl|swiatoze.pl|transg.pl|transportchorego.pl|wirlandii.pl
 ^banner.$domain=archispace.pl|cksport.pl|diablo.phx.pl|porady.mobi|przeambitni.pl|transportchorego.pl|tripybiznesekipy.pl
 ^banner3-$domain=przekultura.pl
