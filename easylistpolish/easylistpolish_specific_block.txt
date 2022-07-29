@@ -28,7 +28,7 @@
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad^$domain=pieniny24.pl|sportowepodhale.pl
 ^admaster^$domain=suwalki24.pl
-^adv^$domain=naszglospoznanski.pl|sportsiedlce.pl|zyciegrajewa.pl
+^adv^$domain=naszglospoznanski.pl|zyciegrajewa.pl
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
