@@ -20,8 +20,7 @@
 -reklamy^$domain=kurekmazurski.pl
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
-^300^$domain=betglob.pl|betgol.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|oddslivesport.com|worldofbookmakers.com
-^300^$image,domain=emecze.pl|meczenazywo.tv|meczlive.pl
+^300^$domain=betglob.pl|betgol.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|oddslivesport.com|worldofbookmakers.com|emecze.pl|meczenazywo.tv|meczlive.pl
 ^468^$domain=betgol.pl|worldofbookmakers.com
 ^700x999-$domain=tygodnik.szczytno.pl
 ^720^$image,domain=emecze.pl
