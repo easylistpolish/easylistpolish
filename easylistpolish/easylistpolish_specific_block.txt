@@ -67,7 +67,6 @@
 ^cene0^$domain=baxu.pl
 ^com_reklamy^$domain=radiofest.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
-^dronmedia.$domain=7dni.pila.pl
 ^edytom.$domain=legitymizm.org
 ^emisje^$domain=stalowemiasto.pl
 ^fortunatv-$domain=atleti.pl
