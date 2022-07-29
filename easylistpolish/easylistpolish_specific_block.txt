@@ -34,7 +34,7 @@
 ^advertiseButtons^$domain=smanager.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
-^ban^$domain=studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wincomparator.com
+^ban^$domain=studies-in-english.pl|studies-in-europe.eu|studies-in-poland.pl|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wincomparator.com
 ^ban^$image,domain=kopaczka.pl
 ^bananer^$domain=sportowebeskidy.pl|sportslaski.pl
 ^banbron.$domain=oczamiostrego.pl
