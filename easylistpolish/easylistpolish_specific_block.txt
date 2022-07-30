@@ -75,7 +75,6 @@
 ^img_bannery^$domain=piszanin.pl
 ^inline__1_$domain=24jgora.pl|24wroclaw.pl|bbfan.pl|ciechanowinaczej.pl|egarwolin.pl|eprzasnysz.pl|gpr24.pl|ibemowo.pl|ibialoleka.pl|ibielany.pl|imokotow.pl|inowroclaw.info.pl|iochota.pl|iotwock.info|itargowek.pl|iursus.pl|iursynow.pl|iwawer.pl|iwilanow.pl|iwola.pl|izoliborz.pl|kurierpodlaski.pl|nowagazeta.pl|nwloclawek.pl|ototorun.pl|sucha24.pl|tudeblin.pl|tulegnica.pl|turyki.pl|wio.waw.pl|zambrow.org|zycie.pila.pl|zyciekalisza.pl|e-kg.pl|sejny.net
 ^inline_images/114^$domain=mylomza.pl
-^inline_images/512$domain=e-kg.pl
 ^inne^$domain=gminadobra24.pl
 ^inne^$image,domain=bezrzecze24.pl|gumience24.pl|mierzyn24.pl
 ^kaczynski_click^$subdocument,domain=wylecz.to
