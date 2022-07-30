@@ -1530,7 +1530,7 @@ tyna.info.pl##body > center img
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
-poczta.o2.pl,poczta.wp.pl##dd-holder
+poczta.wp.pl##dd-holder
 medycyna24.pl##div > .insert--top-offer
 twojepajeczno.pl##div > .scxxxx
 radioem.pl##div > a[name="Reklama"] + div + ul
