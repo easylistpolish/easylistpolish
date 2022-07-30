@@ -24,7 +24,7 @@ togethermagazyn.pl###addbaner
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
-pudelekx.pl###adv03
+pogodnie.pl###adv03
 tygodnikszczytno.pl###advBox
 tygodnik.szczytno.pl###advContener
 torun.com.pl###adv_layer
@@ -70,6 +70,7 @@ ftb.pl###billboard
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
+hrubieszow.info###black-studio-tinymce-7
 dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
 tarnobrzeg.info###block-11
@@ -118,6 +119,7 @@ wochenblatt.pl###custom_post_widget-8
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowolodzi.pl,slowotrojmiasta.pl,slowowarszawy.pl###efaro-widget
+hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
 woda-scieki.com###firms
@@ -469,7 +471,7 @@ tekstowo.pl##.adv-home
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
 wnp.pl##.advB
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,planowo.pl,polskatimes.pl,pomorska.pl,popularne.pl,poranny.pl,portalbraniewo.pl,portalpomorza.pl,prawicowyinternet.pl,prostozmostu24.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,pzl24.pl,radiobonton.pl,radiosochaczew.pl,radiozet.pl,rawicz24.pl,regiodom.pl,regiopraca.pl,rmf.fm,rmfmaxxx.pl,roland-gazeta.pl,rolniczeabc.pl,rp.pl,rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,samequizy.pl,samosia.pl,seksimama.pl,slowopodlasia.pl,smakdnia.pl,smog.pl,snobka.pl,starachowice.pl,superniusy.pl,szokuje.pl,tczewska.pl,telepolis.pl,telewizjaopolskie.pl,telewizjazary.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,polskatimes.pl,pomorska.pl,popularne.pl,poranny.pl,portalbraniewo.pl,portalpomorza.pl,prawicowyinternet.pl,prostozmostu24.pl,pudelek.pl,pudelek.tv,pytamy.pl,pzl24.pl,radiobonton.pl,radiosochaczew.pl,radiozet.pl,rawicz24.pl,regiodom.pl,regiopraca.pl,rmf.fm,rmfmaxxx.pl,roland-gazeta.pl,rolniczeabc.pl,rp.pl,rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,samequizy.pl,samosia.pl,seksimama.pl,slowopodlasia.pl,smakdnia.pl,smog.pl,snobka.pl,starachowice.pl,superniusy.pl,szokuje.pl,tczewska.pl,telepolis.pl,telewizjaopolskie.pl,telewizjazary.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
@@ -496,6 +498,7 @@ zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
 przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
+leba24.info##.advertizing-slots
 edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 polygamia.pl##.adwordbackground
@@ -615,6 +618,7 @@ komercyjne.pl##.bb-ad-outer
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
+portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 ddwloclawek.pl,portalzamojski.pl,samosia.pl,sieradz.com.pl,teksty.org##.billboard
 tustolica.pl##.bimg
@@ -657,7 +661,7 @@ ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
 naszahuta.pl##.c-banners
-terazostroleka.pl##.c-content__adv
+terazostroleka.pl,zyciekalisza.pl##.c-content__adv
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
@@ -779,6 +783,7 @@ super-warez.eu##.h_banner-block
 dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
 interia.pl##.has-mixerAdTopRight
 siechnice.com.pl##.head-rek
+sanok112.pl##.head-search
 rni24.eu,rta24.eu,tsa24.com##.head-wrap-in
 zyciegrajewa.pl##.head1
 zyciegrajewa.pl##.head2
@@ -1275,7 +1280,7 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
-abczdrowie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
+abczdrowie.pl,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 rybnik.com.pl##[id^="_gramscien_"]
@@ -1485,7 +1490,7 @@ expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,polskatimes.pl,pomorska.pl,poranny
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 primeradivision.pl,seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
-kardiolo.pl,kowbojki.pl,planowo.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
+kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
 tygodnik.szczytno.pl##a[target="__new"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
@@ -1756,3 +1761,14 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
+infoskierniewice.pl##.topLayer
+kierunki-studiow.info##.bm1
+gazetawielkopolska.pl##.widget-3
+gazetawielkopolska.pl##.entry_content a img
+leba24.info##[class*="code-block-"]
+gazeta-mosina.pl##.topblock
+e-kg.pl##.c-content__adv
+wylecz.to##div[data-ohyes="slotseen"]
+samiswoi.news##[class^="serve-"]
+motocykle125.pl###gp-fixed-padding + center
