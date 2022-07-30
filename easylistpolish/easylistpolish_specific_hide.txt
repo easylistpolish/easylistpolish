@@ -24,7 +24,7 @@ togethermagazyn.pl###addbaner
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
-pogodnie.pl,pudelekx.pl###adv03
+pudelekx.pl###adv03
 tygodnikszczytno.pl###advBox
 tygodnik.szczytno.pl###advContener
 torun.com.pl###adv_layer
