@@ -1,4 +1,3 @@
 |http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|internetowa.ws|serialnet.pl|vizjer.pl
 |https:$popup,third-party,domain=ekinomaniak.net
 ||rusinlepading.pro^$popup,third-party
-||teleriumads-$popup,domain=telerium.tv
