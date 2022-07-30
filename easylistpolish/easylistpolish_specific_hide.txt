@@ -1787,3 +1787,4 @@ infoskierniewice.pl##.topLayer
 kierunki-studiow.info##.bm1
 gazetawielkopolska.pl##.widget-3
 gazetawielkopolska.pl##.entry_content a img
+leba24.info##[class*="code-block-"]
