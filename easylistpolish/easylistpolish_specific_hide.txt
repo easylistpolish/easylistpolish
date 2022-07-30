@@ -1752,7 +1752,7 @@ eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net#
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
-poczta.o2.pl,poczta.wp.pl##sidebar-feed
+poczta.wp.pl##sidebar-feed
 pudelek.tv,wp.pl##span[id^="dynacrems-adv"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
