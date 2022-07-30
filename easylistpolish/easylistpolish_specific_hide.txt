@@ -1792,3 +1792,4 @@ gazeta-mosina.pl##.topblock
 e-kg.pl##.c-content__adv
 wylecz.to##div[data-ohyes="slotseen"]
 samiswoi.news##[class^="serve-"]
+motocykle125.pl###gp-fixed-padding + center
