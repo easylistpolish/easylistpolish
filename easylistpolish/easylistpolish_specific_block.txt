@@ -73,8 +73,8 @@
 ^grafika2^$domain=tsk24.pl
 ^homepage-banners^$domain=otomoto.pl
 ^img_bannery^$domain=piszanin.pl
-^inline__$domain=e-kg.pl|sejny.net
-^inline__1_$domain=24jgora.pl|24wroclaw.pl|bbfan.pl|ciechanowinaczej.pl|egarwolin.pl|eprzasnysz.pl|gpr24.pl|ibemowo.pl|ibialoleka.pl|ibielany.pl|imokotow.pl|inowroclaw.info.pl|iochota.pl|iotwock.info|itargowek.pl|iursus.pl|iursynow.pl|iwawer.pl|iwilanow.pl|iwola.pl|izoliborz.pl|kurierpodlaski.pl|nowagazeta.pl|nwloclawek.pl|ototorun.pl|sucha24.pl|tudeblin.pl|tulegnica.pl|turyki.pl|wio.waw.pl|zambrow.org|zycie.pila.pl|zyciekalisza.pl
+^inline__$domain=sejny.net
+^inline__1_$domain=24jgora.pl|24wroclaw.pl|bbfan.pl|ciechanowinaczej.pl|egarwolin.pl|eprzasnysz.pl|gpr24.pl|ibemowo.pl|ibialoleka.pl|ibielany.pl|imokotow.pl|inowroclaw.info.pl|iochota.pl|iotwock.info|itargowek.pl|iursus.pl|iursynow.pl|iwawer.pl|iwilanow.pl|iwola.pl|izoliborz.pl|kurierpodlaski.pl|nowagazeta.pl|nwloclawek.pl|ototorun.pl|sucha24.pl|tudeblin.pl|tulegnica.pl|turyki.pl|wio.waw.pl|zambrow.org|zycie.pila.pl|zyciekalisza.pl|e-kg.pl
 ^inline_images/114^$domain=mylomza.pl
 ^inline_images/512$domain=e-kg.pl
 ^inne^$domain=gminadobra24.pl
