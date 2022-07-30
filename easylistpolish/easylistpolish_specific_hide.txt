@@ -198,7 +198,6 @@ gazetagazeta.com###media_image-39
 budownictwo.co###media_image-5
 tkaninyobiciowe.eu###media_image-59
 tkaninyobiciowe.eu###media_image-63
-podlaskapilka.pl###media_image-69
 gazetatrybunalska.info###media_image-7
 toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
