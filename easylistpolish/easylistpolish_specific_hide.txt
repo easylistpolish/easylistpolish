@@ -239,7 +239,6 @@ legitymizm.org###prawa_kolumna .ramka:last-child
 drhtv.com.pl###prawo
 wkatalog.pl###prawy
 zakazany-humor.pl###primary > div > iframe
-pilkarskiswiat.com###primary a[href="/go/betcris"]
 walbrzych24.com###promo14
 laczynaspasja.pl###promocodeBaner
 naszekielce.com###promoted
