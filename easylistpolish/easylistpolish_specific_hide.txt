@@ -1347,7 +1347,6 @@ haczyk.pl##a[href="http://www.pontony.net.pl"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
-podobnestrony.pl##a[href^="/external/"] > picture
 magazynpolonia.com##a[href^="/klikacz/"]
 dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 purepc.pl##a[href^="/redix.php?"][databx]
