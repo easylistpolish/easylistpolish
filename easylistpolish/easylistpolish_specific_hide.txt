@@ -221,7 +221,6 @@ kreskowki-online.pl,magazynpolonia.com###partners
 ekoexpo.pl###partners_bar
 hitra-wedkarstwo.cba.pl###partnerzy
 pilkawregionie.pl###pg-2-4
-planeteplus.pl###planeteplus-add-1
 informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
