@@ -716,7 +716,6 @@ automotivesuppliers.pl##.dj-loader
 iturek.net##.djslider
 tkn24.pl##.dk-image-rotator-widget
 zywawiara.pl##.dobrodzieje
-podaj.to##.doubleadvert-wrapper
 nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-widget
 swinoujskie.info##.e3lan
