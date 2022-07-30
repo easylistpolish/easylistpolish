@@ -1,2 +1,1 @@
 @@-120x60-$domain=bejbi.eu
-@@^300x250^$domain=prostozmostu.pl
