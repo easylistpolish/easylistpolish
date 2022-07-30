@@ -1,7 +1,5 @@
 |http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|internetowa.ws|serialnet.pl|vizjer.pl
 |https:$popup,third-party,domain=ekinomaniak.net
 ||camcolt.com^$popup,domain=woor.pl
-||mp3s.pl^$popup,domain=aleryje2.prv.pl
-||mp3va.com^$popup,domain=aleryje2.prv.pl
 ||rusinlepading.pro^$popup,third-party
 ||teleriumads-$popup,domain=telerium.tv
