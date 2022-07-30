@@ -798,7 +798,6 @@ rynek-ksiazki.pl##.header-baner
 dts24.pl,nysahot.pl,prestizgliwice.pl,probasket.pl,salebiznesowe.pl##.header-banner
 mamaklub.pl##.header-billboard
 promocja.mielec.pl##.header-content
-pilkarskiswiat.com##.header-layout-1 + center
 magazynbiomasa.pl##.header-promo
 infokrakow24.pl,pyrzyce.info##.header-right
 polacywewloszech.com##.header-top-right
