@@ -1790,3 +1790,4 @@ gazetawielkopolska.pl##.entry_content a img
 leba24.info##[class*="code-block-"]
 gazeta-mosina.pl##.topblock
 e-kg.pl##.c-content__adv
+wylecz.to##div[data-ohyes="slotseen"]
