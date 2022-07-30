@@ -583,7 +583,7 @@ kanonierzy.com##.banner2
 codziennikmlawski.pl##.banner3
 stadionowioprawcy.net##.bannerBox a[target="_blank"]
 zlotowskie.pl##.bannerSlider
-mojanorwegia.pl,podhale24.pl##.bannerTop
+mojanorwegia.pl##.bannerTop
 3trzy3.pl##.banner_1
 android.com.pl##.banner__placeholder
 roksa.pl##.banner_bottom
