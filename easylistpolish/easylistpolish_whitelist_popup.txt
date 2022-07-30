@@ -1,2 +1,2 @@
-@@://adv.$popup,domain=abczdrowie.pl|autokult.pl|echirurgia.pl|fotoblogia.pl|gadzetomania.pl|jejswiat.pl|kafeteria.pl|kardiolo.pl|kciuk.pl|komorkomania.pl|kowbojki.pl|luxlux.pl|medycyna24.pl|money.pl|nerwica.com|o2.pl|open.fm|parenting.pl|pinger.pl|planowo.pl|pogodnie.pl|pudelek.pl|pudelek.tv|pudelekx.pl|pytamy.pl|samosia.pl|smog.pl|snobka.pl|wp.pl
+@@://adv.$popup,domain=abczdrowie.pl|autokult.pl|echirurgia.pl|fotoblogia.pl|gadzetomania.pl|jejswiat.pl|kafeteria.pl|kardiolo.pl|kciuk.pl|komorkomania.pl|kowbojki.pl|luxlux.pl|medycyna24.pl|money.pl|nerwica.com|o2.pl|open.fm|parenting.pl|pinger.pl|planowo.pl|pogodnie.pl|pudelek.pl|pudelek.tv|pytamy.pl|samosia.pl|smog.pl|snobka.pl|wp.pl
 @@||allegro.pl^$popup,domain=animezone.pl
