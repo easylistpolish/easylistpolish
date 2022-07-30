@@ -1424,7 +1424,6 @@ skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
 skijumping.pl##a[href^="https://online.efortuna.pl/"][target="_blank"]
 iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
-plonskwsieci.pl##a[href^="https://pgbikes.pl/"]
 ipragapoludnie.pl##a[href^="https://pizzeriasangiovanni.pl/"]
 dts24.pl##a[href^="https://pl.jooble.org/"]
 polskatradycja.pl##a[href^="https://pln.tgm."]
