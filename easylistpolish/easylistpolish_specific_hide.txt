@@ -24,7 +24,7 @@ togethermagazyn.pl###addbaner
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
-pogodnie.pl,pudelekx.pl###adv03
+pogodnie.pl###adv03
 tygodnikszczytno.pl###advBox
 tygodnik.szczytno.pl###advContener
 torun.com.pl###adv_layer
@@ -480,7 +480,7 @@ tekstowo.pl##.adv-home
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
 wnp.pl##.advB
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,polskatimes.pl,pomorska.pl,popularne.pl,poranny.pl,portalbraniewo.pl,portalpomorza.pl,prawicowyinternet.pl,prostozmostu24.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,pzl24.pl,radiobonton.pl,radiosochaczew.pl,radiozet.pl,rawicz24.pl,regiodom.pl,regiopraca.pl,rmf.fm,rmfmaxxx.pl,roland-gazeta.pl,rolniczeabc.pl,rp.pl,rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,samequizy.pl,samosia.pl,seksimama.pl,slowopodlasia.pl,smakdnia.pl,smog.pl,snobka.pl,starachowice.pl,superniusy.pl,szokuje.pl,tczewska.pl,telepolis.pl,telewizjaopolskie.pl,telewizjazary.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,polskatimes.pl,pomorska.pl,popularne.pl,poranny.pl,portalbraniewo.pl,portalpomorza.pl,prawicowyinternet.pl,prostozmostu24.pl,pudelek.pl,pudelek.tv,pytamy.pl,pzl24.pl,radiobonton.pl,radiosochaczew.pl,radiozet.pl,rawicz24.pl,regiodom.pl,regiopraca.pl,rmf.fm,rmfmaxxx.pl,roland-gazeta.pl,rolniczeabc.pl,rp.pl,rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,samequizy.pl,samosia.pl,seksimama.pl,slowopodlasia.pl,smakdnia.pl,smog.pl,snobka.pl,starachowice.pl,superniusy.pl,szokuje.pl,tczewska.pl,telepolis.pl,telewizjaopolskie.pl,telewizjazary.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
@@ -1294,7 +1294,7 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
-abczdrowie.pl,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
+abczdrowie.pl,pinger.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 rybnik.com.pl##[id^="_gramscien_"]
@@ -1509,7 +1509,7 @@ expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,polskatimes.pl,pomorska.pl,poranny
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 primeradivision.pl,seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
-kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pudelekx.pl,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
+kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
 tygodnik.szczytno.pl##a[target="__new"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
