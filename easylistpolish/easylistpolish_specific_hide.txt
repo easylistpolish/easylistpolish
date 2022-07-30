@@ -1785,3 +1785,5 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
 infoskierniewice.pl##.topLayer
 kierunki-studiow.info##.bm1
+gazetawielkopolska.pl##.widget-3
+gazetawielkopolska.pl##.entry_content a img
