@@ -1337,7 +1337,6 @@ dsi.net.pl##a[href*="/banners/click/"]
 divers24.pl##a[href*="_bannerid="] > img
 brodnica-cbr.pl,linktopoland.com##a[href*="autoczescionline24.pl"]
 twojaslupca.pl##a[href*="autodoc.pl"]
-pl.savefrom.net##a[href*="banner"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
 cozadzien.pl,namasce.pl##a[href*="iparts.pl"]
