@@ -1702,7 +1702,6 @@ tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
 elektroda.pl##form[action^="https://www.tme.eu/"]
 wirtualneoslo.pl##header > center > a
-poczta.onet.pl##iframe[id^="lps/POCZTA/exclusive:WEBMAIL/"]
 scs.htw.pl##iframe[name="billboard-top"]
 bajery.pl##iframe[name="rek"]
 xlomza.pl##img.uk-margin-top
