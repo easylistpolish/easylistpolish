@@ -539,7 +539,7 @@ asta24.pl,ddwlkp.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtg
 scie24.pl##.baner a[href^="/counter/"]
 bolec.info##.baner-max
 re-volta.pl##.baner-medium-rectangle-on
-pless.pl,pszczyna.tv,tychy.info##.baner-row
+pszczyna.tv,tychy.info##.baner-row
 tygodniksiedlecki.com##.baner-text
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
 haloursynow.pl##.baner390x60
