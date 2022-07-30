@@ -38,7 +38,6 @@ poradnikzdrowie.pl,urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
 tuhiszpania.pl###b_searchboxInc
-plastech.pl###banbox_1
 plastech.pl###banbox_3
 przeglad-sejnenski.pl,sarp.org.pl###baner
 dziennik.walbrzych.pl###baner-glowny
