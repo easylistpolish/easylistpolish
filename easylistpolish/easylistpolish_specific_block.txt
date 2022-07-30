@@ -77,7 +77,6 @@
 ^inline_images/114^$domain=mylomza.pl
 ^inne^$domain=gminadobra24.pl|bezrzecze24.pl|gumience24.pl|mierzyn24.pl
 ^kampania_reklamowa^$domain=lubliniec.info
-^KasynoHEXPolska^$domain=goniec.com
 ^logo-$domain=legitymizm.org
 ^motor-land^$domain=motocykle125.pl
 ^nowosc_images^$domain=angielski.slowka.pl
