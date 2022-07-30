@@ -181,7 +181,6 @@ biegowki.pl###makler42
 skipol.pl###makler7
 skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
-planeta.pl###mavPlContener78
 tu.swinoujscie.pl###media_image-11
 tonaszregion.pl###media_image-134
 gazetatrybunalska.info###media_image-15
