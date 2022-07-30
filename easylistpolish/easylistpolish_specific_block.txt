@@ -80,7 +80,7 @@
 ^logo-$domain=legitymizm.org
 ^motor-land^$domain=motocykle125.pl
 ^nowosc_images^$domain=angielski.slowka.pl
-^Oklejanie-$domain=gloslodzi.pl|glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
+^Oklejanie-$domain=glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
 ^partner^$domain=podajdalej.info.pl
 ^partnerzy^$domain=abilet.pl|nasionakonopi.pl|szkolasen.com|widzewtomy.net
 ^pasek_reklam^$domain=proszkow.eu
