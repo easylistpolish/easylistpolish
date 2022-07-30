@@ -1783,3 +1783,4 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
+infoskierniewice.pl##.topLayer
