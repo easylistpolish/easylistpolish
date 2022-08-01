@@ -140,6 +140,7 @@ spottedskarzysko.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
+motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
 tkn24.pl###header + center
@@ -587,7 +588,7 @@ e-kolo.pl##.banner_polecane
 pik.kielce.pl##.banner_reklama_el
 rzesport.pl##.banner_wrapper
 przekrojlokalny.pl,slubickie.info##.banner_zone
-chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,estrzelce.pl,ezamosc.pl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,swidnik.pl,wadowiceonline.pl,wgmedia.eu,wybrzeze24.pl##.bannergroup
+chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,estrzelce.pl,ezamosc.pl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,sloworegionu.pl,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,swidnik.pl,wadowiceonline.pl,wgmedia.eu,wybrzeze24.pl##.bannergroup
 sloworegionu.pl##.bannergroup iframe
 palukitv.pl##.bannergroup img
 instalki.pl##.bannergroup-adv
@@ -625,6 +626,7 @@ bielsko.tv,pless.pl,pszczyna.tv,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 studentnews.pl##.bm
+kierunki-studiow.info##.bm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl,superportal24.pl##.bnr
 superportal24.pl##.bnr--billboard
@@ -655,7 +657,7 @@ ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
 naszahuta.pl##.c-banners
-terazostroleka.pl,zyciekalisza.pl##.c-content__adv
+e-kg.pl,terazostroleka.pl,zyciekalisza.pl##.c-content__adv
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
@@ -728,6 +730,7 @@ ecopoznan.pl##.elementor-shortcode
 iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
 gloslodzi.pl##.entry_content
+gazetawielkopolska.pl##.entry_content a img
 epainfo.pl##.epain-widget.td_block_template_1
 radionadzieja.pl##.et_pb_image_wrap
 all-inclusive.com.pl##.et_pb_text_inner a
@@ -1161,10 +1164,11 @@ jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 walbrzyszek.com##.top5 a[href^="/zlicz/"]
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-bielskirynek.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+bielskirynek.pl,infoskierniewice.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
+gazeta-mosina.pl##.topblock
 naszrynek.pl,sandomierztv.pl,strzelec.info,tczewska.pl##.toplayer
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
@@ -1196,7 +1200,7 @@ womenshealth.pl##.wh-optad
 zycie.pl##.wide-wd
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
-prudnik24.pl##.widget-3
+gazetawielkopolska.pl,prudnik24.pl##.widget-3
 lsw24.pl##.widget-ad-image
 faktykaliskie.info,slowopodlasia.pl##.widget-advert_placement
 bezale.pl##.widget-area
@@ -1240,6 +1244,7 @@ pwm.org.pl##A[onclick^="countAdClick"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 wylecz.to##[class$="330e"]
 tvpolice.com.pl##[class*="advert-"]
+leba24.info##[class*="code-block-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
 rmf24.pl##[class="ad adsBilbordArticle"]
@@ -1263,7 +1268,9 @@ goral.info.pl##[class^="l-box l-box--"] a[target]
 nowinynyskie.com.pl##[class^="l-box l-box--"] img[width="1170"]
 nto.pl##[class^="lista_content_stream_"]
 kanal10.pl##[class^="moduletable_banner"]
+igrit.pl##[class^="py-"]
 eplastics.pl##[class^="reklama"]
+samiswoi.news##[class^="serve-"]
 podlaski.info##[class^="slider-banner-"]
 pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
@@ -1441,6 +1448,7 @@ cryptonews.pl##a[href^="https://www.koinal.io/"] img
 radiobielsko.pl##a[href^="https://www.kubisa24.pl/"]
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
+lpg-forum.pl##a[href^="https://www.payback.pl/"]
 speedtest.pl##a[href^="https://www.play.pl/oferta/"]
 spottedstarachowice.pl##a[href^="https://www.romerpp.pl"]
 fight24.pl,kulturystyka.pl##a[href^="https://www.sfd.pl/"]
@@ -1606,6 +1614,7 @@ wylecz.to##div[data-event="slotseen"]
 wylecz.to##div[data-evet="slotseen"]
 wylecz.to##div[data-evnet="slotseen"]
 wp.pl##div[data-native-adv]
+wylecz.to##div[data-ohyes="slotseen"]
 onet.pl##div[data-section^="ad-flat"]
 rekomendowanefirmy.pl##div[id^="AD-"]
 mgsm.pl##div[id^="AdArea"]
@@ -1668,6 +1677,7 @@ inwestinfo.pl##div[style="height:25px;text-align: center;"]
 osowa24.pl##div[style="margin-bottom: 10px;"]
 ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
 calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 220px;"]
+businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
 pudelek.pl##div[style="position: relative; top: 0px; z-index: 0;"]
 travelmaniacy.pl##div[style="width: 305px; height: 270px; margin: 5px 0 5px 0;"]
 stooq.pl##div[style="width:300;height:250"]
@@ -1742,17 +1752,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
-infoskierniewice.pl##.topLayer
-kierunki-studiow.info##.bm1
-gazetawielkopolska.pl##.widget-3
-gazetawielkopolska.pl##.entry_content a img
-leba24.info##[class*="code-block-"]
-gazeta-mosina.pl##.topblock
-e-kg.pl##.c-content__adv
-wylecz.to##div[data-ohyes="slotseen"]
-samiswoi.news##[class^="serve-"]
-motocykle125.pl###gp-fixed-padding + center
-igrit.pl##[class^="py-"]
-sloworegionu.pl##.bannergroup
-lpg-forum.pl##a[href^="https://www.payback.pl/"]
