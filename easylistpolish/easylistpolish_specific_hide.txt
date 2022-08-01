@@ -516,7 +516,7 @@ gazetarumska.pl##.articleBottom-ads
 24wspolnota.pl##.article__ad-special
 parenting.pl##.article__textbox
 posbud.com.pl##.as_marquee0
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.atomsAdsCellModel
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.atomsAdsCellModel
 glospedagogiczny.pl##.auto-pr-block > a
 tutsplus.com##.avert
 tygodnikpiski.pl##.avt_masterslider_el
