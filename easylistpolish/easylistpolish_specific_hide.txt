@@ -394,7 +394,6 @@ facetpo40.pl##._ad
 kartuzy.info##._ad_loaded
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 slupca.pl##.a-220
-portalmorski.pl##.a-block
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
