@@ -1231,7 +1231,6 @@ okraglemiasto.pl##.wpb_left-to-right
 noweinfo.pl##.wpb_text_column img[width="300"]
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
 wbaziefirm.pl##.wrapper-flash
-poradnikhandlowca.com.pl##.yReklamy
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
