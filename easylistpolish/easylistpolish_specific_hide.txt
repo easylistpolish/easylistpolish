@@ -1753,3 +1753,6 @@ e-kg.pl##.c-content__adv
 wylecz.to##div[data-ohyes="slotseen"]
 samiswoi.news##[class^="serve-"]
 motocykle125.pl###gp-fixed-padding + center
+igrit.pl##[class^="py-"]
+sloworegionu.pl##.bannergroup
+lpg-forum.pl##a[href^="https://www.payback.pl/"]
