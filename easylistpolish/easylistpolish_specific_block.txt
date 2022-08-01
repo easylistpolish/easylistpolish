@@ -86,7 +86,6 @@
 ^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|olawa24.pl
-^py-img^$domain=igrit.pl
 ^r_-$domain=sloworegionu.pl
 ^rek^$domain=barlinek24.pl|forummleczarskie.pl|glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|lpg-forum.pl|nowy-sacz.pl|tujastrzebie.pl|tuwodzislaw.pl|tuzory.pl
 ^rekl^$domain=pgt.pl|prostozopolskiego.pl
