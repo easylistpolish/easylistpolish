@@ -34,7 +34,7 @@ woda-scieki.com###advertbox
 bitcoin.pl###advertisements
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
-poradnikzdrowie.pl,urzadzamy.pl###article_zpr_shopping
+urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
 tuhiszpania.pl###b_searchboxInc
