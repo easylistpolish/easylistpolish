@@ -1496,7 +1496,6 @@ sloworegionu.pl##a[title="canal+grafika"]
 fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
 nowiny24.pl##article.contentStream
-pomorska.pl##article[class^="lista_content_stream_"]
 allegro.pl##article[data-analytics-view-label^="allegro.advertising.adspremium"]
 allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
