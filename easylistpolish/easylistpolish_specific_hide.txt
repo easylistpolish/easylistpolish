@@ -255,7 +255,6 @@ elka.pl###reklamaGooglePrawa336Last
 forumbranzowe.com###reklama_2
 gada.pl###reklama_gazetowa
 anime-odcinki.pl###reklama_lewa
-police24.pl###reklama_multinieruchomosci_szczecin
 anime-odcinki.pl###reklama_prawa
 zakazany-humor.pl###reklama_s
 stoczniowcy.pl###reklama_top
