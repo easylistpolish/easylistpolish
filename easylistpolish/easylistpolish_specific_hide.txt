@@ -499,7 +499,6 @@ glamour.pl,kobieta.pl##.advertising-billboard
 leba24.info##.advertizing-slots
 edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
-polygamia.pl##.adwordbackground
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
 life4style.pl,sporteuro.pl##.ai-rotate
