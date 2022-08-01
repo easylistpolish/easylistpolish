@@ -81,7 +81,7 @@
 ^motor-land^$domain=motocykle125.pl
 ^nowosc_images^$domain=angielski.slowka.pl
 ^partner^$domain=podajdalej.info.pl
-^partnerzy^$domain=nasionakonopi.pl|szkolasen.com|widzewtomy.net
+^partnerzy^$domain=szkolasen.com|widzewtomy.net
 ^pasek_reklam^$domain=proszkow.eu
 ^pictures/BETSSON%$image,domain=2x45.info
 ^pictures/Mostbet.$image,domain=2x45.info
