@@ -83,7 +83,7 @@
 ^partner^$domain=podajdalej.info.pl
 ^partnerzy^$domain=szkolasen.com|widzewtomy.net
 ^pasek_reklam^$domain=proszkow.eu
-^polecamy^$domain=almanak.pl|mysl24.pl
+^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|olawa24.pl
 ^py-img^$domain=igrit.pl
