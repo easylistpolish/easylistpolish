@@ -83,7 +83,6 @@
 ^partner^$domain=podajdalej.info.pl
 ^partnerzy^$domain=szkolasen.com|widzewtomy.net
 ^pasek_reklam^$domain=proszkow.eu
-^pictures/BETSSON%$image,domain=2x45.info
 ^pictures/Mostbet.$image,domain=2x45.info
 ^pictures/TOTAL%20BET%$image,domain=2x45.info
 ^PKPP-$domain=linia.com.pl
