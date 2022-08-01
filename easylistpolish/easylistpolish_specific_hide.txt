@@ -999,7 +999,6 @@ moje-gniezno.pl##.reklamaTEKST
 dkl24.pl##.reklama_700
 wieliczkacity.pl##.reklama_980
 wieliczkacity.pl##.reklama_980 ~ center a
-portalprzemyski.pl##.reklama_boczna
 rzeszow-news.pl##.reklama_gora
 wirtualnyzgierz.pl##.reklama_head
 zakazany-humor.pl##.reklama_nad_trescia
