@@ -88,7 +88,7 @@
 ^promocja-$domain=edebno.pl|olawa24.pl
 ^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tuwodzislaw.pl
 ^rekl^$domain=pgt.pl
-^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|moja24.pl|mojgdow.pl|naszwybir.pl|ok24.tv|sportsiedlce.pl|sweetwedding.pl|tvdg.pl|warka24.pl|wodnyrelax.pl
+^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|moja24.pl|mojgdow.pl|naszwybir.pl|ok24.tv|sweetwedding.pl|tvdg.pl|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
 ^reklama-$domain=ostrodanews.pl|ptvr.pl|starosadeckie.info|transg.pl|tv-pelplin.pl|tvciechanow.pl
 ^reklama0_$domain=24ikp.pl
