@@ -86,7 +86,7 @@
 ^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|olawa24.pl
-^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tujastrzebie.pl|tuwodzislaw.pl|tuzory.pl
+^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tuwodzislaw.pl|tuzory.pl
 ^rekl^$domain=pgt.pl|prostozopolskiego.pl
 ^reklama-$domain=4programmers.net|bilgorajska.pl|ciekawe.org|debica.tv|fizjoterapeuty.pl|fleschmazowsza.com.pl|icelandnews.is|ifrancja.fr|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|moja24.pl|mojgdow.pl|naszwybir.pl|ok24.tv|oswiecim112.pl|polacywewloszech.com|sportsiedlce.pl|sweetwedding.pl|tvdg.pl|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
