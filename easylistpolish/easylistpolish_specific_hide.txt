@@ -1332,7 +1332,6 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
-portalplock.pl##a[href="1005_sponsorowane"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
