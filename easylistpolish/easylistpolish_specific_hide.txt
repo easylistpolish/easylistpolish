@@ -1773,3 +1773,4 @@ wylecz.to##div[data-ohyes="slotseen"]
 samiswoi.news##[class^="serve-"]
 motocykle125.pl###gp-fixed-padding + center
 igrit.pl##[class^="py-"]
+sloworegionu.pl##.bannergroup
