@@ -421,7 +421,6 @@ zyciemyszkowa.pl##.ad-info + div
 pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
 7dnikalisza.com##.ad-small
-polskieligi.net##.ad-top-container
 egospodarka.pl##.ad750
 raportkolejowy.pl##.ad_adInfo
 rrs24.net##.ad_img_baner_glowny
