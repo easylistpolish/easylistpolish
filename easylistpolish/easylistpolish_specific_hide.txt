@@ -970,7 +970,6 @@ ewejsciowki.pl##.promo-container
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 forumbranzowe.com##.promocje
 lol24.com,zumi.pl##.promotion
-przegladpiaseczynski.pl##.przeglad-reklama-box
 kryptoholik.pl##.pum-overlay
 ekoexpo.pl,gorzow24.pl##.r
 goryiludzie.pl##.rad
