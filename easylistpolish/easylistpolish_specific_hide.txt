@@ -1056,7 +1056,6 @@ radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
 sportsiedlce.pl##.sidebar-widget > a > img[alt][width][height]
-portalstoczniowy.pl##.sidebar-widget-area a[rel="noopener noreferrer"]
 tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
