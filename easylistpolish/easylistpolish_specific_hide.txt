@@ -1725,7 +1725,6 @@ pyrzyce.info##li[id^="text-"] a[target="_blank"]
 pzhkiperybnik.vgh.pl##marquee
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
-ppe.pl#?#div:-abp-has(> script[src*=".doubleclick."])
 pudelek.pl,wp.pl#?#IMG:-abp-properties(position: relative;)
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
