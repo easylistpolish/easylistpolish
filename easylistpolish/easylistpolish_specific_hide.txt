@@ -1030,7 +1030,7 @@ mojanorwegia.pl##.row.single > a[target="_blank"]
 nowawrzesnia.pl##.rs-advertisement
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
-pracaikariera.pl,studentnews.pl##.s_dodatkowa font[size="5"]
+studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,zebrra.tv##.sam-container
 nizanskie.info,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl##.santa-main-wrapper
