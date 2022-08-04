@@ -1575,7 +1575,6 @@ bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
 betonline.net.pl,mecze24.pl,skrotymeczow.pl##div[class^="cool-stuff"]
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
-portel.pl##div[class^="divBa"]
 moto3m.pl##div[class^="e3lan"]
 filmweb.pl##div[class^="fa faBar"]
 oswiecim112.pl,swiatmotocykli.pl##div[class^="g-col b-"]
