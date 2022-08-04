@@ -725,7 +725,6 @@ sweetwedding.pl##.ecrosio-header-slider
 zkaszub.info##.edd
 kb.pl##.element-click
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
-powrotroberta.pl##.elementor-image a[href^="https://online-mexos."]
 ecopoznan.pl##.elementor-shortcode
 iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
