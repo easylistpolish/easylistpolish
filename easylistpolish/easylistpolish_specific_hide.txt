@@ -786,7 +786,7 @@ portaltenisowy.info##.header--advert
 rzeszowskieinfo.pl##.header-add
 tarnobrzeg.info##.header-advertise
 rynek-ksiazki.pl##.header-baner
-dts24.pl,nysahot.pl,probasket.pl,salebiznesowe.pl##.header-banner
+dts24.pl,nysahot.pl,salebiznesowe.pl##.header-banner
 mamaklub.pl##.header-billboard
 promocja.mielec.pl##.header-content
 magazynbiomasa.pl##.header-promo
