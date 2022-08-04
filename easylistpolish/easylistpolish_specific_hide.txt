@@ -207,7 +207,7 @@ kurierostrowski.pl###metaslider_970
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
-glamrap.pl,goleniowska.com,powiatpolicki.info,przeambitni.pl###mvp-leader-wrap
+glamrap.pl,goleniowska.com,przeambitni.pl###mvp-leader-wrap
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
