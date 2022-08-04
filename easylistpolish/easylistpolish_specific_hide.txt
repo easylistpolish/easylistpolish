@@ -265,7 +265,7 @@ radio.opole.pl###rmabox
 polonika.fr###rt-top
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
-przeclaw24.pl,tygodnik-krapkowicki.info###sbox-window
+tygodnik-krapkowicki.info###sbox-window
 techfreak.pl###secondary
 strefa.se###secondary [id^="media_image-"]
 polonia.laziska.pl###section2
