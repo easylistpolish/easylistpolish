@@ -921,7 +921,6 @@ naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
 gazetaostrowska.pl##.nivoSlider
 networkmagazyn.pl##.nmSectionBanner
-pozatorun.pl##.np-ads-wrapper
 wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
