@@ -1128,7 +1128,7 @@ radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
 sulecin24.pl##.td-rec-spot img
 przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
-cai24.pl,progressforpoland.org##.td_block_single_image
+cai24.pl##.td_block_single_image
 sochaczewianin.pl##.td_block_wrap .td-a-rec
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 sulecin24.pl##.td_rec > .td_mod_wrap > img
