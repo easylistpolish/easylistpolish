@@ -972,7 +972,6 @@ mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 ewejsciowki.pl##.promo-container
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
-portaltatrzanski.pl##.promoadv
 forumbranzowe.com##.promocje
 lol24.com,zumi.pl##.promotion
 przegladpiaseczynski.pl##.przeglad-reklama-box
