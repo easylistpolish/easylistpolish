@@ -68,7 +68,6 @@ bosonamacie.pl###big-wrapper
 tychy.pl###bilboard_970x90
 ftb.pl###billboard
 dnews.pl###black-studio-tinymce-111
-przedreptacswiat.pl###black-studio-tinymce-2
 przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
 dnews.pl###black-studio-tinymce-99
