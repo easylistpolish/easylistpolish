@@ -1181,7 +1181,6 @@ radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm##.vc_wp_text
 24gliwice.pl,banita.travel.pl##.vce-sticky
 razdwasport.pl##.vendor-holder-main-page
-prostoomuzyce.pl##.view-banery
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 webiko.pl##.view-promocje a[target="_blank"]
 sad24.pl##.vip
