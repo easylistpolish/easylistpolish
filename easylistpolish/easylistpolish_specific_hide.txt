@@ -1477,7 +1477,6 @@ wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 1
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
 maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
-purepc.pl##a[title="KIOXIA"]
 sloworegionu.pl##a[title="canal+grafika"]
 fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
