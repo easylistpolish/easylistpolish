@@ -1471,7 +1471,7 @@ expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,pzl24.pl,regionfan.pl,styl.fm,to.c
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
-kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,pudelek.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
+kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,pudelek.tv,pytamy.pl,samosia.pl,smog.pl,snobka.pl,wp.pl##a[style="display: block;"]
 tygodnik.szczytno.pl##a[target="__new"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
