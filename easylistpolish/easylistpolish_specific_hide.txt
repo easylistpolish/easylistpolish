@@ -1037,7 +1037,6 @@ motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
-radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
 sportsiedlce.pl##.sidebar-widget > a > img[alt][width][height]
