@@ -239,7 +239,6 @@ naszekielce.com###promoted
 slowokatowic.pl,slowokrakowa.pl,slowolodzi.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###promoted-articles
 infosokolka.pl###promoted-module
 naszestrony.info.pl###pyre_tabs-widget-2
-radio.opole.pl###r195
 starachowice-net.pl###r2
 zaufanatrzeciastrona.pl###rab1
 wyborcza.pl###rectangle-splint
