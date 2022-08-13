@@ -1040,7 +1040,6 @@ sfora.pl,teleshow.wp.pl,wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
-purepc.pl##.sidebar a[href^="/rediz.php?"]
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
 radiokolor.pl##.sidebar-2 a[rel="noopener noreferrer"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
