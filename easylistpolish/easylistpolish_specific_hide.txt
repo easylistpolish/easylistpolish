@@ -491,7 +491,7 @@ wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
 q4.pl##.advertisemen-block
-przewodnikmp.pl,pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
+pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
 leba24.info##.advertizing-slots
 edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
