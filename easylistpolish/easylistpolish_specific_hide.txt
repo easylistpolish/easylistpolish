@@ -440,7 +440,6 @@ szokuje.pl##.ads-after-article
 zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
-q4.pl##.ads-container
 szokuje.pl##.ads-in-article
 szokuje.pl##.ads-in-thumbs
 esanok.pl,ustrzyki24.pl##.ads-s
