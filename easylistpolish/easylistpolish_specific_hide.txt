@@ -1732,5 +1732,5 @@ podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
-wp.pl,pudelek.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+wp.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
