@@ -394,7 +394,7 @@ jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
 cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
-nowy-sacz.info,oswiecim112.pl,radio5.com.pl,radioradom.pl,tygodniksanocki.pl##.a-single
+nowy-sacz.info,oswiecim112.pl,radioradom.pl,tygodniksanocki.pl##.a-single
 cowwilanowie.pl##.a-slider
 appleworld.pl,opowiecie.info,tygodnikponidzia.pl##.a-widget
 polonia-peterborough.uk##.a-wrap
