@@ -1703,7 +1703,6 @@ thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
-wp.pl#?#IMG:-abp-properties(position: relative;)
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
@@ -1719,5 +1718,6 @@ podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
+wp.pl#?#IMG:-abp-properties(position: relative;)
 wp.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
