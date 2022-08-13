@@ -486,7 +486,6 @@ zory24.pl##.advertbutton
 wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
-q4.pl##.advertisemen-block
 pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
 leba24.info##.advertizing-slots
