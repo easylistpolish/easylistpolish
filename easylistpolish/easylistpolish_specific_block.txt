@@ -99,7 +99,6 @@
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
-^show-baners.php?$script,domain=24gliwice.pl
 ^sponsors^$domain=wiruspc.pl
 ^statystyk_box.$domain=bajery.pl
 ^STRONKA-1.jpg?$domain=swarzedz24.pl
