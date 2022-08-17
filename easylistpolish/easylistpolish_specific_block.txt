@@ -93,7 +93,6 @@
 ^reklama-$domain=ptvr.pl|starosadeckie.info|transg.pl|tv-pelplin.pl
 ^reklama0_$domain=24ikp.pl
 ^reklama_$domain=24ikp.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|legitymizm.org|miedzyzdrojskie.info|tarnowiak.pl
-^reklama_poziom.$domain=biblia.iq24.pl
 ^reklamowe^$domain=bolec.info|msfera.pl
 ^reklamy-$domain=ipulawy.pl
 ^reklamy^$domain=cashless.pl|e-legnickie.pl|expresskaszubski.pl|gniezno24.pl|ino-online.pl|ino.online|limanowa.in|mojaolesnica.pl|mysl24.pl|nasztomaszow.pl|tucholainfo.pl|twojejaslo.pl|zdrowybialystok.pl
