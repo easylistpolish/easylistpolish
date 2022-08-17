@@ -95,7 +95,7 @@
 ^reklama_$domain=24ikp.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|legitymizm.org|miedzyzdrojskie.info|tarnowiak.pl
 ^reklamowe^$domain=bolec.info
 ^reklamy-$domain=ipulawy.pl
-^reklamy^$domain=e-legnickie.pl|expresskaszubski.pl|gniezno24.pl|ino-online.pl|ino.online|limanowa.in|mojaolesnica.pl|mysl24.pl|nasztomaszow.pl|tucholainfo.pl|twojejaslo.pl|zdrowybialystok.pl
+^reklamy^$domain=e-legnickie.pl|gniezno24.pl|ino-online.pl|ino.online|limanowa.in|mojaolesnica.pl|mysl24.pl|nasztomaszow.pl|tucholainfo.pl|twojejaslo.pl|zdrowybialystok.pl
 ^reklamy_$domain=cenyrolnicze.pl|galeriafirm.eu|gazetka.be|pilkanozna.pl|plonskwsieci.pl|supertydzien.pl|tugazeta.pl
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
