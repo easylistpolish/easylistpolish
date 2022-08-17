@@ -100,7 +100,7 @@
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
 ^statystyk_box.$domain=bajery.pl
-^Szkolenia-BHP-$domain=glosczestochowy.pl|gloskatowic.pl|gloskrakowa.pl|gloslodzi.pl|glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
+^Szkolenia-BHP-$domain=gloskatowic.pl|gloskrakowa.pl|gloslodzi.pl|glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
 ^szumilo-$domain=radiobonton.pl
 ^Termotopw_$domain=radiobonton.pl
 ^therapy.$domain=tvklodzka.pl
