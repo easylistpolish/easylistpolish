@@ -102,7 +102,6 @@
 ^statystyk_box.$domain=bajery.pl
 ^therapy.$domain=tvklodzka.pl
 ^Trevda/132.$domain=polska-zbrojna.pl
-^view.php?key=$image,domain=gpcodziennie.pl
 ^widgets^$domain=karpacz24.pl
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^wpjslib-sgap.$script,domain=poczta.wp.pl
