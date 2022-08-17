@@ -95,7 +95,7 @@
 ^reklama_$domain=24ikp.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|legitymizm.org|miedzyzdrojskie.info|tarnowiak.pl
 ^reklamowe^$domain=bolec.info
 ^reklamy-$domain=ipulawy.pl
-^reklamy_$domain=gazetka.be|tugazeta.pl
+^reklamy_$domain=gazetka.be
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl|wcipy.pl|zarzadca.pl
