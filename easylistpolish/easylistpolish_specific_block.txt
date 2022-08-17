@@ -100,7 +100,6 @@
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
 ^statystyk_box.$domain=bajery.pl
-^Szkolenia-BHP-$domain=gloswroclawia.pl
 ^szumilo-$domain=radiobonton.pl
 ^Termotopw_$domain=radiobonton.pl
 ^therapy.$domain=tvklodzka.pl
