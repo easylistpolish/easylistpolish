@@ -90,7 +90,7 @@
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|moja24.pl|mojgdow.pl|naszwybir.pl|ok24.tv|tvdg.pl|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
-^reklama-$domain=ptvr.pl|starosadeckie.info|transg.pl|tv-pelplin.pl|tvciechanow.pl
+^reklama-$domain=ptvr.pl|starosadeckie.info|transg.pl|tv-pelplin.pl
 ^reklama0_$domain=24ikp.pl
 ^reklama2-$domain=wirtualnyregion.pl
 ^reklama_$domain=24ikp.pl|eswinoujscie.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|legitymizm.org|midrasz.home.pl|miedzyzdrojskie.info|rdn.pl|schadzka.com|tarnowiak.pl|tg.net.pl|tylkotorun.pl|wrc.net.pl
