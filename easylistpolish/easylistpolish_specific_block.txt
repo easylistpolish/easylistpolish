@@ -96,7 +96,7 @@
 ^reklamowe^$domain=bolec.info
 ^reklamy-$domain=ipulawy.pl
 ^reklamy^$domain=e-legnickie.pl|mojaolesnica.pl|tucholainfo.pl|zdrowybialystok.pl
-^reklamy_$domain=gazetka.be|plonskwsieci.pl|supertydzien.pl|tugazeta.pl
+^reklamy_$domain=gazetka.be|supertydzien.pl|tugazeta.pl
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl|wcipy.pl|zarzadca.pl
