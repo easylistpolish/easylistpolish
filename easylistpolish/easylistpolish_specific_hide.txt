@@ -525,7 +525,6 @@ pulskwidzyna.pl##.banToper
 asta24.pl,ddwlkp.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pojezierze24.pl,polskicaravaning.pl,pzl24.info,speedwaynews.pl,sportowebeskidy.pl,swiatkarinki.pl,targimieszkaniowe.pl,typersi.pl,warsztat.pl,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl,wygasle.net##.baner
 scie24.pl##.baner a[href^="/counter/"]
 bolec.info##.baner-max
-re-volta.pl##.baner-medium-rectangle-on
 tychy.info##.baner-row
 tygodniksiedlecki.com##.baner-text
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
