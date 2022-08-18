@@ -466,7 +466,7 @@ gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
 historykon.pl##.adv_content
 wp.pl##.advarticle
-alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiopark.fm,radiozet.pl,rynek-drzewny.pl,stacja7.pl,tygodnik-rolniczy.pl,warzywaiowoce.pl,wiescirolnicze.pl##.advert
+alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,stacja7.pl,tygodnik-rolniczy.pl,warzywaiowoce.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
 eluban.pl,koscierzyna24.info,portalpomorza.pl,radiosochaczew.pl,slowopodlasia.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,truso.tv,tuolawa.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
 bydgoszcz.com,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,telewizjazary.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
