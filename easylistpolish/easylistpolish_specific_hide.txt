@@ -1492,7 +1492,6 @@ lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
 transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
 fotelik.info##div#addframe
-rynek-rolny.pl##div#fixedElement
 gorzow24.pl##div#ims_over_cont
 spottedalert.pl##div#mvp-leader-wrap
 gostynin.info##div#popup-billboard
