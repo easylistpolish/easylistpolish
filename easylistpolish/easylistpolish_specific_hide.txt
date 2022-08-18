@@ -1724,3 +1724,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kk24.pl##.kk24-br
 tvciechanow.pl##.banner
 wirtualnyregion.eu##.tdc-row .cycloneslider
+krs-online.com.pl###banner + div
