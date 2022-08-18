@@ -537,7 +537,7 @@ sportowememy.pl##.baner_ad
 e-kolo.pl##.baner_billboard
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 eurologistics.pl,mojeniemcy.de##.baner_top
-elblag.net,rawicz24.pl##.banera1
+elblag.net##.banera1
 lakiernictwo.net##.banert
 ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
