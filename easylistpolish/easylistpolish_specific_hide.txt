@@ -979,7 +979,7 @@ glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 bielskiedrogi.pl,tychy.info##.reklama-display-desktop
-cnc.info.pl,kalisz24.info.pl,radom24.pl##.reklama-top
+cnc.info.pl,kalisz24.info.pl##.reklama-top
 polonia.nl##.reklama-warpper
 wiesci.info.pl##.reklamaLewa
 eostroleka.pl,seriea.pl##.reklamaNapis
