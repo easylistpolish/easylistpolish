@@ -726,7 +726,6 @@ ittechblog.pl##.ext-link > img
 forum.interia.pl##.f3-sidebar--ad
 e-stargard.pl##.fb_widget
 przemysl24.pl##.fbaner
-realizator.pl##.fixed-advert-container
 konin24.info##.flex-list
 zlubaczowa.pl##.flexbannergroup
 punkt.media##.flexbannergrouppattern
