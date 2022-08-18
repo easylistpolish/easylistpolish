@@ -718,3 +718,4 @@ inline__1_$domain=twojradom.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 _banner_$domain=swarzedz24.pl
+^baner_$domain=gazetka.be
