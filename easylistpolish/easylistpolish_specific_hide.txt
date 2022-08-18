@@ -1725,3 +1725,4 @@ kk24.pl##.kk24-br
 tvciechanow.pl##.banner
 wirtualnyregion.eu##.tdc-row .cycloneslider
 krs-online.com.pl###banner + div
+radomsport.pl##a[href*="https://www.toyota.radom.pl/"]
