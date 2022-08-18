@@ -103,7 +103,6 @@
 ^therapy.$domain=tvklodzka.pl
 ^widgets^$domain=karpacz24.pl
 ^wordwwwpunkty.$domain=7dni.pila.pl
-^wpjslib-sgap.$script,domain=poczta.wp.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 ^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
 _1000x165.$domain=krs-online.com.pl
