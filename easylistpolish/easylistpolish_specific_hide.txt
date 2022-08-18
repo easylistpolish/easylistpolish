@@ -1414,7 +1414,7 @@ brief.pl##a[href^="https://www.foodtown.pl"]
 przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
 swarzedz24.pl##a[href^="https://www.inea.pl/"]
-dieroten.pl,radiogol.pl,renaultlaguna.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
+dieroten.pl,radiogol.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
