@@ -571,7 +571,6 @@ zlotowskie.pl##.bannerSlider
 mojanorwegia.pl##.bannerTop
 3trzy3.pl##.banner_1
 android.com.pl##.banner__placeholder
-roksa.pl##.banner_bottom
 confero.pl##.banner_panel
 zmpd.pl##.banner_po_lewej
 e-kolo.pl##.banner_polecane
