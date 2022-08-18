@@ -806,7 +806,6 @@ bobrzanie.pl##.homeadv
 skawinska.pl##.homepage-ad-area
 firmypolski.pl##.hot-info-slider
 rdn.pl##.hred_cont_re
-rdn.pl##.hred_sport_re
 korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
