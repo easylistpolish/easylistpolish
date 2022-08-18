@@ -101,7 +101,6 @@
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
 ^statystyk_box.$domain=bajery.pl
 ^therapy.$domain=tvklodzka.pl
-^widgets^$domain=karpacz24.pl
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 ^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
