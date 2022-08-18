@@ -104,7 +104,6 @@
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 ^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
-_940x300.$domain=polishexpress.co.uk
 _ban.$domain=radomsport.pl
 _ban_$domain=glos.live
 _baner%$domain=transg.pl
