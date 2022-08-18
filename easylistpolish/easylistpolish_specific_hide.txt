@@ -1707,3 +1707,8 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wp.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kk24.pl##.kk24-br
+tvciechanow.pl##.banner
+wirtualnyregion.eu##.tdc-row .cycloneslider
+krs-online.com.pl###banner + div
+radomsport.pl##a[href*="https://www.toyota.radom.pl/"]
+iknurow.pl##.td_block_template_1 p img
