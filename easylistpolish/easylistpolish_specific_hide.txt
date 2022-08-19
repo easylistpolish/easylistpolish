@@ -1694,7 +1694,7 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-wp.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kk24.pl##.kk24-br
 tvciechanow.pl##.banner
