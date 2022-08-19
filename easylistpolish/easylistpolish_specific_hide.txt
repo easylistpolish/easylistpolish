@@ -991,7 +991,6 @@ bb365.info##.reklamki
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 wiesci.info.pl##.reklamyPrawa
 konindzieciom.pl##.rektop
-sekrety-zdrowia.org##.rekwraph
 whatsnext.pl##.retina-image
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
