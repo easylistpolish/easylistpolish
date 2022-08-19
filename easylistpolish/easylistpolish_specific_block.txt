@@ -42,7 +42,7 @@
 ^baner1200x200-$domain=starosadeckie.info
 ^baner2.$domain=edebno.pl
 ^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|enowiny.pl|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|przyjaznawarszawa.pl|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
-^baner_$domain=7dni.pila.pl|asystentbhp.pl|bloog.pl|chcemybycrodzicami.pl|chelsea24news.pl|chemiaibiznes.com.pl|chorzowianin.pl|cksport.pl|czestochowskie24.pl|dzierzgon-twojemiasto.pl|e-pingpong.pl|extra.info.pl|forumfajerwerki.pl|fresh-market.pl|futbolfejs.pl|gazeta-mlawska.pl|gazetacz.com.pl|gazetagazeta.com|gielda-koni.com.pl|glogow-info.pl|glosmordoru.pl|grapplerinfo.pl|info.stargard.pl|infofordon.pl|infokatowice.pl|jaw.pl|jazdaprawna.pl|kurier-kolski.pl|kurierostrowski.pl|kurierzamojski.pl|legitymizm.org|lexus-forum.pl|magazynregionalny.pl|materialybudowlane.info.pl|meteoprog.pl|miedzyzdroje.tv|mojeniemcy.de|nanarty.info|nowawrzesnia.pl|podgorze.pl|podlaskieagro.pl|polacywewloszech.com|poligonowewiesci.pl|portalkosmiczny.pl|przemyskie.info|przewodnicywedkarscy.pl|ptvr.pl|radiopiekary.pl|radioradom.pl|radomsport.pl|rdn.pl|regionalna.pl|sad24.pl|sporteuro.pl|sweetwedding.pl|swiatoze.pl|swidnik.pl|tc.ciechanow.pl|thinkapple.pl|tvostrow.pl|tw-24.pl|tygodnik-krapkowicki.info|tygodnik-rolniczy.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|urodaizdrowie.pl|vwgolf.pl|wdrawskupomorskim.pl|wiadomosci.rii.pl|wiatriwoda.pl|widzewtomy.net|wieliczkacity.pl|wirtualnelegionowo.pl|wirtualnynowydwor.pl|zapytam.com|zkaszub.info|zpazurem.pl|zyciezamoscia.pl
+^baner_$domain=7dni.pila.pl|asystentbhp.pl|bloog.pl|chcemybycrodzicami.pl|chelsea24news.pl|chemiaibiznes.com.pl|chorzowianin.pl|cksport.pl|czestochowskie24.pl|dzierzgon-twojemiasto.pl|e-pingpong.pl|extra.info.pl|forumfajerwerki.pl|fresh-market.pl|futbolfejs.pl|gazeta-mlawska.pl|gazetacz.com.pl|gazetagazeta.com|gazetka.be|gielda-koni.com.pl|glogow-info.pl|glosmordoru.pl|grapplerinfo.pl|info.stargard.pl|infofordon.pl|infokatowice.pl|jaw.pl|jazdaprawna.pl|kurier-kolski.pl|kurierostrowski.pl|kurierzamojski.pl|legitymizm.org|lexus-forum.pl|magazynregionalny.pl|materialybudowlane.info.pl|meteoprog.pl|miedzyzdroje.tv|mojeniemcy.de|nanarty.info|nowawrzesnia.pl|podgorze.pl|podlaskieagro.pl|polacywewloszech.com|poligonowewiesci.pl|portalkosmiczny.pl|przemyskie.info|przewodnicywedkarscy.pl|ptvr.pl|radiopiekary.pl|radioradom.pl|radomsport.pl|rdn.pl|regionalna.pl|sad24.pl|sporteuro.pl|sweetwedding.pl|swiatoze.pl|swidnik.pl|tc.ciechanow.pl|thinkapple.pl|tvostrow.pl|tw-24.pl|tygodnik-krapkowicki.info|tygodnik-rolniczy.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|urodaizdrowie.pl|vwgolf.pl|wdrawskupomorskim.pl|wiadomosci.rii.pl|wiatriwoda.pl|widzewtomy.net|wieliczkacity.pl|wirtualnelegionowo.pl|wirtualnynowydwor.pl|zapytam.com|zkaszub.info|zpazurem.pl|zyciezamoscia.pl
 ^banerkiJPG^$domain=zulawy.com
 ^baners^$domain=konieimy.pl|nowaruda.info|podlasie24.pl|portalpszczelarski.pl
 ^banery/8^$domain=sportowememy.pl
@@ -115,7 +115,7 @@ _banery_$domain=automotivesuppliers.pl|stolarkabudowlana.eu
 _Banner$image,domain=make-cash.pl
 _banner-$domain=panoramakutna.pl
 _banner.$domain=e-play.pl|forumfajerwerki.pl|olsztyn24.com|polacywewloszech.com|swiatmetali.eu|zegarkiclub.pl
-_banner_$domain=4pm.pl|chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-pingpong.pl|forum-norwegia.pl|forumfajerwerki.pl|itwiz.pl|jagodnik.pl|juliarozumek.pl|katalogprzedsiebiorstw.pl|kb.pl|kuriergarwolinski.pl|nowy-sacz.info|pionki24.pl|polishexpress.co.uk|poradnikhandlowca.com.pl|przewodnicywedkarscy.pl|starosadeckie.info|stolarkabudowlana.eu|tygodnik-rolniczy.pl|wydawca.com.pl
+_banner_$domain=4pm.pl|chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-pingpong.pl|forum-norwegia.pl|forumfajerwerki.pl|itwiz.pl|jagodnik.pl|juliarozumek.pl|katalogprzedsiebiorstw.pl|kb.pl|kuriergarwolinski.pl|nowy-sacz.info|pionki24.pl|polishexpress.co.uk|poradnikhandlowca.com.pl|przewodnicywedkarscy.pl|starosadeckie.info|stolarkabudowlana.eu|swarzedz24.pl|tygodnik-rolniczy.pl|wydawca.com.pl
 _banners^$domain=footbar.info
 _plansza_$domain=portalpomorza.pl
 _rabaty_najwyzsze01.$domain=dziennikopolski.pl|dziennikwarszawy.pl|gazetawalbrzych.pl|gazetawielkopolska.pl|glosczestochowy.pl|gloskatowic.pl|gloskrakowa.pl|gloslodzi.pl|glosrybnika.pl|glosrzeszowa.pl|glostorunia.pl|glostrojmiasta.pl|gloswroclawia.pl
@@ -710,5 +710,3 @@ inline__1_$domain=twojradom.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_banner_$domain=swarzedz24.pl
-^baner_$domain=gazetka.be

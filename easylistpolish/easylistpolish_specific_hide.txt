@@ -48,6 +48,7 @@ eostroleka.pl###baner_A_mobile
 wirtualnyzgierz.pl###baner_dol
 infomare.pl###baneranim
 archispace.pl,hodowle.eu,instalki.pl,transinfo.pl###banner
+krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
@@ -429,6 +430,7 @@ tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
 tvn24.pl##.ado-placeholder
 24wspolnota.pl,3dwpraktyce.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,pieniny24.pl,rapduma.pl,spidersweb.pl,synonimiczny.pl,tarnobrzeg.info,tvopolska.pl,wpr24.pl##.ads
+wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
 zeglarski.info##.ads-block-right
@@ -483,7 +485,7 @@ zkrainynba.com##.advertise-title
 pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
 leba24.info##.advertizing-slots
-edziecko.pl,plotek.pl,sport.pl##.adviewDFPBanner
+edziecko.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##.adviewDFPBanner
 swiatkoni.pl##.advset
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
@@ -537,7 +539,7 @@ lakiernictwo.net##.banert
 ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
 instalacjebudowlane.pl##.banery_lewy_pasek
-24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
+24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,tvciechanow.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
 android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
@@ -815,6 +817,7 @@ truckitransport.pl##.jsn-mod-custom img
 24wspolnota.pl,antyauto.pl,legionisci.com,tczewska.pl,telemagazyn.pl,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
 expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 antyauto.pl##.kd_ns_placement
+kk24.pl##.kk24-br
 typuje.pl##.kodbaner
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
@@ -1095,10 +1098,12 @@ gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl,twojepajeczno.pl
 sulecin24.pl##.td-rec-spot img
 przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 cai24.pl##.td_block_single_image
+iknurow.pl##.td_block_template_1 p img
 sochaczewianin.pl##.td_block_wrap .td-a-rec
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 sulecin24.pl##.td_rec > .td_mod_wrap > img
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
+wirtualnyregion.eu##.tdc-row .cycloneslider
 telix.pl##.telix-bilboard-naglowek
 onetontour.pl##.test-drive-banner
 tvgorzow.pl##.testimonial_rotator_slide
@@ -1287,6 +1292,7 @@ brodnica-cbr.pl,linktopoland.com##a[href*="autoczescionline24.pl"]
 twojaslupca.pl##a[href*="autodoc.pl"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
+radomsport.pl##a[href*="https://www.toyota.radom.pl/"]
 cozadzien.pl,namasce.pl##a[href*="iparts.pl"]
 etransport.pl##a[href*="kampanie.etransport.pl"]
 kuriergarwolinski.pl##a[href*="klikniecia"]
@@ -1559,7 +1565,7 @@ onet.pl##div[data-section^="ad-flat"]
 rekomendowanefirmy.pl##div[id^="AD-"]
 mgsm.pl##div[id^="AdArea"]
 interia.pl##div[id^="ad-view-"]
-edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="adUnit-"]
+edziecko.pl,haps.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##div[id^="adUnit-"]
 interia.pl##div[id^="ad_box"]
 starysacz.info##div[id^="addon-rotator-"]
 signs.pl##div[id^="adibadi"]
@@ -1681,18 +1687,6 @@ podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROWANY))
-wp.pl#?#IMG:-abp-properties(position: relative;)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-kk24.pl##.kk24-br
-tvciechanow.pl##.banner
-wirtualnyregion.eu##.tdc-row .cycloneslider
-krs-online.com.pl###banner + div
-radomsport.pl##a[href*="https://www.toyota.radom.pl/"]
-iknurow.pl##.td_block_template_1 p img
-wyborcza.biz##.adviewDFPBanner
-wyborcza.biz##div[id^="adUnit-"]
-wyborcza.biz##.ads--splint
-wyborcza.pl##.ads--splint
-wyborcza.pl##div[id^="adUnit-"]
-wyborcza.pl##.adviewDFPBanner
