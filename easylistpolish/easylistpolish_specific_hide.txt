@@ -778,7 +778,6 @@ promocja.mielec.pl##.header-content
 magazynbiomasa.pl##.header-promo
 infokrakow24.pl,pyrzyce.info##.header-right
 polacywewloszech.com##.header-top-right
-rzeszowiak.pl##.header-wizytowki
 siechnice.com.pl##.header__ad-main
 nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
 podkarpacielive.pl##.header_banner
