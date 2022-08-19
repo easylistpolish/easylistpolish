@@ -972,7 +972,7 @@ bielskiedrogi.pl,tychy.info##.reklama-display-desktop
 cnc.info.pl,kalisz24.info.pl##.reklama-top
 polonia.nl##.reklama-warpper
 wiesci.info.pl##.reklamaLewa
-eostroleka.pl,seriea.pl##.reklamaNapis
+eostroleka.pl##.reklamaNapis
 seriea.pl##.reklamaNapis + *
 moje-gniezno.pl##.reklamaTEKST
 dkl24.pl##.reklama_700
