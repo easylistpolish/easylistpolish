@@ -337,7 +337,7 @@ terazgrodkow24.pl###text-html-widget-2
 okiemmiszy.pl###ti_image_banner-3
 iturek.net###tm-top
 testynaojcostwo.pl###top-baner
-rypin-cry.pl,szczecinek.com,twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
+szczecinek.com,twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
 traseo.pl###top-zone
 stockwatch.pl###topAdCont
