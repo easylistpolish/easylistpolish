@@ -1078,7 +1078,7 @@ stressfree.pl##.stressfree_image_advert
 bezrzecze24.pl,gminadobra24.pl,gumience24.pl,mierzyn24.pl,osowa24.pl##.subpage-header2
 meska-kuchnia.pl##.sw-inner a[href^="https://dietetykwmiescie.pl"]
 biznesregion.pl,super-nowa.pl##.syl-baner-place
-2x45.info,serwislokalny.com##.system_banner
+2x45.info##.system_banner
 skarzysko24.pl##.t3-sidebar .custom a
 skarzysko24.pl##.t3-sidebar-right #Mod417, #Mod401
 skarzysko24.pl##.t3-sl
