@@ -1312,7 +1312,6 @@ tygodnikpilski.pl##a[href^="http://angitiamed.pl/"]
 panoramakutna.pl##a[href^="http://kominki.kutno.pl"] img
 hobby-elektronika.eu##a[href^="http://online.freeware.info.pl/"]
 e-grajewo.pl##a[href^="http://pensjonatraj.pl"]
-skawina.eu##a[href^="http://promotor.biz/"]
 zyciepabianic.pl##a[href^="http://psm-pabianice.pl/"]
 e-grajewo.pl##a[href^="http://pssgrajewo.pl"]
 infoplocktv.pl##a[href^="http://pssplock.pl/"]
