@@ -1423,7 +1423,6 @@ bankier.pl##a[href^="https://www3.smartadserver.com/"]
 torun.com.pl##a[href^="index.php?akcja=rotator_klik&"]
 piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
 tko.pl##a[onclick*="'Adverts'"]
-siechnice.com.pl##a[onclick*="'Banner'"]
 musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
