@@ -931,7 +931,7 @@ oknonawagrowiec.pl##.penci-promo-item > img
 takze.pl##.penci-promo-link + img
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
-rowerowa.pl,siedlcesiedzieje.pl##.placement
+rowerowa.pl##.placement
 portalmorski.pl##.pmb_banners
 dziennikwschodni.pl##.pngmonet
 noclegi.biz##.podzialreklama
