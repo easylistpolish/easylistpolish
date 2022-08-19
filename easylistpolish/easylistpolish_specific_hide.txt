@@ -1579,7 +1579,6 @@ starysacz.info##div[id^="addon-rotator-"]
 signs.pl##div[id^="adibadi"]
 edziecko.pl,haps.pl,plotek.pl,sport.pl##div[id^="ads"]
 pod24.info,wawalove.pl##div[id^="adv"]
-satkurier.pl##div[id^="banner"]
 wykop.pl##div[id^="banner_top_"]
 konecki24.pl##div[id^="bills_in_rotation_"]
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
