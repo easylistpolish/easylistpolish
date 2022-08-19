@@ -602,7 +602,7 @@ cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
 portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
-ddwloclawek.pl,portalzamojski.pl,samosia.pl,sieradz.com.pl,teksty.org##.billboard
+ddwloclawek.pl,portalzamojski.pl,sieradz.com.pl,teksty.org##.billboard
 tustolica.pl##.bimg
 nowa-sprzedaz.pl##.block .auto-pr-block
 zinfo.pl##.block-ads-wrapper
