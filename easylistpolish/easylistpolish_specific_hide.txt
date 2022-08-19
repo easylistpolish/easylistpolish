@@ -186,7 +186,6 @@ staresiolkowice.pl,wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-
 gazetagazeta.com###media_image-25
 gazetagazeta.com###media_image-28
 glosgminny.pl,greencanoe.pl,littletownshoes.com###media_image-3
-silesiainfotransport.pl###media_image-31
 swarzedz24.pl###media_image-314
 swarzedz24.pl###media_image-324
 swarzedz24.pl###media_image-328
