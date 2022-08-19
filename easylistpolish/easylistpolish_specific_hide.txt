@@ -38,7 +38,7 @@ urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
 tuhiszpania.pl###b_searchboxInc
-przeglad-sejnenski.pl,sarp.org.pl###baner
+przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 wirtualnyzgierz.pl###baner-gora1
 genetyczne.pl###baner-gorny
