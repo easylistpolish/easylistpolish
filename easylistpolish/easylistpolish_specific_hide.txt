@@ -1374,7 +1374,6 @@ dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
 starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
-slasknet.com##a[href^="https://sprbt.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 roosevelta81.pl##a[href^="https://superbet.pl/"]
 stadiony.net##a[href^="https://twojtyp.pl/"]
