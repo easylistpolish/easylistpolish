@@ -849,7 +849,6 @@ ogrodinfo.pl,sad24.pl##.main-top-banner
 gazetanowodworska.com##.mainSlider
 laboratoria.net##.mainbanner
 rodzinazdrowia.pl##.marketingElement
-rynekinstalacyjny.pl##.marta
 sklepbazant.pl,swiatmodeli.eu##.mask
 hij.com.pl##.master-slider .ms-slide
 lpu24.pl##.master-slider-parent
