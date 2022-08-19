@@ -1604,7 +1604,6 @@ tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
 zawiercianskie.pl##div[id^="metaslider_"]
 capuccino.eu##div[id^="n2-ss-"]
 kurierzamojski.pl##div[id^="nowyk-"]
-satkurier.pl##div[id^="pasek_hollex"]
 se.pl##div[id^="placement"]
 pojezierze.com.pl##div[id^="pojez-"]
 ostrowiec-sw.pl##div[id^="re_"]
