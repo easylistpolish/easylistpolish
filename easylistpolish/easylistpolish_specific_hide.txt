@@ -1363,7 +1363,6 @@ naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad/"]
 gamingsociety.pl##a[href^="https://nazwa.pl/"]
 tvklodzka.pl##a[href^="https://ng.pl/"]
 gloswroclawia.pl##a[href^="https://oh-my-wear.com/"]
-skijumping.pl##a[href^="https://online-mexos.efortuna.pl/"] > img
 skijumping.pl##a[href^="https://online.efortuna.pl/"][target="_blank"]
 iotwock.info##a[href^="https://outsourcing-it.com.pl/"]
 tyna.info.pl##a[href^="https://panekcs.pl/"]
