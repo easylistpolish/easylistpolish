@@ -291,7 +291,6 @@ plastikowe.pl###sponsors
 radioq.fm###sppb-carousel1
 bukowskilider.pl###sticky-posts-3
 wirtualnelegionowo.pl,wirtualnynowydwor.pl###szeroka-reklama
-skarzysko24.pl###t3-content .djslider-loader
 panoramakutna.pl###tdi_55
 vanessa.fm###text-10 div
 dogosfera.pl###text-10012
