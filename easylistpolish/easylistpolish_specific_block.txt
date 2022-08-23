@@ -124,7 +124,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
 ||alicdn.com^$image,domain=telchina.pl|wlodawa.net
-||archeton.pl^*^ciekawostkinarynku^
 ||arpass.nazwa.pl^*^fdbrs.
 ||atthost.pl/banery/$domain=warownie.pl
 ||audiostereo.pl/banery^
@@ -693,3 +692,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=abc-dachy.pl
+^baner_$domain=archeton.pl
