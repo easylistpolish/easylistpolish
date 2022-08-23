@@ -735,7 +735,6 @@ skript.pl##.fuckAdBlock
 slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
-slupca.pl##.g-8
 topmejt.co.uk##.g-single
 gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
