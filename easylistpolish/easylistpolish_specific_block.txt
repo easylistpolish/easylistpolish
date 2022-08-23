@@ -150,7 +150,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||centrumkultury.eu^*^KBBC_kinads_
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
-||chemiabudowlana.info/banery^$image
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||cmas.pl^*^banners^animacja_
