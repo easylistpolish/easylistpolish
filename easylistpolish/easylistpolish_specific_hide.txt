@@ -163,7 +163,6 @@ przeglad-sejnenski.pl###kolLeft .banerEl
 przeglad-sejnenski.pl###kolRight .banerEl
 ospi.pl###lcol > div[style="text-align: center;"] > a
 szefur.pl###leader-large
-sportsiedlce.pl###leaderboard a > img[height="90"]
 widzewtomy.net###left-sidebar .widget:nth-of-type(1)
 oko.info.pl###leftAdv
 czest.info###logo-title a[target="_blank"]
