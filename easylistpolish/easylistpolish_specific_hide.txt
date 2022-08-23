@@ -529,7 +529,6 @@ haloursynow.pl##.baner390x60
 planetakobiet.com.pl##.banerDiv
 firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
-sportowememy.pl##.baner_ad
 e-kolo.pl##.baner_billboard
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 eurologistics.pl,mojeniemcy.de##.baner_top
