@@ -124,7 +124,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
 ||alicdn.com^$image,domain=telchina.pl|wlodawa.net
-||automotivesuppliers.pl^*^2bodycote370.
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-kolumna-
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
 ||b24tv.pl^*^insula-
