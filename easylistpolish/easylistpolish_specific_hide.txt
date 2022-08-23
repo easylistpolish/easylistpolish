@@ -1395,7 +1395,6 @@ cryptonews.pl##a[href^="https://www.koinal.io/"] img
 wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
 lpg-forum.pl##a[href^="https://www.payback.pl/"]
-speedtest.pl##a[href^="https://www.play.pl/oferta/"]
 spottedstarachowice.pl##a[href^="https://www.romerpp.pl"]
 fight24.pl,kulturystyka.pl##a[href^="https://www.sfd.pl/"]
 podhale-sport.pl##a[href^="https://www.sport-corner.pl/"]
