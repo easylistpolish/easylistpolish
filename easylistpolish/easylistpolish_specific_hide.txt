@@ -857,7 +857,6 @@ gada.pl##.menu_reklama
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
 turek.net.pl##.mfp-ready
-sloworegionu.pl##.mfp-wrap
 menshealth.pl##.mh-optad
 tv.pl##.middle-salesmedia
 10minut.tv##.minut-po-tresci
