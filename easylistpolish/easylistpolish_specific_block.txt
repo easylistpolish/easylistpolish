@@ -130,7 +130,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bejsment.com^*^300x100xbejsment-ad-
 ||bejsment.com^*^dalekDiamonds300x100_
 ||biotechnologia.pl^*^ats^
-||blendy.pl^*-elegant-themes.
 ||blogomaniak.pl^*-ceneo-
 ||blogprezesa.pl^*^Bitmex-
 ||blogspot.com^$image,domain=mistrzbranzy.pl
