@@ -1679,3 +1679,4 @@ audiostereo.pl##.baner_display
 autoline.com.pl##.index-bns
 baby-shower.pl##.kwadratowa2
 wizaz.pl##.c-ad-placement
+beatcoin.pl##script ~ center
