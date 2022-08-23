@@ -619,7 +619,6 @@ jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 portalspozywczy.pl##.box-0
 queer.pl##.box-adv
 futbolnews.pl##.box-banner
-sportowememy.pl##.box-entertainment
 wprost.pl##.box-list-item-recommendation-content-stream
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 stockwatch.pl##.box0b
