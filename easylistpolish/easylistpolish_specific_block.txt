@@ -143,7 +143,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
-||cdn.dcsaas.net^$domain=swiatmodeli.eu
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
 ||cdn.sterta.pl^$domain=rusz.pl
 ||ceneo.pl/$image,domain=warownie.pl
