@@ -529,6 +529,7 @@ planetakobiet.com.pl##.banerDiv
 firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
 e-kolo.pl##.baner_billboard
+audiostereo.pl##.baner_display
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 eurologistics.pl,mojeniemcy.de##.baner_top
 elblag.net##.banera1
@@ -635,6 +636,7 @@ poscigi.pl##.bsaProContainerNew
 ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
+wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
 e-kg.pl,terazostroleka.pl,zyciekalisza.pl##.c-content__adv
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
@@ -645,10 +647,12 @@ kramik.pl##.click-banner
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
 mmanews.pl##.clickableBlock
 faktykonopne.pl##.code-block
+nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
 biznesalert.pl##.col-md-12
 telefonowal.pl##.col-md-3.right > h4
+wlodawa.net##.col-sm-4
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
 43bis.media.pl##.column-right-advertising a:not([href^="http://www.43bis.media.pl"])
 radioccm.pl##.com_reklamy
@@ -721,6 +725,7 @@ punkt.media##.flexbannergrouppattern
 futbolnews.pl,zzapolowy.com##.floatBox
 ftb.pl##.footav
 laczynaspilka.pl##.footer-partners
+telchina.pl##.forabg
 wronieckibazar.pl##.fright
 wronieckibazar.pl##.fright + div
 wronieckibazar.pl##.fright + div + div
@@ -792,6 +797,7 @@ korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 iloveslubice.pl##.ilove-boczna-b2-300x250
 6krokow.pl##.img_rkl
+autoline.com.pl##.index-bns
 money.pl,wp.pl##.insert—top-offer
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
 forum.optymalizacja.com##.ipsWidget_vertical > center img
@@ -813,6 +819,7 @@ typuje.pl##.kodbaner
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 pionki24.pl##.kozie-before-content-placement
+baby-shower.pl##.kwadratowa2
 24jgora.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,twojradom.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 szczecinek.com##.l-box--100 > div[align="center"]
@@ -1654,6 +1661,8 @@ thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
 nowiny24.pl,to.com.pl,expressbydgoski.pl,wspolczesna.pl,nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
+betonline.net.pl##p a[href*="/r/"] img
+beatcoin.pl##script ~ center
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
 wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
@@ -1672,12 +1681,3 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-nasz-glos.com##.code-block a
-telchina.pl##.forabg
-wlodawa.net##.col-sm-4
-audiostereo.pl##.baner_display
-autoline.com.pl##.index-bns
-baby-shower.pl##.kwadratowa2
-wizaz.pl##.c-ad-placement
-beatcoin.pl##script ~ center
-betonline.net.pl##p a[href*="/r/"] img
