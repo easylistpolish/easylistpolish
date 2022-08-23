@@ -950,7 +950,7 @@ futbolnews.pl,zzapolowy.com##.ranking
 money.pl##.ranks-reports
 tvpolice.com.pl,tvsudecka.pl##.rbox
 tabletowo.pl##.rd_widget_text
-epiotrkow.pl,infoserwiselk.pl,sport.lovekrakow.pl,tysol.pl,vidfile.net##.rek
+epiotrkow.pl,infoserwiselk.pl,tysol.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
