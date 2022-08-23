@@ -131,7 +131,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bejsment.com^*^dalekDiamonds300x100_
 ||biotechnologia.pl^*^ats^
 ||blogomaniak.pl^*-ceneo-
-||blogprezesa.pl^*^Bitmex-
 ||blogspot.com^$image,domain=mistrzbranzy.pl
 ||bluepartner.pl^$script,domain=infofordon.pl
 ||bobrowniki.tv^*^grocero2.
