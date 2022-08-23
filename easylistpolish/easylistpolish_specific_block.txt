@@ -142,7 +142,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||burdadigital.pl^$subdocument,domain=focus.pl
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
-||bytomski.pl^*^06/taxi.
 ||c.spolecznosci.net/f.spolecznosci.net^$image,domain=dlastudenta.pl
 ||cba.pl/cba1.jpg
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
