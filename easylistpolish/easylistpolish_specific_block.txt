@@ -139,8 +139,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
-||burdadigital.pl^$domain=focus.pl|przyslijprzepis.pl
-||burdadigital.pl^$subdocument,domain=focus.pl
+||burdadigital.pl^$domain=focus.pl|||burdadigital.pl^$subdocument,domain=focus.pl
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
 ||bytomski.pl^*^06/taxi.
