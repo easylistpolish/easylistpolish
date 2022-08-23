@@ -1104,7 +1104,6 @@ ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider + p
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
-sportdziennik.com##.theiaStickySidebar > .sport-widget
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 meblarskapolska.pl##.tm-promt-image
