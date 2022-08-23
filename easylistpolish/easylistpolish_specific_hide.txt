@@ -1676,3 +1676,4 @@ nasz-glos.com##.code-block a
 telchina.pl##.forabg
 wlodawa.net##.col-sm-4
 audiostereo.pl##.baner_display
+autoline.com.pl##.index-bns
