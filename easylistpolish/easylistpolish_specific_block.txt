@@ -132,7 +132,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||biotechnologia.pl^*^ats^
 ||blogomaniak.pl^*-ceneo-
 ||bluepartner.pl^$script,domain=infofordon.pl
-||bobrowniki.tv^*^grocero2.
 ||bobrowniki.tv^*^praca-piekary.
 ||bokser.org^*^Bilo-Poland-
 ||bolec.info^*^dth_
