@@ -133,7 +133,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||blogomaniak.pl^*-ceneo-
 ||bluepartner.pl^$script,domain=infofordon.pl
 ||bobrowniki.tv^*^praca-piekary.
-||bokser.org^*^Bilo-Poland-
 ||bolec.info^*^dth_
 ||booking.com/flexiproduct.$third-party
 ||booking.com^*=banner&$domain=kazimierzdolny24.pl
