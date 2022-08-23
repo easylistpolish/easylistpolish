@@ -883,7 +883,6 @@ boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
-slowopodlasia.pl##.my-3 .tipad_tag + a
 olawa24.pl##.my-6
 myslenicka24.pl##.mysle-reklama-glowna
 bogatyregion.pl##.n2-section-smartslider
