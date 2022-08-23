@@ -856,7 +856,6 @@ nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
-sloworegionu.pl##.mfp-bg
 turek.net.pl##.mfp-ready
 sloworegionu.pl##.mfp-wrap
 menshealth.pl##.mh-optad
