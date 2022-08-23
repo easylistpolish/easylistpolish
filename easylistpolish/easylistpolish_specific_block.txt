@@ -129,8 +129,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||baby-shower.pl^*^babymama-
 ||bejsment.com^*^300x100xbejsment-ad-
 ||bejsment.com^*^dalekDiamonds300x100_
-||bielskiedrogi.pl^*^adviva.
-||bielskiedrogi.pl^*^dron_zdjecia-
 ||biotechnologia.pl^*^ats^
 ||bitcoin-online.pl/images/*baner.jpg
 ||bitcoin.pl^*^bnr-nowe-rynki-
