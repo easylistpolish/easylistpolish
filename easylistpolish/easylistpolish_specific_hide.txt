@@ -623,7 +623,6 @@ queer.pl##.box-adv
 futbolnews.pl##.box-banner
 sportowememy.pl##.box-entertainment
 wprost.pl##.box-list-item-recommendation-content-stream
-spidersweb.pl##.box-specjalna
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 stockwatch.pl##.box0b
 folk24.pl##.boxAdvert
