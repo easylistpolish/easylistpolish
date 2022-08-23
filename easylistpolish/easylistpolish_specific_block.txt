@@ -128,7 +128,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
 ||b24tv.pl^*^wolmed_
 ||baby-shower.pl^*^babymama-
-||bankier.pl^$domain=ziemiakepinska.pl
 ||batuu.pl^$domain=wizaz.pl
 ||baxu.pl^*^img-1607.
 ||beatcoin.pl^*^binance.
