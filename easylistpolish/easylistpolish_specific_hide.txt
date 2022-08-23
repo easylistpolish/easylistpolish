@@ -235,7 +235,7 @@ zakazany-humor.pl###primary > div > iframe
 walbrzych24.com###promo14
 laczynaspasja.pl###promocodeBaner
 naszekielce.com###promoted
-slowokatowic.pl,slowokrakowa.pl,slowopoznania.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###promoted-articles
+slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowarszawy.pl,slowowroclawian.pl###promoted-articles
 infosokolka.pl###promoted-module
 naszestrony.info.pl###pyre_tabs-widget-2
 starachowice-net.pl###r2
