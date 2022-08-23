@@ -1011,7 +1011,6 @@ moviesroom.pl##.sidebar .basic-slider
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
-sportsiedlce.pl##.sidebar-widget > a > img[alt][width][height]
 tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
