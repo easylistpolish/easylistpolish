@@ -128,7 +128,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
 ||b24tv.pl^*^wolmed_
 ||baby-shower.pl^*^babymama-
-||beerpubs.pl^*^back_all_pl2.
 ||bejsment.com^*^300x100xbejsment-ad-
 ||bejsment.com^*^dalekDiamonds300x100_
 ||betonline.net.pl^*^betfan-kod-promocyjny.
