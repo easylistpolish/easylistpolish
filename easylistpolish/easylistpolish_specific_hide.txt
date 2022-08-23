@@ -1674,3 +1674,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nasz-glos.com##.code-block a
 telchina.pl##.forabg
+wlodawa.net##.col-sm-4
