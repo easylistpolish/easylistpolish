@@ -118,7 +118,6 @@ _reklama.$domain=radomsport.pl|staraoliwa.pl
 _reklama^$domain=tarnowiak.pl
 _reklamy2^$domain=epoznan.pl
 _reklamy^$domain=wiadomoscisasiedzkie.pl
-_reklamy_$domain=chojna24.pl
 ^inline__1_$domain=twojradom.pl
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
