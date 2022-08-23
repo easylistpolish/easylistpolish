@@ -117,7 +117,7 @@ _banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-p
 _reklama.$domain=radomsport.pl|staraoliwa.pl
 _reklama^$domain=tarnowiak.pl
 _reklamy2^$domain=epoznan.pl
-_reklamy^$domain=studiadoktoranckie.info|studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wiadomoscisasiedzkie.pl
+_reklamy^$domain=studiainzynierskie.info|studialicencjackie.info|studiamagisterskie.info|studiamba.info|studianiestacjonarne.info|studiaonline.info|studiapodyplomowe.info|studiaweuropie.info|studies-in-english.pl|studies-in-europe.eu|szkolyjezykowe.info|undergraduatestudy.eu|wameryce.info|weuropie.info|wiadomoscisasiedzkie.pl
 _reklamy_$domain=chojna24.pl
 ^inline__1_$domain=twojradom.pl
 ||24opole.pl/dimg^
