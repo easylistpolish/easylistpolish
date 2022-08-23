@@ -135,7 +135,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bobrowniki.tv^*^praca-piekary.
 ||booking.com/flexiproduct.$third-party
 ||botland.com.pl^*^banery_$script
-||bronradom.pl^*_482131.
 ||bronradom.pl^*_600522.
 ||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
