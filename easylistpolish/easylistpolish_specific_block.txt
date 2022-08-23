@@ -134,7 +134,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bluepartner.pl^$script,domain=infofordon.pl
 ||bobrowniki.tv^*^praca-piekary.
 ||booking.com/flexiproduct.$third-party
-||booking.com^*=banner&$domain=kazimierzdolny24.pl
 ||botland.com.pl^*^banery_$script
 ||bronradom.pl^*_482131.
 ||bronradom.pl^*_600522.
