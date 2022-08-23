@@ -121,8 +121,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^inline__1_$domain=twojradom.pl
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
-||40ton.net^*-664x124.
-||40ton.net^*^euromaster.gif
 ||7dni.com.pl^*^pierwsza-wyprawka.
 ||abc-dachy.pl/banery/
 ||ad.polskiprzemysl.com.pl^
