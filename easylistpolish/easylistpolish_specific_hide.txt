@@ -777,7 +777,6 @@ siechnice.com.pl##.header__ad-main
 nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
 podkarpacielive.pl##.header_banner
 swiatoze.pl##.header_marker
-spece.it##.helion_meta
 spece.it##.helion_okladka
 kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
