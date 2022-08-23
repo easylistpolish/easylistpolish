@@ -124,7 +124,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
 ||alicdn.com^$image,domain=telchina.pl|wlodawa.net
-||atthost.pl/banery/$domain=warownie.pl
 ||audiostereo.pl/banery^
 ||autoline.com.pl^*^atlads1^
 ||automotivesuppliers.pl^*^2bodycote370.
