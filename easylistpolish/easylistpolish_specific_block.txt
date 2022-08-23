@@ -130,7 +130,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||baby-shower.pl^*^babymama-
 ||bejsment.com^*^300x100xbejsment-ad-
 ||bejsment.com^*^dalekDiamonds300x100_
-||betonline.net.pl^*^betfan-kod-promocyjny.
 ||bezale.pl^*^320_
 ||bezale.pl^*^suplementy-
 ||bezale.pl^*^zwyrodnienie-
