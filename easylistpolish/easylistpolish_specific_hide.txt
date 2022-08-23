@@ -111,7 +111,6 @@ wiescipolickie.pl###custom_html-22
 belekaj.eu,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
 msmobile.pl###custom_html-5
 nowezyciepabianic.pl###custom_html-6
-sportdziennik.com###custom_html-7
 portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
 wochenblatt.pl###custom_post_widget-8
