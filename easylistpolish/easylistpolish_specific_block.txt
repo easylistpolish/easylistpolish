@@ -124,7 +124,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
 ||alicdn.com^$image,domain=telchina.pl|wlodawa.net
-||app.travellead.pl$domain=belekaj.eu
 ||archeton.pl^*^ciekawostkinarynku^
 ||arpass.nazwa.pl^*^fdbrs.
 ||atthost.pl/banery/$domain=warownie.pl
