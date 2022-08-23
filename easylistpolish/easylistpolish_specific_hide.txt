@@ -1234,7 +1234,7 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
-abczdrowie.pl,pinger.pl,pogodnie.pl,smog.pl,snobka.pl,wp.pl##[data-bc]
+abczdrowie.pl,pinger.pl,pogodnie.pl,snobka.pl,wp.pl##[data-bc]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
