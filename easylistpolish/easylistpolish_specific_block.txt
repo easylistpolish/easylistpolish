@@ -691,3 +691,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^banery^$domain=abc-dachy.pl
 ^baner_$domain=archeton.pl
+||ceneo.pl/$image,domain=warownie.pl
