@@ -132,7 +132,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||biotechnologia.pl^*^ats^
 ||bitcoin.pl^*^bnr-nowe-rynki-
 ||bitcoin.pl^*^rozliczanie-kryptowalut-
-||bithub.pl^*^papier-kamien-
 ||blendy.pl^*-elegant-themes.
 ||blogomaniak.pl^*-ceneo-
 ||blogprezesa.pl^*^Bitmex-
