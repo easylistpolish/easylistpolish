@@ -139,7 +139,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
-||burdadigital.pl^$subdocument,domain=focus.pl
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
 ||cdn-lubimyczytac.pl/upload/wallpapers^$domain=lubimyczytac.pl
