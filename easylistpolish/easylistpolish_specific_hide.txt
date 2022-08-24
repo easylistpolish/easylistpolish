@@ -72,6 +72,7 @@ przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
 dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
+icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
 30minut.pl###block-13
 tarnobrzeg.info###block-21
@@ -412,6 +413,7 @@ ipolice.pl##.ad-slider-right
 egospodarka.pl##.ad750
 raportkolejowy.pl##.ad_adInfo
 rrs24.net##.ad_img_baner_glowny
+radiofest.pl##.ad_in
 polskielupki.pl##.ad_info
 grodzisknews.pl##.ad_suw_nad
 egryfino.pl,gryfinska.pl##.ada
@@ -537,12 +539,12 @@ lakiernictwo.net##.banert
 ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
 instalacjebudowlane.pl##.banery_lewy_pasek
-24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,tvciechanow.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
+24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,tvciechanow.pl,wirtualnaskandynawia.pl,wpadki.org##.banner
 android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
 production-manager.pl##.banner-carousel
-naszatve.pl##.banner-center
+ekologia.guru,naszatve.pl##.banner-center
 kb.pl,radiosud.pl##.banner-container
 wietrzneradio.com##.banner-full
 sprowadzanie-aut.pl##.banner-inner
@@ -947,6 +949,7 @@ walbrzych24.com##.promo-item:not([href*="gov.pl"])
 forumbranzowe.com##.promocje
 lol24.com,zumi.pl##.promotion
 kryptoholik.pl##.pum-overlay
+e-hotelarz.pl##.pws-reklama
 ekoexpo.pl,gorzow24.pl##.r
 goryiludzie.pl##.rad
 futbolnews.pl,zzapolowy.com##.ranking
@@ -994,6 +997,7 @@ ws-24.pl##.rl-image-widget-link
 radiopik.pl##.rma
 radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 tromil.pl##.rotator-ceneo
+bytomski.pl##.rotatorTop
 mojanorwegia.pl##.row.single > a[target="_blank"]
 nowawrzesnia.pl##.rs-advertisement
 wirtualnygarwolin.pl##.rstboxes
@@ -1029,6 +1033,7 @@ gazetkonosz.pl##.signad
 staleo.pl##.silver.section-title
 staleo.pl##.silver.section-title + aside
 zywiec112.com.pl##.simple-popup-advert
+dzierzgon-twojemiasto.pl##.site-branding
 wronieckibazar.pl##.site-branding a[target]
 codziennypoznan.pl##.site-header .elementor-shortcode
 twojskaryszew.pl##.site-header .np-header-ads-area
@@ -1666,6 +1671,7 @@ wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 poczta.wp.pl##sidebar-feed
+bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
@@ -1679,11 +1685,3 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-bolec.info##small + a
-bytomski.pl##.rotatorTop
-radiofest.pl##.ad_in
-eurobuildcee.com##.banner
-dzierzgon-twojemiasto.pl##.site-branding
-e-hotelarz.pl##.pws-reklama
-icyfrowypolsat.pl###block-10
-ekologia.guru##.banner-center
