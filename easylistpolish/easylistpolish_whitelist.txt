@@ -33,7 +33,6 @@
 @@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
-@@||konkurs24h.pl^*^advalue_
 @@||legitymizm.org^*^gabis-
 @@||liveads.pl^$domain=liveads.pl
 @@||market.bia24.pl/R2|
