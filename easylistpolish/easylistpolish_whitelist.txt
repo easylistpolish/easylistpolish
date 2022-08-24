@@ -48,7 +48,6 @@
 @@||polskieradio.com^*^dodaj-impreze.
 @@||portalpszczelarski.pl^*^baners/354fb5466cc9e88d182d5ed7809c4997.
 @@||ppr.pl^*^banners^*ppr.
-@@||radiofest.pl^*^piosenka-banner.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||samoloty.pl^*^lgp2.
 @@||team29er.pl^*^fr234a.
