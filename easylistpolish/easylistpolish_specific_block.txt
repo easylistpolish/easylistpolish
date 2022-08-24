@@ -156,7 +156,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dodajauto.pl^*^logo%20ds%20baner.
 ||dodajauto.pl^*^sf.
 ||dopilar.pl^*^sky1.
-||drzewkozabutelke.pl^*^galeriabronowica-
 ||dx-team.org^*^pover.
 ||dynacrems.wp.pl^*=dynacrems-adv-
 ||dz-ow.pl^*^narty.
