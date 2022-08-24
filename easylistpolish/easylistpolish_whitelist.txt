@@ -58,4 +58,3 @@
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
-@@||zarzadca.pl^*^zarzadca.
