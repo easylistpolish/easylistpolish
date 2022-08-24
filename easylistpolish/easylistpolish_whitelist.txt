@@ -19,7 +19,6 @@
 @@||egarwolin.pl^*^inline__1_576.
 @@||extraswiecie.pl^*^autopromocja_
 @@||fotos.pl^*^PracaGRAF_$image,domain=radiobonton.pl
-@@||gamer-network.net/plugins/dfp/async.dfp.$script,domain=eurogamer.pl
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gorzow24.pl^*^im_91.
