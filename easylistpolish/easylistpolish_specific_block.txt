@@ -629,3 +629,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^baner.$domain=kazimierzdolny24.pl
 ^banners^$domain=chlodnictwoiklimatyzacja.pl
+^banery^$domain=domenergo.com
