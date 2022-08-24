@@ -162,7 +162,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dzisiajwgliwicach.pl^*^sixsilver-jubiler
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
-||e-kg.pl^*^background/bg_
 ||e-kolo.pl/css/popup.css^$stylesheet,domain=e-kolo.pl
 ||e-kolo.pl^ulotkamzwik.
 ||e-petrol.pl^*^*tuTankuj*.
