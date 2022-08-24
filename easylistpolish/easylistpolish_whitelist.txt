@@ -28,7 +28,6 @@
 @@||gostynin24.pl^*^banners/owsik^
 @@||ikamien.pl^*^banery/ik^
 @@||img.dladealera.pl/ads/16253054137697.jpg$image,domain=budmatauto.pl
-@@||informacjelokalne.pl^*^logo_turystyka.
 @@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
