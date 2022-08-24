@@ -3,7 +3,6 @@
 @@/extension/adverts/design/standard/templates/esi^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/reklama.$domain=grojec24.net|zsmeie.torun.pl
 @@/SidebarAds.$domain=eurogamer.pl
-@@/wppas.$domain=przegladpiaseczynski.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
 @@^baner.$domain=cech-lipno.pl
 @@^banery/2^$domain=sportgniezno.pl
