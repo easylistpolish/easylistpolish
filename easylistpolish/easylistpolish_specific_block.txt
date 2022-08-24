@@ -152,7 +152,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
 ||cyfrowaekonomia.pl^*quark3.
-||czestochowskie24.pl^*^trepka-biuro-
 ||ddbrodnica.pl^*^inter-car-
 ||ddbrodnica.pl^*^pw_majowka_
 ||dentoforum.pl^*^baner1.
