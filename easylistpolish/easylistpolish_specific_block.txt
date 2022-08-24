@@ -171,7 +171,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ebarlinek.pl^*^beznazwy-1.
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
-||ec.bankier.pl^$domain=miedziak.info.pl|tutajglogow.pl|tutajlegnica.pl|tutajpolkowice.pl
+||ec.bankier.pl^$domain=tutajglogow.pl|tutajlegnica.pl|tutajpolkowice.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
 ||eduson.pl^*-reklama-panel^
