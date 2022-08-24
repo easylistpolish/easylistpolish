@@ -43,8 +43,6 @@
 @@||networkmagazyn.pl^*^grupamlm_
 @@||obiektyw.info^*_logo.
 @@||petronews.pl^*^notyfikacja_
-@@||podlasie24.pl^*^ed5ea7a7b9d5d2e62818a6ea7cb42d0a.
-@@||podlasie24.pl^*^fd98348c5cbc549f4b843db859dfdb7e.
 @@||ppr.pl^*^banners^*ppr.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||samoloty.pl^*^lgp2.
