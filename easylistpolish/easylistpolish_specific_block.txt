@@ -149,7 +149,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
-||chlodnictwoiklimatyzacja.pl^*_reklama9.
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^autopomoc-mlawa.
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
