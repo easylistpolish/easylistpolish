@@ -195,7 +195,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
-||fordclubpolska.org^*^iparts-
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
