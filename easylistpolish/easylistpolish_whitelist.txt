@@ -26,7 +26,6 @@
 @@||gorzow24.pl^*^im_91.
 @@||gostynin24.pl^*^banners/LOGO
 @@||gostynin24.pl^*^banners/owsik^
-@@||ikamien.pl^*^banery/ik^
 @@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
