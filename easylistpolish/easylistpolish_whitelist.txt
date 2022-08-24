@@ -1,7 +1,7 @@
 @@.adrotate.$domain=mh24.pl
 @@/extension/adverts/design/standard/javascript/adverts/Quantcastt^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/extension/adverts/design/standard/templates/esi^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
-@@/reklama.$domain=grojec24.net|zsmeie.torun.pl
+@@/reklama.$domain=zsmeie.torun.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
 @@^baner.$domain=cech-lipno.pl
 @@^banery/2^$domain=sportgniezno.pl
