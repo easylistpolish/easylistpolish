@@ -1048,8 +1048,6 @@ slowoseniora.pl##.slowo-widget
 tygodnikpiski.pl##.small-12 center a
 30minut.pl##.small-adv
 4tour.pl##.span2
-infotydzien.info##.span3
-infotydzien.info##.span9
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
 trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
