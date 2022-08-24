@@ -1682,3 +1682,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 bolec.info##small + a
 bytomski.pl##.rotatorTop
 radiofest.pl##.ad_in
+eurobuildcee.com##.banner
