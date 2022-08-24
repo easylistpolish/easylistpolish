@@ -624,3 +624,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^baner.$domain=kazimierzdolny24.pl
 ^banners^$domain=chlodnictwoiklimatyzacja.pl
 ^banery^$domain=domenergo.com
+^adv^$domain=e-petrol.pl
