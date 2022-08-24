@@ -42,7 +42,6 @@
 @@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
 @@||networkmagazyn.pl^*^grupamlm_
 @@||obiektyw.info^*_logo.
-@@||petronews.pl^*^notyfikacja_
 @@||ppr.pl^*^banners^*ppr.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||samoloty.pl^*^lgp2.
