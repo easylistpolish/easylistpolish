@@ -1685,3 +1685,4 @@ radiofest.pl##.ad_in
 eurobuildcee.com##.banner
 dzierzgon-twojemiasto.pl##.site-branding
 e-hotelarz.pl##.pws-reklama
+icyfrowypolsat.pl###block-10
