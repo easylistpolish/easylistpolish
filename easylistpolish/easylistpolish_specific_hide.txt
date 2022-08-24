@@ -1687,3 +1687,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 facetpo40.pl##.wrapper_smallimages
 fiatklubpolska.pl###ad_global_below_navbar
+fight24.pl##.navbar-ad-section
