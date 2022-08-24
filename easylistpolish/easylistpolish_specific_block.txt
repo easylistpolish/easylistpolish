@@ -153,8 +153,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
 ||cyfrowaekonomia.pl^*quark3.
 ||dentoforum.pl^*^baner1.
-||di.com.pl^*^inpost.
-||di.com.pl^*^kalkulator-oc-mfind.
 ||direct.money.pl^*^i/box_money_main_page/campaign^
 ||dobrewiadomosci.eu^*^opal_copy.
 ||dodajauto.pl^*^logo%20ds%20baner.
