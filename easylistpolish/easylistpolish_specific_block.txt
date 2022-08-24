@@ -177,8 +177,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ekologia.guru^*^baner03.
 ||ekologia.guru^*^seo.
 ||ekstrastats.pl^*^ft_logo.
-||eku24.net^*^boksy/$image
-||eku24.net^*^dolne/$image
 ||ele24.net^*^boksy^
 ||elektroda.pl^*^biall4.
 ||elubaczow.com^*^lprez.
