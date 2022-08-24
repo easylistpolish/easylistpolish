@@ -150,9 +150,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||cmas.pl^*^banners^animacja_
-||codziennikmlawski.pl^*^autopomoc-mlawa.
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
-||codziennikmlawski.pl^*_720x80.
 ||contentstream.pl^$domain=shareinfo.pl
 ||cowwilanowie.pl^*^wilanow-coworking-
 ||cowwilanowie.pl^*^wilanow-zdrowie-angles.
