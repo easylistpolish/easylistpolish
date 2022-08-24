@@ -46,7 +46,6 @@
 @@||podlasie24.pl^*^ed5ea7a7b9d5d2e62818a6ea7cb42d0a.
 @@||podlasie24.pl^*^fd98348c5cbc549f4b843db859dfdb7e.
 @@||polskieradio.com^*^dodaj-impreze.
-@@||portalpszczelarski.pl^*^baners/354fb5466cc9e88d182d5ed7809c4997.
 @@||ppr.pl^*^banners^*ppr.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||samoloty.pl^*^lgp2.
