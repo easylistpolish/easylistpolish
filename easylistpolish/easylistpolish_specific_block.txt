@@ -193,7 +193,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||fadstrack.com^$script,domain=make-cash.pl
 ||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
-||fcinter.pl^*^znizka*.
 ||fiatklubpolska.pl^*-iparts.
 ||fight24.pl^*^fight_background.
 ||filetracker.pl/remonty.
