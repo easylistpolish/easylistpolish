@@ -167,8 +167,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||e-pingpong.pl^*^pileczkigewo-
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
-||e-stargard.pl^*^horizoncenter.
-||e-stargard.pl^*^pisz320.
 ||e-stargard.pl^*^sarl^
 ||ebarlinek.pl^*^beznazwy-1.
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
