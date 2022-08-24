@@ -151,7 +151,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||cmas.pl^*^banners^animacja_
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
-||contentstream.pl^$domain=shareinfo.pl
 ||cowwilanowie.pl^*^wilanow-coworking-
 ||cowwilanowie.pl^*^wilanow-zdrowie-angles.
 ||cyfrowaekonomia.pl^*quark3.
