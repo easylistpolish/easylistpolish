@@ -157,7 +157,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dodajauto.pl^*^sf.
 ||dopilar.pl^*^sky1.
 ||dx-team.org^*^pover.
-||dynacrems.wp.pl^*=dynacrems-adv-
 ||dz-ow.pl^*^narty.
 ||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
 ||dzierzgon-twojemiasto.pl^*^mn_przeglady-
