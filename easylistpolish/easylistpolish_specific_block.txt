@@ -194,7 +194,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
-||fight24.pl^*^fight_background.
 ||filetracker.pl/remonty.
 ||fireads.online^$third-party
 ||fireads.org^$domain=darmowetv.pl|newsdiscopolo.info|online-tv.pl
