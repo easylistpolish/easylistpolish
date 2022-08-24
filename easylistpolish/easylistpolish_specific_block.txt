@@ -190,7 +190,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||evertiq.pl/bximg^
-||extraswiecie.pl^*^vbanner^
 ||facetpo40.pl^*-Series-7-grey-
 ||fadstrack.com^$script,domain=make-cash.pl
 ||faunaflora.com.pl/euroanimal.
@@ -604,3 +603,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^vbanner^$domain=extraswiecie.pl
