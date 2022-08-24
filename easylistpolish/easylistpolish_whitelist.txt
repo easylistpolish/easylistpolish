@@ -9,8 +9,6 @@
 @@^baner.$domain=cech-lipno.pl
 @@^banery/2^$domain=sportgniezno.pl
 @@^banery/bg.$domain=karpacz.net
-@@^broszurabaner2.$domain=tygodnikpodhalanski.pl
-@@^pozegnania300x90.$domain=tygodnikpodhalanski.pl
 @@^reklamy^$domain=csbydgoszcz.pl|selgros24.pl
 @@||egarwolin.pl^*^inline__1_576.
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
