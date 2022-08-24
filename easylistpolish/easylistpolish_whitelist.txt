@@ -41,7 +41,6 @@
 @@||maszwolne.pl^*^pages/mini^
 @@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
 @@||networkmagazyn.pl^*^grupamlm_
-@@||obiektyw.info^*_logo.
 @@||ppr.pl^*^banners^*ppr.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
 @@||samoloty.pl^*^lgp2.
