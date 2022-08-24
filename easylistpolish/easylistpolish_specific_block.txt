@@ -180,7 +180,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||emisja.contentstream.pl^$domain=sportowy24.pl
 ||emisja.contentstream.pl^$script,domain=innemedium.pl|jejportal.pl|superdania.pl|tojuzbylo.pl|tylkoastronomia.pl|tylkomedycyna.pl|tylkonauka.pl|tylkoprzyroda.pl|ulub.pl|zmianynaziemi.pl|zmianysolarne.pl
 ||eostroleka.pl^*^cache-
-||ergokantor.pl/widgets^$domain=telewizjapolska24.pl
 ||esanok.pl/dodatki^
 ||esensja.pl^*^madbooks_
 ||esensja.pl^*^skapiec-
