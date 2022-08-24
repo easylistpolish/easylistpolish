@@ -159,7 +159,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
 ||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
-||dzierzgon-twojemiasto.pl^*^mn_przeglady-
 ||dzisiajwgliwicach.pl^*^sixsilver-jubiler
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
