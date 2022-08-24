@@ -54,7 +54,5 @@
 @@||samoloty.pl^*^lgp2.
 @@||sanatoria.com.pl^*-pobyty-zdrowotne.
 @@||sanatoria.com.pl^*_naszarehabilitacja_
-@@||sucha24.pl^*^logo.
-@@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
