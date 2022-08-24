@@ -155,7 +155,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dobrewiadomosci.eu^*^opal_copy.
 ||dodajauto.pl^*^logo%20ds%20baner.
 ||dodajauto.pl^*^sf.
-||dopilar.pl^*^penire_plus.
 ||dopilar.pl^*^sky1.
 ||drzewkozabutelke.pl^*^galeriabronowica-
 ||dx-team.org^*^pover.
