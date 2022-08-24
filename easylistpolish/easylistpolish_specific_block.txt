@@ -146,8 +146,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
 ||cdn.sterta.pl^$domain=rusz.pl
 ||ceneo.pl^$image,domain=7dni.pila.pl|archigame.pl|exerim.pl|komputery-pc.info|pch24.info|pmi24.info|warownie.pl|nowinylokalne.pl|pgo24.pl|tromil.pl|grojec24.net
-||centrumkultury.eu^*^Drajw%20strona%20internetowa.
-||centrumkultury.eu^*^KBBC_kinads_
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
