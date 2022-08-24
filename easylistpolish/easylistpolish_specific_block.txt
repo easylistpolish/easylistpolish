@@ -176,7 +176,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||egorzow.pl^*-pzu_gorzow_mieszka.
 ||ekologia.guru^*^baner03.
 ||ekologia.guru^*^seo.
-||ekologia.pl/pasaz/widget-
 ||ekorodzice.pl/_js/a_d
 ||ekstrastats.pl^*^ft_logo.
 ||eku24.net^*^boksy/$image
