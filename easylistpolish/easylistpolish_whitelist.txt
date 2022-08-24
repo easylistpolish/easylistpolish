@@ -14,7 +14,7 @@
 @@^reklama.$domain=tygodnikprudnicki.pl
 @@^reklama^$domain=prokopienko.pl
 @@^reklamy^$domain=csbydgoszcz.pl|selgros24.pl
-@@_300x600.$domain=eurobuildcee.com|polishexpress.co.uk
+@@_300x600.$domain=polishexpress.co.uk
 @@||egarwolin.pl^*^inline__1_576.
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
