@@ -170,7 +170,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||e-stargard.pl^*^sarl^
 ||ebarlinek.pl^*^beznazwy-1.
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
-||ebroker.pl^$image,domain=autofanatyk.pl|icyfrowypolsat.pl|mojeanonse.pl
+||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
 ||ec.bankier.pl^$domain=mavelo.pl|miedziak.info.pl|tutajglogow.pl|tutajlegnica.pl|tutajpolkowice.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
