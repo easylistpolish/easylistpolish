@@ -190,9 +190,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
 ||evertiq.pl/bximg^
-||extraswiecie.pl^*^6.meranti.
-||extraswiecie.pl^*^7.roplast.
-||extraswiecie.pl^*^t_pogoda_
 ||extraswiecie.pl^*^vbanner^
 ||facetpo40.pl^*-Series-7-grey-
 ||fadstrack.com^$script,domain=make-cash.pl
