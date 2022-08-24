@@ -54,11 +54,6 @@
 @@||samoloty.pl^*^lgp2.
 @@||sanatoria.com.pl^*-pobyty-zdrowotne.
 @@||sanatoria.com.pl^*_naszarehabilitacja_
-@@||sokolka.tv^*^efrrow.
-@@||sokolka.tv^*^idealan.
-@@||sokolka.tv^*^leader.
-@@||sokolka.tv^*^prow.
-@@||sokolka.tv^*_ulotka_oferta_
 @@||sucha24.pl^*^logo.
 @@||sucha24.pl^*^nekrolog.
 @@||team29er.pl^*^fr234a.
