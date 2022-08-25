@@ -206,7 +206,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||goldap.org.pl^*^fronton.
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
-||gorzow24.pl^*^ims^
 ||gostynin.info^*^koparka_1x1-
 ||gostynin.info^*^new_project_30.
 ||gostynin.info^*^stacja.
@@ -570,3 +569,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^banerygx^$domain=forum.haszysz.com
 _baner_$domain=goal.pl
 ^reklama-$domain=goniecpolski.nl
+^ims^$domain=gorzow24.pl
