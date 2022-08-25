@@ -335,7 +335,6 @@ testynaojcostwo.pl###top-baner
 szczecinek.com,twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
 traseo.pl###top-zone
-stockwatch.pl###topAdCont
 polskielupki.pl###topAdd
 pszczyna.tv###topBaner
 dziennikteatralny.pl###topBigBanner
