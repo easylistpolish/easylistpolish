@@ -214,7 +214,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||hiszpania-apartamenty.pl^*^hotele.jpg
 ||hiszpania-apartamenty.pl^*^samochody.jpg
 ||hsmkorkus.com^*^logo_bento-
-||ibb.co^$image,domain=pogonsportnet.pl
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ||ifotos.pl^$image,domain=radiobonton.pl
 ||ifotos.pl^img^$domain=supertydzien.pl
