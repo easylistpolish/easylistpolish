@@ -211,7 +211,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
 ||greencanoe.pl^*^substral.
-||hip-hop.pl^*^skateshop-skate-europe.
 ||hiszpania-apartamenty.pl^*^hotele.jpg
 ||hiszpania-apartamenty.pl^*^samochody.jpg
 ||hokej.net^*^kasynohex.
