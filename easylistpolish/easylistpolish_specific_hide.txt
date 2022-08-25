@@ -1689,3 +1689,4 @@ facetpo40.pl##.wrapper_smallimages
 fiatklubpolska.pl###ad_global_below_navbar
 fight24.pl##.navbar-ad-section
 gazeta-mosina.pl###right .first
+tuolawa.pl##.my-3 .d-inline-block
