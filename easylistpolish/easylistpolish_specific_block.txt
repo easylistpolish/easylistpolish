@@ -204,7 +204,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||glos-tn.krakow.pl/palottifm.
 ||glos.live^*^Vitality_
 ||goldap.org.pl^*^fronton.
-||goniec.net^*^gowestweb.
 ||goniec.net^*^topmortgagesqweb.
 ||goniecpolski.nl^*^reklama-
 ||gorydlaciebie.pl^*^booking-
