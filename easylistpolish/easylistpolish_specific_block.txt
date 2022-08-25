@@ -211,7 +211,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
 ||greencanoe.pl^*^substral.
-||haszysz.com/images/banners^
 ||hifi.pl/anicss^
 ||hip-hop.pl^*^skateshop-skate-europe.
 ||hiszpania-apartamenty.pl^*^hotele.jpg
@@ -563,3 +562,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 _baner_$domain=goal.pl
 ^reklama-$domain=goniecpolski.nl
 ^ims^$domain=gorzow24.pl
+^banners^$domain=haszysz.com
