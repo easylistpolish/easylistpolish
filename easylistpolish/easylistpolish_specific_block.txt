@@ -198,7 +198,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
-||gazetasenior.pl^*-300-px-
 ||gazetasenior.pl^*_300x300_
 ||gazetaslezanska.pl^*^BR_WrocTUW_
 ||gazetaslezanska.pl^*^jaross-
