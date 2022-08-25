@@ -191,7 +191,7 @@ swarzedz24.pl###media_image-328
 gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
-30minut.pl,staresiolkowice.pl###media_image-4
+30minut.pl###media_image-4
 budownictwo.co###media_image-5
 tkaninyobiciowe.eu###media_image-59
 tkaninyobiciowe.eu###media_image-63
