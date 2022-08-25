@@ -205,7 +205,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||glos.live^*^Vitality_
 ||goldap.org.pl^*^fronton.
 ||goniec.net^*^topmortgagesqweb.
-||goniecpolski.nl^*^reklama-
 ||gorydlaciebie.pl^*^booking-
 ||gorzow24.pl^*^ims^
 ||gostynin.info^*^koparka_1x1-
@@ -570,3 +569,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^vbanner^$domain=extraswiecie.pl
 ^banerygx^$domain=forum.haszysz.com
 _baner_$domain=goal.pl
+^reklama-$domain=goniecpolski.nl
