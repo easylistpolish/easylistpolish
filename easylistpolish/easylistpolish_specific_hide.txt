@@ -1364,7 +1364,6 @@ asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 roosevelta81.pl##a[href^="https://superbet.pl/"]
-stadiony.net##a[href^="https://twojtyp.pl/"]
 kanonierzy.com##a[href^="https://typ.pl/"]
 portal-polski.pl##a[href^="https://webep1.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
