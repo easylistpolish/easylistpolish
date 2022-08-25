@@ -198,7 +198,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
-||gazeta-olawa.pl^*_Probus_portal300x300-
 ||gazeta.pl/pub^
 ||gazetagazeta.com^*-Jewellery-
 ||gazetagazeta.com^*-Zywiec-
