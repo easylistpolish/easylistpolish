@@ -1356,7 +1356,6 @@ dts24.pl##a[href^="https://pl.jooble.org/"]
 narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 skijumping.pl##a[href^="https://real-logistics.pl"][target="_blank"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
-starosadeckie.info##a[href^="https://sklep.karpol.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
