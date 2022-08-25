@@ -1093,7 +1093,6 @@ lifemanagerka.pl##.text-5
 lifemanagerka.pl##.text-9
 spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-starosadeckie.info##.the-slider + p
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
