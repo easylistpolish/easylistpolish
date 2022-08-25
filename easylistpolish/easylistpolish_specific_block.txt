@@ -557,3 +557,4 @@ _baner_$domain=goal.pl
 ^reklama-$domain=goniecpolski.nl
 ^ims^$domain=gorzow24.pl
 ^banners^$domain=haszysz.com
+||postimg.cc^$domain=pogonsportnet.pl
