@@ -203,7 +203,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||glos-tn.krakow.pl/palottifm.
 ||glos.live^*^Vitality_
-||gohel.pl^*^hotem-hel.
 ||goldap.org.pl^*^fronton.
 ||goleniowska.com^*^2020/11/ogloszenie.
 ||golub-cgd.pl^$image,domain=rypin-cry.pl
