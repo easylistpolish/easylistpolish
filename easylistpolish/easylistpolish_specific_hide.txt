@@ -416,7 +416,6 @@ egryfino.pl,gryfinska.pl##.ada
 gryfinska.pl##.ada-rwd
 rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
-stockwatch.pl##.adbloki-sroki
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 zeglarski.info##.add-box
 gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
