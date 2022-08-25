@@ -199,8 +199,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
 ||gazetasenior.pl^*_300x300_
-||gazetaslezanska.pl^*^BR_WrocTUW_
-||gazetaslezanska.pl^*^jaross-
 ||gazetatwojeinfo.pl^*^WEGA-GIF-
 ||gazetatwojeinfo.pl^*^WIS_-
 ||gazetawalbrzych.pl^*^Chleb-bezglutenowy.
