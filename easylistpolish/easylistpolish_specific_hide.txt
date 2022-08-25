@@ -1697,3 +1697,4 @@ tuhiszpania.pl###rankomat-travel
 gloskrakowa.pl##img[alt*="sponsorowane"]
 goleniowska.com##div[data-advadstrackid]
 gorydlaciebie.pl##.kiosk-shortcode
+gwarek.com.pl##.topLayer
