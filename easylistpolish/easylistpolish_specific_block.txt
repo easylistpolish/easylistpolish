@@ -203,8 +203,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||glos-tn.krakow.pl/palottifm.
 ||glos.live^*^Vitality_
-||gloswroclawia.pl^*^1200x1200_
-||gloswroclawia.pl^*^300-x-250.
 ||goal.pl/ban^*^tapeta_
 ||goal.pl/images/st_3.
 ||gohel.pl^*^hotem-hel.
