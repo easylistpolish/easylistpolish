@@ -1017,7 +1017,6 @@ swidnik.pl##.sidebar_item > img
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 zycieczestochowy.pl##.sideelement
 gazetkonosz.pl##.signad
-staleo.pl##.silver.section-title
 staleo.pl##.silver.section-title + aside
 zywiec112.com.pl##.simple-popup-advert
 wronieckibazar.pl##.site-branding a[target]
