@@ -204,7 +204,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||glos-tn.krakow.pl/palottifm.
 ||glos.live^*^Vitality_
 ||goldap.org.pl^*^fronton.
-||goleniowska.com^*^2020/11/ogloszenie.
 ||golub-cgd.pl^$image,domain=rypin-cry.pl
 ||goniec.net^*^gowestweb.
 ||goniec.net^*^topmortgagesqweb.
