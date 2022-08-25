@@ -1690,3 +1690,4 @@ fiatklubpolska.pl###ad_global_below_navbar
 fight24.pl##.navbar-ad-section
 gazeta-mosina.pl###right .first
 tuolawa.pl##.my-3 .d-inline-block
+gazetaklobucka.pl##div[style="margin-top: 15px; margin-bottom: 25px;"]
