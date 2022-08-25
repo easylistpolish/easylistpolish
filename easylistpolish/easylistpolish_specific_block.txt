@@ -199,7 +199,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
 ||gazetasenior.pl^*_300x300_
-||gazetawalbrzych.pl^*^Chleb-bezglutenowy.
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||glamrap.pl^*^580x400_
