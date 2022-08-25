@@ -213,7 +213,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||greencanoe.pl^*^substral.
 ||hiszpania-apartamenty.pl^*^hotele.jpg
 ||hiszpania-apartamenty.pl^*^samochody.jpg
-||hokej.net^*^kasynohex.
 ||hsmkorkus.com^*^logo_bento-
 ||http:$popup,domain=fili.cc
 ||https:$popup,domain=fili.cc
