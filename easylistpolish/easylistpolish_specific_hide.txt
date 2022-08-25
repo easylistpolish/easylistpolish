@@ -607,7 +607,6 @@ kierunki-studiow.info##.bm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl,superportal24.pl##.bnr
 superportal24.pl##.bnr--billboard
-stockwatch.pl##.bnr3b
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 podkarpacielive.pl##.bottom_banner
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
