@@ -207,7 +207,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
 ||gostynin.info^*^new_project_30.
-||gpi2.website.pl^$domain=glogow-info.pl|glogow.info.pl
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||gramscien.xyz$script,domain=rybnik.com.pl
 ||greencanoe.pl^*-802x118.
