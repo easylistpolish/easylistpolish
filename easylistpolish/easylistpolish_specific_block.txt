@@ -201,7 +201,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||gazetasenior.pl^*_300x300_
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
-||glamrap.pl^*^580x400_
 ||glos-tn.krakow.pl/palottifm.
 ||glos.live^*^Vitality_
 ||gloskrakowa.pl^*^Fusion-System.
