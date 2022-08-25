@@ -1691,3 +1691,4 @@ fight24.pl##.navbar-ad-section
 gazeta-mosina.pl###right .first
 tuolawa.pl##.my-3 .d-inline-block
 gazetaklobucka.pl##div[style="margin-top: 15px; margin-bottom: 25px;"]
+gazetaregionalna.com##.td-a-rec a
