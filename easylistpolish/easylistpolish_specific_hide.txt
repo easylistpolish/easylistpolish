@@ -544,7 +544,6 @@ production-manager.pl##.banner-carousel
 naszatve.pl##.banner-center
 kb.pl,radiosud.pl##.banner-container
 wietrzneradio.com##.banner-full
-sprowadzanie-aut.pl##.banner-inner
 telewizjattm.pl##.banner-main-page
 trojmiasto.pl##.banner-maxia--glowna
 ppe.pl##.banner-placeholder
