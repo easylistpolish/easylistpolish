@@ -198,8 +198,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
-||gazetaregionalna.com^*^posadzki300x250-
-||gazetaregionalna.com^*^volvo_kombinujemy-
 ||gazetasenior.pl^*-300-px-
 ||gazetasenior.pl^*_300x300_
 ||gazetaslezanska.pl^*^BR_WrocTUW_
