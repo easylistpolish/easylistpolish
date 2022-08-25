@@ -206,9 +206,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||goldap.org.pl^*^fronton.
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
-||gostynin.info^*^koparka_1x1-
 ||gostynin.info^*^new_project_30.
-||gostynin.info^*^stacja.
 ||gpi2.website.pl^$domain=glogow-info.pl|glogow.info.pl
 ||gpi4.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||gramscien.xyz$script,domain=rybnik.com.pl
