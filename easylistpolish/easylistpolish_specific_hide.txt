@@ -1695,3 +1695,4 @@ gazetaregionalna.com##.td-a-rec a
 gazetawalbrzych.pl##img[alt*="sponsorowane"]
 tuhiszpania.pl###rankomat-travel
 gloskrakowa.pl##img[alt*="sponsorowane"]
+goleniowska.com##div[data-advadstrackid]
