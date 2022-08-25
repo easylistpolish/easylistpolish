@@ -208,7 +208,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||gorydlaciebie.pl^*^booking-
 ||gostynin.info^*^new_project_30.
 ||gpi5.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
-||gramscien.xyz$script,domain=rybnik.com.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
 ||greencanoe.pl^*^substral.
