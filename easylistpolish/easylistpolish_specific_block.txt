@@ -198,7 +198,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/player.php?ads
-||gazetaklobucka.pl^*^tvs-1.
 ||gazetaregionalna.com^*^posadzki300x250-
 ||gazetaregionalna.com^*^volvo_kombinujemy-
 ||gazetasenior.pl^*-300-px-
