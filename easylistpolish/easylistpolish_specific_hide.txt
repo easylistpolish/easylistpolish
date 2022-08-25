@@ -1650,7 +1650,6 @@ poczta.wp.pl##sidebar-feed
 wp.pl##span[id^="dynacrems-adv"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
-stooq.pl##td > #f10:first-child
 nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
 vampirediaries.pl##td[onclick^="window.location"]
 podlasie24.pl##td[rowspan="2"]
