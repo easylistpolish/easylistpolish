@@ -181,7 +181,7 @@ poloniagdansk.pl###masthead-sponsors
 tu.swinoujscie.pl###media_image-11
 tonaszregion.pl###media_image-134
 gazetatrybunalska.info###media_image-15
-staresiolkowice.pl,wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
+wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
 gazetagazeta.com###media_image-25
 gazetagazeta.com###media_image-28
 glosgminny.pl,greencanoe.pl,littletownshoes.com###media_image-3
