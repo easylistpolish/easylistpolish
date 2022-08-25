@@ -573,3 +573,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^vbanner^$domain=extraswiecie.pl
 ^banerygx^$domain=forum.haszysz.com
+_baner_$domain=goal.pl
