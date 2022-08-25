@@ -211,7 +211,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
 ||greencanoe.pl^*^substral.
-||gwarek.com.pl^*^uploads/a^
 ||haker.nie-spamuj.eu/wiejskie.
 ||haszysz.com/images/banners^
 ||hifi.pl/anicss^
