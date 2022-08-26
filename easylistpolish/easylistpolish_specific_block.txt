@@ -224,7 +224,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^ik_sdb.
 ||kcynia.info^*^rolnik-serwis2.
-||kiwip.pl^*^kniejka_
 ||kk24.pl^*-baner%20tytan%202.
 ||kk24.pl^*-biuro%20senatorskie.
 ||kk24.pl^*^mzc.
