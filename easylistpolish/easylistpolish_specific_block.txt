@@ -221,8 +221,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||instalki.pl^*^banners/Vebo_
 ||ipulawy.pl^*^panda-web.
 ||izachodniopomorskie.pl^*^Tanie_foto_
-||jpktraders.pl^*^am1.
-||jpktraders.pl^*^ledger_nano-
 ||kalkulator-plac.eu^*^infakt-sky.
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^ik_sdb.
