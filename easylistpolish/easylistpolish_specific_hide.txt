@@ -1688,3 +1688,4 @@ iknurow.pl##script + .td-container
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 ipulawy.pl##a[target="_blank"].vc_box_border_grey
 iswinoujscie.pl##.article ~ .ads
+izachodniopomorskie.pl##.izpa
