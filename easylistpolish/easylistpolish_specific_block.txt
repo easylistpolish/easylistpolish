@@ -224,8 +224,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^ik_sdb.
 ||kaszuby24.pl^*-naczykjanicki-1.
-||kbf.pl^*^warszewo.
-||kbprojekt.pl^$domain=lokalna24.pl
 ||kcynia.info^*^rolnik-serwis2.
 ||ki24.info/upload/grafiki^$image
 ||kiwip.pl^*^kniejka_
