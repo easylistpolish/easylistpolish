@@ -222,8 +222,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ipulawy.pl^*^panda-web.
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||jagodnik.pl^*^ceres_niebieski2020.
-||jaw.pl^*^autobanasikbaner_
-||jaw.pl^*^parcelabc.
 ||jelonka.com^*^9057.
 ||jelonka.com^*^k_9006^
 ||jpktraders.pl^*^am1.
