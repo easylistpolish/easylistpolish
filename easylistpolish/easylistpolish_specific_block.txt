@@ -228,8 +228,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
-||konin24.info^*^b_TermkonBanner3.
-||konin24.info^*mavikonin1-nbet.
 ||konstancin.com/reklama_
 ||kontakt-st.pl/bannery.
 ||kopalniawiedzy.pl^*^skanerMKS.
