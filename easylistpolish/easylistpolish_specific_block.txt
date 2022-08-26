@@ -216,7 +216,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ||ifrancja.fr^*^jobsora.
-||imge.pl^$image,domain=gpwinfostrefa.pl
 ||info.elblag.pl^*^tla/*.jpg?v=1
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
