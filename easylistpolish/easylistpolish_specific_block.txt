@@ -218,7 +218,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ifrancja.fr^*^jobsora.
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
-||infobeskidy.eu^*^r5.
 ||infobusko.pl^*^biskas-reklam-
 ||infobusko.pl^*^gutek-kruk-
 ||infokatowice.pl^*^mniam-kosciuszki-
