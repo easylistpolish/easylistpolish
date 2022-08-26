@@ -228,7 +228,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
-||konstancin.com/reklama_
 ||kontakt-st.pl/bannery.
 ||kopalniawiedzy.pl^*^skanerMKS.
 ||korso.pl^*^wysiwig^
@@ -525,3 +524,4 @@ _baner_$domain=goal.pl
 ^1Reklama^$domain=iturek.net
 ||bitcoinwidget.pl^$domain=jpktraders.pl
 ||xtb.com^$script,domain=kantorywalut.pl
+^reklama_$domain=konstancin.com
