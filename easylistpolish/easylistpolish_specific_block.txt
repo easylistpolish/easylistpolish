@@ -216,8 +216,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ||ifrancja.fr^*^jobsora.
-||iknurow.pl^*^majster.gif
-||iknurow.pl^*^samociuk-
 ||img.staticbg.com^$domain=rzeszowska24.pl
 ||imge.pl^$image,domain=gpwinfostrefa.pl
 ||info.elblag.pl^*^tla/*.jpg?v=1
