@@ -221,7 +221,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||instalki.pl^*^banners/Vebo_
 ||ipulawy.pl^*^panda-web.
 ||izachodniopomorskie.pl^*^Tanie_foto_
-||jablonka.info^*^AMP_
 ||jagodnik.pl^*^ceres_niebieski2020.
 ||jaw.pl^*^autobanasikbaner_
 ||jaw.pl^*^parcelabc.
