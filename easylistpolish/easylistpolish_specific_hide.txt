@@ -1684,3 +1684,4 @@ goleniowska.com##div[data-advadstrackid]
 gorydlaciebie.pl##.kiosk-shortcode
 gwarek.com.pl##.topLayer
 supertydzien.pl##.my-3 picture
+iknurow.pl##script + .td-container
