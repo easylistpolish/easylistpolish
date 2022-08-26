@@ -223,7 +223,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-1.
 ||kantorywalut.pl^*^ik_sdb.
-||kaszuby24.pl^*-naczykjanicki-1.
 ||kcynia.info^*^rolnik-serwis2.
 ||ki24.info/upload/grafiki^$image
 ||kiwip.pl^*^kniejka_
