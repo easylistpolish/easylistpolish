@@ -1686,3 +1686,4 @@ gwarek.com.pl##.topLayer
 supertydzien.pl##.my-3 picture
 iknurow.pl##script + .td-container
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
+ipulawy.pl##a[target="_blank"].vc_box_border_grey
