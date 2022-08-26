@@ -220,7 +220,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
 ||ipulawy.pl^*^panda-web.
-||iswinoujscie.pl^*^banery/is^
 ||iturek.net^*^1Reklama^
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||jablonka.info^*^AMP_
