@@ -220,7 +220,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
 ||ipulawy.pl^*^panda-web.
-||iturek.net^*^1Reklama^
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||jablonka.info^*^AMP_
 ||jagodnik.pl^*^ceres_niebieski2020.
@@ -543,3 +542,4 @@ _baner_$domain=goal.pl
 ^ims^$domain=gorzow24.pl
 ^banners^$domain=haszysz.com
 ||postimg.cc^$domain=pogonsportnet.pl
+^1Reklama^$domain=iturek.net
