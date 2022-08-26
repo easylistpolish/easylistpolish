@@ -219,7 +219,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
-||iochota.pl^*^inline__1080942_
 ||ipulawy.pl^*^panda-web.
 ||iswinoujscie.pl^*^banery/is^
 ||iturek.net^*^1Reklama^
