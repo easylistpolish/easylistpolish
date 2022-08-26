@@ -533,3 +533,4 @@ _baner_$domain=goal.pl
 ^banners^$domain=haszysz.com
 ||postimg.cc^$domain=pogonsportnet.pl
 ^1Reklama^$domain=iturek.net
+||bitcoinwidget.pl^$domain=jpktraders.pl
