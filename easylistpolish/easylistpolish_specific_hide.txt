@@ -1689,3 +1689,4 @@ gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 ipulawy.pl##a[target="_blank"].vc_box_border_grey
 iswinoujscie.pl##.article ~ .ads
 izachodniopomorskie.pl##.izpa
+jaw.pl##aside.td_block_template_1 img
