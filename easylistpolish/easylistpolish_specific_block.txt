@@ -218,7 +218,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ifrancja.fr^*^jobsora.
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
-||inforiders.pl^*^tvp.berlin.
 ||instalki.pl^*^banners/Vebo_
 ||iochota.pl^*^inline__1080942_
 ||ipulawy.pl^*^bus-8-osob2.
