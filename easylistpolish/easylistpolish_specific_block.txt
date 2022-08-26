@@ -220,7 +220,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
 ||iochota.pl^*^inline__1080942_
-||ipulawy.pl^*^bus-8-osob2.
 ||ipulawy.pl^*^panda-web.
 ||iswinoujscie.pl^*^banery/is^
 ||iturek.net^*^1Reklama^
