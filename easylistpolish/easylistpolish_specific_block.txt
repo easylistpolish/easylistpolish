@@ -236,10 +236,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.com-
-||kurier-bb.pl^*^alpin_
-||kurier-bb.pl^*^ceramed.
-||kurier-bb.pl^*^szpilka.
-||kurier-bb.pl^*^waterpoint.
 ||kurier-kolski.pl^*^bb_bricomarche_
 ||kurier-kolski.pl^*^galembabiuro.
 ||kurier-kolski.pl^*^oferty-
