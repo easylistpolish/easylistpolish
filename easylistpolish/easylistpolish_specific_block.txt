@@ -239,7 +239,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kurier-lokalny.com^*^Matuz-
 ||kurier-w.pl/Dokumenty/2016^$image
 ||lechia.net^*^jooma-guru-
-||legeartis.org^*^Tuszmarkt.pl_.
 ||legionisci.com^*^zyletasklep.
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||leszczynskisport.pl^*^danno.
