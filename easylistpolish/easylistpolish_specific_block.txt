@@ -241,9 +241,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lechia.net^*^jooma-guru-
 ||legionisci.com^*^zyletasklep.
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
-||leszczynskisport.pl^*^danno.
-||leszczynskisport.pl^*^robinsons.
-||leszczynskisport.pl^*^tempus.
 ||lilia.doba.pl^$image
 ||linktopoland.com^*^autoczescionline24-pl.
 ||lokalna.info^*^kssse.
