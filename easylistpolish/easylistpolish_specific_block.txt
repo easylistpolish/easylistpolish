@@ -228,7 +228,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
-||kontakt-st.pl/bannery.
 ||kopalniawiedzy.pl^*^skanerMKS.
 ||korso.pl^*^wysiwig^
 ||koscierzyna24.info^*^s3_
