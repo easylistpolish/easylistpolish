@@ -1695,3 +1695,4 @@ ki24.info##.topLayer
 kobiety-kobietom.com##.OneProductBig
 korso.pl##.ads
 kryptoporadnik.pl##script + center
+kucharze.pl##[id^="search-"] ~ aside
