@@ -249,7 +249,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.js?
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.css?
 ||market.bia24.pl/
-||masztu.pl^$image,domain=czest.info
 ||masztu.pl^*^udzialowiec.
 ||maszwolne.pl^*^pages^
 ||materialybudowlane.info.pl^*^megadekarz.
