@@ -245,7 +245,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lokalna24.pl^*^wasbruk_
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
-||lubimyczytac.pl/upload/wallpapers/1088/960847-1660x1.$image
 ||lukowicatomy.pl^*^napedy4x4_
 ||lwowecki.info^*^03/samson-
 ||lwowecki.info^*^bielak-fotowoltaika.
