@@ -229,7 +229,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
 ||kopalniawiedzy.pl^*^skanerMKS.
-||korso.pl^*^wysiwig^
 ||koscierzyna24.info^*^s3_
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-zycie-
