@@ -236,9 +236,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.com-
-||kurier-kolski.pl^*^bb_bricomarche_
-||kurier-kolski.pl^*^galembabiuro.
-||kurier-kolski.pl^*^oferty-
 ||kurier-lokalny.com^*^Matuz-
 ||kurier-w.pl/Dokumenty/2016^$image
 ||kurierzamojski.pl/br^
