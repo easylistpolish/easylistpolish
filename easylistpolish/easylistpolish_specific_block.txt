@@ -238,7 +238,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptowaluty.info.pl^*^ezgif.com-
 ||kurier-lokalny.com^*^Matuz-
 ||kurier-w.pl/Dokumenty/2016^$image
-||kursy-walut.info.pl^*^www/bitbay.
 ||larete.pl/re^$image
 ||lechia.net^*^jooma-guru-
 ||legeartis.org^*^Tuszmarkt.pl_.
