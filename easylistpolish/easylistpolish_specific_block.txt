@@ -236,7 +236,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.com-
-||kucharze.pl^*^BFS-pepitki-baner-
 ||kurier-bb.pl^*^alpin_
 ||kurier-bb.pl^*^ceramed.
 ||kurier-bb.pl^*^szpilka.
