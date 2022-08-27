@@ -251,7 +251,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||market.bia24.pl/
 ||masztu.pl^*^udzialowiec.
 ||maszwolne.pl^*^pages^
-||materialybudowlane.info.pl^*^megadekarz.
 ||mazopolska.pl^*-300x150.
 ||mazopolska.pl^*^KLAVA-BANER
 ||mazopolska.pl^*^Klava.
