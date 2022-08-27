@@ -243,7 +243,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
 ||linktopoland.com^*^autoczescionline24-pl.
-||lokalna24.pl^*^debowe_wzgorze.
 ||lokalna24.pl^*^wasbruk_
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
