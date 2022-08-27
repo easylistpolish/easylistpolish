@@ -1693,3 +1693,4 @@ jaw.pl##aside.td_block_template_1 img
 lokalna24.pl##[class="text-center my-3 container"]
 ki24.info##.topLayer
 kobiety-kobietom.com##.OneProductBig
+korso.pl##.ads
