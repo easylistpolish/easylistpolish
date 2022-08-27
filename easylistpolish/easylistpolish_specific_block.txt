@@ -234,12 +234,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-zycie-
 ||kryptoholik.pl^*^nestt.
 ||kryptoholik.pl^*^pum^$script
-||kryptoporadnik.pl^*^bbfinal.
-||kryptoporadnik.pl^*^binance-dejavu.
 ||kryptoporadnik.pl^*^binance_
-||kryptoporadnik.pl^*^bitmex-znizka.
-||kryptoporadnik.pl^*^brave_pobierz_
-||kryptoporadnik.pl^*^bybit_sid.
 ||kryptoportal.pl^*^FA-1.
 ||kryptowaluty.info.pl^*^ezgif.com-
 ||kucharze.pl^*^BFS-pepitki-baner-
