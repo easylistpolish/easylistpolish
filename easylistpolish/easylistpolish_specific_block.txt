@@ -235,7 +235,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptoholik.pl^*^nestt.
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
-||kryptoportal.pl^*^FA-1.
 ||kryptowaluty.info.pl^*^ezgif.com-
 ||kucharze.pl^*^BFS-pepitki-baner-
 ||kurier-bb.pl^*^alpin_
