@@ -248,7 +248,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.js?
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.css?
-||mamaklub.pl^*^dobre-powody.
 ||market.bia24.pl/
 ||masztu.pl^$image,domain=czest.info
 ||masztu.pl^*^udzialowiec.
