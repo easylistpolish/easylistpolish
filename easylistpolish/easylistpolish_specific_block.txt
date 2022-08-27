@@ -246,9 +246,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
 ||lwowecki.info^*^03/samson-
-||lwowecki.info^*^bielak-fotowoltaika.
-||lwowecki.info^*^sjo-germanos.
-||lwowecki.info^*^skrojan-okna-drzwi.
 ||magazynfakty.pl^*^ventana_r.
 ||magazyngitarzysta.pl^*^750x200_
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.js?
