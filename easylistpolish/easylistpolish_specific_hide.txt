@@ -1697,3 +1697,4 @@ korso.pl##.ads
 kryptoporadnik.pl##script + center
 kucharze.pl##[id^="search-"] ~ aside
 kurierzamojski.pl##a[href*="/redirect/"]
+malagacf.pl##.container a[href="/go/sts"]
