@@ -991,7 +991,7 @@ epiotrkow.pl##.rtop
 studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,zebrra.tv##.sam-container
-nizanskie.info,sompolno24.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl##.santa-main-wrapper
+nizanskie.info,sompolno24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl##.santa-main-wrapper
 twojepajeczno.pl##.scxx
 twojepajeczno.pl##.scxxx
 businesswomanlife.pl##.sead > a > img
