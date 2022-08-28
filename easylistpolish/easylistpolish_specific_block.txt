@@ -254,7 +254,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mazopolska.pl^*-300x150.
 ||mazopolska.pl^*^protech-baner
 ||mazury.info.pl^1logo^
-||mazury.info.pl^go2boat.
 ||mecze.com^*^player-f1-
 ||mecze24.pl^*^kasyno_
 ||meczenazywo.pl/imghttps/300^
