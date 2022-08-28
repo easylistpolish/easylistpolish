@@ -507,7 +507,6 @@ infoserwiselk.pl##.b180
 infoserwiselk.pl##.b300
 echogorzowa.pl##.ba
 swinoujskie.info##.background-cover
-szubin24.pl##.ban
 koty24.pl##.ban-71
 badaniaprenatalne.pl##.ban-top
 plotek.pl##.ban001_wrapper
