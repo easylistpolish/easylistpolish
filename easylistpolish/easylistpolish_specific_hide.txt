@@ -1105,7 +1105,7 @@ jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 walbrzyszek.com##.top5 a[href^="/zlicz/"]
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-bielskirynek.pl,infoskierniewice.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+bielskirynek.pl,infoskierniewice.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,tarnowska.pl,terazgabin.pl,terazgostynin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
