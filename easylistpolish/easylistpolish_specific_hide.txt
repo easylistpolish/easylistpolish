@@ -73,7 +73,6 @@ telewizor.eu###block
 icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
 30minut.pl###block-13
-tarnobrzeg.info###block-21
 tarnobrzeg.info###block-22
 gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
