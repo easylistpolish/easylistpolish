@@ -265,7 +265,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
-||mojewronki.pl^*^plakat-rekrutacja-
 ||money.pl/i/ad^
 ||motocykle125.pl^*^akumulator-moretti-
 ||motocykle125.pl^*^junak^$subdocument
