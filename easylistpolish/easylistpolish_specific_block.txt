@@ -257,10 +257,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mfiles.pl^*^comarch_
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
-||miastons.pl^*-promocji.
-||miastons.pl^*^doner-
 ||miastons.pl^*^donking-
-||miastons.pl^*_740x123.
 ||miechowski.pl^*-zatrudni-kucharzy.
 ||miedzyrzecz.biz^*-rankingi-350x100.
 ||mieszkaniec.pl^*^antykwariat-
