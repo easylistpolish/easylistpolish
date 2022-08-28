@@ -862,7 +862,6 @@ kocham.wielun.pl##.module-xyz
 goldap.info##.modulereklamar1
 nowosadecki24.pl##.moduletable .custom a
 tv-pelplin.pl##.moduletable sup
-sztafeta.pl##.mom-e3lanat-wrap
 boomerang-tv.pl##.mpu
 radioandrychow.pl##.mradio-marketing
 metropoliabydgoska.pl##.mt-banner
