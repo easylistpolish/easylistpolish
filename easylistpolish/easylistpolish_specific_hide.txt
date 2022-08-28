@@ -1173,7 +1173,6 @@ radioostrowiec.pl##.widgettitle-reklama
 radomsport.pl##.wiersz_news a[target="_blank"] > img
 wkielcach.info##.wkiel-reklama_przyklad
 whatsnext.pl##.wnbad
-studialicencjackie.info##.wo_rek font[size="5"]
 zupelnieinnaopowiesc.com##.wpa
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 nowawrzesnia.pl##.wpb_images_carousel
