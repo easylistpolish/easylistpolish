@@ -259,13 +259,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastokobiet.pl^*^05/czas-kobiet-miasto-kobiet.
 ||miastokobiet.pl^*^energylandia-
 ||miastokobiet.pl^*^WK_TheCrown20_
-||miastokolobrzeg.pl^*^b_all2.
 ||miastokolobrzeg.pl^*^brico
-||miastokolobrzeg.pl^*^brico2.
-||miastokolobrzeg.pl^*^molis1.
-||miastokolobrzeg.pl^*^okazja2.
-||miastokolobrzeg.pl^*^oknoplast.
-||miastokolobrzeg.pl^*^radio1.
 ||miastons.pl^*-promocji.
 ||miastons.pl^*^doner-
 ||miastons.pl^*^donking-
