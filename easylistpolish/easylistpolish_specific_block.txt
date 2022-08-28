@@ -258,7 +258,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*^donking-
-||miedzyrzecz.biz^*-rankingi-350x100.
 ||mieszkaniec.pl^*^antykwariat-
 ||mma.pl^*^autodoc_
 ||mma.pl^*^fersh.
