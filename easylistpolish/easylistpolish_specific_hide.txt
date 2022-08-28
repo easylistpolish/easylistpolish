@@ -615,7 +615,6 @@ flashscore.pl,wynikinazywo.pl##.boxOverContent__banner
 wroclaw.pl##.boxVerticalBanner
 cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama
-szukam-ksiazki.pl##.box_width_left > tbody > tr:nth-child(3) img
 radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl/"])
 tyna.info.pl##.breadcrumbs-wrap ~ center a
 cgm.pl,poscigi.pl##.bsaPopupWrapper
