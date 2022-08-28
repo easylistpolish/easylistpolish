@@ -85,7 +85,6 @@ zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
-szuster.com.pl###box-4
 laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
 bb365.info###bsa-html
