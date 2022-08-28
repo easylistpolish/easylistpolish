@@ -1678,3 +1678,22 @@ gloskrakowa.pl##img[alt*="sponsorowane"]
 goleniowska.com##div[data-advadstrackid]
 gorydlaciebie.pl##.kiosk-shortcode
 gwarek.com.pl##.topLayer
+supertydzien.pl##.my-3 picture
+iknurow.pl##script + .td-container
+gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
+ipulawy.pl##a[target="_blank"].vc_box_border_grey
+iswinoujscie.pl##.article ~ .ads
+izachodniopomorskie.pl##.izpa
+jaw.pl##aside.td_block_template_1 img
+lokalna24.pl##[class="text-center my-3 container"]
+ki24.info##.topLayer
+kobiety-kobietom.com##.OneProductBig
+korso.pl##.ads
+kryptoporadnik.pl##script + center
+kucharze.pl##[id^="search-"] ~ aside
+kurierzamojski.pl##a[href*="/redirect/"]
+malagacf.pl##.container a[href="/go/sts"]
+emecze.pl##a[href*="/r/"]
+miastokolobrzeg.pl##[id^="sp-prawa-"] .custom
+miastokolobrzeg.pl##[id^="sp-banner-top-"]
+mma.pl##.adv-body-banner
