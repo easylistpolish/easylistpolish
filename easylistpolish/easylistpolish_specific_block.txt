@@ -256,9 +256,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mazury.info.pl^1logo^
 ||mfiles.pl^*^comarch_
 ||mgsm.pl/js/getSkapiecAds.
-||miastokobiet.pl^*^05/czas-kobiet-miasto-kobiet.
-||miastokobiet.pl^*^energylandia-
-||miastokobiet.pl^*^WK_TheCrown20_
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*-promocji.
 ||miastons.pl^*^doner-
