@@ -1012,7 +1012,6 @@ tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
 gloslodzi.pl##.sidebar_area .widget-2 .textwidget
-swidnik.pl##.sidebar_item > img
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 zycieczestochowy.pl##.sideelement
 gazetkonosz.pl##.signad
