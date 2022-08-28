@@ -1121,7 +1121,7 @@ wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
 gazeta-mosina.pl##.topblock
-naszrynek.pl,strzelec.info,tczewska.pl##.toplayer
+naszrynek.pl,tczewska.pl##.toplayer
 synonimy.pl##.translation-badge
 twojapogoda.pl##.triple-billboard
 slaskiesiemianowice.pl##.trzyreklamy
