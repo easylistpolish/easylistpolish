@@ -1405,7 +1405,7 @@ grodzisknews.pl##a[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
 styl.pl##a[onclick^="iwa('trackEvent'"] > img
 elektroda.pl##a[onclick^="navBoxEvent("]
 elektroda.pl##a[onclick^="patronEvt("]
-studentnews.pl,studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
+studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
 jagodnik.pl##a[onclick^="trackOutboundLink("]:not([onclick*=".jagodnik.pl/"])
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
 expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,styl.fm,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##a[rel="nofollow"] + .kd_ns_lead
