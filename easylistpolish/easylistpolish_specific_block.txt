@@ -265,12 +265,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
-||mobimart.it^$subdocument,domain=mobilneforum.pl
-||mojewronki.pl^*^plakat-rekrutacja-
-||money.pl/i/ad^
-||motocykle125.pl^*^akumulator-moretti-
 ||motocykle125.pl^*^junak^$subdocument
-||motocyklistow.pl^*^e1130-
 ||my3miasto.pl^*^2016/02/logo_my3miasto.
 ||my3miasto.pl^*^2016/03/unnamed.
 ||mypolacy.de^*^comarch_
@@ -458,3 +453,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^promocja-$domain=motocykle125.pl
