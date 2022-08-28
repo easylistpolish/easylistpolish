@@ -925,7 +925,6 @@ plonsk24.pl##.pole-banerowe > img
 zloty-pociag.com##.popup_wrapper iframe
 newsdiscopolo.info##.post-next-prev ~ iframe
 pojezierze.com.pl##.posts-slider
-swidnik.pl##.ppsPopupShell
 radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
 wnet.fm##.prom-block
