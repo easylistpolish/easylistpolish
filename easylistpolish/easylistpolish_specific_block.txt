@@ -252,8 +252,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||masztu.pl^*^udzialowiec.
 ||maszwolne.pl^*^pages^
 ||mazopolska.pl^*-300x150.
-||mazopolska.pl^*^KLAVA-BANER
-||mazopolska.pl^*^Klava.
 ||mazopolska.pl^*^protech-baner
 ||mazury.info.pl^1logo^
 ||mazury.info.pl^go2boat.
