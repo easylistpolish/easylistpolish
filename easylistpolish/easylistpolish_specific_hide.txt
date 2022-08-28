@@ -1086,7 +1086,6 @@ przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 cai24.pl##.td_block_single_image
 iknurow.pl##.td_block_template_1 p img
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
-sulecin24.pl##.td_rec > .td_mod_wrap > img
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
 wirtualnyregion.eu##.tdc-row .cycloneslider
 telix.pl##.telix-bilboard-naglowek
