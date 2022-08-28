@@ -1082,7 +1082,6 @@ poloniairlandia.pl##.td-banner-wrap-full
 elementarzprojektanta.pl##.td-fix-index
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl,twojepajeczno.pl,wirtualnyregion.pl##.td-header-sp-recs
-sulecin24.pl##.td-rec-spot img
 przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 cai24.pl##.td_block_single_image
 iknurow.pl##.td_block_template_1 p img
