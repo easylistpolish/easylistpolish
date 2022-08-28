@@ -1560,7 +1560,6 @@ teraz-wilanow.pl##div[id^="rev_slider_2_"]
 rydzyna24.pl##div[id^="rydzy-"]
 kurierostrowiecki.pl##div[id^="sad_"]
 jagodnik.pl##div[id^="spu-"]
-tabletowo.pl##div[id^="table-"] > .table-adlabel + div
 kolbuszowalokalnie.pl##div[id^="text-"] a:not([href^="https://kolbuszowalokalnie.pl"])
 tvmstalowawola.pl##div[id^="tvmst-slider-"]
 wkielcach.info##div[id^="wkiel-"] > a[target="_blank"]
