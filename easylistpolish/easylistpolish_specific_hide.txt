@@ -1701,3 +1701,4 @@ malagacf.pl##.container a[href="/go/sts"]
 emecze.pl##a[href*="/r/"]
 miastokolobrzeg.pl##[id^="sp-prawa-"] .custom
 miastokolobrzeg.pl##[id^="sp-banner-top-"]
+mma.pl##.adv-body-banner
