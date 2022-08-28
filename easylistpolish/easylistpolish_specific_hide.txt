@@ -906,7 +906,6 @@ nysahot.pl##.penci-featured-ct
 oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
-takze.pl##.penci-promo-link + img
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 rowerowa.pl##.placement
