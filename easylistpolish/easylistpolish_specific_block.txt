@@ -258,8 +258,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*^donking-
-||mma.pl^*^autodoc_
-||mma.pl^*^fersh.
 ||mmarocks.pl^*^1342x178.
 ||mobimart.it^$subdocument,domain=mobilneforum.pl
 ||mojewronki.pl^*^plakat-rekrutacja-
