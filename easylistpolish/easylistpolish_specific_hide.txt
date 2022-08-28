@@ -53,7 +53,6 @@ testynaojcostwo.pl###banner-17
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
 genetyczne.pl###banner-6
-suwalki.info###banner-standard
 przemysl24.pl###banner-top
 dkl24.pl###banner10
 info-net.com.pl,tvkstella.pl###banners
