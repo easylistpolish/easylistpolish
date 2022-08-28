@@ -454,3 +454,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^promocja-$domain=motocykle125.pl
