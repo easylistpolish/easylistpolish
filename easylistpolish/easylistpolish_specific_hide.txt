@@ -606,7 +606,7 @@ bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 kierunki-studiow.info##.bm1
 newsdiscopolo.info##.bn-lg-sidebar
-nowypm.pl,superportal24.pl##.bnr
+nowypm.pl##.bnr
 superportal24.pl##.bnr--billboard
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 podkarpacielive.pl##.bottom_banner
