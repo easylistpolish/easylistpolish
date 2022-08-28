@@ -265,7 +265,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastokolobrzeg.pl^*^brico
 ||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
-||motocykle125.pl^*^akumulator-moretti-
 ||motocykle125.pl^*^junak^$subdocument
 ||motocyklistow.pl^*^e1130-
 ||my3miasto.pl^*^2016/02/logo_my3miasto.
