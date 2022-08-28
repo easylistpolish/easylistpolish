@@ -199,7 +199,6 @@ glamrap.pl,goleniowska.com###mvp-leader-wrap
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
-tarnobrzeg.info###obraz
 naklo24.pl###okazje2
 menshealth.pl###optad-sub-970x250_3
 bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
