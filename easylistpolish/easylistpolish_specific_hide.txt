@@ -147,7 +147,6 @@ mjakmama24.pl###hook_box_top1
 kuriergarwolinski.pl###iFrameResizer1
 comparic.pl###icegram_messages_container
 trawka.org###ipsLayout_mainArea > a > img
-tarnobrzeg.info###jedrus
 sokolka.tv###jm-content-top
 sokolka.tv###jm-right
 tvnakarte.eu###jm-right > div .jm-module:nth-child(2)
