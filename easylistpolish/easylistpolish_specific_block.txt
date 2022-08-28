@@ -254,8 +254,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mazopolska.pl^*-300x150.
 ||mazopolska.pl^*^protech-baner
 ||mazury.info.pl^1logo^
-||meczenazywo.pl/imghttps/300^
-||meczenazywo.pl/imghttps/728^
 ||medycznamarihuana.com^*^andromeda_podluzny.
 ||mfiles.pl^*^comarch_
 ||mgsm.pl/js/getSkapiecAds.
