@@ -479,3 +479,4 @@ _baner_$domain=goal.pl
 ||xtb.com^$script,domain=kantorywalut.pl
 ^reklama_$domain=konstancin.com
 ||4media.com^$domain=lokalna24.pl
+^banners^$domain=miasto.koszalin.pl
