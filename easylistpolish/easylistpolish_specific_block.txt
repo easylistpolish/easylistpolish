@@ -267,9 +267,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mmarocks.pl^*^1342x178.
 ||motocykle125.pl^*^junak^$subdocument
 ||naszekielce.com^*^inkubator_kielce.
-||naszekielce.com^*^termo.
 ||naszekielce.com^*_250x500.
-||naszekielce.com^*_900x200.
 ||naszsrem.pl^*^psb_mrowka_
 ||networkmagazyn.pl/files^
 ||nevicom.pl/wyswietl_baner.$script,third-party
