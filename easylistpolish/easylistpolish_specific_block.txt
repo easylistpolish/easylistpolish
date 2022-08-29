@@ -266,8 +266,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
 ||motocykle125.pl^*^junak^$subdocument
-||mypolacy.de^*^comarch_
-||mypolacy.de^*^ubezpieczenia_1.
 ||nakolei.pl^*^logo-750_100.
 ||nasygnale.com.pl^*^korona.
 ||nasygnale.com.pl^*^kzpt1.
