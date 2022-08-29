@@ -1667,3 +1667,5 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 mojewronki.pl##.topbar-inner
 forum.motocyklistow.pl##.ipsSpacer_both
+naszekielce.com###block-block-5
+naszekielce.com##.region-banner
