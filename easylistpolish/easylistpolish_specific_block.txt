@@ -266,8 +266,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
 ||motocykle125.pl^*^junak^$subdocument
-||nasygnale.com.pl^*^korona.
-||nasygnale.com.pl^*^kzpt1.
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*^termo.
 ||naszekielce.com^*_250x500.
