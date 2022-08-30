@@ -269,7 +269,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*_250x500.
 ||naszsrem.pl^*^psb_mrowka_
-||networkmagazyn.pl/files^
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||nextclick.pl/widget/widget.advertisement
 ||niebiescy.pl^*^chimimeca_
