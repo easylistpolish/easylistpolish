@@ -307,8 +307,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
 ||prawy.pl^*^gabinety.
-||prestizowydom.pl^*^psb-art-
-||progressforpoland.org^*^oilpassion-
 ||prokapitalizm.pl^*^zloto_prokap.
 ||promocjebetx.pl^$domain=tenis.net.pl
 ||proskarzysko.pl^*^kumers-wyprzedaz-
