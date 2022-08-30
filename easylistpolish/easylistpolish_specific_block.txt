@@ -301,7 +301,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||polskielupki.pl^*^*consulting.
 ||poludnie.com.pl^*_banery-www2.
 ||poradnik-pacjenta.pl^*-rekl.
-||porady.mobi^*^domowetesty.
 ||portal.plocman.pl^*^300x600.
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
