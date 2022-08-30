@@ -276,7 +276,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
-||nowinynyskie.com.pl^*^inline__1_4448.
 ||nowytydzien.pl^*^baner-330x200.
 ||nowytydzien.pl^*^diagnostyka512_
 ||nowytydzien.pl^*^neoseo2-
