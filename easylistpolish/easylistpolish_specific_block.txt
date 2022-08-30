@@ -285,7 +285,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
 ||ok24.tv^*^KADA_55.
-||oknonawagrowiec.pl^*^sklady-opalowe-
 ||ono24.info^*^sad^
 ||partner.rankomat.pl/tracking/media^$image,third-party
 ||partner.rankomat.pl^$domain=skionline.pl
