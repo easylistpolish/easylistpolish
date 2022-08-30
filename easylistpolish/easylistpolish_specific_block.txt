@@ -296,7 +296,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||poczta-online.com^*^globkurier.
 ||podhale24.pl/uploads/r^
 ||pogoda.nl^*^header3_1_black.
-||pokerbonus.com^$domain=drhtv.com.pl
 ||poland.us^*^katalog^
 ||polonia-peterborough.uk^*^studio-fotograficzne-
 ||polskielupki.pl^*^*consulting.
