@@ -281,7 +281,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||nowytydzien.pl^*^neoseo2-
 ||ocdn.eu/files/mastt^$script
 ||odkryjpomorze.pl^*^loga_prawa_
-||odloty.pl^$domain=garsoniera.com.pl
 ||ogloszeniadrobne.warszawa.pl^*^spedgear.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||oirplodz.pl^*^legalis.
