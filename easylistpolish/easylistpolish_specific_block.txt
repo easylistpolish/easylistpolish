@@ -279,7 +279,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||nowytydzien.pl^*^baner-330x200.
 ||nowytydzien.pl^*^diagnostyka512_
 ||nowytydzien.pl^*^neoseo2-
-||nowytydzien.pl^*^stokrotkaAd.
 ||nowyzmigrod24.pl^*^uslogiroza20.
 ||ocdn.eu/files/mastt^$script
 ||odkryjpomorze.pl^*^loga_prawa_
