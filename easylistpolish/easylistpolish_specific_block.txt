@@ -432,3 +432,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ^promocja-$domain=motocykle125.pl
 ^baner_$domain=nakolei.pl
+-reklama.$domain=pionki24.pl
