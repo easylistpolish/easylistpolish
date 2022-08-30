@@ -308,10 +308,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||powiat-piaseczynski.info^*_300x250px-1.
 ||prawy.pl^*^gabinety.
 ||prestizowydom.pl^*^psb-art-
-||probasket.pl^*^2018/07/probasket
-||probasket.pl^*^czesciauto24_
-||probasket.pl^*^GIF4.
-||probasket.pl^*^PRODC.
 ||progressforpoland.org^*^oilpassion-
 ||prokapitalizm.pl^*^zloto_prokap.
 ||promocjebetx.pl^$domain=tenis.net.pl
