@@ -306,7 +306,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
-||ppr.pl^*^banners^
 ||prawy.pl^*^gabinety.
 ||prestizowydom.pl^*^psb-art-
 ||probasket.pl^*^2018/07/probasket
@@ -427,3 +426,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^baner_$domain=nakolei.pl
 -reklama.$domain=pionki24.pl
 ^ban_$domain=pogoda.nl
+^banners^$domain=ppr.pl
