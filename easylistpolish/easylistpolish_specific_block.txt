@@ -306,7 +306,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
-||powrotroberta.pl^*^akumeo-
 ||ppr.pl^*^banners^
 ||prawy.pl^*^gabinety.
 ||prestizowydom.pl^*^psb-art-
