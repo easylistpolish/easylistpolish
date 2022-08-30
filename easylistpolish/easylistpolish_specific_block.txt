@@ -283,7 +283,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniadrobne.warszawa.pl^*^spedgear.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
-||oirplodz.pl^*^legalis.
 ||ok24.tv^*^06/lasvegan.
 ||ok24.tv^*^KADA_55.
 ||oknonawagrowiec.pl^*^sklady-opalowe-
