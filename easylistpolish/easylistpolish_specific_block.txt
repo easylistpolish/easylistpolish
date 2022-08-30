@@ -291,7 +291,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||pfcc.eu^*^choryzont.gif
 ||pfcc.eu^*^goldrop.
 ||pfcc.eu^*^mie11.
-||pionki24.pl^*^zlomotex_
 ||placpigal.pl^*^matchbanker-photo_logo_opt.
 ||plonsk24.pl^*^img_154^
 ||plonsk24.pl^*^img_67^
