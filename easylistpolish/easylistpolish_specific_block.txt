@@ -295,7 +295,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||plonsk24.pl^*^img_72^
 ||poczta-online.com^*^globkurier.
 ||podhale24.pl/uploads/r^
-||pogoda.nl^*^ban_
 ||pogoda.nl^*^header3_1_black.
 ||pokerbonus.com^$domain=drhtv.com.pl
 ||poland.us^*^katalog^
@@ -431,3 +430,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^promocja-$domain=motocykle125.pl
 ^baner_$domain=nakolei.pl
 -reklama.$domain=pionki24.pl
+^ban_$domain=pogoda.nl
