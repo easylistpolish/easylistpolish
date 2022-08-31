@@ -310,7 +310,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
-||radiobielsko.pl^$subdocument,domain=radioexpress.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ||radiosudety24.pl^*^sad^$image
 ||radiowrzesnia.pl^*^pum^$script
