@@ -308,12 +308,9 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
 ||prawy.pl^*^gabinety.
-||promocjebetx.pl^$domain=tenis.net.pl
-||proskarzysko.pl^*^kumers-wyprzedaz-
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
-||radiobielsko.pl^$subdocument,domain=radioexpress.pl
 ||radioq.fm^*^jquery.gafancybox.$script
 ||radiosudety24.pl^*^sad^$image
 ||radiowrzesnia.pl^*^pum^$script
