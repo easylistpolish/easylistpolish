@@ -1670,3 +1670,4 @@ forum.motocyklistow.pl##.ipsSpacer_both
 naszekielce.com###block-block-5
 naszekielce.com##.region-banner
 nowyzmigrod24.pl###sp-section-3
+proskarzysko.pl##.td-a-rec
