@@ -715,6 +715,7 @@ zlubaczowa.pl##.flexbannergroup
 punkt.media##.flexbannergrouppattern
 futbolnews.pl,zzapolowy.com##.floatBox
 ftb.pl##.footav
+jbzd.com.pl##.footer-mobile
 laczynaspilka.pl##.footer-partners
 telchina.pl##.forabg
 wronieckibazar.pl##.fright
@@ -1012,6 +1013,7 @@ moviesroom.pl##.sidebar .basic-slider
 terazkrosno.pl##.sidebar a[target="_blank"][rel="nofollow"]
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
+jbzd.com.pl##.sidebar-premium
 tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
