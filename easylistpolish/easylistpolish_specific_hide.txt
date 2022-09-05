@@ -1548,7 +1548,6 @@ komputerowapasja.pl##div[id^="dolnyobraz"]
 nowyoutsourcing.pl##div[id^="g1-ad-"]
 gazetaklobucka.pl##div[id^="gazet-"]
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
-tekstowo.pl##div[id^="giercowniaAd"]
 tugazeta.pl##div[id^="glowna_prawa_"]
 express-miejski.pl##div[id^="gpt-ad-d"]
 express-miejski.pl##div[id^="gpt-ad-d"] + .small
