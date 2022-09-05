@@ -93,7 +93,6 @@ zycieczestochowy.pl###carousel-slideadw
 centrummedyczne-przyjazna.pl###column
 olsztyn24.com###contener_billboard
 lesko.info###content > center > a[target="_blank"]
-tarnowiak.pl###content a[target]
 lekarze-gabinety.pl,moto-oto.pl,oto-slub.pl###content-wrap > div[style="text-align: center;"] img
 slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###content_right_new_number
 slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###controls
