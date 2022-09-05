@@ -580,7 +580,6 @@ glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
 taternik.org##.bantitle
-taternik.org##.bantitle + a
 kt24.pl##.bar-container
 naszwodzislaw.com##.bazarek
 komercyjne.pl##.bb-ad-outer
