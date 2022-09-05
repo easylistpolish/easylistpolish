@@ -653,7 +653,6 @@ mecze.com##.cool-stuff
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
-telko.in##.custom-html p > script + a
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
