@@ -643,7 +643,6 @@ malagacf.pl##.container a[href="/go/sts"]
 comparic.pl##.container16,.container11
 comparic.pl##.containerRectangle
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
-tomaszowiak.net##.contentAupper
 bestofwhisky.pl##.contetn-left-ad-top
 mecze.com##.cool-stuff
 gol24.pl##.cs
