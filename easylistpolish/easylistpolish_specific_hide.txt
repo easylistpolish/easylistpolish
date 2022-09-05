@@ -1431,7 +1431,6 @@ jaw.pl##aside.td_block_template_1 img
 rrs24.net##aside[id^="ai_widget-"]
 lubaczow.tv##aside[id^="custom_html-"]
 e-dobrydom.pl##aside[id^="custom_html-"] > div > a > img
-tarnobrzeg.info##aside[id^="custom_html-"] img
 petportal.pl##aside[id^="media_image-"]
 golfpl.com##aside[id^="text-"] a > img
 kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
