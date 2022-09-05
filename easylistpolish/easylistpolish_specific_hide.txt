@@ -325,7 +325,6 @@ iturek.net###tm-top
 testynaojcostwo.pl###top-baner
 twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
-traseo.pl###top-zone
 polskielupki.pl###topAdd
 pszczyna.tv###topBaner
 dziennikteatralny.pl###topBigBanner
