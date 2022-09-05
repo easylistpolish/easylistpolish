@@ -1385,7 +1385,7 @@ elektroda.pl##a[onclick^="patronEvt("]
 studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
 jagodnik.pl##a[onclick^="trackOutboundLink("]:not([onclick*=".jagodnik.pl/"])
 warzywapolowe.pl##a[onclick^="trackOutboundLink('"]
-expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,to.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##a[rel="nofollow"] + .kd_ns_lead
+expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,tv-wschod.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##a[rel="nofollow"] + .kd_ns_lead
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
