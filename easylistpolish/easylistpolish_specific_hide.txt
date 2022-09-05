@@ -15,7 +15,6 @@ kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
-trybun.org.pl###_dropslide1
 ekorodzice.pl###a_d_billboard
 dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
