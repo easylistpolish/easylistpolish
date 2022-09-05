@@ -351,7 +351,6 @@ szkolkarstwo.com.pl###widget-175
 szkolkarstwo.com.pl###widget-185
 zawiercianskie.pl###widget_carousel_slider-11
 liga-ursus.siatkowka.org###widget_sp_image-2
-tenismagazyn.pl###widget_sp_image-3
 tyna.info.pl###widget_sp_image-45
 tyna.info.pl###widget_sp_image-46
 tenismagazyn.pl###widget_sp_image-5
