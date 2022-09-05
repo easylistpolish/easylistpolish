@@ -137,7 +137,6 @@ niedziela.nl,piekarnieonline.pl###gk_banner
 motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
-tkn24.pl###header + center
 mazopolska.pl,planowaniewesela.pl###header-banner
 gdanskstrefa.com,nowezyciepabianic.pl,zwiedzamyparyz.pl###header-right-section
 e-grajewo.pl###headpartnership
