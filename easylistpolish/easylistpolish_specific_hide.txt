@@ -1023,7 +1023,7 @@ tygodnikpiski.pl##.small-12 center a
 30minut.pl##.small-adv
 4tour.pl##.span2
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
-trasa.info,wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
+wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
 cybersport.pl##.sponsor
 zielonyogrodek.pl##.sponsored
