@@ -214,7 +214,6 @@ betonline.net.pl,wyspiarzniebieski.pl###popup
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl###popupContainer
 polskaizbabranzypogrzebowej.pl###post-2637
-thinkapple.pl###post-banner-ad
 baxu.pl###postTopAd
 baxu.pl###postTopAdMobile
 mazopolska.pl###posts-banner
