@@ -253,7 +253,6 @@ polonika.fr###rt-top
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
-techfreak.pl###secondary
 strefa.se###secondary [id^="media_image-"]
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
