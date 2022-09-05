@@ -76,7 +76,6 @@ gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
-trzcianka.info###block-block-20
 zmianynaziemi.pl###block-block-26
 zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
