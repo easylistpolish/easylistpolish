@@ -459,7 +459,7 @@ alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,
 cowkrakowie.pl##.advert--component
 eluban.pl,koscierzyna24.info,portalpomorza.pl,radiosochaczew.pl,tczewska.pl,telewizjamazury.pl,truso.tv,tuolawa.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
 bydgoszcz.com,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tuolawa.pl,tv-wschod.pl,tvswinoujscie.pl##.advert-A2
-bydgoszcz.com,eluban.pl,koscierzyna24.info,tczewska.pl,telewizjazary.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
+bydgoszcz.com,eluban.pl,koscierzyna24.info,tczewska.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
 tuolawa.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
