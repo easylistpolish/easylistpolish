@@ -449,7 +449,7 @@ mma.pl##.adv-body-banner
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
 wnp.pl##.advB
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,telewizjazary.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,temysli.pl,thefad.pl,to.com.pl,transport-publiczny.pl,tv-wschod.pl,tvn.pl,tvobiektyw.pl,tvsudecka.pl,twojememy.pl,tygodnikoko.pl,udostepniane.pl,wciazy.familie.pl,webcamera.pl,wejherowo24.info,widzewiak.pl,wiemy.to,wirtualnygarwolin.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
