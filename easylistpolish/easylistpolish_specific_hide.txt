@@ -321,7 +321,7 @@ akademiawitalnosci.pl,budujzdrewna.pl,gazetalubliniecka.pl,malyrekin.pl,polacywe
 fiat.fm,goldap.org.pl,kazimierzdolny24.pl,kcynia.info,kryptoporadnik.pl,swoszowice.org.pl,tenisbydawid.pl###text-7
 e-playbet.com###text-70
 czestochowskie24.pl###text-75
-24legnica.pl,greencanoe.pl,kurier-lokalny.com,stylkibica.net,tarnobrzeskie.eu,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
+24legnica.pl,greencanoe.pl,kurier-lokalny.com,stylkibica.net,twojmedyk.pl,wiesci.com.pl,wydzialykomunikacji.pl###text-8
 gazetalubliniecka.pl,kurier-lokalny.com,mojgdow.pl,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tkn24.pl,tuhiszpania.pl,wiesci.com.pl###text-9
 lukowicatomy.pl###text-html-widget-14
 terazgrodkow24.pl###text-html-widget-2
