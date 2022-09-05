@@ -78,6 +78,7 @@ tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
 zmianynaziemi.pl###block-block-26
 zmianynaziemi.pl###block-block-29
+naszekielce.com###block-block-5
 trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
@@ -271,6 +272,7 @@ swinoujskie.info###snppopup-welcome
 wydawca.com.pl###sow-slider-20
 wydawca.com.pl###sow-slider-22
 wysokomazowiecki24.pl###sp-reklamatop
+nowyzmigrod24.pl###sp-section-3
 wysokomazowiecki24.pl###sp-top-bar
 webhelp.pl###sponsor
 bramka.pl###sponsorBox
@@ -770,6 +772,7 @@ iloveslubice.pl##.ilove-boczna-b2-300x250
 autoline.com.pl##.index-bns
 money.pl,wp.pl##.insert—top-offer
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
+forum.motocyklistow.pl##.ipsSpacer_both
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 gazzettaitalia.pl##.irw-widget
 ostrodaflesz.pl##.islemag_single_ad
@@ -923,6 +926,7 @@ goryiludzie.pl##.rad
 futbolnews.pl,zzapolowy.com##.ranking
 money.pl##.ranks-reports
 tvpolice.com.pl,tvsudecka.pl##.rbox
+naszekielce.com##.region-banner
 epiotrkow.pl,infoserwiselk.pl,tysol.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
@@ -1085,6 +1089,7 @@ bielskirynek.pl,gwarek.com.pl,infoskierniewice.pl,ki24.info,kurierwysmaz.pl,lelo
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl,twojeuk.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
+mojewronki.pl##.topbar-inner
 gazeta-mosina.pl##.topblock
 naszrynek.pl##.toplayer
 synonimy.pl##.translation-badge
@@ -1632,3 +1637,9 @@ twojezaglebie.pl#?#div:-abp-has(> div > div > a:-abp-contains(ARTYKUŁ SPONSOROW
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+mojewronki.pl##.topbar-inner
+forum.motocyklistow.pl##.ipsSpacer_both
+naszekielce.com###block-block-5
+naszekielce.com##.region-banner
+nowyzmigrod24.pl###sp-section-3
+proskarzysko.pl##.td-a-rec
