@@ -1427,7 +1427,6 @@ twojepajeczno.pl##div > .scxxxx
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
-transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
 fotelik.info##div#addframe
 gorzow24.pl##div#ims_over_cont
 spottedalert.pl##div#mvp-leader-wrap
