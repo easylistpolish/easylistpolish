@@ -446,7 +446,6 @@ nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl##.adv--next-logo
 nowezyciepabianic.pl##.adv--top
 mma.pl##.adv-body-banner
-tekstowo.pl##.adv-home
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
 wnp.pl##.advB
