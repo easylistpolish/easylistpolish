@@ -348,7 +348,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
 ||supernowosci24.pl^*^decoeco2.
-||swiatczytnikow.pl^*^legimi_bezlimitu_
 ||swiatczytnikow.pl^*^zenbox-banner-
 ||sychar.org^*^tolle-wide-
 ||syrena.nekla.eu^*-agraf-
