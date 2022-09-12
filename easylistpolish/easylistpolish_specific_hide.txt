@@ -1651,3 +1651,4 @@ businesstraveller.pl##a[href*="campaign=baner_"]
 miastons.pl##.vc_wp_text
 swiatkoni.pl##.klikaczset
 swiatkoni.pl##[id^="klikacz"]
+zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
