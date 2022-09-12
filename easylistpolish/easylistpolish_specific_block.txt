@@ -413,3 +413,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+-baner-$domain=ipulawy.pl
