@@ -414,3 +414,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 -baner-$domain=ipulawy.pl
+^rek2^$domain=barlinek24.pl
