@@ -1652,3 +1652,4 @@ miastons.pl##.vc_wp_text
 swiatkoni.pl##.klikaczset
 swiatkoni.pl##[id^="klikacz"]
 zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
+genetyczne.pl###banner-23,#banner-24
