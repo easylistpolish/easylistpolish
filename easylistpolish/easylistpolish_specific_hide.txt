@@ -1646,3 +1646,4 @@ naszekielce.com##.region-banner
 nowyzmigrod24.pl###sp-section-3
 proskarzysko.pl##.td-a-rec
 ang24.pl##.brm
+gloskrakowa.pl##.widget-2,.widget-4
