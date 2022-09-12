@@ -1648,3 +1648,4 @@ proskarzysko.pl##.td-a-rec
 ang24.pl##.brm
 gloskrakowa.pl##.widget-2,.widget-4
 businesstraveller.pl##a[href*="campaign=baner_"]
+miastons.pl##.vc_wp_text
