@@ -366,7 +366,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^09/parownice-multimatic.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
-||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
 ||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
