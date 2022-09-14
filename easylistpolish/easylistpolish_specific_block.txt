@@ -366,7 +366,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^09/parownice-multimatic.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
-||tygodnikpiski.pl^*-290x150.
 ||typersi.pl/pliki/betfan^
 ||typersi.pl/pliki/fortuna^
 ||typersi.pl/pliki/unibet^
@@ -411,3 +410,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -banner-$domain=swiatczytnikow.pl
 -banner1.$domain=tu.swinoujscie.pl
 ^bimg^$domain=tustolica.pl
+-290x150.$domain=tygodnikpiski.pl
