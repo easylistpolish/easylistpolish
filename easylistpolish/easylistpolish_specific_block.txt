@@ -363,7 +363,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tenis.net.pl^*^oszustwo300x200
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||tkaninyobiciowe.eu^*^nastex.
-||topagrar.pl^*_940x200_$domain=tygodnik-rolniczy.pl
 ||transg.pl^*^meblohaus_
 ||trawka.org^*^300X150.
 ||tromil.pl^*^09/parownice-multimatic.
