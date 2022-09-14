@@ -366,7 +366,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^09/parownice-multimatic.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
-||tu.swinoujscie.pl^*-banner1.
 ||tulegnica.pl^*^inline__1_6446.
 ||tustolica.pl/bimg^
 ||tygodnikpiski.pl^*-290x150.
@@ -412,3 +411,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -baner-$domain=ipulawy.pl
 ^rek2^$domain=barlinek24.pl
 -banner-$domain=swiatczytnikow.pl
+-banner1.$domain=tu.swinoujscie.pl
