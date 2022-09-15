@@ -372,7 +372,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||vetopedia.pl^*^vetid.
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
-||walewice.pl^*^mos-1326.
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.ipb.org.pl^*^dc_logo.
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
