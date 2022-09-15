@@ -368,7 +368,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||typersi.pl/pliki/fortuna^
 ||unitedtails.com^*^logo-RC.
-||uzz.thrash.pl/file^$image,domain=arka.tv
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
 ||w203.pl/autoczescionline24_
