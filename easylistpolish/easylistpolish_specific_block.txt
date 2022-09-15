@@ -385,7 +385,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xtb.com^$script,domain=kantorywalut.pl
-||zamioculcas.org^$script,domain=rynek-rolny.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
