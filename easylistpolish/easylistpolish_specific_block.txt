@@ -400,3 +400,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -banner1.$domain=tu.swinoujscie.pl
 ^bimg^$domain=tustolica.pl
 -290x150.$domain=tygodnikpiski.pl
+||xlomza.pl^*^kukasz08_
