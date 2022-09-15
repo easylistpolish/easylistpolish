@@ -380,7 +380,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
-||wronieckibazar.pl^*^starymlynb.
 ||wszczecinie.pl/r/www/images^
 ||www.filmweb.pl/welcomeScreenJS
 ||www.optyczne.pl/partnerzy_sm^
