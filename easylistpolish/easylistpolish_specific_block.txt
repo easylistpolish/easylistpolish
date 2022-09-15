@@ -400,3 +400,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ^bimg^$domain=tustolica.pl
 -290x150.$domain=tygodnikpiski.pl
 ||xlomza.pl^*^kukasz08_
+||zamioculcas2.org^$script,domain=rynek-rolny.pl
