@@ -389,7 +389,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ^banerkiIFRAME^$subdocument,domain=zulawy.com
-||zycie.pl^*^adverts-
+^adverts-$domain=zycie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 -baner-$domain=ipulawy.pl
