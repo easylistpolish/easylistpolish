@@ -382,7 +382,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wronieckibazar.pl^*^izometwww.
 ||wszczecinie.pl/r/www/images^
 ||www.filmweb.pl/welcomeScreenJS
-||www.optyczne.pl/partnerzy_sm^
 ||wykop.pl^*^adblock_$image
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^wizytowka_kaledarz.
