@@ -373,7 +373,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
 ||weben1.com^$domain=icyfrowypolsat.pl
-||wiadomosci.ipb.org.pl^*^dc_logo.
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||wielkopolska.tv^*^osk_wawrzyniak-
