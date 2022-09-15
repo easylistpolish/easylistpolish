@@ -367,7 +367,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tromil.pl^*^09/parownice-multimatic.
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||typersi.pl/pliki/fortuna^
-||ulub.pl^*^klikbill.
 ||unitedtails.com^*^logo-RC.
 ||uzz.thrash.pl/file^$image,domain=arka.tv
 ||vetopedia.pl^*^newbanvetid.
