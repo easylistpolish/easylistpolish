@@ -376,7 +376,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||wielkopolska.tv^*^osk_wawrzyniak-
-||wiocha.pl/subpages^
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
