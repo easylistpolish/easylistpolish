@@ -1654,3 +1654,4 @@ swiatkoni.pl##[id^="klikacz"]
 zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
 genetyczne.pl###banner-23,#banner-24
 typersi.pl##.banner
+vetopedia.pl###owl-demo-4
