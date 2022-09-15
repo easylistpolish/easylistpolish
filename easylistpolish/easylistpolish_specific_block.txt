@@ -388,7 +388,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
-||zulawy.com^images^banerkiIFRAME^$subdocument
+^banerkiIFRAME^$subdocument,domain=zulawy.com
 ||zycie.pl^*^adverts-
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
