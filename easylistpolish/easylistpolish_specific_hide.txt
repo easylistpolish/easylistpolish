@@ -1630,7 +1630,6 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 ubucentrum.net##style + .post-share
 stooq.pl##table[height="250"]
-nml.pl##td[bgcolor="#FFFF99"] img[src^="wyd/"]
 vampirediaries.pl##td[onclick^="window.location"]
 podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
