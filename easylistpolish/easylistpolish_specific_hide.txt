@@ -1622,7 +1622,6 @@ iknurow.pl##script + .td-container
 kryptoporadnik.pl##script + center
 beatcoin.pl##script ~ center
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
-wyborcza.pl##section[class*="la-http://wyborcza.pl/0"]
 pabianice.tv##section[id^="adrotate_widgets"]
 glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 poczta.wp.pl##sidebar-feed
