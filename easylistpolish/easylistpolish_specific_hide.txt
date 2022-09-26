@@ -1652,3 +1652,4 @@ genetyczne.pl###banner-23,#banner-24
 typersi.pl##.banner
 vetopedia.pl###owl-demo-4
 zyciezamoscia.pl###custom_html-6,#custom_html-8
+thinkapple.pl##[class="g g-1"]
