@@ -1653,3 +1653,5 @@ typersi.pl##.banner
 vetopedia.pl###owl-demo-4
 zyciezamoscia.pl###custom_html-6,#custom_html-8
 thinkapple.pl##[class="g g-1"]
+anime-odcinki.pl##center > a
+anime-odcinki.pl##a[href*="https://e-neko.pl"] > img
