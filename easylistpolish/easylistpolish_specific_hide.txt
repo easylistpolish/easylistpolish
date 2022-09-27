@@ -1659,3 +1659,4 @@ tarnow.net.pl##.sec_A_adv2
 tarnow.net.pl##.apv-container
 wilanownews.pl##.ms-container
 gostynin.info##[class="container-out background-accent p-m p-xl@m"]
+ipoddebice.pl##.topLayer
