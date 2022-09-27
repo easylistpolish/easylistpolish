@@ -1655,3 +1655,5 @@ zyciezamoscia.pl###custom_html-6,#custom_html-8
 thinkapple.pl##[class="g g-1"]
 anime-odcinki.pl##center > a
 anime-odcinki.pl##a[href*="https://e-neko.pl"] > img
+tarnow.net.pl##.sec_A_adv2
+tarnow.net.pl##.apv-container
