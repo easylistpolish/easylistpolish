@@ -400,3 +400,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 -290x150.$domain=tygodnikpiski.pl
 ||xlomza.pl^*^kukasz08_
 ||zamioculcas2.org^$script,domain=rynek-rolny.pl|budujesz.info
+||wadmargincling.com^$domain=anime-odcinki.pl
+||dicatatepantry.com^$domain=anime-odcinki.pl
