@@ -1661,3 +1661,4 @@ wilanownews.pl##.ms-container
 gostynin.info##[class="container-out background-accent p-m p-xl@m"]
 ipoddebice.pl##.topLayer
 isanok.pl##.topLayer
+tuwroclaw.com##[class*="w2g-wrapper__slot_"]
