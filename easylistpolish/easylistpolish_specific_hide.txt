@@ -1673,3 +1673,4 @@ edubaza.pl##.bm1
 ciechocinek.biz##.topLayer
 studialicencjackie.info##.bm1
 bankier.pl###home-ecom-box
+forbes.pl##[class="container ad"]
