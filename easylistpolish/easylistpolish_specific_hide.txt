@@ -1663,3 +1663,4 @@ ipoddebice.pl##.topLayer
 isanok.pl##.topLayer
 tuwroclaw.com##[class*="w2g-wrapper__slot_"]
 nowykamieniarz.pl##.outerwide
+dlamaturzysty.info##.bm1
