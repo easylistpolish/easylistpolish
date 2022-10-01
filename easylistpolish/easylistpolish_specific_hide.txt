@@ -1665,3 +1665,4 @@ tuwroclaw.com##[class*="w2g-wrapper__slot_"]
 nowykamieniarz.pl##.outerwide
 dlamaturzysty.info##.bm1
 ddwloclawek.pl##.topLayer
+studentnews.pl##.bm1
