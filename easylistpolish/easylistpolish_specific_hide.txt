@@ -1670,3 +1670,4 @@ ddtorun.pl##.topLayer
 studentnews.eu##.bm1
 faktypilskie.pl##.topLayer
 edubaza.pl##.bm1
+ciechocinek.biz##.topLayer
