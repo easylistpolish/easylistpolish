@@ -1668,3 +1668,4 @@ ddwloclawek.pl##.topLayer
 studentnews.pl##.bm1
 ddtorun.pl##.topLayer
 studentnews.eu##.bm1
+faktypilskie.pl##.topLayer
