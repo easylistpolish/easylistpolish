@@ -1677,3 +1677,4 @@ forbes.pl##[class="container ad"]
 swiecie24.pl##.topLayer
 studiamagisterskie.info##.bm1
 koronowo.net.pl##.topLayer
+studiainzynierskie.info##.bm1
