@@ -1682,3 +1682,4 @@ e-krajna.pl##.topLayer
 studiamagisterskie.info##.bm1
 kolniak24.eu##.topLayer
 studiamagisterskie.inf##.bm1
+gniewkowo.eu##.topLayer
