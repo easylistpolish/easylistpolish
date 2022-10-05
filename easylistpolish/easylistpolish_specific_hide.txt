@@ -1679,3 +1679,4 @@ studiamagisterskie.info##.bm1
 koronowo.net.pl##.topLayer
 studiainzynierskie.info##.bm1
 e-krajna.pl##.topLayer
+studiamagisterskie.info##.bm1
