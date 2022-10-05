@@ -1674,3 +1674,4 @@ ciechocinek.biz##.topLayer
 studialicencjackie.info##.bm1
 bankier.pl###home-ecom-box
 forbes.pl##[class="container ad"]
+swiecie24.pl##.topLayer
