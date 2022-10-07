@@ -1690,3 +1690,4 @@ studies-in-europe.eu##.bm1
 kursy-zawodowe.kwalifikacjezawodowe.info##.bm1
 master.postgraduatestudy.eu##.bm1
 studentka.pl##.bm1
+terazlipno.pl##.topLayer
