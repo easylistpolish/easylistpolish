@@ -1685,3 +1685,4 @@ studiamagisterskie.info##.bm1
 gniewkowo.eu##.topLayer
 studiadoktoranckie.info##.bm1
 studiamba.info##.bm1
+studiaonline.info##.bm1
