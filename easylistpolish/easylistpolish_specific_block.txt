@@ -1,5 +1,6 @@
+-290x150.$domain=tygodnikpiski.pl
 -ad-$domain=tuhiszpania.pl
--baner-$domain=budownictwo.co|edebno.pl|firmy.meblarstwo.eu|infobusko.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
+-baner-$domain=budownictwo.co|edebno.pl|firmy.meblarstwo.eu|infobusko.pl|ipulawy.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
 -baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|wirtualnyzgierz.pl|wolanie.info
 -baner728.$domain=nieruchomosci-komercyjne.info|ogloszenia-nieruchomosci.info
 -baner_$domain=kk24.pl|my3miasto.pl|nolesnica.pl|nowagazeta.pl|regionfan.pl
@@ -8,8 +9,9 @@
 -baners.$domain=terazkrosno.pl
 -banery-$domain=automotivesuppliers.pl
 -banery^$domain=przeclaw24.pl
--banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|infobusko.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
+-banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|infobusko.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
 -banner.$domain=gieldaklasykow.pl|legitymizm.org|naszosie.pl|nowepomorze.pl|postawnaswoim.pl|pozyczkaportal.pl|przedsiebiorczepodlasie.pl|tvzg.pl|wwl24.pl
+-banner1.$domain=tu.swinoujscie.pl
 -banner_$domain=kaszuby24.pl|oirplodz.pl
 -bannery-$domain=bogaty.men|zarobmy.se
 -bener-$domain=meblosfera.pl|tapicerstwo.co|tkaninyobiciowe.eu
@@ -33,6 +35,7 @@
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
+^adverts-$domain=zycie.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
 ^ban^$domain=kopaczka.pl
@@ -45,6 +48,7 @@
 ^baner2.$domain=edebno.pl
 ^baner^$domain=bielsko.info|biif.pl|bukowinatatrzanska.pl|chojnice.com|enowiny.pl|info.stargard.pl|ipon.pl|lubliniec.info|mojreprap.pl|nowiny.rybnik.pl|pfm.pl|progressforpoland.com|progressforpoland.org|przyjaznawarszawa.pl|pszczyna.tv|sennik-mistyczny.pl|sportslaski.pl|tarnowskiegory24.info|tygodnik-krapkowicki.info|zw.pl
 ^baner_$domain=7dni.pila.pl|archeton.pl|asystentbhp.pl|bloog.pl|chcemybycrodzicami.pl|chelsea24news.pl|chemiaibiznes.com.pl|chorzowianin.pl|cksport.pl|czestochowskie24.pl|dzierzgon-twojemiasto.pl|e-pingpong.pl|extra.info.pl|forumfajerwerki.pl|fresh-market.pl|futbolfejs.pl|gazetacz.com.pl|gazetagazeta.com|gazetka.be|gielda-koni.com.pl|glogow-info.pl|glosmordoru.pl|grapplerinfo.pl|info.stargard.pl|infofordon.pl|infokatowice.pl|jaw.pl|jazdaprawna.pl|kurier-kolski.pl|kurierostrowski.pl|kurierzamojski.pl|legitymizm.org|lexus-forum.pl|magazynregionalny.pl|materialybudowlane.info.pl|meteoprog.pl|miedzyzdroje.tv|mojeniemcy.de|nakolei.pl|nanarty.info|nowawrzesnia.pl|podgorze.pl|podlaskieagro.pl|polacywewloszech.com|poligonowewiesci.pl|portalkosmiczny.pl|przemyskie.info|przewodnicywedkarscy.pl|ptvr.pl|radiopiekary.pl|radioradom.pl|radomsport.pl|rdn.pl|regionalna.pl|sad24.pl|sporteuro.pl|sweetwedding.pl|swiatoze.pl|swidnik.pl|tc.ciechanow.pl|thinkapple.pl|tvostrow.pl|tw-24.pl|tygodnik-krapkowicki.info|tygodnik-rolniczy.pl|tygodnikmakowski.pl|tygodnikprzasnyski.com.pl|urodaizdrowie.pl|vwgolf.pl|wdrawskupomorskim.pl|wiadomosci.rii.pl|wiatriwoda.pl|widzewtomy.net|wieliczkacity.pl|wirtualnelegionowo.pl|wirtualnynowydwor.pl|zapytam.com|zkaszub.info|zpazurem.pl|zyciezamoscia.pl
+^banerkiIFRAME^$subdocument,domain=zulawy.com
 ^banerkiJPG^$domain=zulawy.com
 ^baners^$domain=konieimy.pl|nowaruda.info|podlasie24.pl|portalpszczelarski.pl
 ^banery/8^$domain=sportowememy.pl
@@ -65,6 +69,7 @@
 ^bannery^$domain=czytelniamedyczna.pl|e-grajewo.pl|em.kielce.pl|legionisci.com|najlepsze-porady.pl|nbi.com.pl|nocnygdansk.pl|obk.pl|ogrodinfo.pl|olsztyn24.com|pomorskifutbol.pl|supernowosci24.pl|transportchorego.pl|wagaciezka.com|walbrzych24.com|wiz.pl|wroclife.pl
 ^bans^$domain=plastech.pl
 ^biframe^$domain=info.elblag.pl
+^bimg^$domain=tustolica.pl
 ^bjpg^$domain=info.elblag.pl
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
@@ -90,6 +95,7 @@
 ^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|motocykle125.pl|olawa24.pl
+^rek2^$domain=barlinek24.pl
 ^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tuwodzislaw.pl
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
@@ -159,6 +165,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||codziennikmlawski.pl^*^szpulka_pasaz_okm-
 ||cyfrowaekonomia.pl^*quark3.
 ||dentoforum.pl^*^baner1.
+||dicatatepantry.com^$domain=anime-odcinki.pl
 ||dobrewiadomosci.eu^*^opal_copy.
 ||dodajauto.pl^*^logo%20ds%20baner.
 ||dodajauto.pl^*^sf.
@@ -372,6 +379,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||vetopedia.pl^*^vetid.
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-iparts.
+||wadmargincling.com^$domain=anime-odcinki.pl
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
@@ -383,22 +391,12 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wszczecinie.pl/r/www/images^
 ||www.filmweb.pl/welcomeScreenJS
 ||xlomza.pl^*^gina.
+||xlomza.pl^*^kukasz08_
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xtb.com^$script,domain=kantorywalut.pl
+||zamioculcas2.org^$script,domain=budujesz.info|rynek-rolny.pl
 ||zd24.pl^*^Jesienna-zaduma-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
-^banerkiIFRAME^$subdocument,domain=zulawy.com
-^adverts-$domain=zycie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
--baner-$domain=ipulawy.pl
-^rek2^$domain=barlinek24.pl
--banner-$domain=swiatczytnikow.pl
--banner1.$domain=tu.swinoujscie.pl
-^bimg^$domain=tustolica.pl
--290x150.$domain=tygodnikpiski.pl
-||xlomza.pl^*^kukasz08_
-||zamioculcas2.org^$script,domain=rynek-rolny.pl|budujesz.info
-||wadmargincling.com^$domain=anime-odcinki.pl
-||dicatatepantry.com^$domain=anime-odcinki.pl
