@@ -1693,3 +1693,4 @@ studentka.pl##.bm1
 terazlipno.pl##.topLayer
 itvszubin.pl##.topLayer
 superchodziez.pl##.topLayer
+gorlice24.pl##.topLayer
