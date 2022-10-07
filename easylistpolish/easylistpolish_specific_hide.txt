@@ -1692,3 +1692,4 @@ master.postgraduatestudy.eu##.bm1
 studentka.pl##.bm1
 terazlipno.pl##.topLayer
 itvszubin.pl##.topLayer
+superchodziez.pl##.topLayer
