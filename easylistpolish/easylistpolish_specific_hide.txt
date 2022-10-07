@@ -1686,3 +1686,4 @@ gniewkowo.eu##.topLayer
 studiadoktoranckie.info##.bm1
 studiamba.info##.bm1
 studiaonline.info##.bm1
+studies-in-europe.eu##.bm1
