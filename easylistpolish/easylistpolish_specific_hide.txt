@@ -948,7 +948,6 @@ bb365.info##.reklamki
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 wiesci.info.pl##.reklamyPrawa
 konindzieciom.pl##.rektop
-whatsnext.pl##.retina-image
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 woor.pl##.right_box
