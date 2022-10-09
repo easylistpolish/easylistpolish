@@ -1409,7 +1409,6 @@ golfpl.com##aside[id^="text-"] a > img
 kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
 ostrowczanie.info##body > center > a
-tyna.info.pl##body > center img
 anime-odcinki.pl##center > a
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
