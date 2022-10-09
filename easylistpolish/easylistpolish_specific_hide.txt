@@ -1069,7 +1069,6 @@ wpolityce.pl##.tile--ad-tile
 meblarskapolska.pl##.tm-promt-image
 weszlo.com##.top-adw
 egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
-tyna.info.pl##.top-bar-content a
 ortograf.pl##.top-billboard
 ifrancja.fr##.top-main-ads
 fpiec.pl##.top-offer-box
