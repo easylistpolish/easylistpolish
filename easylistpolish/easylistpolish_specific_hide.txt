@@ -346,7 +346,6 @@ szkolkarstwo.com.pl###widget-175
 szkolkarstwo.com.pl###widget-185
 zawiercianskie.pl###widget_carousel_slider-11
 liga-ursus.siatkowka.org###widget_sp_image-2
-tyna.info.pl###widget_sp_image-46
 tyna.info.pl###widget_sp_image-51
 dziennikstargardzki.pl###widget_sp_image-8
 kurier-kolski.pl###wrap-top2
