@@ -253,7 +253,6 @@ naekranie.pl###sg_belka_srodek
 glokalna.pl,nowawrzesnia.pl###sgpb-popup-dialog-main-div-wrapper
 chrzanowski24.pl###sidebar
 buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,oto-slub.pl,wkatalog.pl###sidebar > div[style="text-align: center;"] > a
-wiadomosci.com###sidebar [id^="wiado-"]
 naszabramow.pl###sidebar a[target="_blank"] > img
 e-stargard.pl###sidebar video
 tucholanin.pl###sidebar-primary #text-14
