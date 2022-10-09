@@ -1277,7 +1277,6 @@ dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 powiatowa.info##a[href^="/rozne/reklama/"]
 wylecz.to##a[href^="/zzz_click/"]
 przegladoponiarski.pl##a[href^="adv/"]
-tygodnikpilski.pl##a[href^="http://angitiamed.pl/"]
 panoramakutna.pl##a[href^="http://kominki.kutno.pl"] img
 hobby-elektronika.eu##a[href^="http://online.freeware.info.pl/"]
 e-grajewo.pl##a[href^="http://pensjonatraj.pl"]
