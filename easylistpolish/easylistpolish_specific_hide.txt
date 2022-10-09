@@ -1075,7 +1075,6 @@ iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
 wirtualnyregion.eu##.tdc-row .cycloneslider
 onetontour.pl##.test-drive-banner
-tvgorzow.pl##.testimonial_rotator_slide
 lifemanagerka.pl##.text-5
 lifemanagerka.pl##.text-9
 spece.it##.textwidget
