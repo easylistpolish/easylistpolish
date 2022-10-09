@@ -1279,7 +1279,6 @@ infoplocktv.pl##a[href^="http://pssplock.pl/"]
 skladaniekomputera.pl##a[href^="http://seldarco.getleads.pl"]
 bobrowniki.tv##a[href^="http://slaskieplyty.pl"]
 e-grajewo.pl##a[href^="http://spoldzielcza1.pl"]
-tyna.info.pl##a[href^="http://studiomeritum.pl"] > img
 zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
 super-polska.pl##a[href^="http://www.anf.pl/"]
 chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
