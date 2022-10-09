@@ -425,7 +425,7 @@ tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,to.com.pl##.adsSlotContainer
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
-cgm.pl,historykon.pl,mtv24.tv,pogonszczecin.pl,vegespot.pl,weszlo.com##.adv
+cgm.pl,historykon.pl,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl##.adv--next-logo
 nowezyciepabianic.pl##.adv--top
