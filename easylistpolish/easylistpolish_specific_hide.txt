@@ -1057,7 +1057,6 @@ bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 meblarskapolska.pl##.tm-promt-image
-weszlo.com##.top-adw
 egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
 ifrancja.fr##.top-main-ads
