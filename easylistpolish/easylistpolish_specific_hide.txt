@@ -325,7 +325,7 @@ terazgrodkow24.pl###text-html-widget-2
 okiemmiszy.pl###ti_image_banner-3
 iturek.net###tm-top
 testynaojcostwo.pl###top-baner
-twojradom.pl,wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
+wabrzezno-cwa.pl,zlotowskie.pl###top-reklama
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
 polskielupki.pl###topAdd
 pszczyna.tv###topBaner
