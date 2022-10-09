@@ -488,7 +488,6 @@ parenting.pl##.article__textbox
 posbud.com.pl##.as_marquee0
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.atomsAdsCellModel
 glospedagogiczny.pl##.auto-pr-block > a
-tygodnikpiski.pl##.avt_masterslider_el
 dtv24.pl##.awac-wrapper
 przegladoponiarski.pl##.axd > a[target="_blank"]
 dniwolne.eu##.axv
