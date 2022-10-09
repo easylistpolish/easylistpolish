@@ -996,7 +996,6 @@ moviesroom.pl##.sidebar .basic-slider
 wiesci.com.pl##.sidebar-270 [rel^="lightbox["]
 domenergo.com##.sidebar-banner-ads
 jbzd.com.pl##.sidebar-premium
-tygodnikketrzynski.pl##.sidebar-wrap #text-52
 tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
 gloslodzi.pl##.sidebar_area .widget-2 .textwidget
