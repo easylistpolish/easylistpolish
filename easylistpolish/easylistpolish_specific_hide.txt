@@ -925,7 +925,7 @@ futbolnews.pl,zzapolowy.com##.ranking
 money.pl##.ranks-reports
 tvpolice.com.pl##.rbox
 naszekielce.com##.region-banner
-epiotrkow.pl,infoserwiselk.pl,tysol.pl,vidfile.net##.rek
+epiotrkow.pl,infoserwiselk.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
