@@ -1114,7 +1114,6 @@ wysportowani-portal-kolarski.pl##.widget_awaken_medium_rectangle_ad
 wirtualnyregion.pl##.widget_cyclone-slider-widget
 kurier-nakielski.pl,nowawrzesnia.pl##.widget_media_image
 budownictwo.co##.widget_media_image > h2 + a[rel]
-wcj24.pl##.widget_metaslider_widget
 superportal24.pl##.widget_no_mobile
 superportal24.pl##.widget_sidebar_content > a[target="_blank"]
 superportal24.pl##.widget_sidebar_content > img
