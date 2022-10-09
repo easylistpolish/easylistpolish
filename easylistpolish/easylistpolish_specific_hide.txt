@@ -97,7 +97,6 @@ stereoikolorowo.blogspot.com###crosscol-overflow
 portalprzemyski.pl###custom_html-10
 wachtyrz.eu###custom_html-13
 wachtyrz.eu###custom_html-14
-whitemad.pl###custom_html-15
 kazimierzdolny24.pl,palegro.pl,swiatdronow.pl,swift-iban.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
