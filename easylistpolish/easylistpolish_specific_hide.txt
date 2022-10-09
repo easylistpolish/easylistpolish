@@ -1103,7 +1103,6 @@ mojewronki.pl##.topbar-inner
 gazeta-mosina.pl##.topblock
 naszrynek.pl##.toplayer
 synonimy.pl##.translation-badge
-twojapogoda.pl##.triple-billboard
 slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
 zory24.pl##.twocol_right > #logosy
