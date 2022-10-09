@@ -63,7 +63,6 @@ domy.pl###bb-banner-top
 mapa.targeo.pl###bblbrd_outer
 otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
-tychy.pl###bilboard_970x90
 ftb.pl###billboard
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-5
