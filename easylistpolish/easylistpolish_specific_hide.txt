@@ -282,7 +282,6 @@ radioq.fm###sppb-carousel1
 bukowskilider.pl###sticky-posts-3
 wirtualnelegionowo.pl,wirtualnynowydwor.pl###szeroka-reklama
 panoramakutna.pl###tdi_55
-vanessa.fm###text-10 div
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
 gazetalubliniecka.pl###text-11
