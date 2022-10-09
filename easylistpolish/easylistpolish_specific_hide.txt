@@ -1262,7 +1262,6 @@ emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
 divers24.pl##a[href*="_bannerid="] > img
 brodnica-cbr.pl,linktopoland.com##a[href*="autoczescionline24.pl"]
-twojaslupca.pl##a[href*="autodoc.pl"]
 businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
