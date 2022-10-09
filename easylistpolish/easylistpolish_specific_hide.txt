@@ -1056,7 +1056,6 @@ skarzysko24.pl##.t3-sidebar .custom a
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 gazetaregionalna.com##.td-a-rec a
 24klodzko.pl##.td-a-rec-id-header
-twojepajeczno.pl##.td-aa-rec
 probasket.pl##.td-all-devices
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
 lwowecki.info##.td-all-devices2
