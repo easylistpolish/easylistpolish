@@ -333,7 +333,6 @@ superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
 zambrowiacy.pl###topbanner
 silacze.org###tri-mot
-tygodnik.szczytno.pl###tygm_lewa
 prokuratura-zz.pl###ubezpieczenie-top
 telewizjaleszno.pl###vlog-module-0-0
 polskiemiasta.tv###wartozobaczyc
