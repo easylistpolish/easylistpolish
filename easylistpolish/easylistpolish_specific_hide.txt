@@ -1091,7 +1091,6 @@ krdp.fm,miastons.pl##.vc_wp_text
 24gliwice.pl,banita.travel.pl##.vce-sticky
 razdwasport.pl##.vendor-holder-main-page
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
-webiko.pl##.view-promocje a[target="_blank"]
 sad24.pl##.vip
 zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
