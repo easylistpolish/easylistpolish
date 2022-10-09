@@ -469,7 +469,7 @@ zory24.pl##.advertbutton
 wielkopolska.tv##.advertise
 zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
-pultuszczak.pl,tvpodkarpacka.pl,twojememy.pl##.advertisement
+pultuszczak.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
 leba24.info##.advertizing-slots
 edziecko.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##.adviewDFPBanner
