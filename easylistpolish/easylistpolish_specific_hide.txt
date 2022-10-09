@@ -1434,7 +1434,6 @@ porady.mobi##center a
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.wp.pl##dd-holder
 medycyna24.pl##div > .insert--top-offer
-twojepajeczno.pl##div > .scxxxx
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
