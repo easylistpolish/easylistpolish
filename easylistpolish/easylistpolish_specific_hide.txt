@@ -1312,7 +1312,6 @@ swiatoze.pl##a[href^="https://columbusenergy.pl/"]
 mymma.pl##a[href^="https://dietyodbrokula.pl/"]
 brief.pl##a[href^="https://dreamemployer.pl"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
-uploaduj.com##a[href^="https://hotpay.pl/"]
 2x45.info##a[href^="https://in.betsson29.com/"]
 elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
