@@ -788,7 +788,6 @@ antyauto.pl##.kd_ns_placement
 gorydlaciebie.pl##.kiosk-shortcode
 kk24.pl##.kk24-br
 swiatkoni.pl##.klikaczset
-typuje.pl##.kodbaner
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 pionki24.pl##.kozie-before-content-placement
