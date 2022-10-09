@@ -792,7 +792,7 @@ londynek.net##.jd-oaz-d
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
-24wspolnota.pl,antyauto.pl,legionisci.com,tvbogatynia.pl,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
+24wspolnota.pl,antyauto.pl,legionisci.com,tvpogranicze.pl,webniusy.com,zaorane.com##.kd_ns_ads
 expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,wgospodarce.pl,wiadomosci.com,wm.pl,wspolczesna.pl##.kd_ns_box > a[rel="nofollow"]
 antyauto.pl##.kd_ns_placement
 gorydlaciebie.pl##.kiosk-shortcode
