@@ -25,7 +25,6 @@ swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
 pogodnie.pl###adv03
 tygodnikszczytno.pl###advBox
-tygodnik.szczytno.pl###advContener
 filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
