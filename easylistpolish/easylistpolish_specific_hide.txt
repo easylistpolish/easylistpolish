@@ -1017,7 +1017,6 @@ gostynin24.pl,puszczawkrzanska.pl##.slides
 mazovia24.pl##.slides_oneDIV
 staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
 tygodnikszczytno.pl##.slitslider_container
-tygodnik.szczytno.pl##.slitslider_reklama_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
 slowoseniora.pl##.slowo-widget
