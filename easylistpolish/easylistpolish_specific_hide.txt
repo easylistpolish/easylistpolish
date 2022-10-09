@@ -746,7 +746,6 @@ radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
-wbj.pl##.highlight__adv-title + a
 wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
 112pila.pl##.home-e3lan > a
