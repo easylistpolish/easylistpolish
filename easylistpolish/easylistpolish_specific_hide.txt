@@ -235,7 +235,6 @@ wyborcza.pl###rectangle-splint
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
 mybank.pl###rek_prawe_menu
-twojglos-garwolin.pl###reklama + a
 kryniczanie.pl###reklama1
 elka.pl###reklamaGooglePrawa336Last
 forumbranzowe.com###reklama_2
