@@ -1018,7 +1018,6 @@ tygodnikszczytno.pl##.slitslider_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
 slowoseniora.pl##.slowo-widget
-tygodnikpiski.pl##.small-12 center a
 30minut.pl##.small-adv
 4tour.pl##.span2
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
