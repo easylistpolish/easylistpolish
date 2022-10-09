@@ -930,7 +930,6 @@ mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
 4trucks.pl,wiersze.annet.pl##.rekl
-tysol.pl##.rekl_box
 glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
