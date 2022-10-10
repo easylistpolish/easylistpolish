@@ -1633,3 +1633,4 @@ ochschulen.studiumineuropa.eu##.bm1
 studiumveurope.eu##.bm1
 tanulmanyokeuropaban.eu##.bm1
 wameryce.info##.bm1
+weuropie.info##.bm1
