@@ -1607,3 +1607,4 @@ bachelor.undergraduatestudy.eu##.bm1
 gramatyka-angielska.info##.bm1
 studiaweuropie.eu##.bm1
 studies-in-english.pl##.bm1
+studies-in-poland.pl##.bm1
