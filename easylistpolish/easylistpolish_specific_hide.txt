@@ -1625,3 +1625,4 @@ organizacjestudenckie.pl##.bm1
 pracaikariera.pl##.bm1
 rektorzy.pl##.bm1
 studenckamarka.pl##.bm1
+studenckamoda.pl##.bm1
