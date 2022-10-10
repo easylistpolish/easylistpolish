@@ -1626,3 +1626,4 @@ pracaikariera.pl##.bm1
 rektorzy.pl##.bm1
 studenckamarka.pl##.bm1
 studenckamoda.pl##.bm1
+studianiestacjonarne.info##.bm1
