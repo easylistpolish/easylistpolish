@@ -1617,3 +1617,4 @@ dualstudies.eu##.bm1
 estudarnaeuropa.eu##.bm1
 estudiareneuropa.eu##.bm1
 etudiereneurope.eu##.bm1
+kursyjezykowe.biz##.bm1
