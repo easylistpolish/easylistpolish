@@ -1615,3 +1615,4 @@ dlaucznia.info##.bm1
 doctoralstudy.eu##.bm1
 dualstudies.eu##.bm1
 estudarnaeuropa.eu##.bm1
+estudiareneuropa.eu##.bm1
