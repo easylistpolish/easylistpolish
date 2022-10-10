@@ -1622,3 +1622,4 @@ kursyonline.info##.bm1
 kursysemestralne.pl##.bm1
 mba-studies.eu##.bm1
 organizacjestudenckie.pl##.bm1
+pracaikariera.pl##.bm1
