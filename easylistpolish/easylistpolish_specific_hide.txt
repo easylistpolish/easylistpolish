@@ -1619,3 +1619,4 @@ estudiareneuropa.eu##.bm1
 etudiereneurope.eu##.bm1
 kursyjezykowe.biz##.bm1
 kursyonline.info##.bm1
+kursysemestralne.pl##.bm1
