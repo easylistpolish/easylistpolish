@@ -1610,3 +1610,4 @@ studies-in-english.pl##.bm1
 studies-in-poland.pl##.bm1
 szkolyjezykowe.info##.bm1
 avrupadaokuma.eu##.bm1
+distancelearningstudy.eu##.bm1
