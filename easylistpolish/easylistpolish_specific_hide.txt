@@ -1635,3 +1635,4 @@ tanulmanyokeuropaban.eu##.bm1
 wameryce.info##.bm1
 weuropie.info##.bm1
 police24.pl##.topLayer
+legio24.pl##.topLayer
