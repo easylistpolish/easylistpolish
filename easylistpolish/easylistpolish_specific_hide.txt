@@ -1631,3 +1631,4 @@ universita.studiareineuropa.eu##.bm1
 studiastacjonarne.info##.bm1
 ochschulen.studiumineuropa.eu##.bm1
 studiumveurope.eu##.bm1
+tanulmanyokeuropaban.eu##.bm1
