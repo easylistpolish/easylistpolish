@@ -1605,3 +1605,4 @@ wspolczesna.pl,nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 bachelor.undergraduatestudy.eu##.bm1
 gramatyka-angielska.info##.bm1
+studiaweuropie.eu##.bm1
