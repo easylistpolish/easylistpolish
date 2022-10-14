@@ -107,6 +107,7 @@ zyciezamoscia.pl###custom_html-6,#custom_html-8
 portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
 wochenblatt.pl###custom_post_widget-8
+waw4free.pl###detal_top
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowotrojmiasta.pl###efaro-widget
@@ -1129,6 +1130,8 @@ facetpo40.pl##.wrapper_smallimages
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
+waw4free.pl##.zobacz-box
+waw4free.pl##.zobacz-box-text
 mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 zumi.pl##.zumi-ads-top
