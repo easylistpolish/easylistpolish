@@ -929,7 +929,6 @@ konindzieciom.pl##.rektop
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 wiadomoscidebickie.pl##.rl-image-widget
-ws-24.pl##.rl-image-widget-link
 radiopik.pl##.rma
 radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 tromil.pl##.rotator-ceneo
