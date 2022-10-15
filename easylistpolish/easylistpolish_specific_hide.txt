@@ -1305,7 +1305,6 @@ bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
 dieroten.pl,radiogol.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
-wpolityce.pl##a[href^="https://www.mojeppk.pl/"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
 lpg-forum.pl##a[href^="https://www.payback.pl/"]
 fight24.pl,kulturystyka.pl##a[href^="https://www.sfd.pl/"]
