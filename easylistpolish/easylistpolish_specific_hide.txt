@@ -890,7 +890,6 @@ newsdiscopolo.info##.post-next-prev ~ iframe
 pojezierze.com.pl##.posts-slider
 radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
-wnet.fm##.prom-block
 mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 ewejsciowki.pl##.promo-container
