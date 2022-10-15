@@ -923,7 +923,6 @@ dkl24.pl##.reklama_700
 wieliczkacity.pl##.reklama_980
 wieliczkacity.pl##.reklama_980 ~ center a
 rzeszow-news.pl##.reklama_gora
-wirtualnyzgierz.pl##.reklama_head
 zakazany-humor.pl##.reklama_nad_trescia
 mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl"])
 forumbranzowe.com##.reklama_sidebar
