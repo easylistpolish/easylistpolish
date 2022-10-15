@@ -37,7 +37,6 @@ toproste.pl###asd
 tuhiszpania.pl###b_searchboxInc
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
-wirtualnyzgierz.pl###baner-gora1
 genetyczne.pl###baner-gorny
 hotelinfo24.pl###baner2
 forumzabki.pl###baner750
