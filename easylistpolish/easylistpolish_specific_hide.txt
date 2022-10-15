@@ -635,7 +635,6 @@ tvswietokrzyska.pl##.custommarginbanner_topbottom
 przeclaw24.pl##.custompolecamy
 tczewska.pl##.cycle-slideshow
 wirtualnyregion.pl##.cycloneslider
-wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="300:120"]
 wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="300:240"]
 wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="640:120"]
 wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="735:140"]
