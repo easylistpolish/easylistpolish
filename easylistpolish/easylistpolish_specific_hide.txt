@@ -635,7 +635,6 @@ tvswietokrzyska.pl##.custommarginbanner_topbottom
 przeclaw24.pl##.custompolecamy
 tczewska.pl##.cycle-slideshow
 wirtualnyregion.pl##.cycloneslider
-wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="735:140"]
 wirtualnyregion.pl##.cycloneslider > div[data-cycle-auto-height="980:120"]
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
