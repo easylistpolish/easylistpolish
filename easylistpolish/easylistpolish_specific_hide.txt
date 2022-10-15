@@ -942,7 +942,6 @@ bukowskilider.pl##.reklamaprawastrona
 eurologistics.pl##.reklamka_sidebar
 bb365.info##.reklamki
 ciechanowonline.pl,portalzamojski.pl##.reklamy
-wiesci.info.pl##.reklamyPrawa
 konindzieciom.pl##.rektop
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
