@@ -42,7 +42,6 @@ hotelinfo24.pl###baner2
 forumzabki.pl###baner750
 eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
-wirtualnyzgierz.pl###baner_dol
 infomare.pl###baneranim
 archispace.pl,hodowle.eu,instalki.pl###banner
 krs-online.com.pl###banner + div
