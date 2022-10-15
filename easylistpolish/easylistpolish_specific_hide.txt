@@ -1104,7 +1104,6 @@ trybun.org.pl##.widget_widget_simplecatch_adspace_widget
 swidnik.pl##.widgetable > a > img
 radioostrowiec.pl##.widgettitle-reklama
 radomsport.pl##.wiersz_news a[target="_blank"] > img
-wkielcach.info##.wkiel-reklama_przyklad
 zupelnieinnaopowiesc.com##.wpa
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 nowawrzesnia.pl##.wpb_images_carousel
