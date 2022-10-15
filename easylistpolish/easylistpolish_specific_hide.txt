@@ -429,7 +429,6 @@ telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
 historykon.pl##.adv_content
-wp.pl##.advarticle
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
 eluban.pl,koscierzyna24.info,portalpomorza.pl,radiosochaczew.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
