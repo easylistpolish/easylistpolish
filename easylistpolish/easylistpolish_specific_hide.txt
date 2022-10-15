@@ -1043,7 +1043,7 @@ swidnica24.pl##.top-sliding-ad
 jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-bielskirynek.pl,bydgoszcz24.pl,ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,e-krajna.pl,faktypilskie.pl,gniewkowo.eu,gorlice24.pl,gwarek.com.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,itvszubin.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazlipno.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+bielskirynek.pl,bydgoszcz24.pl,ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,e-krajna.pl,faktypilskie.pl,gniewkowo.eu,gorlice24.pl,gwarek.com.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,itvszubin.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazlipno.pl,wkikole.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
