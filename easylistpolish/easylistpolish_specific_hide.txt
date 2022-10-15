@@ -104,7 +104,6 @@ nowezyciepabianic.pl###custom_html-6
 zyciezamoscia.pl###custom_html-6,#custom_html-8
 portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
-wochenblatt.pl###custom_post_widget-8
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowotrojmiasta.pl###efaro-widget
