@@ -229,7 +229,6 @@ forumbranzowe.com###reklama_2
 gada.pl###reklama_gazetowa
 anime-odcinki.pl###reklama_lewa
 anime-odcinki.pl###reklama_prawa
-zakazany-humor.pl###reklama_s
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
