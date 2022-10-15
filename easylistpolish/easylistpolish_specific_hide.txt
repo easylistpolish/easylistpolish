@@ -293,7 +293,6 @@ wiesci.com.pl###text-23
 dopilar.pl,fiat.fm,historykon.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
 stacja-tluszcz.pl###text-35
-wolna-polska.pl###text-39
 24legnica.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,wyszukana.com.pl,ziemiastrzelecka.strzelce.pl###text-4
 wolna-polska.pl###text-40
 zyciezamoscia.pl###text-42
