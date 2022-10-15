@@ -259,7 +259,6 @@ naszesudety.pl###slider2
 legnica.fm###sliderbanner1
 dobretargi.pl,nowymagazyn.pl###slideshow_xl
 swinoujskie.info###snppopup-welcome
-wydawca.com.pl###sow-slider-22
 wysokomazowiecki24.pl###sp-reklamatop
 nowyzmigrod24.pl###sp-section-3
 wysokomazowiecki24.pl###sp-top-bar
