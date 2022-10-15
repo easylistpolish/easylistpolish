@@ -1219,7 +1219,6 @@ cztery-lapy.pl##a[href^="/adv/"]
 magazynpolonia.com##a[href^="/klikacz/"]
 dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 powiatowa.info##a[href^="/rozne/reklama/"]
-wylecz.to##a[href^="/zzz_click/"]
 przegladoponiarski.pl##a[href^="adv/"]
 panoramakutna.pl##a[href^="http://kominki.kutno.pl"] img
 hobby-elektronika.eu##a[href^="http://online.freeware.info.pl/"]
