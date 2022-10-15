@@ -424,7 +424,7 @@ nowezyciepabianic.pl##.adv--top
 mma.pl##.adv-body-banner
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wp.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wsieci24.pl,wspolczesna.pl,wyznajemy.pl,zakazany-humor.pl,zamojska.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
