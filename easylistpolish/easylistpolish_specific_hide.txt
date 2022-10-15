@@ -918,7 +918,7 @@ epiotrkow.pl,infoserwiselk.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
-4trucks.pl,wiersze.annet.pl##.rekl
+4trucks.pl##.rekl
 glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
