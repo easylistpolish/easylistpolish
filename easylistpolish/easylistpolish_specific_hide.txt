@@ -158,7 +158,6 @@ oko.info.pl###leftAdv
 czest.info###logo-title a[target="_blank"]
 ostrowiecnews.pl###main > center:first-of-type > a
 gorliczanin.pl###main > section[id^="metaslider_widget-"]
-wilanownews.pl###main center > a
 zawiercianskie.pl###main-header .widget_media_image
 wodnyrelax.pl###main2
 filmweb.pl###mainSkyBanner-pl_PL
