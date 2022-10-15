@@ -212,7 +212,6 @@ babiel.com.pl###prawa
 legitymizm.org###prawa_kolumna .ramka:last-child
 drhtv.com.pl###prawo
 wkatalog.pl###prawy
-zakazany-humor.pl###primary > div > iframe
 laczynaspasja.pl###promocodeBaner
 naszekielce.com###promoted
 slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###promoted-articles
