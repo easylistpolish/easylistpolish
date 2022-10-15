@@ -1335,7 +1335,7 @@ expressbydgoski.pl,nowiny24.pl,nowosci.com.pl,wspolczesna.pl##a[rel="nofollow"] 
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
-kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl,wp.pl##a[style="display: block;"]
+kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl##a[style="display: block;"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
