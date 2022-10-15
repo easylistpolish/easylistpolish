@@ -1570,5 +1570,5 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-wspolczesna.pl,nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
+nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
