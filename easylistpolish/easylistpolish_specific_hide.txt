@@ -289,7 +289,7 @@ wiesci.com.pl###text-23
 dopilar.pl,fiat.fm,historykon.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
 stacja-tluszcz.pl###text-35
-24legnica.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,wyszukana.com.pl,ziemiastrzelecka.strzelce.pl###text-4
+24legnica.pl,dzierzgon.info.pl,gazetalubliniecka.pl,golfnews.pl,juliarozumek.pl,konstancin.com,malyrekin.pl,nostalgicznie.pl,ostrowiecnews.pl,polonia-swidnica.pl,ziemiastrzelecka.strzelce.pl###text-4
 zyciezamoscia.pl###text-42
 gieldykryptowalut.pl###text-49
 24legnica.pl,akademiawitalnosci.pl,kcynia.info,kurier-lokalny.com,malyrekin.pl,nostalgicznie.pl,stylkibica.net,terazgrodkow24.pl,zyciezakonne.pl###text-5
