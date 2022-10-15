@@ -966,7 +966,6 @@ zycieczestochowy.pl##.sideelement
 gazetkonosz.pl##.signad
 zywiec112.com.pl##.simple-popup-advert
 dzierzgon-twojemiasto.pl##.site-branding
-wronieckibazar.pl##.site-branding a[target]
 codziennypoznan.pl##.site-header .elementor-shortcode
 twojskaryszew.pl##.site-header .np-header-ads-area
 filmawka.pl##.site-news__ads
