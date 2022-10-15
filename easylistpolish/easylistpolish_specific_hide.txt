@@ -278,7 +278,7 @@ dogosfera.pl###text-10015
 gazetalubliniecka.pl###text-11
 dzierzgon.info.pl,ipulawy.pl,wiesci.com.pl,zzapolowy.com###text-12
 luckyhorse.pl###text-13
-greencanoe.pl,ptvr.pl,trybawaryjny.pl,tu.swinoujscie.pl,wszedobylscy.com,zpopk.pl###text-15
+greencanoe.pl,ptvr.pl,trybawaryjny.pl,tu.swinoujscie.pl,zpopk.pl###text-15
 tylkopilka.pl###text-157
 naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.pl###text-16
 polacywewloszech.com,smartage.pl###text-17
