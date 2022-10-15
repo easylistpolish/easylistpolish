@@ -930,7 +930,6 @@ ciechanowonline.pl,portalzamojski.pl##.reklamy
 konindzieciom.pl##.rektop
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
-woor.pl##.right_box
 wiadomoscidebickie.pl##.rl-image-widget
 ws-24.pl##.rl-image-widget-link
 radiopik.pl##.rma
