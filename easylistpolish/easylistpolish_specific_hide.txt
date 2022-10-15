@@ -302,7 +302,7 @@ wolna-polska.pl###text-39
 wolna-polska.pl###text-40
 zyciezamoscia.pl###text-42
 gieldykryptowalut.pl###text-49
-24legnica.pl,akademiawitalnosci.pl,kcynia.info,kurier-lokalny.com,malyrekin.pl,nostalgicznie.pl,stylkibica.net,terazgrodkow24.pl,wiadomosci.com,zyciezakonne.pl###text-5
+24legnica.pl,akademiawitalnosci.pl,kcynia.info,kurier-lokalny.com,malyrekin.pl,nostalgicznie.pl,stylkibica.net,terazgrodkow24.pl,zyciezakonne.pl###text-5
 miejska.info.pl,zyciezamoscia.pl###text-54
 gieldykryptowalut.pl###text-55
 akademiawitalnosci.pl,budujzdrewna.pl,gazetalubliniecka.pl,malyrekin.pl,polacywewloszech.com,terazgrodkow24.pl,wiadomosci.com,wlukowie.pl,wydzialykomunikacji.pl,ziemiastrzelecka.strzelce.pl###text-6
