@@ -1654,3 +1654,4 @@ lowiczanin.info##.topLayer
 pulsciechanowa.pl##.topLayer
 ejarocin.pl##.topLayer
 rzeczkrotoszynska.pl##.topLayer
+ibytow.pl##.topLayer
