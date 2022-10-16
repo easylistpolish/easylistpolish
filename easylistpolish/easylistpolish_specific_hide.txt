@@ -1683,3 +1683,4 @@ grudziadz365.pl##.topLayer
 jastrowie24.pl##.topLayer
 extrawalcz.pl##.topLayer
 ekstrasierpc.pl##.topLayer
+gst24.pl##.topLayer
