@@ -1642,3 +1642,4 @@ magazynregionalny.pl##.topLayer
 bilgoraj.com.pl##.topLayer
 radzyninfo.pl##.topLayer
 myszkow365.pl##.topLayer
+terazstrzelno.pl##.topLayer
