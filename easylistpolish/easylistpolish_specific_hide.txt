@@ -1659,3 +1659,4 @@ roztocze.net##.topLayer
 terazgabin.pl##.topLayer
 infomogilno24.pl##.topLayer
 leszno24.pl##.topLayer
+faktyct.pl##.topLayer
