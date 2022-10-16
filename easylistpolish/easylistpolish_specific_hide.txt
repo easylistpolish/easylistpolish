@@ -1669,3 +1669,4 @@ chelmza365.pl##.topLayer
 portalsremski.pl##.topLayer
 brodnica365.pl##.topLayer
 pakosc24.pl##.topLayer
+chocianow.com.pl##.topLayer
