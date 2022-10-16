@@ -1656,3 +1656,4 @@ ejarocin.pl##.topLayer
 rzeczkrotoszynska.pl##.topLayer
 ibytow.pl##.topLayer
 roztocze.net##.topLayer
+terazgabin.pl##.topLayer
