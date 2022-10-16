@@ -1645,3 +1645,4 @@ myszkow365.pl##.topLayer
 terazstrzelno.pl##.topLayer
 slu24.pl##.topLayer
 e-golub.info.pl##.topLayer
+e-wabrzezno.info.pl##.topLayer
