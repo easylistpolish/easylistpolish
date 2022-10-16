@@ -1689,3 +1689,4 @@ uniejow.net.pl##.topLayer
 ekutno.pl##.topLayer
 gwe24.pl##.topLayer
 gostyn24.pl##.topLayer
+czas.tygodnik.pl##.topLayer
