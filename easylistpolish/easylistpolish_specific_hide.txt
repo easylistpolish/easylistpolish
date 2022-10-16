@@ -1648,3 +1648,4 @@ e-golub.info.pl##.topLayer
 e-wabrzezno.info.pl##.topLayer
 glospowiatusredzkiego.pl##.topLayer
 mlodagdynia.pl##.topLayer
+pulsgminy.pl##.topLayer
