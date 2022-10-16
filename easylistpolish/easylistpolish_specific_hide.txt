@@ -1662,3 +1662,4 @@ leszno24.pl##.topLayer
 faktyct.pl##.topLayer
 iszczecinek.pl##.topLayer
 miastko24.pl##.topLayer
+plonskwsieci.pl##.topLayer
