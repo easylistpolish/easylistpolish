@@ -1678,3 +1678,4 @@ mojakruszwica.pl##.topLayer
 e-chelmno.pl##.topLayer
 tusochaczew.pl##.topLayer
 expresskaszubski.pl##.topLayer
+gle24.pl##.topLayer
