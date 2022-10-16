@@ -1688,3 +1688,4 @@ tygodnik.pl##.topLayer
 uniejow.net.pl##.topLayer
 ekutno.pl##.topLayer
 gwe24.pl##.topLayer
+gostyn24.pl##.topLayer
