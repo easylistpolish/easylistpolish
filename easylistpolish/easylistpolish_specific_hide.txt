@@ -1687,3 +1687,4 @@ gst24.pl##.topLayer
 tygodnik.pl##.topLayer
 uniejow.net.pl##.topLayer
 ekutno.pl##.topLayer
+gwe24.pl##.topLayer
