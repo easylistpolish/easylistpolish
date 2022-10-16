@@ -1650,3 +1650,4 @@ glospowiatusredzkiego.pl##.topLayer
 mlodagdynia.pl##.topLayer
 pulsgminy.pl##.topLayer
 hej.rzeszow.pl##.topLayer
+lowiczanin.info##.topLayer
