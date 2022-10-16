@@ -1667,3 +1667,4 @@ naszradziejow.pl##.topLayer
 hej.mielec.pl##.topLayer
 chelmza365.pl##.topLayer
 portalsremski.pl##.topLayer
+brodnica365.pl##.topLayer
