@@ -1685,3 +1685,4 @@ extrawalcz.pl##.topLayer
 ekstrasierpc.pl##.topLayer
 gst24.pl##.topLayer
 tygodnik.pl##.topLayer
+uniejow.net.pl##.topLayer
