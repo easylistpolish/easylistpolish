@@ -1671,3 +1671,4 @@ brodnica365.pl##.topLayer
 pakosc24.pl##.topLayer
 chocianow.com.pl##.topLayer
 esopot.pl##.topLayer
+spotradomsko.pl##.topLayer
