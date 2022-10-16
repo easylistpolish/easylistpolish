@@ -1652,3 +1652,4 @@ pulsgminy.pl##.topLayer
 hej.rzeszow.pl##.topLayer
 lowiczanin.info##.topLayer
 pulsciechanowa.pl##.topLayer
+ejarocin.pl##.topLayer
