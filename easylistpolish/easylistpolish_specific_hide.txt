@@ -1651,3 +1651,4 @@ mlodagdynia.pl##.topLayer
 pulsgminy.pl##.topLayer
 hej.rzeszow.pl##.topLayer
 lowiczanin.info##.topLayer
+pulsciechanowa.pl##.topLayer
