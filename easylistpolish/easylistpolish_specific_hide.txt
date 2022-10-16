@@ -1673,3 +1673,4 @@ chocianow.com.pl##.topLayer
 esopot.pl##.topLayer
 spotradomsko.pl##.topLayer
 gwio.pl##.topLayer
+abcjanikowo24.pl##.topLayer
