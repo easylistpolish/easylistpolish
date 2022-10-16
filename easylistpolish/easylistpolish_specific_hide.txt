@@ -1680,3 +1680,4 @@ tusochaczew.pl##.topLayer
 expresskaszubski.pl##.topLayer
 gle24.pl##.topLayer
 grudziadz365.pl##.topLayer
+jastrowie24.pl##.topLayer
