@@ -1684,3 +1684,4 @@ jastrowie24.pl##.topLayer
 extrawalcz.pl##.topLayer
 ekstrasierpc.pl##.topLayer
 gst24.pl##.topLayer
+tygodnik.pl##.topLayer
