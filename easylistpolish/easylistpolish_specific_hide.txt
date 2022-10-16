@@ -1657,3 +1657,4 @@ rzeczkrotoszynska.pl##.topLayer
 ibytow.pl##.topLayer
 roztocze.net##.topLayer
 terazgabin.pl##.topLayer
+infomogilno24.pl##.topLayer
