@@ -1664,3 +1664,4 @@ iszczecinek.pl##.topLayer
 miastko24.pl##.topLayer
 plonskwsieci.pl##.topLayer
 naszradziejow.pl##.topLayer
+hej.mielec.pl##.topLayer
