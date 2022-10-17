@@ -751,7 +751,7 @@ londynek.net##.jd-oaz-d
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
-24wspolnota.pl,antyauto.pl,legionisci.com,zaorane.com##.kd_ns_ads
+24wspolnota.pl,antyauto.pl,legionisci.com##.kd_ns_ads
 expressbydgoski.pl,nowiny24.pl,nowosci.com.pl##.kd_ns_box > a[rel="nofollow"]
 antyauto.pl##.kd_ns_placement
 gorydlaciebie.pl##.kiosk-shortcode
