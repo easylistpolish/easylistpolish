@@ -218,7 +218,6 @@ slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###promoted
 infosokolka.pl###promoted-module
 naszestrony.info.pl###pyre_tabs-widget-2
 starachowice-net.pl###r2
-zaufanatrzeciastrona.pl###rab1
 tuhiszpania.pl###rankomat-travel
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
