@@ -876,7 +876,7 @@ odkryjpomorze.pl##.promo-box
 ewejsciowki.pl##.promo-container
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 forumbranzowe.com##.promocje
-lol24.com,zumi.pl##.promotion
+lol24.com##.promotion
 kryptoholik.pl##.pum-overlay
 e-hotelarz.pl##.pws-reklama
 ekoexpo.pl,gorzow24.pl##.r
