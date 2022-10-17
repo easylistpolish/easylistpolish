@@ -1092,7 +1092,6 @@ pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
 mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
-zumi.pl##.zumi-ads-top
 eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not([align]) > a[href*="/goto/"]
 pwm.org.pl##A[onclick^="countAdClick"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
