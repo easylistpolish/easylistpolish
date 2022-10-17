@@ -131,7 +131,7 @@ motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
 mazopolska.pl,planowaniewesela.pl###header-banner
-gdanskstrefa.com,nowezyciepabianic.pl,zwiedzamyparyz.pl###header-right-section
+gdanskstrefa.com,nowezyciepabianic.pl###header-right-section
 e-grajewo.pl###headpartnership
 bankier.pl###home-ecom-box
 spiz.pl###home-reklama
