@@ -928,7 +928,7 @@ epiotrkow.pl##.rtop
 studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,zebrra.tv##.sam-container
-nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl,zlomzy.pl##.santa-main-wrapper
+nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 businesswomanlife.pl##.sead > a > img
 radiojura.pl##.sec-promo
 tarnow.net.pl##.sec_A_adv2
