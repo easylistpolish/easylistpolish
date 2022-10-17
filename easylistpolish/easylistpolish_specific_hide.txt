@@ -1055,7 +1055,6 @@ businessjournal.pl##.vmagazine_medium_ad
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
 womenshealth.pl##.wh-optad
-zycie.pl##.wide-wd
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
 gloskrakowa.pl##.widget-2,.widget-4
