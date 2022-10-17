@@ -953,7 +953,6 @@ twojskaryszew.pl##.site-header .np-header-ads-area
 filmawka.pl##.site-news__ads
 wroclawiak.pl##.site-right-re
 wysportowani-portal-kolarski.pl##.site-title-text-ad-area
-zzj.szczecin.pl##.slider-wrapper
 pulskwidzyna.pl##.sliderBox
 gostynin24.pl,puszczawkrzanska.pl##.slides
 mazovia24.pl##.slides_oneDIV
