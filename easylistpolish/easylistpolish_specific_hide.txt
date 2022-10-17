@@ -466,7 +466,6 @@ glospedagogiczny.pl##.auto-pr-block > a
 dtv24.pl##.awac-wrapper
 przegladoponiarski.pl##.axd > a[target="_blank"]
 dniwolne.eu##.axv
-zdrowieiuroda.gwarek.com.pl##.axxx
 infoserwiselk.pl##.b180
 infoserwiselk.pl##.b300
 echogorzowa.pl##.ba
