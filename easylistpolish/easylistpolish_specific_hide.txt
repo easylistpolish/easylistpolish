@@ -103,6 +103,8 @@ nowezyciepabianic.pl###custom_html-6
 zyciezamoscia.pl###custom_html-6,#custom_html-8
 portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
+wochenblatt.pl###custom_post_widget-8
+waw4free.pl###detal_top
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 slowotrojmiasta.pl###efaro-widget
@@ -553,7 +555,7 @@ magazynszum.pl##.block_reklama_top
 bielsko.tv,pless.pl,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
-dlamaturzysty.info,edubaza.pl,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,master.postgraduatestudy.eu,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studiaonline.info,studies-in-europe.eu##.bm1
+avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.bm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
@@ -1024,6 +1026,8 @@ jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
 bielskirynek.pl,bydgoszcz24.pl,ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,e-krajna.pl,faktypilskie.pl,gniewkowo.eu,gorlice24.pl,gwarek.com.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,itvszubin.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazlipno.pl,wkikole.pl,zarki365.pl,zyciesokolowa.pl##.topLayer
+abcjanikowo24.pl,bielskirynek.pl,bilgoraj.com.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,jura365.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,legio24.pl,lelow365.pl,leszno24.pl,lowiczanin.info,lubliniec365.pl,magazynregionalny.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszpruszcz.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
 mojewronki.pl##.topbar-inner
@@ -1085,6 +1089,8 @@ facetpo40.pl##.wrapper_smallimages
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
+waw4free.pl##.zobacz-box
+waw4free.pl##.zobacz-box-text
 mjakmama24.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not([align]) > a[href*="/goto/"]
