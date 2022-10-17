@@ -1025,7 +1025,6 @@ swidnica24.pl##.top-sliding-ad
 jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-bielskirynek.pl,bydgoszcz24.pl,ciechocinek.biz,ddtorun.pl,ddwloclawek.pl,e-krajna.pl,faktypilskie.pl,gniewkowo.eu,gorlice24.pl,gwarek.com.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,itvszubin.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,lelow365.pl,lubliniec365.pl,nizanskie.info,sompolno24.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazlipno.pl,wkikole.pl,zarki365.pl,zyciesokolowa.pl##.topLayer
 abcjanikowo24.pl,bielskirynek.pl,bilgoraj.com.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,jura365.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,legio24.pl,lelow365.pl,leszno24.pl,lowiczanin.info,lubliniec365.pl,magazynregionalny.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszpruszcz.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl##.top_banner
@@ -1528,6 +1527,7 @@ tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
+nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 iknurow.pl##script + .td-container
 kryptoporadnik.pl##script + center
@@ -1545,5 +1545,4 @@ stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
