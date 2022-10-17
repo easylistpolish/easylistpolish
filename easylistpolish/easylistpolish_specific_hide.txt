@@ -839,7 +839,7 @@ polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
 ekspertbudowlany.pl##.oferteo-widget
 laczynaspilka.pl##.off-partners
-ziemialeszczynska.pl,zw.pl##.oglo_box2
+zw.pl##.oglo_box2
 sportowetempo.pl##.ogloszenia
 tko.pl##.oln-desktop_a
 tko.pl##.oln-sticky
