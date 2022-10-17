@@ -438,7 +438,6 @@ automatyka.pl,laboratoria.xtech.pl##.advertHd
 laboratoria.xtech.pl##.advertHd + div
 zory24.pl##.advertbutton
 wielkopolska.tv##.advertise
-zkrainynba.com##.advertise-container
 zkrainynba.com##.advertise-title
 pultuszczak.pl,twojememy.pl##.advertisement
 glamour.pl,kobieta.pl##.advertising-billboard
