@@ -1548,3 +1548,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 onet.pl##div[class*="EmbeddedApplication_moneteasy_"] > div
 faceitstats.com##.advertisement
+zalukaj.cc##.aaba > a[target="_blank"]
