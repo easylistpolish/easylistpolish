@@ -1556,3 +1556,4 @@ divers24.pl##.header__banner
 lokalna24.pl##.widget-advert_centralplacement
 lokalna24.pl##.widget-advert_placement
 terazgostynin.pl##.ads__top
+terazgostynin.pl##.addWrapper
