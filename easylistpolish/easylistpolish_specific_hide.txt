@@ -1552,3 +1552,4 @@ zalukaj.cc##.aaba > a[target="_blank"]
 zalukaj.cc##.iii > #aab
 brief.pl##a[href^="https://www.foodtown.pl"]
 divers24.pl###_ning_zone_43171_515456233
+divers24.pl##.header__banner
