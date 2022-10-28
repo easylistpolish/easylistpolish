@@ -1577,3 +1577,4 @@ it.tarnow.pl##.section-apps
 pulawy.24wspolnota.pl##.addWrapper
 lublin24.pl##.ads  
 lublin24.pl##.addWrapper  
+lublin24.pl##div[id^="adr_placement_"]
