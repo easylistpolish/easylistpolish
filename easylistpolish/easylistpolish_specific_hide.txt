@@ -1566,3 +1566,4 @@ wirtualnesuwalki.pl##.advert-B2
 wirtualnesuwalki.pl##.advert-C1 
 pszczyna.tv##.blok-billboard 
 pszczyna.tv##.blok-link-rotacyjny 
+pszczyna.tv##.blok-skyscraper-fit
