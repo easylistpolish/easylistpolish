@@ -1555,3 +1555,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 malbork1.pl##.advert-B1 
 malbork1.pl##.A1sub 
 malbork1.pl##.advert-C1 
+malbork1.pl##.advert-A1
