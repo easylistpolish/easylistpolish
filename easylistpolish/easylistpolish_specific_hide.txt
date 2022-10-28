@@ -1574,3 +1574,4 @@ fakty-wwl.pl##.ad-container-1
 enowiny.pl##.meta-font
 it.tarnow.pl##.section-banners 
 it.tarnow.pl##.section-apps 
+pulawy.24wspolnota.pl##.addWrapper
