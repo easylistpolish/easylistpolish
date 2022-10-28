@@ -112,6 +112,7 @@ slowotrojmiasta.pl###efaro-widget
 hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
+nowywyszkowiak.pl###fancybox-content
 woda-scieki.com###firms
 lublin112.pl###firmy-box-inner
 calisia.pl###fixed_abox_1
@@ -333,6 +334,7 @@ kurier-kolski.pl###wrap-top2
 lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
 tkn24.pl###ytplayer
 magazynt3.pl###zox-lead-top
+malbork1.pl,wirtualnesuwalki.pl##.A1sub
 optykamysliwska.pl##.AdvAnnouncements
 turek.net.pl##.BanerP
 wyspiarzniebieski.pl##.Comm336
@@ -370,6 +372,7 @@ pcworld.pl##.ad-bilbo2
 legionisci.com##.ad-billboard1
 moviesroom.pl##.ad-box
 biznesalert.pl,interia.pl,styl.fm##.ad-container
+fakty-wwl.pl##.ad-container-1
 promocja.mielec.pl##.ad-image
 pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
@@ -386,13 +389,13 @@ rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 zeglarski.info##.add-box
-gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,terazgostynin.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
+gostynska.pl,jarocinska.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,rawicz24.pl,terazgostynin.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
 express-miejski.pl##.adesplace
 tvn24.pl##.ado-placeholder
-24wspolnota.pl,3dwpraktyce.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
@@ -427,10 +430,11 @@ gospodarkapodkarpacka.pl##.advRec
 historykon.pl##.adv_content
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
-eluban.pl,koscierzyna24.info,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl##.advert-A1
+eluban.pl,extra-plonsk.pl,koscierzyna24.info,malbork1.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl,wirtualnesuwalki.pl##.advert-A1
 bydgoszcz.com,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl##.advert-A2
-bydgoszcz.com,eluban.pl,koscierzyna24.info,tczewska.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,zulawyimierzeja24.pl##.advert-B1
-zulawyimierzeja24.pl##.advert-C1
+bydgoszcz.com,eluban.pl,koscierzyna24.info,malbork1.pl,tczewska.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-B1
+wirtualnesuwalki.pl##.advert-B2
+malbork1.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
 zycie.pl##.advert-item
@@ -556,8 +560,10 @@ grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
 bielsko.tv,pless.pl,tychy.info##.blok-baner
-bielskiedrogi.pl,czecho.pl,pless.pl##.blok-billboard
+bielskiedrogi.pl,czecho.pl,czechowice.tv,pless.pl,pszczyna.tv##.blok-billboard
+czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
+pszczyna.tv##.blok-skyscraper-fit
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.bm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
@@ -584,7 +590,7 @@ infoserwiselk.pl##.btop
 ki24.info##.bvideo
 wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
-e-kg.pl,terazostroleka.pl,zyciekalisza.pl##.c-content__adv
+e-kg.pl,profitnes.pl,terazostroleka.pl,zyciekalisza.pl##.c-content__adv
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
@@ -764,6 +770,7 @@ baby-shower.pl##.kwadratowa2
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 ototorun.pl##.l-box--100 > p > a[target="_self"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
+debica24.eu##.l-box--99
 radiorodzina.pl##.left-large-ad
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
@@ -790,6 +797,7 @@ sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
+enowiny.pl##.meta-font
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
 turek.net.pl##.mfp-ready
@@ -935,7 +943,9 @@ nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 businesswomanlife.pl##.sead > a > img
 radiojura.pl##.sec-promo
 tarnow.net.pl##.sec_A_adv2
+it.tarnow.pl##.section-apps
 e-tlumacze.net##.section-banner
+it.tarnow.pl##.section-banners
 gostynin.info,powiat-piaseczynski.info##.section-billboard
 stylowi.pl##.sell
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
@@ -1053,7 +1063,7 @@ krdp.fm,miastons.pl##.vc_wp_text
 razdwasport.pl##.vendor-holder-main-page
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 sad24.pl##.vip
-zachodniopomorska.tv##.visible-lg
+extra-plonsk.pl,zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
 businessjournal.pl##.vmagazine_medium_ad
 wiescipolickie.pl##.wds_slider_cont
@@ -1445,6 +1455,7 @@ edziecko.pl,haps.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##div[id^="adUnit
 interia.pl##div[id^="ad_box"]
 starysacz.info##div[id^="addon-rotator-"]
 signs.pl##div[id^="adibadi"]
+lublin24.pl##div[id^="adr_placement_"]
 edziecko.pl,haps.pl,plotek.pl##div[id^="ads"]
 pod24.info##div[id^="adv"]
 konecki24.pl##div[id^="bills_in_rotation_"]
@@ -1552,32 +1563,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-malbork1.pl##.advert-B1 
-malbork1.pl##.A1sub 
-malbork1.pl##.advert-C1 
-malbork1.pl##.advert-A1
-extra-plonsk.pl##.visible-lg 
-extra-plonsk.pl##.advert-A1
-debica24.eu##.l-box--99
-wirtualnesuwalki.pl##.advert-A1 
-wirtualnesuwalki.pl##.A1sub 
-wirtualnesuwalki.pl##.advert-B1 
-wirtualnesuwalki.pl##.advert-B2 
-wirtualnesuwalki.pl##.advert-C1 
-pszczyna.tv##.blok-billboard 
-pszczyna.tv##.blok-link-rotacyjny 
-pszczyna.tv##.blok-skyscraper-fit
-czechowice.tv##.blok-link-rotacyjny 
-czechowice.tv##.blok-billboard
-nowywyszkowiak.pl###fancybox-content
-fakty-wwl.pl##.ad-container-1
-enowiny.pl##.meta-font
-it.tarnow.pl##.section-banners 
-it.tarnow.pl##.section-apps 
-pulawy.24wspolnota.pl##.addWrapper
-lublin24.pl##.ads  
-lublin24.pl##.addWrapper  
-lublin24.pl##div[id^="adr_placement_"]
-tulodz.pl##.ads  
-tulodz.pl##.addWrapper
-profitnes.pl##.c-content__adv

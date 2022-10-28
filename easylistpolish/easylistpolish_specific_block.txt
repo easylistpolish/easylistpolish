@@ -97,6 +97,7 @@
 ^promocja-$domain=edebno.pl|motocykle125.pl|olawa24.pl
 ^rek2^$domain=barlinek24.pl
 ^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tuwodzislaw.pl
+^rek^$image,domain=wiadomoscipw.pl
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
@@ -400,4 +401,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^rek^$image,domain=wiadomoscipw.pl
