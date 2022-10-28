@@ -1562,3 +1562,4 @@ debica24.eu##.l-box--99
 wirtualnesuwalki.pl##.advert-A1 
 wirtualnesuwalki.pl##.A1sub 
 wirtualnesuwalki.pl##.advert-B1 
+wirtualnesuwalki.pl##.advert-B2 
