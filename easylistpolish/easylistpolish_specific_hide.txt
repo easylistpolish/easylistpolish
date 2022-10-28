@@ -1580,3 +1580,4 @@ lublin24.pl##.addWrapper
 lublin24.pl##div[id^="adr_placement_"]
 tulodz.pl##.ads  
 tulodz.pl##.addWrapper
+profitnes.pl##.c-content__adv
