@@ -1570,3 +1570,4 @@ pszczyna.tv##.blok-skyscraper-fit
 czechowice.tv##.blok-link-rotacyjny 
 czechowice.tv##.blok-billboard
 nowywyszkowiak.pl###fancybox-content
+fakty-wwl.pl##.ad-container-1
