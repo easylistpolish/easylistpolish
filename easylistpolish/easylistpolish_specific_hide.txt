@@ -1560,3 +1560,4 @@ extra-plonsk.pl##.visible-lg
 extra-plonsk.pl##.advert-A1
 debica24.eu##.l-box--99
 wirtualnesuwalki.pl##.advert-A1 
+wirtualnesuwalki.pl##.A1sub 
