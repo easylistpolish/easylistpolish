@@ -1569,3 +1569,4 @@ pszczyna.tv##.blok-link-rotacyjny
 pszczyna.tv##.blok-skyscraper-fit
 czechowice.tv##.blok-link-rotacyjny 
 czechowice.tv##.blok-billboard
+nowywyszkowiak.pl###fancybox-content
