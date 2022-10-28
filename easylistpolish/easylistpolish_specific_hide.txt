@@ -1571,3 +1571,4 @@ czechowice.tv##.blok-link-rotacyjny
 czechowice.tv##.blok-billboard
 nowywyszkowiak.pl###fancybox-content
 fakty-wwl.pl##.ad-container-1
+enowiny.pl##.meta-font
