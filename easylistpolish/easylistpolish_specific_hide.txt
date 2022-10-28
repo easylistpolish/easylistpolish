@@ -1557,3 +1557,4 @@ malbork1.pl##.A1sub
 malbork1.pl##.advert-C1 
 malbork1.pl##.advert-A1
 extra-plonsk.pl##.visible-lg 
+extra-plonsk.pl##.advert-A1
