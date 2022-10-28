@@ -1573,3 +1573,4 @@ nowywyszkowiak.pl###fancybox-content
 fakty-wwl.pl##.ad-container-1
 enowiny.pl##.meta-font
 it.tarnow.pl##.section-banners 
+it.tarnow.pl##.section-apps 
