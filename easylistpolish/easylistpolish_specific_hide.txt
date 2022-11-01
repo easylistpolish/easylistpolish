@@ -1587,3 +1587,4 @@ czestochowskie24.pl###text-3
 czestochowskie24.pl###media_image-7
 naszraciborz.pl##.billboard
 naszraciborz.pl##.reklama_box
+naszraciborz.pl##.reklama_title
