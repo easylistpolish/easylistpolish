@@ -1569,3 +1569,4 @@ szczecinek.com###bills_in_rotation_1_91687
 wabrzezno-cwa.pl##.c-content__adv
 tulegnica.pl##.c-content__adv
 koscierski.info##._ap_ad
+konecki24.pl##.c-content__adv
