@@ -1574,3 +1574,4 @@ skarzyski.eu##.text-center
 starachowicki.eu##.slick-slide
 tugrodzisk.pl##.c-content__adv
 izyrardow.pl##.c-content__adv
+izabelin24.pl##.c-content__adv
