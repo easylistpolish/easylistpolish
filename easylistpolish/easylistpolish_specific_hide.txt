@@ -1578,3 +1578,4 @@ izabelin24.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
 ciechanowinaczej.pl##.c-content__adv
 kartuzy.info##.c-content__adv
+kartuzy.info##._ap_ad
