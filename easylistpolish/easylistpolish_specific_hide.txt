@@ -1588,3 +1588,4 @@ czestochowskie24.pl###media_image-7
 naszraciborz.pl##.billboard
 naszraciborz.pl##.reklama_box
 naszraciborz.pl##.reklama_title
+24kurier.pl##.box_reklama_txt 
