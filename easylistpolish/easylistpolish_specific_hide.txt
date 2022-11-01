@@ -1589,3 +1589,4 @@ naszraciborz.pl##.billboard
 naszraciborz.pl##.reklama_box
 naszraciborz.pl##.reklama_title
 24kurier.pl##.box_reklama_txt 
+24kurier.pl##.box_reklama 
