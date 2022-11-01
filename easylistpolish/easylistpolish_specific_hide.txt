@@ -1566,3 +1566,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 szczecinek.com###bills_in_rotation_1_52658  
 szczecinek.com###bills_in_rotation_1_91687 
+wabrzezno-cwa.pl##.c-content__adv
