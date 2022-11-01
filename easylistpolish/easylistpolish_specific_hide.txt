@@ -1581,3 +1581,4 @@ kartuzy.info##.c-content__adv
 kartuzy.info##._ap_ad
 twojepajeczno.pl##.screk
 bia24.pl##.market__item
+terazkrosno.pl##.fluid-imgs
