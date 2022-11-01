@@ -1585,3 +1585,4 @@ terazkrosno.pl##.fluid-imgs
 czestochowskie24.pl###media_image-6 
 czestochowskie24.pl###text-3  
 czestochowskie24.pl###media_image-7
+naszraciborz.pl##.billboard
