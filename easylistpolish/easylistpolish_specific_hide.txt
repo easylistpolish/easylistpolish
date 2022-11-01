@@ -1572,3 +1572,4 @@ koscierski.info##._ap_ad
 konecki24.pl##.c-content__adv
 skarzyski.eu##.text-center
 starachowicki.eu##.slick-slide
+tugrodzisk.pl##.c-content__adv
