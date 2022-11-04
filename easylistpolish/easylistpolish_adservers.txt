@@ -20,3 +20,4 @@
 ||spacead.pl^$third-party
 ||tvtoss.com^$third-party
 ||waytogrow.pl^$third-party
+||wpext.pl^$third-party
