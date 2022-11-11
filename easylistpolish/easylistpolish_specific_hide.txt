@@ -1586,3 +1586,4 @@ pultusk24.pl##.c-content__adv
 turyki.pl##.c-content__adv
 moje-gniezno.pl##.fdAdsBanner  
 moje-gniezno.pl##.a-wrap 
+echosredzkie.pl##.adesplace  
