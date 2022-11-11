@@ -1593,3 +1593,5 @@ pultusk.news##.col-lg-6
 pultusk.news##.col-lg-12
 cenyrolnicze.pl##.p345hu8t
 tubalecznej.pl##.img-fluid  
+tubalecznej.pl##.addWrapper 
+
