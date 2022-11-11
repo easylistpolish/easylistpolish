@@ -363,7 +363,7 @@ conamokotowie.pl##.a-re + a:nth-of-type(1)
 nowy-sacz.info,oswiecim112.pl,radioradom.pl##.a-single
 cowwilanowie.pl##.a-slider
 appleworld.pl,opowiecie.info,tygodnikponidzia.pl##.a-widget
-polonia-peterborough.uk##.a-wrap
+moje-gniezno.pl,polonia-peterborough.uk##.a-wrap
 czasdzieci.pl##.aTopBox
 czasdzieci.pl##.a_dslot
 zalukaj.cc##.aaba > a[target="_blank"]
@@ -393,13 +393,13 @@ rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 zeglarski.info##.add-box
-gostynska.pl,jarocinska.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,rawicz24.pl,terazgostynin.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
+bialasiedzieje.pl,gostynska.pl,jarocinska.pl,korso.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
-express-miejski.pl##.adesplace
+echosredzkie.pl,express-miejski.pl##.adesplace
 tvn24.pl##.ado-placeholder
-24wspolnota.pl,3dwpraktyce.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
@@ -595,7 +595,7 @@ infoserwiselk.pl##.btop
 ki24.info##.bvideo
 wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
-ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
+ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,pultusk24.pl,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
@@ -607,6 +607,8 @@ faktykonopne.pl##.code-block
 nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
+pultusk.news##.col-lg-12
+pultusk.news##.col-lg-6
 biznesalert.pl##.col-md-12
 wlodawa.net##.col-sm-4
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
@@ -669,6 +671,7 @@ ittechblog.pl##.ext-link > img
 forum.interia.pl##.f3-sidebar--ad
 e-stargard.pl##.fb_widget
 przemysl24.pl##.fbaner
+moje-gniezno.pl##.fdAdsBanner
 konin24.info##.flex-list
 zlubaczowa.pl##.flexbannergroup
 punkt.media##.flexbannergrouppattern
@@ -746,6 +749,7 @@ korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 zalukaj.cc##.iii > #aab
 iloveslubice.pl##.ilove-boczna-b2-300x250
+tubalecznej.pl##.img-fluid
 6krokow.pl##.img_rkl
 autoline.com.pl##.index-bns
 money.pl##.insert—top-offer
@@ -867,6 +871,7 @@ nowykamieniarz.pl##.outerwide
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
 facetpo40.pl##.oxad-image
+cenyrolnicze.pl##.p345hu8t
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 pomorska.pl##.partner
 ipleszew.pl##.partners2
@@ -1074,6 +1079,7 @@ radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm,miastons.pl##.vc_wp_text
 24gliwice.pl,banita.travel.pl##.vce-sticky
 razdwasport.pl##.vendor-holder-main-page
+mazowieckie.com.pl##.view-banner-duzy
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 sad24.pl##.vip
 extra-plonsk.pl,zachodniopomorska.tv##.visible-lg
@@ -1414,6 +1420,7 @@ dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[cl
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
 lajty.pl##div[class^="adace_ad_"]
+echosredzkie.pl##div[class^="ads-"]
 ulub.pl##div[class^="ads_"]
 astrona.pl##div[class^="adsense"]
 realizator.pl##div[class^="advert"]
@@ -1463,6 +1470,7 @@ allegro.pl##div[data-box-name^="pure_offers_ads"]
 wp.pl##div[data-native-adv]
 wylecz.to##div[data-ohyes="slotseen"]
 onet.pl##div[data-section^="ad-flat"]
+olx.pl##div[data-testid^="qa-advert-slot"]
 rekomendowanefirmy.pl##div[id^="AD-"]
 mgsm.pl##div[id^="AdArea"]
 interia.pl##div[id^="ad-view-"]
@@ -1484,6 +1492,7 @@ komputerowapasja.pl##div[id^="dolnyobraz"]
 nowyoutsourcing.pl##div[id^="g1-ad-"]
 gazetaklobucka.pl##div[id^="gazet-"]
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
+echosredzkie.pl##div[id^="gpt-ad-"]
 express-miejski.pl##div[id^="gpt-ad-d"]
 express-miejski.pl##div[id^="gpt-ad-d"] + .small
 ttg.com.pl##div[id^="header-banner"]
@@ -1553,6 +1562,7 @@ infokonin.pl##img[width="240"][height="80"]
 widoki.info##img[width="300"]
 nowemiasto.com.pl##img[width="300"][height="125"]
 automotivesuppliers.pl##img[width="370"][height="140"]
+donald.pl##ins[class^="staticpubads"]
 telemagazyn.pl##li > a[rel="nofollow"]
 skrotymeczow.pl##li[class^="cool-stuff"]
 allegro.pl##li[data-analytics-view-value$="halloween"]
@@ -1560,8 +1570,8 @@ tygodnikponidzia.pl##li[id^="bunyad_ads_"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
 pyrzyce.info##li[id^="text-"] a[target="_blank"]
-nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 money.pl,wp.pl#?#a:-abp-has(> div:-abp-contains(REKLAMA))
+nowosci.com.pl#?#A[rel="nofollow"]:-abp-has( .oznaczenie)
 nowinynyskie.com.pl##p > img[src*="/inline__1_"][width="370"]
 iknurow.pl##script + .td-container
 kryptoporadnik.pl##script + center
@@ -1580,22 +1590,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-olx.pl##div[data-testid^="qa-advert-slot"]
-mazowieckie.com.pl##.view-banner-duzy
-pultusk24.pl##.c-content__adv
-turyki.pl##.c-content__adv
-moje-gniezno.pl##.fdAdsBanner  
-moje-gniezno.pl##.a-wrap 
-echosredzkie.pl##.adesplace  
-echosredzkie.pl##div[id^="gpt-ad-"]
-echosredzkie.pl##div[class^="ads-"]
-pultusk.news##.col-lg-6  
-pultusk.news##.col-lg-12
-cenyrolnicze.pl##.p345hu8t
-tubalecznej.pl##.img-fluid  
-tubalecznej.pl##.addWrapper 
-korso.pl##.addWrapper
-radzyn.24wspolnota.pl##.addWrapper
-bialasiedzieje.pl##.ads 
-bialasiedzieje.pl##.addWrapper
-donald.pl##ins[class^="staticpubads"]
