@@ -1595,4 +1595,6 @@ cenyrolnicze.pl##.p345hu8t
 tubalecznej.pl##.img-fluid  
 tubalecznej.pl##.addWrapper 
 korso.pl##.addWrapper
+radzyn.24wspolnota.pl##.addWrapper
+
 
