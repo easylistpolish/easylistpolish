@@ -1590,3 +1590,4 @@ echosredzkie.pl##.adesplace
 echosredzkie.pl##div[id^="gpt-ad-"]
 echosredzkie.pl##div[class^="ads-"]
 pultusk.news##.col-lg-6  
+pultusk.news##.col-lg-12
