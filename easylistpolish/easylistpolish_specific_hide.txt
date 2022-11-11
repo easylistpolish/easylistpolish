@@ -1598,3 +1598,4 @@ korso.pl##.addWrapper
 radzyn.24wspolnota.pl##.addWrapper
 bialasiedzieje.pl##.ads 
 bialasiedzieje.pl##.addWrapper
+donald.pl##ins[class^="staticpubads"]
