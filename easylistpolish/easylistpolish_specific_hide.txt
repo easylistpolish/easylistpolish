@@ -1597,4 +1597,4 @@ tubalecznej.pl##.addWrapper
 korso.pl##.addWrapper
 radzyn.24wspolnota.pl##.addWrapper
 bialasiedzieje.pl##.ads 
-
+bialasiedzieje.pl##.addWrapper
