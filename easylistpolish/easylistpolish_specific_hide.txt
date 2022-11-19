@@ -1598,3 +1598,4 @@ szczecinek.com##.c-content__adv
 szczecinek.com##div[id^="bills_in_rotation_"]
 gazetacz.com.pl##.gazet-banner-gorny  
 gazetacz.com.pl##.gazet-pod-menu
+gazetacz.com.pl##.gazet-widget
