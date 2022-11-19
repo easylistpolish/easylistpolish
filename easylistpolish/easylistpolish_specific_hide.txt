@@ -1595,3 +1595,4 @@ tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232 
 tyna.info.pl###media_image-11
 szczecinek.com##.c-content__adv 
+szczecinek.com##div[id^="bills_in_rotation_"]
