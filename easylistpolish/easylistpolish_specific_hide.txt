@@ -1603,3 +1603,4 @@ tabletowo.pl##.table-adlabel
 tabletowo.pl##.tabad
 przyslijprzepis.pl##.bm-ad-placement  
 przyslijprzepis.pl##.outerstitial-container  
+przyslijprzepis.pl##.pending-ad
