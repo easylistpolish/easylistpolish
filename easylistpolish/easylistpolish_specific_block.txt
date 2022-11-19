@@ -188,6 +188,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
+||edipresse.hit.gemius.pl^$domain=przyslijprzepis.pl
 ||egorzow.pl^*-pzu_gorzow_mieszka.
 ||ekologia.guru^*^baner03.
 ||ekologia.guru^*^seo.
@@ -293,6 +294,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ogloszeniadrobne.warszawa.pl^*^spedgear.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
+||onnetwork.tv^$domain=donald.pl
 ||ono24.info^*^sad^
 ||partner.rankomat.pl/tracking/media^$image,third-party
 ||partner.rankomat.pl^$domain=skionline.pl
@@ -401,5 +403,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||onnetwork.tv^$domain=donald.pl
-||edipresse.hit.gemius.pl^$domain=przyslijprzepis.pl

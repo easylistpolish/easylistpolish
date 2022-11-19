@@ -21,6 +21,7 @@ dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
+przyslijprzepis.pl###adl-placement-0-container
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
@@ -168,7 +169,7 @@ biegowki.pl###makler42
 skipol.pl###makler7
 skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
-tu.swinoujscie.pl###media_image-11
+tu.swinoujscie.pl,tyna.info.pl###media_image-11
 tonaszregion.pl###media_image-134
 gazetatrybunalska.info###media_image-15
 wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
@@ -568,6 +569,7 @@ bielskiedrogi.pl,czecho.pl,czechowice.tv,pless.pl,pszczyna.tv##.blok-billboard
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
+przyslijprzepis.pl##.bm-ad-placement
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.bmm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
@@ -595,7 +597,7 @@ infoserwiselk.pl##.btop
 ki24.info##.bvideo
 wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
-ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,pultusk24.pl,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
+ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
@@ -690,11 +692,14 @@ skript.pl##.fuckAdBlock
 slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
+gazetacz.com.pl##.gazet-banner-gorny
 gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
+gazetacz.com.pl##.gazet-pod-menu
 gazetalubliniecka.pl##.gazet-vip1
 gazetarumska.pl##.gazet-w-artykule-reklama
+gazetacz.com.pl##.gazet-widget
 gazetalubliniecka.pl##.gazet-wpisy2
 lubartow24.pl##.gazetka-box
 24gliwice.pl##.gliwi-a1-gora-portalu
@@ -865,8 +870,10 @@ sportowetempo.pl##.ogloszenia
 tko.pl##.oln-desktop_a
 tko.pl##.oln-sticky
 e-szczuczyn.pl##.one-1 .post-content
+donald.pl##.onnetwork_ad
 okkolobrzeg.pl##.ot-home-block
 stefczyk.info##.our-sites-links
+przyslijprzepis.pl##.outerstitial-container
 nowykamieniarz.pl##.outerwide
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
@@ -882,6 +889,7 @@ nysahot.pl##.penci-featured-ct
 oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
+przyslijprzepis.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 rowerowa.pl##.placement
@@ -1019,6 +1027,8 @@ meska-kuchnia.pl##.sw-inner a[href^="https://dietetykwmiescie.pl"]
 biznesregion.pl,super-nowa.pl##.syl-baner-place
 2x45.info##.system_banner
 skarzysko24.pl##.t3-sidebar .custom a
+tabletowo.pl##.tabad
+tabletowo.pl##.table-adlabel
 112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,goniec.net,i-basket.pl,icelandnews.is,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,interameryka.com,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,naszosie.pl,niebywalesuwalki.pl,noweinfo.pl,portalprzemyslowy.pl,portfelpolaka.pl,poscigi.pl,probasket.pl,progressforpoland.com,proskarzysko.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sporteuro.pl,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,twojezaglebie.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 gazetaregionalna.com##.td-a-rec a
@@ -1112,6 +1122,8 @@ trybun.org.pl##.widget_widget_simplecatch_adspace_widget
 swidnik.pl##.widgetable > a > img
 radioostrowiec.pl##.widgettitle-reklama
 radomsport.pl##.wiersz_news a[target="_blank"] > img
+tyna.info.pl##.wp-image-140901
+tyna.info.pl##.wp-image-186232
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 nowawrzesnia.pl##.wpb_images_carousel
 okraglemiasto.pl##.wpb_left-to-right
@@ -1481,7 +1493,7 @@ signs.pl##div[id^="adibadi"]
 lublin24.pl##div[id^="adr_placement_"]
 edziecko.pl,haps.pl,plotek.pl##div[id^="ads"]
 pod24.info##div[id^="adv"]
-konecki24.pl##div[id^="bills_in_rotation_"]
+konecki24.pl,szczecinek.com##div[id^="bills_in_rotation_"]
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
 czest.info##div[id^="block-block-"] a > img
@@ -1590,18 +1602,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-donald.pl##.onnetwork_ad
-tyna.info.pl##.wp-image-140901 
-tyna.info.pl##.wp-image-186232 
-tyna.info.pl###media_image-11
-szczecinek.com##.c-content__adv 
-szczecinek.com##div[id^="bills_in_rotation_"]
-gazetacz.com.pl##.gazet-banner-gorny  
-gazetacz.com.pl##.gazet-pod-menu
-gazetacz.com.pl##.gazet-widget
-tabletowo.pl##.table-adlabel  
-tabletowo.pl##.tabad
-przyslijprzepis.pl##.bm-ad-placement  
-przyslijprzepis.pl##.outerstitial-container  
-przyslijprzepis.pl##.pending-ad
-przyslijprzepis.pl###adl-placement-0-container
