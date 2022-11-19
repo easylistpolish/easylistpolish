@@ -1601,3 +1601,4 @@ gazetacz.com.pl##.gazet-pod-menu
 gazetacz.com.pl##.gazet-widget
 tabletowo.pl##.table-adlabel  
 tabletowo.pl##.tabad
+przyslijprzepis.pl##.bm-ad-placement  
