@@ -1597,3 +1597,4 @@ tyna.info.pl###media_image-11
 szczecinek.com##.c-content__adv 
 szczecinek.com##div[id^="bills_in_rotation_"]
 gazetacz.com.pl##.gazet-banner-gorny  
+gazetacz.com.pl##.gazet-pod-menu
