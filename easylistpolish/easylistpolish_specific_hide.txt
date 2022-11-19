@@ -1592,3 +1592,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 donald.pl##.onnetwork_ad
 tyna.info.pl##.wp-image-140901 
+tyna.info.pl##.wp-image-186232 
