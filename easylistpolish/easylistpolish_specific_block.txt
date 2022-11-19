@@ -402,3 +402,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||onnetwork.tv^$domain=donald.pl
+||edipresse.hit.gemius.pl^$domain=przyslijprzepis.pl
