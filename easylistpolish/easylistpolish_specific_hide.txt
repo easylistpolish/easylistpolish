@@ -1594,3 +1594,4 @@ donald.pl##.onnetwork_ad
 tyna.info.pl##.wp-image-140901 
 tyna.info.pl##.wp-image-186232 
 tyna.info.pl###media_image-11
+szczecinek.com##.c-content__adv 
