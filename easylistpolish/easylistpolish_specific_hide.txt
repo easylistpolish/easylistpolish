@@ -1605,3 +1605,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 glamour.pl##.bm-ad-placement
 glamour.pl##.outerstitial-container
 glamour.pl##.pending-ad
+glamour.pl###adl-placement-0-container
