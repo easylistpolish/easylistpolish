@@ -21,7 +21,8 @@ dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
-przyslijprzepis.pl###adl-placement-0-container
+burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
+national-geographic.pl###adl-placement-0-wrapper
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
@@ -400,6 +401,7 @@ silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
 echosredzkie.pl,express-miejski.pl##.adesplace
 tvn24.pl##.ado-placeholder
+national-geographic.pl##.adrWrapper
 24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
@@ -569,7 +571,7 @@ bielskiedrogi.pl,czecho.pl,czechowice.tv,pless.pl,pszczyna.tv##.blok-billboard
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
-przyslijprzepis.pl##.bm-ad-placement
+burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.bmm1
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
@@ -595,7 +597,7 @@ poscigi.pl##.bsaProContainerNew
 ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
-wizaz.pl##.c-ad-placement
+mamotoja.pl,wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
 ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
@@ -655,8 +657,8 @@ swinoujskie.info##.e3lan
 terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
 radiofon.fm##.easingslider
 ele24.net##.eb-modules-banner-nad-newsem
-viva.pl##.ecomm-offer
-mamotoja.pl##.ecomm-wrapper
+ilewazy.pl,viva.pl##.ecomm-offer
+ilewazy.pl,mamotoja.pl##.ecomm-wrapper
 sweetwedding.pl##.ecrosio-header-slider
 zkaszub.info##.edd
 kb.pl##.element-click
@@ -873,7 +875,7 @@ e-szczuczyn.pl##.one-1 .post-content
 donald.pl##.onnetwork_ad
 okkolobrzeg.pl##.ot-home-block
 stefczyk.info##.our-sites-links
-przyslijprzepis.pl##.outerstitial-container
+burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.outerstitial-container
 nowykamieniarz.pl##.outerwide
 telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
@@ -889,7 +891,7 @@ nysahot.pl##.penci-featured-ct
 oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
-przyslijprzepis.pl##.pending-ad
+burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 rowerowa.pl##.placement
@@ -1602,28 +1604,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-glamour.pl##.bm-ad-placement
-glamour.pl##.outerstitial-container
-glamour.pl##.pending-ad
-glamour.pl###adl-placement-0-container
-mojpieknyogrod.pl##.bm-ad-placement
-mojpieknyogrod.pl##.outerstitial-container
-mojpieknyogrod.pl##.pending-ad
-mojpieknyogrod.pl###adl-placement-0-container
-burda.pl##.bm-ad-placement
-burda.pl##.outerstitial-container
-burda.pl##.pending-ad
-burda.pl###adl-placement-0-container
-ilewazy.pl##.ecomm-offer
-ilewazy.pl##.ecomm-wrapper
-kobieta.pl##.bm-ad-placement
-kobieta.pl##.outerstitial-container
-kobieta.pl##.pending-ad
-kobieta.pl###adl-placement-0-container
-mamotoja.pl##.c-ad-placement
-mamotoja.pl##.pending-ad
-national-geographic.pl##.adrWrapper
-national-geographic.pl##.bm-ad-placement
-national-geographic.pl##.outerstitial-container
-national-geographic.pl##.pending-ad
-national-geographic.pl###adl-placement-0-wrapper
