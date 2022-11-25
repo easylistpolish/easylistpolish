@@ -1621,3 +1621,4 @@ kobieta.pl##.outerstitial-container
 kobieta.pl##.pending-ad
 kobieta.pl###adl-placement-0-container
 mamotoja.pl##.c-ad-placement
+mamotoja.pl##.pending-ad
