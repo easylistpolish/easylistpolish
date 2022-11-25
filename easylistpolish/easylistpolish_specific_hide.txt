@@ -1617,3 +1617,4 @@ burda.pl###adl-placement-0-container
 ilewazy.pl##.ecomm-offer
 ilewazy.pl##.ecomm-wrapper
 kobieta.pl##.bm-ad-placement
+kobieta.pl##.outerstitial-container
