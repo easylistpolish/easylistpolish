@@ -1618,3 +1618,4 @@ ilewazy.pl##.ecomm-offer
 ilewazy.pl##.ecomm-wrapper
 kobieta.pl##.bm-ad-placement
 kobieta.pl##.outerstitial-container
+kobieta.pl##.pending-ad
