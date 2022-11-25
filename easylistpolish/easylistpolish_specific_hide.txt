@@ -1624,3 +1624,4 @@ mamotoja.pl##.c-ad-placement
 mamotoja.pl##.pending-ad
 national-geographic.pl##.adrWrapper
 national-geographic.pl##.bm-ad-placement
+national-geographic.pl##.outerstitial-container
