@@ -1615,3 +1615,4 @@ burda.pl##.outerstitial-container
 burda.pl##.pending-ad
 burda.pl###adl-placement-0-container
 ilewazy.pl##.ecomm-offer
+ilewazy.pl##.ecomm-wrapper
