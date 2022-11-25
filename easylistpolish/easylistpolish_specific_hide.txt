@@ -710,7 +710,7 @@ gorzow24.pl##.gml
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
-money.pl##.grid-item—wpapiad
+money.pl##.grid-item-wpapiad
 nowiny24.pl,nowosci.com.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
@@ -757,7 +757,7 @@ iloveslubice.pl##.ilove-boczna-b2-300x250
 tubalecznej.pl##.img-fluid
 6krokow.pl##.img_rkl
 autoline.com.pl##.index-bns
-money.pl##.insert—top-offer
+money.pl##.insert-top-offer
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
 forum.motocyklistow.pl##.ipsSpacer_both
 forum.optymalizacja.com##.ipsWidget_vertical > center img
