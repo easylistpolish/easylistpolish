@@ -1608,3 +1608,4 @@ glamour.pl##.pending-ad
 glamour.pl###adl-placement-0-container
 mojpieknyogrod.pl##.bm-ad-placement
 mojpieknyogrod.pl##.outerstitial-container
+mojpieknyogrod.pl##.pending-ad
