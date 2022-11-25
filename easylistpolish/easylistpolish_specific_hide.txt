@@ -1623,3 +1623,4 @@ kobieta.pl###adl-placement-0-container
 mamotoja.pl##.c-ad-placement
 mamotoja.pl##.pending-ad
 national-geographic.pl##.adrWrapper
+national-geographic.pl##.bm-ad-placement
