@@ -1604,3 +1604,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 glamour.pl##.bm-ad-placement
 glamour.pl##.outerstitial-container
+glamour.pl##.pending-ad
