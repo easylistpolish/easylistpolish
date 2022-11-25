@@ -1610,3 +1610,4 @@ mojpieknyogrod.pl##.bm-ad-placement
 mojpieknyogrod.pl##.outerstitial-container
 mojpieknyogrod.pl##.pending-ad
 mojpieknyogrod.pl###adl-placement-0-container
+burda.pl##.bm-ad-placement
