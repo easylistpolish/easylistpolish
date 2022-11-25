@@ -1626,3 +1626,4 @@ national-geographic.pl##.adrWrapper
 national-geographic.pl##.bm-ad-placement
 national-geographic.pl##.outerstitial-container
 national-geographic.pl##.pending-ad
+national-geographic.pl###adl-placement-0-wrapper
