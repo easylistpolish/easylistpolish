@@ -1606,4 +1606,5 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 party.pl##.ecomm-wrapper
 party.pl##.c-ad-placement
+party.pl##.pending-ad
 
