@@ -1608,3 +1608,4 @@ party.pl##.ecomm-wrapper
 party.pl##.c-ad-placement
 party.pl##.pending-ad
 party.pl###adl-placement-0-wrapper
+polki.pl##.pending-ad
