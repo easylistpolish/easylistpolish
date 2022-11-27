@@ -1607,4 +1607,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 party.pl##.ecomm-wrapper
 party.pl##.c-ad-placement
 party.pl##.pending-ad
-
+party.pl###adl-placement-0-wrapper
