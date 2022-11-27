@@ -1617,3 +1617,4 @@ wizaz.pl##.ecomm-wrapper
 legio24.pl##.news-slot-center
 radioemaus.pl##.elementor-image  
 radioemaus.pl##.elementor-text-editor
+dziennikzachodni.pl##.atomsPromotionsBanner__link  
