@@ -22,7 +22,7 @@ fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
 burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
-national-geographic.pl###adl-placement-0-wrapper
+national-geographic.pl,party.pl,polki.pl,viva.pl,wizaz.pl###adl-placement-0-wrapper
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
@@ -474,6 +474,7 @@ gazetarumska.pl##.articleBottom-ads
 parenting.pl##.article__textbox
 posbud.com.pl##.as_marquee0
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl##.atomsAdsCellModel
+dziennikzachodni.pl##.atomsPromotionsBanner__link
 glospedagogiczny.pl##.auto-pr-block > a
 dtv24.pl##.awac-wrapper
 przegladoponiarski.pl##.axd > a[target="_blank"]
@@ -597,7 +598,7 @@ poscigi.pl##.bsaProContainerNew
 ekstraklasatrolls.pl##.bsaProItems
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
-mamotoja.pl,wizaz.pl##.c-ad-placement
+mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
 ciechanowinaczej.pl,e-kg.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
@@ -621,6 +622,7 @@ radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
 gol24.pl##.componentsPromotionsArticlePromotedList
+dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 malagacf.pl##.container a[href="/go/sts"]
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 comparic.pl##.container16,.container11
@@ -658,12 +660,14 @@ terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
 radiofon.fm##.easingslider
 ele24.net##.eb-modules-banner-nad-newsem
 ilewazy.pl,viva.pl##.ecomm-offer
-ilewazy.pl,mamotoja.pl##.ecomm-wrapper
+ilewazy.pl,mamotoja.pl,party.pl,wizaz.pl##.ecomm-wrapper
 sweetwedding.pl##.ecrosio-header-slider
 zkaszub.info##.edd
 kb.pl##.element-click
+radioemaus.pl##.elementor-image
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
 ecopoznan.pl##.elementor-shortcode
+radioemaus.pl##.elementor-text-editor
 iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
 gloslodzi.pl##.entry_content
@@ -856,6 +860,7 @@ fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
+legio24.pl##.news-slot-center
 naszwodzislaw.com##.news_box_google
 naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
@@ -891,7 +896,7 @@ nysahot.pl##.penci-featured-ct
 oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
-burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.pending-ad
+burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,party.pl,polki.pl,przyslijprzepis.pl,viva.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 rowerowa.pl##.placement
@@ -1604,18 +1609,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-party.pl##.ecomm-wrapper
-party.pl##.c-ad-placement
-party.pl##.pending-ad
-party.pl###adl-placement-0-wrapper
-polki.pl##.pending-ad
-polki.pl###adl-placement-0-wrapper
-viva.pl##.pending-ad
-viva.pl###adl-placement-0-wrapper
-wizaz.pl###adl-placement-0-wrapper
-wizaz.pl##.ecomm-wrapper
-legio24.pl##.news-slot-center
-radioemaus.pl##.elementor-image  
-radioemaus.pl##.elementor-text-editor
-dziennikzachodni.pl##.atomsPromotionsBanner__link  
-dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
