@@ -1613,3 +1613,4 @@ polki.pl###adl-placement-0-wrapper
 viva.pl##.pending-ad
 viva.pl###adl-placement-0-wrapper
 wizaz.pl###adl-placement-0-wrapper
+wizaz.pl##.ecomm-wrapper
