@@ -1610,3 +1610,4 @@ party.pl##.pending-ad
 party.pl###adl-placement-0-wrapper
 polki.pl##.pending-ad
 polki.pl###adl-placement-0-wrapper
+viva.pl##.pending-ad
