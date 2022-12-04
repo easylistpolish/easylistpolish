@@ -1613,3 +1613,4 @@ whatnext.pl##.sidebar-widget
 whatnext.pl##.wnbad 
 hdtvpolska.com##.sdWelcomeScreenRow
 netkonkret.pl##.td-a-rec-id-custom-spot
+netkonkret.pl##.td-a-rec
