@@ -1612,3 +1612,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 whatnext.pl##.sidebar-widget  
 whatnext.pl##.wnbad 
 hdtvpolska.com##.sdWelcomeScreenRow
+netkonkret.pl##.td-a-rec-id-custom-spot
