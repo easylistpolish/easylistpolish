@@ -1618,3 +1618,4 @@ swiatoze.pl##.code-block
 eska.pl##.article__placement 
 eska.pl##.zpr_hp2  
 eska.pl##.stm-shopping-container  
+eska.pl##.zpr_hp3  
