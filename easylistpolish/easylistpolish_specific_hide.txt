@@ -1500,6 +1500,7 @@ signs.pl##div[id^="adibadi"]
 lublin24.pl##div[id^="adr_placement_"]
 edziecko.pl,haps.pl,plotek.pl##div[id^="ads"]
 pod24.info##div[id^="adv"]
+wykop.pl,www-wykop-pl.translate.goog##[id^="banner_top_"]
 konecki24.pl,szczecinek.com##div[id^="bills_in_rotation_"]
 starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://starachowicki.eu/"])
 szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
