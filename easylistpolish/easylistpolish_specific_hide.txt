@@ -1615,3 +1615,4 @@ hdtvpolska.com##.sdWelcomeScreenRow
 netkonkret.pl##.td-a-rec-id-custom-spot
 netkonkret.pl##.td-a-rec
 swiatoze.pl##.code-block
+eska.pl##.article__placement 
