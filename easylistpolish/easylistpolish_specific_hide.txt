@@ -1622,3 +1622,4 @@ eska.pl##.zpr_hp3
 eska.pl##.zpr_box_side_bottom  
 eska.pl##.zpr_bottom_1
 divers24.pl##._ning_jss_zone
+naekranie.pl##.screening-banner
