@@ -625,6 +625,7 @@ nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
 gol24.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
+meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 comparic.pl##.container16,.container11
@@ -691,6 +692,7 @@ ftb.pl##.footav
 jbzd.com.pl##.footer-mobile
 laczynaspilka.pl##.footer-partners
 telchina.pl##.forabg
+meczyki.pl##.frame-wrapper > *
 wronieckibazar.pl##.fright
 wronieckibazar.pl##.fright + div
 wronieckibazar.pl##.fright + div + div
@@ -1624,5 +1626,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-meczyki.pl##.container > div[data-area-id]
-meczyki.pl##.frame-wrapper > *
