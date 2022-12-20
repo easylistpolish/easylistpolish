@@ -1630,3 +1630,4 @@ eglos.pl##.baner
 panoramakutna.pl##.tdi_28  
 panoramakutna.pl##.adnotacja
 meczyki.pl##.placeholder
+weszlo.com##a[href^="https://fuksiarz.pl/"]
