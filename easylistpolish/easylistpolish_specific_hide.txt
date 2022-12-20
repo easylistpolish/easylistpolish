@@ -1629,3 +1629,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 eglos.pl##.baner
 panoramakutna.pl##.tdi_28  
 panoramakutna.pl##.adnotacja
+meczyki.pl##.placeholder
