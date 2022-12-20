@@ -1635,3 +1635,4 @@ kliknijwzdrowie.pl##.wpb_content_element
 polskikosz.pl##.attachment-full
 kresy.pl##.gbcfxawvaHsi
 speedwaynews.pl##.slider-item 
+speedwaynews.pl##.has-text-align-center
