@@ -1633,3 +1633,4 @@ meczyki.pl##.placeholder
 weszlo.com##a[href^="https://fuksiarz.pl/"]
 kliknijwzdrowie.pl##.wpb_content_element
 polskikosz.pl##.attachment-full
+kresy.pl##.gbcfxawvaHsi
