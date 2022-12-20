@@ -1636,3 +1636,4 @@ polskikosz.pl##.attachment-full
 kresy.pl##.gbcfxawvaHsi
 speedwaynews.pl##.slider-item 
 speedwaynews.pl##.has-text-align-center
+raportkolejowy.pl##.footbottombar
