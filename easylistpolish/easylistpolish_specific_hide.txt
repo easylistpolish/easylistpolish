@@ -1676,3 +1676,4 @@ satkurier.pl###sky_left_container
 techfanik.pl##.reklama-ugory
 starosadeckie.info##.wp-image-214448
 ostrowite.info##.a-68  
+ostrowite.info##.a-46  
