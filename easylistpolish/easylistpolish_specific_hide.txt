@@ -1652,3 +1652,4 @@ nasz-glos.com##.code-block
 glosfizjoterapeuty.pl##.angwp_3524  
 glosfizjoterapeuty.pl##.angwp_3528
 lokalna24.pl##.d-inline-block
+spidersweb.pl##.newAd
