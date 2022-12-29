@@ -4,6 +4,7 @@ signs.pl###BD
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
+gazeta.pl###DFP-011-MIDBOARD_66916657
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
@@ -38,6 +39,8 @@ urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
 tuhiszpania.pl###b_searchboxInc
+gazeta.pl###banC1
+gazeta.pl###banC99
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 genetyczne.pl###baner-gorny
@@ -401,6 +404,8 @@ karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
 echosredzkie.pl,express-miejski.pl##.adesplace
+gazetabilgoraj.pl##.adloc-before-header
+gazetabilgoraj.pl##.adloc-leftskyscraper
 panoramakutna.pl##.adnotacja
 tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
@@ -489,7 +494,7 @@ echogorzowa.pl##.ba
 swinoujskie.info##.background-cover
 koty24.pl##.ban-71
 badaniaprenatalne.pl##.ban-top
-plotek.pl##.ban001_wrapper
+gazeta.pl,plotek.pl##.ban001_wrapper
 edziecko.pl,haps.pl,plotek.pl,sport.pl##.banLabel
 pulskwidzyna.pl##.banToper
 asta24.pl,ddwlkp.pl,eglos.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pojezierze24.pl,polskicaravaning.pl,pzl24.info,swiatkarinki.pl,warsztat.pl,wygasle.net##.baner
@@ -600,6 +605,7 @@ cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
 poscigi.pl##.bsaProContainerNew
 ekstraklasatrolls.pl##.bsaProItems
+gazetabilgoraj.pl##.bsac-align-center
 infoserwiselk.pl##.btop
 ki24.info##.bvideo
 mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
@@ -646,6 +652,7 @@ tczewska.pl##.cycle-slideshow
 wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
+eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
 garnek.pl##.dbb
 24opole.pl##.dd
 tubawyszkowa.pl##.dimmer
@@ -702,6 +709,7 @@ wronieckibazar.pl##.fright + div + div
 starosadeckie.info##.front-medium
 starosadeckie.info##.front-top
 skript.pl##.fuckAdBlock
+agronews.com.pl##.g
 slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
@@ -803,6 +811,7 @@ ototorun.pl##.l-box--100 > p > a[target="_self"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
 debica24.eu##.l-box--99
 radiorodzina.pl##.left-large-ad
+dziennikpowiatowy.pl,gazetamyszkowska.pl,narew.info,portalwloclawek.pl,radiosochaczew.pl,zycieolsztyna.pl##.legal-notice
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
 24piaseczno.pl,24slupsk.pl,bedzinski24.pl,belchatowski24.pl,bielskonews.pl,chrzanowski24.pl,ciechanowski24.pl,cieszynonline.pl,czestochowanews.pl,dabrowski24.pl,e-starachowice.pl,echobialystok.pl,echolegnica.pl,echowarszawy.pl,elblagonline.pl,elckie.pl,faktybytom.pl,faktykrakowa.pl,faktyopole.pl,faktypoznan.pl,faktyrzeszow.pl,faktywroclaw.pl,gizycko360.pl,gliwiceonline.pl,glogowski24.pl,glosgdanska.pl,grodziski24.pl,halokonin.pl,halotorun.pl,infochelm.pl,infojaworzno.pl,infolomza.pl,infopabianice.pl,infopiotrkow.pl,informacjekoszalin.pl,informacjelodzkie.pl,inforuda.pl,irybnik.pl,jastrzebienews.pl,katowicelove.pl,kielceinfo.pl,kochamsiedlce.pl,krzeszowiceinfo.pl,leszczynski24.pl,lubinski24.pl,lubliniec360.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,mojzgierz.pl,naszkedzierzyn.pl,newsynowodworskie.pl,nowosadecki24.pl,olkuszonline.pl,ostrolecki24.pl,oswieciminfo.pl,otososnowiec.pl,owlkp.pl,piekaryonline.pl,portalkalisz.pl,portalwalbrzych.pl,portalzielonagora.pl,portalzory.pl,przemyslonline.pl,pulsbydgoszczy.pl,raciborski24.pl,siemianowicki24.pl,stalowanews.pl,stargardlokalnie.pl,suwalkinews.pl,swidnicanews.pl,swietochlowiceonline.pl,szczecin4u.pl,tarnowskie24.pl,terazgniezno.pl,tomaszowonline.pl,tuzamosc.pl,twojagdynia.pl,twojelegionowo.pl,wejherowski24.pl,wiadomoscilublin.pl,wiadomosciolsztyn.pl,wiadomosciplock.pl,wiadomosciwadowice.pl,wostrowcu.pl,wpruszkowie.pl,wrotachorzowa.pl,wrotagrudziadza.pl,wrotatarnowa.pl,wrotazabrza.pl,zawiercieonline.pl,zywieconline.pl##.link-right
@@ -1073,11 +1082,13 @@ iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
 wirtualnyregion.eu##.tdc-row .cycloneslider
 panoramakutna.pl##.tdi_28
+agronews.com.pl##.tdi_29
+agronews.com.pl##.tdi_31
 onetontour.pl##.test-drive-banner
 lifemanagerka.pl##.text-5
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
-spece.it##.textwidget
+bociany.tv,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
@@ -1099,7 +1110,7 @@ mojaniderlandia.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
 mojewronki.pl##.topbar-inner
 gazeta-mosina.pl##.topblock
-naszrynek.pl##.toplayer
+naszrynek.pl,portalwloclawek.pl##.toplayer
 synonimy.pl##.translation-badge
 slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
@@ -1152,11 +1163,12 @@ whatnext.pl##.wnbad
 tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
 leszczynskisport.pl##.wpb_animate_when_almost_visible
-kliknijwzdrowie.pl##.wpb_content_element
+gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 nowawrzesnia.pl##.wpb_images_carousel
 okraglemiasto.pl##.wpb_left-to-right
 noweinfo.pl##.wpb_text_column img[width="300"]
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
+igrit.pl##.wrapper
 wbaziefirm.pl##.wrapper-flash
 facetpo40.pl##.wrapper_smallimages
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
@@ -1636,34 +1648,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-igrit.pl##.wrapper
-agronews.com.pl##.g  
-agronews.com.pl##.tdi_29  
-agronews.com.pl##.tdi_31  
-gazeta.pl###banC1  
-gazeta.pl##.ban001_wrapper 
-gazeta.pl###banC99 
-gazeta.pl###DFP-011-MIDBOARD_66916657 
-narew.info##.legal-notice
-eluban.pl##.d-inline-block
-kronikatygodnia.pl##.d-inline-block 
-faktykaliskie.info##.d-inline-block
-tczewska.pl##.d-inline-block
-kwidzyn1.pl##.d-inline-block
-expresselblag.pl##.d-inline-block
-gazetamyszkowska.pl##.legal-notice
-portalwloclawek.pl##.legal-notice  
-portalwloclawek.pl##.toplayer
-zycieolsztyna.pl##.legal-notice
-radiosochaczew.pl##.legal-notice
-dziennikpowiatowy.pl##.legal-notice
-tarnowska.tv##.d-inline-block
-supertydzien.pl##.d-inline-block
-halogorlice.info##.d-inline-block
-strzelce360.pl##.d-inline-block
-bociany.tv##.textwidget
-gazetabilgoraj.pl##.adloc-before-header  
-gazetabilgoraj.pl##.adloc-leftskyscraper  
-gazetabilgoraj.pl##.bsac-align-center  
-gazetabilgoraj.pl##.wpb_content_element
-milicka.eu##.wpb_content_element
