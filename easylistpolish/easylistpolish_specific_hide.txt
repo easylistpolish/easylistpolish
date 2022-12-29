@@ -1686,3 +1686,4 @@ koscierski.info##.c-content__adv
 fakty.nl##.bannergroupclear  
 fakty.nl##.bannergroup
 tarnobrzeg.info##.wp-container-2 
+tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
