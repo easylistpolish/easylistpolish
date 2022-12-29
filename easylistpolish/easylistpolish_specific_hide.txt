@@ -669,7 +669,7 @@ tczewska.pl##.cycle-slideshow
 wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
-eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
+eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,malbork1.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
 garnek.pl##.dbb
 24opole.pl##.dd
 tubawyszkowa.pl##.dimmer
@@ -832,7 +832,7 @@ nolesnica.pl##.l-box--100 a[target="_blank"]
 goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
 radiorodzina.pl##.left-large-ad
-dziennikpowiatowy.pl,gazetamyszkowska.pl,narew.info,portalwloclawek.pl,radiosochaczew.pl,zycieolsztyna.pl##.legal-notice
+dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,portalwloclawek.pl,radiosochaczew.pl,zycieolsztyna.pl##.legal-notice
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
 24piaseczno.pl,24slupsk.pl,bedzinski24.pl,belchatowski24.pl,bielskonews.pl,chrzanowski24.pl,ciechanowski24.pl,cieszynonline.pl,czestochowanews.pl,dabrowski24.pl,e-starachowice.pl,echobialystok.pl,echolegnica.pl,echowarszawy.pl,elblagonline.pl,elckie.pl,faktybytom.pl,faktykrakowa.pl,faktyopole.pl,faktypoznan.pl,faktyrzeszow.pl,faktywroclaw.pl,gizycko360.pl,gliwiceonline.pl,glogowski24.pl,glosgdanska.pl,grodziski24.pl,halokonin.pl,halotorun.pl,infochelm.pl,infojaworzno.pl,infolomza.pl,infopabianice.pl,infopiotrkow.pl,informacjekoszalin.pl,informacjelodzkie.pl,inforuda.pl,irybnik.pl,jastrzebienews.pl,katowicelove.pl,kielceinfo.pl,kochamsiedlce.pl,krzeszowiceinfo.pl,leszczynski24.pl,lubinski24.pl,lubliniec360.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,mojzgierz.pl,naszkedzierzyn.pl,newsynowodworskie.pl,nowosadecki24.pl,olkuszonline.pl,ostrolecki24.pl,oswieciminfo.pl,otososnowiec.pl,owlkp.pl,piekaryonline.pl,portalkalisz.pl,portalwalbrzych.pl,portalzielonagora.pl,portalzory.pl,przemyslonline.pl,pulsbydgoszczy.pl,raciborski24.pl,siemianowicki24.pl,stalowanews.pl,stargardlokalnie.pl,suwalkinews.pl,swidnicanews.pl,swietochlowiceonline.pl,szczecin4u.pl,tarnowskie24.pl,terazgniezno.pl,tomaszowonline.pl,tuzamosc.pl,twojagdynia.pl,twojelegionowo.pl,wejherowski24.pl,wiadomoscilublin.pl,wiadomosciolsztyn.pl,wiadomosciplock.pl,wiadomosciwadowice.pl,wostrowcu.pl,wpruszkowie.pl,wrotachorzowa.pl,wrotagrudziadza.pl,wrotatarnowa.pl,wrotazabrza.pl,zawiercieonline.pl,zywieconline.pl##.link-right
@@ -1121,6 +1121,7 @@ starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
+malbork1.pl##.tipad_tag
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
@@ -1678,6 +1679,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-malbork1.pl##.tipad_tag  
-malbork1.pl##.d-inline-block  
-koscierzyna24.info##.legal-notice
