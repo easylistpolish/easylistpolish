@@ -119,6 +119,7 @@ slowotrojmiasta.pl###efaro-widget
 hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
+nowywyszkowiak.pl###fancybox-close
 nowywyszkowiak.pl###fancybox-content
 woda-scieki.com###firms
 lublin112.pl###firmy-box-inner
@@ -695,6 +696,7 @@ kb.pl##.element-click
 radioemaus.pl##.elementor-image
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
 ecopoznan.pl##.elementor-shortcode
+radiobiper.info##.elementor-size-small
 radioemaus.pl##.elementor-text-editor
 iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
@@ -1069,7 +1071,8 @@ zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
 osp.com.pl##.sponsors-wrapper
 gazeta.myslenice.pl##.spot
-wysokomazowiecki24.pl##.sppb-addon-single-image-container
+miastokolobrzeg.pl,wysokomazowiecki24.pl##.sppb-addon-single-image-container
+miastokolobrzeg.pl##.sppb-text-center
 slowoseniora.pl##.spu-box
 portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
@@ -1675,7 +1678,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-miastokolobrzeg.pl##.sppb-addon-single-image-container  
-miastokolobrzeg.pl##.sppb-text-center
-radiobiper.info##.elementor-size-small
-nowywyszkowiak.pl###fancybox-close
