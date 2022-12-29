@@ -1642,3 +1642,4 @@ agronews.com.pl##.tdi_29
 agronews.com.pl##.tdi_31  
 gazeta.pl###banC1  
 gazeta.pl##.ban001_wrapper 
+gazeta.pl###banC99 
