@@ -1671,3 +1671,4 @@ ding.pl##.ad-box
 liderbudowlany.pl##.rozwijany  
 stronakuchni.pl##.atomsAdsCellModel
 satkurier.pl##.banner_750x100_r  
+satkurier.pl###idmnet_horizontal_top_750x100  
