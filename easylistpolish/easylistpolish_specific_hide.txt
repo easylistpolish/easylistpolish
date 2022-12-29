@@ -1660,3 +1660,4 @@ dziennikpowiatowy.pl##.legal-notice
 tarnowska.tv##.d-inline-block
 supertydzien.pl##.d-inline-block
 halogorlice.info##.d-inline-block
+strzelce360.pl##.d-inline-block
