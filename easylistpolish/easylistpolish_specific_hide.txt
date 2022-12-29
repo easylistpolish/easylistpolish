@@ -1654,3 +1654,4 @@ expresselblag.pl##.d-inline-block
 gazetamyszkowska.pl##.legal-notice
 portalwloclawek.pl##.legal-notice  
 portalwloclawek.pl##.toplayer
+zycieolsztyna.pl##.legal-notice
