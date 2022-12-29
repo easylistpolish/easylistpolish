@@ -1653,3 +1653,4 @@ kwidzyn1.pl##.d-inline-block
 expresselblag.pl##.d-inline-block
 gazetamyszkowska.pl##.legal-notice
 portalwloclawek.pl##.legal-notice  
+portalwloclawek.pl##.toplayer
