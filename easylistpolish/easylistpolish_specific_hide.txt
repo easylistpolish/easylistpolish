@@ -1654,3 +1654,4 @@ glosfizjoterapeuty.pl##.angwp_3528
 lokalna24.pl##.d-inline-block
 spidersweb.pl##.newAd
 weranda.pl##.banner_container  
+weranda.pl##.kat_slot_text  
