@@ -1684,3 +1684,4 @@ ostrowite.info##.a-69
 pomorzanie.info##.slider-2243
 koscierski.info##.c-content__adv
 fakty.nl##.bannergroupclear  
+fakty.nl##.bannergroup
