@@ -1685,3 +1685,4 @@ pomorzanie.info##.slider-2243
 koscierski.info##.c-content__adv
 fakty.nl##.bannergroupclear  
 fakty.nl##.bannergroup
+tarnobrzeg.info##.wp-container-2 
