@@ -1662,3 +1662,4 @@ weranda.pl##.gl_slot_text
 urzadzamy.pl##.placement__lazy  
 urzadzamy.pl##.article__placement  
 urzadzamy.pl##.zpr_hp3  
+urzadzamy.pl##.zpr_hp2
