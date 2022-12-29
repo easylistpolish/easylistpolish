@@ -1650,3 +1650,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nasz-glos.com##.code-block
 glosfizjoterapeuty.pl##.angwp_3524  
+glosfizjoterapeuty.pl##.angwp_3528
