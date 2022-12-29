@@ -1662,3 +1662,4 @@ supertydzien.pl##.d-inline-block
 halogorlice.info##.d-inline-block
 strzelce360.pl##.d-inline-block
 bociany.tv##.textwidget
+gazetabilgoraj.pl##.adloc-before-header  
