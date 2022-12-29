@@ -1660,3 +1660,4 @@ weranda.pl###sg_slot
 weranda.pl###gl_slot  
 weranda.pl##.gl_slot_text
 urzadzamy.pl##.placement__lazy  
+urzadzamy.pl##.article__placement  
