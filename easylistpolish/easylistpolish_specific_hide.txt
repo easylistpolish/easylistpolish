@@ -1666,3 +1666,4 @@ urzadzamy.pl##.zpr_hp2
 muratorplus.pl##.zpr_hp2  
 muratorplus.pl##.placement__lazy  
 muratorplus.pl##.zpr_hp3  
+muratorplus.pl##.article__placement
