@@ -1688,3 +1688,4 @@ fakty.nl##.bannergroup
 tarnobrzeg.info##.wp-container-2 
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 goral.info.pl##.l-box--25
+iotwock.info##.c-content__adv
