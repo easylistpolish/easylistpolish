@@ -1669,3 +1669,4 @@ muratorplus.pl##.zpr_hp3
 muratorplus.pl##.article__placement
 ding.pl##.ad-box
 liderbudowlany.pl##.rozwijany  
+stronakuchni.pl##.atomsAdsCellModel
