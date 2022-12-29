@@ -1678,3 +1678,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 miastokolobrzeg.pl##.sppb-addon-single-image-container  
 miastokolobrzeg.pl##.sppb-text-center
 radiobiper.info##.elementor-size-small
+nowywyszkowiak.pl###fancybox-close
