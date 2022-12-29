@@ -1649,3 +1649,4 @@ eluban.pl##.d-inline-block
 kronikatygodnia.pl##.d-inline-block 
 faktykaliskie.info##.d-inline-block
 tczewska.pl##.d-inline-block
+kwidzyn1.pl##.d-inline-block
