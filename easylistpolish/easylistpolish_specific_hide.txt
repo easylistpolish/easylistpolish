@@ -1666,3 +1666,4 @@ gazetabilgoraj.pl##.adloc-before-header
 gazetabilgoraj.pl##.adloc-leftskyscraper  
 gazetabilgoraj.pl##.bsac-align-center  
 gazetabilgoraj.pl##.wpb_content_element
+milicka.eu##.wpb_content_element
