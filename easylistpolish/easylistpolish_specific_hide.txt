@@ -1682,3 +1682,4 @@ ostrowite.info##.a-5
 ostrowite.info##.a-14  
 ostrowite.info##.a-69  
 pomorzanie.info##.slider-2243
+koscierski.info##.c-content__adv
