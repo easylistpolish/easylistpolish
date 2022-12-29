@@ -1673,3 +1673,4 @@ stronakuchni.pl##.atomsAdsCellModel
 satkurier.pl##.banner_750x100_r  
 satkurier.pl###idmnet_horizontal_top_750x100  
 satkurier.pl###sky_left_container
+techfanik.pl##.reklama-ugory
