@@ -1652,3 +1652,4 @@ tczewska.pl##.d-inline-block
 kwidzyn1.pl##.d-inline-block
 expresselblag.pl##.d-inline-block
 gazetamyszkowska.pl##.legal-notice
+portalwloclawek.pl##.legal-notice  
