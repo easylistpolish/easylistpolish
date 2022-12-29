@@ -1651,3 +1651,4 @@ faktykaliskie.info##.d-inline-block
 tczewska.pl##.d-inline-block
 kwidzyn1.pl##.d-inline-block
 expresselblag.pl##.d-inline-block
+gazetamyszkowska.pl##.legal-notice
