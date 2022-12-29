@@ -1656,3 +1656,4 @@ portalwloclawek.pl##.legal-notice
 portalwloclawek.pl##.toplayer
 zycieolsztyna.pl##.legal-notice
 radiosochaczew.pl##.legal-notice
+dziennikpowiatowy.pl##.legal-notice
