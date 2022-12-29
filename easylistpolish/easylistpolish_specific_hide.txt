@@ -1679,3 +1679,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 malbork1.pl##.tipad_tag  
+malbork1.pl##.d-inline-block  
