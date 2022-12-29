@@ -1646,3 +1646,4 @@ gazeta.pl###banC99
 gazeta.pl###DFP-011-MIDBOARD_66916657 
 narew.info##.legal-notice
 eluban.pl##.d-inline-block
+kronikatygodnia.pl##.d-inline-block 
