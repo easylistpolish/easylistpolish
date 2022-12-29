@@ -1656,3 +1656,4 @@ spidersweb.pl##.newAd
 weranda.pl##.banner_container  
 weranda.pl##.kat_slot_text  
 weranda.pl###kat_slot  
+weranda.pl###sg_slot  
