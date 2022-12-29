@@ -1639,3 +1639,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 igrit.pl##.wrapper
 agronews.com.pl##.g  
 agronews.com.pl##.tdi_29  
+agronews.com.pl##.tdi_31  
