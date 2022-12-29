@@ -1658,3 +1658,4 @@ zycieolsztyna.pl##.legal-notice
 radiosochaczew.pl##.legal-notice
 dziennikpowiatowy.pl##.legal-notice
 tarnowska.tv##.d-inline-block
+supertydzien.pl##.d-inline-block
