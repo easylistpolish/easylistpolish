@@ -1682,3 +1682,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 comparic.pl##.td-banner-wrap-full
 plotek.pl##[id^="banC"]
 dziennikbaltycki.pl##.componentsPromotionsArticlePromotedList
+dlamaturzysty.info##.s_dodatkowa [class^="bnm bm"]
