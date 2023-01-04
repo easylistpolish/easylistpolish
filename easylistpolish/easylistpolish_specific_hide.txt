@@ -1680,3 +1680,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 comparic.pl##.td-banner-wrap-full
+plotek.pl##[id^="banC"]
