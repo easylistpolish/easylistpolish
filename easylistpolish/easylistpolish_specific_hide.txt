@@ -1695,3 +1695,4 @@ czestochowskie24.pl##.wp-image-274747
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/kierunkowskaz"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]  
 e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
+gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]   
