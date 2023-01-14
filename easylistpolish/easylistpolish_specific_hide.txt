@@ -1708,3 +1708,4 @@ echolubonia.pl##a[href="informacje/remontirenowacja/remontirenowacja.htm#zakladk
 echolubonia.pl##a[href="informacje/festiwal_piosenki_22/festiwal_piosenki_22.htm#REKLAMA"] 
 echolubonia.pl##a[href="informacje/audit_start_biznes/audit_start_biznes.htm#zakladka"]
 scigacz.pl###animation_container
+ipolska24.pl##._ning_zone_inner
