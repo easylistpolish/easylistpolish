@@ -1683,3 +1683,4 @@ wirtualnesuwalki.pl##.legal-notice
 iturek.net##.uk-heading-line
 tulodz.pl##a[href="https://beesafe.pl/"]  
 tulodz.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
+dobroni.pl##.c-content__adv
