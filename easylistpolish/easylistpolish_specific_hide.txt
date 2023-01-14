@@ -1704,3 +1704,4 @@ gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"] 
 gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
 tygodnikketrzynski.pl##.wp-image-216508
+echolubonia.pl##a[href="informacje/remontirenowacja/remontirenowacja.htm#zakladka"]  
