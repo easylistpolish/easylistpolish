@@ -1686,3 +1686,4 @@ tulodz.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
 dobroni.pl##.c-content__adv
 wterenie.pl##.adv--rectangle
 jaworzno.biz##.c-content__adv
+bbfan.pl##.c-content__adv
