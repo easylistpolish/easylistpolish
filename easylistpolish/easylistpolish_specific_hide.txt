@@ -33,6 +33,7 @@ filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
+scigacz.pl###animation_container
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
 urzadzamy.pl###article_zpr_shopping
@@ -366,6 +367,7 @@ kartuzy.info##._ad_loaded
 kartuzy.info,koscierski.info##._ap_ad
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 divers24.pl##._ning_jss_zone
+ipolska24.pl##._ning_zone_inner
 ostrowite.info##.a-11
 ostrowite.info##.a-14
 slupca.pl##.a-220
@@ -445,6 +447,7 @@ pl.hospitalby.com##.adsense
 cgm.pl,historykon.pl,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 nowezyciepabianic.pl##.adv--next-logo
+wterenie.pl##.adv--rectangle
 nowezyciepabianic.pl##.adv--top
 mma.pl##.adv-body-banner
 dlaprodukcji.pl##.adv-wide
@@ -599,7 +602,6 @@ czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
 burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
-avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##div.b > div
 newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
@@ -627,7 +629,7 @@ infoserwiselk.pl##.btop
 ki24.info##.bvideo
 mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
-ciechanowinaczej.pl,e-kg.pl,iotwock.info,izabelin24.pl,izyrardow.pl,kartuzy.info,konecki24.pl,koscierski.info,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
+bbfan.pl,ciechanowinaczej.pl,dobroni.pl,e-kg.pl,eprzasnysz.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,jaworzno.biz,kartuzy.info,konecki24.pl,koscierski.info,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,twojradom.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
@@ -648,7 +650,7 @@ wlodawa.net##.col-sm-4
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-gol24.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,gol24.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
@@ -827,12 +829,13 @@ pionki24.pl##.kozie-before-content-placement
 baby-shower.pl##.kwadratowa2
 24jgora.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
+izabelin24.pl##.l-box--100
 ototorun.pl##.l-box--100 > p > a[target="_self"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
 goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
 radiorodzina.pl##.left-large-ad
-dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,portalwloclawek.pl,radiosochaczew.pl,zycieolsztyna.pl##.legal-notice
+dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,portalwloclawek.pl,radiosochaczew.pl,wirtualnesuwalki.pl,zycieolsztyna.pl##.legal-notice
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
 24piaseczno.pl,24slupsk.pl,bedzinski24.pl,belchatowski24.pl,bielskonews.pl,chrzanowski24.pl,ciechanowski24.pl,cieszynonline.pl,czestochowanews.pl,dabrowski24.pl,e-starachowice.pl,echobialystok.pl,echolegnica.pl,echowarszawy.pl,elblagonline.pl,elckie.pl,faktybytom.pl,faktykrakowa.pl,faktyopole.pl,faktypoznan.pl,faktyrzeszow.pl,faktywroclaw.pl,gizycko360.pl,gliwiceonline.pl,glogowski24.pl,glosgdanska.pl,grodziski24.pl,halokonin.pl,halotorun.pl,infochelm.pl,infojaworzno.pl,infolomza.pl,infopabianice.pl,infopiotrkow.pl,informacjekoszalin.pl,informacjelodzkie.pl,inforuda.pl,irybnik.pl,jastrzebienews.pl,katowicelove.pl,kielceinfo.pl,kochamsiedlce.pl,krzeszowiceinfo.pl,leszczynski24.pl,lubinski24.pl,lubliniec360.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,mojzgierz.pl,naszkedzierzyn.pl,newsynowodworskie.pl,nowosadecki24.pl,olkuszonline.pl,ostrolecki24.pl,oswieciminfo.pl,otososnowiec.pl,owlkp.pl,piekaryonline.pl,portalkalisz.pl,portalwalbrzych.pl,portalzielonagora.pl,portalzory.pl,przemyslonline.pl,pulsbydgoszczy.pl,raciborski24.pl,siemianowicki24.pl,stalowanews.pl,stargardlokalnie.pl,suwalkinews.pl,swidnicanews.pl,swietochlowiceonline.pl,szczecin4u.pl,tarnowskie24.pl,terazgniezno.pl,tomaszowonline.pl,tuzamosc.pl,twojagdynia.pl,twojelegionowo.pl,wejherowski24.pl,wiadomoscilublin.pl,wiadomosciolsztyn.pl,wiadomosciplock.pl,wiadomosciwadowice.pl,wostrowcu.pl,wpruszkowie.pl,wrotachorzowa.pl,wrotagrudziadza.pl,wrotatarnowa.pl,wrotazabrza.pl,zawiercieonline.pl,zywieconline.pl##.link-right
@@ -1011,6 +1014,7 @@ liderbudowlany.pl##.rozwijany
 nowawrzesnia.pl##.rs-advertisement
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
+dlamaturzysty.info##.s_dodatkowa [class^="bnm bm"]
 studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,zebrra.tv##.sam-container
@@ -1098,7 +1102,7 @@ probasket.pl##.td-all-devices
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
 lwowecki.info##.td-all-devices2
 eswinoujscie.pl##.td-banner-bg
-poloniairlandia.pl##.td-banner-wrap-full
+comparic.pl,poloniairlandia.pl##.td-banner-wrap-full
 elementarzprojektanta.pl##.td-fix-index
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl##.td-header-sp-recs
@@ -1144,6 +1148,7 @@ slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
 zory24.pl##.twocol_right > #logosy
 dzwignice.info##.udtBox
+iturek.net##.uk-heading-line
 eswinoujscie.pl##.ulp-window-container
 40ton.net##.under-text-ads
 ceny-zlomu.pl##.uniq-banner
@@ -1192,6 +1197,7 @@ tarnobrzeg.info##.wp-container-2
 tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
 starosadeckie.info##.wp-image-214448
+tygodnikketrzynski.pl##.wp-image-216508
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 nowawrzesnia.pl##.wpb_images_carousel
@@ -1257,6 +1263,7 @@ urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
 losice.info##[id^="adni_"]
 gazeta.pl##[id^="ads"]
+plotek.pl##[id^="banC"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
 sucha24.pl##[id^="bills_in_rotation_"]
 deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
@@ -1296,6 +1303,7 @@ tvwalbrzych.pl##a[class^="single_ad_"]
 podoslonami.pl##a[data-label="Reklama"]
 staleo.pl,zrobotyzowany.pl##a[data-type^="Reklama"]
 cashless.pl##a[data="advert-link"]
+echolubonia.pl##a[href$="#REKLAMA"]
 twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
 okazjepodroznika.pl##a[href*="&utm_medium=banner&"]
@@ -1318,13 +1326,26 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
+gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
+gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
+wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
+gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
+tulodz.pl##a[href="https://beesafe.pl/"]
+gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
+gazeta-mosina.pl##a[href="https://m-cool.pl/"]
+gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
+gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
+gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
+e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
+e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
+tulodz.pl##a[href="https://www.ucando.pl/"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
 magazynpolonia.com##a[href^="/klikacz/"]
@@ -1484,6 +1505,7 @@ gostynin.info##div#popup-billboard
 nowemiasto.com.pl##div#righttable a[title="komunikat"]
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 lebork24.info##div.ai-viewport-1
+avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##div.b > div
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
@@ -1679,34 +1701,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-wirtualnesuwalki.pl##.legal-notice
-iturek.net##.uk-heading-line
-tulodz.pl##a[href="https://beesafe.pl/"]  
-tulodz.pl##a[href="https://www.ucando.pl/"]
-dobroni.pl##.c-content__adv
-wterenie.pl##.adv--rectangle
-jaworzno.biz##.c-content__adv
-bbfan.pl##.c-content__adv
-inowroclaw.info.pl##.c-content__adv
-izabelin24.pl##.l-box--100
-twojradom.pl##.c-content__adv
-eprzasnysz.pl##.c-content__adv
-wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
-e-kg.pl##a[href="https://www.mazowieckapark.pl/"]  
-e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
-gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]   
-gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"] 
-gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"] 
-gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"] 
-gazeta-mosina.pl##a[href="https://m-cool.pl/"] 
-gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"] 
-gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"] 
-gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
-tygodnikketrzynski.pl##.wp-image-216508
-echolubonia.pl##a[href$="#REKLAMA"] 
-scigacz.pl###animation_container
-ipolska24.pl##._ning_zone_inner
-comparic.pl##.td-banner-wrap-full
-plotek.pl##[id^="banC"]
-dziennikbaltycki.pl##.componentsPromotionsArticlePromotedList
-dlamaturzysty.info##.s_dodatkowa [class^="bnm bm"]
