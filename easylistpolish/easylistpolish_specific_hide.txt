@@ -1682,7 +1682,7 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 wirtualnesuwalki.pl##.legal-notice
 iturek.net##.uk-heading-line
 tulodz.pl##a[href="https://beesafe.pl/"]  
-tulodz.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
+tulodz.pl##a[href="https://www.ucando.pl/"]
 dobroni.pl##.c-content__adv
 wterenie.pl##.adv--rectangle
 jaworzno.biz##.c-content__adv
@@ -1691,8 +1691,7 @@ inowroclaw.info.pl##.c-content__adv
 izabelin24.pl##.l-box--100
 twojradom.pl##.c-content__adv
 eprzasnysz.pl##.c-content__adv
-czestochowskie24.pl##.wp-image-274747
-wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/kierunkowskaz"]
+wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]  
 e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]   
@@ -1704,8 +1703,6 @@ gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"] 
 gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
 tygodnikketrzynski.pl##.wp-image-216508
-echolubonia.pl##a[href="informacje/remontirenowacja/remontirenowacja.htm#zakladka"]  
-echolubonia.pl##a[href="informacje/festiwal_piosenki_22/festiwal_piosenki_22.htm#REKLAMA"] 
-echolubonia.pl##a[href="informacje/audit_start_biznes/audit_start_biznes.htm#zakladka"]
+echolubonia.pl##a[href$="#REKLAMA"] 
 scigacz.pl###animation_container
 ipolska24.pl##._ning_zone_inner
