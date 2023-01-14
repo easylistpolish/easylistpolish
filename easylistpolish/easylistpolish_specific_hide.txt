@@ -1687,3 +1687,4 @@ dobroni.pl##.c-content__adv
 wterenie.pl##.adv--rectangle
 jaworzno.biz##.c-content__adv
 bbfan.pl##.c-content__adv
+inowroclaw.info.pl##.c-content__adv
