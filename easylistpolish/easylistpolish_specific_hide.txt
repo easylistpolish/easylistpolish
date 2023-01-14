@@ -1693,3 +1693,4 @@ twojradom.pl##.c-content__adv
 eprzasnysz.pl##.c-content__adv
 czestochowskie24.pl##.wp-image-274747
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/kierunkowskaz"]
+e-kg.pl##a[href="https://www.mazowieckapark.pl/"]  
