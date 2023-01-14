@@ -1707,3 +1707,4 @@ tygodnikketrzynski.pl##.wp-image-216508
 echolubonia.pl##a[href="informacje/remontirenowacja/remontirenowacja.htm#zakladka"]  
 echolubonia.pl##a[href="informacje/festiwal_piosenki_22/festiwal_piosenki_22.htm#REKLAMA"] 
 echolubonia.pl##a[href="informacje/audit_start_biznes/audit_start_biznes.htm#zakladka"]
+scigacz.pl###animation_container
