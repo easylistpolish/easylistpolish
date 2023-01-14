@@ -213,6 +213,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||fireads.online^$third-party
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
+||g.cda.pl/mediafile/acyHQyrkZus.mp4
 ||g.cda.pl/player.php?ads
 ||gazetasenior.pl^*_300x300_
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
