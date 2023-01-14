@@ -1692,3 +1692,4 @@ izabelin24.pl##.l-box--100
 twojradom.pl##.c-content__adv
 eprzasnysz.pl##.c-content__adv
 czestochowskie24.pl##.wp-image-274747
+wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/kierunkowskaz"]
