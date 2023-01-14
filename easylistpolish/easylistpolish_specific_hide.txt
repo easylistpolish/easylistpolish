@@ -1689,3 +1689,4 @@ jaworzno.biz##.c-content__adv
 bbfan.pl##.c-content__adv
 inowroclaw.info.pl##.c-content__adv
 izabelin24.pl##.l-box--100
+twojradom.pl##.c-content__adv
