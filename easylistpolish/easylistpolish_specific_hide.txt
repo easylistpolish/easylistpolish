@@ -1704,3 +1704,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 wykop.pl##section[data-label^="ad: sponsored-1"]
 wykop.pl##section[data-label^="ad: market-"]
 wykop.pl##section[data-label^="ad: sidebar-"]
+wykop.pl##section[data-label^="ad: stream-"]
