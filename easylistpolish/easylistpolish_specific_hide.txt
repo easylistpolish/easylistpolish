@@ -1707,3 +1707,4 @@ tygodnikketrzynski.pl##.topLayer
 tyna.info.pl##.topLayer
 magazynzuzel.pl##.topLayer
 szczecinek.com###ad--bill-top
+tkaninyobiciowe.eu###secondary [id^="media_image-"]
