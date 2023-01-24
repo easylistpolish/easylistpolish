@@ -1708,3 +1708,4 @@ pulstygodnia.pl##.topLayer
 tygodnikketrzynski.pl##.topLayer
 tyna.info.pl##.topLayer
 magazynzuzel.pl##.topLayer
+szczecinek.com###ad--bill-top
