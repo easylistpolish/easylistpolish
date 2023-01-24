@@ -1711,3 +1711,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 pulstygodnia.pl##.topLayer
 tygodnikketrzynski.pl##.topLayer
 tyna.info.pl##.topLayer
+magazynzuzel.pl##.topLayer
