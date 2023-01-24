@@ -68,8 +68,6 @@ mapa.targeo.pl###bblbrd_outer
 otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
 ftb.pl###billboard
-szczecinek.com###bills_in_rotation_1_52658
-szczecinek.com###bills_in_rotation_1_91687
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
