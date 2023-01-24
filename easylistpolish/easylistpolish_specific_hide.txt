@@ -1710,3 +1710,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 pulstygodnia.pl##.topLayer
 tygodnikketrzynski.pl##.topLayer
+tyna.info.pl##.topLayer
