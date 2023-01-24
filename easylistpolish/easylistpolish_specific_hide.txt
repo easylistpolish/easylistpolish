@@ -188,9 +188,7 @@ gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
 30minut.pl###media_image-4
 budownictwo.co###media_image-5
-tkaninyobiciowe.eu###media_image-59
 czestochowskie24.pl###media_image-6
-tkaninyobiciowe.eu###media_image-63
 czestochowskie24.pl,gazetatrybunalska.info###media_image-7
 toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
