@@ -1718,3 +1718,4 @@ motofakty.pl##.componentsPromotionsArticlePromotedList
 sportowy24.pl##.componentsPromotionsArticlePromotedList
 echodnia.eu##.componentsPromotionsArticlePromotedList
 poranny.pl##.componentsPromotionsArticlePromotedList
+wspolczesna.pl##.componentsPromotionsArticlePromotedList
