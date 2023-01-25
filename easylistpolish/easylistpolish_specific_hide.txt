@@ -1712,3 +1712,5 @@ tv-pelplin.pl###aside .custom a[onclick]
 strefabiznesu.pl##.componentsPromotionsPromotedList__list
 strefaagro.pl##.componentsPromotionsArticlePromotedList
 strefaagro.pl##.componentsPromotionsPromotedList__list
+stronakobiet.pl##.componentsPromotionsArticlePromotedList
+stronakobiet.pl##.componentsPromotionsPromotedList__list
