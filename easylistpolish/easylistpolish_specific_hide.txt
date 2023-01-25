@@ -1716,3 +1716,4 @@ stronakobiet.pl##.componentsPromotionsArticlePromotedList
 stronakobiet.pl##.componentsPromotionsPromotedList__list
 motofakty.pl##.componentsPromotionsArticlePromotedList
 sportowy24.pl##.componentsPromotionsArticlePromotedList
+echodnia.eu##.componentsPromotionsArticlePromotedList
