@@ -1709,3 +1709,4 @@ szczecinek.com###ad--bill-top
 tkaninyobiciowe.eu###secondary [id^="media_image-"]
 eostroleka.pl##.loading-ajax-ads
 tv-pelplin.pl###aside .custom a[onclick]
+strefabiznesu.pl##.componentsPromotionsPromotedList__list
