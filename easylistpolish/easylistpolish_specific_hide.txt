@@ -1723,3 +1723,4 @@ nowiny24.pl##.componentsPromotionsArticlePromotedList
 dzienniklodzki.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##article.contentStream
 expressbydgoski.pl##.componentsPromotionsArticlePromotedList
+24wspolnota.pl##.addWrapper
