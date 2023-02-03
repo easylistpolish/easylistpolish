@@ -1725,3 +1725,4 @@ dziennikzachodni.pl##article.contentStream
 expressbydgoski.pl##.componentsPromotionsArticlePromotedList
 24wspolnota.pl##.addWrapper
 24jgora.pl##.grid__ad
+24jgora.pl##.adv--halfpage
