@@ -1726,3 +1726,4 @@ expressbydgoski.pl##.componentsPromotionsArticlePromotedList
 24wspolnota.pl##.addWrapper
 24jgora.pl##.grid__ad
 24jgora.pl##.adv--halfpage
+animezone.pl##a[href^="https://allegro.pl/uzytkownik/Subaya"]
