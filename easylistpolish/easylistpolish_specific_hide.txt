@@ -1721,3 +1721,4 @@ poranny.pl##.componentsPromotionsArticlePromotedList
 wspolczesna.pl##.componentsPromotionsArticlePromotedList
 nowiny24.pl##.componentsPromotionsArticlePromotedList
 dzienniklodzki.pl##.componentsPromotionsArticlePromotedList
+dziennikzachodni.pl##article.contentStream
