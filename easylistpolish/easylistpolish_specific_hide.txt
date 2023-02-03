@@ -18,6 +18,7 @@ kobiety-kobietom.com###ReklamaRightBox
 smak-zdrowia.blogspot.com###Text9
 divers24.pl###_ning_zone_43171_515456233
 ekorodzice.pl###a_d_billboard
+szczecinek.com###ad--bill-top
 dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
@@ -39,6 +40,7 @@ tarnowiak.pl###arheader
 urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
+tv-pelplin.pl###aside .custom a[onclick]
 tuhiszpania.pl###b_searchboxInc
 gazeta.pl###banC1
 gazeta.pl###banC99
@@ -246,7 +248,7 @@ polonika.fr###rt-top
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
-strefa.se###secondary [id^="media_image-"]
+strefa.se,tkaninyobiciowe.eu###secondary [id^="media_image-"]
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
 webhostingtalk.pl###sectionb
@@ -407,7 +409,7 @@ rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 zeglarski.info##.add-box
-bialasiedzieje.pl,gostynska.pl,jarocinska.pl,korso.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
+24wspolnota.pl,bialasiedzieje.pl,gostynska.pl,jarocinska.pl,korso.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
@@ -440,6 +442,7 @@ terazgostynin.pl##.ads__top
 pl.hospitalby.com##.adsense
 cgm.pl,historykon.pl,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
+24jgora.pl##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
 wterenie.pl##.adv--rectangle
 nowezyciepabianic.pl##.adv--top
@@ -644,8 +647,9 @@ wlodawa.net##.col-sm-4
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-dziennikbaltycki.pl,gol24.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,dzienniklodzki.pl,echodnia.eu,expressbydgoski.pl,gol24.pl,motofakty.pl,nowiny24.pl,poranny.pl,sportowy24.pl,strefaagro.pl,stronakobiet.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
+strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
@@ -748,6 +752,7 @@ dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 money.pl##.grid-item-wpapiad
+24jgora.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
@@ -836,6 +841,7 @@ noclegi.biz##.lewastronareklama
 nowywyszkowiak.pl##.link_bg
 czecho.pl,pless.pl##.linki-sponsorowane-col
 open.fm##.listAdvSlot
+eostroleka.pl##.loading-ajax-ads
 e-grajewo.pl##.logos-container
 lokalnyreporter.pl##.lokal-widget
 lubiehrubie.pl##.lubie-widget
@@ -1130,7 +1136,7 @@ swidnica24.pl##.top-sliding-ad
 jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
-abcjanikowo24.pl,bielskirynek.pl,bilgoraj.com.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,jura365.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,legio24.pl,lelow365.pl,leszno24.pl,lowiczanin.info,lubliniec365.pl,magazynregionalny.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszpruszcz.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wdrawskupomorskim.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
+abcjanikowo24.pl,bielskirynek.pl,bilgoraj.com.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czas.tygodnik.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,jura365.pl,ki24.info,kolniak24.eu,koronowo.net.pl,kurierwysmaz.pl,legio24.pl,lelow365.pl,leszno24.pl,lowiczanin.info,lubliniec365.pl,magazynregionalny.pl,magazynzuzel.pl,miastko24.pl,mlodagdynia.pl,mojakruszwica.pl,myszkow365.pl,naszpruszcz.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,pulstygodnia.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,tygodnikketrzynski.pl,tyna.info.pl,uniejow.net.pl,wdrawskupomorskim.pl,wiescimiedzychodzkie.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zarki365.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
@@ -1377,6 +1383,7 @@ mdhmyslowice.pl##a[href^="http://www.znaczki-turystyczne.pl/znaczkowe-miejsca-tu
 dts24.pl##a[href^="https://abcekodom.pl/"]
 top24.pl##a[href^="https://ad-server."]
 szpileczki.pl##a[href^="https://ad.zanox."]
+animezone.pl##a[href^="https://allegro.pl/uzytkownik/Subaya"]
 wiescipolickie.pl##a[href^="https://autoeksport-police."]
 swarzedzki.pl##a[href^="https://berdychowski.otomoto.pl/"]
 emecze.pl##a[href^="https://bitcoinpl.org/"]
@@ -1464,7 +1471,7 @@ maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
 fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
-nowiny24.pl##article.contentStream
+dziennikzachodni.pl,nowiny24.pl##article.contentStream
 allegro.pl##article[data-analytics-view-label^="allegro.advertising.adspremium"]
 allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
@@ -1701,29 +1708,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-pulstygodnia.pl##.topLayer
-tygodnikketrzynski.pl##.topLayer
-tyna.info.pl##.topLayer
-magazynzuzel.pl##.topLayer
-szczecinek.com###ad--bill-top
-tkaninyobiciowe.eu###secondary [id^="media_image-"]
-eostroleka.pl##.loading-ajax-ads
-tv-pelplin.pl###aside .custom a[onclick]
-strefabiznesu.pl##.componentsPromotionsPromotedList__list
-strefaagro.pl##.componentsPromotionsArticlePromotedList
-strefaagro.pl##.componentsPromotionsPromotedList__list
-stronakobiet.pl##.componentsPromotionsArticlePromotedList
-stronakobiet.pl##.componentsPromotionsPromotedList__list
-motofakty.pl##.componentsPromotionsArticlePromotedList
-sportowy24.pl##.componentsPromotionsArticlePromotedList
-echodnia.eu##.componentsPromotionsArticlePromotedList
-poranny.pl##.componentsPromotionsArticlePromotedList
-wspolczesna.pl##.componentsPromotionsArticlePromotedList
-nowiny24.pl##.componentsPromotionsArticlePromotedList
-dzienniklodzki.pl##.componentsPromotionsArticlePromotedList
-dziennikzachodni.pl##article.contentStream
-expressbydgoski.pl##.componentsPromotionsArticlePromotedList
-24wspolnota.pl##.addWrapper
-24jgora.pl##.grid__ad
-24jgora.pl##.adv--halfpage
-animezone.pl##a[href^="https://allegro.pl/uzytkownik/Subaya"]
