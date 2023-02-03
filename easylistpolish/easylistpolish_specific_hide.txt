@@ -1720,3 +1720,4 @@ echodnia.eu##.componentsPromotionsArticlePromotedList
 poranny.pl##.componentsPromotionsArticlePromotedList
 wspolczesna.pl##.componentsPromotionsArticlePromotedList
 nowiny24.pl##.componentsPromotionsArticlePromotedList
+dzienniklodzki.pl##.componentsPromotionsArticlePromotedList
