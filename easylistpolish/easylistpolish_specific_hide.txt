@@ -1709,3 +1709,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 bobasmiesiaca.pl##.advert-A2
+chelmski.eu##a[href="https://youtu.be/ZNW2ckMVW58"]
