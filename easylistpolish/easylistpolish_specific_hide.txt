@@ -1712,3 +1712,4 @@ bobasmiesiaca.pl##.advert-A2
 chelmski.eu##a[href="https://youtu.be/ZNW2ckMVW58"]
 chelmski.eu##.ad-text-headbaner
 chelmski.eu##a[href="naszchelm.eu"]
+chelmski.eu##.ad-single1
