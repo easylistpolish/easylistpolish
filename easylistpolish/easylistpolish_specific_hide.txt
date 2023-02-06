@@ -1714,3 +1714,4 @@ chelmski.eu##.ad-text-headbaner
 chelmski.eu##a[href="naszchelm.eu"]
 chelmski.eu##.ad-single1
 cooltura24.co.uk##.d-inline-block
+ddbelchatow.pl##.ads
