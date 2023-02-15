@@ -1729,3 +1729,4 @@ gazetawroclawska.pl##.componentsPromotionsArticlePromotedList
 gazetakrakowska.pl##.componentsPromotionsArticlePromotedList
 gazetalubuska.pl##.componentsPromotionsArticlePromotedList
 expressilustrowany.pl##.componentsPromotionsArticlePromotedList
+kielce.naszemiasto.pl##.componentsPromotionsArticlePromotedList
