@@ -1727,3 +1727,4 @@ gp24.pl##.componentsPromotionsArticlePromotedList
 gk24.pl##.componentsPromotionsArticlePromotedList
 gazetawroclawska.pl##.componentsPromotionsArticlePromotedList
 gazetakrakowska.pl##.componentsPromotionsArticlePromotedList
+gazetalubuska.pl##.componentsPromotionsArticlePromotedList
