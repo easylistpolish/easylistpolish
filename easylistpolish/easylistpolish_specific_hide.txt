@@ -1719,3 +1719,4 @@ ddbelchatow.pl##.addWrapper
 ddbelchatow.pl##.d-block
 to.com.pl##.componentsPromotionsArticlePromotedList
 nowosci.com.pl##.componentsPromotionsArticlePromotedList
+nto.pl##.componentsPromotionsArticlePromotedList
