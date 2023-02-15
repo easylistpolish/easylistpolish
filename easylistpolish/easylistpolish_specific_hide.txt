@@ -1723,3 +1723,4 @@ nto.pl##.componentsPromotionsArticlePromotedList
 kurierlubelski.pl##.componentsPromotionsArticlePromotedList
 gloswielkopolski.pl##.componentsPromotionsArticlePromotedList
 gs24.pl##.componentsPromotionsArticlePromotedList
+gp24.pl##.componentsPromotionsArticlePromotedList
