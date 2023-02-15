@@ -1718,3 +1718,4 @@ ddbelchatow.pl##.ads
 ddbelchatow.pl##.addWrapper
 ddbelchatow.pl##.d-block
 to.com.pl##.componentsPromotionsArticlePromotedList
+nowosci.com.pl##.componentsPromotionsArticlePromotedList
