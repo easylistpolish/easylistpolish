@@ -1717,3 +1717,4 @@ cooltura24.co.uk##.d-inline-block
 ddbelchatow.pl##.ads
 ddbelchatow.pl##.addWrapper
 ddbelchatow.pl##.d-block
+to.com.pl##.componentsPromotionsArticlePromotedList
