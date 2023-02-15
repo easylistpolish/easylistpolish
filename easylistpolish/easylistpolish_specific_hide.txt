@@ -1721,3 +1721,4 @@ to.com.pl##.componentsPromotionsArticlePromotedList
 nowosci.com.pl##.componentsPromotionsArticlePromotedList
 nto.pl##.componentsPromotionsArticlePromotedList
 kurierlubelski.pl##.componentsPromotionsArticlePromotedList
+gloswielkopolski.pl##.componentsPromotionsArticlePromotedList
