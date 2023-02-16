@@ -130,6 +130,8 @@ _reklama.$domain=radomsport.pl|staraoliwa.pl
 _reklama^$domain=tarnowiak.pl
 _reklamy2^$domain=epoznan.pl
 _reklamy^$domain=wiadomoscisasiedzkie.pl
+ale sam napis był
+tylko napis
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 ||4media.com^$domain=lokalna24.pl
@@ -404,5 +406,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-ale sam napis był
-tylko napis
