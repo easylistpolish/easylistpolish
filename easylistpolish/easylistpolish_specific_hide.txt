@@ -1721,3 +1721,4 @@ dziennikzwiazkowy.com##.bsaProHeader__title
 ekspresjaroslawski.pl##.adv
 faunaflora.com.pl##a[href="http://www.darewit.pl/"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
+faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
