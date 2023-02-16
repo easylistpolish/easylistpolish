@@ -1722,3 +1722,4 @@ ekspresjaroslawski.pl##.adv
 faunaflora.com.pl##a[href="http://www.darewit.pl/"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
+faunaflora.com.pl##a[href="http://www.darewit.pl/terrarystyka.html"]
