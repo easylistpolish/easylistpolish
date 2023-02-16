@@ -1726,3 +1726,4 @@ faunaflora.com.pl##a[href="http://www.darewit.pl/terrarystyka.html"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
 tuolawa.pl##a[href^="https://www.hipol.pl/"]
 tuolawa.pl##a[href^="https://odszkodowaniaolawa.pl/"]
+tuolawa.pl##.tipad_tag
