@@ -1718,3 +1718,4 @@ ddbelchatow.pl##.ads
 ddbelchatow.pl##.addWrapper
 ddbelchatow.pl##.d-block
 dziennikzwiazkowy.com##.bsaProHeader__title
+ekspresjaroslawski.pl##.adv
