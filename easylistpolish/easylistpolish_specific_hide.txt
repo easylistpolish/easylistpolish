@@ -1260,6 +1260,7 @@ zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
+allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
 pultusk.news##[id*="metaslider_container_"]
