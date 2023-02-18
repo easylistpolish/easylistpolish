@@ -1725,3 +1725,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 szczecinek.com###ad--bill-top + .grid__row
 nrypin.pl##.topLayer
+czasbrodnicy.pl##.topLayer
