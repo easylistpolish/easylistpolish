@@ -1727,3 +1727,4 @@ szczecinek.com###ad--bill-top + .grid__row
 nrypin.pl##.topLayer
 czasbrodnicy.pl##.topLayer
 haloursynow.pl##.topLayer
+lublin112.pl##.boxa
