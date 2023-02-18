@@ -1728,3 +1728,4 @@ nrypin.pl##.topLayer
 czasbrodnicy.pl##.topLayer
 haloursynow.pl##.topLayer
 lublin112.pl##.boxa
+computerworld.pl##.header-bilbo
