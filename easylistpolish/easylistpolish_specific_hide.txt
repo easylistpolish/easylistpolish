@@ -1726,3 +1726,4 @@ gf24.pl##img[alt^="Advertisement"]
 gostynska.pl##.ns-Placement
 gostynska.pl##.kd_ns_ads
 hfc.com.pl##.lozad
+korso24.pl##.ads
