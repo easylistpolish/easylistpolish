@@ -87,6 +87,7 @@ zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
+konin24.info###box
 laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
 bb365.info###bsa-html
@@ -444,7 +445,7 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
-cgm.pl,ekspresjaroslawski.pl,historykon.pl,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
+cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
@@ -485,6 +486,7 @@ life4style.pl,sporteuro.pl##.ai-rotate
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
 emaszyny.pl##.aimg
+joemonster.org##.alwaysOnScreen
 auto-motor-i-sport.pl##.amis-optad
 glosfizjoterapeuty.pl##.angwp_3524
 glosfizjoterapeuty.pl##.angwp_3528
@@ -759,7 +761,7 @@ dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 money.pl##.grid-item-wpapiad
-24jgora.pl##.grid__ad
+24jgora.pl,itvpiaseczno.pl,lowicz24.eu##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
@@ -808,6 +810,7 @@ iloveslubice.pl##.ilove-boczna-b2-300x250
 tubalecznej.pl##.img-fluid
 6krokow.pl##.img_rkl
 autoline.com.pl##.index-bns
+katowice24.info##.inner
 money.pl##.insert-top-offer
 trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
 forum.motocyklistow.pl##.ipsSpacer_both
@@ -819,10 +822,12 @@ v10.pl##.iwrap
 izachodniopomorskie.pl##.izpa
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
+londynek.net##.jd-40Z
 londynek.net##.jd-oaz-d
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
+katowice24.info##.k_ad
 weranda.pl##.kat_slot_text
 24wspolnota.pl,antyauto.pl,gostynska.pl,legionisci.com##.kd_ns_ads
 expressbydgoski.pl,nowiny24.pl,nowosci.com.pl##.kd_ns_box > a[rel="nofollow"]
@@ -858,6 +863,7 @@ jarmark.com.pl##.mMaterialRotator
 beskidnews.pl##.main-slider
 ogrodinfo.pl,sad24.pl##.main-top-banner
 gazetanowodworska.com##.mainSlider
+joemonster.org##.main_billboard
 laboratoria.net##.mainbanner
 bia24.pl##.market__item
 rodzinazdrowia.pl##.marketingElement
@@ -923,6 +929,7 @@ wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
+iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
 laczynaspilka.pl##.off-partners
 zw.pl##.oglo_box2
@@ -951,6 +958,7 @@ divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
 burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,party.pl,polki.pl,przyslijprzepis.pl,viva.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
+kuriergarwolinski.pl##.picture-spot
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 meczyki.pl##.placeholder
 rowerowa.pl##.placement
@@ -1035,6 +1043,7 @@ hdtvpolska.com##.sdWelcomeScreenRow
 businesswomanlife.pl##.sead > a > img
 radiojura.pl##.sec-promo
 tarnow.net.pl##.sec_A_adv2
+kuriergarwolinski.pl##.second-top-banners
 it.tarnow.pl##.section-apps
 e-tlumacze.net##.section-banner
 it.tarnow.pl##.section-banners
@@ -1062,6 +1071,7 @@ twojskaryszew.pl##.site-header .np-header-ads-area
 filmawka.pl##.site-news__ads
 wroclawiak.pl##.site-right-re
 wysportowani-portal-kolarski.pl##.site-title-text-ad-area
+joemonster.org##.sky-wrapper
 starachowicki.eu##.slick-slide
 pomorzanie.info##.slider-2243
 speedwaynews.pl##.slider-item
@@ -1131,7 +1141,7 @@ onetontour.pl##.test-drive-banner
 lifemanagerka.pl##.text-5
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
-bociany.tv,spece.it##.textwidget
+bociany.tv,katowice24.info,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
@@ -1732,18 +1742,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-itvpiaseczno.pl##.adv
-itvpiaseczno.pl##.grid__ad
-joemonster.org##.main_billboard
-joemonster.org##.alwaysOnScreen
-joemonster.org##.sky-wrapper
-katowice24.info##.textwidget
-katowice24.info##.k_ad
-katowice24.info##.inner
-konin24.info###box
-kuriergarwolinski.pl##.second-top-banners
-kuriergarwolinski.pl##.picture-spot
-londynek.net##.jd-40Z
-lowicz24.eu##.grid__ad
-lowicz24.eu##.adv
-iautomatyka.pl##.ofertaa
