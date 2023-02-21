@@ -1260,6 +1260,7 @@ zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
+allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
 pultusk.news##[id*="metaslider_container_"]
@@ -1732,3 +1733,9 @@ koscianiak.pl##.td-adspot-title
 ktomalek.pl##.add
 ktomalek.pl##.sticky-content
 lokalnatelewizja.pl##.d-inline-block
+szczecinek.com###ad--bill-top + .grid__row
+nrypin.pl##.topLayer
+czasbrodnicy.pl##.topLayer
+haloursynow.pl##.topLayer
+lublin112.pl##.boxa
+computerworld.pl##.header-bilbo
