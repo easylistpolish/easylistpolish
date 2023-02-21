@@ -1735,3 +1735,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 itvpiaseczno.pl##.adv
 itvpiaseczno.pl##.grid__ad
 joemonster.org##.main_billboard
+joemonster.org##.alwaysOnScreen
