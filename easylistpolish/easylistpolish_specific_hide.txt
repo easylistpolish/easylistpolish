@@ -1723,3 +1723,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 gf24.pl##img[alt^="Advertisement"]
+gostynska.pl##.ns-Placement
