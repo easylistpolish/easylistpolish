@@ -1738,3 +1738,4 @@ joemonster.org##.main_billboard
 joemonster.org##.alwaysOnScreen
 joemonster.org##.sky-wrapper
 katowice24.info##.textwidget
+katowice24.info##.k_ad
