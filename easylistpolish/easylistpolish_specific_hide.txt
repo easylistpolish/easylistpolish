@@ -1741,3 +1741,4 @@ katowice24.info##.textwidget
 katowice24.info##.k_ad
 katowice24.info##.inner
 konin24.info###box
+kuriergarwolinski.pl##.second-top-banners
