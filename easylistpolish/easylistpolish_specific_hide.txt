@@ -1730,3 +1730,4 @@ korso24.pl##.ads
 korso24.pl##.addWrapper
 koscianiak.pl##.td-adspot-title
 ktomalek.pl##.add
+ktomalek.pl##.sticky-content
