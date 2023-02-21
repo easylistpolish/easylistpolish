@@ -1731,3 +1731,4 @@ korso24.pl##.addWrapper
 koscianiak.pl##.td-adspot-title
 ktomalek.pl##.add
 ktomalek.pl##.sticky-content
+lokalnatelewizja.pl##.d-inline-block
