@@ -1728,3 +1728,4 @@ gostynska.pl##.kd_ns_ads
 hfc.com.pl##.lozad
 korso24.pl##.ads
 korso24.pl##.addWrapper
+koscianiak.pl##.td-adspot-title
