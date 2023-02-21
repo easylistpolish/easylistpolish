@@ -1743,3 +1743,4 @@ katowice24.info##.inner
 konin24.info###box
 kuriergarwolinski.pl##.second-top-banners
 kuriergarwolinski.pl##.picture-spot
+londynek.net##.jd-40Z
