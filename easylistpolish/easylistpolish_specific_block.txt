@@ -170,8 +170,6 @@ tylko napis
 ||dentoforum.pl^*^baner1.
 ||dicatatepantry.com^$domain=anime-odcinki.pl
 ||dobrewiadomosci.eu^*^opal_copy.
-||dodajauto.pl^*^logo%20ds%20baner.
-||dodajauto.pl^*^sf.
 ||dopilar.pl^*^sky1.
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
