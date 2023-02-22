@@ -1744,3 +1744,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 dziennikpolski24.pl##.componentsPromotionsArticlePromotedList
 obiektysakralne.pl###block-54
+dzisiajwgliwicach.pl##.td-a-rec a
