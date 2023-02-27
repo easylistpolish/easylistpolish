@@ -405,3 +405,4 @@ tylko napis
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^baner^$domain=megacennik.eu
+^banners^$domain=nanarty.info
