@@ -81,6 +81,7 @@ tarnobrzeg.info###block-11
 30minut.pl###block-13
 gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
+obiektysakralne.pl###block-54
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
 zmianynaziemi.pl###block-block-29
@@ -522,6 +523,7 @@ scie24.pl##.baner a[href^="/counter/"]
 bolec.info##.baner-max
 tychy.info##.baner-row
 tygodniksiedlecki.com##.baner-text
+mazury24.eu##.baner2213
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
 haloursynow.pl##.baner390x60
 planetakobiet.com.pl##.banerDiv
@@ -609,6 +611,7 @@ newsdiscopolo.info##.bn-lg-sidebar
 nowypm.pl##.bnr
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 podkarpacielive.pl##.bottom_banner
+mojaniderlandia.pl##.box
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
 portalspozywczy.pl##.box-0
 queer.pl##.box-adv
@@ -655,7 +658,7 @@ wlodawa.net##.col-sm-4
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-dziennikbaltycki.pl,dzienniklodzki.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,sportowy24.pl,strefaagro.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,sportowy24.pl,strefaagro.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
@@ -880,6 +883,7 @@ gada.pl##.menu_reklama
 enowiny.pl##.meta-font
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
+comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
 menshealth.pl##.mh-optad
 tv.pl##.middle-salesmedia
@@ -1035,7 +1039,7 @@ epiotrkow.pl##.rtop
 dlamaturzysty.info##.s_dodatkowa [class^="bnm bm"]
 studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
-erawa.pl,zebrra.tv##.sam-container
+erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
@@ -1116,7 +1120,7 @@ tabletowo.pl##.tabad
 tabletowo.pl##.table-adlabel
 112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,goniec.net,i-basket.pl,icelandnews.is,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,interameryka.com,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,naszosie.pl,netkonkret.pl,niebywalesuwalki.pl,noweinfo.pl,portalprzemyslowy.pl,portfelpolaka.pl,poscigi.pl,probasket.pl,progressforpoland.com,proskarzysko.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sporteuro.pl,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,twojezaglebie.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
 okraglemiasto.pl##.td-a-rec > .td-all-devices
-gazetaregionalna.com##.td-a-rec a
+dzisiajwgliwicach.pl,gazetaregionalna.com##.td-a-rec a
 netkonkret.pl##.td-a-rec-id-custom-spot
 24klodzko.pl##.td-a-rec-id-header
 koscianiak.pl##.td-adspot-title
@@ -1149,7 +1153,7 @@ odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 malbork1.pl,tuolawa.pl##.tipad_tag
 meblarskapolska.pl##.tm-promt-image
-egzotycznaturystyka.pl,pulsmiasta.tv##.top-banner
+egzotycznaturystyka.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
 ifrancja.fr##.top-main-ads
 fpiec.pl##.top-offer-box
@@ -1175,6 +1179,7 @@ eswinoujscie.pl##.ulp-window-container
 40ton.net##.under-text-ads
 ceny-zlomu.pl##.uniq-banner
 infobeskidy.eu##.userad
+moja24.pl##.vc_box_border_grey
 bstok.pl##.vc_custom_1639400766487
 naszosie.pl##.vc_figure
 radiowarszawa.com.pl##.vc_single_image-wrapper
@@ -1363,19 +1368,28 @@ faunaflora.com.pl##a[href="http://www.infermo.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
+mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
+mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
+nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
+nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
+napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
+nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
+nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
 gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
 e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
+nanarty.info##a[href="https://www.skimu.cz/pl/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
 chelmski.eu##a[href="https://youtu.be/ZNW2ckMVW58"]
 chelmski.eu##a[href="naszchelm.eu"]
+mojprzewodnik.pl##a[href="www.finans.pl"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
 magazynpolonia.com##a[href^="/klikacz/"]
@@ -1742,21 +1756,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-dziennikpolski24.pl##.componentsPromotionsArticlePromotedList
-obiektysakralne.pl###block-54
-dzisiajwgliwicach.pl##.td-a-rec a
-comparic.pl##.mfp-content
-lubliniec.info##.top-banner
-lwowecki.info##.sam-container
-mazury24.eu##.baner2213
-moja24.pl##.vc_box_border_grey
-mojaniderlandia.pl##.box
-mojprzewodnik.pl##a[href="www.finans.pl"]
-mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
-mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
-nadmorski24.pl##a[href="https://www.autodoc.pl/"]
-nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
-nanarty.info##a[href="https://www.skimu.cz/pl/"]
-nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
-nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
-napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
