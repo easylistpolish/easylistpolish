@@ -1751,3 +1751,4 @@ lwowecki.info##.sam-container
 mazury24.eu##.baner2213
 moja24.pl##.vc_box_border_grey
 mojaniderlandia.pl##.box
+mojprzewodnik.pl##a[href="www.finans.pl"]
