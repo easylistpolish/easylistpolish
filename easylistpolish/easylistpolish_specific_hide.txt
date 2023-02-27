@@ -1759,3 +1759,4 @@ nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&u
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
+napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
