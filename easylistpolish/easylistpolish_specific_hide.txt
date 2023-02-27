@@ -1754,3 +1754,4 @@ mojaniderlandia.pl##.box
 mojprzewodnik.pl##a[href="www.finans.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+nadmorski24.pl##a[href="https://www.autodoc.pl/"]
