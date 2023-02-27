@@ -1748,3 +1748,4 @@ dzisiajwgliwicach.pl##.td-a-rec a
 comparic.pl##.mfp-content
 lubliniec.info##.top-banner
 lwowecki.info##.sam-container
+mazury24.eu##.baner2213
