@@ -1747,3 +1747,4 @@ obiektysakralne.pl###block-54
 dzisiajwgliwicach.pl##.td-a-rec a
 comparic.pl##.mfp-content
 lubliniec.info##.top-banner
+lwowecki.info##.sam-container
