@@ -876,7 +876,6 @@ gostynin.info##.mb-xl > .uk-display-inline-block
 gostynin.info##.mb-xl a[target="_blank"]
 agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
-sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
 enowiny.pl##.meta-font
