@@ -4,7 +4,6 @@ signs.pl###BD
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-gazeta.pl###DFP-011-MIDBOARD_66916657
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
