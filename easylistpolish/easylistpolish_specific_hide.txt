@@ -16,7 +16,6 @@ kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
-divers24.pl###_ning_zone_43171_515456233
 ekorodzice.pl###a_d_billboard
 szczecinek.com###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
