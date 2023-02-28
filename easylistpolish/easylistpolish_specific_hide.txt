@@ -1757,3 +1757,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 miastodzieci.pl##.widget_media_image a[href^="https://multikino.pl"]
+kuriersuwalski.pl##.a-wrap-2
