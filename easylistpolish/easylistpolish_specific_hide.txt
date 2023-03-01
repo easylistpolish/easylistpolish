@@ -1762,3 +1762,4 @@ nasztomaszow.pl##.widget-advert_placement
 newsweek.pl##.pwAds
 next.gazeta.pl##.mod_sponsoredArticle
 nie-spamuj.eu##a[href="http://online.freeware.info.pl/imperia-online.html"]
+niezlomni.com##.kd_ns_ads
