@@ -1778,3 +1778,4 @@ olesnica24.com##.legal-notice
 onet.pl##.AdSlotPlaceholder_stickyWrapper__pLBcT
 onet.pl##.AdSlotPlaceholder_placeholder__wO7aE
 onet.pl##.AdPlaceholder_adPlaceholder__hTUe4
+onet.pl##.CenterAd_containerTop__vg7M0
