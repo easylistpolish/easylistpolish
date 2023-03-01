@@ -1766,3 +1766,4 @@ niezlomni.com##.kd_ns_ads
 ogloszenia.jelonka.com##.kontener-reklam
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=38b3eff8baf56627478ec76a704e9b52"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=812b4ba287f5ee0bc9d43bbf5bbe87fb"]
+olawa24.pl##a[href="https://olawa24.pl/redirect?token=8e296a067a37563370ded05f5a3bf3ec"]
