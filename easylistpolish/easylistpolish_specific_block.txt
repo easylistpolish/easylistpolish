@@ -406,3 +406,4 @@ tylko napis
 ||zyciezamoscia.pl^*^niezalezna.
 ^aqwzxtvn^&domain=nasztomaszow.pl
 ^banners^$domain=nowepomorze.pl
+-fb-baner-$domain=starosadeckie.info

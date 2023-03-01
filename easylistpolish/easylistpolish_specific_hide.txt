@@ -4,7 +4,6 @@ signs.pl###BD
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-gazeta.pl###DFP-011-MIDBOARD_66916657
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
@@ -16,7 +15,6 @@ kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
-divers24.pl###_ning_zone_43171_515456233
 ekorodzice.pl###a_d_billboard
 szczecinek.com###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
@@ -877,7 +875,6 @@ gostynin.info##.mb-xl > .uk-display-inline-block
 gostynin.info##.mb-xl a[target="_blank"]
 agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
-sadownictwo.com.pl##.mediaWrapper.nodeBanners a[target="_blank"] > img
 nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
 enowiny.pl##.meta-font
@@ -1779,3 +1776,5 @@ onet.pl##.AdSlotPlaceholder_stickyWrapper__pLBcT
 onet.pl##.AdSlotPlaceholder_placeholder__wO7aE
 onet.pl##.AdPlaceholder_adPlaceholder__hTUe4
 onet.pl##.CenterAd_containerTop__vg7M0
+miastodzieci.pl##.widget_media_image a[href^="https://multikino.pl"]
+kuriersuwalski.pl##.a-wrap-2
