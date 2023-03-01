@@ -1777,3 +1777,4 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77
 olesnica24.com##.legal-notice
 onet.pl##.AdSlotPlaceholder_stickyWrapper__pLBcT
 onet.pl##.AdSlotPlaceholder_placeholder__wO7aE
+onet.pl##.AdPlaceholder_adPlaceholder__hTUe4
