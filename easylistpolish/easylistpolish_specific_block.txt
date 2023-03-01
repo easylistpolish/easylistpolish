@@ -405,3 +405,4 @@ tylko napis
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^aqwzxtvn^&domain=nasztomaszow.pl
+^banners^$domain=nowepomorze.pl
