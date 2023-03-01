@@ -1759,3 +1759,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nasztomaszow.pl##.tipad_tag
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
 nasztomaszow.pl##.widget-advert_placement
+newsweek.pl##.pwAds
