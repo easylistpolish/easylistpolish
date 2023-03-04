@@ -36,6 +36,7 @@ bitcoin.pl###advertisements
 scigacz.pl###animation_container
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
+ithardware.pl###art-topBaner
 urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
 toproste.pl###asd
@@ -787,6 +788,7 @@ rynek-ksiazki.pl##.header-baner
 dts24.pl,nysahot.pl##.header-banner
 computerworld.pl##.header-bilbo
 mamaklub.pl##.header-billboard
+mambiznes.pl##.header-billboard-area
 promocja.mielec.pl##.header-content
 magazynbiomasa.pl##.header-promo
 infokrakow24.pl,pyrzyce.info##.header-right
@@ -1559,6 +1561,7 @@ ostrowczanie.info##body > center > a
 anime-odcinki.pl##center > a
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
+gramwzielone.pl#?#.a:-abp-has(.a__title)
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.wp.pl##dd-holder
 medycyna24.pl##div > .insert--top-offer
