@@ -1797,3 +1797,4 @@ portalpomorza.pl##.d-inline-block
 portalspozywczy.pl##.abc
 portalspozywczy.pl###target-4
 portalspozywczy.pl###target-6
+portalspozywczy.pl##.ad-place-2
