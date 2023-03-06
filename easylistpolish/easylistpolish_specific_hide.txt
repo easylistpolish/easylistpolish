@@ -1792,3 +1792,4 @@ podlasie24.pl##.a-place
 polskieradio24.pl##.baner-special2
 pomponik.pl##.article-body__ad-gora-srodek
 pomponik.pl##.adStandardTopContainerWraper
+pomponik.pl##.adWraper
