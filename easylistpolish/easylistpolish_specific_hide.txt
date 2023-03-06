@@ -280,6 +280,8 @@ plastikowe.pl###sponsors
 radioq.fm###sppb-carousel1
 bukowskilider.pl###sticky-posts-3
 wirtualnelegionowo.pl,wirtualnynowydwor.pl###szeroka-reklama
+portalspozywczy.pl###target-4
+portalspozywczy.pl###target-6
 panoramakutna.pl###tdi_55
 dogosfera.pl###text-10012
 dogosfera.pl###text-10015
@@ -369,6 +371,7 @@ kartuzy.info,koscierski.info##._ap_ad
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
 divers24.pl##._ning_jss_zone
 ipolska24.pl##._ning_zone_inner
+podhale24.pl##.a
 ostrowite.info##.a-11
 ostrowite.info##.a-14
 slupca.pl##.a-220
@@ -379,6 +382,7 @@ ostrowite.info##.a-69
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
+podlasie24.pl##.a-place
 cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
 nowy-sacz.info,oswiecim112.pl,radioradom.pl##.a-single
@@ -391,6 +395,7 @@ czasdzieci.pl##.a_dslot
 zalukaj.cc##.aaba > a[target="_blank"]
 ilovenysa.pl##.aas_zone
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.ab
+portalspozywczy.pl##.abc
 40ton.net##.above-text-ads
 mistrzowie.org##.abox-view-content
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
@@ -401,12 +406,15 @@ ding.pl,moviesroom.pl##.ad-box
 biznesalert.pl,interia.pl,styl.fm##.ad-container
 fakty-wwl.pl##.ad-container-1
 promocja.mielec.pl##.ad-image
+portalspozywczy.pl##.ad-place-2
 chelmski.eu##.ad-single1
 pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
 7dnikalisza.com##.ad-small
 chelmski.eu##.ad-text-headbaner
 egospodarka.pl##.ad750
+pomponik.pl##.adStandardTopContainerWraper
+pomponik.pl##.adWraper
 raportkolejowy.pl##.ad_adInfo
 rrs24.net##.ad_img_baner_glowny
 radiofest.pl##.ad_in
@@ -500,6 +508,7 @@ tarnow.net.pl##.apv-container
 a6klub.pl##.arek
 niskaemisja.ekoscan.pl##.art-slider
 iswinoujscie.pl##.article ~ .ads
+pomponik.pl##.article-body__ad-gora-srodek
 naekranie.pl##.article-header [style^=" width: 375."]
 gazetarumska.pl##.articleBottom-ads
 24wspolnota.pl##.article__ad-special
@@ -526,6 +535,7 @@ asta24.pl,ddwlkp.pl,eglos.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury
 scie24.pl##.baner a[href^="/counter/"]
 bolec.info##.baner-max
 tychy.info##.baner-row
+polskieradio24.pl##.baner-special2
 tygodniksiedlecki.com##.baner-text
 mazury24.eu##.baner2213
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
@@ -545,7 +555,7 @@ instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,tvciechanow.pl,typersi.pl##.banner
 android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
-bezpiecznyrynekpracy.pl,prudnik24.pl##.banner-block
+bezpiecznyrynekpracy.pl,ox.pl,prudnik24.pl##.banner-block
 production-manager.pl##.banner-carousel
 ekologia.guru,naszatve.pl##.banner-center
 kb.pl,radiosud.pl##.banner-container
@@ -685,7 +695,7 @@ wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
 ddbelchatow.pl##.d-block
-cooltura24.co.uk,eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,lokalnatelewizja.pl,malbork1.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
+cooltura24.co.uk,eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,lokalnatelewizja.pl,malbork1.pl,portalpomorza.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
 garnek.pl##.dbb
 24opole.pl##.dd
 tubawyszkowa.pl##.dimmer
@@ -695,7 +705,7 @@ tygodnikplus.com##.display650x100
 tygodnikplus.com##.display970x200
 dkl24.pl##.div_scroller
 automotivesuppliers.pl##.dj-loader
-iturek.net##.djslider
+iturek.net,portalwrc.pl##.djslider
 tkn24.pl##.dk-image-rotator-widget
 zywawiara.pl##.dobrodzieje
 nadmorski24.pl##.dynamicAD
@@ -1384,6 +1394,7 @@ tulodz.pl##a[href="https://beesafe.pl/"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
+plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plonskwsieci&utm_medium=banner&utm_campaign=promocja"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=02e74f10e0327ad868d138f2b4fdd6f0"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=1f0e3dad99908345f7439f8ffabdffc4"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=38b3eff8baf56627478ec76a704e9b52"]
@@ -1394,13 +1405,19 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=8e296a067a37563370ded05f5a
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=98f13708210194c475687be6106a3b84"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886680cb9"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
+plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
 nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
 napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
 nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
+plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-samodzielniaka/"]
+plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
+plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
+plonskwsieci.pl##a[href="https://www.facebook.com/profile.php?id=100087170982578"]
+plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
 gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
 e-kg.pl##a[href="https://www.freedom-nieruchomosci.pl/oferta/"]
 podhale-sport.pl##a[href="https://www.karpatiabs.pl"]
@@ -1561,7 +1578,6 @@ ostrowczanie.info##body > center > a
 anime-odcinki.pl##center > a
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
-gramwzielone.pl#?#.a:-abp-has(.a__title)
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.wp.pl##dd-holder
 medycyna24.pl##div > .insert--top-offer
@@ -1714,6 +1730,7 @@ poloniusz.pl##div[style^="width:194px;"]
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
 elektroda.pl##form[action^="https://www.tme.eu/"]
+gramwzielone.pl#?#.a:-abp-has(.a__title)
 wirtualneoslo.pl##header > center > a
 scs.htw.pl##iframe[name="billboard-top"]
 bajery.pl##iframe[name="rek"]
@@ -1734,6 +1751,8 @@ gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 chojna24.pl##img[src*="googleusercontent.com"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
+plonskwsieci.pl##img[src^="/upload/ALIOR_PLONSK_1170_600_PGO23 - Copy 1.jpg"]
+plonskwsieci.pl##img[src^="/upload/poprJorapol1170x300_gif_2_1_.gif"]
 lowicz24.eu##img[style="width: 250px; height: 100px;"]
 e-kolo.pl##img[style^="max-width: 100%;"]
 blogprezesa.pl##img[title="Binance"]
@@ -1777,25 +1796,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-ox.pl##.banner-block
-plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
-plonskwsieci.pl##img[src^="/upload/poprJorapol1170x300_gif_2_1_.gif"]
-plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
-plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
-plonskwsieci.pl##a[href="https://www.facebook.com/profile.php?id=100087170982578"]
-plonskwsieci.pl##img[src^="/upload/ALIOR_PLONSK_1170_600_PGO23 - Copy 1.jpg"]
-plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-samodzielniaka/"]
-plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plonskwsieci&utm_medium=banner&utm_campaign=promocja"]
-plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
-podhale24.pl##.a
-podlasie24.pl##.a-place
-polskieradio24.pl##.baner-special2
-pomponik.pl##.article-body__ad-gora-srodek
-pomponik.pl##.adStandardTopContainerWraper
-pomponik.pl##.adWraper
-portalpomorza.pl##.d-inline-block
-portalspozywczy.pl##.abc
-portalspozywczy.pl###target-4
-portalspozywczy.pl###target-6
-portalspozywczy.pl##.ad-place-2
-portalwrc.pl##.djslider
