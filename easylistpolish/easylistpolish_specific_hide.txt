@@ -1780,3 +1780,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 ox.pl##.banner-block
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 plonskwsieci.pl##img[src^="/upload/poprJorapol1170x300_gif_2_1_.gif"]
+plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
