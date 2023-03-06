@@ -1794,3 +1794,4 @@ pomponik.pl##.article-body__ad-gora-srodek
 pomponik.pl##.adStandardTopContainerWraper
 pomponik.pl##.adWraper
 portalpomorza.pl##.d-inline-block
+portalspozywczy.pl##.abc
