@@ -1795,3 +1795,4 @@ pomponik.pl##.adStandardTopContainerWraper
 pomponik.pl##.adWraper
 portalpomorza.pl##.d-inline-block
 portalspozywczy.pl##.abc
+portalspozywczy.pl###target-4
