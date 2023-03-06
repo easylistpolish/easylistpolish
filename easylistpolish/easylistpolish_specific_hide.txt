@@ -1778,3 +1778,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 ox.pl##.banner-block
+plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
