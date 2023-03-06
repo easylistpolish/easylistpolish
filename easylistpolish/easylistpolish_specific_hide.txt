@@ -1790,3 +1790,4 @@ plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-
 podhale24.pl##.a
 podlasie24.pl##.a-place
 polskieradio24.pl##.baner-special2
+pomponik.pl##.article-body__ad-gora-srodek
