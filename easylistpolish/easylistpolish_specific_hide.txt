@@ -1787,3 +1787,4 @@ plonskwsieci.pl##img[src^="/upload/ALIOR_PLONSK_1170_600_PGO23 - Copy 1.jpg"]
 plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-samodzielniaka/"]
 plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plonskwsieci&utm_medium=banner&utm_campaign=promocja"]
 plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
+podhale24.pl##.a
