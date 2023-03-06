@@ -1789,3 +1789,4 @@ plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plon
 plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
 podhale24.pl##.a
 podlasie24.pl##.a-place
+polskieradio24.pl##.baner-special2
