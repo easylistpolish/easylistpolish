@@ -1798,3 +1798,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 walbrzyszek.com##.kontener-reklam
 jelonka.com##.kontener-reklam
+swidniczka.com##.kontener-reklam
