@@ -812,6 +812,7 @@ radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
+ceneo.pl##.highlighted-offers
 wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
 112pila.pl##.home-e3lan > a
@@ -842,6 +843,7 @@ zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
 londynek.net##.jd-40Z
 londynek.net##.jd-oaz-d
+ceneo.pl##.js_widget
 mma.pl##.js-sitehead-ads
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
