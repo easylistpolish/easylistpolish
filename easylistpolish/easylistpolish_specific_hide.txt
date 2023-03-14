@@ -1803,3 +1803,4 @@ radio.bialystok.pl##a[href="https://www.oifp.eu/repertuar/dyptyk-wielkanocy-p-lu
 radio.bialystok.pl##a[href="https://www.nieteatr.pl/wydarzenia/one-week-in-rio-woch-guzik-duo-feat-kaja-mianowana"]
 radio.katowice.pl##.naglowek_small
 radio90.pl##.sec-promo
+radioplus.pl##.zpr_hp2
