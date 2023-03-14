@@ -118,6 +118,7 @@
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 ^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
+^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
 _ban_$domain=glos.live
 _baner%$domain=transg.pl
@@ -406,4 +407,3 @@ tylko napis
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^zdjecia_reklamy^$domain=radio.katowice.pl
