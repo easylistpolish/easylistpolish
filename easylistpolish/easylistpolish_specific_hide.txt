@@ -1809,3 +1809,4 @@ radioplus.pl##.zpr_shopping__article
 radioplus.pl##.zpr_hp3
 radioplus.pl##.zpr_combo
 rallypl.com##a[href="https://ms.media.pl"]
+realmadryt.pl##.rmpl-adsense-desktop
