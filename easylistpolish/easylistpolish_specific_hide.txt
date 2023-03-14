@@ -1807,3 +1807,4 @@ radioplus.pl##.zpr_hp2
 radioplus.pl##.article__placement
 radioplus.pl##.zpr_shopping__article
 radioplus.pl##.zpr_hp3
+radioplus.pl##.zpr_combo
