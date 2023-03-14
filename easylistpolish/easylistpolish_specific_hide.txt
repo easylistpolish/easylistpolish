@@ -1801,3 +1801,4 @@ psy.pl##.adsenseAd
 koty.pl##.adsenseAd
 radio.bialystok.pl##a[href="https://www.oifp.eu/repertuar/dyptyk-wielkanocy-p-lukaszewski-via-crucis-p-mascagni-cavalleria-rusticana/"]
 radio.bialystok.pl##a[href="https://www.nieteatr.pl/wydarzenia/one-week-in-rio-woch-guzik-duo-feat-kaja-mianowana"]
+radio.katowice.pl##.naglowek_small
