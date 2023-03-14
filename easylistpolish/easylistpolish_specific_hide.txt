@@ -1798,3 +1798,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 programtv.naziemna.info##.my-ad
 psy.pl##.adsenseAd
+koty.pl##.adsenseAd
