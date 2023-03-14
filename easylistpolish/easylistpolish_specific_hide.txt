@@ -1810,3 +1810,4 @@ radioplus.pl##.zpr_hp3
 radioplus.pl##.zpr_combo
 rallypl.com##a[href="https://ms.media.pl"]
 realmadryt.pl##.rmpl-adsense-desktop
+rzeszow24.info##.addWrapper
