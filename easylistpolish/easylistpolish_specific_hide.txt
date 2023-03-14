@@ -1806,3 +1806,4 @@ radio90.pl##.sec-promo
 radioplus.pl##.zpr_hp2
 radioplus.pl##.article__placement
 radioplus.pl##.zpr_shopping__article
+radioplus.pl##.zpr_hp3
