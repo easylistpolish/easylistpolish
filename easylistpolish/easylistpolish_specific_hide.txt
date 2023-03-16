@@ -1809,3 +1809,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zambrow.org###ad--bill-top
 mylomza.pl###ad--bill-top
+egarwolin.pl###ad--bill-top
