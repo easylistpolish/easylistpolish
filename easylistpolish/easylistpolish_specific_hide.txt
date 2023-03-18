@@ -1817,3 +1817,4 @@ starachowicka.pl##.SzBBB
 starachowicka.pl##.GlBn
 starachowicka.pl##.GlBanLead
 starachowicka.pl##.SzBBB163
+staresiolkowice.pl##.wp-image-26929
