@@ -22,7 +22,7 @@ dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
-burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
+glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
 national-geographic.pl,party.pl,polki.pl,viva.pl,wizaz.pl###adl-placement-0-wrapper
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
@@ -1825,3 +1825,7 @@ swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 swiebodzin.tv##.advert-A1
 swiebodzin.tv##.advert-A2
 swiebodzin.tv##.advert-B1
+zambrow.org###ad--bill-top
+mylomza.pl###ad--bill-top
+egarwolin.pl###ad--bill-top
+bankier.pl##.nbAdv
