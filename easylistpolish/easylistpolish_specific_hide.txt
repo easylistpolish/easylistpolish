@@ -1816,3 +1816,4 @@ sloworegionu.pl##.mfp-container
 starachowicka.pl##.SzBBB
 starachowicka.pl##.GlBn
 starachowicka.pl##.GlBanLead
+starachowicka.pl##.SzBBB163
