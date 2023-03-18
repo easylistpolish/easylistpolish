@@ -1823,3 +1823,4 @@ studio-mebli.eu##.banery__container
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 swiebodzin.tv##.advert-A1
+swiebodzin.tv##.advert-A2
