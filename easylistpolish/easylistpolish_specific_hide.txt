@@ -1819,3 +1819,4 @@ starachowicka.pl##.GlBanLead
 starachowicka.pl##.SzBBB163
 staresiolkowice.pl##.wp-image-26929
 staresiolkowice.pl##.wp-image-27882
+studio-mebli.eu##.banery__container
