@@ -1821,3 +1821,4 @@ staresiolkowice.pl##.wp-image-26929
 staresiolkowice.pl##.wp-image-27882
 studio-mebli.eu##.banery__container
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
+swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
