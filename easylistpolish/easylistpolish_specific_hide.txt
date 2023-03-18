@@ -16,7 +16,7 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-szczecinek.com###ad--bill-top
+egarwolin.pl,mylomza.pl,szczecinek.com,zambrow.org###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
@@ -360,9 +360,13 @@ wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
 gazeta.pl##.DFP-premiumBoardReservedPlace
+starachowicka.pl##.GlBanLead
+starachowicka.pl##.GlBn
 kobiety-kobietom.com##.OneProductBig
 mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
+starachowicka.pl##.SzBBB
+starachowicka.pl##.SzBBB163
 esopot.pl,grudziadz365.pl,gwio.pl,hej.mielec.pl,kolniak24.eu,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,sompolno24.pl,tarnowska.pl,tygodnik.pl,uniejow.net.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
@@ -476,9 +480,9 @@ gospodarkapodkarpacka.pl##.advRec
 historykon.pl##.adv_content
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
-eluban.pl,extra-plonsk.pl,koscierzyna24.info,malbork1.pl,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl,wirtualnesuwalki.pl##.advert-A1
-bobasmiesiaca.pl,bydgoszcz.com,portalpomorza.pl,tczewska.pl,telewizjamazury.pl,tv-wschod.pl##.advert-A2
-bydgoszcz.com,eluban.pl,koscierzyna24.info,malbork1.pl,tczewska.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-B1
+eluban.pl,extra-plonsk.pl,koscierzyna24.info,malbork1.pl,portalpomorza.pl,swiebodzin.tv,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl,wirtualnesuwalki.pl##.advert-A1
+bobasmiesiaca.pl,bydgoszcz.com,portalpomorza.pl,swiebodzin.tv,tczewska.pl,telewizjamazury.pl,tv-wschod.pl##.advert-A2
+bydgoszcz.com,eluban.pl,koscierzyna24.info,malbork1.pl,swiebodzin.tv,tczewska.pl,tvdzierzgon.pl,tvmalbork.pl,tvregionalna24.pl,tvsztum.pl,tygodnikoko.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-B1
 wirtualnesuwalki.pl##.advert-B2
 malbork1.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
@@ -553,8 +557,9 @@ elblag.net##.banera1
 lakiernictwo.net##.banert
 ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
+studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
-24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,tvciechanow.pl,typersi.pl##.banner
+24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
 android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,ox.pl,prudnik24.pl##.banner-block
@@ -902,6 +907,7 @@ gada.pl##.menu_reklama
 enowiny.pl##.meta-font
 b24tv.pl##.metaslider
 nowawrzesnia.pl##.metaslider-nivo
+sloworegionu.pl##.mfp-container
 comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
 menshealth.pl##.mh-optad
@@ -941,6 +947,7 @@ radio.katowice.pl##.naglowek_small
 mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
+bankier.pl##.nbAdv
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1250,6 +1257,8 @@ tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
 starosadeckie.info##.wp-image-214448
 tygodnikketrzynski.pl##.wp-image-216508
+staresiolkowice.pl##.wp-image-26929
+staresiolkowice.pl##.wp-image-27882
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 nowawrzesnia.pl##.wpb_images_carousel
@@ -1266,8 +1275,9 @@ waw4free.pl##.zobacz-box
 waw4free.pl##.zobacz-box-text
 eska.pl##.zpr_bottom_1
 eska.pl##.zpr_box_side_bottom
+se.pl##.zpr_box_top1
 radioplus.pl##.zpr_combo
-eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.zpr_hp2
+eska.pl,muratorplus.pl,radioplus.pl,se.pl,urzadzamy.pl##.zpr_hp2
 eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.zpr_hp3
 mjakmama24.pl,radioplus.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
@@ -1392,6 +1402,7 @@ haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
+swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
@@ -1399,6 +1410,7 @@ mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
+swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
@@ -1416,6 +1428,8 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
+skarzysko24.pl##a[href="https://unin.pl/"]
+skarzysko24.pl##a[href="https://villaro.pl/"]
 nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
 napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
 nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
@@ -1807,25 +1821,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-se.pl##.zpr_box_top1
-se.pl##.zpr_hp2
-sjp.pwn.pl##.banner
-skarzysko24.pl##a[href="https://unin.pl/"]
-skarzysko24.pl##a[href="https://villaro.pl/"]
-sloworegionu.pl##.mfp-container
-starachowicka.pl##.SzBBB
-starachowicka.pl##.GlBn
-starachowicka.pl##.GlBanLead
-starachowicka.pl##.SzBBB163
-staresiolkowice.pl##.wp-image-26929
-staresiolkowice.pl##.wp-image-27882
-studio-mebli.eu##.banery__container
-swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
-swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
-swiebodzin.tv##.advert-A1
-swiebodzin.tv##.advert-A2
-swiebodzin.tv##.advert-B1
-zambrow.org###ad--bill-top
-mylomza.pl###ad--bill-top
-egarwolin.pl###ad--bill-top
-bankier.pl##.nbAdv
