@@ -1832,3 +1832,4 @@ tko.pl##.adv-link
 tp.com.pl##.grid__ad
 tp.com.pl###bills_in_rotation_1_8239
 tp.com.pl##.card--box
+tp.com.pl##.adv
