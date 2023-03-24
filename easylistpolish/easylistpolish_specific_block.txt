@@ -36,6 +36,7 @@
 ^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
 ^adverts-$domain=zycie.pl
+^advs^$domain=telewizjastk.pl
 ^aqwzxtvn^&domain=nasztomaszow.pl
 ^areklamy^$domain=e-lokalne.pl
 ^artykul%20kierunek^$domain=otouczelnie.pl
@@ -406,4 +407,3 @@ tylko napis
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^advs^$domain=telewizjastk.pl

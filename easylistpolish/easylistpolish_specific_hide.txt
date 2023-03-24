@@ -70,6 +70,7 @@ mapa.targeo.pl###bblbrd_outer
 otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
 ftb.pl###billboard
+tp.com.pl###bills_in_rotation_1_8239
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
@@ -140,6 +141,7 @@ spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[targe
 spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
 weranda.pl###gl_slot
+szukacz.pl###googleContainer
 motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
@@ -217,7 +219,7 @@ bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
 betonline.net.pl,wyspiarzniebieski.pl###popup
 infoilawa.pl###popup-wrapper
-mapa.szukacz.pl###popupContainer
+mapa.szukacz.pl,szukacz.pl###popupContainer
 polskaizbabranzypogrzebowej.pl###post-2637
 baxu.pl###postTopAd
 baxu.pl###postTopAdMobile
@@ -329,7 +331,7 @@ dziennikteatralny.pl###topBigBanner
 rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
-zambrowiacy.pl###topbanner
+telewizjastk.pl,zambrowiacy.pl###topbanner
 silacze.org###tri-mot
 prokuratura-zz.pl###ubezpieczenie-top
 telewizjaleszno.pl###vlog-module-0-0
@@ -464,13 +466,14 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,pogonszczecin.pl,vegespot.pl##.adv
+cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,pogonszczecin.pl,tp.com.pl,vegespot.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
 wterenie.pl##.adv--rectangle
 nowezyciepabianic.pl##.adv--top
 mma.pl##.adv-body-banner
+tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
 antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
@@ -660,6 +663,7 @@ mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
 naszahuta.pl##.c-banners
 bbfan.pl,ciechanowinaczej.pl,dobroni.pl,e-kg.pl,eprzasnysz.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,jaworzno.biz,kartuzy.info,konecki24.pl,koscierski.info,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,twojradom.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
+tp.com.pl##.card--box
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
@@ -785,7 +789,7 @@ dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 money.pl##.grid-item-wpapiad
-24jgora.pl,itvpiaseczno.pl,lowicz24.eu##.grid__ad
+24jgora.pl,itvpiaseczno.pl,lowicz24.eu,tp.com.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
@@ -967,6 +971,7 @@ ekspertbudowlany.pl##.oferteo-widget
 laczynaspilka.pl##.off-partners
 zw.pl##.oglo_box2
 sportowetempo.pl##.ogloszenia
+tko.pl##.oln-adlabel
 tko.pl##.oln-desktop_a
 tko.pl##.oln-sticky
 e-szczuczyn.pl##.one-1 .post-content
@@ -1414,6 +1419,7 @@ swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
+tenis24.eu##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&sid=130&cid=&pid=&affid=655657"]
 rallypl.com##a[href="https://ms.media.pl"]
 plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plonskwsieci&utm_medium=banner&utm_campaign=promocja"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=02e74f10e0327ad868d138f2b4fdd6f0"]
@@ -1428,6 +1434,7 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
+tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
 nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
@@ -1437,6 +1444,7 @@ nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-samodzielniaka/"]
 plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
+tkn24.pl##a[href="https://www.dworzbozenna.pl/kuchnia"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
 plonskwsieci.pl##a[href="https://www.facebook.com/profile.php?id=100087170982578"]
@@ -1821,15 +1829,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-szukacz.pl###popupContainer
-szukacz.pl###googleContainer
-telewizjastk.pl###topbanner
-tenis24.eu##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&sid=130&cid=&pid=&affid=655657"]
-tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
-tkn24.pl##a[href="https://www.dworzbozenna.pl/kuchnia"]
-tko.pl##.oln-adlabel
-tko.pl##.adv-link
-tp.com.pl##.grid__ad
-tp.com.pl###bills_in_rotation_1_8239
-tp.com.pl##.card--box
-tp.com.pl##.adv
