@@ -1823,3 +1823,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 szukacz.pl###popupContainer
 szukacz.pl###googleContainer
+telewizjastk.pl###topbanner
