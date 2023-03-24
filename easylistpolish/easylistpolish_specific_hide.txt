@@ -1826,3 +1826,4 @@ szukacz.pl###googleContainer
 telewizjastk.pl###topbanner
 tenis24.eu##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&sid=130&cid=&pid=&affid=655657"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
+tkn24.pl##a[href="https://www.dworzbozenna.pl/kuchnia"]
