@@ -1828,3 +1828,4 @@ tenis24.eu##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&sid=130&cid=
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 tkn24.pl##a[href="https://www.dworzbozenna.pl/kuchnia"]
 tko.pl##.oln-adlabel
+tko.pl##.adv-link
