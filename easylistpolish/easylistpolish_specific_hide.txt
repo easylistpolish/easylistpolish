@@ -1832,3 +1832,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 iwola.pl###ad--bill-top
 ibialoleka.pl###ad--bill-top
 ibielany.pl###ad--bill-top
+itargowek.pl###ad--bill-top
