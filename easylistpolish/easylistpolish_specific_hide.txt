@@ -1845,3 +1845,4 @@ iursynow.pl###ad--bill-top
 imokotow.pl###ad--bill-top
 iochota.pl###ad--bill-top
 iursus.pl###ad--bill-top
+ipragapoludnie.pl###ad--bill-top
