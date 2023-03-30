@@ -1830,3 +1830,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 truso.tv##.tipad_tag
+truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/03/09/photo-2023-03-01-12-08-52-2-6409bd0a4f5a1.jpg"]
