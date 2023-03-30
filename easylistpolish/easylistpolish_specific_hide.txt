@@ -1830,7 +1830,7 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 truso.tv##.tipad_tag
-truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/03/09/photo-2023-03-01-12-08-52-2-6409bd0a4f5a1.jpg"]
+truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/"]
 turek.net.pl##.reklama-info
 turek.net.pl##.BanerS
 turek.net.pl##.BanerO
@@ -1840,6 +1840,6 @@ tvmaster.eu##.tipad_tag
 tvpolice.com.pl##.tipad_tag
 tvsudecka.pl##.tipad_tag
 wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
-expresskaszebe.pl##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/03/17/C4DI-29-03-WEBINAR-D-V1-750x140-64147b418f1e4.jpg"]
+expresskaszebe.pl##img[src^="https://sc.4media.com/data/aqwzxtvn/"]
 expresskaszebe.pl##.tipad_tag
-expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/e/the-advantages-of-accessing-the-north-of-england-tech-economy-tickets-585829550957"]
+expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
