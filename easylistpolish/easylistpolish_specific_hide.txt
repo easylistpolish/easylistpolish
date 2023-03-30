@@ -1841,3 +1841,4 @@ irembertow.pl###ad--bill-top
 iwesola.pl###ad--bill-top
 iwawer.pl###ad--bill-top
 iwilanow.pl###ad--bill-top
+iursynow.pl###ad--bill-top
