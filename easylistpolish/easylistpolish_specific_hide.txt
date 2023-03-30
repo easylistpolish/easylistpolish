@@ -1843,3 +1843,4 @@ iwawer.pl###ad--bill-top
 iwilanow.pl###ad--bill-top
 iursynow.pl###ad--bill-top
 imokotow.pl###ad--bill-top
+iochota.pl###ad--bill-top
