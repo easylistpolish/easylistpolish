@@ -1835,3 +1835,4 @@ turek.net.pl##.reklama-info
 turek.net.pl##.BanerS
 turek.net.pl##.BanerO
 tv.gniezno.pl##.reklamaCenter
+tv.starachowice.pl##.legal-notice
