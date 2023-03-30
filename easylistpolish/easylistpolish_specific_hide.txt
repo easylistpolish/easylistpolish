@@ -1072,7 +1072,6 @@ liderbudowlany.pl##.rozwijany
 nowawrzesnia.pl##.rs-advertisement
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
-dlamaturzysty.info##.s_dodatkowa [class^="bnm bm"]
 studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
