@@ -1839,3 +1839,4 @@ tv.starachowice.pl##.legal-notice
 tvmaster.eu##.tipad_tag
 tvpolice.com.pl##.tipad_tag
 tvsudecka.pl##.tipad_tag
+wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
