@@ -1842,3 +1842,4 @@ tvsudecka.pl##.tipad_tag
 wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
 expresskaszebe.pl##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/03/17/C4DI-29-03-WEBINAR-D-V1-750x140-64147b418f1e4.jpg"]
 expresskaszebe.pl##.tipad_tag
+expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/e/the-advantages-of-accessing-the-north-of-england-tech-economy-tickets-585829550957"]
