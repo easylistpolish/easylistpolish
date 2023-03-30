@@ -24,3 +24,4 @@
 @@||szbk.pl^$generichide
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
+@@||api.samiswoi24.pl/advert?
