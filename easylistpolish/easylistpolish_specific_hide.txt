@@ -1835,3 +1835,4 @@ itargowek.pl###ad--bill-top
 izoliborz.pl###ad--bill-top
 zambrow.org##.adv--halfpage
 ibemowo.pl###ad--bill-top
+isrodmiescie.pl###ad--bill-top
