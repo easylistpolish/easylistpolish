@@ -1839,3 +1839,4 @@ isrodmiescie.pl###ad--bill-top
 ipragapolnoc.pl###ad--bill-top
 irembertow.pl###ad--bill-top
 iwesola.pl###ad--bill-top
+iwawer.pl###ad--bill-top
