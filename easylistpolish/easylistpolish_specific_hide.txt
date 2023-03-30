@@ -1846,3 +1846,4 @@ iochota.pl###ad--bill-top
 iursus.pl###ad--bill-top
 ipragapoludnie.pl###ad--bill-top
 mylomza.pl##.box__container iframe
+dlahandlu.pl##.sda
