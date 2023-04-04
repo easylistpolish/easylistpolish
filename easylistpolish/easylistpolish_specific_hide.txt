@@ -2,6 +2,7 @@ money.pl###ADrail
 portalpszczelarski.pl###AdBig
 signs.pl###BD
 spottedskarzysko.pl###BoxColTop
+spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
