@@ -1331,6 +1331,7 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
+allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
 allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
 allegro.pl##[data-box-name^="Ads"]
