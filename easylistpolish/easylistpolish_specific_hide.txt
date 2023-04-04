@@ -2,7 +2,6 @@ money.pl###ADrail
 portalpszczelarski.pl###AdBig
 signs.pl###BD
 spottedskarzysko.pl###BoxColTop
-spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
@@ -1335,6 +1334,10 @@ allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
+allegro.pl##[data-box-name="Container PPC Offers"]
+allegro.pl##[data-box-name*="Advertisement"]
+allegro.pl##[data-box-name*="ads"]
+allegro.pl##[data-box-name*="advertising"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
