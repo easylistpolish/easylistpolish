@@ -1836,7 +1836,6 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 stooq.pl##table[height="250"]
 vampirediaries.pl##td[onclick^="window.location"]
-podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
