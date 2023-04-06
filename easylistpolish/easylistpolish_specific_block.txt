@@ -154,8 +154,6 @@ tylko napis
 ||bobrowniki.tv^*^praca-piekary.
 ||booking.com/flexiproduct.$third-party
 ||botland.com.pl^*^banery_$script
-||bronradom.pl^*_600522.
-||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
 ||busiarze.com.pl^*^lacus-
