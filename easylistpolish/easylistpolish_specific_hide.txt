@@ -1841,3 +1841,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=120&sid=878&cid=&pid=&affid=656667"]
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&sid=878&cid=&pid=&affid=656667"]
 autofakty.pl##.rekl_text
+bazarowo.pl##.banner
