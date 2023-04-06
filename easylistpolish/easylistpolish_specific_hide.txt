@@ -16,7 +16,7 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,mylomza.pl,szczecinek.com,zambrow.org###ad--bill-top
+ciechanowinaczej.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,szczecinek.com,zambrow.org###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
@@ -564,7 +564,7 @@ ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
 studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
-24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
+24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bazarowo.pl,bezpiecznyrynekpracy.pl,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
 android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
 bezpiecznyrynekpracy.pl,ox.pl,prudnik24.pl##.banner-block
@@ -686,7 +686,7 @@ wlodawa.net##.col-sm-4
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,sportowy24.pl,strefaagro.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
@@ -1002,6 +1002,7 @@ zycieczestochowy.pl##.pers-item
 kuriergarwolinski.pl##.picture-spot
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 meczyki.pl##.placeholder
+ciekawostkihistoryczne.pl##.placeholderAds
 rowerowa.pl##.placement
 muratorplus.pl,urzadzamy.pl##.placement__lazy
 informator-stolicy.pl##.pm
@@ -1037,6 +1038,7 @@ mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
 4trucks.pl##.rekl
+autofakty.pl##.rekl_text
 glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
@@ -1192,7 +1194,7 @@ starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
-expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl##.tipad_tag
+cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl##.tipad_tag
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
@@ -1328,15 +1330,15 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
-allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
 allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
+allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
-allegro.pl##[data-box-name^="Ads"]
-allegro.pl##[data-role="opbox-expandable-advertisement"]
-allegro.pl##[data-box-name="Container PPC Offers"]
 allegro.pl##[data-box-name*="Advertisement"]
 allegro.pl##[data-box-name*="ads"]
 allegro.pl##[data-box-name*="advertising"]
+allegro.pl##[data-box-name="Container PPC Offers"]
+allegro.pl##[data-box-name^="Ads"]
+allegro.pl##[data-role="opbox-expandable-advertisement"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
@@ -1423,12 +1425,15 @@ nauklove.pl##a[href="http://www.ktenis.pl"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+ceo.com.pl##a[href="https://123tlumacz.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 gazeta-mosina.pl##a[href="https://jezyk-stacja-demontazu-pojazdow.business.site/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
+angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=120&sid=878&cid=&pid=&affid=656667"]
+angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&sid=878&cid=&pid=&affid=656667"]
 tenis24.eu##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&sid=130&cid=&pid=&affid=655657"]
 rallypl.com##a[href="https://ms.media.pl"]
 plonskwsieci.pl##a[href="https://novdom.pl/inwestycja/nad-plonka?utm_source=plonskwsieci&utm_medium=banner&utm_campaign=promocja"]
@@ -1442,12 +1447,15 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=8e296a067a37563370ded05f5a
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=98f13708210194c475687be6106a3b84"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886680cb9"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
+ceo.com.pl##a[href="https://osteohelp.pl/osteopatia/psychosomatyczna/"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
 nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&utm%20medium=Banner&utm%20campaign=Winter22%20%2F23"]
+cosiedzieje.tv##a[href="https://www.4community.online/webinar-"]
+cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w-rolnictwie"]
 napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
 nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
@@ -1838,16 +1846,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=120&sid=878&cid=&pid=&affid=656667"]
-angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&sid=878&cid=&pid=&affid=656667"]
-autofakty.pl##.rekl_text
-bazarowo.pl##.banner
-ceo.com.pl##a[href="https://osteohelp.pl/osteopatia/psychosomatyczna/"]
-ceo.com.pl##a[href="https://123tlumacz.pl/"]
-ciekawostkihistoryczne.pl##.placeholderAds
-cosiedzieje.tv##.tipad_tag
-cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w-rolnictwie"]
-cosiedzieje.tv##a[href="https://www.4community.online/webinar-"]
-kartuzy.info###ad--bill-top
-ciechanowinaczej.pl###ad--bill-top
-strefabiznesu.pl##.componentsPromotionsArticlePromotedList
