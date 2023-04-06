@@ -79,7 +79,6 @@
 ^com_reklamy^$domain=radiofest.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
 ^edytom.$domain=legitymizm.org
-^fortunatv-$domain=atleti.pl
 ^grafika2^$domain=tsk24.pl
 ^homepage-banners^$domain=otomoto.pl
 ^img_bannery^$domain=piszanin.pl
@@ -154,8 +153,6 @@ tylko napis
 ||bobrowniki.tv^*^praca-piekary.
 ||booking.com/flexiproduct.$third-party
 ||botland.com.pl^*^banery_$script
-||bronradom.pl^*_600522.
-||bronradom.pl^*logo_echodnia
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
 ||busiarze.com.pl^*^lacus-

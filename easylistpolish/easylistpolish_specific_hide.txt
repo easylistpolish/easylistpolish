@@ -1292,9 +1292,6 @@ eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.zpr_hp3
 mjakmama24.pl,radioplus.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not([align]) > a[href*="/goto/"]
-<<<<<<< HEAD
-=======
->>>>>>> fa214b640e46fa5a6ba66ff2b561a62defc2204d
 pwm.org.pl##A[onclick^="countAdClick"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 tvpolice.com.pl##[class*="advert-"]
@@ -1331,10 +1328,15 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
+allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
 allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
+allegro.pl##[data-box-name="Container PPC Offers"]
+allegro.pl##[data-box-name*="Advertisement"]
+allegro.pl##[data-box-name*="ads"]
+allegro.pl##[data-box-name*="advertising"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
@@ -1826,13 +1828,11 @@ wykop.pl##section[data-label^="ad: sidebar-"]
 wykop.pl##section[data-label^="ad: sponsored-1"]
 wykop.pl##section[data-label^="ad: stream-"]
 pabianice.tv##section[id^="adrotate_widgets"]
-glamrap.pl##section[id^="custom_html-"] .custom-html-widget
 poczta.wp.pl##sidebar-feed
 bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 stooq.pl##table[height="250"]
 vampirediaries.pl##td[onclick^="window.location"]
-podlasie24.pl##td[rowspan="2"]
 stooq.pl##td[width="1"]
 stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
@@ -1848,3 +1848,6 @@ ciekawostkihistoryczne.pl##.placeholderAds
 cosiedzieje.tv##.tipad_tag
 cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w-rolnictwie"]
 cosiedzieje.tv##a[href="https://www.4community.online/webinar-"]
+kartuzy.info###ad--bill-top
+ciechanowinaczej.pl###ad--bill-top
+strefabiznesu.pl##.componentsPromotionsArticlePromotedList
