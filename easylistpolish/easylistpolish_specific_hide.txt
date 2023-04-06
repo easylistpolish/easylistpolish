@@ -1847,3 +1847,4 @@ ceo.com.pl##a[href="https://123tlumacz.pl/"]
 ciekawostkihistoryczne.pl##.placeholderAds
 cosiedzieje.tv##.tipad_tag
 cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w-rolnictwie"]
+cosiedzieje.tv##a[href="https://www.4community.online/webinar-"]
