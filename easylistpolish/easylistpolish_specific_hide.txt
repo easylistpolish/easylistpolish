@@ -1843,3 +1843,4 @@ angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&
 autofakty.pl##.rekl_text
 bazarowo.pl##.banner
 ceo.com.pl##a[href="https://osteohelp.pl/osteopatia/psychosomatyczna/"]
+ceo.com.pl##a[href="https://123tlumacz.pl/"]
