@@ -1847,5 +1847,5 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 darmowe-torenty.pl##a[href^="https://bipcheap.com/page/how-it-works"]
-darmowe-torenty.pl##a[href="http://www.likeplus.eu/clickback"]
+darmowe-torenty.pl##a[href^="http://www.likeplus.eu/clickback"]
 dziennik.pl##.infor-ad
