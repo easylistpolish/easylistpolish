@@ -1459,7 +1459,7 @@ cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w
 napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
 nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
-plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-samodzielniaka/"]
+plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-"]
 plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 tkn24.pl##a[href="https://www.dworzbozenna.pl/kuchnia"]
