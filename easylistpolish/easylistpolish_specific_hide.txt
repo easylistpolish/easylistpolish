@@ -1457,7 +1457,7 @@ nanarty.info##a[href="https://winter.zillertal.at/pl/?utm%20source=Nanarty.ino&u
 cosiedzieje.tv##a[href="https://www.4community.online/webinar-"]
 cosiedzieje.tv##a[href="https://www.4community.online/webinar-nowe-technologie-w-rolnictwie"]
 napisy24.pl##a[href="https://www.allplayer.org/?utm_source=napisy24.pl&utm_medium=banner&utm_term=Pobierz%20za%20darmo&utm_campaign=napisy24.pl"]
-nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-pobyty/zimni-pobytove-balicky"]
+nanarty.info##a[href="https://www.apartmany-kouty.cz/ubytovani/zvyhodnene-"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 plonskwsieci.pl##a[href="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-"]
 plonskwsieci.pl##a[href="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
