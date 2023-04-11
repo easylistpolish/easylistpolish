@@ -27,7 +27,6 @@ national-geographic.pl,party.pl,polki.pl,viva.pl,wizaz.pl###adl-placement-0-wrap
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 nowezyciepabianic.pl###adv-view-widget-5
-pogodnie.pl###adv03
 tygodnikszczytno.pl###advBox
 filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
@@ -477,7 +476,7 @@ mma.pl##.adv-body-banner
 tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
 nowezyciepabianic.pl##.adv-wrap
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,pogodnie.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,pinger.pl,planeta.pl,planowo.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 telemagazyn.pl##.advContainer > [data-ns-slot-type="sponsored"]
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
@@ -1332,7 +1331,7 @@ pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
 allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
-abczdrowie.pl,pinger.pl,pogodnie.pl##[data-bc]
+abczdrowie.pl,pinger.pl##[data-bc]
 allegro.pl##[data-box-name*="Advertisement"]
 allegro.pl##[data-box-name*="ads"]
 allegro.pl##[data-box-name*="advertising"]
@@ -1594,7 +1593,7 @@ expressbydgoski.pl,nowiny24.pl,nowosci.com.pl##a[rel="nofollow"] + .kd_ns_lead
 wronieckibazar.pl##a[rel="noopener"]
 make-cash.pl##a[rel^="external"] > .ipsImage
 seriea.pl##a[style*="background: url(https://www.goal.pl/ban/sts/"]
-kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl,pogodnie.pl##a[style="display: block;"]
+kardiolo.pl,kowbojki.pl,pinger.pl,planowo.pl##a[style="display: block;"]
 miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
