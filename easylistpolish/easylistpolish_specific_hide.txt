@@ -1683,7 +1683,7 @@ open.fm##div[class^="bnr-con"]
 open.fm##div[class^="bnr-player-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
-betonline.net.pl,mecze24.pl,skrotymeczow.pl##div[class^="cool-stuff"]
+betonline.net.pl,mecze24.pl
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
 moto3m.pl##div[class^="e3lan"]
 filmweb.pl##div[class^="fa faBar"]
