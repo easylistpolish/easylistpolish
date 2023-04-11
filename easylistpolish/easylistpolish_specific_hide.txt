@@ -48,7 +48,6 @@ przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 genetyczne.pl###baner-gorny
 hotelinfo24.pl###baner2
-forumzabki.pl###baner750
 eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
 infomare.pl###baneranim
