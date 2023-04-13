@@ -436,7 +436,7 @@ zeglarski.info##.add-box
 karnickie.info##.adds
 silesia24.pl##.adds--top
 tuwodzislaw.pl##.addv-container
-echosredzkie.pl,express-miejski.pl##.adesplace
+echosredzkie.pl##.adesplace
 gazetabilgoraj.pl##.adloc-before-header
 gazetabilgoraj.pl##.adloc-leftskyscraper
 panoramakutna.pl##.adnotacja
@@ -1737,8 +1737,6 @@ nowyoutsourcing.pl##div[id^="g1-ad-"]
 gazetaklobucka.pl##div[id^="gazet-"]
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
 echosredzkie.pl##div[id^="gpt-ad-"]
-express-miejski.pl##div[id^="gpt-ad-d"]
-express-miejski.pl##div[id^="gpt-ad-d"] + .small
 ttg.com.pl##div[id^="header-banner"]
 nasygnale.com.pl##div[id^="jssor_"]
 tvwlodawa.pl##div[id^="layerslider_"]
