@@ -19,7 +19,6 @@ ekorodzice.pl###a_d_billboard
 ciechanowinaczej.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,szczecinek.com,zambrow.org###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 fiatklubpolska.pl###ad_global_below_navbar
-gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
 glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
 national-geographic.pl,party.pl,polki.pl,viva.pl,wizaz.pl###adl-placement-0-wrapper
