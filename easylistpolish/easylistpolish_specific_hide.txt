@@ -28,7 +28,6 @@ filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
-scigacz.pl###animation_container
 szkolnictwo.pl###arekl
 tarnowiak.pl###arheader
 ithardware.pl###art-topBaner
