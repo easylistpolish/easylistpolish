@@ -18,7 +18,6 @@ smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
 ciechanowinaczej.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,szczecinek.com,zambrow.org###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
-dieroten.pl###ad-sts-top
 fiatklubpolska.pl###ad_global_below_navbar
 gotujmy.pl###ad_wallpaper
 togethermagazyn.pl###addbaner
@@ -1558,7 +1557,7 @@ e-kg.pl##a[href^="https://www.freedom-nieruchomosci.pl/oferta/"]
 przeclaw24.pl##a[href^="https://www.fruktolinka.pl/"]
 bazylika-limanowa.pl##a[href^="https://www.golddrop.eu"]
 tuolawa.pl##a[href^="https://www.hipol.pl/"]
-dieroten.pl,radiogol.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
+radiogol.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
 podhale-sport.pl##a[href^="https://www.karpatiabs.pl"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
