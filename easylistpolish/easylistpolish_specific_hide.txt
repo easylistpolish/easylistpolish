@@ -33,7 +33,6 @@ tarnowiak.pl###arheader
 ithardware.pl###art-topBaner
 urzadzamy.pl###article_zpr_shopping
 tychy.pl###artykul_300x250
-toproste.pl###asd
 tv-pelplin.pl###aside .custom a[onclick]
 tuhiszpania.pl###b_searchboxInc
 gazeta.pl###banC1
