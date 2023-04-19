@@ -1834,3 +1834,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 spottedlublin.pl##.g1-external
 forbes.pl##div[data-run-module="local/main_amd.placeholders"]
+eska.pl##.zpr_combo
