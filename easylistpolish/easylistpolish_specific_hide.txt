@@ -1837,3 +1837,4 @@ forbes.pl##div[data-run-module="local/main_amd.placeholders"]
 eska.pl##.zpr_combo
 se.pl###article_zpr_shopping
 tulegnica.pl###ad--bill-top
+naszemiasto.pl##.componentsPromotionsArticlePromotedList
