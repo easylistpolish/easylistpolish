@@ -1850,3 +1850,4 @@ forum.pasja-informatyki.pl###helbook
 forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
 franchising.pl##.page-banners
 franchising.pl##.innerTopBanner
+franchising.pl##.top-banner
