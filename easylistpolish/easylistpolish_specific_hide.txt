@@ -1848,3 +1848,4 @@ exsites.pl##a[href="http://www.likeplus.eu/clickback"]
 flashscore.pl##.container__bannerZone
 forum.pasja-informatyki.pl###helbook
 forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
+franchising.pl##.page-banners
