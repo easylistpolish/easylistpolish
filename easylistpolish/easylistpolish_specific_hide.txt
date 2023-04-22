@@ -1853,3 +1853,4 @@ franchising.pl##.innerTopBanner
 franchising.pl##.top-banner
 haloursynow.pl##.a1965845785
 handelextra.pl##.desktop-basa
+i.pl##.componentsPromotionsArticlePromotedList
