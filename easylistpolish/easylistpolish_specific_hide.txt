@@ -1851,3 +1851,4 @@ forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
 franchising.pl##.page-banners
 franchising.pl##.innerTopBanner
 franchising.pl##.top-banner
+haloursynow.pl##.a1965845785
