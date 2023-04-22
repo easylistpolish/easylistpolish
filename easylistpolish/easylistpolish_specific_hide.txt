@@ -1849,3 +1849,4 @@ flashscore.pl##.container__bannerZone
 forum.pasja-informatyki.pl###helbook
 forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
 franchising.pl##.page-banners
+franchising.pl##.innerTopBanner
