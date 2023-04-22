@@ -1840,3 +1840,4 @@ tulegnica.pl###ad--bill-top
 naszemiasto.pl##.componentsPromotionsArticlePromotedList
 darmowe-torenty.pl##a[href="https://bipcheap.com/page/how-it-works"]
 darmowe-torenty.pl##a[href="http://www.likeplus.eu/clickback"]
+dziennik.pl##.infor-ad
