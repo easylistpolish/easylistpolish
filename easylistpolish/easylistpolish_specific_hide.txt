@@ -1844,3 +1844,4 @@ dziennik.pl##.infor-ad
 ekoscian.eu##.ekosc-tresc
 ekoscian.eu##.divTable
 exsites.pl##a[href="https://bipcheap.com/page/how-it-works"]
+exsites.pl##a[href="http://www.likeplus.eu/clickback"]
