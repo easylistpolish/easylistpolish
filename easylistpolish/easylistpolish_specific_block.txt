@@ -75,7 +75,6 @@
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
 ^cene0^$domain=baxu.pl
-^com_reklamy^$domain=radiofest.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
 ^edytom.$domain=legitymizm.org
 ^grafika2^$domain=tsk24.pl
