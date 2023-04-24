@@ -181,7 +181,6 @@ tylko napis
 ||e-pingpong.pl^*^pileczkigewo-
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
-||e-stargard.pl^*^sarl^
 ||ebarlinek.pl^*^beznazwy-1.
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
