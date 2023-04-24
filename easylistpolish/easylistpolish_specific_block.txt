@@ -251,7 +251,6 @@ tylko napis
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.com-
 ||kurier-lokalny.com^*^Matuz-
-||kurier-w.pl/Dokumenty/2016^$image
 ||lechia.net^*^jooma-guru-
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
