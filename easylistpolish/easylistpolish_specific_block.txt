@@ -1,6 +1,6 @@
 -290x150.$domain=tygodnikpiski.pl
 -ad-$domain=tuhiszpania.pl
--baner-$domain=budownictwo.co|edebno.pl|firmy.meblarstwo.eu|infobusko.pl|ipulawy.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
+-baner-$domain=budownictwo.co|edebno.pl|firmy.meblarstwo.eu|ipulawy.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
 -baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|wirtualnyzgierz.pl|wolanie.info
 -baner728.$domain=nieruchomosci-komercyjne.info|ogloszenia-nieruchomosci.info
 -baner_$domain=kk24.pl|my3miasto.pl|nolesnica.pl|nowagazeta.pl|regionfan.pl
@@ -8,14 +8,14 @@
 -baners.$domain=terazkrosno.pl
 -banery-$domain=automotivesuppliers.pl
 -banery^$domain=przeclaw24.pl
--banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|infobusko.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
+-banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
 -banner.$domain=gieldaklasykow.pl|legitymizm.org|naszosie.pl|nowepomorze.pl|postawnaswoim.pl|pozyczkaportal.pl|przedsiebiorczepodlasie.pl|tvzg.pl|wwl24.pl
 -banner1.$domain=tu.swinoujscie.pl
 -banner_$domain=kaszuby24.pl|oirplodz.pl
 -bannery-$domain=bogaty.men|zarobmy.se
 -bener-$domain=meblosfera.pl|tapicerstwo.co|tkaninyobiciowe.eu
 -fb-baner-$domain=starosadeckie.info
--reklama-$domain=bithub.pl|chelmski.eu|e-hotelarz.pl|firmy.meblarstwo.eu|golub-cgd.pl|infobusko.pl|kurekmazurski.pl|kurier-kolski.pl|nasz-glos.com|ostrodanews.pl|przedsiebiorczepodlasie.pl|radomszczanska.pl|starosadeckie.info|tkaninyobiciowe.eu|tv-pelplin.pl
+-reklama-$domain=bithub.pl|chelmski.eu|e-hotelarz.pl|firmy.meblarstwo.eu|golub-cgd.pl|kurekmazurski.pl|kurier-kolski.pl|nasz-glos.com|ostrodanews.pl|przedsiebiorczepodlasie.pl|radomszczanska.pl|starosadeckie.info|tkaninyobiciowe.eu|tv-pelplin.pl
 -reklama.$domain=flarrow.pl|gazeta-mosina.pl|gazetatrybunalska.pl|jeleniagora998.pl|mojewronki.pl|ostrodanews.pl|pionki24.pl|popradio.pl|przysucha.informator-lokalny.pl|sochaczewianin.pl|tu.swinoujscie.pl
 -reklama_$domain=noworudzianin.pl
 -reklamy-$domain=tu.swinoujscie.pl
