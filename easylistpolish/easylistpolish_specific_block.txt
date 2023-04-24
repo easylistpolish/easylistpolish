@@ -253,7 +253,6 @@ tylko napis
 ||kurier-lokalny.com^*^Matuz-
 ||kurier-w.pl/Dokumenty/2016^$image
 ||lechia.net^*^jooma-guru-
-||legionisci.com^*^zyletasklep.
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
 ||lokalna24.pl^*^wasbruk_
