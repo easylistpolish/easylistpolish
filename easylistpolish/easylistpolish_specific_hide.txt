@@ -1853,3 +1853,4 @@ mgsm.pl##.header__promo-wide
 mma.pl##.w2g
 mma.pl###mma_post1_ad
 mmorpg.org.pl##.sc-529c4f9d-1
+mobiletrends.pl##a[href="https://escola.pl/?utm_source=Mobile+Trends&utm_medium=Banner"]
