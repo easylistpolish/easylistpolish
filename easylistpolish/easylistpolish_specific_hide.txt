@@ -1851,3 +1851,4 @@ livescore.in##.ads__text
 mgsm.pl##.reklama_caption
 mgsm.pl##.header__promo-wide
 mma.pl##.w2g
+mma.pl###mma_post1_ad
