@@ -1846,3 +1846,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kinomoc.com##.rkads
+kodi.org.pl##a[href="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source=kodi.org.pl&utm_medium=referral&utm_campaign=sidebar"]
