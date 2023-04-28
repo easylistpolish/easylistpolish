@@ -192,6 +192,7 @@ toproste.pl###menu_zlewej
 kurierostrowski.pl###metaslider_970
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
+mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 glamrap.pl,goleniowska.com###mvp-leader-wrap
 slonskyradio.eu###n2-ss-4-align
@@ -230,6 +231,7 @@ starachowice-net.pl###r2
 tuhiszpania.pl###rankomat-travel
 czytajrzeszow.pl###rek1
 pol-nor.com###rek2
+mybank.pl###rek_gora
 mybank.pl###rek_prawe_menu
 kryniczanie.pl###reklama1
 elka.pl###reklamaGooglePrawa336Last
@@ -457,6 +459,7 @@ nowezyciepabianic.pl##.ads480
 businessinsider.com.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,polskatimes.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,to.com.pl##.adsSlotContainer
+livescore.in##.ads__text
 terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
@@ -817,6 +820,7 @@ infokrakow24.pl,pyrzyce.info##.header-right
 polacywewloszech.com##.header-top-right
 siechnice.com.pl##.header__ad-main
 divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
+mgsm.pl##.header__promo-wide
 podkarpacielive.pl##.header_banner
 swiatoze.pl##.header_marker
 kurierzurominski.pl##.herald-txt-module
@@ -1056,6 +1060,7 @@ dkl24.pl##.reklama_700
 wieliczkacity.pl##.reklama_980
 wieliczkacity.pl##.reklama_980 ~ center a
 naszraciborz.pl##.reklama_box
+mgsm.pl##.reklama_caption
 rzeszow-news.pl##.reklama_gora
 mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl"])
 forumbranzowe.com##.reklama_sidebar
@@ -1069,6 +1074,7 @@ ciechanowonline.pl,portalzamojski.pl##.reklamy
 konindzieciom.pl##.rektop
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
+kinomoc.com##.rkads
 wiadomoscidebickie.pl##.rl-image-widget
 radiopik.pl##.rma
 radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
@@ -1084,6 +1090,7 @@ studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
+mmorpg.org.pl##.sc-529c4f9d-1
 naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
@@ -1236,6 +1243,7 @@ sad24.pl##.vip
 extra-plonsk.pl,zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
 businessjournal.pl##.vmagazine_medium_ad
+mma.pl##.w2g
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
 womenshealth.pl##.wh-optad
@@ -1434,6 +1442,7 @@ tulodz.pl##a[href="https://beesafe.pl/"]
 darmowe-torenty.pl,exsites.pl##a[href="https://bipcheap.com/page/how-it-works"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
+mobiletrends.pl##a[href="https://escola.pl/?utm_source=Mobile+Trends&utm_medium=Banner"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=120&sid=878&cid=&pid=&affid=656667"]
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&sid=878&cid=&pid=&affid=656667"]
@@ -1449,9 +1458,11 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=8e296a067a37563370ded05f5a
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=98f13708210194c475687be6106a3b84"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886680cb9"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
+motomaszyny.pl##a[href="https://osprzet.info.pl/"]
 ceo.com.pl##a[href="https://osteohelp.pl/osteopatia/psychosomatyczna/"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
+kodi.org.pl##a[href="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source=kodi.org.pl&utm_medium=referral&utm_campaign=sidebar"]
 nasztomaszow.pl##a[href="https://ttbs.com.pl/oferta-lokali-uzytkowych/"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
@@ -1845,14 +1856,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-kinomoc.com##.rkads
-kodi.org.pl##a[href="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source=kodi.org.pl&utm_medium=referral&utm_campaign=sidebar"]
-livescore.in##.ads__text
-mgsm.pl##.reklama_caption
-mgsm.pl##.header__promo-wide
-mma.pl##.w2g
-mma.pl###mma_post1_ad
-mmorpg.org.pl##.sc-529c4f9d-1
-mobiletrends.pl##a[href="https://escola.pl/?utm_source=Mobile+Trends&utm_medium=Banner"]
-motomaszyny.pl##a[href="https://osprzet.info.pl/"]
-mybank.pl###rek_gora

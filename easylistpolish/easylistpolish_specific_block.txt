@@ -180,6 +180,7 @@ tylko napis
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
 ||ebarlinek.pl^*^beznazwy-1.
+||ebd.cda-hd.co/api/users^
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
@@ -397,4 +398,3 @@ tylko napis
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||ebd.cda-hd.co/api/users^
