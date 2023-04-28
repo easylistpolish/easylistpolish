@@ -1,4 +1,5 @@
 @@.adrotate.$domain=mh24.pl
+@@/adsign.$domain=adsign.polsatmedia.pl
 @@/extension/adverts/design/standard/javascript/adverts/Quantcastt^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/extension/adverts/design/standard/templates/esi^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@^baner-tp.$domain=tygodnikprudnicki.pl
@@ -25,4 +26,3 @@
 @@||szbk.pl^$generichide
 @@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
-@@/adsign.$domain=adsign.polsatmedia.pl
