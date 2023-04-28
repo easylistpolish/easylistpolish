@@ -1850,3 +1850,4 @@ kodi.org.pl##a[href="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source=ko
 livescore.in##.ads__text
 mgsm.pl##.reklama_caption
 mgsm.pl##.header__promo-wide
+mma.pl##.w2g
