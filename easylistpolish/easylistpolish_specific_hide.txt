@@ -1861,3 +1861,4 @@ pdaclub.pl###banner_news
 pdaclub.pl##.moduletablereklama
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
+pfmrc.eu##a[href="https://modele24.pl/"]
