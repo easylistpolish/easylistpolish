@@ -1871,3 +1871,4 @@ polemi.co.uk##.moduletable-reklamab
 polemi.co.uk##.avd_display_block
 polemi.co.uk###reklama7
 polemi.co.uk###art_widget
+polemi.co.uk###reklama3
