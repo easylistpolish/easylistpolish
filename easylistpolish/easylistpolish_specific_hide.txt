@@ -1865,3 +1865,4 @@ pfmrc.eu##a[href="https://modele24.pl/"]
 pfmrc.eu##a[href="https://modele.sklep.pl/swiateczno-noworoczne-rabaty-do-60-pm-28.html"]
 pielgrzym.pelplin.pl##.g
 plejada.pl##.adsContainer
+pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/2132141521lp.gif.8b4d0194e945671f459e1b05861fed41.gif"]
