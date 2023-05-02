@@ -1869,3 +1869,4 @@ pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/213214
 pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/3473y4626bipcheap.png.337206122e604475ad8345fb98137f8f.png"]
 polemi.co.uk##.moduletable-reklamab
 polemi.co.uk##.avd_display_block
+polemi.co.uk###reklama7
