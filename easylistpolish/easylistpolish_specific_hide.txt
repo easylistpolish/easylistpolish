@@ -1876,3 +1876,4 @@ sciaga.pl##img[src="https://morfo.s3.amazonaws.com/2023-04-teb/sciaga-pl_750x200
 sciaga.pl##img[src="https://morfo.s3.eu-central-1.amazonaws.com/2023-am/banner_2023_PM.gif"]
 polskiautohandel.pl##.banner
 sadeczanin.info###topContainer
+sadeczanin.info##img[src="https://sadeczanin.info/sites/default/files/sadeczanin930x200.gif"]
