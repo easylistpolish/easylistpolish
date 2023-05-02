@@ -1872,3 +1872,4 @@ polemi.co.uk##.avd_display_block
 polemi.co.uk###reklama7
 polemi.co.uk###art_widget
 polemi.co.uk###reklama3
+sciaga.pl##img[src="https://morfo.s3.amazonaws.com/2023-04-teb/sciaga-pl_750x200.jpg"]
