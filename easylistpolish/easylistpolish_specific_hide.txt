@@ -1863,3 +1863,4 @@ pfmrc.eu##a[href="https://www.rchubiq.eu"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 pfmrc.eu##a[href="https://modele24.pl/"]
 pfmrc.eu##a[href="https://modele.sklep.pl/swiateczno-noworoczne-rabaty-do-60-pm-28.html"]
+pielgrzym.pelplin.pl##.g
