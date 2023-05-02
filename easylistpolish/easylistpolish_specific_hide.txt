@@ -1859,3 +1859,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nauka.rocks###sticky-anchor
 pdaclub.pl###banner_news
 pdaclub.pl##.moduletablereklama
+pfmrc.eu##a[href="https://www.rchubiq.eu"]
