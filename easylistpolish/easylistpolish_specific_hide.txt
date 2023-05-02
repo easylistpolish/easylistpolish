@@ -1858,3 +1858,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nauka.rocks###sticky-anchor
 pdaclub.pl###banner_news
+pdaclub.pl##.moduletablereklama
