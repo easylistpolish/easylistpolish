@@ -1867,3 +1867,4 @@ pielgrzym.pelplin.pl##.g
 plejada.pl##.adsContainer
 pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/2132141521lp.gif.8b4d0194e945671f459e1b05861fed41.gif"]
 pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/3473y4626bipcheap.png.337206122e604475ad8345fb98137f8f.png"]
+polemi.co.uk##.moduletable-reklamab
