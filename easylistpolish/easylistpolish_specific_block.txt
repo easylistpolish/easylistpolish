@@ -310,7 +310,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiat-piaseczynski.info^*_300x200.
 ||powiat-piaseczynski.info^*_300x250px-1.
-||prawy.pl^*^gabinety.
 ||prudnik24.pl^*^psb_mrowka.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
