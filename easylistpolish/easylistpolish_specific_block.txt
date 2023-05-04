@@ -8,7 +8,7 @@
 -baners.$domain=terazkrosno.pl
 -banery-$domain=automotivesuppliers.pl
 -banery^$domain=przeclaw24.pl
--banner-$domain=angielskieespresso.pl|biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
+-banner-$domain=biznes-hotel.pl|dlp-expert.pl|dwakwadranse.pl|erp-view.pl|forbot.pl|iknurow.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|wirlandii.pl|ww-model.pl
 -banner.$domain=gieldaklasykow.pl|legitymizm.org|naszosie.pl|nowepomorze.pl|postawnaswoim.pl|pozyczkaportal.pl|przedsiebiorczepodlasie.pl|tvzg.pl|wwl24.pl
 -banner1.$domain=tu.swinoujscie.pl
 -banner_$domain=kaszuby24.pl|oirplodz.pl
