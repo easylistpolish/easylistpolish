@@ -1881,3 +1881,4 @@ teleman.pl##.ad
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
+torrentcity.pl##a[href="https://bipcheap.com/page/how-it-works"]
