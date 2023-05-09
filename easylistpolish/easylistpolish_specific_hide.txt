@@ -1877,3 +1877,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 sport.interia.pl##.sc-eywOmQ
 sport.interia.pl##.sc-duSInm
 swidnica24.pl##a[href="https://www.iparts.pl"]
+teleman.pl##.ad
