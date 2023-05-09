@@ -1884,3 +1884,4 @@ tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
 torrentcity.pl##a[href="https://bipcheap.com/page/how-it-works"]
 torrentcity.pl##a[href="http://www.likeplus.eu/clickback"]
 traktorpool.pl##.billboard
+tvn.pl##.ado-placeholder
