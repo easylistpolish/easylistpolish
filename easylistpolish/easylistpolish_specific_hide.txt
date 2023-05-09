@@ -1894,3 +1894,4 @@ wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
 wiesci.com.pl##a[href="http://formaklub.pl/forma-klub-wolomin-1-maja//?lokalizacja="]
 zachodniopomorska.tv##.tipad_tag
 zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/komunikacja-1500-63f3b1ba0d563.jpg"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/MILGA-BANER-1500-63f3b0638f26b.jpg"]
