@@ -1886,3 +1886,4 @@ torrentcity.pl##a[href="http://www.likeplus.eu/clickback"]
 traktorpool.pl##.billboard
 tvn.pl##.ado-placeholder
 tvnakarte.eu##.mod-banners
+wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
