@@ -1888,3 +1888,4 @@ tvn.pl##.ado-placeholder
 tvnakarte.eu##.mod-banners
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50.jpg"]
+wiesci.com.pl##a[href="https://budet.pl/"]
