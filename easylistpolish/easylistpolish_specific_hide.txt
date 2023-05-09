@@ -1879,3 +1879,4 @@ sport.interia.pl##.sc-duSInm
 swidnica24.pl##a[href="https://www.iparts.pl"]
 teleman.pl##.ad
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
+tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
