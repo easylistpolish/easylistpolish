@@ -14,7 +14,7 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-ciechanowinaczej.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,szczecinek.com,tulegnica.pl,zambrow.org###ad--bill-top
+bbfan.pl,ciechanowinaczej.pl,egarwolin.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,szczecinek.com,tulegnica.pl,zambrow.org###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 fiatklubpolska.pl###ad_global_below_navbar
 togethermagazyn.pl###addbaner
@@ -409,7 +409,7 @@ portalspozywczy.pl##.abc
 40ton.net##.above-text-ads
 mistrzowie.org##.abox-view-content
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.acceptableb
-300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
+300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
 kazimierzdolny.pl##.ad--main
 pcworld.pl##.ad-bilbo2
 legionisci.com##.ad-billboard1
@@ -445,7 +445,7 @@ tuwodzislaw.pl##.addv-container
 gazetabilgoraj.pl##.adloc-before-header
 gazetabilgoraj.pl##.adloc-leftskyscraper
 panoramakutna.pl##.adnotacja
-tvn24.pl##.ado-placeholder
+tvn.pl,tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
 24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 wyborcza.biz,wyborcza.pl##.ads--splint
@@ -624,7 +624,7 @@ cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
 portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
-ddwloclawek.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org##.billboard
+ddwloclawek.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl##.billboard
 nowa-sprzedaz.pl##.block .auto-pr-block
 zinfo.pl##.block-ads-wrapper
 grojeckie24.pl##.block-image > .imageblock-image
@@ -938,7 +938,7 @@ widoczki.com##.mng + .menu + a
 motocykl-online.pl##.mo-optad
 twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
-fsd24.pl##.mod-banners
+fsd24.pl,tvnakarte.eu##.mod-banners
 bobrowniki.tv##.mod_banners_bottom_banners
 next.gazeta.pl##.mod_sponsoredArticle
 instalki.pl##.module-adv
@@ -1100,6 +1100,8 @@ zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
+sport.interia.pl##.sc-duSInm
+sport.interia.pl##.sc-eywOmQ
 naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
@@ -1211,7 +1213,7 @@ starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
-cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl##.tipad_tag
+cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,zachodniopomorska.tv##.tipad_tag
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,franchising.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
@@ -1262,7 +1264,7 @@ gloskrakowa.pl##.widget-2,.widget-4
 gazetawielkopolska.pl,prudnik24.pl##.widget-3
 lsw24.pl##.widget-ad-image
 lokalna24.pl##.widget-advert_centralplacement
-faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl##.widget-advert_placement
+faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 40ton.net##.widget_adbaner_widget
@@ -1426,6 +1428,7 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
+wiesci.com.pl##a[href="http://formaklub.pl/forma-klub-wolomin-1-maja//?lokalizacja="]
 gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
 nie-spamuj.eu##a[href="http://online.freeware.info.pl/imperia-online.html"]
 gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"]
@@ -1441,17 +1444,20 @@ faunaflora.com.pl##a[href="http://www.infermo.pl/"]
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
-darmowe-torenty.pl,exsites.pl##a[href="http://www.likeplus.eu/clickback"]
+darmowe-torenty.pl,exsites.pl,torrentcity.pl##a[href="http://www.likeplus.eu/clickback"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
-darmowe-torenty.pl,exsites.pl##a[href="https://bipcheap.com/page/how-it-works"]
+darmowe-torenty.pl,exsites.pl,torrentcity.pl##a[href="https://bipcheap.com/page/how-it-works"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
+wiesci.com.pl##a[href="https://budet.pl/"]
 nanarty.info##a[href="https://cervenohorskesedlo.eu/pl"]
 mobiletrends.pl##a[href="https://escola.pl/?utm_source=Mobile+Trends&utm_medium=Banner"]
+wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
+wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=120&sid=878&cid=&pid=&affid=656667"]
 angielskieespresso.pl##a[href="https://m.lvbetpartners.pl/Redirect.aspx?mid=121&sid=878&cid=&pid=&affid=656667"]
@@ -1488,11 +1494,15 @@ plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
 plonskwsieci.pl##a[href="https://www.facebook.com/profile.php?id=100087170982578"]
 plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
 gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
+swidnica24.pl##a[href="https://www.iparts.pl"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
+tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
+tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
+tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
 chelmski.eu##a[href="naszchelm.eu"]
 mojprzewodnik.pl##a[href="www.finans.pl"]
 livingroom24.pl##a[href^="/ads/"]
@@ -1830,6 +1840,13 @@ sciaga.pl##img[src="https://morfo.s3.eu-central-1.amazonaws.com/2023-am/banner_2
 pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/2132141521lp.gif.8b4d0194e945671f459e1b05861fed41.gif"]
 pobieramy24.xyz##img[src="https://pobieramy24.xyz/uploads/monthly_2022_12/3473y4626bipcheap.png.337206122e604475ad8345fb98137f8f.png"]
 sadeczanin.info##img[src="https://sadeczanin.info/sites/default/files/sadeczanin930x200.gif"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/MILGA-BANER-1500-63f3b0638f26b.jpg"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/gospodnik-BANER-63f3ac5f76734.jpg"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/komunikacja-1500-63f3b1ba0d563.jpg"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/przegrywanie-kaset-63f3b5db65817.jpg"]
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/satkom1500-63f3b368f1e2a.jpg"]
+wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50.jpg"]
+wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_wiesci-300x175.png"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
 plonskwsieci.pl##img[src^="/upload/ALIOR_PLONSK_1170_600_PGO23 - Copy 1.jpg"]
 plonskwsieci.pl##img[src^="/upload/poprJorapol1170x300_gif_2_1_.gif"]
@@ -1874,29 +1891,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-sport.interia.pl##.sc-eywOmQ
-sport.interia.pl##.sc-duSInm
-swidnica24.pl##a[href="https://www.iparts.pl"]
-teleman.pl##.ad
-tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
-tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
-tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
-torrentcity.pl##a[href="https://bipcheap.com/page/how-it-works"]
-torrentcity.pl##a[href="http://www.likeplus.eu/clickback"]
-traktorpool.pl##.billboard
-tvn.pl##.ado-placeholder
-tvnakarte.eu##.mod-banners
-wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
-wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50.jpg"]
-wiesci.com.pl##a[href="https://budet.pl/"]
-wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_wiesci-300x175.png"]
-wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
-wiesci.com.pl##a[href="http://formaklub.pl/forma-klub-wolomin-1-maja//?lokalizacja="]
-zachodniopomorska.tv##.tipad_tag
-zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/komunikacja-1500-63f3b1ba0d563.jpg"]
-zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/MILGA-BANER-1500-63f3b0638f26b.jpg"]
-zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/gospodnik-BANER-63f3ac5f76734.jpg"]
-zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/przegrywanie-kaset-63f3b5db65817.jpg"]
-zachodniopomorska.tv##.widget-advert_placement
-zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/satkom1500-63f3b368f1e2a.jpg"]
-bbfan.pl###ad--bill-top
