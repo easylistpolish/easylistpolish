@@ -1893,3 +1893,4 @@ wiesci.com.pl##img[src="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_w
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
 wiesci.com.pl##a[href="http://formaklub.pl/forma-klub-wolomin-1-maja//?lokalizacja="]
 zachodniopomorska.tv##.tipad_tag
+zachodniopomorska.tv##img[src="https://sc.4media.com/data/aqwzxtvn/2023/02/20/komunikacja-1500-63f3b1ba0d563.jpg"]
