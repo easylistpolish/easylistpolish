@@ -60,7 +60,6 @@ dostawczaki.pl###banners-section
 drhtv.com.pl###bannertop
 domy.pl###bb-ad-inline-2
 domy.pl###bb-banner-top
-mapa.targeo.pl###bblbrd_outer
 otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
 ftb.pl###billboard
