@@ -585,7 +585,6 @@ ele24.net,kurier-kolejowy.pl##.banner-top
 miastons.pl##.banner-tracking-gtm
 forum-bron.pl##.banner1
 id-24.pl##.banner1-wrap
-kanonierzy.com##.banner2
 codziennikmlawski.pl##.banner3
 stadionowioprawcy.net##.bannerBox a[target="_blank"]
 mojanorwegia.pl##.bannerTop
