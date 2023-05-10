@@ -68,7 +68,6 @@ tp.com.pl###bills_in_rotation_1_8239
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
-dnews.pl###black-studio-tinymce-99
 telewizor.eu###block
 icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
