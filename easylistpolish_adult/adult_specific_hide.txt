@@ -13,3 +13,4 @@ nagofoto.pl##a[href$="?par=dating"]
 sexeo.pl##a[href^="http://beztabu.com"]
 filmy69.pl#?#li.videoblock:-abp-has(iframe[id][src*="/www/delivery/"])
 filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
+nagofoto.pl##.linkfon
