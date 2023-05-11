@@ -1890,3 +1890,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 weszlo.com##.single-side-column .ad-placeholder-bg
 zkaszub.info##.zkasz-widget a[target="_blank"]
+niedziela.pl##.fullpage-ads
