@@ -1894,3 +1894,4 @@ weszlo.com##.single-side-column .ad-placeholder-bg
 zkaszub.info##.zkasz-widget a[target="_blank"]
 niedziela.pl##.fullpage-ads
 pomorska.pl##.componentsPromotionsArticlePromotedList
+dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
