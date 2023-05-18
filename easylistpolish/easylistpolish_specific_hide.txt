@@ -48,10 +48,7 @@ infomare.pl###baneranim
 archispace.pl,hodowle.eu,instalki.pl###banner
 krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17
-genetyczne.pl###banner-20
-genetyczne.pl###banner-21
-genetyczne.pl###banner-23,#banner-24
-genetyczne.pl###banner-6
+genetyczne.pl###banner-6,#banner-20,#banner-21,#banner-23,#banner-24
 przemysl24.pl###banner-top
 dkl24.pl###banner10
 pdaclub.pl###banner_news
