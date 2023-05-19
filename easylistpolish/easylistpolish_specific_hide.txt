@@ -59,6 +59,7 @@ domy.pl###bb-ad-inline-2
 domy.pl###bb-banner-top
 otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
+forsal.pl###bill_top_id
 ftb.pl###billboard
 tp.com.pl###bills_in_rotation_1_8239
 dnews.pl###black-studio-tinymce-111
@@ -682,7 +683,7 @@ wlodawa.net##.col-sm-4
 radioccm.pl##.com_reklamy
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
@@ -767,6 +768,7 @@ wronieckibazar.pl##.fright + div + div
 starosadeckie.info##.front-medium
 starosadeckie.info##.front-top
 skript.pl##.fuckAdBlock
+niedziela.pl##.fullpage-ads
 agronews.com.pl,pielgrzym.pelplin.pl##.g
 slupca.pl##.g-2
 itvwisla.tv##.g-3
@@ -1124,6 +1126,7 @@ gloslodzi.pl##.sidebar_area .widget-2 .textwidget
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 gazetkonosz.pl##.signad
 zywiec112.com.pl##.simple-popup-advert
+weszlo.com##.single-side-column .ad-placeholder-bg
 dzierzgon-twojemiasto.pl##.site-branding
 codziennypoznan.pl##.site-header .elementor-shortcode
 twojskaryszew.pl##.site-header .np-header-ads-area
@@ -1295,6 +1298,7 @@ facetpo40.pl##.wrapper_smallimages
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
 pod24.info##.yjsquare_in a[href*="youtube.com/"][target="_blank"]
 zeglarski.info##.zegla-baner_gora
+zkaszub.info##.zkasz-widget a[target="_blank"]
 waw4free.pl##.zobacz-box
 waw4free.pl##.zobacz-box-text
 eska.pl##.zpr_bottom_1
@@ -1352,7 +1356,6 @@ allegro.pl##[data-box-name*="advertising"]
 allegro.pl##[data-box-name="Container PPC Offers"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
-allegro.pl#?#div:-abp-has(>h2:-abp-contains(Oferty promowane))
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
@@ -1636,6 +1639,7 @@ ipulawy.pl##a[target="_blank"].vc_box_border_grey
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
 maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
+allegro.pl#?#div:-abp-has(>h2:-abp-contains(Oferty promowane))
 fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
 dziennikzachodni.pl,nowiny24.pl##article.contentStream
@@ -1800,6 +1804,7 @@ ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
 gazetaklobucka.pl##div[style="margin-top: 15px; margin-bottom: 25px;"]
 calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 220px;"]
 businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
+dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
 stooq.pl##div[style="width:300;height:250"]
 mojaolesnica.pl##div[style^="font-size: 11px; color: #9f9f9f; float: left; text-align: left; color:"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
@@ -1885,9 +1890,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-weszlo.com##.single-side-column .ad-placeholder-bg
-zkaszub.info##.zkasz-widget a[target="_blank"]
-niedziela.pl##.fullpage-ads
-pomorska.pl##.componentsPromotionsArticlePromotedList
-dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
-forsal.pl###bill_top_id
