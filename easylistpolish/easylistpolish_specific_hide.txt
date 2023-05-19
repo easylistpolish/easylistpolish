@@ -331,7 +331,6 @@ telewizjastk.pl,zambrowiacy.pl###topbanner
 silacze.org###tri-mot
 prokuratura-zz.pl###ubezpieczenie-top
 telewizjaleszno.pl###vlog-module-0-0
-polskiemiasta.tv###wartozobaczyc
 zakliczyninfo.pl###wdb_advert-line
 wiescipolickie.pl###wds_slideshow_image_container_0
 polukr.net###weptile-image-slider-widget-11
