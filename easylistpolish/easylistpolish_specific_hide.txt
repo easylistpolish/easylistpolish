@@ -1346,7 +1346,6 @@ pokerlistings.pl##[class^="spu-"]
 zkaszub.info##[class^="zkasz-"]
 pfcc.eu##[color="#FFFFFF"] a
 bielsko.info,tychy.info##[data-ads-id]
-allegro.pl##[data-analytics-view-custom-context="PROMOTED"]
 allegro.pl##[data-analytics-view-custom-context="SPONSORED"]
 allegro.pl##[data-analytics-view-opbox-custom-destination-url*="reklama"]
 abczdrowie.pl##[data-bc]
@@ -1639,7 +1638,6 @@ ipulawy.pl##a[target="_blank"].vc_box_border_grey
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
 maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
-allegro.pl#?#div:-abp-has(>h2:-abp-contains(Oferty promowane))
 fm.tuba.pl##app-advert
 medycyna24.pl##article > .insert--top-offer
 dziennikzachodni.pl,nowiny24.pl##article.contentStream
