@@ -266,7 +266,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mfiles.pl^*^comarch_
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
-||miastons.pl^*^donking-
 ||mmarocks.pl^*^1342x178.
 ||motocykle125.pl^*^junak^$subdocument
 ||naszekielce.com^*^inkubator_kielce.
