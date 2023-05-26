@@ -247,7 +247,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.com-
-||kurier-lokalny.com^*^Matuz-
 ||lechia.net^*^jooma-guru-
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
