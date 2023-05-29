@@ -361,6 +361,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
 ||tenis.net.pl^*^oszustwo300x200
+||terazkrosno.pl/images/rek/
 ||tkaninyobiciowe.eu^*^dik-hurtownia-
 ||tkaninyobiciowe.eu^*^nastex.
 ||transg.pl^*^meblohaus_
