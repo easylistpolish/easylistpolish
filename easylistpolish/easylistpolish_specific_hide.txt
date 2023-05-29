@@ -1893,3 +1893,4 @@ mypolkowice.pl##.topLayer
 koscianiak.pl##.topLayer
 czadrow24.pl###main .aligncenter a[target="_blank"]
 tv-wschod.pl##.my-3 div[data-ciid]
+stronazdrowia.pl##.componentsPromotionsArticlePromotedList
