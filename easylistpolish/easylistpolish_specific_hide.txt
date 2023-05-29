@@ -81,7 +81,6 @@ innemedium.pl###block-views-reklama-block
 konin24.info###box
 laboratoria.net###box40
 bilgorajska.pl,gada.pl###box_r
-bb365.info###bsa-html
 wspolnota.org.pl###c325
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
@@ -1073,7 +1072,6 @@ okraglemiasto.pl##.reklama_top
 skawina24.com##.reklamaoff
 bukowskilider.pl##.reklamaprawastrona
 eurologistics.pl##.reklamka_sidebar
-bb365.info##.reklamki
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 konindzieciom.pl##.rektop
 stoczniowcy.pl##.right
