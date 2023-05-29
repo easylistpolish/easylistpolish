@@ -115,7 +115,6 @@
 ^xreklama-$domain=tu.swinoujscie.pl|tv-pelplin.pl
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
-_ban_$domain=glos.live
 _baner%$domain=transg.pl
 _baner.$domain=112malopolska.pl|112wadowice.pl|gazetagazeta.com|mojapsychologia.pl|polonia.nl|ptvr.pl|radomsport.pl
 _baner_$domain=biegologia.pl|goal.pl|kuriersuwalski.pl|magazynfakty.pl|ostrodanews.pl|podlaskie24.pl|poscigi.pl|radiotczew.pl|sokolka.tv|wdrawskupomorskim.pl
@@ -213,7 +212,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
 ||glos-tn.krakow.pl/palottifm.
-||glos.live^*^Vitality_
 ||goldap.org.pl^*^fronton.
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
