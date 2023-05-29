@@ -1891,3 +1891,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nowysztum.pl##.topLayer
 zlotowskie.pl###ad--bill-top
+mypolkowice.pl##.topLayer
