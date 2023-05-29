@@ -1892,3 +1892,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nowysztum.pl##.topLayer
 zlotowskie.pl###ad--bill-top
 mypolkowice.pl##.topLayer
+koscianiak.pl##.topLayer
