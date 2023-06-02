@@ -820,7 +820,6 @@ mambiznes.pl##.header-billboard-area
 promocja.mielec.pl##.header-content
 magazynbiomasa.pl##.header-promo
 infokrakow24.pl,pyrzyce.info##.header-right
-terazkrosno.pl##.header-top
 polacywewloszech.com##.header-top-right
 siechnice.com.pl##.header__ad-main
 divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
