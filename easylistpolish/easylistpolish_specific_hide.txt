@@ -191,6 +191,7 @@ swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
 mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
+terazkrosno.pl###module-235
 glamrap.pl,goleniowska.com###mvp-leader-wrap
 slonskyradio.eu###n2-ss-4-align
 lublin112.pl###native-ad
