@@ -1902,3 +1902,4 @@ myglogow.pl##.topLayer
 bialobrzegi24.net##.topLayer
 erolnicze.pl##.topLayer
 lublin112.pl##.container[style="min-height: 325px"]
+ototorun.pl##.grid__ad
