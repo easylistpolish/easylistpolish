@@ -1899,3 +1899,4 @@ portal-mundurowy.pl###sp-header
 portal-mundurowy.pl##.banneritem
 rydzyna24.pl##.topLayer
 myglogow.pl##.topLayer
+bialobrzegi24.net##.topLayer
