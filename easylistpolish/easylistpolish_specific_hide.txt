@@ -1897,3 +1897,4 @@ tv-wschod.pl##.my-3 div[data-ciid]
 stronazdrowia.pl##.componentsPromotionsArticlePromotedList
 portal-mundurowy.pl###sp-header
 portal-mundurowy.pl##.banneritem
+rydzyna24.pl##.topLayer
