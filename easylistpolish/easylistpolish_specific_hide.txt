@@ -1659,7 +1659,7 @@ petportal.pl##aside[id^="media_image-"]
 golfpl.com##aside[id^="text-"] a > img
 kryptowaluty.info.pl##aside[id^="text-"] a[target="_blank"] > img
 przypadkimedyczne.pl##banner[name="ContainerLeft_3"]
-betonline.net.pl,mecze24.pl
+betonline.net.pl
 ostrowczanie.info##body > center > a
 anime-odcinki.pl##center > a
 tkn24.pl##center > a[target="_blank"] > img
