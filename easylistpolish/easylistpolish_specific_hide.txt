@@ -1593,7 +1593,7 @@ e-kg.pl##a[href^="https://www.freedom-nieruchomosci.pl/"]
 przeclaw24.pl##a[href^="https://www.fruktolinka."]
 bazylika-limanowa.pl##a[href^="https://www.golddrop."]
 tuolawa.pl##a[href^="https://www.hipol.pl/"]
-radiogol.pl,vwgolf.pl##a[href^="https://www.iparts.pl/"]
+radiogol.pl,vwgolf.pl##a[href^="https://www.iparts."]
 podhale-sport.pl##a[href^="https://www.karpatiabs.pl"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
 cryptonews.pl##a[href^="https://www.koinal.io/"] img
