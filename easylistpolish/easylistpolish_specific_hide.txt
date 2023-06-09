@@ -1585,7 +1585,7 @@ linktopoland.com,lipno-cli.pl,radiogol.pl,swidnica24.pl,swoszowice.org.pl##a[hre
 plonskwsieci.pl##a[href^="https://www.bnpparibas.pl/misjasamodzielnosc/ekwipunek-"]
 plonskwsieci.pl##a[href^="https://www.bsplonsk.pl/klienci-indywidualni/konta/dla-mlodych/"]
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/"]
-twojaslupca.pl##a[href^="https://www.czesciauto24.pl/"]
+twojaslupca.pl##a[href^="https://www.czesciauto24."]
 klubpodroznikow.com##a[href^="https://www.euautoczesci.pl/"]
 tuolawa.pl##a[href^="https://www.facebook.com/ceramika."]
 brief.pl##a[href^="https://www.foodtown.pl"]
