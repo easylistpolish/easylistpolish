@@ -1424,7 +1424,7 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
-wiesci.com.pl##a[href="http://formaklub.pl/forma-klub-wolomin-1-maja//?lokalizacja="]
+wiesci.com.pl##a[href^="http://formaklub.pl/forma-klub-wolomin-"]
 gazeta-mosina.pl##a[href="http://kajaki2.pl/"]
 nie-spamuj.eu##a[href="http://online.freeware.info.pl/imperia-online.html"]
 gazeta-mosina.pl##a[href="http://swierkowyzakatek.pl/"]
