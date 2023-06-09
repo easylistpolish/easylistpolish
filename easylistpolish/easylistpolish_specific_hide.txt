@@ -1635,7 +1635,7 @@ bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
 niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
 wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
 ipulawy.pl##a[target="_blank"].vc_box_border_grey
-trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-chlewna."])
+trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-"])
 maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
 fm.tuba.pl##app-advert
