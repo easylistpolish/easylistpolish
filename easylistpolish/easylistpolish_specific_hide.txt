@@ -1871,7 +1871,7 @@ iknurow.pl##script + .td-container
 kryptoporadnik.pl##script + center
 beatcoin.pl##script ~ center
 eku24.net,elc24.net,ele24.net,eop24.net,epa24.net,erw24.net,esi24.net,ezg24.net##section#gkZyczenia
-wykop.pl##section[data-label="ad: sticky-bottom"]
+wykop.pl##section[data-label^="ad: sticky-"]
 wykop.pl##section[data-label="ad: top"]
 wykop.pl##section[data-label^="ad: market-"]
 wykop.pl##section[data-label^="ad: sidebar-"]
