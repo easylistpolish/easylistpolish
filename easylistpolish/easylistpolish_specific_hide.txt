@@ -890,6 +890,7 @@ ototorun.pl##.l-box--100 > p > a[target="_self"]
 nolesnica.pl##.l-box--100 a[target="_blank"]
 goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
+transfermarkt.pl##.large-4 > div > img[src$=".gif"]
 radiorodzina.pl##.left-large-ad
 dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,olesnica24.com,portalwloclawek.pl,radiosochaczew.pl,tv.starachowice.pl,wirtualnesuwalki.pl,zycieolsztyna.pl##.legal-notice
 radomsport.pl##.lewa
@@ -1212,6 +1213,7 @@ bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,zachodniopomorska.tv##.tipad_tag
+transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,franchising.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
@@ -1255,6 +1257,7 @@ businessjournal.pl##.vmagazine_medium_ad
 mma.pl##.w2g
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
+transfermarkt.pl##.werbung-billboard
 womenshealth.pl##.wh-optad
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
@@ -1784,6 +1787,7 @@ pojezierze.com.pl##div[id^="pojez-"]
 ostrowiec-sw.pl##div[id^="re_"]
 rydzyna24.pl##div[id^="rydzy-"]
 kurierostrowiecki.pl##div[id^="sad_"]
+transfermarkt.pl##div[id^="sftb"]
 jagodnik.pl##div[id^="spu-"]
 kolbuszowalokalnie.pl##div[id^="text-"] a:not([href^="https://kolbuszowalokalnie.pl"])
 tvmstalowawola.pl##div[id^="tvmst-slider-"]
@@ -1886,7 +1890,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-transfermarkt.pl##.large-4 > div > img[src$=".gif"]
-transfermarkt.pl##div[id^="sftb"]
-transfermarkt.pl##.tm-header > div > img[src$=".gif"]
-transfermarkt.pl##.werbung-billboard
