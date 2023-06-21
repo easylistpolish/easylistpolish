@@ -1420,7 +1420,7 @@ businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
 anime-odcinki.pl##a[href*="https://e-neko.pl"] > img
-radomsport.pl##a[href*="https://www.toyota.radom.pl/"]
+radomsport.pl##a[href*="https://www.toyota.radom.pl"]
 cozadzien.pl,namasce.pl##a[href*="iparts.pl"]
 etransport.pl##a[href*="kampanie.etransport.pl"]
 kuriergarwolinski.pl##a[href*="klikniecia"]
