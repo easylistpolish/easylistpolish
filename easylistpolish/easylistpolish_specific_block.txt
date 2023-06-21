@@ -197,7 +197,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||eswinoujscie.pl^*-noclegi-baza-
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
-||eswinoujscie.pl^*^zdjecia-slubne-nad
+||eswinoujscie.pl^*^zdjecia-slubne-
 ||evertiq.pl/bximg^
 ||fadstrack.com^$script,domain=make-cash.pl
 ||faunaflora.com.pl/euroanimal.
