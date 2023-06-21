@@ -182,7 +182,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
 ||edipresse.hit.gemius.pl^$domain=przyslijprzepis.pl
-||egorzow.pl^*-pzu_gorzow_mieszka.
+||egorzow.pl^*-pzu_gorzow_
 ||ekologia.guru^*^baner03.
 ||ekologia.guru^*^seo.
 ||elubaczow.com^*^lprez.
