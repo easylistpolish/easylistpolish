@@ -220,7 +220,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
 ||hiszpania-apartamenty.pl^*^hotele.
-||hiszpania-apartamenty.pl^*^samochody.jpg
+||hiszpania-apartamenty.pl^*^samochody.
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ||ifrancja.fr^*^jobsora.
