@@ -666,7 +666,7 @@ naszahuta.pl##.c-banners
 bbfan.pl,ciechanowinaczej.pl,dobroni.pl,e-kg.pl,eprzasnysz.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,jaworzno.biz,kartuzy.info,konecki24.pl,koscierski.info,profitnes.pl,pultusk24.pl,szczecinek.com,terazostroleka.pl,tugrodzisk.pl,tulegnica.pl,turyki.pl,twojradom.pl,wabrzezno-cwa.pl,zyciekalisza.pl##.c-content__adv
 izabelin24.pl##.c-gallery__bilboard-ad
 tp.com.pl##.card--box
-sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com/"]
+sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
 kramik.pl##.click-banner
