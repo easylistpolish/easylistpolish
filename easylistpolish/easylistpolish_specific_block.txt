@@ -235,7 +235,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kmziz.pl^*^250x250c^
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
-||komediowo.pl^*^ciekawe-miejsca-w-warszawie.
+||komediowo.pl^*^ciekawe-miejsca-w-
 ||kopalniawiedzy.pl^*^skanerMKS.
 ||koscierzyna24.info^*^s3_
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
