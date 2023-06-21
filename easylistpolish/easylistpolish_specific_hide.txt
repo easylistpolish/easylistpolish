@@ -1185,7 +1185,7 @@ netkonkret.pl##.td-a-rec-id-custom-spot
 24klodzko.pl##.td-a-rec-id-header
 koscianiak.pl##.td-adspot-title
 probasket.pl##.td-all-devices
-jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl/"])
+jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl"])
 lwowecki.info##.td-all-devices2
 eswinoujscie.pl##.td-banner-bg
 comparic.pl,poloniairlandia.pl##.td-banner-wrap-full
