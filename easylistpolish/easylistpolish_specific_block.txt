@@ -138,7 +138,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||b24tv.pl^*^wolmed_
 ||baby-shower.pl^*^babymama-
 ||bejsment.com^*^300x100xbejsment-ad-
-||bejsment.com^*^dalekDiamonds300x100_
+||bejsment.com^*^dalekDiamonds300x
 ||biotechnologia.pl^*^ats^
 ||bitcoinwidget.pl^$domain=jpktraders.pl
 ||blogomaniak.pl^*-ceneo-
