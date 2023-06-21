@@ -194,7 +194,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||esensja.pl^*^skapiec-
 ||estadios24.pl/img/*.webp
 ||estrzelce.pl^*^*maral.
-||eswinoujscie.pl^*-noclegi-baza-hotelowa-
+||eswinoujscie.pl^*-noclegi-baza-
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-nad
