@@ -219,7 +219,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||gpi5.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||greencanoe.pl^*-802x118.
 ||greencanoe.pl^*^248x248px_
-||hiszpania-apartamenty.pl^*^hotele.jpg
+||hiszpania-apartamenty.pl^*^hotele.
 ||hiszpania-apartamenty.pl^*^samochody.jpg
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
