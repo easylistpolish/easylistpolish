@@ -368,7 +368,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
 ||w203.pl/autoczescionline24_
-||w203.pl/sklep-motoryzacyjny-iparts.
+||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
 ||weben1.com^$domain=icyfrowypolsat.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
