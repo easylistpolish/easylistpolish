@@ -158,7 +158,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||cmas.pl^*^banners^animacja_
-||codziennikmlawski.pl^*^szpulka_pasaz_okm-
+||codziennikmlawski.pl^*^szpulka_pasaz_
 ||cyfrowaekonomia.pl^*quark3.
 ||dentoforum.pl^*^baner1.
 ||dicatatepantry.com^$domain=anime-odcinki.pl
