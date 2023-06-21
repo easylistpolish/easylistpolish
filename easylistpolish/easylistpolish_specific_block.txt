@@ -251,7 +251,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
 ||lwowecki.info^*^03/samson-
-||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.js?
+||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.css?
 ||market.bia24.pl/
 ||masztu.pl^*^udzialowiec.
