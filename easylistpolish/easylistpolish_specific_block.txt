@@ -331,7 +331,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||spliff.pl^*^sensimilla_
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
-||sprowadzanie-aut.pl^*^auta-z-usa-pl.
+||sprowadzanie-aut.pl^*^auta-z-usa-
 ||stalowemiasto.pl/_a^
 ||stalowemiasto.pl/colada2^
 ||starosadeckie.info^*^CZYSTE-POWIETRZE.
