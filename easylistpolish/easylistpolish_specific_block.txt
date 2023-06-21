@@ -175,7 +175,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||e-pingpong.pl^*^pileczkigewo-
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
-||ebarlinek.pl^*^beznazwy-1.
+||ebarlinek.pl^*^beznazwy-
 ||ebd.cda-hd.co/api/users^
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
