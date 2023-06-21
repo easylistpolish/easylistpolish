@@ -328,7 +328,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
 ||spliff.pl^*^ecobison_
-||spliff.pl^*^sensimilla_logo_
+||spliff.pl^*^sensimilla_
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-pl.
