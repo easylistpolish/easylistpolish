@@ -1394,7 +1394,7 @@ leczna24.pl##a > img[src^="b/"][class="img-responsive"]
 pch24.pl##a > img[width="1340"][height="300"]
 nowawrzesnia.pl##a.vc_box_border_grey
 kierunekchemia.pl,kierunekenergetyka.pl,kierunekfarmacja.pl,kierunekkosmetyki.pl,kierunekpompy.pl,kierunekspozywczy.pl,kieruneksurowce.pl,kierunekwodkan.pl##a:not([href*="&link=https://www.kierunek"]) > img[src^="Resources/ba/"]
-grojeckie24.pl##a:not([href^="http://grojeckie24.pl/"]) > .imageblock-image
+grojeckie24.pl##a:not([href^="http://grojeckie24.pl"]) > .imageblock-image
 nowinynyskie.com.pl##a:not([href^="https://nowinynyskie.com.pl/"]) img[width="370"]
 perspektywy.pl##a:not([href^="https://perspektywy.pl/"]) > img[src*="/banners/"]
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl/"]) > img[class*="wp-image-"]
