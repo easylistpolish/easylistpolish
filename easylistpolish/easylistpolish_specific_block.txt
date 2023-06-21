@@ -327,7 +327,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
-||spliff.pl^*^ecobison_logo_
+||spliff.pl^*^ecobison_
 ||spliff.pl^*^sensimilla_logo_
 ||spottedskarzysko.pl^*^pup_
 ||spottedskarzysko.pl^*^szmaragd.
