@@ -803,7 +803,7 @@ nowiny24.pl,nowosci.com.pl##.gry
 gramwzielone.pl##.gwz-adv
 odkryjpomorze.pl##.h-line
 super-warez.eu##.h_banner-block
-dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl/"])
+dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl"])
 interia.pl##.has-mixerAdTopRight
 speedwaynews.pl##.has-text-align-center
 siechnice.com.pl##.head-rek
