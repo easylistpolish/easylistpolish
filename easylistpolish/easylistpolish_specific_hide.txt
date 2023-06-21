@@ -1207,7 +1207,7 @@ lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
 bociany.tv,katowice24.info,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
-starosadeckie.info##.the-slider ~ div[style="overflow: hidden;"]
+starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
