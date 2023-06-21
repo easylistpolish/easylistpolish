@@ -506,7 +506,7 @@ edziecko.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##.adviewDFPBanner
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
 life4style.pl,sporteuro.pl##.ai-rotate
-codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl/"])
+codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
 emaszyny.pl##.aimg
 joemonster.org##.alwaysOnScreen
