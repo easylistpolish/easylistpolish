@@ -167,7 +167,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
 ||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
-||dzisiajwgliwicach.pl^*^sixsilver-jubiler
+||dzisiajwgliwicach.pl^*^sixsilver-
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
 ||e-kolo.pl/css/popup.css^$stylesheet,domain=e-kolo.pl
