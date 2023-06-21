@@ -651,7 +651,7 @@ cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama
 24kurier.pl##.box_reklama_txt
 lublin112.pl##.boxa
-radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl/"])
+radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl"])
 ang24.pl##.brm
 cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
