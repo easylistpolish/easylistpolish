@@ -1471,7 +1471,7 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77
 motomaszyny.pl##a[href="https://osprzet.info.pl/"]
 ceo.com.pl##a[href^="https://osteohelp.pl/osteopatia/"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
-forum.pasja-informatyki.pl##a[href="https://quesflo.com/pl/"]
+forum.pasja-informatyki.pl##a[href^="https://quesflo.com/"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
