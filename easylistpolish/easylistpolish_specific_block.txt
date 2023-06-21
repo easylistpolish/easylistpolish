@@ -239,7 +239,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||kopalniawiedzy.pl^*^skanerMKS.
 ||koscierzyna24.info^*^s3_
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
-||kryniczanie.pl^*^ubezpieczenie-na-zycie-
+||kryniczanie.pl^*^ubezpieczenie-na-
 ||kryptoholik.pl^*^nestt.
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
