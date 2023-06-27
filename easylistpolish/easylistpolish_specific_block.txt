@@ -391,3 +391,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=polski-tenis.pl
+^banners^$domain=ogloszeniarolnicze.com.pl
