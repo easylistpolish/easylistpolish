@@ -1893,3 +1893,4 @@ wybudujemy.com.pl##.topLayer
 motomagazyn.com##.topLayer
 defence24.pl##.ad-banner
 dojczland.info###tdi_39
+wizaz.pl##.ecomm-placement
