@@ -1893,3 +1893,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 dziennikhistoryczny.pl##.topLayer
 prawobrzeze24.pl##.topLayer
 modnymagazyn.pl##.topLayer
+wybudujemy.com.pl##.topLayer
