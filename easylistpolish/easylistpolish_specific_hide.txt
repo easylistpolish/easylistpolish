@@ -163,7 +163,6 @@ gorliczanin.pl###main > section[id^="metaslider_widget-"]
 zawiercianskie.pl###main-header .widget_media_image
 filmweb.pl###mainSkyBanner-pl_PL
 oknonet.pl###mainbaner
-biegowki.pl###makler42
 skipol.pl###makler7
 skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
