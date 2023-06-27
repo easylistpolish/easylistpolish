@@ -1895,3 +1895,4 @@ prawobrzeze24.pl##.topLayer
 modnymagazyn.pl##.topLayer
 wybudujemy.com.pl##.topLayer
 motomagazyn.com##.topLayer
+defence24.pl##.ad-banner
