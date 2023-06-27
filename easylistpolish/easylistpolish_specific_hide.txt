@@ -1894,3 +1894,4 @@ dziennikhistoryczny.pl##.topLayer
 prawobrzeze24.pl##.topLayer
 modnymagazyn.pl##.topLayer
 wybudujemy.com.pl##.topLayer
+motomagazyn.com##.topLayer
