@@ -7,8 +7,6 @@ techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
 skyradar.pl###HTML4
-stereoikolorowo.blogspot.com###Image10
-stereoikolorowo.blogspot.com###Image5
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
@@ -163,10 +161,8 @@ czadrow24.pl###main .aligncenter a[target="_blank"]
 ostrowiecnews.pl###main > center:first-of-type > a
 gorliczanin.pl###main > section[id^="metaslider_widget-"]
 zawiercianskie.pl###main-header .widget_media_image
-wodnyrelax.pl###main2
 filmweb.pl###mainSkyBanner-pl_PL
 oknonet.pl###mainbaner
-biegowki.pl###makler42
 skipol.pl###makler7
 skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
@@ -652,7 +648,7 @@ cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama_txt
 lublin112.pl##.boxa
 radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl"])
-ang24.pl##.brm
+ang24.pl##.bnm
 cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
 poscigi.pl##.bsaProContainerNew
@@ -1890,3 +1886,11 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+dziennikhistoryczny.pl##.topLayer
+prawobrzeze24.pl##.topLayer
+modnymagazyn.pl##.topLayer
+wybudujemy.com.pl##.topLayer
+motomagazyn.com##.topLayer
+defence24.pl##.ad-banner
+dojczland.info###tdi_39
+wizaz.pl##.ecomm-placement
