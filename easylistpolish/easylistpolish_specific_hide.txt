@@ -1892,3 +1892,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kutno.net.pl##.ads .slides
 tygodnikpiski.pl##.medium-12 center
 panoramakutna.pl##.rekl + center
+otodom.pl##div[data-cy="search.listing.promoted"]
