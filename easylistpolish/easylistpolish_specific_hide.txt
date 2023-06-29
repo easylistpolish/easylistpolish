@@ -1891,3 +1891,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 kutno.net.pl##.ads .slides
 tygodnikpiski.pl##.medium-12 center
+panoramakutna.pl##.rekl + center
