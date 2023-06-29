@@ -323,7 +323,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
 ||s0urce.io^*^idletowerminer^
-||sas-sap.com/$domain=polonia.poznan.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
