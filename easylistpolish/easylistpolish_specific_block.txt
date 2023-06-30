@@ -395,3 +395,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=e-golub.info.pl
 ||video.onnetwork.tv^$script,domain=myszkow365.pl
 ||video.onnetwork.tv^$script,domain=nrypin.pl
+||video.onnetwork.tv^$script,domain=tygodnikketrzynski.pl
+
