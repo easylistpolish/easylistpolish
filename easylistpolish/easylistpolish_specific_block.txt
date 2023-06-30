@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=fakty.nl
 ||video.onnetwork.tv^$script,domain=e-golub.info.pl
+||video.onnetwork.tv^$script,domain=myszkow365.pl
