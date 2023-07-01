@@ -358,7 +358,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
 ||tenis.net.pl^*^oszustwo300x
-||tkaninyobiciowe.eu^*^dik-hurtownia-
+||tkaninyobiciowe.eu^*^dik-
 ||tkaninyobiciowe.eu^*^nastex.
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^09/parownice-
