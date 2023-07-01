@@ -379,7 +379,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
-||wszczecinie.pl/r/www/images^
+||wszczecinie.pl^*^www/images^
 ||www.filmweb.pl/welcomeScreenJS
 ||xlomza.pl^*^gina.
 ||xlomza.pl^*^kukasz08_
