@@ -367,7 +367,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=polski-tenis.pl
+||video.onnetwork.tv^$script,domain=e-golub.info.pl|fakty.nl|myszkow365.pl|nrypin.pl|polski-tenis.pl|tygodnikketrzynski.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -391,9 +391,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||video.onnetwork.tv^$script,domain=fakty.nl
-||video.onnetwork.tv^$script,domain=e-golub.info.pl
-||video.onnetwork.tv^$script,domain=myszkow365.pl
-||video.onnetwork.tv^$script,domain=nrypin.pl
-||video.onnetwork.tv^$script,domain=tygodnikketrzynski.pl
-

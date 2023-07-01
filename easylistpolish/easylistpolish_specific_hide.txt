@@ -163,6 +163,7 @@ gorliczanin.pl###main > section[id^="metaslider_widget-"]
 zawiercianskie.pl###main-header .widget_media_image
 filmweb.pl###mainSkyBanner-pl_PL
 oknonet.pl###mainbaner
+skipol.pl###makler2
 skipol.pl###makler7
 skipol.pl###maklerboczna1
 poloniagdansk.pl###masthead-sponsors
@@ -443,6 +444,7 @@ panoramakutna.pl##.adnotacja
 tvn.pl,tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
 24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
+kutno.net.pl##.ads .slides
 wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
 szokuje.pl##.ads-after-article
@@ -629,7 +631,7 @@ bielskiedrogi.pl,czecho.pl,czechowice.tv,pless.pl,pszczyna.tv##.blok-billboard
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
-burda.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
+burda.pl,elle.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
 newsdiscopolo.info##.bn-lg-sidebar
 ang24.pl##.bnm
 nowypm.pl##.bnr
@@ -918,6 +920,7 @@ gostynin.info##.mb-xl > .uk-display-inline-block
 gostynin.info##.mb-xl a[target="_blank"]
 agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
+tygodnikpiski.pl##.medium-12 center
 nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
 enowiny.pl##.meta-font
@@ -1051,6 +1054,7 @@ mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
 lpg-forum.pl##.rek_kontener
 4trucks.pl##.rekl
+panoramakutna.pl##.rekl + center
 autofakty.pl##.rekl_text
 glosmordoru.pl##.reklama-banner
 24tp.pl##.reklama-box
@@ -1430,9 +1434,6 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
-gazeta-mosina.pl##a[href^="http://kajaki2.pl"]
-nie-spamuj.eu##a[href^="http://online.freeware.info.pl/imperia-"]
-gazeta-mosina.pl##a[href^="http://swierkowyzakatek.pl"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
@@ -1497,8 +1498,10 @@ dobrepomyslynabiznes.pl##a[href^="/przekieruj/rekl"]
 powiatowa.info##a[href^="/rozne/reklama/"]
 przegladoponiarski.pl##a[href^="adv/"]
 wiesci.com.pl##a[href^="http://formaklub.pl"]
+gazeta-mosina.pl##a[href^="http://kajaki2.pl"]
 panoramakutna.pl##a[href^="http://kominki.kutno.pl"] img
 hobby-elektronika.eu##a[href^="http://online.freeware.info."]
+nie-spamuj.eu##a[href^="http://online.freeware.info.pl/imperia-"]
 e-grajewo.pl##a[href^="http://pensjonatraj.pl"]
 zyciepabianic.pl##a[href^="http://psm-pabianice.pl/"]
 e-grajewo.pl##a[href^="http://pssgrajewo.pl"]
@@ -1506,6 +1509,7 @@ infoplocktv.pl##a[href^="http://pssplock.pl/"]
 skladaniekomputera.pl##a[href^="http://seldarco.getleads."]
 bobrowniki.tv##a[href^="http://slaskieplyty.pl"]
 e-grajewo.pl##a[href^="http://spoldzielcza1.pl"]
+gazeta-mosina.pl##a[href^="http://swierkowyzakatek.pl"]
 zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
 super-polska.pl##a[href^="http://www.anf.pl/"]
 chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
@@ -1747,6 +1751,7 @@ allegro.pl##div[data-box-name^="allegro.advertising.adspremium.premiumad"]
 allegro.pl##div[data-box-name^="leftpanel_ads"]
 allegro.pl##div[data-box-name^="premium.with.dfp"]
 allegro.pl##div[data-box-name^="pure_offers_ads"]
+otodom.pl##div[data-cy="search.listing.promoted"]
 wp.pl##div[data-native-adv]
 wylecz.to##div[data-ohyes="slotseen"]
 forbes.pl##div[data-run-module="local/main_amd.placeholders"]
@@ -1833,18 +1838,18 @@ gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 chojna24.pl##img[src*="googleusercontent."]
+naszkostrzyn.pl##img[src^="/images/banners/"]
+plonskwsieci.pl##img[src^="/upload/ALIOR_"]
+plonskwsieci.pl##img[src^="/upload/poprJorapol1170x"]
 sciaga.pl##img[src^="https://morfo.s3.amazonaws.com/2023-04-teb/sciaga-"]
 sciaga.pl##img[src^="https://morfo.s3.eu-central-1.amazonaws.com/2023-am/banner_"]
 pobieramy24.xyz##img[src^="https://pobieramy24.xyz/uploads/monthly_2022_12/2132141521lp."]
 pobieramy24.xyz##img[src^="https://pobieramy24.xyz/uploads/monthly_2022_12/3473y4626bipcheap."]
 sadeczanin.info##img[src^="https://sadeczanin.info/sites/default/files/sadeczanin930x200."]
+expresskaszebe.pl,truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/"]
 zachodniopomorska.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/02/20/"]
 wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50."]
 wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_wiesci-"]
-naszkostrzyn.pl##img[src^="/images/banners/"]
-plonskwsieci.pl##img[src^="/upload/ALIOR_"]
-plonskwsieci.pl##img[src^="/upload/poprJorapol1170x"]
-expresskaszebe.pl,truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/"]
 lowicz24.eu##img[style="width: 250px; height: 100px;"]
 e-kolo.pl##img[style^="max-width: 100%;"]
 blogprezesa.pl##img[title="Binance"]
@@ -1885,9 +1890,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-kutno.net.pl##.ads .slides
-tygodnikpiski.pl##.medium-12 center
-panoramakutna.pl##.rekl + center
-otodom.pl##div[data-cy="search.listing.promoted"]
-elle.pl##.bm-ad-placement
-skipol.pl###makler2
