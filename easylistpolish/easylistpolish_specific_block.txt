@@ -345,7 +345,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
 ||supernowosci24.pl^*^decoeco2.
-||sychar.org^*^tolle-wide-
+||sychar.org^*^tolle-
 ||syrena.nekla.eu^*-agraf-
 ||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
 ||systemyplatnosci.com^*^fundacja_zoodoptuj.
