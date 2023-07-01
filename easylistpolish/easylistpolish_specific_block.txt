@@ -361,7 +361,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||tkaninyobiciowe.eu^*^dik-
 ||tkaninyobiciowe.eu^*^nastex.
 ||transg.pl^*^meblohaus_
-||tromil.pl^*^09/parownice-
+||tromil.pl^*^parownice-
 ||trzoda-chlewna.com.pl^*^mainbg_img.
 ||typersi.pl/pliki/fortuna^
 ||unitedtails.com^*^logo-RC.
