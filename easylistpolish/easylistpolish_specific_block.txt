@@ -112,7 +112,6 @@
 ^vbanner^$domain=extraswiecie.pl
 ^wordwwwpunkty.$domain=7dni.pila.pl
 ^xbaner_$domain=kuriernauczycielski.pl
-^xreklama-$domain=tu.swinoujscie.pl
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
