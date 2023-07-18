@@ -1892,3 +1892,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 szemud24.pl##.topLayer
 glossokolowa.pl##.topLayer
 mojpieknyogrod.pl##.ecomm-boxd
+mamotoja.pl##.c-ecomm-widget
