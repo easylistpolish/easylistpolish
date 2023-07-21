@@ -391,4 +391,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=ddtorun.pl
 ||video.onnetwork.tv^$script,domain=e-krajna.pl
-
+||video.onnetwork.tv^$script,domain=kolniak24.eu
