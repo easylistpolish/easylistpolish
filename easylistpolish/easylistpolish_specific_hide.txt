@@ -1893,3 +1893,4 @@ szemud24.pl##.topLayer
 glossokolowa.pl##.topLayer
 mojpieknyogrod.pl##.ecomm-boxd
 mamotoja.pl##.c-ecomm-widget
+nowagazeta.pl###ad--bill-top
