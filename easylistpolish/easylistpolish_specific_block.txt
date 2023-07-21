@@ -3,7 +3,7 @@
 -baner-$domain=budownictwo.co|edebno.pl|firmy.meblarstwo.eu|ipulawy.pl|meblarskapolska.pl|meblosfera.pl|obiektysakralne.pl|ostrodanews.pl|panoramakutna.pl|sadownictwo.com.pl|slupca.pl|sochaczewianin.pl|stolarkabudowlana.eu|tkaninyobiciowe.eu|tygodnikpiski.pl
 -baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|wirtualnyzgierz.pl|wolanie.info
 -baner728.$domain=nieruchomosci-komercyjne.info|ogloszenia-nieruchomosci.info
--baner_$domain=kk24.pl|my3miasto.pl|nolesnica.pl
+-baner_$domain=kk24.pl|nolesnica.pl
 -baners.$domain=terazkrosno.pl
 -banery-$domain=automotivesuppliers.pl
 -banery^$domain=przeclaw24.pl
