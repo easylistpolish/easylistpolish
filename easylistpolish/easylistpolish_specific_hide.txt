@@ -1894,3 +1894,4 @@ glossokolowa.pl##.topLayer
 mojpieknyogrod.pl##.ecomm-boxd
 mamotoja.pl##.c-ecomm-widget
 nowagazeta.pl###ad--bill-top
+nolesnica.pl###ad--bill-top
