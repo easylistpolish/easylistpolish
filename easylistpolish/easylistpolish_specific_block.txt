@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=kolniak24.eu
 ||video.onnetwork.tv^$script,domain=zyciesiedleckie.pl
 ||video.onnetwork.tv^$script,domain=terazlipno.pl
+||video.onnetwork.tv^$script,domain=itvszubin.pl
