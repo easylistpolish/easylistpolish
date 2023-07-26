@@ -1897,3 +1897,4 @@ nowagazeta.pl###ad--bill-top
 nolesnica.pl###ad--bill-top
 kk24.pl##.tipad_tag + a, .tipad_tag
 gieldaklasykow.pl##.post-navigation + a[target="_blank"]
+itvszubin.pl##.billboard
