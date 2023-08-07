@@ -1911,3 +1911,4 @@ wynagrodzenia.pl###obw-ad.modal
 wynagrodzenia.pl###webinar-ad.modal
 administrator24.info###banner_box_555
 wwsi.edu.pl###adsdialog
+wolnelektury.pl##.annoy-banner_blackout.annoy-banner
