@@ -1930,3 +1930,4 @@ lagardere-tr.pl###banner-hds
 lagardere-tr.pl###banner-hds-background
 katowice-airport.com###carwash-banner-c
 goliard.pl##.bannerBg
+glas-hit.pl##.baner_przedni
