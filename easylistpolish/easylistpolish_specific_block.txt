@@ -396,4 +396,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=itvszubin.pl
 ||video.onnetwork.tv^$script,domain=superchodziez.pl
 ||video.onnetwork.tv^$script,domain=gorlice24.pl
-
+||video.onnetwork.tv^$script,domain=tygodnik.pl
