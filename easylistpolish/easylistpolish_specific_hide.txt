@@ -1978,3 +1978,4 @@ zarabiara.pl##.new_adbanners
 zarabiara.pl##.new_adtaily
 glamrap.pl##.popup
 chip.pl##.portlet.portletCeneo
+chip.pl##.portletReklama
