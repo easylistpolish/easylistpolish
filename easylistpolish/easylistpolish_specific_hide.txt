@@ -1973,3 +1973,4 @@ twojapogoda.pl##.billboard
 4lomza.pl##.bxbanner
 wysokieobcasy.pl##.c1
 spidersweb.pl##.g.g-16
+fakt.pl##.hot_three.promo_box
