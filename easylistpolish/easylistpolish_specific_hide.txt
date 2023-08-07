@@ -1943,3 +1943,4 @@ iv.pl###FlyingLayer
 wiocha.pl###ad4sc
 napisy24.pl###baner_300_250
 lubin.pl###banner
+koncertomania.pl###banner-side
