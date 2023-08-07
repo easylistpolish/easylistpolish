@@ -1918,3 +1918,5 @@ swiatbaterii.pl##.baner3
 ssangyong.pl###hot_offer
 sprzedam.pl###api817-banner
 softonic.pl##.modal-ad-exit-intent
+scandi-city.pl###layer-banner
+pup.sosnowiec.pl###topbaner
