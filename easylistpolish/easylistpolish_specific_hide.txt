@@ -1922,3 +1922,4 @@ scandi-city.pl###layer-banner
 pup.sosnowiec.pl###topbaner
 polityka.pl##.cg_subscribe99_banner_apla
 podrywaj.org##.modal_wrapper
+piterparts.pl##.banner-special-fixed
