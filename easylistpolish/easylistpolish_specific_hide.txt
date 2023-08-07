@@ -1964,3 +1964,4 @@ zombiak.pl###welcomescreen_background
 egospodarka.pl##.ad750
 reportal.pl##.advertisement2
 telepolis.pl##.b_750
+wiocha.pl##.babanner
