@@ -1907,3 +1907,4 @@ zszywka.pl###inv-request-popup
 zpierwszegotloczenia.pl###popup-ad, .modal-backdrop
 zmianywzyciu.pl###popup_facebook
 zielonyogrodek.pl##.popup-welcome
+wynagrodzenia.pl###obw-ad.modal
