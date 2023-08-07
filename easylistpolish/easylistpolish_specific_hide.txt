@@ -1989,3 +1989,4 @@ chip.pl##[action^="http://www.njobs.eu/"]
 purepc.pl##[class$="reklama"]
 rybnik.com.pl##.addv-container
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
+dotabuff.com##.banner
