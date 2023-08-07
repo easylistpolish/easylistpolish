@@ -1966,3 +1966,4 @@ reportal.pl##.advertisement2
 telepolis.pl##.b_750
 wiocha.pl##.babanner
 gry-online.pl##.ban-fp-970x200
+serwislokalny.com##.banner
