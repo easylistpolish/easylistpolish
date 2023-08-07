@@ -1909,3 +1909,4 @@ zmianywzyciu.pl###popup_facebook
 zielonyogrodek.pl##.popup-welcome
 wynagrodzenia.pl###obw-ad.modal
 wynagrodzenia.pl###webinar-ad.modal
+administrator24.info###banner_box_555
