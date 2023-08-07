@@ -1972,3 +1972,4 @@ moszczenica.info##.bannergroup
 twojapogoda.pl##.billboard
 4lomza.pl##.bxbanner
 wysokieobcasy.pl##.c1
+spidersweb.pl##.g.g-16
