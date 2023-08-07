@@ -1960,3 +1960,4 @@ nocoty.pl###slider300Wrapper
 zienkina.pl###snatch
 press.pl###topBanner
 bankier.pl###underArtAdv
+zombiak.pl###welcomescreen_background
