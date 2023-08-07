@@ -1954,3 +1954,4 @@ proline.pl###layer_top
 polmedia.pl###makingdifferentpopup
 24.pl###oglmetka
 nudziara.pl###post.format_post.nudziara.masonry-brick
+radomsport.pl###skyscraper
