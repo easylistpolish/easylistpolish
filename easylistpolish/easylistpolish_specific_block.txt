@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
 ^rek^$domain=siechnice.com.pl
+||nyx-nyx-nyx.dotabuff.com^$subdocument
