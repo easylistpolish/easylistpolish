@@ -1935,3 +1935,4 @@ eurobolt.com.pl##.mybanners
 e-kidsplanet.com##.banner
 e-kidsplanet.com##.banner-curtain
 deepl.com###dl_app_banner_popup
+nsix.pl###cc-banner-iframe
