@@ -1987,3 +1987,4 @@ fronda.pl##.small-info
 mpolska24.pl##.tplAds
 chip.pl##[action^="http://www.njobs.eu/"]
 purepc.pl##[class$="reklama"]
+rybnik.com.pl##.addv-container
