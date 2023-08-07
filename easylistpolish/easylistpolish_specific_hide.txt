@@ -1928,3 +1928,4 @@ mierzeja.com###banner-popup
 metal-bud.eu##.banner-b2b
 lagardere-tr.pl###banner-hds
 lagardere-tr.pl###banner-hds-background
+katowice-airport.com###carwash-banner-c
