@@ -1897,3 +1897,4 @@ terazprudnik.pl##.backstretch > img.td-backstretch
 taniaksiazka.pl##.fixed-below-container > .fixed-below > .OpenXAds
 proshop.pl##.site-left-banner, .site-right-banner
 pl.gearbest.com##.indexBk
+nowafarmacja.pl##div#ulixes-background
