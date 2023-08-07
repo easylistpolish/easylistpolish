@@ -1956,3 +1956,4 @@ polmedia.pl###makingdifferentpopup
 nudziara.pl###post.format_post.nudziara.masonry-brick
 radomsport.pl###skyscraper
 radomnews.pl###skyscraper2
+nocoty.pl###slider300Wrapper
