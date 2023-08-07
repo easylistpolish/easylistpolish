@@ -1892,3 +1892,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zooplus.pl##.type_banner[id*="top-marki"]
 zooplus.pl##.type_banner[id*="right"]
+topmarkety.pl###banner-sponsorski
