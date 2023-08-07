@@ -1945,3 +1945,4 @@ napisy24.pl###baner_300_250
 lubin.pl###banner
 koncertomania.pl###banner-side
 appmaniak.pl###bannerTop
+targeo.pl###bblbrd_outer
