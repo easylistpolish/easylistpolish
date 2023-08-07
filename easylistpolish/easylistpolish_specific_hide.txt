@@ -1962,3 +1962,4 @@ press.pl###topBanner
 bankier.pl###underArtAdv
 zombiak.pl###welcomescreen_background
 egospodarka.pl##.ad750
+reportal.pl##.advertisement2
