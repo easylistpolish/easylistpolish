@@ -1977,3 +1977,4 @@ fakt.pl##.hot_three.promo_box
 zarabiara.pl##.new_adbanners
 zarabiara.pl##.new_adtaily
 glamrap.pl##.popup
+chip.pl##.portlet.portletCeneo
