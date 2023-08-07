@@ -1705,7 +1705,6 @@ stockwatch.pl##div[class^="ADbox"]
 dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[class^="a-single a-"]
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
-lajty.pl##div[class^="adace_ad_"]
 ulub.pl##div[class^="ads_"]
 astrona.pl##div[class^="adsense"]
 realizator.pl##div[class^="advert"]
@@ -1990,3 +1989,12 @@ purepc.pl##[class$="reklama"]
 rybnik.com.pl##.addv-container
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
 dotabuff.com##.banner
+szemud24.pl##.topLayer
+glossokolowa.pl##.topLayer
+mojpieknyogrod.pl##.ecomm-boxd
+mamotoja.pl##.c-ecomm-widget
+nowagazeta.pl###ad--bill-top
+nolesnica.pl###ad--bill-top
+kk24.pl##.tipad_tag + a, .tipad_tag
+gieldaklasykow.pl##.post-navigation + a[target="_blank"]
+itvszubin.pl##.billboard
