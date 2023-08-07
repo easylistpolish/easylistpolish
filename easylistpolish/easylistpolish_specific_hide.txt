@@ -1939,3 +1939,4 @@ nsix.pl###cc-banner-iframe
 cebit.pl###cc-banner-iframe
 astratex.pl###PopUpBanner
 deadwalking.tv###FBox
+iv.pl###FlyingLayer
