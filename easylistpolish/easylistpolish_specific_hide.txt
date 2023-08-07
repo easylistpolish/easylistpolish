@@ -1917,3 +1917,4 @@ tanibilet.eu##.av_pop_modals_1.ays-pb-modals
 swiatbaterii.pl##.baner3
 ssangyong.pl###hot_offer
 sprzedam.pl###api817-banner
+softonic.pl##.modal-ad-exit-intent
