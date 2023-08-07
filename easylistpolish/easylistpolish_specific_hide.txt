@@ -1926,3 +1926,4 @@ piterparts.pl##.banner-special-fixed
 notino.pl##.exponea-subscription-dialog.exponea-banner
 mierzeja.com###banner-popup
 metal-bud.eu##.banner-b2b
+lagardere-tr.pl###banner-hds
