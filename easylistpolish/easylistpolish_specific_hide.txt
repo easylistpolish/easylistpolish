@@ -1974,3 +1974,4 @@ twojapogoda.pl##.billboard
 wysokieobcasy.pl##.c1
 spidersweb.pl##.g.g-16
 fakt.pl##.hot_three.promo_box
+zarabiara.pl##.new_adbanners
