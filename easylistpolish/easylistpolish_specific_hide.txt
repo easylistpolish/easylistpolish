@@ -1983,3 +1983,4 @@ bobrzanie.pl##.post_banner
 axn.pl##.region-header-ad-space
 bobrzanie.pl##.reverie-header-banner
 gratka.pl##.small-12.columns.textC.nieSkacz
+fronda.pl##.small-info
