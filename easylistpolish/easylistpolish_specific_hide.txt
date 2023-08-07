@@ -1912,3 +1912,4 @@ wynagrodzenia.pl###webinar-ad.modal
 administrator24.info###banner_box_555
 wwsi.edu.pl###adsdialog
 wolnelektury.pl##.annoy-banner_blackout.annoy-banner
+uwodzenie.org###szabelski_startowa
