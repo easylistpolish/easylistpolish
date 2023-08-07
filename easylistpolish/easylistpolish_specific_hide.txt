@@ -1940,3 +1940,4 @@ cebit.pl###cc-banner-iframe
 astratex.pl###PopUpBanner
 deadwalking.tv###FBox
 iv.pl###FlyingLayer
+wiocha.pl###ad4sc
