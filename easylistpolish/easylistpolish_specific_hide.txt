@@ -1981,3 +1981,4 @@ chip.pl##.portlet.portletCeneo
 chip.pl##.portletReklama
 bobrzanie.pl##.post_banner
 axn.pl##.region-header-ad-space
+bobrzanie.pl##.reverie-header-banner
