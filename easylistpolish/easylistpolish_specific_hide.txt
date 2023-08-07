@@ -1902,3 +1902,4 @@ neonet.pl##.as-wallpaper_right, .as-wallpaper_left
 fabrykasily.pl##.bg-link-left, .bg-link-right
 czarymary.pl###checkWidthFullMain1
 czary.pl###klikalne_tlo_calosci a[href^="https://sklepmagiczny.pl/pl/"]
+aptekagemini.pl,gemini.pl##.background-advertisement
