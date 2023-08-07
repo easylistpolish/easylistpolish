@@ -1915,3 +1915,4 @@ wolnelektury.pl##.annoy-banner_blackout.annoy-banner
 uwodzenie.org###szabelski_startowa
 tanibilet.eu##.av_pop_modals_1.ays-pb-modals
 swiatbaterii.pl##.baner3
+ssangyong.pl###hot_offer
