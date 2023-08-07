@@ -1932,3 +1932,4 @@ katowice-airport.com###carwash-banner-c
 goliard.pl##.bannerBg
 glas-hit.pl##.baner_przedni
 eurobolt.com.pl##.mybanners
+e-kidsplanet.com##.banner
