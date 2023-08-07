@@ -92,7 +92,7 @@
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|motocykle125.pl|olawa24.pl
 ^rek2^$domain=barlinek24.pl
-^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|tuwodzislaw.pl
+^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|siechnice.com.pl|tuwodzislaw.pl
 ^rek^$image,domain=wiadomoscipw.pl
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
@@ -127,6 +127,7 @@ _reklamy2^$domain=epoznan.pl
 _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
+||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
 ||4media.com^$domain=lokalna24.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
@@ -276,6 +277,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||nowytydzien.pl^*^baner-330x200.
 ||nowytydzien.pl^*^diagnostyka512_
 ||nowytydzien.pl^*^neoseo2-
+||nyx-nyx-nyx.dotabuff.com^$subdocument
 ||ocdn.eu/files/mastt^$script
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniadrobne.warszawa.pl^*^spedgear.
@@ -364,7 +366,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=e-golub.info.pl|fakty.nl|myszkow365.pl|nrypin.pl|polski-tenis.pl|tygodnikketrzynski.pl
+||video.onnetwork.tv^$script,domain=ddtorun.pl|e-golub.info.pl|e-krajna.pl|fakty.nl|gorlice24.pl|itvszubin.pl|kolniak24.eu|myszkow365.pl|nrypin.pl|polski-tenis.pl|superchodziez.pl|terazlipno.pl|tygodnik.pl|tygodnikketrzynski.pl|zyciesiedleckie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -388,15 +390,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
-^rek^$domain=siechnice.com.pl
-||nyx-nyx-nyx.dotabuff.com^$subdocument
-||video.onnetwork.tv^$script,domain=ddtorun.pl
-||video.onnetwork.tv^$script,domain=e-krajna.pl
-||video.onnetwork.tv^$script,domain=kolniak24.eu
-||video.onnetwork.tv^$script,domain=zyciesiedleckie.pl
-||video.onnetwork.tv^$script,domain=terazlipno.pl
-||video.onnetwork.tv^$script,domain=itvszubin.pl
-||video.onnetwork.tv^$script,domain=superchodziez.pl
-||video.onnetwork.tv^$script,domain=gorlice24.pl
-||video.onnetwork.tv^$script,domain=tygodnik.pl
