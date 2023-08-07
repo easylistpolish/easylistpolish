@@ -1970,3 +1970,4 @@ serwislokalny.com##.banner
 zambrow.org##.bannerRotator
 moszczenica.info##.bannergroup
 twojapogoda.pl##.billboard
+4lomza.pl##.bxbanner
