@@ -1969,3 +1969,4 @@ gry-online.pl##.ban-fp-970x200
 serwislokalny.com##.banner
 zambrow.org##.bannerRotator
 moszczenica.info##.bannergroup
+twojapogoda.pl##.billboard
