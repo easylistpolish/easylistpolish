@@ -1906,3 +1906,4 @@ aptekagemini.pl,gemini.pl##.background-advertisement
 zszywka.pl###inv-request-popup
 zpierwszegotloczenia.pl###popup-ad, .modal-backdrop
 zmianywzyciu.pl###popup_facebook
+zielonyogrodek.pl##.popup-welcome
