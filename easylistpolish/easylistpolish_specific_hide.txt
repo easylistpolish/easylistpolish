@@ -1913,3 +1913,4 @@ administrator24.info###banner_box_555
 wwsi.edu.pl###adsdialog
 wolnelektury.pl##.annoy-banner_blackout.annoy-banner
 uwodzenie.org###szabelski_startowa
+tanibilet.eu##.av_pop_modals_1.ays-pb-modals
