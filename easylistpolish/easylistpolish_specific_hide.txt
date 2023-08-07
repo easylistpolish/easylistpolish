@@ -1982,3 +1982,4 @@ chip.pl##.portletReklama
 bobrzanie.pl##.post_banner
 axn.pl##.region-header-ad-space
 bobrzanie.pl##.reverie-header-banner
+gratka.pl##.small-12.columns.textC.nieSkacz
