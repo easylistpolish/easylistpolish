@@ -1950,3 +1950,4 @@ zamojska.pl###box_r
 popularnie.pl###gold-header
 jestbeka.pl###ips-popup
 jestbeka.pl###ips-popup-wrapper
+proline.pl###layer_top
