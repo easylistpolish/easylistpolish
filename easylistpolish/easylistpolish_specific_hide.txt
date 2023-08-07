@@ -1985,3 +1985,4 @@ bobrzanie.pl##.reverie-header-banner
 gratka.pl##.small-12.columns.textC.nieSkacz
 fronda.pl##.small-info
 mpolska24.pl##.tplAds
+chip.pl##[action^="http://www.njobs.eu/"]
