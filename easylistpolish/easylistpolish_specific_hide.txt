@@ -1905,3 +1905,4 @@ czary.pl###klikalne_tlo_calosci a[href^="https://sklepmagiczny.pl/pl/"]
 aptekagemini.pl,gemini.pl##.background-advertisement
 zszywka.pl###inv-request-popup
 zpierwszegotloczenia.pl###popup-ad, .modal-backdrop
+zmianywzyciu.pl###popup_facebook
