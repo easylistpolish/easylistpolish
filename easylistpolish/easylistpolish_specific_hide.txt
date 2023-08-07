@@ -1958,3 +1958,4 @@ radomsport.pl###skyscraper
 radomnews.pl###skyscraper2
 nocoty.pl###slider300Wrapper
 zienkina.pl###snatch
+press.pl###topBanner
