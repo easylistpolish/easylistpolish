@@ -1985,3 +1985,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 shinden.pl##.padPreload
 shinden.pl##.popup_wrapper
+shinden.pl##.popup_background
