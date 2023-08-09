@@ -318,6 +318,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||rehabilitacyjne.pl^*_maxim.
 ||rek.www.wp.pl^
 ||reklama-lowicz.pl^$image,domain=lowicz24.eu
+||reklama.shinden.eu^$subdocument
 ||reklamy.naszraciborz.pl^ad^$script
 ||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||rlu24.pl^marek2.
@@ -390,4 +391,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||reklama.shinden.eu^$subdocument

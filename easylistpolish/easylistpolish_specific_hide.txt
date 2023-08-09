@@ -1077,6 +1077,7 @@ telekamery.pl##.owl-ads
 podnoszenieciezarow.pl##.owl-carousel
 facetpo40.pl##.oxad-image
 cenyrolnicze.pl##.p345hu8t
+shinden.pl##.padPreload
 franchising.pl##.page-banners
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 pomorska.pl##.partner
@@ -1106,6 +1107,8 @@ plonsk24.pl##.pole-banerowe > img
 24tp.pl,dkl24.pl##.polecamy
 glamrap.pl##.popup
 zielonyogrodek.pl##.popup-welcome
+shinden.pl##.popup_background
+shinden.pl##.popup_wrapper
 zloty-pociag.com##.popup_wrapper iframe
 chip.pl##.portlet.portletCeneo
 chip.pl##.portletReklama
@@ -1983,6 +1986,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-shinden.pl##.padPreload
-shinden.pl##.popup_wrapper
-shinden.pl##.popup_background
