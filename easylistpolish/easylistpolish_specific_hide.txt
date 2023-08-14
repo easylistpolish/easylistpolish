@@ -1990,3 +1990,4 @@ nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 nowawrzesnia.pl###bills_in_rotation_1_44754
 nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
 nowawrzesnia.pl##a[href="http://dekosma.pl/"]
+nowawrzesnia.pl##a[href="http://montbram.pl/"]
