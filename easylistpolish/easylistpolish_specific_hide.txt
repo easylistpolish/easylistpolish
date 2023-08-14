@@ -1988,3 +1988,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"] 
 nowawrzesnia.pl###bills_in_rotation_1_44754
+nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
