@@ -74,6 +74,7 @@ otouczelnie.pl###belka
 bosonamacie.pl###big-wrapper
 forsal.pl###bill_top_id
 ftb.pl###billboard
+nowawrzesnia.pl###bills_in_rotation_1_44754
 tp.com.pl###bills_in_rotation_1_8239
 dnews.pl###black-studio-tinymce-111
 przedreptacswiat.pl###black-studio-tinymce-5
@@ -510,7 +511,7 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
@@ -639,7 +640,8 @@ ppe.pl##.banner-skyscraper
 piterparts.pl##.banner-special-fixed
 ele24.net,kurier-kolejowy.pl##.banner-top
 miastons.pl##.banner-tracking-gtm
-forum-bron.pl##.banner1
+muzyczneradio.pl##.banner0
+forum-bron.pl,muzyczneradio.pl##.banner1
 id-24.pl##.banner1-wrap
 codziennikmlawski.pl##.banner3
 goliard.pl##.bannerBg
@@ -649,6 +651,7 @@ mojanorwegia.pl##.bannerTop
 3trzy3.pl##.banner_1
 satkurier.pl##.banner_750x100_r
 android.com.pl##.banner__placeholder
+radiopoznan.fm##.banner_asset_present_box
 weranda.pl##.banner_container
 confero.pl##.banner_panel
 zmpd.pl##.banner_po_lewej
@@ -823,7 +826,7 @@ przemysl24.pl##.fbaner
 moje-gniezno.pl##.fdAdsBanner
 taniaksiazka.pl##.fixed-below-container > .fixed-below > .OpenXAds
 konin24.info##.flex-list
-zlubaczowa.pl##.flexbannergroup
+glucholazyonline.com.pl,zlubaczowa.pl##.flexbannergroup
 punkt.media##.flexbannergrouppattern
 futbolnews.pl,zzapolowy.com##.floatBox
 terazkrosno.pl##.fluid-imgs
@@ -1304,7 +1307,7 @@ starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
-cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,zachodniopomorska.tv##.tipad_tag
+cosiedzieje.tv,expresskaszebe.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,tygodnik-krapkowicki.pl,zachodniopomorska.tv##.tipad_tag
 kk24.pl##.tipad_tag + a, .tipad_tag
 transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
@@ -1529,17 +1532,24 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
+nowawrzesnia.pl##a[href="http://dekosma.pl/"]
+chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
+nowawrzesnia.pl##a[href="http://montbram.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
+fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
+chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
+chwaszczyno.pl##a[href="http://www.it.media.pl/"]
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
 nauklove.pl##a[href="http://www.ktenis.pl"]
 darmowe-torenty.pl,exsites.pl,torrentcity.pl##a[href="http://www.likeplus.eu/clickback"]
+chwaszczyno.pl##a[href="http://www.netpol.eu/"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
@@ -1548,6 +1558,7 @@ gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 wiesci.com.pl##a[href="https://budet.pl/"]
+chwaszczyno.pl##a[href="https://e-eltom.pl/"]
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 gazeta-mosina.pl##a[href="https://m-cool.pl/"]
@@ -1571,12 +1582,15 @@ skarzysko24.pl##a[href="https://unin.pl/"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
+fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
 expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
+nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
 plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
 gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
 swidnica24.pl##a[href="https://www.iparts.pl"]
+nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
@@ -1934,6 +1948,8 @@ gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 chojna24.pl##img[src*="googleusercontent."]
+tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/05/25/amaks-net-ver2-646f2c47debbe.jpg"]
+tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-actum-sniadania-600x300-64c368211be90.png"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
 plonskwsieci.pl##img[src^="/upload/ALIOR_"]
 plonskwsieci.pl##img[src^="/upload/poprJorapol1170x"]
@@ -1986,23 +2002,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"] 
-nowawrzesnia.pl###bills_in_rotation_1_44754
-nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
-nowawrzesnia.pl##a[href="http://dekosma.pl/"]
-nowawrzesnia.pl##a[href="http://montbram.pl/"]
-nowawrzesnia.pl##.adv
-glucholazyonline.com.pl##.flexbannergroup
-muzyczneradio.pl##.banner0
-muzyczneradio.pl##.banner1
-chwaszczyno.pl##a[href="http://www.it.media.pl/"]
-chwaszczyno.pl##a[href="http://www.netpol.eu/"]
-chwaszczyno.pl##a[href="https://e-eltom.pl/"]
-chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
-chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
-tygodnik-krapkowicki.pl##.tipad_tag
-tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-actum-sniadania-600x300-64c368211be90.png"]
-tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/05/25/amaks-net-ver2-646f2c47debbe.jpg"]
-radiopoznan.fm##.banner_asset_present_box
-fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
-fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
