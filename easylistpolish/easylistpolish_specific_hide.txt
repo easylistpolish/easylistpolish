@@ -1998,3 +1998,4 @@ muzyczneradio.pl##.banner1
 chwaszczyno.pl##a[href="http://www.it.media.pl/"]
 chwaszczyno.pl##a[href="http://www.netpol.eu/"]
 chwaszczyno.pl##a[href="https://e-eltom.pl/"]
+chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
