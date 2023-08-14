@@ -1994,3 +1994,4 @@ nowawrzesnia.pl##a[href="http://montbram.pl/"]
 nowawrzesnia.pl##.adv
 glucholazyonline.com.pl##.flexbannergroup
 muzyczneradio.pl##.banner0
+muzyczneradio.pl##.banner1
