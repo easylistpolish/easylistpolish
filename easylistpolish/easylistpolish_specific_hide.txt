@@ -2002,3 +2002,4 @@ chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
 tygodnik-krapkowicki.pl##.tipad_tag
 tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-actum-sniadania-600x300-64c368211be90.png"]
+tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/05/25/amaks-net-ver2-646f2c47debbe.jpg"]
