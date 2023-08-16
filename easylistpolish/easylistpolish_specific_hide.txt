@@ -2006,3 +2006,4 @@ gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/maj-64c38
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/10/Reklama-gostynin-24-1000x300pix-v6-szary-JPG-64d4df0284996.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/04/380X300PX-kopia-64cca7b983bd7.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/zamek-64b929578486f.jpg"]
+gostynin24.pl##.tipad_tag
