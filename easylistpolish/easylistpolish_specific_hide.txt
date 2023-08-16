@@ -2003,3 +2003,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/maj-64c389b494ea1.jpg"]
+gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/10/Reklama-gostynin-24-1000x300pix-v6-szary-JPG-64d4df0284996.jpg"]
