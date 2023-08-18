@@ -50,6 +50,7 @@ napisy24.pl###baner_300_250
 eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
 infomare.pl###baneranim
+portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
 krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17,#banner-9
@@ -1596,6 +1597,8 @@ gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
 swidnica24.pl##a[href="https://www.iparts.pl"]
 nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
+samiswoi.news##a[href="https://www.przekazypieniezne.com/"]
+samiswoi.news##a[href="https://www.przekazypieniezne.com/przekazy-mobilne"]
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
@@ -2014,6 +2017,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-portalrolniczy.info###baners
-samiswoi.news##a[href="https://www.przekazypieniezne.com/"]
-samiswoi.news##a[href="https://www.przekazypieniezne.com/przekazy-mobilne"]
