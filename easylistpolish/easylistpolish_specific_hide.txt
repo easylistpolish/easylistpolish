@@ -1960,6 +1960,7 @@ gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/Garstka-6
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/geodezja-64b9445db4c15.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/instbud-64b92986c5a67.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/zamek-64b929578486f.jpg"]
+tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/maj-64c389b494ea1.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/04/380X300PX-kopia-64cca7b983bd7.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/10/Reklama-gostynin-24-1000x300pix-v6-szary-JPG-64d4df0284996.jpg"]
@@ -2016,4 +2017,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-"]
