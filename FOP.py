@@ -79,12 +79,18 @@ def start ():
     no arguments have been passed."""
 
     args = parser()
+    print(args)
+    global COMMENT_MESSAGE
     if args.comment_adblock:
+        print(args.comment_adblock)
         COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
     elif args.comment_troll:
+        print(args.comment_troll)
         COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
     else:
         COMMENT_MESSAGE = ''
+
+    print(COMMENT_MESSAGE)
 
     greeting = "FOP (Filter Orderer and Preener) version {version}".format(version = VERSION)
     characters = len(str(greeting))
@@ -370,10 +376,12 @@ def commit (repository, basecommand, userchanges):
     try:
         # Persistently request a suitable comment
         while True:
-            if not COMMENT_MESSAGE:
-                comment = input("Please enter a valid commit comment or quit:\n")
-            else:
+            print('get comment message')
+            print(COMMENT_MESSAGE)
+            if COMMENT_MESSAGE:
                 comment = COMMENT_MESSAGE 
+            else:
+                comment = input("Please enter a valid commit comment or quit:\n")
 
             if checkcomment(comment, userchanges):
                 break

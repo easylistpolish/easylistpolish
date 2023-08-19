@@ -1976,6 +1976,7 @@ sadeczanin.info##img[src^="https://sadeczanin.info/sites/default/files/sadeczani
 expresskaszebe.pl,truso.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/"]
 zachodniopomorska.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/02/20/"]
 wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50."]
+wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_"]
 lowicz24.eu##img[style="width: 250px; height: 100px;"]
 e-kolo.pl##img[style^="max-width: 100%;"]
 blogprezesa.pl##img[title="Binance"]
@@ -2016,4 +2017,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_"]
