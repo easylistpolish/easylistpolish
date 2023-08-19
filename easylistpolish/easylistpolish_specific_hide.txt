@@ -618,6 +618,7 @@ elblag.net##.banera1
 lakiernictwo.net##.banert
 ogloszenia-nieruchomosci.info##.banery1
 nieruchomosci-komercyjne.info##.banery2
+janosik.info##.baneryLewe
 studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bazarowo.pl,bezpiecznyrynekpracy.pl,dotabuff.com,e-kidsplanet.com,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,polskiautohandel.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,serwislokalny.com,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
@@ -958,6 +959,7 @@ walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
 jelonka.com,ogloszenia.jelonka.com,swidniczka.com,walbrzyszek.com##.kontener-reklam
 pionki24.pl##.kozie-before-content-placement
+janosik.info##.kuligiBaneryLewo
 baby-shower.pl##.kwadratowa2
 24jgora.pl,e-sochaczew.pl,e-wyszogrod.pl,eprzasnysz.pl,gpr24.pl,ikampinos.pl,ipragapoludnie.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,lipno-cli.pl,plonszczak.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl##.l-ad-box
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
@@ -2017,5 +2019,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-janosik.info##.baneryLewe
-janosik.info##.kuligiBaneryLewo
