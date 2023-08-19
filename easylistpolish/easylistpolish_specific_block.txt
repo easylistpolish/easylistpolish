@@ -29,6 +29,7 @@
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad^$domain=pieniny24.pl|sportowepodhale.pl
 ^admaster^$domain=suwalki24.pl
+^adv-redirect^$domain=hdtvpolska.com
 ^adv^$domain=e-petrol.pl|naszglospoznanski.pl|zyciegrajewa.pl
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
@@ -391,4 +392,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^adv-redirect^$domain=hdtvpolska.com

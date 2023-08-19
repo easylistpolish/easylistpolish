@@ -1669,6 +1669,7 @@ brief.pl##a[href^="https://dreamemployer.pl"]
 mobiletrends.pl##a[href^="https://escola.pl/?utm_source=Mobile+Trends&utm_medium="]
 weszlo.com##a[href^="https://fuksiarz.pl/"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
+hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
 2x45.info##a[href^="https://in.betsson29.com/"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
 elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
@@ -2019,4 +2020,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
