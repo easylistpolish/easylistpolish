@@ -19,7 +19,8 @@
 VERSION = 3.9
 
 # Import the key modules
-import collections, filecmp, os, re, subprocess, sys
+import collections, filecmp, os, re, subprocess, sys, argparse
+from datetime import datetime
 
 # Check the version of Python for language compatibility and subprocess.check_output()
 MAJORREQUIRED = 3
@@ -70,11 +71,21 @@ REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, re
 GIT = REPODEF(["git"], "./.git/", "--work-tree=", "--git-dir=", ["status", "-s", "--untracked-files=no"], ["diff"], ["commit", "-a", "-m"], ["pull"], ["push"])
 HG = REPODEF(["hg"], "./.hg/", "-R", None, ["stat", "-q"], ["diff"], ["commit", "-m"], ["pull"], ["push"])
 REPOTYPES = (GIT, HG)
+COMMENT_MESSAGE = ''
 
 def start ():
     """ Print a greeting message and run FOP in the directories
     specified via the command line, or the current working directory if
     no arguments have been passed."""
+
+    args = parser()
+    if args.comment_adblock:
+        COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+    elif args.comment_troll:
+        COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+    else:
+        COMMENT_MESSAGE = ''
+
     greeting = "FOP (Filter Orderer and Preener) version {version}".format(version = VERSION)
     characters = len(str(greeting))
     print("=" * characters)
@@ -82,7 +93,8 @@ def start ():
     print("=" * characters)
 
     # Convert the directory names to absolute references and visit each unique location
-    places = sys.argv[1:]
+    # places = sys.argv[1:]
+    places = ''
     if places:
         places = [os.path.abspath(place) for place in places]
         for place in sorted(set(places)):
@@ -90,6 +102,15 @@ def start ():
             print()
     else:
         main(os.getcwd())
+
+def parser():
+    """ Parse arguments """
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument("--comment-adblock",  action="store_true", help="Inline comment provided by adblock-filters instead of input")
+    parser.add_argument("--comment-troll",  action="store_true", help="Inline comment provided by user instead of input")
+
+    return parser.parse_args()
+
 
 def main (location):
     """ Find and sort all the files in a given directory, committing
@@ -349,7 +370,11 @@ def commit (repository, basecommand, userchanges):
     try:
         # Persistently request a suitable comment
         while True:
-            comment = input("Please enter a valid commit comment or quit:\n")
+            if not COMMENT_MESSAGE:
+                comment = input("Please enter a valid commit comment or quit:\n")
+            else:
+                comment = COMMENT_MESSAGE 
+
             if checkcomment(comment, userchanges):
                 break
     # Allow users to abort the commit process if they do not approve of the changes
