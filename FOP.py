@@ -78,26 +78,13 @@ def start ():
     specified via the command line, or the current working directory if
     no arguments have been passed."""
 
-    args = parser()
-    print(args)
-    global COMMENT_MESSAGE
-    if args.comment_adblock:
-        print(args.comment_adblock)
-        COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
-    elif args.comment_troll:
-        print(args.comment_troll)
-        COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
-    else:
-        COMMENT_MESSAGE = ''
-
-    print(COMMENT_MESSAGE)
-
     greeting = "FOP (Filter Orderer and Preener) version {version}".format(version = VERSION)
     characters = len(str(greeting))
     print("=" * characters)
     print(greeting)
     print("=" * characters)
 
+    parse_comment()
     # Convert the directory names to absolute references and visit each unique location
     # places = sys.argv[1:]
     places = ''
@@ -116,6 +103,16 @@ def parser():
     parser.add_argument("--comment-troll",  action="store_true", help="Inline comment provided by user instead of input")
 
     return parser.parse_args()
+
+def parse_comment():
+    args = parser()
+    global COMMENT_MESSAGE
+    if args.comment_adblock:
+        COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+    elif args.comment_troll:
+        COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+    else:
+        COMMENT_MESSAGE = ''
 
 
 def main (location):
@@ -376,8 +373,6 @@ def commit (repository, basecommand, userchanges):
     try:
         # Persistently request a suitable comment
         while True:
-            print('get comment message')
-            print(COMMENT_MESSAGE)
             if COMMENT_MESSAGE:
                 comment = COMMENT_MESSAGE 
             else:
