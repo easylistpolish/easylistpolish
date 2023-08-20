@@ -2020,3 +2020,4 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
