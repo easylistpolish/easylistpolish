@@ -1583,6 +1583,7 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
 motomaszyny.pl##a[href="https://osprzet.info.pl/"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
+pogoda.info##a[href="https://samochody.pl"]
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
@@ -2024,4 +2025,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-pogoda.info##a[href="https://samochody.pl"]
