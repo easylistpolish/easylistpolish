@@ -2026,3 +2026,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 cenyrolnicze.pl##a[href="https://mkwpracownia.pl"]
+cenyrolnicze.pl##a[href="https://www.indrol.pl/kontakt#kontraktacja"]
