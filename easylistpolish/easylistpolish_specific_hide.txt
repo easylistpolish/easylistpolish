@@ -1536,6 +1536,8 @@ naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
+enowiny.pl##a[href="/reklama,110.html"]
+enowiny.pl##a[href="/reklama,9.html"]
 nowawrzesnia.pl##a[href="http://dekosma.pl/"]
 gostynin24.pl##a[href="http://ekodrobiowe.pl/"]
 chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
@@ -2028,5 +2030,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-enowiny.pl##a[href="/reklama,110.html"]
-enowiny.pl##a[href="/reklama,9.html"]
