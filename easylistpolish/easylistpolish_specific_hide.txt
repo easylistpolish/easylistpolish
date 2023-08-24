@@ -1552,6 +1552,7 @@ haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
+chojnice.com##a[href="http://www.insideview.pl"]
 chwaszczyno.pl##a[href="http://www.it.media.pl/"]
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
@@ -2030,4 +2031,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-chojnice.com##a[href="http://www.insideview.pl"]
