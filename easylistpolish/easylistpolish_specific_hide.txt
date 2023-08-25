@@ -2032,3 +2032,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 staleo.pl##a[href="https://www.abplanalp.pl/monitoring_groth/?utm_source=staleo&utm_medium=baner&utm_campaign=monitoring-maszyn"]
+staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
