@@ -2035,3 +2035,4 @@ staleo.pl##a[href="https://www.abplanalp.pl/monitoring_groth/?utm_source=staleo&
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
 staleo.pl##a[href="https://mocap.com.pl/"]
 staleo.pl##a[href="https://baumalog.pl/"]
+staleo.pl##a[href="https://www.fanuc.eu/pl/pl?utm_source=staleo&utm_medium=banner+wysuwalny&utm_campaign=ogolny"]
