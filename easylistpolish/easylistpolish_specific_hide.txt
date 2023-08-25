@@ -2039,3 +2039,4 @@ staleo.pl##a[href="https://www.fanuc.eu/pl/pl?utm_source=staleo&utm_medium=banne
 staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cutting"]
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
 staleo.pl##a[href="http://www.elmax.eu/"]
+staleo.pl##a[href="https://www.polteknik.pl/"]
