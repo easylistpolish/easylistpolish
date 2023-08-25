@@ -2040,3 +2040,4 @@ staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cu
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
 staleo.pl##a[href="http://www.elmax.eu/"]
 staleo.pl##a[href="https://www.polteknik.pl/"]
+staleo.pl##.baner-holder
