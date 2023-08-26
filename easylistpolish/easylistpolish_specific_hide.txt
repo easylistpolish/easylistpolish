@@ -2042,3 +2042,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
+zwolen24.pl##a[href="http://www.fdb.com.pl/"]
