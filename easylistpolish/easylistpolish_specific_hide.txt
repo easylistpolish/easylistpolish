@@ -1550,6 +1550,7 @@ fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croi
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
 chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 staleo.pl##a[href="http://www.elmax.eu/"]
+zwolen24.pl##a[href="http://www.fdb.com.pl/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
@@ -1564,6 +1565,7 @@ chwaszczyno.pl##a[href="http://www.netpol.eu/"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 staleo.pl##a[href="https://baumalog.pl/"]
@@ -2041,5 +2043,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
-zwolen24.pl##a[href="http://www.fdb.com.pl/"]
