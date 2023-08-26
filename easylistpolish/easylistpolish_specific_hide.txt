@@ -1564,6 +1564,7 @@ darmowe-torenty.pl,exsites.pl,torrentcity.pl##a[href="http://www.likeplus.eu/cli
 chwaszczyno.pl##a[href="http://www.netpol.eu/"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
+7dni.pila.pl##a[href="http://www.sklepmuzycznydemo.pl"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
@@ -1573,6 +1574,7 @@ tulodz.pl##a[href="https://beesafe.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
+7dni.pila.pl##a[href="https://dronmedia.my.canva.site/newsmedia-info?fbclid=IwAR0nKL3WPxUwbIBjxybGL5kjfvAymrHxAgzW-HhCiBJGlRuQmLxVA3W7O20"]
 chwaszczyno.pl##a[href="https://e-eltom.pl/"]
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
@@ -2043,5 +2045,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-7dni.pila.pl##a[href="http://www.sklepmuzycznydemo.pl"]
-7dni.pila.pl##a[href="https://dronmedia.my.canva.site/newsmedia-info?fbclid=IwAR0nKL3WPxUwbIBjxybGL5kjfvAymrHxAgzW-HhCiBJGlRuQmLxVA3W7O20"]
