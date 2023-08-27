@@ -907,6 +907,8 @@ swiatoze.pl##.header_marker
 kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
+benchmark.pl##.hidden-lg-up
+benchmark.pl##.hidden-tb-up
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
 skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
 ceneo.pl##.highlighted-offers
