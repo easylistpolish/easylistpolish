@@ -45,7 +45,9 @@ gazeta.pl###banC99
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 genetyczne.pl###baner-gorny
+warsztat.pl###baner199
 hotelinfo24.pl###baner2
+warsztat.pl###baner211
 napisy24.pl###baner_300_250
 eostroleka.pl###baner_A_desktop
 eostroleka.pl###baner_A_mobile
@@ -908,8 +910,8 @@ kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
 benchmark.pl##.hidden-lg-up
-benchmark.pl##.hidden-tb-up
 pzmtravel.com.pl,sloworegionu.pl##.hidden-sm
+benchmark.pl##.hidden-tb-up
 skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blank"]
 ceneo.pl##.highlighted-offers
 wilanownews.pl##.hm-header-sidebar
@@ -2047,5 +2049,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-warsztat.pl###baner199
-warsztat.pl###baner211
