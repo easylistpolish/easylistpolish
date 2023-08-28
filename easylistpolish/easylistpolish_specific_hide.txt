@@ -1302,6 +1302,7 @@ cai24.pl##.td_block_single_image
 iknurow.pl##.td_block_template_1 p img
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
+kozienice24.pl##.td_spot_img_all
 wirtualnyregion.eu##.tdc-row .cycloneslider
 panoramakutna.pl##.tdi_28
 agronews.com.pl##.tdi_29
@@ -2049,4 +2050,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-kozienice24.pl##.td_spot_img_all
