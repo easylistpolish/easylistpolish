@@ -606,6 +606,7 @@ tychy.info##.baner-row
 polskieradio24.pl##.baner-special2
 tygodniksiedlecki.com##.baner-text
 mazury24.eu##.baner2213
+mazury24.eu##.baner2938
 swiatbaterii.pl##.baner3
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
 haloursynow.pl##.baner390x60
@@ -2050,4 +2051,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-mazury24.eu##.baner2938
