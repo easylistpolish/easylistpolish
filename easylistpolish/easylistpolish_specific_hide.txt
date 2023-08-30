@@ -1999,6 +1999,7 @@ skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Ska
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_agawaKW.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
 konstrukcjeinzynierskie.pl##img[src="https://www.konstrukcjeinzynierskie.pl/images/banners/zwcad_2024.jpg"]
+igostyn.pl##img[src="tmpln/images/rek_1250.webp"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
 plonskwsieci.pl##img[src^="/upload/ALIOR_"]
 plonskwsieci.pl##img[src^="/upload/poprJorapol1170x"]
@@ -2051,4 +2052,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-igostyn.pl##img[src="tmpln/images/rek_1250.webp"]
