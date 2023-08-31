@@ -1279,7 +1279,7 @@ wzielonej.pl##.stream-item-top-wrapper
 kurier-kolejowy.pl##.strefa_banerowa
 bezrzecze24.pl,gminadobra24.pl,gumience24.pl,mierzyn24.pl,osowa24.pl##.subpage-header2
 meska-kuchnia.pl##.sw-inner a[href^="https://dietetykwmiescie.pl"]
-biznesregion.pl,super-nowa.pl##.syl-baner-place
+biznesregion.pl,super-nowa.pl,zywiecsupernowa.pl##.syl-baner-place
 2x45.info##.system_banner
 skarzysko24.pl##.t3-sidebar .custom a
 tabletowo.pl##.tabad
@@ -2052,4 +2052,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-zywiecsupernowa.pl##.syl-baner-place
