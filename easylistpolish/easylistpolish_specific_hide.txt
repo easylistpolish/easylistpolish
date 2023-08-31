@@ -1602,6 +1602,7 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=98f13708210194c475687be610
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=b6d767d2f8ed5d21a44b0e5886680cb9"]
 olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77acce5e"]
 motomaszyny.pl##a[href="https://osprzet.info.pl/"]
+speedwaynews.pl##a[href="https://pamiatki-kibica.pl/?kalendarze-zuzlowe,57"]
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
 plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 pogoda.info##a[href="https://samochody.pl"]
@@ -2052,4 +2053,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-speedwaynews.pl##a[href="https://pamiatki-kibica.pl/?kalendarze-zuzlowe,57"]
