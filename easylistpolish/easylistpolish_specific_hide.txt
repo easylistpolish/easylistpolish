@@ -636,6 +636,7 @@ kb.pl,radiosud.pl##.banner-container
 e-kidsplanet.com##.banner-curtain
 telewizjattm.pl##.banner-main-page
 trojmiasto.pl##.banner-maxia--glowna
+cashbackrabat.pl##.banner-overlay
 ppe.pl##.banner-placeholder
 ppe.pl##.banner-placeholder-screening
 zabawkowo.com##.banner-plecaki
@@ -993,6 +994,7 @@ beskidnews.pl##.main-slider
 ogrodinfo.pl,sad24.pl##.main-top-banner
 gazetanowodworska.com##.mainSlider
 joemonster.org##.main_billboard
+cashbackrabat.pl##.main_sidebanner
 laboratoria.net##.mainbanner
 bia24.pl##.market__item
 rodzinazdrowia.pl##.marketingElement
@@ -2055,5 +2057,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-cashbackrabat.pl##.main_sidebanner
-cashbackrabat.pl##.banner-overlay
