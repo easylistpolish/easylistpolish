@@ -1726,10 +1726,12 @@ parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
 roosevelta81.pl##a[href^="https://superbet.pl/"]
 kodi.org.pl##a[href^="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source="]
+centrumdruku3d.pl##a[href^="https://ta."]
 nasztomaszow.pl##a[href^="https://ttbs.com.pl/"]
 kanonierzy.com##a[href^="https://typ.pl/"]
 portal-polski.pl##a[href^="https://webep1.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
+centrumdruku3d.pl##a[href^="https://www.3dfindit.com/en/?mtm_campaign="]
 cosiedzieje.tv##a[href^="https://www.4community.online/webinar-"]
 nanarty.info##a[href^="https://www.apartmany-kouty.cz/"]
 radiogol.pl##a[href^="https://www.autoczescionline24."]
@@ -2053,5 +2055,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-centrumdruku3d.pl##a[href^="https://ta."]
-centrumdruku3d.pl##a[href^="https://www.3dfindit.com/en/?mtm_campaign="]
