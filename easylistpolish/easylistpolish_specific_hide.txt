@@ -2059,3 +2059,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 koscianiak.pl##.billboard
 koscianiak.pl##.banner__label
+koscianiak.pl##.banner--regular
