@@ -2060,3 +2060,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 koscianiak.pl##.billboard
 koscianiak.pl##.banner__label
 koscianiak.pl##.banner--regular
+koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
