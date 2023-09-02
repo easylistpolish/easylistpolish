@@ -2063,3 +2063,4 @@ wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=29&Itemid=74"]
 www.glogow-info.pl##a[href="http://glogow.radioplus.pl/"]
+www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
