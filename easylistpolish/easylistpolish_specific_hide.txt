@@ -2064,3 +2064,4 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
