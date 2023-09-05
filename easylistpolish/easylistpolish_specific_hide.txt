@@ -667,7 +667,7 @@ zmpd.pl##.banner_po_lewej
 e-kolo.pl##.banner_polecane
 pik.kielce.pl##.banner_reklama_el
 przekrojlokalny.pl,slubickie.info##.banner_zone
-chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,estrzelce.pl,ezamosc.pl,fakty.nl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,moszczenica.info,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,sloworegionu.pl,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,wadowiceonline.pl,wgmedia.eu##.bannergroup
+chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,emkielce.pl,estrzelce.pl,ezamosc.pl,fakty.nl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,moszczenica.info,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,sloworegionu.pl,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,wadowiceonline.pl,wgmedia.eu##.bannergroup
 palukitv.pl##.bannergroup img
 instalki.pl##.bannergroup-adv
 newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
@@ -2064,4 +2064,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-emkielce.pl##.bannergroup
