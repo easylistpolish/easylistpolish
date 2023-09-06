@@ -2066,3 +2066,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 beskid-niski.pl##img[src="/bannery/bn1_150x60.gif"]
 beskid-niski.pl##img[src="/bannery/banerbucz.gif"]
+beskid-niski.pl##img[src="/bannery/koliba.gif"]
