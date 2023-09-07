@@ -368,7 +368,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=ddtorun.pl|e-golub.info.pl|e-krajna.pl|fakty.nl|gorlice24.pl|itvszubin.pl|kolniak24.eu|myszkow365.pl|nrypin.pl|polski-tenis.pl|superchodziez.pl|terazlipno.pl|tygodnik.pl|tygodnikketrzynski.pl|zyciesiedleckie.pl
+||video.onnetwork.tv^$script,domain=ddtorun.pl|e-golub.info.pl|e-krajna.pl|ekutno.pl|extrawalcz.pl|fakty.nl|gle24.pl|gorlice24.pl|gostyn24.pl|gwe24.pl|itvszubin.pl|jastrowie24.pl|kolniak24.eu|myszkow365.pl|nrypin.pl|polski-tenis.pl|superchodziez.pl|terazlipno.pl|tygodnik.pl|tygodnikketrzynski.pl|uniejow.net.pl|zyciesiedleckie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -392,10 +392,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||video.onnetwork.tv^$script,domain=uniejow.net.pl
-||video.onnetwork.tv^$script,domain=ekutno.pl
-||video.onnetwork.tv^$script,domain=gwe24.pl
-||video.onnetwork.tv^$script,domain=gostyn24.pl
-||video.onnetwork.tv^$script,domain=gle24.pl
-||video.onnetwork.tv^$script,domain=jastrowie24.pl
-||video.onnetwork.tv^$script,domain=extrawalcz.pl

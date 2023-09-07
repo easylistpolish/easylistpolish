@@ -481,7 +481,7 @@ praca-niemcy24.pl##.adblock
 alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 ktomalek.pl##.add
 zeglarski.info##.add-box
-24wspolnota.pl,bialasiedzieje.pl,ddbelchatow.pl,gostynska.pl,jarocinska.pl,korso.pl,korso24.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,rzeszow24.info,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
+24wspolnota.pl,bialasiedzieje.pl,ddbelchatow.pl,gostynska.pl,jarocinska.pl,korso.pl,korso24.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,portalplock.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,rzeszow24.info,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 karnickie.info##.adds
 silesia24.pl##.adds--top
 rybnik.com.pl,tuwodzislaw.pl##.addv-container
@@ -490,7 +490,7 @@ gazetabilgoraj.pl##.adloc-leftskyscraper
 panoramakutna.pl##.adnotacja
 tvn.pl,tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
-24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,pieniny24.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,pieniny24.pl,portalplock.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 kutno.net.pl##.ads .slides
 wyborcza.biz,wyborcza.pl##.ads--splint
 nocowanie.pl##.ads--sr
@@ -1642,6 +1642,7 @@ pfmrc.eu##a[href="https://www.rchubiq.eu"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
+portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
@@ -2074,6 +2075,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-portalplock.pl##.addWrapper
-portalplock.pl##.ads
-portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
