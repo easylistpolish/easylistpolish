@@ -395,3 +395,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=uniejow.net.pl
 ||video.onnetwork.tv^$script,domain=ekutno.pl
 ||video.onnetwork.tv^$script,domain=gwe24.pl
+||video.onnetwork.tv^$script,domain=gostyn24.pl
