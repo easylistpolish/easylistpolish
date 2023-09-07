@@ -2076,3 +2076,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 portalplock.pl##.addWrapper
 portalplock.pl##.ads
+portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
