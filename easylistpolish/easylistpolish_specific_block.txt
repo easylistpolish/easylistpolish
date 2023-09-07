@@ -396,3 +396,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=abcjanikowo24.pl
 ||video.onnetwork.tv^$script,domain=ekstrasierpc.pl
 ||video.onnetwork.tv^$script,domain=isanok.pl
+^2023banery^$domain=wysokomazowiecki24.pl
