@@ -22,6 +22,7 @@
 ^1Reklama^$domain=iturek.net
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
+^2023banery^$domain=wysokomazowiecki24.pl
 ^300^$domain=betglob.pl|betgol.pl|emecze.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|meczenazywo.tv|meczlive.pl|oddslivesport.com|worldofbookmakers.com
 ^468^$domain=worldofbookmakers.com
 ^728^$domain=betgol.pl|extragoals.com|mecze.com|oddslivesport.com
@@ -367,7 +368,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=ddtorun.pl|e-golub.info.pl|e-krajna.pl|ekutno.pl|extrawalcz.pl|fakty.nl|gle24.pl|gorlice24.pl|gostyn24.pl|gwe24.pl|itvszubin.pl|jastrowie24.pl|kolniak24.eu|myszkow365.pl|nrypin.pl|polski-tenis.pl|superchodziez.pl|terazlipno.pl|tygodnik.pl|tygodnikketrzynski.pl|uniejow.net.pl|zyciesiedleckie.pl
+||video.onnetwork.tv^$script,domain=abcjanikowo24.pl|ddtorun.pl|e-golub.info.pl|e-krajna.pl|ekstrasierpc.pl|ekutno.pl|extrawalcz.pl|fakty.nl|gle24.pl|gorlice24.pl|gostyn24.pl|gst24.pl|gwe24.pl|isanok.pl|itvszubin.pl|jastrowie24.pl|kolniak24.eu|myszkow365.pl|nrypin.pl|polski-tenis.pl|superchodziez.pl|terazlipno.pl|tygodnik.pl|tygodnikketrzynski.pl|uniejow.net.pl|zyciesiedleckie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -391,8 +392,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||video.onnetwork.tv^$script,domain=gst24.pl
-||video.onnetwork.tv^$script,domain=abcjanikowo24.pl
-||video.onnetwork.tv^$script,domain=ekstrasierpc.pl
-||video.onnetwork.tv^$script,domain=isanok.pl
-^2023banery^$domain=wysokomazowiecki24.pl

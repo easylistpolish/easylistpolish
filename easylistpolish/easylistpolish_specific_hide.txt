@@ -627,6 +627,8 @@ studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bazarowo.pl,bezpiecznyrynekpracy.pl,dotabuff.com,e-kidsplanet.com,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,polskiautohandel.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,serwislokalny.com,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
 android.com.pl##.banner--big
+faktypilskie.pl##.banner--placeholder
+faktypilskie.pl##.banner--programmatic
 koscianiak.pl##.banner--regular
 trojmiasto.pl##.banner-a
 metal-bud.eu##.banner-b2b
@@ -692,7 +694,7 @@ kalisz24.info.pl##.bdaia-e3-container
 fabrykasily.pl##.bg-link-left, .bg-link-right
 portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
-ddwloclawek.pl,itvszubin.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl##.billboard
+ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl##.billboard
 nowa-sprzedaz.pl##.block .auto-pr-block
 zinfo.pl##.block-ads-wrapper
 grojeckie24.pl##.block-image > .imageblock-image
@@ -2075,6 +2077,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-faktypilskie.pl##.billboard
-faktypilskie.pl##.banner--programmatic
-faktypilskie.pl##.banner--placeholder
