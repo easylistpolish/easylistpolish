@@ -393,3 +393,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=uniejow.net.pl
+||video.onnetwork.tv^$script,domain=ekutno.pl
+
