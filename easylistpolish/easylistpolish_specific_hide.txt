@@ -2077,3 +2077,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 faktypilskie.pl##.billboard
 faktypilskie.pl##.banner--programmatic
+faktypilskie.pl##.banner--placeholder
