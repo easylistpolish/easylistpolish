@@ -394,3 +394,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=gst24.pl
 ||video.onnetwork.tv^$script,domain=abcjanikowo24.pl
+||video.onnetwork.tv^$script,domain=ekstrasierpc.pl
