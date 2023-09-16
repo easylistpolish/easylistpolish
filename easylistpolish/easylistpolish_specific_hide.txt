@@ -2079,3 +2079,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 wiadomoscihandlowe.pl##.container-topads
 wiadomoscihandlowe.pl##.grid--ad
+wiadomoscihandlowe.pl##.position_item_right_01_top
