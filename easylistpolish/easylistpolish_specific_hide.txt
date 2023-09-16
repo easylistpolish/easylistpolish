@@ -769,6 +769,7 @@ strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedLis
 meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
+wiadomoscihandlowe.pl##.container-topads
 comparic.pl##.container16,.container11
 comparic.pl##.containerRectangle
 lublin112.pl##.container[style="min-height: 325px"]
@@ -881,6 +882,7 @@ gorzow24.pl##.gml
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
+wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
 24jgora.pl,itvpiaseczno.pl,lowicz24.eu,ototorun.pl,tp.com.pl,zlotowskie.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
@@ -1131,6 +1133,7 @@ shinden.pl##.popup_wrapper
 zloty-pociag.com##.popup_wrapper iframe
 chip.pl##.portlet.portletCeneo
 chip.pl##.portletReklama
+wiadomoscihandlowe.pl##.position_item_right_01_top
 gieldaklasykow.pl##.post-navigation + a[target="_blank"]
 newsdiscopolo.info##.post-next-prev ~ iframe
 bobrzanie.pl##.post_banner
@@ -2077,6 +2080,3 @@ stooq.pl##td[width="1"] + td[valign="top"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-wiadomoscihandlowe.pl##.container-topads
-wiadomoscihandlowe.pl##.grid--ad
-wiadomoscihandlowe.pl##.position_item_right_01_top
