@@ -1054,6 +1054,7 @@ supertydzien.pl##.my-3 picture
 olawa24.pl##.my-6
 programtv.naziemna.info##.my-ad
 eurobolt.com.pl##.mybanners
+bartekwpodrozy.pl##.myrentacar-widget
 myslenicka24.pl##.mysle-reklama-glowna
 bogatyregion.pl##.n2-section-smartslider
 czasciechanowa.pl##.n2-ss-slider
@@ -1987,6 +1988,7 @@ gramwzielone.pl#?#.a:-abp-has(.a__title)
 wirtualneoslo.pl##header > center > a
 scs.htw.pl##iframe[name="billboard-top"]
 bajery.pl##iframe[name="rek"]
+bartekwpodrozy.pl##iframe[src^="https://widget.getyourguide.com/default/"]
 xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
 jakzrobicwexcelu.pl##img[alt$="reklama"]
