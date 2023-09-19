@@ -2082,3 +2082,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
 2x45.info##img[src="images/pictures/BETSSON BANER 1.gif"]
 2x45.info##img[src="images/pictures/TOTAL BET listopad 1.gif"]
+2x45.info##img[src="images/pictures/Mostbet.gif"]
