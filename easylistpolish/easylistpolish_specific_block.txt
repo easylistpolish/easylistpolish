@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=pakosc24.pl
+||video.onnetwork.tv^$script,domain=e-chelmno.pl
