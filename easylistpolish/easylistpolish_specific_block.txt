@@ -395,4 +395,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=pakosc24.pl
 ||video.onnetwork.tv^$script,domain=e-chelmno.pl
 ||video.onnetwork.tv^$script,domain=tusochaczew.pl
-
+||video.onnetwork.tv^$script,domain=esopot.pl
