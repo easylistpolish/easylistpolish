@@ -1048,8 +1048,7 @@ radioandrychow.pl##.mradio-marketing
 wilanownews.pl##.ms-container
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
-tuolawa.pl##.my-3 .d-inline-block
-tv-wschod.pl##.my-3 div[data-ciid]
+tuolawa.pl#,tv-wschod.pl##.my-3 div[data-ciid]
 supertydzien.pl##.my-3 picture
 tuolawa.pl##.my-3.container
 olawa24.pl##.my-6
