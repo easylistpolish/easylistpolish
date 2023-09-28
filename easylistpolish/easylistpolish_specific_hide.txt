@@ -1083,7 +1083,6 @@ polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
 iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
-laczynaspilka.pl##.off-partners
 zw.pl##.oglo_box2
 sportowetempo.pl##.ogloszenia
 tko.pl##.oln-adlabel
