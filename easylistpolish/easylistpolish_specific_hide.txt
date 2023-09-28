@@ -1269,7 +1269,6 @@ informator-stolicy.pl##.span_r
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
 wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 haloursynow.pl##.spons
-cybersport.pl##.sponsor
 zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
