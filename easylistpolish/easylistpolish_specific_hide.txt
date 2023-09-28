@@ -604,7 +604,6 @@ mazury24.eu##.baner2213
 mazury24.eu##.baner2938
 swiatbaterii.pl##.baner3
 alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,klimatyzacja.biz,kominy.biz,ksiegowosc.org,metale.org,narzedziownia.org,odpylanie.info,ogrzewanie.info.pl,opakowania.biz,sacro.com.pl,stolarstwo.org,styropian.biz,tworzywa.org,wentylacja.biz##.baner300
-haloursynow.pl##.baner390x60
 planetakobiet.com.pl##.banerDiv
 firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
