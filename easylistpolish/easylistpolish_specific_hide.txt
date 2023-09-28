@@ -309,7 +309,6 @@ swinoujskie.info###snppopup-welcome
 portal-mundurowy.pl###sp-header
 nowyzmigrod24.pl###sp-section-3
 wysokomazowiecki24.pl###sp-top-bar
-webhelp.pl###sponsor
 bramka.pl###sponsorBox
 zambrowiacy.pl###sponsorbox
 plastikowe.pl###sponsors
