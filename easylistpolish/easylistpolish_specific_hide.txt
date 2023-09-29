@@ -839,7 +839,6 @@ terazkrosno.pl##.fluid-imgs
 ftb.pl##.footav
 raportkolejowy.pl##.footbottombar
 jbzd.com.pl##.footer-mobile
-laczynaspilka.pl##.footer-partners
 telchina.pl##.forabg
 meczyki.pl##.frame-wrapper > *
 wronieckibazar.pl##.fright
