@@ -743,7 +743,6 @@ allaboutlife.pl##.carrie-ad-block
 polityka.pl##.cg_subscribe99_banner_apla
 kramik.pl##.click-banner
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
-mmanews.pl##.clickableBlock
 faktykonopne.pl,nasz-glos.com,swiatoze.pl,wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
 nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
