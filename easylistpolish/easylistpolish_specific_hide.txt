@@ -891,7 +891,6 @@ zyciegrajewa.pl##.head2
 portaltenisowy.info##.header--advert
 rzeszowskieinfo.pl##.header-add
 tarnobrzeg.info##.header-advertise
-
 dts24.pl,nysahot.pl##.header-banner
 computerworld.pl##.header-bilbo
 mamaklub.pl##.header-billboard
