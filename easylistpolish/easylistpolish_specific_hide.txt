@@ -136,7 +136,7 @@ lublin112.pl###firmy-box-inner
 calisia.pl###fixed_abox_1
 linguajob.pl###flash_baner
 urzadzamy.pl###floorLayer
-gazetalubliniecka.pl###foot-leader
+
 smak-zdrowia.blogspot.com###footer-2-2
 szefur.pl###footer-leaderboard
 cozadzien.pl###footer-slider
