@@ -1289,7 +1289,6 @@ koscianiak.pl##.td-adspot-title
 probasket.pl##.td-all-devices
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl"])
 lwowecki.info##.td-all-devices2
-
 comparic.pl,poloniairlandia.pl##.td-banner-wrap-full
 elementarzprojektanta.pl##.td-fix-index
 radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
