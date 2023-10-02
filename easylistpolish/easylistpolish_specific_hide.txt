@@ -1162,7 +1162,7 @@ polonia.nl##.reklama-warpper
 tv.gniezno.pl##.reklamaCenter
 eostroleka.pl##.reklamaNapis
 seriea.pl##.reklamaNapis + *
-moje-gniezno.pl##.reklamaTEKST
+
 dkl24.pl##.reklama_700
 wieliczkacity.pl##.reklama_980
 wieliczkacity.pl##.reklama_980 ~ center a
