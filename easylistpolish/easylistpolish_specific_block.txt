@@ -396,3 +396,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=glossokolowa.pl
 ||video.onnetwork.tv^$script,domain=ziemiagorowska.pl
 ||video.onnetwork.tv^$script,domain=e-lubon.pl
+||video.onnetwork.tv^$script,domain=tukutno.pl
