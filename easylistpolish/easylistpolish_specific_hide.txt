@@ -2027,7 +2027,6 @@ meblarskapolska.pl,meblosfera.pl,tapicerstwo.co##img[title="Reklama"]
 wedkarskisprzet.pl##img[width="150"]
 infokonin.pl##img[width="240"][height="80"]
 widoki.info##img[width="300"]
-
 automotivesuppliers.pl##img[width="370"][height="140"]
 donald.pl##ins[class^="staticpubads"]
 telemagazyn.pl##li > a[rel="nofollow"]
