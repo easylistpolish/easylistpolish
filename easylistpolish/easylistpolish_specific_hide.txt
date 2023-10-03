@@ -1852,7 +1852,6 @@ stockwatch.pl##div[class^="ADbox"]
 dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[class^="a-single a-"]
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
-
 astrona.pl##div[class^="adsense"]
 realizator.pl##div[class^="advert"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
