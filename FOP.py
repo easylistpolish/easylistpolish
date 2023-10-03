@@ -108,9 +108,9 @@ def parse_comment():
     args = parser()
     global COMMENT_MESSAGE
     if args.comment_adblock:
-        COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+        COMMENT_MESSAGE = f"M: adblock-filters {datetime.utcnow().strftime('%Y-%m-%d')} sorting list"
     elif args.comment_troll:
-        COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} sorting list"
+        COMMENT_MESSAGE = f"M: TrollZbozowy {datetime.utcnow().strftime('%Y-%m-%d')} sorting list"
     else:
         COMMENT_MESSAGE = ''
 
