@@ -123,7 +123,8 @@ wiescipolickie.pl###custom_html-22
 belekaj.eu,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
 msmobile.pl###custom_html-5
 nowezyciepabianic.pl###custom_html-6
-zyciezamoscia.pl###custom_html-6,#custom_html-8
+zyciezamoscia.pl###custom_html-6
+zyciezamoscia.pl###custom_html-8
 portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
 waw4free.pl###detal_top
