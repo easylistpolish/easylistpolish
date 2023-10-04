@@ -59,7 +59,7 @@ genetyczne.pl###banner-21
 genetyczne.pl###banner-23
 genetyczne.pl###banner-24
 genetyczne.pl###banner-6
-testynaojcostwo.pl###banner-9,banner-16
+testynaojcostwo.pl###banner-9
 lagardere-tr.pl###banner-hds
 lagardere-tr.pl###banner-hds-background
 mierzeja.com###banner-popup
