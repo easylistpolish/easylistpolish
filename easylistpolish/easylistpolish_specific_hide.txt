@@ -1316,7 +1316,8 @@ bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 cosiedzieje.tv,expresskaszebe.pl,gostynin24.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,tygodnik-krapkowicki.pl,zachodniopomorska.tv##.tipad_tag
-kk24.pl##.tipad_tag + a, .tipad_tag
+kk24.pl##.tipad_tag + a
+kk24.pl##.tipad_tag
 transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,franchising.pl,lubliniec.info,pulsmiasta.tv##.top-banner
