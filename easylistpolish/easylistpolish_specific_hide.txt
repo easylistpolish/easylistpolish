@@ -1368,7 +1368,8 @@ transfermarkt.pl##.werbung-billboard
 womenshealth.pl##.wh-optad
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
-gloskrakowa.pl##.widget-2,.widget-4
+gloskrakowa.pl##.widget-2
+gloskrakowa.pl##.widget-4
 gazetawielkopolska.pl,prudnik24.pl##.widget-3
 lsw24.pl##.widget-ad-image
 lokalna24.pl##.widget-advert_centralplacement
