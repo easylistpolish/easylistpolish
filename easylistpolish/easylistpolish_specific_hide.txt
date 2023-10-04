@@ -1464,6 +1464,7 @@ allegro.pl##[data-box-name*="advertising"]
 allegro.pl##[data-box-name="Container PPC Offers"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
+24gliwice.pl##[href^="https://www.24gliwice.pl/r/"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 gazeta.pl##[id^="adUnit-"]
@@ -2056,4 +2057,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24gliwice.pl##[href^="https://www.24gliwice.pl/r/"]
