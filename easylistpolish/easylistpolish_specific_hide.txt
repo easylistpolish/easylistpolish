@@ -766,7 +766,8 @@ meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
 4programmers.net##.container-fluid > a > img[width="728"][height="91"]
 wiadomoscihandlowe.pl##.container-topads
-comparic.pl##.container16,.container11
+comparic.pl##.container16
+comparic.pl##.container11
 comparic.pl##.containerRectangle
 lublin112.pl##.container[style="min-height: 325px"]
 flashscore.pl##.container__bannerZone
