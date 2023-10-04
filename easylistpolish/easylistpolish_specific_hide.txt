@@ -689,7 +689,8 @@ komercyjne.pl##.bb-ad-outer
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
-fabrykasily.pl##.bg-link-left, .bg-link-right
+fabrykasily.pl##.bg-link-left
+fabrykasily.pl##.bg-link-right
 portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
