@@ -572,7 +572,8 @@ gazetarumska.pl##.articleBottom-ads
 24wspolnota.pl##.article__ad-special
 eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.article__placement
 parenting.pl##.article__textbox
-neonet.pl##.as-wallpaper_right, .as-wallpaper_left
+neonet.pl##.as-wallpaper_right
+neonet.pl##.as-wallpaper_left
 posbud.com.pl##.as_marquee0
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,stronakuchni.pl##.atomsAdsCellModel
 dziennikzachodni.pl##.atomsPromotionsBanner__link
