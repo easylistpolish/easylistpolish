@@ -243,7 +243,8 @@ informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
 betonline.net.pl,wyspiarzniebieski.pl###popup
-zpierwszegotloczenia.pl###popup-ad, .modal-backdrop
+zpierwszegotloczenia.pl###popup-ad
+zpierwszegotloczenia.pl##.modal-backdrop
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl,szukacz.pl###popupContainer
 zmianywzyciu.pl###popup_facebook
