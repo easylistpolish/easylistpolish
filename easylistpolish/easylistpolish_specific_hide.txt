@@ -54,8 +54,8 @@ portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
 krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17
-testynaojcostwo.pl###banner-9
 genetyczne.pl###banner-6,#banner-20,#banner-21,#banner-23,#banner-24
+testynaojcostwo.pl###banner-9
 lagardere-tr.pl###banner-hds
 lagardere-tr.pl###banner-hds-background
 mierzeja.com###banner-popup
