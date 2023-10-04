@@ -1,4 +1,4 @@
-money.pl###ADrail
+
 portalpszczelarski.pl###AdBig
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
