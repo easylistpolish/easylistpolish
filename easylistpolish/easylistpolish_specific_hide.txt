@@ -54,10 +54,11 @@ portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
 krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17
-genetyczne.pl###banner-6,#banner-20
+genetyczne.pl###banner-6
 genetyczne.pl###banner-24
 genetyczne.pl###banner-23
 genetyczne.pl###banner-21
+genetyczne.pl###banner-20
 testynaojcostwo.pl###banner-9
 lagardere-tr.pl###banner-hds
 lagardere-tr.pl###banner-hds-background
