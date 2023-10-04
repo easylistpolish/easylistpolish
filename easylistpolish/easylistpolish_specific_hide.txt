@@ -1237,7 +1237,8 @@ weszlo.com##.single-side-column .ad-placeholder-bg
 dzierzgon-twojemiasto.pl##.site-branding
 codziennypoznan.pl##.site-header .elementor-shortcode
 twojskaryszew.pl##.site-header .np-header-ads-area
-proshop.pl##.site-left-banner, .site-right-banner
+proshop.pl##.site-left-banner
+proshop.pl##.site-right-banner
 filmawka.pl##.site-news__ads
 wroclawiak.pl##.site-right-re
 joemonster.org##.sky-wrapper
