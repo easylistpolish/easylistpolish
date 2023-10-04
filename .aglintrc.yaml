@@ -6,3 +6,8 @@ extends:
   - aglint:all
 syntax:
   - AdblockPlus
+
+rules:
+  single-selector: ["error"]
+  duplicated-hint-platforms: ["error"]
+  duplicated-hints: ["error"]
