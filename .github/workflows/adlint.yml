@@ -1,17 +1,48 @@
-name: Adlint
+# Sample workflow to run AGLint on GitHub Actions
+name: AGLint
 
-on: [push]
+# Change the Node.js version if you want
+env:
+  NODE_VERSION: 18
+
+# AGLint will run on every push and pull request to "main" branch,
+# but only if the changed files contain .txt files
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
+  pull_request:
+    branches:
+      - master
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
 
 jobs:
-  build:
+  lint:
+    name: Run AGLint
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18.x'
-    - run: npm install @adguard/aglint
-    - name: Analysing the code with Adlint
-      run: |
-        npx aglint
+      - name: Check out to repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # If the linter found any errors, it will exit with a non-zero
+      # code, which will cause the job to fail
+      - name: Run AGLint
+        run: npm run lint
