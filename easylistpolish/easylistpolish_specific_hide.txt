@@ -1656,6 +1656,7 @@ bobrowniki.tv##a[href^="http://slaskieplyty.pl"]
 e-grajewo.pl##a[href^="http://spoldzielcza1.pl"]
 gazeta-mosina.pl##a[href^="http://swierkowyzakatek.pl"]
 zakliczyninfo.pl##a[href^="http://tk-beton.pl/"]
+24gliwice.pl##a[href^="http://www.24gliwice.pl/r/counter-baners.php"]
 super-polska.pl##a[href^="http://www.anf.pl/"]
 chwaszczyno.pl##a[href^="http://www.autoczescionline24.pl/"]
 walbrzyszek.com##a[href^="http://www.czesciauto24.pl"]
@@ -2057,4 +2058,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24gliwice.pl##a[href^="http://www.24gliwice.pl/r/counter-baners.php"]
