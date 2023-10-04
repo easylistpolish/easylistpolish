@@ -1,3 +1,16 @@
 {
-    
+  "name": "easylistpolish",
+  "description": "[![Adlint](https://github.com/easylistpolish/easylistpolish/actions/workflows/adlint.yml/badge.svg)](https://github.com/easylistpolish/easylistpolish/actions/workflows/adlint.yml)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "aglint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@adguard/aglint": "^2.0.5"
+  }
 }
