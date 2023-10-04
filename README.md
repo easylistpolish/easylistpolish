@@ -1,3 +1,5 @@
+[![Adlint](https://github.com/easylistpolish/easylistpolish/actions/workflows/adlint.yml/badge.svg)](https://github.com/easylistpolish/easylistpolish/actions/workflows/adlint.yml)
+
 # easylistpolish
 
 Polish filters for  Adblock Plus, AdBlock and uBlock Origin
