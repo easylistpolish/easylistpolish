@@ -601,7 +601,7 @@ staleo.pl##.baner-holder
 bolec.info##.baner-max
 tychy.info##.baner-row
 polskieradio24.pl##.baner-special2
-tygodniksiedlecki.com##.baner-text
+
 mazury24.eu##.baner2213
 mazury24.eu##.baner2938
 swiatbaterii.pl##.baner3
