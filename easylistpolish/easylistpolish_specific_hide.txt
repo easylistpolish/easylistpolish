@@ -1069,6 +1069,7 @@ naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
 gazetaostrowska.pl##.nivoSlider
 networkmagazyn.pl##.nmSectionBanner
+24zabrze.pl##.no-lazyload
 gostynska.pl##.ns-Placement
 wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
@@ -2066,4 +2067,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24zabrze.pl##.no-lazyload
