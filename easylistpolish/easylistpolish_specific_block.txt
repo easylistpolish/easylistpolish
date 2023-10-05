@@ -394,3 +394,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=uniejow.net.pl
 ||video.onnetwork.tv^$script,domain=motomagazyn.com
+||video.onnetwork.tv^$script,domain=wybudujemy.com.pl
