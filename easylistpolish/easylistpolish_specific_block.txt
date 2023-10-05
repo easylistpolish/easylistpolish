@@ -395,3 +395,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=uniejow.net.pl
 ||video.onnetwork.tv^$script,domain=motomagazyn.com
 ||video.onnetwork.tv^$script,domain=wybudujemy.com.pl
+||video.onnetwork.tv^$script,domain=modnymagazyn.pl
