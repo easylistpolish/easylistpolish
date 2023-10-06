@@ -1179,7 +1179,7 @@ naszraciborz.pl##.reklama_title
 okraglemiasto.pl##.reklama_top
 skawina24.com##.reklamaoff
 bukowskilider.pl##.reklamaprawastrona
-eurologistics.pl##.reklamka_sidebar
+
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 konindzieciom.pl##.rektop
 bobrzanie.pl##.reverie-header-banner
