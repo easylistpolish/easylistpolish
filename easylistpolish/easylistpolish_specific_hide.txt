@@ -692,7 +692,6 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
 nowa-sprzedaz.pl##.block .auto-pr-block
-
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
