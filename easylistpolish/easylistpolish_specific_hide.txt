@@ -1841,7 +1841,7 @@ laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
 e-kg.pl##div.l-ad-top
-realizator.pl##div.m-advert
+
 speedtest.pl##div.mb-4
 elbi.pl##div.reklama_przycisk
 starnowa.tv,tydzien.net.pl##div.td-a-rec
