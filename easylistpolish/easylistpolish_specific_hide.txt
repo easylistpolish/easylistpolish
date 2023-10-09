@@ -2029,7 +2029,7 @@ zachodniopomorska.tv##img[src^="https://sc.4media.com/data/aqwzxtvn/2023/02/20/"
 wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2021/12/piodent50."]
 wiesci.com.pl##img[src^="https://wiesci.com.pl/wp-content/uploads/2022/05/ARTUR_"]
 lowicz24.eu##img[style="width: 250px; height: 100px;"]
-e-kolo.pl##img[style^="max-width: 100%;"]
+
 blogprezesa.pl##img[title="Binance"]
 meblarskapolska.pl,meblosfera.pl,tapicerstwo.co##img[title="Reklama"]
 wedkarskisprzet.pl##img[width="150"]
