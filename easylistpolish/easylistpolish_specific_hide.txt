@@ -1425,6 +1425,7 @@ mjakmama24.pl,radioplus.pl##.zpr_shopping__article
 eska.pl##.zpr_top_1
 eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not([align]) > a[href*="/goto/"]
 pwm.org.pl##A[onclick^="countAdClick"]
+24jgora.pl##IMG[src^="http://www.24jgora.pl/kampanie/"]
 chip.pl##[action^="http://www.njobs.eu/"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
@@ -2062,4 +2063,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24jgora.pl##IMG[src^="http://www.24jgora.pl/kampanie/"]
