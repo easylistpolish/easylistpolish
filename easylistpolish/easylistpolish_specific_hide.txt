@@ -1862,7 +1862,6 @@ dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[cl
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
 astrona.pl##div[class^="adsense"]
-
 b2-biznes.pl##div[class^="ai-rotate ai-"]
 divers24.pl##div[class^="angwp-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
