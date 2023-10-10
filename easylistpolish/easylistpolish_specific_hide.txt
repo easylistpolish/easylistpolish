@@ -1839,6 +1839,7 @@ info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 nowafarmacja.pl##div#ulixes-background
 lebork24.info##div.ai-viewport-1
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
+24kurier.pl##div.box_reklama, .box_reklama_t
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
 e-kg.pl##div.l-ad-top
@@ -2061,4 +2062,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24kurier.pl##div.box_reklama, .box_reklama_t
