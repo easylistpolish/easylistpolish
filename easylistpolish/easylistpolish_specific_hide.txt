@@ -2037,7 +2037,6 @@ infokonin.pl##img[width="240"][height="80"]
 widoki.info##img[width="300"]
 automotivesuppliers.pl##img[width="370"][height="140"]
 donald.pl##ins[class^="staticpubads"]
-
 allegro.pl##li[data-analytics-view-value$="halloween"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
