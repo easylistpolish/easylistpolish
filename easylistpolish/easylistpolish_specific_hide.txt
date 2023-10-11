@@ -513,7 +513,6 @@ nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
 wterenie.pl##.adv--rectangle
-
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
@@ -717,6 +716,7 @@ wroclaw.pl##.boxVerticalBanner
 mylomza.pl##.box__container iframe
 cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama
+24kurier.pl##.box_reklama_t
 24kurier.pl##.box_reklama_txt
 lublin112.pl##.boxa
 radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl"])
@@ -1839,7 +1839,6 @@ nowafarmacja.pl##div#ulixes-background
 lebork24.info##div.ai-viewport-1
 laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
 24kurier.pl##div.box_reklama
-24kurier.pl##.box_reklama_t
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
 e-kg.pl##div.l-ad-top
