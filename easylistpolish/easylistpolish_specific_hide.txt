@@ -513,7 +513,7 @@ nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
 nowezyciepabianic.pl##.adv--next-logo
 wterenie.pl##.adv--rectangle
-nowezyciepabianic.pl##.adv--top
+
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
