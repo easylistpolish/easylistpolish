@@ -738,6 +738,7 @@ tp.com.pl##.card--box
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com"]
 zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
+24opole.pl##.cd
 polityka.pl##.cg_subscribe99_banner_apla
 kramik.pl##.click-banner
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
@@ -2060,4 +2061,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24opole.pl##.cd
