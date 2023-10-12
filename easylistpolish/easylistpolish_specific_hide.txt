@@ -532,7 +532,7 @@ wirtualnesuwalki.pl##.advert-B2
 malbork1.pl,wirtualnesuwalki.pl,zulawyimierzeja24.pl##.advert-C1
 olesnicainfo.pl##.advert-block-big
 terenyinwestycyjne.info##.advert-block-wide
-zycie.pl##.advert-item
+
 lovekrakow.pl##.advert-next-to-logo
 ox.pl##.advert-owl
 bryk.pl##.advert-right-wrapper
