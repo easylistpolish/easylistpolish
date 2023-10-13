@@ -834,7 +834,7 @@ punkt.media##.flexbannergrouppattern
 www.konstrukcjeinzynierskie.pl##.flexbannergroupreklama-top
 futbolnews.pl,zzapolowy.com##.floatBox
 terazkrosno.pl##.fluid-imgs
-ftb.pl##.footav
+
 raportkolejowy.pl##.footbottombar
 jbzd.com.pl##.footer-mobile
 telchina.pl##.forabg
