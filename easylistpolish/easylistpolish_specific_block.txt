@@ -395,3 +395,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=haloursynow.pl
 ||video.onnetwork.tv^$script,domain=rydzyna24.pl
 ||video.onnetwork.tv^$script,domain=myglogow.pl
+||video.onnetwork.tv^$script,domain=bialobrzegi24.net
