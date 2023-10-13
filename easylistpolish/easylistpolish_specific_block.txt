@@ -399,3 +399,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=koscianiak.pl
 ||video.onnetwork.tv^$script,domain=mypolkowice.pl
 ||video.onnetwork.tv^$script,domain=magazynzuzel.pl
+||video.onnetwork.tv^$script,domain=tyna.info.pl
