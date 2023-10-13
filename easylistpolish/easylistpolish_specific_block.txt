@@ -397,3 +397,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=myglogow.pl
 ||video.onnetwork.tv^$script,domain=bialobrzegi24.net
 ||video.onnetwork.tv^$script,domain=koscianiak.pl
+||video.onnetwork.tv^$script,domain=mypolkowice.pl
