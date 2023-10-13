@@ -678,7 +678,6 @@ infoludek.pl##.banneryflex
 taternik.org##.bantitle
 kt24.pl##.bar-container
 naszwodzislaw.com##.bazarek
-
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
 kalisz24.info.pl##.bdaia-e3-container
