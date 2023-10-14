@@ -1132,7 +1132,6 @@ radomsport.pl##.prawa
 friko.net##.prezenty > .panel-body
 mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
-
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 forumbranzowe.com##.promocje
 lol24.com##.promotion
