@@ -1176,7 +1176,7 @@ okraglemiasto.pl##.reklama_top
 skawina24.com##.reklamaoff
 bukowskilider.pl##.reklamaprawastrona
 ciechanowonline.pl,portalzamojski.pl##.reklamy
-konindzieciom.pl##.rektop
+
 bobrzanie.pl##.reverie-header-banner
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
