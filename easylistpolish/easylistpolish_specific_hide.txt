@@ -1762,7 +1762,7 @@ podhale-sport.pl##a[href^="https://www.sport-corner."]
 warzywapolowe.pl##a[href^="https://www.syngenta.pl/"]
 automobilista.com.pl,kanonierzy.com,swidnik.pl,widzewtomy.net##a[href^="https://www.ucando."]
 starosadeckie.info##a[href^="https://www.wsb-nlu.edu."]
-wykop.pl##a[href^="https://www.wykop.pl/adverts"]
+
 kto-dzwonil.com##a[href^="https://www.xio."]
 genapps.pl##a[href^="https://www.zameczkowo."]
 bankier.pl##a[href^="https://www3.smartadserver."]
