@@ -336,7 +336,7 @@ foteleobrotowe.com.pl,infobusko.pl,kcynia.info###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
-24pr.pl,medycznamarihuana.com,tarnobrzeskie.eu###text-22
+24pr.pl,medycznamarihuana.com,tarnobrzeskie.eu,tu.swinoujscie.pl###text-22
 wiesci.com.pl###text-23
 czestochowskie24.pl,dopilar.pl,fiat.fm,historykon.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
@@ -2055,4 +2055,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-tu.swinoujscie.pl###text-22
