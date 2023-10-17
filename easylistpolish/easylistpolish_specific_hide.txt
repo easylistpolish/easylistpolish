@@ -1472,6 +1472,7 @@ losice.info##[id^="adni_"]
 gazeta.pl##[id^="ads"]
 plotek.pl##[id^="banC"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
+24starogard.pl##[id^="bannerlistwidget-"]
 sucha24.pl##[id^="bills_in_rotation_"]
 deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
 raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
@@ -2053,4 +2054,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wykop.pl#?#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
-24starogard.pl##[id^="bannerlistwidget-"]
