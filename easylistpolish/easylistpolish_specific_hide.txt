@@ -1834,6 +1834,7 @@ laj.pl,nowa-sprzedaz.pl,o-m.pl,sm-manager.pl##div.bannersm
 tenpoznan.pl##div.code-block
 przyjaznawarszawa.pl,zd24.pl##div.custom a[href*="www.kbprojekt.pl/"][target="_blank"]
 e-kg.pl##div.l-ad-top
+24starogard.pl##div.linia_4
 speedtest.pl##div.mb-4
 elbi.pl##div.reklama_przycisk
 starnowa.tv,tydzien.net.pl##div.td-a-rec
@@ -2052,4 +2053,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-24starogard.pl##div.linia_4
