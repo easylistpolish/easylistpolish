@@ -487,7 +487,6 @@ national-geographic.pl##.adrWrapper
 24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,pieniny24.pl,portalplock.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
 kutno.net.pl##.ads .slides
 wyborcza.biz,wyborcza.pl##.ads--splint
-
 zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
