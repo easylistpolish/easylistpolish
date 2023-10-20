@@ -490,7 +490,7 @@ wyborcza.biz,wyborcza.pl##.ads--splint
 zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
-szokuje.pl##.ads-in-thumbs
+
 esanok.pl,ustrzyki24.pl##.ads-s
 szokuje.pl##.ads-sidebar-top
 rankinglekarzy.pl##.ads-slot
