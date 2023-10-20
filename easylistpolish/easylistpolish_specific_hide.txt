@@ -491,7 +491,7 @@ zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
 esanok.pl,ustrzyki24.pl##.ads-s
-szokuje.pl##.ads-sidebar-top
+
 rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
 szokuje.pl##.ads-under_menu
