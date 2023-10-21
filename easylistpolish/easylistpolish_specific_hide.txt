@@ -494,7 +494,7 @@ kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
 esanok.pl,ustrzyki24.pl##.ads-s
 rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
-szokuje.pl##.ads-under_menu
+
 nowezyciepabianic.pl##.ads480
 businessinsider.com.pl,plejada.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
