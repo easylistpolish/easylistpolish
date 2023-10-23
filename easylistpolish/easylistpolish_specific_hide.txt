@@ -214,7 +214,6 @@ gazetagazeta.com###media_image-39
 budownictwo.co###media_image-5
 czestochowskie24.pl###media_image-6
 czestochowskie24.pl,gazetatrybunalska.info###media_image-7
-
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
 mma.pl###mma_post1_ad
