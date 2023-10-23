@@ -867,7 +867,7 @@ stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
-24jgora.pl,itvpiaseczno.pl,lowicz24.eu,ototorun.pl,tp.com.pl,zlotowskie.pl##.grid__ad
+24jgora.pl,itvpiaseczno.pl,lowicz24.eu,ototorun.pl,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 odkryjpomorze.pl##.h-line
 super-warez.eu##.h_banner-block
@@ -2048,4 +2048,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zyciesokolowa.pl##.grid__ad
