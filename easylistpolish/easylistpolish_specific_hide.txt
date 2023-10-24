@@ -2051,3 +2051,4 @@ hej.slupsk.pl##.banner--toplayer
 pleszew24.info##.banner--toplayer
 tukutno.pl##.banner--toplayer
 e-lubon.pl##.banner--toplayer
+ziemiagorowska.pl##.banner--toplayer
