@@ -2054,3 +2054,4 @@ e-lubon.pl##.banner--toplayer
 ziemiagorowska.pl##.banner--toplayer
 hej.slupsk.pl##.banner--regular
 pleszew24.info##.banner--regular
+tukutno.pl##.banner--regular
