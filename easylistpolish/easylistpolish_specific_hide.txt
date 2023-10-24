@@ -2058,3 +2058,4 @@ tukutno.pl##.banner--regular
 e-lubon.pl##.banner--regular
 ziemiagorowska.pl##.banner--regular
 glossokolowa.pl##.banner--regular
+szemud24.pl##.banner--regular
