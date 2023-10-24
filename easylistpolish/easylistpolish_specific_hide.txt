@@ -1536,6 +1536,7 @@ chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
 www.glogow-info.pl##a[href="http://glogow.radioplus.pl/"]
 nowawrzesnia.pl##a[href="http://montbram.pl/"]
 cenyrolnicze.pl##a[href="http://rekart.pl"]
+zyleta.info##a[href="http://ultrastreet.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
 beskid-niski.pl##a[href="http://www.banica.com.pl/"]
@@ -2046,4 +2047,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zyleta.info##a[href="http://ultrastreet.pl/"]
