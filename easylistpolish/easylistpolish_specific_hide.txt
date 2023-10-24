@@ -997,7 +997,7 @@ nowywyszkowiak.pl##.medium_baner
 gada.pl##.menu_reklama
 enowiny.pl##.meta-font
 b24tv.pl##.metaslider
-nowawrzesnia.pl##.metaslider-nivo
+
 sloworegionu.pl##.mfp-container
 comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
