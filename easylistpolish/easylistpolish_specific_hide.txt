@@ -2049,3 +2049,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 modnymagazyn.pl##.banner--regular
 wybudujemy.com.pl##.banner--regular
 motomagazyn.com##.banner--regular
+prawobrzeze24.pl##.banner--regular
