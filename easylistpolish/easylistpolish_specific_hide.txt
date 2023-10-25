@@ -120,7 +120,7 @@ kazimierzdolny24.pl,palegro.pl,swiatdronow.pl,swift-iban.pl,wiescipolickie.pl,wr
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
 belekaj.eu,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
-msmobile.pl###custom_html-5
+
 nowezyciepabianic.pl,zyciezamoscia.pl###custom_html-6
 zyciezamoscia.pl###custom_html-8
 portalprzemyski.pl###custom_html-9
