@@ -2054,3 +2054,4 @@ dziennikhistoryczny.pl##.banner--regular
 bialobrzegi24.net##.banner--regular
 myglogow.pl##.banner--regular
 mypolkowice.pl##.banner--regular
+fakty.nl##.banner--regular
