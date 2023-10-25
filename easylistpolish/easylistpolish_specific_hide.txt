@@ -2052,3 +2052,4 @@ motomagazyn.com##.banner--regular
 prawobrzeze24.pl##.banner--regular
 dziennikhistoryczny.pl##.banner--regular
 bialobrzegi24.net##.banner--regular
+myglogow.pl##.banner--regular
