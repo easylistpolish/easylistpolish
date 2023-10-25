@@ -98,6 +98,7 @@ zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
+zywiecinfo.pl###blockadblock
 konin24.info###box
 laboratoria.net###box40
 bilgorajska.pl,gada.pl,zamojska.pl###box_r
@@ -2045,4 +2046,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zywiecinfo.pl###blockadblock
