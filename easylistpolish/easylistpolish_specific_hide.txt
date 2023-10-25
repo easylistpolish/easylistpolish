@@ -1179,7 +1179,7 @@ tromil.pl##.rotator-ceneo
 bytomski.pl##.rotatorTop
 mojanorwegia.pl##.row.single > a[target="_blank"]
 liderbudowlany.pl##.rozwijany
-nowawrzesnia.pl##.rs-advertisement
+
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
 studentnews.pl##.s_dodatkowa font[size="5"]
