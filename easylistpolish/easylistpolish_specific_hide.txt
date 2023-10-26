@@ -2049,3 +2049,4 @@ magazynzuzel.pl##.banner--regular
 tyna.info.pl##.banner--regular
 nrypin.pl##.banner--regular
 czasbrodnicy.pl##.banner--regular
+rydzyna24.pl##.banner--regular
