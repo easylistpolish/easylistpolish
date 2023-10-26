@@ -2051,3 +2051,4 @@ nrypin.pl##.banner--regular
 czasbrodnicy.pl##.banner--regular
 rydzyna24.pl##.banner--regular
 naszpruszcz.pl##.banner--regular
+magazynregionalny.pl##.banner--regular
