@@ -1125,6 +1125,7 @@ mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
 forumbranzowe.com##.promocje
+zywiecinfo.pl##.promoted
 lol24.com##.promotion
 kryptoholik.pl##.pum-overlay
 newsweek.pl##.pwAds
@@ -2043,4 +2044,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zywiecinfo.pl##.promoted
