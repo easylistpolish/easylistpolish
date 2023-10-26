@@ -1290,7 +1290,7 @@ panoramakutna.pl##.tdi_28
 agronews.com.pl##.tdi_29
 agronews.com.pl##.tdi_31
 onetontour.pl##.test-drive-banner
-lifemanagerka.pl##.text-5
+
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
 bociany.tv,katowice24.info,spece.it##.textwidget
