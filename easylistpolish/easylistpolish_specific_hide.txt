@@ -2054,3 +2054,4 @@ naszpruszcz.pl##.banner--regular
 magazynregionalny.pl##.banner--regular
 bilgoraj.com.pl##.banner--regular
 pulstygodnia.pl##.banner--regular
+wdrawskupomorskim.pl##.banner--regular
