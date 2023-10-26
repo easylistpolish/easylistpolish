@@ -2055,3 +2055,4 @@ magazynregionalny.pl##.banner--regular
 bilgoraj.com.pl##.banner--regular
 pulstygodnia.pl##.banner--regular
 wdrawskupomorskim.pl##.banner--regular
+tygodnikketrzynski.pl##.banner--regular
