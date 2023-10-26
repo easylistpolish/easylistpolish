@@ -1592,7 +1592,6 @@ olawa24.pl##a[href="https://olawa24.pl/redirect?token=ec8956637a99787bd197eacd77
 motomaszyny.pl##a[href="https://osprzet.info.pl/"]
 speedwaynews.pl##a[href="https://pamiatki-kibica.pl/?kalendarze-zuzlowe,57"]
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
-plonskwsieci.pl##a[href="https://pro-mix.com.pl/"]
 pogoda.info##a[href="https://samochody.pl"]
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
 staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cutting"]
