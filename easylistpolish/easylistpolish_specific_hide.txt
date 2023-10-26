@@ -1230,7 +1230,7 @@ starachowicki.eu##.slick-slide
 pomorzanie.info##.slider-2243
 speedwaynews.pl##.slider-item
 pulskwidzyna.pl##.sliderBox
-gostynin24.pl,puszczawkrzanska.pl##.slides
+
 mazovia24.pl##.slides_oneDIV
 staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
 tygodnikszczytno.pl##.slitslider_container
