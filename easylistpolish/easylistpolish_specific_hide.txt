@@ -2047,3 +2047,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 magazynzuzel.pl##.banner--regular
 tyna.info.pl##.banner--regular
+nrypin.pl##.banner--regular
