@@ -1757,7 +1757,6 @@ musiclovers.pl##a[onclick*="https://umusicpl.lnk."] > img
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
 swiatdronow.pl##a[onclick^="ga('send'"]
-
 grodzisknews.pl##a[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
 styl.pl##a[onclick^="iwa('trackEvent'"] > img
 elektroda.pl##a[onclick^="navBoxEvent("]
