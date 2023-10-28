@@ -165,7 +165,7 @@ spiz.pl###home-reklama
 kujawy.info###homepageUnderEightAds
 mjakmama24.pl###hook_box_top1
 ssangyong.pl###hot_offer
-kuriergarwolinski.pl###iFrameResizer1
+
 comparic.pl###icegram_messages_container
 satkurier.pl###idmnet_horizontal_top_750x100
 zszywka.pl###inv-request-popup
