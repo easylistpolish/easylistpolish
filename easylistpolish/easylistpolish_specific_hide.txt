@@ -1871,7 +1871,7 @@ tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
 zszywka.pl##div[class^="pin-advert"]
 transfermarkt.pl##div[class^="werbung"]
 se.pl##div[class^="zpr_inside"]
-cnc.info.pl##div[data-ad-id="133"]
+
 bithub.pl##div[data-adid] > a[href^="https://"]
 bielsko.info##div[data-ads-id]
 cafesenior.pl##div[data-adslot-id]
