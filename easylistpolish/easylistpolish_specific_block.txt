@@ -325,6 +325,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
 ||s0urce.io^*^idletowerminer^
+||sc.4media.com$domain=zycieolsztyna.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
@@ -392,4 +393,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||sc.4media.com$domain=zycieolsztyna.pl
