@@ -1947,7 +1947,7 @@ elektroda.pl##form[action^="https://www.tme.eu/"]
 gramwzielone.pl#?#.a:-abp-has(.a__title)
 wirtualneoslo.pl##header > center > a
 scs.htw.pl##iframe[name="billboard-top"]
-bajery.pl##iframe[name="rek"]
+
 bartekwpodrozy.pl##iframe[src^="https://widget.getyourguide.com/default/"]
 xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
