@@ -29,6 +29,7 @@
 ^a-posters^$domain=minskmaz.com
 ^AAAreklamy^$domain=zulawytv.pl
 ^ad^$domain=pieniny24.pl|sportowepodhale.pl
+^AdBanner^$domain=zyciepabianic.pl
 ^admaster^$domain=suwalki24.pl
 ^adv-redirect^$domain=hdtvpolska.com
 ^adv^$domain=e-petrol.pl|naszglospoznanski.pl|zyciegrajewa.pl
@@ -393,4 +394,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^AdBanner^$domain=zyciepabianic.pl
