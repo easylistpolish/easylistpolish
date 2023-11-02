@@ -1350,7 +1350,7 @@ gazetawielkopolska.pl,prudnik24.pl##.widget-3
 gloskrakowa.pl##.widget-4
 lsw24.pl##.widget-ad-image
 lokalna24.pl##.widget-advert_centralplacement
-faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv##.widget-advert_placement
+faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 40ton.net##.widget_adbaner_widget
@@ -2033,4 +2033,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycieolsztyna.pl##.widget-advert_placement
