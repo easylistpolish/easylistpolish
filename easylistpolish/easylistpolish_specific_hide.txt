@@ -501,7 +501,7 @@ koty.pl,psy.pl##.adsenseAd
 cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
-nowezyciepabianic.pl##.adv--next-logo
+
 wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link
