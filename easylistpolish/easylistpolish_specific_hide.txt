@@ -664,7 +664,7 @@ ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
-taternik.org##.bantitle
+
 kt24.pl##.bar-container
 naszwodzislaw.com##.bazarek
 infokonin.pl,wolanie.info##.bc_random_banner
