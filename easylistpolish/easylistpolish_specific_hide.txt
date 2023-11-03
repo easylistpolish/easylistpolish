@@ -698,7 +698,6 @@ wprost.pl##.box-list-item-recommendation-content-stream
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 folk24.pl##.boxAdvert
 flashscore.pl,wynikinazywo.pl##.boxOverContent__banner
-wroclaw.pl##.boxVerticalBanner
 mylomza.pl##.box__container iframe
 cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama
