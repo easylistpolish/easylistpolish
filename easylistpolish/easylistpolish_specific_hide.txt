@@ -1402,7 +1402,7 @@ pwm.org.pl##A[onclick^="countAdClick"]
 chip.pl##[action^="http://www.njobs.eu/"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
-tvpolice.com.pl##[class*="advert-"]
+tvpolice.com.pl,zycieolsztyna.pl##[class*="advert-"]
 leba24.info##[class*="code-block-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
@@ -2031,4 +2031,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycieolsztyna.pl##[class*="advert-"]
