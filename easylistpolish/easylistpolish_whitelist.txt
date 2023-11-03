@@ -10,7 +10,6 @@
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gostynin24.pl^*^banners/owsik^
-@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
 @@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
 @@||legitymizm.org^*^gabis-
