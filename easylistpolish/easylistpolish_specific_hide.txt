@@ -843,7 +843,7 @@ gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl##.gazet-pod-menu
-gazetalubliniecka.pl##.gazet-vip1
+
 gazetarumska.pl##.gazet-w-artykule-reklama
 gazetacz.com.pl##.gazet-widget
 gazetalubliniecka.pl##.gazet-wpisy2
