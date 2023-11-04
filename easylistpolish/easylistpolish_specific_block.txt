@@ -338,7 +338,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||sprowadzanie-aut.pl^*^auta-z-usa-
 ||stalowemiasto.pl/_a^
 ||stalowemiasto.pl/colada2^
-||starosadeckie.info^*^CZYSTE-POWIETRZE.
 ||starosadeckie.info^*^myjnia.
 ||starosadeckie.info^*rolbud-
 ||starosadeckie.info^*rolbud.
