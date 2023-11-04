@@ -254,7 +254,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
-||market.bia24.pl/
 ||masztu.pl^*^udzialowiec.
 ||maszwolne.pl^*^pages^
 ||mazopolska.pl^*-300x150.
