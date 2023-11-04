@@ -1206,6 +1206,7 @@ tygodnikketrzynski.pl##.sidebar-wrap #text-53
 portaltenisowy.info##.sidebar__advert--med
 gloslodzi.pl##.sidebar_area .widget-2 .textwidget
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
+zycieczestochowy.pl##.sideelement > a > img
 gazetkonosz.pl##.signad
 zywiec112.com.pl##.simple-popup-advert
 weszlo.com##.single-side-column .ad-placeholder-bg
@@ -2028,4 +2029,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycieczestochowy.pl##.sideelement > a > img
