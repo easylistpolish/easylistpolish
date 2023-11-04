@@ -843,10 +843,8 @@ gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl##.gazet-pod-menu
-gazetalubliniecka.pl##.gazet-vip1
 gazetarumska.pl##.gazet-w-artykule-reklama
 gazetacz.com.pl##.gazet-widget
-gazetalubliniecka.pl##.gazet-wpisy2
 lubartow24.pl##.gazetka-box
 kresy.pl##.gbcfxawvaHsi
 weranda.pl##.gl_slot_text
@@ -1403,7 +1401,7 @@ pwm.org.pl##A[onclick^="countAdClick"]
 chip.pl##[action^="http://www.njobs.eu/"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
-tvpolice.com.pl##[class*="advert-"]
+tvpolice.com.pl,zycieolsztyna.pl##[class*="advert-"]
 leba24.info##[class*="code-block-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
