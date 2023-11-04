@@ -845,7 +845,7 @@ gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl##.gazet-pod-menu
 gazetarumska.pl##.gazet-w-artykule-reklama
 gazetacz.com.pl##.gazet-widget
-gazetalubliniecka.pl##.gazet-wpisy2
+
 lubartow24.pl##.gazetka-box
 kresy.pl##.gbcfxawvaHsi
 weranda.pl##.gl_slot_text
