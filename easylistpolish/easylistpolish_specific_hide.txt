@@ -2031,3 +2031,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 bielskirynek.pl##.banner--placeholder
 zlomzy.pl##.banner--regular
 glospowiatusredzkiego.pl##.banner--regular
+radzyninfo.pl##.banner--regular
