@@ -2033,3 +2033,4 @@ zlomzy.pl##.banner--regular
 glospowiatusredzkiego.pl##.banner--regular
 radzyninfo.pl##.banner--regular
 myszkow365.pl##.banner--regular
+zawiercie365.pl##.banner--regular
