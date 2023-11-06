@@ -2029,3 +2029,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 bielskirynek.pl##.banner--placeholder
+zlomzy.pl##.banner--regular
