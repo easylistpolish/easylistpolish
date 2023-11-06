@@ -141,6 +141,7 @@ urzadzamy.pl###floorLayer
 smak-zdrowia.blogspot.com###footer-2-2
 szefur.pl###footer-leaderboard
 cozadzien.pl###footer-slider
+zycieczestochowy.pl###frank
 telewizja.lukow.pl###frontpage-area_a_3
 telewizja.lukow.pl###frontpage-area_b_2
 tylkotorun.pl###fsp_light
@@ -2027,4 +2028,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycieczestochowy.pl###frank
