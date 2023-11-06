@@ -821,7 +821,7 @@ www.konstrukcjeinzynierskie.pl##.flexbannergroupreklama-top
 futbolnews.pl,zzapolowy.com##.floatBox
 terazkrosno.pl##.fluid-imgs
 raportkolejowy.pl##.footbottombar
-jbzd.com.pl##.footer-mobile
+
 telchina.pl##.forabg
 meczyki.pl##.frame-wrapper > *
 wronieckibazar.pl##.fright
