@@ -1296,6 +1296,7 @@ transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
 egzotycznaturystyka.pl,franchising.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
+zycieczestochowy.pl##.top-element
 ifrancja.fr##.top-main-ads
 fpiec.pl##.top-offer-box
 dobragazeta.com.pl##.top-panel
@@ -2026,4 +2027,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycieczestochowy.pl##.top-element
