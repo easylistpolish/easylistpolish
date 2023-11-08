@@ -1208,7 +1208,7 @@ gloslodzi.pl##.sidebar_area .widget-2 .textwidget
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 zycieczestochowy.pl##.sideelement > a > img
 gazetkonosz.pl##.signad
-zywiec112.com.pl##.simple-popup-advert
+
 weszlo.com##.single-side-column .ad-placeholder-bg
 dzierzgon-twojemiasto.pl##.site-branding
 codziennypoznan.pl##.site-header .elementor-shortcode
