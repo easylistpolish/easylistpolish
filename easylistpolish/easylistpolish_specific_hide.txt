@@ -1183,7 +1183,7 @@ naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
 dlahandlu.pl##.sda
-businesswomanlife.pl##.sead > a > img
+
 radio90.pl,radiojura.pl##.sec-promo
 tarnow.net.pl##.sec_A_adv2
 kuriergarwolinski.pl##.second-top-banners
