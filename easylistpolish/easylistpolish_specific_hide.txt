@@ -993,7 +993,6 @@ comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
 menshealth.pl##.mh-optad
 tv.pl##.middle-salesmedia
-
 interia.pl##.mixerAdTopRight-wrapper
 ipulawy.pl##.mkd-content-top-holder
 na-pulpit.com,widoczki.com##.mng
