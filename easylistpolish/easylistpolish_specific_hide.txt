@@ -1044,7 +1044,7 @@ legio24.pl##.news-slot-center
 naszwodzislaw.com##.news_box_google
 naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
-gazetaostrowska.pl##.nivoSlider
+
 networkmagazyn.pl##.nmSectionBanner
 24zabrze.pl##.no-lazyload
 gostynska.pl##.ns-Placement
