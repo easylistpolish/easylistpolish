@@ -1129,7 +1129,6 @@ axn.pl##.region-header-ad-space
 epiotrkow.pl,infoserwiselk.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
-
 4trucks.pl##.rekl
 panoramakutna.pl##.rekl + center
 autofakty.pl##.rekl_text
