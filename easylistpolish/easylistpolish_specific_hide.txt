@@ -1195,7 +1195,6 @@ wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
 rubber.pl##.sideNas
 moviesroom.pl##.sidebar .basic-slider
-
 domenergo.com##.sidebar-banner-ads
 jbzd.com.pl##.sidebar-premium
 whatnext.pl##.sidebar-widget
