@@ -1198,7 +1198,7 @@ moviesroom.pl##.sidebar .basic-slider
 domenergo.com##.sidebar-banner-ads
 jbzd.com.pl##.sidebar-premium
 whatnext.pl##.sidebar-widget
-tygodnikketrzynski.pl##.sidebar-wrap #text-53
+
 portaltenisowy.info##.sidebar__advert--med
 gloslodzi.pl##.sidebar_area .widget-2 .textwidget
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
