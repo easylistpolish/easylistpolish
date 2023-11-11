@@ -1263,7 +1263,7 @@ jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl"])
 lwowecki.info##.td-all-devices2
 comparic.pl,poloniairlandia.pl##.td-banner-wrap-full
 elementarzprojektanta.pl##.td-fix-index
-radiowrzesnia.pl##.td-footer-wrapper .wpb_wrapper > a
+
 gazetaregionalna.com,goniec.net,itvwisla.tv,kurier-nakielski.pl##.td-header-sp-recs
 przegladwolski.pl##.td-ss-main-sidebar .wp-block-image
 cai24.pl##.td_block_single_image
