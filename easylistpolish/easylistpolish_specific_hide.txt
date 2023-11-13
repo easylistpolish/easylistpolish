@@ -1321,7 +1321,7 @@ bstok.pl##.vc_custom_1639400766487
 naszosie.pl##.vc_figure
 radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm,miastons.pl##.vc_wp_text
-razdwasport.pl##.vendor-holder-main-page
+
 mazowieckie.com.pl##.view-banner-duzy
 sadeczanin.info##.view-display-id-block_bannery_gorny_wiersz_strona_glowna
 sad24.pl##.vip
