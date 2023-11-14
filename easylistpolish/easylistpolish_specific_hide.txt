@@ -1367,7 +1367,7 @@ staresiolkowice.pl##.wp-image-27882
 leszczynskisport.pl##.wpb_animate_when_almost_visible
 gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 okraglemiasto.pl##.wpb_left-to-right
-noweinfo.pl##.wpb_text_column img[width="300"]
+
 mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
 igrit.pl##.wrapper
 wbaziefirm.pl##.wrapper-flash
