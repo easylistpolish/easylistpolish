@@ -1404,7 +1404,6 @@ lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 cont
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 legionisci.com##[class^="adslot_news-banner"]
 ekoszalin.pl##[class^="advert"]
-
 radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
 busko.com.pl##[class^="banner-"]
