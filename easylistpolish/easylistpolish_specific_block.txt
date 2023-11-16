@@ -401,3 +401,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=glospowiatusredzkiego.pl
 ||video.onnetwork.tv^$script,domain=radzyninfo.pl
 ||video.onnetwork.tv^$script,domain=zawiercie365.pl
+||video.onnetwork.tv^$script,domain=naszpruszcz.pl
