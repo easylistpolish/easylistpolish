@@ -403,3 +403,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=zawiercie365.pl
 ||video.onnetwork.tv^$script,domain=naszpruszcz.pl
 ||video.onnetwork.tv^$script,domain=pulstygodnia.pl
+||video.onnetwork.tv^$script,domain=kutno.net.pl
