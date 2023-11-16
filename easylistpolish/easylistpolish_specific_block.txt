@@ -395,3 +395,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=infoskierniewice.pl
 ||video.onnetwork.tv^$script,domain=slu24.pl
 ||video.onnetwork.tv^$script,domain=police24.pl
+||video.onnetwork.tv^$script,domain=legio24.pl
