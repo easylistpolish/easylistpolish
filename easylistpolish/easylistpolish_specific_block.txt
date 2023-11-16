@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=terazstrzelno.pl
 ||video.onnetwork.tv^$script,domain=infoskierniewice.pl
+||video.onnetwork.tv^$script,domain=slu24.pl
