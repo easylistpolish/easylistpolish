@@ -397,3 +397,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=police24.pl
 ||video.onnetwork.tv^$script,domain=legio24.pl
 ||video.onnetwork.tv^$script,domain=jura365.pl
+||video.onnetwork.tv^$script,domain=zlomzy.pl
