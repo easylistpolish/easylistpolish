@@ -1414,7 +1414,7 @@ tylkopilka.pl##[class^="g-col b-2 a"]
 abcdobrejmamy.pl,nysahot.pl##[class^="g-dyn a-"]
 elubaczow.com,zachodniemazowsze.info##[class^="g-single a-"]
 goral.info.pl##[class^="l-box l-box--"] a[target]
-nowinynyskie.com.pl##[class^="l-box l-box--"] img[width="1170"]
+
 nto.pl##[class^="lista_content_stream_"]
 kanal10.pl##[class^="moduletable_banner"]
 igrit.pl##[class^="py-"]
