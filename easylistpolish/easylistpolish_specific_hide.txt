@@ -908,6 +908,7 @@ korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 zalukaj.cc##.iii > #aab
 iloveslubice.pl##.ilove-boczna-b2-300x250
+zycie.pl##.images.left-dd
 tubalecznej.pl##.img-fluid
 6krokow.pl##.img_rkl
 autoline.com.pl##.index-bns
@@ -2013,4 +2014,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zycie.pl##.images.left-dd
