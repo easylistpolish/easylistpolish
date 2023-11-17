@@ -163,7 +163,6 @@ gdanskstrefa.com,nowezyciepabianic.pl###header-right-section
 e-grajewo.pl###headpartnership
 forum.pasja-informatyki.pl###helbook
 bankier.pl###home-ecom-box
-
 kujawy.info###homepageUnderEightAds
 mjakmama24.pl###hook_box_top1
 ssangyong.pl###hot_offer
