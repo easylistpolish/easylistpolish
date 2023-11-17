@@ -500,7 +500,7 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+cgm.pl,egarwolin.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
 wterenie.pl##.adv--rectangle
@@ -1490,7 +1490,6 @@ monitorlocalnews.com##a[href*="/banners/click"]
 dsi.net.pl##a[href*="/banners/click/"]
 emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
-
 linktopoland.com##a[href*="autoczescionline24.pl"]
 businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
@@ -2015,4 +2014,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-egarwolin.pl##.adv

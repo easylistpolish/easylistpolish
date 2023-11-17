@@ -367,7 +367,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=abcjanikowo24.pl|bialobrzegi24.net|bielskirynek.pl|czasbrodnicy.pl|ddtorun.pl|dziennikhistoryczny.pl|e-chelmno.pl|e-golub.info.pl|e-krajna.pl|e-lubon.pl|ekstrasierpc.pl|ekutno.pl|esopot.pl|extrawalcz.pl|fakty.nl|gle24.pl|glossokolowa.pl|gorlice24.pl|gostyn24.pl|gst24.pl|gwe24.pl|haloursynow.pl|hej.slupsk.pl|isanok.pl|itvszubin.pl|jastrowie24.pl|kolniak24.eu|koscianiak.pl|magazynzuzel.pl|modnymagazyn.pl|motomagazyn.com|myglogow.pl|mypolkowice.pl|myszkow365.pl|nowysztum.pl|nrypin.pl|pakosc24.pl|pleszew24.info|polski-tenis.pl|prawobrzeze24.pl|rydzyna24.pl|superchodziez.pl|szemud24.pl|terazlipno.pl|tukutno.pl|tusochaczew.pl|tygodnik.pl|tygodnikketrzynski.pl|tyna.info.pl|uniejow.net.pl|wybudujemy.com.pl|ziemiagorowska.pl|zyciesiedleckie.pl
+||video.onnetwork.tv^$script,domain=abcjanikowo24.pl|bialobrzegi24.net|bielskirynek.pl|czasbrodnicy.pl|ddtorun.pl|dziennikhistoryczny.pl|e-chelmno.pl|e-golub.info.pl|e-krajna.pl|e-lubon.pl|ekstrasierpc.pl|ekutno.pl|esopot.pl|extrawalcz.pl|fakty.nl|gle24.pl|glospowiatusredzkiego.pl|glossokolowa.pl|gorlice24.pl|gostyn24.pl|gst24.pl|gwe24.pl|haloursynow.pl|hej.slupsk.pl|infoskierniewice.pl|isanok.pl|itvszubin.pl|jastrowie24.pl|jura365.pl|kolniak24.eu|koscianiak.pl|kutno.net.pl|legio24.pl|magazynzuzel.pl|modnymagazyn.pl|motomagazyn.com|myglogow.pl|mypolkowice.pl|myszkow365.pl|naszpruszcz.pl|nowysztum.pl|nrypin.pl|pakosc24.pl|pleszew24.info|police24.pl|polski-tenis.pl|prawobrzeze24.pl|pulstygodnia.pl|radzyninfo.pl|rydzyna24.pl|slu24.pl|superchodziez.pl|szemud24.pl|terazlipno.pl|terazstrzelno.pl|tukutno.pl|tusochaczew.pl|tygodnik.pl|tygodnikketrzynski.pl|tyna.info.pl|uniejow.net.pl|wybudujemy.com.pl|zawiercie365.pl|ziemiagorowska.pl|zlomzy.pl|zyciesiedleckie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -391,16 +391,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zniwiarz.topagrar.pl^$image,subdocument,domain=elita-magazyn.pl|profitechnika.pl|sadnowoczesny.pl|topagrar.pl|tygodnik-rolniczy.pl|warzywaiowoce.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||video.onnetwork.tv^$script,domain=terazstrzelno.pl
-||video.onnetwork.tv^$script,domain=infoskierniewice.pl
-||video.onnetwork.tv^$script,domain=slu24.pl
-||video.onnetwork.tv^$script,domain=police24.pl
-||video.onnetwork.tv^$script,domain=legio24.pl
-||video.onnetwork.tv^$script,domain=jura365.pl
-||video.onnetwork.tv^$script,domain=zlomzy.pl
-||video.onnetwork.tv^$script,domain=glospowiatusredzkiego.pl
-||video.onnetwork.tv^$script,domain=radzyninfo.pl
-||video.onnetwork.tv^$script,domain=zawiercie365.pl
-||video.onnetwork.tv^$script,domain=naszpruszcz.pl
-||video.onnetwork.tv^$script,domain=pulstygodnia.pl
-||video.onnetwork.tv^$script,domain=kutno.net.pl
