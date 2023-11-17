@@ -1490,7 +1490,7 @@ monitorlocalnews.com##a[href*="/banners/click"]
 dsi.net.pl##a[href*="/banners/click/"]
 emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
-divers24.pl##a[href*="_bannerid="] > img
+
 linktopoland.com##a[href*="autoczescionline24.pl"]
 businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
