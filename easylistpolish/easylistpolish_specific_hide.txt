@@ -1732,7 +1732,6 @@ kto-dzwonil.com##a[href^="https://www.xio."]
 genapps.pl##a[href^="https://www.zameczkowo."]
 bankier.pl##a[href^="https://www3.smartadserver."]
 piszanin.pl##a[href^="mailto:reklama@piszanin.pl"] img
-
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,lazienkowy.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 lazienkowy.pl##a[onclick*="sekcje specjalne"]
 swiatdronow.pl##a[onclick^="ga('send'"]
