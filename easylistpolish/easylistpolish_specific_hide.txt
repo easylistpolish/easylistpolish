@@ -1828,7 +1828,7 @@ elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 motoocena.pl##div[class^="banner-ad-"]
 lajfy.com##div[class^="banner-over-"]
-open.fm##div[class^="bnr-player-"]
+
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
