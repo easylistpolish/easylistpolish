@@ -797,7 +797,7 @@ zkaszub.info##.edd
 ekoscian.eu##.ekosc-tresc
 kb.pl##.element-click
 radioemaus.pl##.elementor-image
-samnaprawiam.com##.elementor-image > A
+samnaprawiam.com,zwa24.pl##.elementor-image > A
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
 ecopoznan.pl##.elementor-shortcode
 radiobiper.info##.elementor-size-small
@@ -2010,4 +2010,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwa24.pl##.elementor-image > A
