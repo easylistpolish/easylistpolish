@@ -1212,6 +1212,7 @@ proshop.pl##.site-left-banner
 filmawka.pl##.site-news__ads
 proshop.pl##.site-right-banner
 wroclawiak.pl##.site-right-re
+rootblog.pl##.size-full.aligncenter
 joemonster.org##.sky-wrapper
 starachowicki.eu##.slick-slide
 pomorzanie.info##.slider-2243
@@ -2008,4 +2009,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rootblog.pl##.size-full.aligncenter
