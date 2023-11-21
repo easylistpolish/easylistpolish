@@ -396,3 +396,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=iszczecinek.pl
 ||video.onnetwork.tv^$script,domain=pulsciechanowa.pl
 ||video.onnetwork.tv^$script,domain=miastko24.pl
+||video.onnetwork.tv^$script,domain=ejarocin.pl
