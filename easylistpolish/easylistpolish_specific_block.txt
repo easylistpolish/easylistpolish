@@ -223,7 +223,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||hiszpania-apartamenty.pl^*^samochody.
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
-||ifrancja.fr^*^jobsora.
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
