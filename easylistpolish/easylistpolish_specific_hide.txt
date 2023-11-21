@@ -1842,7 +1842,7 @@ dts24.pl##div[class^="gjhn-single ajhn-"]
 petronews.pl##div[class^="gloto-single aloto-"]
 temi.pl##div[class^="gtmi-dyn atmi-"]
 b1.pl##div[class^="header_"]
-tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
+
 zszywka.pl##div[class^="pin-advert"]
 transfermarkt.pl##div[class^="werbung"]
 se.pl##div[class^="zpr_inside"]
