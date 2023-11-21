@@ -394,3 +394,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=faktyct.pl
 ||video.onnetwork.tv^$script,domain=iszczecinek.pl
+||video.onnetwork.tv^$script,domain=pulsciechanowa.pl
