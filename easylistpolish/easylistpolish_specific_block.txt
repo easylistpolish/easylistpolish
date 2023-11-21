@@ -379,7 +379,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wronieckibazar.pl^*^izometwww.
 ||wszczecinie.pl^*^www/images^
 ||www.filmweb.pl/welcomeScreenJS
-||xlomza.pl^*^gina.
 ||xlomza.pl^*^kukasz08_
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xtb.com^$script,domain=kantorywalut.pl
