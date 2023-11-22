@@ -1877,7 +1877,7 @@ przemysl24.pl##div[id^="box-rek-"]
 zakazanaprawda.pl##div[id^="custom_html-"]
 edziecko.pl,haps.pl,kobieta.pl,plotek.pl,sport.pl##div[id^="div-gpt-ad-"]
 komputerowapasja.pl##div[id^="dolnyobraz"]
-nowyoutsourcing.pl##div[id^="g1-ad-"]
+
 gazetaklobucka.pl##div[id^="gazet-"]
 gazetalubliniecka.pl##div[id^="gazet-"][class^="gazet-wpisy"]
 ttg.com.pl##div[id^="header-banner"]
