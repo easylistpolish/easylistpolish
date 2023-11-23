@@ -1889,7 +1889,7 @@ capuccino.eu##div[id^="n2-ss-"]
 kurierzamojski.pl##div[id^="nowyk-"]
 se.pl##div[id^="placement"]
 pojezierze.com.pl##div[id^="pojez-"]
-ostrowiec-sw.pl##div[id^="re_"]
+
 rydzyna24.pl##div[id^="rydzy-"]
 kurierostrowiecki.pl##div[id^="sad_"]
 transfermarkt.pl##div[id^="sftb"]
