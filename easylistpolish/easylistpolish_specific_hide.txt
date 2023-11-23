@@ -190,7 +190,6 @@ oko.info.pl###leftAdv
 czest.info###logo-title a[target="_blank"]
 czadrow24.pl###main .aligncenter a[target="_blank"]
 gorliczanin.pl###main > section[id^="metaslider_widget-"]
-
 oknonet.pl###mainbaner
 polmedia.pl###makingdifferentpopup
 skipol.pl###makler2
