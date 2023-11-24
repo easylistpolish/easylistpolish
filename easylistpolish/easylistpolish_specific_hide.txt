@@ -202,7 +202,7 @@ wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
 gazetagazeta.com###media_image-25
 gazetagazeta.com###media_image-28
 greencanoe.pl,littletownshoes.com###media_image-3
-swarzedz24.pl###media_image-314
+
 swarzedz24.pl###media_image-328
 gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
