@@ -1979,7 +1979,6 @@ lowicz24.eu##img[style="width: 250px; height: 100px;"]
 blogprezesa.pl##img[title="Binance"]
 meblarskapolska.pl,meblosfera.pl,tapicerstwo.co##img[title="Reklama"]
 wedkarskisprzet.pl##img[width="150"]
-
 widoki.info##img[width="300"]
 automotivesuppliers.pl##img[width="370"][height="140"]
 donald.pl##ins[class^="staticpubads"]
