@@ -1306,6 +1306,7 @@ synonimy.pl##.translation-badge
 slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
 zory24.pl##.twocol_right > #logosy
+zwielkopolski24.pl##.txt
 zooplus.pl##.type_banner[id*="right"]
 zooplus.pl##.type_banner[id*="top-marki"]
 dzwignice.info##.udtBox
@@ -2001,4 +2002,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwielkopolski24.pl##.txt
