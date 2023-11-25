@@ -216,7 +216,7 @@ mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 terazkrosno.pl###module-235
 glamrap.pl,goleniowska.com###mvp-leader-wrap
-slonskyradio.eu###n2-ss-4-align
+
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 nowezyciepabianic.pl###nzp_ad_above_header
