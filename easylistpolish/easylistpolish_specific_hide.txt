@@ -2003,3 +2003,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 ifrancja.fr##.ads-single-container
 iwawer.pl##[class^="adv__"]
+ibielany.pl##[class^="adv__"]
