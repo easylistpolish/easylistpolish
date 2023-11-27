@@ -2005,3 +2005,4 @@ ifrancja.fr##.ads-single-container
 iwawer.pl##[class^="adv__"]
 ibielany.pl##[class^="adv__"]
 ibemowo.pl##[class^="adv__"]
+iursus.pl##[class^="adv__"]
