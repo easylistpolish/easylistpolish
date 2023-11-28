@@ -2004,3 +2004,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 ibialoleka.pl##[class^="adv__"]
 itargowek.pl##[class^="adv__"]
+irembertow.pl##[class^="adv__"]
