@@ -328,7 +328,6 @@ ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
 24pr.pl,medycznamarihuana.com,tarnobrzeskie.eu,tu.swinoujscie.pl###text-22
-wiesci.com.pl###text-23
 czestochowskie24.pl,dopilar.pl,fiat.fm,historykon.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
 stacja-tluszcz.pl###text-35
