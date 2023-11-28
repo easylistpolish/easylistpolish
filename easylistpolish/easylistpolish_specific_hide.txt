@@ -261,7 +261,6 @@ polemi.co.uk###reklama7
 elka.pl###reklamaGooglePrawa336Last
 forumbranzowe.com###reklama_2
 gada.pl###reklama_gazetowa
-
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
