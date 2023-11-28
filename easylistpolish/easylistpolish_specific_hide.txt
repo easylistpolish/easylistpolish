@@ -266,7 +266,7 @@ dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 gazeta-mosina.pl###right .first
-polonika.fr###rt-top
+
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
