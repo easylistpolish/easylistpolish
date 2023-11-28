@@ -266,7 +266,6 @@ dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 gazeta-mosina.pl###right .first
-
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
@@ -1400,7 +1399,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 legionisci.com##[class^="adslot_news-banner"]
-ibemowo.pl,ibielany.pl,iochota.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl##[class^="adv__"]
+ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl##[class^="adv__"]
 ekoszalin.pl##[class^="advert"]
 radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
@@ -2001,13 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ibialoleka.pl##[class^="adv__"]
-itargowek.pl##[class^="adv__"]
-irembertow.pl##[class^="adv__"]
-izoliborz.pl##[class^="adv__"]
-ipragapolnoc.pl##[class^="adv__"]
-itargowek.pl##[class^="adv__"]
-iwola.pl##[class^="adv__"]
-isrodmiescie.pl##[class^="adv__"]
-ipragapoludnie.pl##[class^="adv__"]
-imokotow.pl##[class^="adv__"]
