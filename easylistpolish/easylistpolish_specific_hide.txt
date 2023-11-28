@@ -2002,4 +2002,5 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ibialoleka.pl[class^="adv__"]
+ibialoleka.pl##[class^="adv__"]
+itargowek.pl##[class^="adv__"]
