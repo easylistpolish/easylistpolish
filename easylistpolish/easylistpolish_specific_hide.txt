@@ -2004,3 +2004,4 @@ tulegnica.pl##[class^="adv__"]
 e-legnickie.pl###sp-section-3
 tulegnica.pl##.ad--bill-top
 kolniak24.eu##[class*="banner--"]
+ddtorun.pl##[class*="banner--"]
