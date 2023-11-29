@@ -26,7 +26,6 @@ swieradowzdroj.pl###ads
 wwsi.edu.pl###adsdialog
 nowezyciepabianic.pl###adv-view-widget-5
 tygodnikszczytno.pl###advBox
-
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
 sprzedam.pl###api817-banner
@@ -295,7 +294,7 @@ dobretargi.pl,nowymagazyn.pl###slideshow_xl
 zienkina.pl###snatch
 swinoujskie.info###snppopup-welcome
 portal-mundurowy.pl###sp-header
-nowyzmigrod24.pl###sp-section-3
+e-legnickie.pl,nowyzmigrod24.pl###sp-section-3
 wysokomazowiecki24.pl###sp-top-bar
 bramka.pl###sponsorBox
 zambrowiacy.pl###sponsorbox
@@ -434,7 +433,7 @@ mistrzowie.org##.abox-view-content
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.acccb
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-ototorun.pl,zyciesokolowa.pl##.ad--bill-top
+ototorun.pl,tulegnica.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -1388,6 +1387,7 @@ chip.pl##[action^="http://www.njobs.eu/"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
 tvpolice.com.pl,zycieolsztyna.pl##[class*="advert-"]
+ciechocinek.biz,ddtorun.pl,faktypilskie.pl,ki24.info,kolniak24.eu,koronowo.net.pl##[class*="banner--"]
 leba24.info##[class*="code-block-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
@@ -1399,7 +1399,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 legionisci.com##[class^="adslot_news-banner"]
-ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl##[class^="adv__"]
+ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,tulegnica.pl##[class^="adv__"]
 ekoszalin.pl##[class^="advert"]
 radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
@@ -2000,12 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tulegnica.pl##[class^="adv__"]
-e-legnickie.pl###sp-section-3
-tulegnica.pl##.ad--bill-top
-kolniak24.eu##[class*="banner--"]
-ddtorun.pl##[class*="banner--"]
-ki24.info##[class*="banner--"]
-faktypilskie.pl##[class*="banner--"]
-ciechocinek.biz##[class*="banner--"]
-koronowo.net.pl##[class*="banner--"]
