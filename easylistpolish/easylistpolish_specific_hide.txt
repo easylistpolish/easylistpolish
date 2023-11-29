@@ -2006,3 +2006,4 @@ tulegnica.pl##.ad--bill-top
 kolniak24.eu##[class*="banner--"]
 ddtorun.pl##[class*="banner--"]
 ki24.info##[class*="banner--"]
+faktypilskie.pl##[class*="banner--"]
