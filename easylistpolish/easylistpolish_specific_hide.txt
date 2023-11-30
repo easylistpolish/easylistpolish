@@ -236,6 +236,7 @@ betonline.net.pl,wyspiarzniebieski.pl###popup
 zpierwszegotloczenia.pl###popup-ad
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl,szukacz.pl###popupContainer
+zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
 polskaizbabranzypogrzebowej.pl###post-2637
 nudziara.pl###post.format_post.nudziara.masonry-brick
@@ -1999,4 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwik.skawina.pl###popupDiv
