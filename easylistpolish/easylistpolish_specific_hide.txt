@@ -368,7 +368,6 @@ sportfakty.pl###weptile-image-slider-widget-2
 polukr.net###weptile-image-slider-widget-8
 szkolkarstwo.com.pl###widget-175
 szkolkarstwo.com.pl###widget-185
-
 liga-ursus.siatkowka.org###widget_sp_image-2
 dziennikstargardzki.pl###widget_sp_image-8
 kurier-kolski.pl###wrap-top2
