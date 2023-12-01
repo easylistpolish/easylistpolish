@@ -389,3 +389,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||vardata/obrazki^$image,domain=zwolen24.pl
