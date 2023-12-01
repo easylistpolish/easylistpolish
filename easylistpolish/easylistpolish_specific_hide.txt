@@ -541,7 +541,6 @@ niskaemisja.ekoscan.pl##.art-slider
 iswinoujscie.pl##.article ~ .ads
 pomponik.pl##.article-body__ad-gora-srodek
 naekranie.pl##.article-header [style^=" width: 375"]
-
 24wspolnota.pl##.article__ad-special
 eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.article__placement
 parenting.pl##.article__textbox
