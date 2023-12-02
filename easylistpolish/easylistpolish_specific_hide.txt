@@ -543,7 +543,6 @@ pomponik.pl##.article-body__ad-gora-srodek
 naekranie.pl##.article-header [style^=" width: 375"]
 24wspolnota.pl##.article__ad-special
 eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.article__placement
-
 neonet.pl##.as-wallpaper_left
 neonet.pl##.as-wallpaper_right
 posbud.com.pl##.as_marquee0
