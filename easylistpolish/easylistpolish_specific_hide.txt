@@ -581,7 +581,7 @@ alarmy.org,blacha.biz,budowa.org,budownictwo.org,chlodnictwo.biz,elektryka.org,k
 planetakobiet.com.pl##.banerDiv
 firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
-e-kolo.pl##.baner_billboard
+
 audiostereo.pl##.baner_display
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 glas-hit.pl##.baner_przedni
