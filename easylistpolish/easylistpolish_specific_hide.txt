@@ -1999,3 +1999,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 terazlipno.pl##[class*="banner--"]
 gniewkowo.eu##[class*="banner--"]
+e-krajna.pl##[class*="banner--"]
