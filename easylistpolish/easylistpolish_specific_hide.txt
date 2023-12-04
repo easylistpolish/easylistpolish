@@ -417,7 +417,7 @@ minskmaz.com##.a-dis
 podlasie24.pl##.a-place
 cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
-nowy-sacz.info,oswiecim112.pl,radioradom.pl##.a-single
+nowy-sacz.info,oswiecim112.pl,radioradom.pl,zwiedzamyparyz.pl##.a-single
 cowwilanowie.pl##.a-slider
 appleworld.pl,opowiecie.info,tygodnikponidzia.pl##.a-widget
 moje-gniezno.pl,polonia-peterborough.uk##.a-wrap
@@ -1995,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwiedzamyparyz.pl##.a-single
