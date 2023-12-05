@@ -650,7 +650,7 @@ ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
-kt24.pl##.bar-container
+
 naszwodzislaw.com##.bazarek
 infokonin.pl,wolanie.info##.bc_random_banner
 cowkrakowie.pl##.bdaia-ad-container
