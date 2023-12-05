@@ -1,3 +1,4 @@
+zwiedzamyparyz.pl## .gyg-widget
 portalpszczelarski.pl###AdBig
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
@@ -1993,4 +1994,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwiedzamyparyz.pl## .gyg-widget
