@@ -711,7 +711,7 @@ zywiecinfo.pl##.carouselbanner
 allaboutlife.pl##.carrie-ad-block
 24opole.pl##.cd
 polityka.pl##.cg_subscribe99_banner_apla
-kramik.pl##.click-banner
+
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
 faktykonopne.pl,nasz-glos.com,swiatoze.pl,wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
 nasz-glos.com##.code-block a
