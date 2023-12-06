@@ -771,7 +771,6 @@ nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-widget
 swinoujskie.info##.e3lan
 terazgrodkow24.pl,wiadomoscidebickie.pl,zaspa24.pl##.e3lan-top
-
 ele24.net##.eb-modules-banner-nad-newsem
 mojpieknyogrod.pl##.ecomm-boxd
 ilewazy.pl,viva.pl##.ecomm-offer
