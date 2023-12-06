@@ -827,7 +827,7 @@ gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl##.gazet-pod-menu
-gazetarumska.pl##.gazet-w-artykule-reklama
+
 gazetacz.com.pl##.gazet-widget
 lubartow24.pl##.gazetka-box
 kresy.pl##.gbcfxawvaHsi
