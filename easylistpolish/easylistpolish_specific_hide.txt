@@ -102,7 +102,7 @@ zywiecinfo.pl###blockadblock
 konin24.info###box
 laboratoria.net###box40
 bilgorajska.pl,gada.pl,zamojska.pl###box_r
-wspolnota.org.pl###c325
+
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
 katowice-airport.com###carwash-banner-c
