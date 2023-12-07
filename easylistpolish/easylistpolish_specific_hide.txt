@@ -886,7 +886,7 @@ bobrzanie.pl##.homeadv
 skawinska.pl##.homepage-ad-area
 firmypolski.pl##.hot-info-slider
 fakt.pl##.hot_three.promo_box
-rdn.pl##.hred_cont_re
+
 korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 zalukaj.cc##.iii > #aab
