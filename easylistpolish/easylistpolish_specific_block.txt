@@ -392,3 +392,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=ipoddebice.pl
 ||video.onnetwork.tv^$script,domain=infomogilno24.pl
+||video.onnetwork.tv^$script,domain=portalsremski.pl
