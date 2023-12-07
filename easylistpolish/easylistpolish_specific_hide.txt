@@ -1,4 +1,4 @@
-zwiedzamyparyz.pl## .gyg-widget
+zwiedzamyparyz.pl##.gyg-widget
 portalpszczelarski.pl###AdBig
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
