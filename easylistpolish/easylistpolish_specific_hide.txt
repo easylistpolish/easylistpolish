@@ -1578,6 +1578,7 @@ cenyrolnicze.pl##a[href="https://www.indrol.pl/kontakt#kontraktacja"]
 swidnica24.pl##a[href="https://www.iparts.pl"]
 nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
+30minut.pl##a[href="https://www.orlenpaczka.pl/o-usludze-orlen-paczka/"]
 staleo.pl##a[href="https://www.polteknik.pl/"]
 samiswoi.news##a[href="https://www.przekazypieniezne.com/"]
 samiswoi.news##a[href="https://www.przekazypieniezne.com/przekazy-mobilne"]
@@ -1991,4 +1992,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-30minut.pl##a[href="https://www.orlenpaczka.pl/o-usludze-orlen-paczka/"]
