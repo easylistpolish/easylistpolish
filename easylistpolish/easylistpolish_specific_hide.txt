@@ -1993,3 +1993,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 goral.info.pl###ad--bill-top
 zyciesiedleckie.pl##[class*="banner--"]
 iszczecinek.pl##[class*="banner--"]
+pulsciechanowa.pl##[class*="banner--"]
