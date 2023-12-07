@@ -1998,3 +1998,4 @@ miastko24.pl##[class*="banner--"]
 ejarocin.pl##[class*="banner--"]
 rzeczkrotoszynska.pl##[class*="banner--"]
 twojstyl.pl##.commercial--placeholder
+polityka.pl##.cg_ad_outer
