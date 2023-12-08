@@ -1524,6 +1524,7 @@ haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 7dni.pila.pl##a[href="http://www.sklepmuzycznydemo.pl"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+30minut.pl##a[href="http://www.staropolanka.pl/"]
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
@@ -1991,4 +1992,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-30minut.pl##a[href="http://www.staropolanka.pl/"]
