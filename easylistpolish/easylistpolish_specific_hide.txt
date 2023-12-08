@@ -1646,7 +1646,6 @@ przeclaw24.pl##a[href^="https://booksy.com/"]
 narodowcy.net##a[href^="https://capitalbook.com.pl/"]
 swoszowice.org.pl##a[href^="https://carline.com.pl/"]
 nanarty.info##a[href^="https://cervenohorskesedlo.eu"]
-
 brief.pl##a[href^="https://dreamemployer.pl"]
 mobiletrends.pl##a[href^="https://escola.pl/?utm_source=Mobile+Trends&utm_medium="]
 weszlo.com##a[href^="https://fuksiarz.pl/"]
