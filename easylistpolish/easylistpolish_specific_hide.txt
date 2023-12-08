@@ -1997,3 +1997,4 @@ bp24.pl##.grid__ad
 bp24.pl##.ad--bill-top
 debica24.eu##.adv
 debica24.eu##.custom-html-box > .box__container > div
+debica24.eu##.grid__ad
