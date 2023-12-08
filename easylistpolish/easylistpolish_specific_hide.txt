@@ -2000,3 +2000,4 @@ debica24.eu##.custom-html-box > .box__container > div
 debica24.eu##.grid__ad
 debica24.eu##.ad--bill-top
 kartuzy.info##.adv
+kartuzy.info##.custom-html-box > .box__container > div
