@@ -1993,3 +1993,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 bp24.pl##.adv
 bp24.pl##.custom-html-box > .box__container > div
+bp24.pl##.grid__ad
