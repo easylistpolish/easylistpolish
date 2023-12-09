@@ -1206,6 +1206,7 @@ staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
 tygodnikszczytno.pl##.slitslider_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
+4fun.tv##.slot-middle
 slowoseniora.pl##.slowo-widget
 gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
@@ -1991,4 +1992,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-4fun.tv##.slot-middle
