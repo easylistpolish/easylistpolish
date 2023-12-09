@@ -1739,7 +1739,7 @@ miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
 niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
-wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
+
 ipulawy.pl##a[target="_blank"].vc_box_border_grey
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-"])
 maratonypolskie.pl##a[target="pw"]
