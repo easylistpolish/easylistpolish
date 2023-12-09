@@ -1813,7 +1813,6 @@ divers24.pl##div[class^="angwp-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
-
 lajfy.com##div[class^="banner-over-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
