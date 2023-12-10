@@ -91,6 +91,7 @@ tarnobrzeg.info###block-11
 gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
+plusblog.pl###block-7
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
 zmianynaziemi.pl###block-block-29
@@ -1992,4 +1993,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-plusblog.pl###block-7
