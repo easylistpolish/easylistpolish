@@ -261,6 +261,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
 ||mmarocks.pl^*^1342x178.
+||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
 ||motocykle125.pl^*^junak^$subdocument
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*_250x500.
@@ -390,4 +391,3 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
