@@ -842,7 +842,7 @@ stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
-24jgora.pl,bp24.pl,debica24.eu,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
+24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 zwiedzamyparyz.pl##.gyg-widget
 odkryjpomorze.pl##.h-line
