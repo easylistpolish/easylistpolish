@@ -489,7 +489,7 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
@@ -1994,4 +1994,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-powiatowa.info##.adv
