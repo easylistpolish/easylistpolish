@@ -664,7 +664,7 @@ magazynszum.pl##.block_reklama_top
 bielsko.tv,pless.pl,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,czechowice.biz,czechowice.tv,pless.pl,pszczyna.biz,pszczyna.tv,tychy.info##.blok-billboard
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
-bielskiedrogi.pl,bielsko.tv,czecho.pl,czechowice.biz,pless.pl,tychy.info##.blok-r
+bielskiedrogi.pl,bielsko.tv,czecho.pl,czechowice.biz,pless.pl,pszczyna.biz,tychy.info##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
 burda.pl,elle.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
 newsdiscopolo.info##.bn-lg-sidebar
@@ -1996,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-pszczyna.biz##.blok-r
