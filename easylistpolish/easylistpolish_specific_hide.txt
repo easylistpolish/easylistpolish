@@ -1036,6 +1036,7 @@ wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
+mgsm.pl##.oa_replacement
 iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
 zw.pl##.oglo_box2
@@ -1995,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-mgsm.pl##.oa_replacement
