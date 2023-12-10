@@ -1207,6 +1207,7 @@ staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
 tygodnikszczytno.pl##.slitslider_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
+4fun.tv##.slot-middle
 slowoseniora.pl##.slowo-widget
 gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
@@ -1740,7 +1741,6 @@ miechowski.pl##a[target="_blank"] > .vc_single_image-img
 polskiinternet.com##a[target="_blank"] > img[src*="/banner/"]
 bobasmiesiaca.pl##a[target="_blank"] > img[src*="/wysiwig/"]
 niebiescy.pl##a[target="_blank"] > img[src^="bilds/"]
-wdrawskupomorskim.pl##a[target="_blank"] > img[style="max-width: 100%; margin: 15px 0;"]
 ipulawy.pl##a[target="_blank"].vc_box_border_grey
 trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-"])
 maratonypolskie.pl##a[target="pw"]
@@ -1815,7 +1815,6 @@ divers24.pl##div[class^="angwp-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
-motoocena.pl##div[class^="banner-ad-"]
 lajfy.com##div[class^="banner-over-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
@@ -1934,6 +1933,7 @@ beskid-niski.pl##img[src="/bannery/rudawka.gif"]
 beskid-niski.pl##img[src="/bannery/siwekja.gif"]
 koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
 beskid-niski.pl##img[src="http://d.nocowanie.pl/gfx/bannery/nocowanie.jpg"]
+3dwpraktyce.pl##img[src="https://3dwpraktyce.pl/wp-content/uploads/2019/10/drukarka_prev_01_007_LQ.jpg"]
 skawina24.com##img[src="https://projektestart.cfolks.pl/skawina24/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/05/25/amaks-net-ver2-646f2c47debbe.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/Garstka-64b929d421ce2.jpg"]
