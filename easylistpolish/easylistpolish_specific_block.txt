@@ -390,3 +390,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
