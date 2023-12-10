@@ -1265,7 +1265,7 @@ agronews.com.pl##.tdi_31
 onetontour.pl##.test-drive-banner
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
-powiatowa.info##.text-center > div[id^="bills_in_rotation_"]
+goral.info.pl,powiatowa.info##.text-center > div[id^="bills_in_rotation_"]
 bociany.tv,katowice24.info,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
@@ -1995,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-goral.info.pl##.text-center > div[id^="bills_in_rotation_"]
