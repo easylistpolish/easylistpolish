@@ -1829,7 +1829,6 @@ oswiecim112.pl,swiatmotocykli.pl##div[class^="g-col b-"]
 dobra-mama.pl,e-dobrydom.pl,gamesfanatic.pl,kalisz24.info.pl,kolobrzeginfo.pl,koszalininfo.pl,kujawy.info,magazynbiomasa.pl,metropoliabydgoska.pl,radio5.com.pl,radio7.pl,radioradom.pl,radiowrzesnia.pl,wlkp24.info,wnetrzadomow.pl,zbiam.pl,zielonanews.pl,ziemiadebicka.pl,zw.lt##div[class^="g-dyn a-"]
 nadwisla24.pl##div[class^="g-dyn a-"] a:not([href^="https://nadwisla24.pl/"])
 anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,dzisiajwgliwicach.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,pabianice.tv,plock.fm,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,uavo.com.pl,urodaizdrowie.pl,wlkp24.info,zielonanews.pl##div[class^="g-single a-"]
-
 dts24.pl##div[class^="gjhn-single ajhn-"]
 petronews.pl##div[class^="gloto-single aloto-"]
 temi.pl##div[class^="gtmi-dyn atmi-"]
