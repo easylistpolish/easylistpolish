@@ -393,3 +393,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=ibytow.pl
 ||video.onnetwork.tv^$script,domain=roztocze.net
+||video.onnetwork.tv^$script,domain=terazgabin.pl
