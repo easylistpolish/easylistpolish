@@ -398,3 +398,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=gwarek.com.pl
 ||video.onnetwork.tv^$script,domain=wpu24.pl
 ||video.onnetwork.tv^$script,domain=pulsgminy.pl
+||video.onnetwork.tv^$script,domain=lowiczanin.info
