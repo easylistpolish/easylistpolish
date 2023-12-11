@@ -1163,7 +1163,7 @@ nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
 sport.interia.pl##.sc-duSInm
 sport.interia.pl##.sc-eywOmQ
-naekranie.pl##.screening-banner
+4fun.tv,naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
 dlahandlu.pl##.sda
@@ -1996,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-4fun.tv##.screening-banner
