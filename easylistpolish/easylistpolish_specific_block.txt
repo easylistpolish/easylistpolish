@@ -394,3 +394,4 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||video.onnetwork.tv^$script,domain=ibytow.pl
 ||video.onnetwork.tv^$script,domain=roztocze.net
 ||video.onnetwork.tv^$script,domain=terazgabin.pl
+||video.onnetwork.tv^$script,domain=dziendobrypomorze.pl
