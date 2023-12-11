@@ -1999,3 +1999,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ibytow.pl##[class*="banner--"]
 roztocze.net##[class*="banner--"]
 terazgabin.pl##[class*="banner--"]
+dziendobrypomorze.pl##[class*="banner--"]
