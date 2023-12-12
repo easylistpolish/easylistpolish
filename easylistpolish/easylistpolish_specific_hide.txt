@@ -2002,3 +2002,4 @@ kurierpodlaski.pl##.adv
 kurierpodlaski.pl##[class*="ad--"]
 topagrar.pl##.grid--ad
 topagrar.pl##[class*="container--break-"]
+telemagazyn.pl##.componentsPromotionsArticlePromotedList
