@@ -226,7 +226,6 @@ miastokolobrzeg.pl###panel_baner
 kreskowki-online.pl,magazynpolonia.com###partners
 ekoexpo.pl###partners_bar
 hitra-wedkarstwo.cba.pl###partnerzy
-
 informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
@@ -489,7 +488,7 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
@@ -726,7 +725,7 @@ radioccm.pl##.com_reklamy
 twojstyl.pl##.commercial--placeholder
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
@@ -841,7 +840,7 @@ gorzow24.pl##.gml
 dspodcast.pl##.gogreen
 stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
-wiadomoscihandlowe.pl##.grid--ad
+topagrar.pl,wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
 24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
@@ -1384,13 +1383,17 @@ pwm.org.pl##A[onclick^="countAdClick"]
 chip.pl##[action^="http://www.njobs.eu/"]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
+kurierpodlaski.pl##[class*="ad--"]
 tvpolice.com.pl,zycieolsztyna.pl##[class*="advert-"]
-abcjanikowo24.pl,brodnica365.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,ki24.info,kolniak24.eu,koronowo.net.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,roztocze.net,rzeczkrotoszynska.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,terazgabin.pl,terazlipno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wpu24.pl,zyciesiedleckie.pl##[class*="banner--"]
+abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,ki24.info,kolniak24.eu,koronowo.net.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,roztocze.net,rzeczkrotoszynska.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,terazgabin.pl,terazlipno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wpu24.pl,zyciesiedleckie.pl##[class*="banner--"]
 leba24.info##[class*="code-block-"]
+topagrar.pl##[class*="container--break-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
 tuwroclaw.com##[class*="w2g-wrapper__slot_"]
 rmf24.pl##[class="ad adsBilbordArticle"]
+telemagazyn.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
+24wroclaw.pl##[class="card card--low card--box"]
 forbes.pl##[class="container ad"]
 gostynin.info##[class="container-out background-accent p-m p-xl@m"]
 kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
@@ -1447,6 +1450,7 @@ swiatkoni.pl##[id^="klikacz"]
 budoskop.pl##[id^="mediaContent"]
 gloskoninski.pl##[id^="media_image-"]
 jasnet.pl##[id^="metaslider-id-"]
+supernowosci24.pl##[id^="r-"]
 forumzabki.pl##[id^="rek_rozwijana_bh"]
 forumzabki.pl##[id^="reklama"]
 grojec24.net##[id^="reklama-"]
@@ -1462,6 +1466,7 @@ eplastics.pl##[id^="toppartner"]
 beatcoin.pl##[id^="trx_addons_widget_banner-"]
 infoprzasnysz.com##[itemtype$="WPAdBlock"]
 elektroda.pl##[onclick*="'Click'"]
+24wroclaw.pl,kurierpodlaski.pl##[style="min-height: 350px;"], [style="min-height: 500px;"]
 tvwlodawa.pl##a + a > img[width="300"]
 leczna24.pl##a > img[src^="b/"][class="img-responsive"]
 pch24.pl##a > img[width="1340"][height="300"]
@@ -1995,15 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-24wroclaw.pl##[style="min-height: 350px;"], [style="min-height: 500px;"]
-24wroclaw.pl##[class="card card--low card--box"]
-kurierpodlaski.pl##[style="min-height: 350px;"], [style="min-height: 500px;"]
-kurierpodlaski.pl##.adv
-kurierpodlaski.pl##[class*="ad--"]
-topagrar.pl##.grid--ad
-topagrar.pl##[class*="container--break-"]
-telemagazyn.pl##.componentsPromotionsArticlePromotedList
-telemagazyn.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
-telemagazyn.pl##.componentsPromotionsArticlePromotedList
-supernowosci24.pl##[id^="r-"]
-bielskirynek.pl##[class*="banner--"]
