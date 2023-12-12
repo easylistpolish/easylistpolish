@@ -389,3 +389,5 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+supernowosci24.pl##[id^="r-"]
+||video.onnetwork.tv^$script,domain=wrzesnia.info.pl
