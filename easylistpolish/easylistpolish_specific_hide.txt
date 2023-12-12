@@ -1115,6 +1115,7 @@ axn.pl##.region-header-ad-space
 epiotrkow.pl,infoserwiselk.pl,vidfile.net##.rek
 mmanews.pl##.rekBlok
 infoarchitekta.pl##.rek_baner
+4trucks.pl##.rek_j
 4trucks.pl##.rekl
 panoramakutna.pl##.rekl + center
 autofakty.pl##.rekl_text
@@ -2000,4 +2001,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-4trucks.pl##.rek_j
