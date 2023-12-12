@@ -1995,5 +1995,8 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-24wroclaw.pl##[style="min-height: 350px;"]
+24wroclaw.pl##[style="min-height: 350px;"], [style="min-height: 500px;"]
 24wroclaw.pl##[class="card card--low card--box"]
+kurierpodlaski.pl##[style="min-height: 350px;"], [style="min-height: 500px;"]
+kurierpodlaski.pl##.adv
+kurierpodlaski.pl##[class*="ad--"]
