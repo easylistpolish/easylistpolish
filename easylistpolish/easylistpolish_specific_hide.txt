@@ -2003,3 +2003,5 @@ kurierpodlaski.pl##[class*="ad--"]
 topagrar.pl##.grid--ad
 topagrar.pl##[class*="container--break-"]
 telemagazyn.pl##.componentsPromotionsArticlePromotedList
+telemagazyn.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
+telemagazyn.pl##.componentsPromotionsArticlePromotedList
