@@ -2006,3 +2006,4 @@ telemagazyn.pl##.componentsPromotionsArticlePromotedList
 telemagazyn.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 telemagazyn.pl##.componentsPromotionsArticlePromotedList
 supernowosci24.pl##[id^="r-"]
+bielskirynek.pl##[class*="banner--"]
