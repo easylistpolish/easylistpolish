@@ -2000,3 +2000,4 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+7dni.pila.pl##a[href="https://prostodo.pl/c?pid=59643&tid=3863&ha=3113724408&r=8400"]
