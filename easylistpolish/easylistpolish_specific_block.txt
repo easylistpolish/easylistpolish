@@ -268,7 +268,6 @@ supernowosci24.pl##[id^="r-"]
 ||naszsrem.pl^*^psb_mrowka_
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||nextclick.pl/widget/widget.advertisement
-||niebiescy.pl^*^chimimeca_
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^piroshop_
