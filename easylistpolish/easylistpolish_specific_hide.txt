@@ -2005,3 +2005,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zlomzy.pl##[class*="banner--"]
 glospowiatusredzkiego.pl##[class*="banner--"]
 radzyninfo.pl##[class*="banner--"]
+myszkow365.pl##[class*="banner--"]
