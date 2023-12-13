@@ -2004,3 +2004,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 zlomzy.pl##[class*="banner--"]
 glospowiatusredzkiego.pl##[class*="banner--"]
+radzyninfo.pl##[class*="banner--"]
