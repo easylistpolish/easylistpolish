@@ -585,7 +585,7 @@ zlotoryjska.pl##.baner_pod_menu_1190x125px
 glas-hit.pl##.baner_przedni
 elblag.net##.banera1
 lakiernictwo.net##.banert
-ogloszenia-nieruchomosci.info##.banery1
+
 nieruchomosci-komercyjne.info##.banery2
 janosik.info##.baneryLewe
 studio-mebli.eu##.banery__container
