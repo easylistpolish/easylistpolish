@@ -641,7 +641,6 @@ ezamosc.pl##.bannergroupvertical
 abcslubu.pl,chrzanowski24.pl,erp-view.pl,estrzelce.pl,fsd24.pl,glosojcapio.pl,informacje.kolobrzeg.pl,krynica.tv,logistyczny.com,magazynit.pl,naszagazeta.info,naszaokolica24.pl,nowawrzesnia.pl,portal-mundurowy.pl,przeclaw24.pl,roland-gazeta.pl,wysokomazowiecki24.pl,zdrowybialystok.pl##.banneritem
 e-stargard.pl,informacjelodzkie.pl,megatiming.pl,oswieciminfo.pl,portalmorski.pl,programtv.info,stalenierdzewne.pl,swieradowzdroj.pl,szkola8.torun.pl##.banners
 rzeszowairport.pl##.banners-content
-
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
@@ -1385,7 +1384,7 @@ telewizjatvt.pl##[class$="-advads_ad_widget"]
 purepc.pl##[class$="reklama"]
 kurierpodlaski.pl##[class*="ad--"]
 tvpolice.com.pl,zycieolsztyna.pl##[class*="advert-"]
-abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,ki24.info,kolniak24.eu,koronowo.net.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,roztocze.net,rzeczkrotoszynska.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,terazgabin.pl,terazlipno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wpu24.pl,zyciesiedleckie.pl##[class*="banner--"]
+abcjanikowo24.pl,bielskirynek.pl,brodnica365.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-chelmno.pl,e-golub.info.pl,e-krajna.pl,e-wabrzezno.info.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,glospowiatusredzkiego.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,gwe24.pl,gwio.pl,hej.mielec.pl,hej.rzeszow.pl,ibytow.pl,infomogilno24.pl,infoskierniewice.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,jura365.pl,ki24.info,kolniak24.eu,koronowo.net.pl,legio24.pl,leszno24.pl,lowiczanin.info,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,police24.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,roztocze.net,rzeczkrotoszynska.pl,slu24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,terazgabin.pl,terazlipno.pl,terazstrzelno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,wiescimiedzychodzkie.pl,wpu24.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl##[class*="banner--"]
 leba24.info##[class*="code-block-"]
 topagrar.pl##[class*="container--break-"]
 polukr.net##[class*="e3lan-"]
@@ -2001,14 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zlomzy.pl##[class*="banner--"]
-glospowiatusredzkiego.pl##[class*="banner--"]
-radzyninfo.pl##[class*="banner--"]
-myszkow365.pl##[class*="banner--"]
-zawiercie365.pl##[class*="banner--"]
-terazstrzelno.pl##[class*="banner--"]
-infoskierniewice.pl##[class*="banner--"]
-slu24.pl##[class*="banner--"]
-police24.pl##[class*="banner--"]
-legio24.pl##[class*="banner--"]
-jura365.pl##[class*="banner--"]
