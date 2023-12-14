@@ -389,3 +389,4 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||video.onnetwork.tv^$script,domain=sportsinwinter.pl
