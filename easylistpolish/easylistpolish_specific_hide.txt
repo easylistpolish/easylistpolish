@@ -743,7 +743,7 @@ bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
 przeclaw24.pl##.custompolecamy
-tczewska.pl##.cycle-slideshow
+
 wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
