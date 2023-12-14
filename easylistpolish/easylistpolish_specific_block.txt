@@ -273,7 +273,6 @@ supernowosci24.pl##[id^="r-"]
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
 ||nowytydzien.pl^*^baner-330x200.
-||nowytydzien.pl^*^diagnostyka512_
 ||nowytydzien.pl^*^neoseo2-
 ||nyx-nyx-nyx.dotabuff.com^$subdocument
 ||ocdn.eu/files/mastt^$script
