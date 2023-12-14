@@ -702,7 +702,7 @@ izabelin24.pl##.c-gallery__bilboard-ad
 wysokieobcasy.pl##.c1
 tp.com.pl##.card--box
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com"]
-zywiecinfo.pl##.carouselbanner
+
 allaboutlife.pl##.carrie-ad-block
 24opole.pl##.cd
 polityka.pl##.cg_ad_outer
