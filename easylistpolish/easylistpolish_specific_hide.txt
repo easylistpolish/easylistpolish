@@ -2006,3 +2006,4 @@ e-lubon.pl##[class*="banner--"]
 tukutno.pl##[class*="banner--"]
 pleszew24.info##[class*="banner--"]
 hej.slupsk.pl##[class*="banner--"]
+goral.info.pl##.l-news__more
