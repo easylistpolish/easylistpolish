@@ -828,7 +828,6 @@ kresy.pl##.gbcfxawvaHsi
 weranda.pl##.gl_slot_text
 24gliwice.pl##.gliwi-a1-gora-portalu
 24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
-
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 gorzow24.pl##.gml
 dspodcast.pl##.gogreen
