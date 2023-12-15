@@ -895,7 +895,7 @@ dziennik.pl##.infor-ad
 katowice24.info##.inner
 franchising.pl##.innerTopBanner
 money.pl##.insert-top-offer
-trawka.org##.ipsLayout_container > a[href^="https://thc-thc.com"]
+
 forum.motocyklistow.pl##.ipsSpacer_both
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 ostrodaflesz.pl##.islemag_single_ad
