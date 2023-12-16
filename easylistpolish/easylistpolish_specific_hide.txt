@@ -944,7 +944,7 @@ czecho.pl,pless.pl##.linki-sponsorowane-col
 open.fm##.listAdvSlot
 eostroleka.pl##.loading-ajax-ads
 e-grajewo.pl##.logos-container
-lokalnyreporter.pl##.lokal-widget
+
 hfc.com.pl##.lozad
 lubiehrubie.pl##.lubie-widget
 jarmark.com.pl##.mMaterialRotator
