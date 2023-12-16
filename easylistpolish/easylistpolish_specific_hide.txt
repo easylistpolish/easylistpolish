@@ -348,7 +348,7 @@ pszczyna.tv###topBaner
 press.pl###topBanner
 dziennikteatralny.pl###topBigBanner
 sadeczanin.info###topContainer
-acermaniak.pl,activemaniak.pl###topMenu
+acermaniak.pl,activemaniak.pl,agdmaniak.pl###topMenu
 rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
@@ -1999,4 +1999,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-agdmaniak.pl###topMenu
