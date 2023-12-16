@@ -1200,7 +1200,7 @@ pomorzanie.info##.slider-2243
 speedwaynews.pl##.slider-item
 pulskwidzyna.pl##.sliderBox
 mazovia24.pl##.slides_oneDIV
-staleo.pl,zrobotyzowany.pl##.sliding-baner-box--right
+
 tygodnikszczytno.pl##.slitslider_container
 operatorzy.pl##.slogan-wrapper
 stalowemiasto.pl##.slot-1280px
