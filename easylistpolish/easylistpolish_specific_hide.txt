@@ -1440,7 +1440,7 @@ raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 24gliwice.pl##[id^="gliwi-grid-"]
 swiatkoni.pl##[id^="klikacz"]
-budoskop.pl##[id^="mediaContent"]
+agropolska.pl,budoskop.pl##[id^="mediaContent"]
 gloskoninski.pl##[id^="media_image-"]
 jasnet.pl##[id^="metaslider-id-"]
 supernowosci24.pl##[id^="r-"]
@@ -1996,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-agropolska.pl##[id^="mediaContent"]
