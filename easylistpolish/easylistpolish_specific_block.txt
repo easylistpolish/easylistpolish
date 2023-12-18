@@ -276,7 +276,6 @@ supernowosci24.pl##[id^="r-"]
 ||nyx-nyx-nyx.dotabuff.com^$subdocument
 ||ocdn.eu/files/mastt^$script
 ||odkryjpomorze.pl^*^loga_prawa_
-||ogloszeniadrobne.warszawa.pl^*^spedgear.
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
 ||onnetwork.tv^$domain=donald.pl
