@@ -2001,3 +2001,4 @@ tech360.pl##.ban
 tech360.pl##.ban
 modnymagazyn.pl##[class*="banner--"]
 wybudujemy.com.pl##[class*="banner--"]
+motomagazyn.com##[class*="banner--"]
