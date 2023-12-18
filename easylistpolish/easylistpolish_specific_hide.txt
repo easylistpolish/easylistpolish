@@ -24,7 +24,6 @@ national-geographic.pl,party.pl,polki.pl,viva.pl,wizaz.pl###adl-placement-0-wrap
 zwolen24.pl###adocr
 swieradowzdroj.pl###ads
 wwsi.edu.pl###adsdialog
-nowezyciepabianic.pl###adv-view-widget-5
 tygodnikszczytno.pl###advBox
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
