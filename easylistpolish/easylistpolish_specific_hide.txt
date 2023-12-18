@@ -1431,7 +1431,6 @@ pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 zyciebytomskie.pl##[id^="ad"]
 gazeta.pl##[id^="adUnit-"]
-
 gazeta.pl##[id^="ads"]
 plotek.pl##[id^="banC"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
