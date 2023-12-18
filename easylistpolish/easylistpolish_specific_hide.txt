@@ -2000,3 +2000,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 tech360.pl##.ban
 tech360.pl##.ban
 modnymagazyn.pl##[class*="banner--"]
+wybudujemy.com.pl##[class*="banner--"]
