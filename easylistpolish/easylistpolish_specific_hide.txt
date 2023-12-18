@@ -593,7 +593,6 @@ studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bazarowo.pl,bezpiecznyrynekpracy.pl,dotabuff.com,e-kidsplanet.com,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,polskiautohandel.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,serwislokalny.com,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
 android.com.pl##.banner--big
-bialobrzegi24.net,bilgoraj.com.pl,czasbrodnicy.pl,dziennikhistoryczny.pl,e-lubon.pl,fakty.nl,glospowiatusredzkiego.pl,glossokolowa.pl,hej.slupsk.pl,koscianiak.pl,magazynregionalny.pl,magazynzuzel.pl,modnymagazyn.pl,motomagazyn.com,myglogow.pl,mypolkowice.pl,myszkow365.pl,naszpruszcz.pl,nowysztum.pl,nrypin.pl,pleszew24.info,prawobrzeze24.pl,pulstygodnia.pl,radzyninfo.pl,rydzyna24.pl,szemud24.pl,tukutno.pl,tygodnikketrzynski.pl,tyna.info.pl,wdrawskupomorskim.pl,wybudujemy.com.pl,zawiercie365.pl,ziemiagorowska.pl,zlomzy.pl##.banner--regular
 trojmiasto.pl##.banner-a
 metal-bud.eu##.banner-b2b
 bezpiecznyrynekpracy.pl,ox.pl,prudnik24.pl##.banner-block
