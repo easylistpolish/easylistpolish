@@ -1661,7 +1661,7 @@ gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
 2x45.info##a[href^="https://in.betsson29.com/"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
-elektroda.pl##a[href^="https://jlcpcb.com/v"][title]
+
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 uploaduj.com##a[href^="https://lead.network/"]
 angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=120"]
