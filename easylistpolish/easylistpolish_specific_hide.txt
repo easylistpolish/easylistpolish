@@ -1688,6 +1688,7 @@ narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 forum.pasja-informatyki.pl##a[href^="https://quesflo.com/"]
 skijumping.pl##a[href^="https://real-logistics.pl"][target="_blank"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
+elektroda.pl##a[href^="https://sklep.renex.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
@@ -2003,4 +2004,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elektroda.pl##a[href^="https://sklep.renex.pl/"]
