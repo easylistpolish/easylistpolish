@@ -2002,3 +2002,4 @@ czasbrodnicy.pl##[class*="banner--"]
 rydzyna24.pl##[class*="banner--"]
 doba.pl##.ads_row
 klodzko24.eu##.ads
+24klodzko.pl##.td-adspot-title + div
