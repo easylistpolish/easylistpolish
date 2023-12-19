@@ -1996,3 +1996,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 magazynzuzel.pl##[class*="banner--"]
+tyna.info.pl##[class*="banner--"]
