@@ -107,6 +107,7 @@
 ^reklamy_baner^$domain=wirtualnygarwolin.pl
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
+^sam-pro-images^$domain=mojaswidnica.pl
 ^statystyk_box.$domain=bajery.pl
 ^therapy.$domain=tvklodzka.pl
 ^vbanner^$domain=extraswiecie.pl
@@ -385,4 +386,3 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^sam-pro-images^$domain=mojaswidnica.pl
