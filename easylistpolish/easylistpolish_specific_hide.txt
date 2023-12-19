@@ -1998,3 +1998,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 magazynzuzel.pl##[class*="banner--"]
 tyna.info.pl##[class*="banner--"]
 nrypin.pl##[class*="banner--"]
+czasbrodnicy.pl##[class*="banner--"]
