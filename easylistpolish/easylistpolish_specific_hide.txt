@@ -1703,6 +1703,7 @@ radiogol.pl##a[href^="https://www.autoczescionline24."]
 linktopoland.com,lipno-cli.pl,radiogol.pl,swidnica24.pl,swoszowice.org.pl##a[href^="https://www.autodoc."]
 plonskwsieci.pl##a[href^="https://www.bnpparibas.pl/"]
 plonskwsieci.pl##a[href^="https://www.bsplonsk.pl/"]
+elektroda.pl##a[href^="https://www.ccontrols.pl/"]
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/"]
 twojaslupca.pl##a[href^="https://www.czesciauto24."]
 tkn24.pl##a[href^="https://www.dworzbozenna.pl"]
@@ -1999,4 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elektroda.pl##a[href^="https://www.ccontrols.pl/"]
