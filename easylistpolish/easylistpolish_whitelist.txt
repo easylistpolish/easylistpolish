@@ -10,7 +10,6 @@
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
 @@||gostynin24.pl^*^banners/owsik^
-@@||kazimierzdolny24.pl^*^reklama_box.gif
 @@||liveads.pl^$domain=liveads.pl
 @@||market.bia24.pl/R2|
 @@||maszwolne.pl^*^pages/mini^
