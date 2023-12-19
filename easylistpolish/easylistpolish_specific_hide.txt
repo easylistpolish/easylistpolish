@@ -2000,3 +2000,4 @@ tyna.info.pl##[class*="banner--"]
 nrypin.pl##[class*="banner--"]
 czasbrodnicy.pl##[class*="banner--"]
 rydzyna24.pl##[class*="banner--"]
+doba.pl##.ads_row
