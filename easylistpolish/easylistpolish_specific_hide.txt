@@ -2008,3 +2008,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 naszpruszcz.pl##[class*="banner--"]
 magazynregionalny.pl##[class*="banner--"]
 bilgoraj.com.pl##[class*="banner--"]
+pulstygodnia.pl##[class*="banner--"]
