@@ -1925,7 +1925,7 @@ gazetawalbrzych.pl,gloskrakowa.pl##img[alt*="sponsorowane"]
 40ton.net##img[alt="Advertisement"]
 gosc.pl,radioem.pl##img[alt="Reklama"]
 cowkrakowie.pl##img[alt="baner"]
-edebno.pl,evertiq.pl##img[alt="reklama"]
+
 hfc.com.pl##img[alt="s-e-r-v-e-r-a-d-s"]
 pionki24.pl##img[alt="spot_img"]
 lubaczow.tv##img[alt^="Ad banner"]
