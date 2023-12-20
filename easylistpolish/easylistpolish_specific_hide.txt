@@ -2010,3 +2010,4 @@ bilgoraj.com.pl##[class*="banner--"]
 pulstygodnia.pl##[class*="banner--"]
 wdrawskupomorskim.pl##[class*="banner--"]
 tygodnikketrzynski.pl##[class*="banner--"]
+wirtualnyregion.eu##.main-slider
