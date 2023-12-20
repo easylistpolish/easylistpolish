@@ -1827,7 +1827,7 @@ dzwignice.info##div[class^="adSliderIn"]
 astrona.pl##div[class^="adsense"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
 divers24.pl##div[class^="angwp-"]
-baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
+
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 lajfy.com##div[class^="banner-over-"]
