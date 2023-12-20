@@ -1154,7 +1154,6 @@ mojanorwegia.pl##.row.single > a[target="_blank"]
 liderbudowlany.pl##.rozwijany
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
-studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
