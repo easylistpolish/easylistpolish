@@ -130,7 +130,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 supernowosci24.pl##[id^="r-"]
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
-||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
 ||4media.com^$domain=lokalna24.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
