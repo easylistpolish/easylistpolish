@@ -792,7 +792,6 @@ epainfo.pl##.epain-widget.td_block_template_1
 radionadzieja.pl##.et_pb_image_wrap
 all-inclusive.com.pl##.et_pb_text_inner a
 notino.pl##.exponea-subscription-dialog.exponea-banner
-
 forum.interia.pl##.f3-sidebar--ad
 e-stargard.pl##.fb_widget
 przemysl24.pl##.fbaner
