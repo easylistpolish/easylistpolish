@@ -876,7 +876,7 @@ skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blan
 ceneo.pl##.highlighted-offers
 wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
-112pila.pl##.home-e3lan > a
+
 reflex.com.pl##.home_menu-images-block
 reflex.com.pl##.home_menu-images-right
 bobrzanie.pl##.homeadv
