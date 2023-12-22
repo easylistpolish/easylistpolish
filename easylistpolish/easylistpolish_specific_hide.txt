@@ -741,7 +741,7 @@ mecze.com##.cool-stuff
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
-24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info,zambrow.org##.custom-html-box > .box__container > div
+24jgora.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info,zambrow.org##.custom-html-box > .box__container > div
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
@@ -2000,4 +2000,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ciechanowinaczej.pl##.custom-html-box > .box__container > div
