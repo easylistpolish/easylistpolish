@@ -928,7 +928,7 @@ baby-shower.pl##.kwadratowa2
 24jgora.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,eprzasnysz.pl,gpr24.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,ikampinos.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,itvpiaseczno.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kartuzy.info,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,mylomza.pl,plonszczak.pl,sejny.net,sucha24.pl,szczecinek.com,terazostroleka.pl,tp.com.pl,tudeblin.pl,tugrodzisk.pl,tulegnica.pl,wabrzezno-cwa.pl,wio.waw.pl,zambrow.org##.l-ad-top
 izabelin24.pl##.l-box--100
 ototorun.pl##.l-box--100 > p > a[target="_self"]
-nolesnica.pl##.l-box--100 a[target="_blank"]
+
 goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
 goral.info.pl##.l-news__more
