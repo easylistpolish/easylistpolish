@@ -947,7 +947,6 @@ hfc.com.pl##.lozad
 lubiehrubie.pl##.lubie-widget
 jarmark.com.pl##.mMaterialRotator
 beskidnews.pl,wirtualnyregion.eu##.main-slider
-
 gazetanowodworska.com##.mainSlider
 joemonster.org##.main_billboard
 cashbackrabat.pl##.main_sidebanner
