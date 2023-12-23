@@ -1002,7 +1002,6 @@ olawa24.pl##.my-6
 programtv.naziemna.info##.my-ad
 eurobolt.com.pl##.mybanners
 bartekwpodrozy.pl##.myrentacar-widget
-
 bogatyregion.pl##.n2-section-smartslider
 czasciechanowa.pl##.n2-ss-slider
 bankier.pl##.n2b-ad-container
