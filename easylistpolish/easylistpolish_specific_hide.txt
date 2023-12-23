@@ -1166,7 +1166,6 @@ it.tarnow.pl##.section-apps
 e-tlumacze.net##.section-banner
 it.tarnow.pl##.section-banners
 gostynin.info,powiat-piaseczynski.info##.section-billboard
-
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
 wp.pl##.shoplovin-3P
