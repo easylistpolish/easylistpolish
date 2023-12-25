@@ -1301,7 +1301,7 @@ ceny-zlomu.pl##.uniq-banner
 infobeskidy.eu##.userad
 moja24.pl##.vc_box_border_grey
 bstok.pl##.vc_custom_1639400766487
-naszosie.pl##.vc_figure
+
 radiowarszawa.com.pl##.vc_single_image-wrapper
 krdp.fm,miastons.pl##.vc_wp_text
 mazowieckie.com.pl##.view-banner-duzy
