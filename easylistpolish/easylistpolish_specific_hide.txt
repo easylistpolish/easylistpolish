@@ -1657,7 +1657,6 @@ mobiletrends.pl##a[href^="https://escola.pl/?utm_source=Mobile+Trends&utm_medium
 weszlo.com##a[href^="https://fuksiarz.pl/"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
-
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 uploaduj.com##a[href^="https://lead.network/"]
