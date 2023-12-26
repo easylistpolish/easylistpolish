@@ -1573,6 +1573,7 @@ nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
+akcjasos.pl##a[href="https://www.e-pity.pl/abc_podatki/deklaracje/pit_37/"]
 expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
 www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
@@ -1994,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-akcjasos.pl##a[href="https://www.e-pity.pl/abc_podatki/deklaracje/pit_37/"]
