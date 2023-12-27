@@ -1667,7 +1667,6 @@ angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=121
 tenis24.eu##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&"]
 pfmrc.eu##a[href^="https://modele.sklep.pl/swiateczno-noworoczne-"]
 naszstrzegom.pl##a[href^="https://naszstrzegom.pl/sad/"]
-
 tvklodzka.pl##a[href^="https://ng.pl/"]
 tuolawa.pl##a[href^="https://odszkodowaniaolawa.pl/"]
 gloswroclawia.pl##a[href^="https://oh-my-wear.com/"]
