@@ -1659,7 +1659,6 @@ weszlo.com##a[href^="https://fuksiarz.pl/"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
-
 uploaduj.com##a[href^="https://lead.network/"]
 elektroda.pl##a[href^="https://listwy-tvled.impelshop.com/"]
 angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=120"]
