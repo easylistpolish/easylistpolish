@@ -1775,7 +1775,7 @@ ostrowczanie.info##body > center > a
 anime-odcinki.pl##center > a
 tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
-centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
+
 poczta.wp.pl##dd-holder
 elektroda.pl##div > .footerbb > a > picture
 medycyna24.pl##div > .insert--top-offer
