@@ -1499,6 +1499,7 @@ gostynin24.pl##a[href="http://ekodrobiowe.pl/"]
 chwaszczyno.pl##a[href="http://fb-jelcz.pl/"]
 www.glogow-info.pl##a[href="http://glogow.radioplus.pl/"]
 nowawrzesnia.pl##a[href="http://montbram.pl/"]
+antykwariatgelber.pl##a[href="http://pds.sos.pl/?utm_source=Gelger&utm_medium=banner&utm_campaign=Reklama"]
 cenyrolnicze.pl##a[href="http://rekart.pl"]
 zyleta.info##a[href="http://ultrastreet.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
@@ -1994,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-antykwariatgelber.pl##a[href="http://pds.sos.pl/?utm_source=Gelger&utm_medium=banner&utm_campaign=Reklama"]
