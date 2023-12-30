@@ -73,6 +73,7 @@
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
 ^cene0^$domain=baxu.pl
+^cms_banery^$domain=architekturaibiznes.pl
 ^dekoran-fototapety-$domain=ckinfo.pl
 ^edytom.$domain=legitymizm.org
 ^grafika2^$domain=tsk24.pl
@@ -384,4 +385,3 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^cms_banery^$domain=architekturaibiznes.pl
