@@ -1994,3 +1994,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 nowezyciepabianic.pl##.pum
+gostynin24.pl##[class="text-center my-3 container"]
