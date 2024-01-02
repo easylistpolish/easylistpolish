@@ -672,7 +672,6 @@ portalspozywczy.pl##.box-0
 queer.pl##.box-adv
 futbolnews.pl##.box-banner
 wprost.pl##.box-list-item-recommendation-content-stream
-
 folk24.pl##.boxAdvert
 flashscore.pl,wynikinazywo.pl##.boxOverContent__banner
 mylomza.pl##.box__container iframe
