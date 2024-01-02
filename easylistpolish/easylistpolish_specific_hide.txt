@@ -1992,3 +1992,4 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=12&key=8df527b7b458ebff239f027c3ed67524f5a619ae2d9c29dd17e62c4a12a05a36"]
