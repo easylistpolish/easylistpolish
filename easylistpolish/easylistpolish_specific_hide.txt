@@ -775,7 +775,6 @@ ekoscian.eu##.ekosc-tresc
 kb.pl##.element-click
 radioemaus.pl##.elementor-image
 samnaprawiam.com,zwa24.pl##.elementor-image > A
-
 ecopoznan.pl##.elementor-shortcode
 radiobiper.info##.elementor-size-small
 radioemaus.pl##.elementor-text-editor
