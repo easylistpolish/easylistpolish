@@ -841,7 +841,6 @@ interia.pl##.has-mixerAdTopRight
 speedwaynews.pl##.has-text-align-center
 siechnice.com.pl##.head-rek
 sanok112.pl##.head-search
-
 zyciegrajewa.pl##.head1
 zyciegrajewa.pl##.head2
 portaltenisowy.info##.header--advert
