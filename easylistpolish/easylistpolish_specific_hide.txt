@@ -1995,3 +1995,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 mylomza.pl##.adv
 comparic.pl##.artyu-single
+gostynin24.pl##.widget-advert_placement
