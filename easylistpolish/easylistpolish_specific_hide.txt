@@ -1999,3 +1999,4 @@ gostynin24.pl##.widget-advert_placement
 panoramaplock.pl##[class*="banner--"]
 seniorbb.pl##[class*="banner--"]
 polska-morska.pl##.reklama-top
+dziendobry.tvn.pl##.ad-ph
