@@ -105,7 +105,7 @@ bilgorajska.pl,gada.pl,zamojska.pl###box_r
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
 katowice-airport.com###carwash-banner-c
-cebit.pl,nsix.pl###cc-banner-iframe
+nsix.pl###cc-banner-iframe
 czarymary.pl###checkWidthFullMain1
 centrummedyczne-przyjazna.pl###column
 lesko.info###content > center > a[target="_blank"]
