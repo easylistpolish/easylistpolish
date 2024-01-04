@@ -23,5 +23,4 @@
 ||static.travelist.pl/web/js^$script,third-party
 ||system.mondeos.pl^$third-party
 ||thc-thc.com/reklamy^$third-party
-||tja.pl^*^banerki$third-party
 ||wydawca.lead.network/RKL_$third-party
