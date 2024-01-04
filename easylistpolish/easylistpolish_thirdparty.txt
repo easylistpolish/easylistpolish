@@ -24,5 +24,4 @@
 ||system.mondeos.pl^$third-party
 ||thc-thc.com/reklamy^$third-party
 ||tja.pl^*^banerki$third-party
-||tmefekt.pl/static/widget$third-party
 ||wydawca.lead.network/RKL_$third-party
