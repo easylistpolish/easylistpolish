@@ -388,3 +388,4 @@ supernowosci24.pl##[id^="r-"]
 ||video.onnetwork.tv^$script,domain=ki24.info
 ||video.onnetwork.tv^$script,domain=koronowo.net.pl
 ||video.onnetwork.tv^$script,domain=swiecie24.pl
+||video.onnetwork.tv^$script,domain=mojakruszwica.pl
