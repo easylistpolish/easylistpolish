@@ -386,3 +386,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=ki24.info
+||video.onnetwork.tv^$script,domain=koronowo.net.pl
