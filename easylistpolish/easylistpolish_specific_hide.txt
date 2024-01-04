@@ -1264,6 +1264,7 @@ cosiedzieje.tv,expresskaszebe.pl,gostynin24.pl,kk24.pl,malbork1.pl,nasztomaszow.
 kk24.pl##.tipad_tag + a
 transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
+audycje.tokfm.pl##.tok-advertisement
 egzotycznaturystyka.pl,franchising.pl,lubliniec.info,pulsmiasta.tv##.top-banner
 ortograf.pl##.top-billboard
 zycieczestochowy.pl##.top-element
@@ -1994,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-audycje.tokfm.pl##.tok-advertisement
