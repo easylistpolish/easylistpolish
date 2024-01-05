@@ -1126,7 +1126,7 @@ mazovia24.pl##.reklama_onediv a:not([href^="http://www.mazovia24.pl"])
 forumbranzowe.com##.reklama_sidebar
 naszraciborz.pl##.reklama_title
 okraglemiasto.pl##.reklama_top
-skawina24.com##.reklamaoff
+
 bukowskilider.pl##.reklamaprawastrona
 ciechanowonline.pl,portalzamojski.pl##.reklamy
 bobrzanie.pl##.reverie-header-banner
