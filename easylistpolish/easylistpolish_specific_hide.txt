@@ -977,7 +977,6 @@ next.gazeta.pl##.mod_sponsoredArticle
 softonic.pl##.modal-ad-exit-intent
 zpierwszegotloczenia.pl##.modal-backdrop
 podrywaj.org##.modal_wrapper
-
 krosno112.pl##.module-ct img[width="280"]
 kocham.wielun.pl##.module-xyz
 goldap.info##.modulereklamar1
