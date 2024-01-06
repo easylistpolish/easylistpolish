@@ -1427,7 +1427,7 @@ plotek.pl##[id^="banC"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
 24starogard.pl##[id^="bannerlistwidget-"]
 sucha24.pl##[id^="bills_in_rotation_"]
-deblinnews.pl##[id^="black-studio-tinymce-"] a[target="_blank"]
+
 raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 24gliwice.pl##[id^="gliwi-grid-"]
