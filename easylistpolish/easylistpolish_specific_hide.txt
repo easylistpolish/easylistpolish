@@ -1427,7 +1427,6 @@ plotek.pl##[id^="banC"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
 24starogard.pl##[id^="bannerlistwidget-"]
 sucha24.pl##[id^="bills_in_rotation_"]
-
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 24gliwice.pl##[id^="gliwi-grid-"]
 swiatkoni.pl##[id^="klikacz"]
