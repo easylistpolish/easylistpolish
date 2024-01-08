@@ -119,7 +119,7 @@ wachtyrz.eu###custom_html-14
 kazimierzdolny24.pl,palegro.pl,swiatdronow.pl,swift-iban.pl,wiescipolickie.pl,wronieckibazar.pl###custom_html-2
 mhmkuchnie.eu###custom_html-2 a[target="_blank"]
 wiescipolickie.pl###custom_html-22
-belekaj.eu,e-szczuczyn.pl,izabrze.pl,terazgrodkow24.pl###custom_html-3
+belekaj.eu,e-szczuczyn.pl,terazgrodkow24.pl###custom_html-3
 nowezyciepabianic.pl,zyciezamoscia.pl###custom_html-6
 zyciezamoscia.pl###custom_html-8
 portalprzemyski.pl###custom_html-9
