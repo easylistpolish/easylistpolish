@@ -14,7 +14,7 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-bbfan.pl,ciechanowinaczej.pl,egarwolin.pl,goral.info.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,nolesnica.pl,nowagazeta.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
+bbfan.pl,ciechanowinaczej.pl,egarwolin.pl,goral.info.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,nolesnica.pl,nowagazeta.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 fiatklubpolska.pl###ad_global_below_navbar
 zycieczestochowy.pl###ad_hype_container
@@ -365,7 +365,6 @@ polukr.net###weptile-image-slider-widget-8
 szkolkarstwo.com.pl###widget-175
 szkolkarstwo.com.pl###widget-185
 liga-ursus.siatkowka.org###widget_sp_image-2
-
 kurier-kolski.pl###wrap-top2
 lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
 tkn24.pl###ytplayer
@@ -1003,6 +1002,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 bankier.pl##.nbAdv
+panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,tukutno.pl,ziemiagorowska.pl##.new-toplayer
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1242,6 +1242,7 @@ iknurow.pl##.td_block_template_1 p img
 iknurow.pl##.td_block_wrap.wpb_text_column.wpb_wrapper
 gf24.pl,jazdaprawna.pl,trzemeszno24.info##.td_single_image_bg
 kozienice24.pl##.td_spot_img_all
+wiocha.pl##.tdbcontainer
 wirtualnyregion.eu##.tdc-row .cycloneslider
 panoramakutna.pl##.tdi_28
 agronews.com.pl##.tdi_29
@@ -1990,10 +1991,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-seniorbb.pl##.new-toplayer
-sportsinwinter.pl##.new-toplayer
-panoramaplock.pl##.new-toplayer
-ziemiagorowska.pl##.new-toplayer
-tukutno.pl##.new-toplayer
-gryfinska.pl###ad--bill-top
-wiocha.pl##.tdbcontainer
