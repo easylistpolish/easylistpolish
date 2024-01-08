@@ -1997,3 +1997,4 @@ panoramaplock.pl##.new-toplayer
 ziemiagorowska.pl##.new-toplayer
 tukutno.pl##.new-toplayer
 gryfinska.pl###ad--bill-top
+wiocha.pl##.tdbcontainer
