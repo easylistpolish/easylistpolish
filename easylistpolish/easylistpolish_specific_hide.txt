@@ -1996,3 +1996,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 seniorbb.pl##.new-toplayer
 sportsinwinter.pl##.new-toplayer
 panoramaplock.pl##.new-toplayer
+ziemiagorowska.pl##.new-toplayer
