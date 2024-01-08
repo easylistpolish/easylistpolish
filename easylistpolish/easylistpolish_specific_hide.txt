@@ -66,7 +66,6 @@ topmarkety.pl###banner-sponsorski
 przemysl24.pl###banner-top
 dkl24.pl###banner10
 appmaniak.pl###bannerTop
-administrator24.info###banner_box_555
 pdaclub.pl###banner_news
 info-net.com.pl,tvkstella.pl###banners
 dostawczaki.pl###banners-section
