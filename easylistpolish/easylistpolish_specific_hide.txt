@@ -16,7 +16,6 @@ smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
 bbfan.pl,ciechanowinaczej.pl,egarwolin.pl,goral.info.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,mylomza.pl,nolesnica.pl,nowagazeta.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
-wiocha.pl###ad4sc
 fiatklubpolska.pl###ad_global_below_navbar
 zycieczestochowy.pl###ad_hype_container
 glamour.pl,kobieta.pl,mojpieknyogrod.pl,przyslijprzepis.pl###adl-placement-0-container
