@@ -1995,3 +1995,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 seniorbb.pl##.new-toplayer
 sportsinwinter.pl##.new-toplayer
+panoramaplock.pl##.new-toplayer
