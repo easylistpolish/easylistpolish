@@ -387,3 +387,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=panoramaplock.pl
 ||video.onnetwork.tv^$script,domain=seniorbb.pl
+||video.onnetwork.tv^$script,domain=olawa24.pl
