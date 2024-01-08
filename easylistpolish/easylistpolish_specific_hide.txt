@@ -1637,7 +1637,7 @@ glostorunia.pl##a[href^="http://www.krakvet.pl/"]
 darmowe-torenty.pl,tinypic.pl##a[href^="http://www.likeplus.eu/"]
 epainfo.pl##a[href^="http://www.pcmnzoz.pl/"]
 kanonierzy.com##a[href^="http://www.sfd.pl/"]
-kliknijwzdrowie.pl##a[href^="http://www.snoreeze.pl/"]
+
 sychar.org##a[href^="http://www.tolle.pl/"]
 swoszowice.org.pl##a[href^="http://www.unison.pl/"]
 e-grajewo.pl##a[href^="http://www.yasam.com.pl"]
