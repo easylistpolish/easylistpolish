@@ -277,7 +277,6 @@ supernowosci24.pl##[id^="r-"]
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
-||onnetwork.tv^$domain=donald.pl
 ||ono24.info^*^sad^
 ||partner.rankomat.pl/tracking/media^$image,third-party
 ||partner.rankomat.pl^$domain=skionline.pl
