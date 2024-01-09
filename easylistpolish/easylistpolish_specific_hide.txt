@@ -445,7 +445,7 @@ chelmski.eu##.ad-text-headbaner
 egospodarka.pl##.ad750
 pomponik.pl##.adStandardTopContainerWraper
 pomponik.pl##.adWraper
-raportkolejowy.pl##.ad_adInfo
+
 rrs24.net##.ad_img_baner_glowny
 radiofest.pl##.ad_in
 polskielupki.pl##.ad_info
