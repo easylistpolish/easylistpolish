@@ -1996,3 +1996,4 @@ ibytow.pl##.new-toplayer
 dziendobrypomorze.pl##.new-toplayer
 gwarek.com.pl##.new-toplayer
 wpu24.pl##.new-toplayer
+spotradomsko.pl##.new-toplayer
