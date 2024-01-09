@@ -387,3 +387,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=spotradomsko.pl
 ||video.onnetwork.tv^$script,domain=gwio.pl
+||video.onnetwork.tv^$script,domain=grudziadz365.pl
