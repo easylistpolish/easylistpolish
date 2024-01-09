@@ -629,7 +629,6 @@ pik.kielce.pl##.banner_reklama_el
 przekrojlokalny.pl,slubickie.info##.banner_zone
 chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,emkielce.pl,estrzelce.pl,ezamosc.pl,fakty.nl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,moszczenica.info,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,sloworegionu.pl,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,wadowiceonline.pl,wgmedia.eu##.bannergroup
 palukitv.pl##.bannergroup img
-
 newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
 fakty.nl##.bannergroupclear
 chnnews.pl##.bannergroupright-banner
@@ -852,6 +851,7 @@ mambiznes.pl##.header-billboard-area
 promocja.mielec.pl##.header-content
 magazynbiomasa.pl##.header-promo
 infokrakow24.pl,pyrzyce.info##.header-right
+terazkrosno.pl##.header-top .custom
 polacywewloszech.com##.header-top-right
 siechnice.com.pl##.header__ad-main
 divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
@@ -1001,7 +1001,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 bankier.pl##.nbAdv
-panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,tukutno.pl,ziemiagorowska.pl##.new-toplayer
+dziendobrypomorze.pl,gwarek.com.pl,ibytow.pl,panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,tukutno.pl,wpu24.pl,ziemiagorowska.pl##.new-toplayer
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1991,9 +1991,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ibytow.pl##.new-toplayer
-dziendobrypomorze.pl##.new-toplayer
-gwarek.com.pl##.new-toplayer
-wpu24.pl##.new-toplayer
-spotradomsko.pl##.new-toplayer
-terazkrosno.pl##.header-top .custom
