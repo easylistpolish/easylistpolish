@@ -1996,3 +1996,4 @@ grudziadz365.pl##.new-toplayer
 jastrowie24.pl##.new-toplayer
 extrawalcz.pl##.new-toplayer
 gst24.pl##.new-toplayer
+abcjanikowo24.pl##.new-toplayer
