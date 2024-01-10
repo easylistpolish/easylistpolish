@@ -374,6 +374,7 @@ onet.pl##.AdSlotPlaceholder_stickyWrapper__pLBcT
 optykamysliwska.pl##.AdvAnnouncements
 turek.net.pl##.BanerO
 turek.net.pl##.BanerP
+wiadomoscisasiedzkie.pl##.BanerRg
 turek.net.pl##.BanerS
 onet.pl##.CenterAd_containerTop__vg7M0
 wyspiarzniebieski.pl##.Comm336
@@ -1000,7 +1001,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 bankier.pl##.nbAdv
-dziendobrypomorze.pl,gwarek.com.pl,ibytow.pl,panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,tukutno.pl,wpu24.pl,ziemiagorowska.pl##.new-toplayer
+abcjanikowo24.pl,dziendobrypomorze.pl,ekstrasierpc.pl,extrawalcz.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,ibytow.pl,isanok.pl,jastrowie24.pl,mojakruszwica.pl,panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,tukutno.pl,wpu24.pl,ziemiagorowska.pl##.new-toplayer
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1129,7 +1130,6 @@ bobrzanie.pl##.reverie-header-banner
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 kinomoc.com##.rkads
-
 radiopik.pl##.rma
 radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 realmadryt.pl##.rmpl-adsense-desktop
@@ -1389,7 +1389,7 @@ interia.pl##[class^="article-body__ad-"]
 zpleszewa.pl,zwielkopolski24.pl##[class^="baner"]
 busko.com.pl##[class^="banner-"]
 nportal.no##[class^="commercial-"]
-dwakwadranse.pl,itvwisla.tv,naszabydgoszcz.pl,truck-van.pl##[class^="g g-"]
+dwakwadranse.pl,itvwisla.tv,naszabydgoszcz.pl,truck-van.pl,tylkotorun.pl##[class^="g g-"]
 tylkopilka.pl##[class^="g-col b-2 a"]
 abcdobrejmamy.pl,nysahot.pl##[class^="g-dyn a-"]
 elubaczow.com,zachodniemazowsze.info##[class^="g-single a-"]
@@ -1992,13 +1992,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-grudziadz365.pl##.new-toplayer
-jastrowie24.pl##.new-toplayer
-extrawalcz.pl##.new-toplayer
-gst24.pl##.new-toplayer
-abcjanikowo24.pl##.new-toplayer
-ekstrasierpc.pl##.new-toplayer
-mojakruszwica.pl##.new-toplayer
-isanok.pl##.new-toplayer
-wiadomoscisasiedzkie.pl##.BanerRg
-tylkotorun.pl##[class^="g g-"]
