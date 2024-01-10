@@ -1999,3 +1999,4 @@ gst24.pl##.new-toplayer
 abcjanikowo24.pl##.new-toplayer
 ekstrasierpc.pl##.new-toplayer
 mojakruszwica.pl##.new-toplayer
+isanok.pl##.new-toplayer
