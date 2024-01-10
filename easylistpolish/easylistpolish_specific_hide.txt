@@ -1994,3 +1994,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 grudziadz365.pl##.new-toplayer
 jastrowie24.pl##.new-toplayer
+extrawalcz.pl##.new-toplayer
