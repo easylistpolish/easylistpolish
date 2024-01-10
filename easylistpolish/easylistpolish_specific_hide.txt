@@ -32,6 +32,7 @@ ithardware.pl###art-topBaner
 polemi.co.uk###art_widget
 se.pl,urzadzamy.pl###article_zpr_shopping
 tv-pelplin.pl###aside .custom a[onclick]
+badaniaprenatalne.pl###attachment_21129
 tuhiszpania.pl###b_searchboxInc
 gazeta.pl###banC1
 gazeta.pl###banC2
@@ -1992,4 +1993,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-badaniaprenatalne.pl###attachment_21129
