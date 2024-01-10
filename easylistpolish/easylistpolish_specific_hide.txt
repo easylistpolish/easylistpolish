@@ -1129,7 +1129,7 @@ bobrzanie.pl##.reverie-header-banner
 stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 kinomoc.com##.rkads
-wiadomoscidebickie.pl##.rl-image-widget
+
 radiopik.pl##.rma
 radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
 realmadryt.pl##.rmpl-adsense-desktop
