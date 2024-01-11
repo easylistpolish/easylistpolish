@@ -1995,3 +1995,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 plonskwsieci.pl##.new-toplayer
 wrzesnia.info.pl##.new-toplayer
+haloursynow.pl##.new-toplayer
