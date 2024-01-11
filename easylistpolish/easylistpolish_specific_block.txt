@@ -387,3 +387,4 @@ supernowosci24.pl##[id^="r-"]
 ||video.onnetwork.tv^$script,domain=wiescimiedzychodzkie.pl
 ||video.onnetwork.tv^$script,domain=brodnica365.pl
 ||video.onnetwork.tv^$script,domain=chelmza365.pl
+||video.onnetwork.tv^$script,domain=leszno24.pl
