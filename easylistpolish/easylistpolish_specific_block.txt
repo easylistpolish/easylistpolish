@@ -385,3 +385,4 @@ supernowosci24.pl##[id^="r-"]
 ||video.onnetwork.tv^$script,domain=chocianow.com.pl
 ||video.onnetwork.tv^$script,domain=naszradziejow.pl
 ||video.onnetwork.tv^$script,domain=wiescimiedzychodzkie.pl
+||video.onnetwork.tv^$script,domain=brodnica365.pl
