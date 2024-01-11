@@ -1712,7 +1712,7 @@ tuolawa.pl##a[href^="https://www.hipol.pl/"]
 radiogol.pl,vwgolf.pl##a[href^="https://www.iparts."]
 podhale-sport.pl##a[href^="https://www.karpatiabs.pl"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
-cryptonews.pl##a[href^="https://www.koinal.io/"] img
+
 radio.bialystok.pl##a[href^="https://www.nieteatr.pl/wydarzenia/one-week-"]
 radio.bialystok.pl##a[href^="https://www.oifp.eu/repertuar/dyptyk-"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
