@@ -1001,7 +1001,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 bankier.pl##.nbAdv
-abcjanikowo24.pl,dziendobrypomorze.pl,ekstrasierpc.pl,extrawalcz.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,ibytow.pl,isanok.pl,jastrowie24.pl,mojakruszwica.pl,panoramaplock.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,tukutno.pl,wpu24.pl,ziemiagorowska.pl##.new-toplayer
+abcjanikowo24.pl,dziendobrypomorze.pl,ekstrasierpc.pl,extrawalcz.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,haloursynow.pl,ibytow.pl,isanok.pl,jastrowie24.pl,mojakruszwica.pl,panoramaplock.pl,plonskwsieci.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,tukutno.pl,wpu24.pl,wrzesnia.info.pl,ziemiagorowska.pl##.new-toplayer
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1712,7 +1712,6 @@ tuolawa.pl##a[href^="https://www.hipol.pl/"]
 radiogol.pl,vwgolf.pl##a[href^="https://www.iparts."]
 podhale-sport.pl##a[href^="https://www.karpatiabs.pl"]
 kiep.pl##a[href^="https://www.kiep.pl/assetcdn/get.php?f="]
-
 radio.bialystok.pl##a[href^="https://www.nieteatr.pl/wydarzenia/one-week-"]
 radio.bialystok.pl##a[href^="https://www.oifp.eu/repertuar/dyptyk-"]
 rolnictwo.com.pl##a[href^="https://www.partner24.pl/"]
@@ -1992,6 +1991,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-plonskwsieci.pl##.new-toplayer
-wrzesnia.info.pl##.new-toplayer
-haloursynow.pl##.new-toplayer
