@@ -382,3 +382,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=expresskaszubski.pl
+||video.onnetwork.tv^$script,domain=chocianow.com.pl
