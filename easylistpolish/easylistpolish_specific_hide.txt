@@ -1785,7 +1785,7 @@ fotelik.info##div#addframe
 gorzow24.pl##div#ims_over_cont
 spottedalert.pl##div#mvp-leader-wrap
 gostynin.info##div#popup-billboard
-nowemiasto.com.pl##div#righttable a[title="komunikat"]
+
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 nowafarmacja.pl##div#ulixes-background
 lebork24.info##div.ai-viewport-1
