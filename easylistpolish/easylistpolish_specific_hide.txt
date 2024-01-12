@@ -1994,3 +1994,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wiesci.com.pl##aside a[href^="https://wiejskachatazielonka.pl"]
+infor.pl##.adsContent
