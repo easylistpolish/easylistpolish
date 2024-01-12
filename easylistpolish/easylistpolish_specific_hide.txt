@@ -476,6 +476,7 @@ ifrancja.fr##.ads-single-container
 rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
 businessinsider.com.pl,plejada.pl##.adsContainer
+infor.pl##.adsContent
 tarnowiak.pl##.adsRightBox
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,to.com.pl##.adsSlotContainer
 livescore.in##.ads__text
@@ -1258,7 +1259,7 @@ bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 cosiedzieje.tv,expresskaszebe.pl,gostynin24.pl,kk24.pl,malbork1.pl,nasztomaszow.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,tygodnik-krapkowicki.pl,zachodniopomorska.tv##.tipad_tag
-kk24.pl##.tipad_tag + a
+kk24.pl,rzeszow-info.pl##.tipad_tag + a
 transfermarkt.pl##.tm-header > div > img[src$=".gif"]
 meblarskapolska.pl##.tm-promt-image
 audycje.tokfm.pl##.tok-advertisement
@@ -1314,7 +1315,7 @@ gazetawielkopolska.pl,prudnik24.pl##.widget-3
 gloskrakowa.pl##.widget-4
 lsw24.pl##.widget-ad-image
 lokalna24.pl##.widget-advert_centralplacement
-faktykaliskie.info,gostynin24.pl,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
+faktykaliskie.info,gostynin24.pl,halorzeszow.pl,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 40ton.net##.widget_adbaner_widget
@@ -1432,6 +1433,7 @@ swiatkoni.pl##[id^="klikacz"]
 agropolska.pl,budoskop.pl##[id^="mediaContent"]
 gloskoninski.pl##[id^="media_image-"]
 jasnet.pl##[id^="metaslider-id-"]
+supernowosci24.pl##[id^="mobile-ad"]
 supernowosci24.pl##[id^="r-"]
 forumzabki.pl##[id^="rek_rozwijana_bh"]
 forumzabki.pl##[id^="reklama"]
@@ -1760,6 +1762,7 @@ allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
 polski-tenis.pl##aside .plakat
 gorliczanin.pl##aside > section[id^="media_image-"]
+wiesci.com.pl##aside a[href^="https://wiejskachatazielonka.pl"]
 jaw.pl##aside div a > img
 podlaskie.tv##aside#secondary.widget-area
 nowy-sacz.info##aside#text-6
@@ -1785,7 +1788,6 @@ fotelik.info##div#addframe
 gorzow24.pl##div#ims_over_cont
 spottedalert.pl##div#mvp-leader-wrap
 gostynin.info##div#popup-billboard
-
 info-ketrzyn24.pl##div#secondary img[sizes*="100vw"]
 nowafarmacja.pl##div#ulixes-background
 lebork24.info##div.ai-viewport-1
@@ -1993,8 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-wiesci.com.pl##aside a[href^="https://wiejskachatazielonka.pl"]
-infor.pl##.adsContent
-supernowosci24.pl##[id^="mobile-ad"]
-halorzeszow.pl##.widget-advert_placement
-rzeszow-info.pl##.tipad_tag + a
