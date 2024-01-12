@@ -101,6 +101,7 @@ zywiecinfo.pl###blockadblock
 konin24.info###box
 laboratoria.net###box40
 bilgorajska.pl,gada.pl,zamojska.pl###box_r
+badaniaprenatalne.pl###caption-attachment-19570
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
 katowice-airport.com###carwash-banner-c
@@ -1995,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-badaniaprenatalne.pl###caption-attachment-19570
