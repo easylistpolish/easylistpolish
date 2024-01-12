@@ -1996,3 +1996,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wiesci.com.pl##aside a[href^="https://wiejskachatazielonka.pl"]
 infor.pl##.adsContent
 supernowosci24.pl##[id^="mobile-ad"]
+halorzeszow.pl##.widget-advert_placement
