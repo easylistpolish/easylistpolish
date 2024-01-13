@@ -232,7 +232,7 @@ infoilawa.pl###popup-wrapper
 mapa.szukacz.pl,szukacz.pl###popupContainer
 zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
-polskaizbabranzypogrzebowej.pl###post-2637
+
 nudziara.pl###post.format_post.nudziara.masonry-brick
 mazopolska.pl###posts-banner
 babiel.com.pl###prawa
