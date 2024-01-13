@@ -971,6 +971,7 @@ twojaslupca.pl##.mobile-advert
 twojaslupca.pl##.mobile-advert2
 fsd24.pl,tvnakarte.eu##.mod-banners
 bobrowniki.tv##.mod_banners_bottom_banners
+barlinek24.pl##.mod_djbanners
 next.gazeta.pl##.mod_sponsoredArticle
 softonic.pl##.modal-ad-exit-intent
 zpierwszegotloczenia.pl##.modal-backdrop
@@ -1995,4 +1996,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-barlinek24.pl##.mod_djbanners
