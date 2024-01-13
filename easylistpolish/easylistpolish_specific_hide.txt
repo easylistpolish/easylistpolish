@@ -617,7 +617,7 @@ forum-bron.pl,muzyczneradio.pl##.banner1
 id-24.pl##.banner1-wrap
 codziennikmlawski.pl##.banner3
 goliard.pl##.bannerBg
-stadionowioprawcy.net##.bannerBox a[target="_blank"]
+
 zambrow.org##.bannerRotator
 mojanorwegia.pl##.bannerTop
 3trzy3.pl##.banner_1
