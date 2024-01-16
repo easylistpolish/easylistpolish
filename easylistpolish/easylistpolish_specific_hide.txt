@@ -824,7 +824,6 @@ weranda.pl##.gl_slot_text
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 gorzow24.pl##.gml
 dspodcast.pl##.gogreen
-
 log4.pl##.grafikaKlienta
 topagrar.pl,wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
