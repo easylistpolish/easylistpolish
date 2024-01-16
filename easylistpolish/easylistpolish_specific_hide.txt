@@ -1997,3 +1997,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 polska-morska.pl##.reklama + p
 powiatrawicki.info##.new-toplayer
+pleszew24.info##.new-toplayer
