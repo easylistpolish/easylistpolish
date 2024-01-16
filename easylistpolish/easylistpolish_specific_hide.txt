@@ -483,7 +483,7 @@ terazgostynin.pl##.ads__top
 doba.pl##.ads_row
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,atrexpress.com.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl##.adv
+24jgora.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl##.adv
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
@@ -1995,4 +1995,3 @@ wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bbfan.pl##.adv
