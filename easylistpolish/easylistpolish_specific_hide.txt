@@ -2002,3 +2002,4 @@ modnymagazyn.pl##.new-toplayer
 wybudujemy.com.pl##.new-toplayer
 motomagazyn.com##.new-toplayer
 prawobrzeze24.pl##.new-toplayer
+londynek.net##ul[data-sponsored-links-content-type]
