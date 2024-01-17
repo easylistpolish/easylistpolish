@@ -2000,3 +2000,4 @@ e-lubon.pl##.new-toplayer
 glossokolowa.pl##.new-toplayer
 modnymagazyn.pl##.new-toplayer
 wybudujemy.com.pl##.new-toplayer
+motomagazyn.com##.new-toplayer
