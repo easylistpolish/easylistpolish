@@ -1997,3 +1997,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 sportsinwinter.pl##[class*="banner--"]
 hej.slupsk.pl##.new-toplayer
 e-lubon.pl##.new-toplayer
+glossokolowa.pl##.new-toplayer
