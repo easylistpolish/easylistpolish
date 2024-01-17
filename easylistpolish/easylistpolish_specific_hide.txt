@@ -1998,3 +1998,4 @@ sportsinwinter.pl##[class*="banner--"]
 hej.slupsk.pl##.new-toplayer
 e-lubon.pl##.new-toplayer
 glossokolowa.pl##.new-toplayer
+modnymagazyn.pl##.new-toplayer
