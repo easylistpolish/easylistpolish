@@ -1130,7 +1130,7 @@ stoczniowcy.pl##.right
 gazetagazeta.com##.right > a > img
 kinomoc.com##.rkads
 radiopik.pl##.rma
-radiopik.pl##.rma a[href^="https://www.autodoc.pl"]
+
 realmadryt.pl##.rmpl-adsense-desktop
 tromil.pl##.rotator-ceneo
 bytomski.pl##.rotatorTop
