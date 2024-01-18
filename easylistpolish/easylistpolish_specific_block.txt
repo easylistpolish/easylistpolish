@@ -88,6 +88,7 @@
 ^partner^$domain=podajdalej.info.pl
 ^partnerzy^$domain=szkolasen.com|widzewtomy.net
 ^pasek_reklam^$domain=proszkow.eu
+^placeholder_wp^$domain=benchmark.pl
 ^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
 ^promocja-$domain=edebno.pl|motocykle125.pl|olawa24.pl
@@ -382,4 +383,3 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^placeholder_wp^$domain=benchmark.pl
