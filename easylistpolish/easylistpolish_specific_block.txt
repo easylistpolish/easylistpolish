@@ -217,7 +217,6 @@ supernowosci24.pl##[id^="r-"]
 ||greencanoe.pl^*^248x248px_
 ||hiszpania-apartamenty.pl^*^hotele.
 ||hiszpania-apartamenty.pl^*^samochody.
-||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
