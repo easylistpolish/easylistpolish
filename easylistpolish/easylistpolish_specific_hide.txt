@@ -2,7 +2,6 @@ portalpszczelarski.pl###AdBig
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-deadwalking.tv###FBox
 iv.pl###FlyingLayer
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
