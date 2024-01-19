@@ -49,7 +49,6 @@ eostroleka.pl###baner_A_mobile
 infomare.pl###baneranim
 portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
-krs-online.com.pl###banner + div
 testynaojcostwo.pl###banner-17
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
