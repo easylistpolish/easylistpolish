@@ -719,7 +719,7 @@ dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
-4programmers.net##.container-fluid > a > img[width="728"][height="91"]
+
 wiadomoscihandlowe.pl##.container-topads
 comparic.pl##.container11
 comparic.pl##.container16
