@@ -1893,7 +1893,6 @@ calc.pl##div[style="margin: 0 auto 15px auto; text-align: center; min-height: 22
 businesstraveller.pl##div[style="margin: 10px auto; text-align:center;"]
 dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
-
 eostroleka.pl##div[style^="max-width: 715px"]
 poloniusz.pl##div[style^="width:194px;"]
 tkn24.pl##font[color="SILVER"]
