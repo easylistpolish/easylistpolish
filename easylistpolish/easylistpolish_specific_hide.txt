@@ -445,6 +445,7 @@ pomponik.pl##.adWraper
 rrs24.net##.ad_img_baner_glowny
 radiofest.pl##.ad_in
 polskielupki.pl##.ad_info
+bezprawnik.pl##.ad_slot_height_manager_wrapper_bp_sdh1
 bezprawnik.pl##.ad_slot_height_manager_wrapper_bp_sdh2
 grodzisknews.pl##.ad_suw_nad
 egryfino.pl,gryfinska.pl##.ada
@@ -1990,4 +1991,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bezprawnik.pl##.ad_slot_height_manager_wrapper_bp_sdh1
