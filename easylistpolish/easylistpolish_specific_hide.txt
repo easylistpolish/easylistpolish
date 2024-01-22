@@ -1993,3 +1993,4 @@ portalsremski.pl##.new-toplayer
 nrypin.pl##.new-toplayer
 terazstrzelno.pl##.new-toplayer
 legio24.pl##.new-toplayer
+czasbrodnicy.pl##.new-toplayer
