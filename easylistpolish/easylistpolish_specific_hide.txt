@@ -1990,3 +1990,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 e-chelmno.pl##.new-toplayer
 portalsremski.pl##.new-toplayer
+dziennikhistoryczny.pl##.new-toplayer
