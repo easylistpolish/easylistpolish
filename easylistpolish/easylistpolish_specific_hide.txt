@@ -1995,3 +1995,4 @@ terazstrzelno.pl##.new-toplayer
 legio24.pl##.new-toplayer
 czasbrodnicy.pl##.new-toplayer
 hej.rzeszow.pl##.new-toplayer
+wrzesnia.info.pl##[class*="banner--"]
