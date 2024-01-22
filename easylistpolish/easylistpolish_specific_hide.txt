@@ -1991,3 +1991,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 e-chelmno.pl##.new-toplayer
 portalsremski.pl##.new-toplayer
 nrypin.pl##.new-toplayer
+terazstrzelno.pl##.new-toplayer
