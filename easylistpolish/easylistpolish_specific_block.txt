@@ -191,7 +191,6 @@ supernowosci24.pl##[id^="r-"]
 ||esensja.pl^*^madbooks_
 ||esensja.pl^*^skapiec-
 ||estrzelce.pl^*^*maral.
-||eswinoujscie.pl^*-noclegi-baza-
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||eswinoujscie.pl^*^zdjecia-slubne-
