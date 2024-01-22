@@ -1271,6 +1271,7 @@ mojewronki.pl##.topbar-inner
 gazeta-mosina.pl##.topblock
 naszrynek.pl,portalwloclawek.pl##.toplayer
 mpolska24.pl##.tplAds
+biegaj40minut.pl##.training-display
 synonimy.pl##.translation-badge
 slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
@@ -1987,4 +1988,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-biegaj40minut.pl##.training-display
