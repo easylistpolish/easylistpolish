@@ -193,7 +193,6 @@ supernowosci24.pl##[id^="r-"]
 ||estrzelce.pl^*^*maral.
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
-||eswinoujscie.pl^*^zdjecia-slubne-
 ||fadstrack.com^$script,domain=make-cash.pl
 ||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
