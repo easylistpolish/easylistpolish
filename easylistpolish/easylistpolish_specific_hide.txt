@@ -1987,3 +1987,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+bieganie.pl##img[src="https://bieganie.pl/wp-content/uploads/2023/04/400x400_v1.jpg"]
