@@ -389,7 +389,7 @@ starachowicka.pl##.SzBBB163
 esopot.pl,grudziadz365.pl,gwio.pl,hej.mielec.pl,kolniak24.eu,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,portalsremski.pl,pulsciechanowa.pl,pulsgminy.pl,sompolno24.pl,tarnowska.pl,tygodnik.pl,uniejow.net.pl,wkikole.pl,wpu24.pl,wrzesnia.info.pl,zawiercie365.pl,zlomzy.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
-facetpo40.pl##._ad
+
 kartuzy.info##._ad_loaded
 kartuzy.info,koscierski.info##._ap_ad
 sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
