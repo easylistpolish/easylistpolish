@@ -995,7 +995,7 @@ mdhmyslowice.pl##.nav a[rel="noopener noreferrer"]
 fcinter.pl##.nav__sponsor__list
 budosfera.eu,budowlanematerialy.eu,budownictwo.co,fight24.pl,forumfirm.eu,kuchniosfera.pl,meblarskapolska.pl,meblarstwo.eu,meblosfera.pl,narzedziapolska.pl,obrabiarkidodrewna.eu,stolarkabudowlana.eu,tapicerstwo.co,tkaninyobiciowe.eu##.navbar-ad-section
 bankier.pl##.nbAdv
-abcjanikowo24.pl,czasbrodnicy.pl,dziendobrypomorze.pl,e-chelmno.pl,e-lubon.pl,ekstrasierpc.pl,extrawalcz.pl,glossokolowa.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,haloursynow.pl,hej.rzeszow.pl,hej.slupsk.pl,ibytow.pl,isanok.pl,jastrowie24.pl,legio24.pl,modnymagazyn.pl,mojakruszwica.pl,motomagazyn.com,nrypin.pl,panoramaplock.pl,pleszew24.info,plonskwsieci.pl,portalsremski.pl,powiatrawicki.info,prawobrzeze24.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,terazstrzelno.pl,tukutno.pl,wpu24.pl,wrzesnia.info.pl,wybudujemy.com.pl,ziemiagorowska.pl##.new-toplayer
+abcjanikowo24.pl,czasbrodnicy.pl,dziendobrypomorze.pl,e-chelmno.pl,e-lubon.pl,ekstrasierpc.pl,extrawalcz.pl,glossokolowa.pl,grudziadz365.pl,gst24.pl,gwarek.com.pl,haloursynow.pl,hej.rzeszow.pl,hej.slupsk.pl,ibytow.pl,isanok.pl,jastrowie24.pl,koscianiak.pl,legio24.pl,magazynzuzel.pl,modnymagazyn.pl,mojakruszwica.pl,motomagazyn.com,nrypin.pl,panoramaplock.pl,pleszew24.info,plonskwsieci.pl,portalsremski.pl,powiatrawicki.info,prawobrzeze24.pl,rydzyna24.pl,seniorbb.pl,sportsinwinter.pl,spotradomsko.pl,terazstrzelno.pl,tukutno.pl,tyna.info.pl,wpu24.pl,wrzesnia.info.pl,wybudujemy.com.pl,ziemiagorowska.pl##.new-toplayer
 spidersweb.pl##.newAd
 mojanorwegia.pl##.newLayerBack
 mojanorwegia.pl##.newLayerOuter
@@ -1988,7 +1988,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tyna.info.pl##.new-toplayer
-rydzyna24.pl##.new-toplayer
-magazynzuzel.pl##.new-toplayer
-koscianiak.pl##.new-toplayer
