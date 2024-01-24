@@ -1991,3 +1991,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 tyna.info.pl##.new-toplayer
 rydzyna24.pl##.new-toplayer
 magazynzuzel.pl##.new-toplayer
+koscianiak.pl##.new-toplayer
