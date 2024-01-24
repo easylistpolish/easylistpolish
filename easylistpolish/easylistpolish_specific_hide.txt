@@ -1912,6 +1912,7 @@ gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 chojna24.pl##img[src*="googleusercontent."]
+bielskirynek.pl##img[src*="pasek_baner"]
 beskid-niski.pl##img[src="/bannery/banerbucz.gif"]
 beskid-niski.pl##img[src="/bannery/bn1_150x60.gif"]
 beskid-niski.pl##img[src="/bannery/debowy-jar.gif"]
@@ -1987,4 +1988,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bielskirynek.pl##img[src*="pasek_baner"]
