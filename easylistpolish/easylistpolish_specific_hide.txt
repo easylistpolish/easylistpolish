@@ -1384,7 +1384,7 @@ radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
 zpleszewa.pl,zwielkopolski24.pl##[class^="baner"]
 busko.com.pl##[class^="banner-"]
-nportal.no##[class^="commercial-"]
+
 dwakwadranse.pl,itvwisla.tv,naszabydgoszcz.pl,truck-van.pl,tylkotorun.pl##[class^="g g-"]
 tylkopilka.pl##[class^="g-col b-2 a"]
 abcdobrejmamy.pl,nysahot.pl##[class^="g-dyn a-"]
