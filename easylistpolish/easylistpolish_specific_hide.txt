@@ -1991,3 +1991,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 kurierlubelski.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 nowosci.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
+nowiny24.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
