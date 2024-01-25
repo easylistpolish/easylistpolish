@@ -1990,3 +1990,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 kurierlubelski.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
+nowosci.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
