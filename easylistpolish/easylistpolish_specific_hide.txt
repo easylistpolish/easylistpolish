@@ -652,6 +652,7 @@ terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
 bielsko.tv,pless.pl,tychy.info##.blok-baner
 bielskiedrogi.pl,czecho.pl,czechowice.biz,czechowice.tv,pless.pl,pszczyna.biz,pszczyna.tv,tychy.info##.blok-billboard
+bielsko.info##.blok-billboard-google
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
 bielskiedrogi.pl,bielsko.tv,czecho.pl,czechowice.biz,pless.pl,pszczyna.biz,tychy.info##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
@@ -1987,4 +1988,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bielsko.info##.blok-billboard-google
