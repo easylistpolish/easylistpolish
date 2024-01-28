@@ -198,7 +198,7 @@ supernowosci24.pl##[id^="r-"]
 ||forum.haszysz.com/solarr^$image
 ||fwcdn.pl^*^ready^$subdocument,domain=filmweb.pl
 ||g.cda.pl/mediafile/acyHQyrkZus.mp4
-||g.cda.pl/player.php?ads
+
 ||gazetasenior.pl^*_300x300_
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
