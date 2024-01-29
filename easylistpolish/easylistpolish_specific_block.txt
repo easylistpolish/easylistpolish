@@ -247,7 +247,7 @@ supernowosci24.pl##[id^="r-"]
 ||mazopolska.pl^*^protech-baner
 ||mazury.info.pl^1logo^
 ||mfiles.pl^*^comarch_
-||mgsm.pl/js/getSkapiecAds.
+
 ||miastokolobrzeg.pl^*^brico
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
