@@ -1994,3 +1994,4 @@ szemud24.pl##.new-toplayer
 dziennikhistoryczny.pl##.new-toplayer
 bialobrzegi24.net##.new-toplayer
 mypolkowice.pl##.new-toplayer
+nowysztum.pl##.new-toplayer
