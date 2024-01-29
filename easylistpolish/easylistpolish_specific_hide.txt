@@ -1995,3 +1995,4 @@ mypolkowice.pl##.new-toplayer
 nowysztum.pl##.new-toplayer
 naszpruszcz.pl##.new-toplayer
 silesia24.pl##[class$="__ad"]
+sosnowiecki.pl##.m-ads-revive__zone
