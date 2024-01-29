@@ -1995,3 +1995,4 @@ dziennikhistoryczny.pl##.new-toplayer
 bialobrzegi24.net##.new-toplayer
 mypolkowice.pl##.new-toplayer
 nowysztum.pl##.new-toplayer
+naszpruszcz.pl##.new-toplayer
