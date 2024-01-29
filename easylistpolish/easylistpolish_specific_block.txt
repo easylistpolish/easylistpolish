@@ -252,7 +252,6 @@ supernowosci24.pl##[id^="r-"]
 ||naszekielce.com^*_250x500.
 ||naszsrem.pl^*^psb_mrowka_
 ||nevicom.pl/wyswietl_baner.$script,third-party
-
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^piroshop_
