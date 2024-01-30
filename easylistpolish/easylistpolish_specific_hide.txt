@@ -1572,6 +1572,7 @@ audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=sys
 audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=23&key=11bc81cfd831311e85f56ad6e4e38dcc2e3598d40be4ea085d4f707ea11700f5"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 bielsko.info##a[href="https://www.bielsko.info/reklama"]
+biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
@@ -1989,4 +1990,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
