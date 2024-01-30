@@ -1993,3 +1993,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 chelmza365.pl##.new-toplayer
 e-golub.info.pl##.new-toplayer
 esopot.pl##.new-toplayer
+e-wabrzezno.info.pl##.new-toplayer
