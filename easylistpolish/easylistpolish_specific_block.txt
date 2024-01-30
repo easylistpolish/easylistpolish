@@ -259,7 +259,6 @@ supernowosci24.pl##[id^="r-"]
 ||nowytydzien.pl^*^baner-330x200.
 ||nowytydzien.pl^*^neoseo2-
 ||nyx-nyx-nyx.dotabuff.com^$subdocument
-
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
