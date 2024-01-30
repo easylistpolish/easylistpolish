@@ -1996,3 +1996,4 @@ esopot.pl##.new-toplayer
 e-wabrzezno.info.pl##.new-toplayer
 wiescimiedzychodzkie.pl##.new-toplayer
 pakosc24.pl##.new-toplayer
+gazetarogozinska.pl##.new-toplayer
