@@ -357,7 +357,7 @@ supernowosci24.pl##[id^="r-"]
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
 ||wszczecinie.pl^*^www/images^
-||www.filmweb.pl/welcomeScreenJS
+
 ||xlomza.pl^*^kukasz08_
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xtb.com^$script,domain=kantorywalut.pl
