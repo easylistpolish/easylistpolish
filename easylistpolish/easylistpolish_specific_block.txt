@@ -104,7 +104,6 @@
 ^sam-pro-images^$domain=mojaswidnica.pl
 ^statystyk_box.$domain=bajery.pl
 ^therapy.$domain=tvklodzka.pl
-
 ^xbaner_$domain=kuriernauczycielski.pl
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
