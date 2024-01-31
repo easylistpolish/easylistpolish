@@ -1597,6 +1597,7 @@ nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
 portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
+biokurier.pl##a[href="https://www.worldfood.pl/?utm_source=banner&utm_medium=biokurier&utm_campaign=WFP2024"]
 angolia.co.uk##a[href="https://www.zaklad-pogrzebowy-uk.co.uk/"]
 angolia.co.uk##a[href="https://zbiorka.uk/"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
@@ -1990,4 +1991,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-biokurier.pl##a[href="https://www.worldfood.pl/?utm_source=banner&utm_medium=biokurier&utm_campaign=WFP2024"]
