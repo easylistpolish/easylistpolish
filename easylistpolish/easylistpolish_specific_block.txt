@@ -365,3 +365,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banners^$domain=zambrowiacy.pl
+-baner.$domain=tkn24.pl
