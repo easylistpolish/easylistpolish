@@ -1995,3 +1995,4 @@ pulsgminy.pl##.new-toplayer
 lowiczanin.info##.new-toplayer
 myglogow.pl##.new-toplayer
 extraswiecie.pl##[class^="g g-"]
+rudaslaska.com.pl##.m-ads-revive__zone
