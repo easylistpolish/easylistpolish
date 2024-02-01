@@ -1994,3 +1994,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 pulsgminy.pl##.new-toplayer
 lowiczanin.info##.new-toplayer
 myglogow.pl##.new-toplayer
+extraswiecie.pl##[class^="g g-"]
