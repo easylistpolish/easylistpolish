@@ -1993,3 +1993,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 pulsgminy.pl##.new-toplayer
 lowiczanin.info##.new-toplayer
+myglogow.pl##.new-toplayer
