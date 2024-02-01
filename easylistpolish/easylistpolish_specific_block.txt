@@ -332,7 +332,6 @@ supernowosci24.pl##[id^="r-"]
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
 ||tkaninyobiciowe.eu^*^dik-
-||tkaninyobiciowe.eu^*^nastex.
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^parownice-
 ||trzoda-chlewna.com.pl^*^mainbg_img.
