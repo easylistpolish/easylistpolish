@@ -331,7 +331,6 @@ supernowosci24.pl##[id^="r-"]
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
-||tenis.net.pl^*^oszustwo300x
 ||tkaninyobiciowe.eu^*^dik-
 ||tkaninyobiciowe.eu^*^nastex.
 ||transg.pl^*^meblohaus_
