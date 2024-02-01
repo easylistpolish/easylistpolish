@@ -1998,3 +1998,4 @@ extraswiecie.pl##[class^="g g-"]
 rudaslaska.com.pl##.m-ads-revive__zone
 zory.com.pl##.m-ads-revive__zone
 konecki24.pl###ad--bill-top
+bitcoin-info.pl##a[href="https://coingi.com/pl"]
