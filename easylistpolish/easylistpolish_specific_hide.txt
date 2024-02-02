@@ -1996,3 +1996,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 gwio.pl##.new-toplayer
 naszradziejow.pl##.new-toplayer
 brodnica365.pl##.new-toplayer
+infomogilno24.pl##.new-toplayer
