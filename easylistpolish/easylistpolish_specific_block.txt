@@ -234,7 +234,7 @@ supernowosci24.pl##[id^="r-"]
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
 ||masztu.pl^*^udzialowiec.
-||maszwolne.pl^*^pages^
+
 ||mazopolska.pl^*-300x150.
 ||mazopolska.pl^*^protech-baner
 ||mazury.info.pl^1logo^
