@@ -245,7 +245,6 @@ supernowosci24.pl##[id^="r-"]
 ||motocykle125.pl^*^junak^$subdocument
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*_250x500.
-||naszsrem.pl^*^psb_mrowka_
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
