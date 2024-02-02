@@ -1999,3 +1999,4 @@ brodnica365.pl##.new-toplayer
 infomogilno24.pl##.new-toplayer
 leszno24.pl##.new-toplayer
 ipoddebice.pl##.new-toplayer
+faktyct.pl##.new-toplayer
