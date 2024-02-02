@@ -2004,3 +2004,4 @@ ejarocin.pl##.new-toplayer
 zlomzy.pl##.new-toplayer
 radzyninfo.pl##.new-toplayer
 zawiercie365.pl##.new-toplayer
+myszkow365.pl##.new-toplayer
