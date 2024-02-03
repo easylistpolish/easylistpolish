@@ -262,7 +262,6 @@ supernowosci24.pl##[id^="r-"]
 ||pfcc.eu^*^goldrop.
 ||plonsk24.pl^*^img_67^
 ||plonsk24.pl^*^img_72^
-
 ||podhale24.pl/uploads/r^
 ||poland.us^*^katalog^
 ||polonia-peterborough.uk^*^studio-fotograficzne-
