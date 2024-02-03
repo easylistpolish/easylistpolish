@@ -318,7 +318,7 @@ supernowosci24.pl##[id^="r-"]
 ||systempartnerski.pl^$subdocument,domain=icyfrowypolsat.pl
 ||systemyplatnosci.com^*^fundacja_zoodoptuj.
 ||systemyplatnosci.com^*^hotpay_
-||szczecinek.com^*^inline_
+
 ||szukam-ksiazki.pl/marbet_
 ||szukam-ksiazki.pl^*^havana.
 ||tanuki.pl/imglink^
