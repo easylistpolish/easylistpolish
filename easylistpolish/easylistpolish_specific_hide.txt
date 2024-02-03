@@ -1993,3 +1993,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+bitcoin-online.pl##a[href="https://nexo.io/ref/s75q6a0lv7?src=web-link"]
