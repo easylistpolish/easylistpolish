@@ -250,7 +250,7 @@ supernowosci24.pl##[id^="r-"]
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
 ||nowytydzien.pl^*^baner-330x200.
-||nowytydzien.pl^*^neoseo2-
+
 ||nyx-nyx-nyx.dotabuff.com^$subdocument
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
