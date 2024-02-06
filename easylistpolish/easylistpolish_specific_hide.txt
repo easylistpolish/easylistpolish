@@ -1528,6 +1528,7 @@ audiostereo.pl##a[href="https://audiotrendt.com.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 staleo.pl##a[href="https://baumalog.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
+bitcoin.pl##a[href="https://bit.ly/46VOjAf"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 bitcoin-info.pl##a[href="https://coingi.com/pl"]
@@ -1994,4 +1995,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bitcoin.pl##a[href="https://bit.ly/46VOjAf"]
