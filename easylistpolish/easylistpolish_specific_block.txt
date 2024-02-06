@@ -133,7 +133,6 @@ supernowosci24.pl##[id^="r-"]
 ||blogomaniak.pl^*-ceneo-
 ||bluepartner.pl^$script,domain=infofordon.pl
 ||bobrowniki.tv^*^praca-piekary.
-
 ||botland.com.pl^*^banery_$script
 ||bstok.pl^*^iparts.
 ||bstok.pl^*^masal-
