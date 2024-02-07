@@ -178,7 +178,6 @@ supernowosci24.pl##[id^="r-"]
 ||esanok.pl/dodatki^
 ||esensja.pl^*^madbooks_
 ||esensja.pl^*^skapiec-
-
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||fadstrack.com^$script,domain=make-cash.pl
