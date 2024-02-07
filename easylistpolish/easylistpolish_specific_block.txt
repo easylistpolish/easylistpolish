@@ -154,7 +154,7 @@ supernowosci24.pl##[id^="r-"]
 ||dothaish.net^$script
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
-||dziennikpolski24.pl^*^ads?$xmlhttprequest,domain=dziennikpolski24.pl
+
 ||dzisiajwgliwicach.pl^*^sixsilver-
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
