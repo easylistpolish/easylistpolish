@@ -249,7 +249,6 @@ supernowosci24.pl##[id^="r-"]
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
-
 ||partner.rankomat.pl^$domain=skionline.pl
 ||pfcc.eu^*^automaty.
 ||pfcc.eu^*^choryzont.
