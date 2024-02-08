@@ -1814,6 +1814,7 @@ miechowski.pl##div[class*="sgpb-popup-"]
 naekranie.pl##div[class="re prawa-szpalta"]
 rekomendowanefirmy.pl##div[class^="AD-"]
 stockwatch.pl##div[class^="ADbox"]
+onet.pl##div[class^="AdSlotPlaceholder_"]
 dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[class^="a-single a-"]
 zielonanews.pl##div[class^="a-single"]
 dzwignice.info##div[class^="adSliderIn"]
@@ -1997,4 +1998,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-onet.pl##div[class^="AdSlotPlaceholder_"]
