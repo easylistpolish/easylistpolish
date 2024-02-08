@@ -158,7 +158,7 @@ e-grajewo.pl###headpartnership
 forum.pasja-informatyki.pl###helbook
 bankier.pl###home-ecom-box
 kujawy.info###homepageUnderEightAds
-mjakmama24.pl###hook_box_top1
+mjakmama24.pl,poradnikzdrowie.pl###hook_box_top1
 ssangyong.pl###hot_offer
 comparic.pl###icegram_messages_container
 satkurier.pl###idmnet_horizontal_top_750x100
@@ -2000,4 +2000,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poradnikzdrowie.pl###hook_box_top1
