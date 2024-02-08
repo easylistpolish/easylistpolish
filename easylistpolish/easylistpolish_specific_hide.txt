@@ -623,6 +623,7 @@ weranda.pl##.banner_container
 confero.pl##.banner_panel
 zmpd.pl##.banner_po_lewej
 pik.kielce.pl##.banner_reklama_el
+slazag.pl##.banner_top
 przekrojlokalny.pl,slubickie.info##.banner_zone
 bitcoin-online.pl,chnnews.pl,dziennikpolicki.pl,e-sadownictwo.pl,echoszczno.pl,edunews.pl,emkielce.pl,estrzelce.pl,ezamosc.pl,fakty.nl,fightsport.pl,fsd24.pl,gazetaregionalna.pl,gloszabrza24.pl,gniezno24.com,haszysz.com,hi-fi.com.pl,jedziemynasycylie.pl,kpspm.pl,krosno112.pl,krynica.tv,moszczenica.info,msfera.pl,norwegofil.pl,okiemrolnika.pl,polskaniepodlegla.pl,poradnia.pl,powiatowa.info,promilitaria21.home.pl,radioznin.fm,sloworegionu.pl,spottedskarzysko.pl,spozywczetechnologie.pl,strazacki.pl,swiatwyscigow.pl,wadowiceonline.pl,wgmedia.eu##.bannergroup
 newslubuski.pl##.bannergroup_image-banner a[href^="/component/banners/click/"]
@@ -1825,6 +1826,7 @@ b2-biznes.pl##div[class^="ai-rotate ai-"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 lajfy.com##div[class^="banner-over-"]
+slazag.pl##div[class^="banner__ad-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
@@ -2000,5 +2002,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-slazag.pl##.banner_top
-slazag.pl##div[class^="banner__ad-"]
