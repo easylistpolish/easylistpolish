@@ -274,7 +274,7 @@ supernowosci24.pl##[id^="r-"]
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
 ||rehabilitacyjne.pl^*_maxim.
-||rek.www.wp.pl^
+
 ||reklama-lowicz.pl^$image,domain=lowicz24.eu
 ||reklama.shinden.eu^$subdocument
 ||reklamy.naszraciborz.pl^ad^$script
