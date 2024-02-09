@@ -272,7 +272,6 @@ supernowosci24.pl##[id^="r-"]
 ||radiosudety24.pl^*^sad^$image
 ||radiowrzesnia.pl^*^pum^$script
 ||redefine.hit.stat24.com^$script,domain=geekweek.pl
-
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
 ||rehabilitacyjne.pl^*_maxim.
 ||rek.www.wp.pl^
