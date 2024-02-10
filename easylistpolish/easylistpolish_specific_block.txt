@@ -341,7 +341,6 @@ supernowosci24.pl##[id^="r-"]
 ||xtb.com^$script,domain=kantorywalut.pl
 ||zamioculcas2.org^$script,domain=budujesz.info|rynek-rolny.pl
 ||ziemialimanowska.pl^*.hutekprojekty.
-
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
