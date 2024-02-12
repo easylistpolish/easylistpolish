@@ -1037,6 +1037,7 @@ controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjaza
 automatyka.pl,pomorska.pl##.partner
 ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
+blaugrana.pl##.patron-hide
 okazjepodroznika.pl##.penci-banner-box
 oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 nysahot.pl##.penci-featured-ct
@@ -2004,4 +2005,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-blaugrana.pl##.patron-hide
