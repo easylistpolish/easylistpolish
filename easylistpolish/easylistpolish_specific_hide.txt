@@ -1616,6 +1616,7 @@ tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=106"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=113"]
 tomaszowiak.net##a[href="infusions/weblinks/weblinks.php?weblink_id=115"]
 chelmski.eu##a[href="naszchelm.eu"]
+blogbukmacherski.pl##a[href="sts"]
 mojprzewodnik.pl##a[href="www.finans.pl"]
 livingroom24.pl##a[href^="/ads/"]
 cztery-lapy.pl##a[href^="/adv/"]
@@ -2005,4 +2006,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-blogbukmacherski.pl##a[href="sts"]
