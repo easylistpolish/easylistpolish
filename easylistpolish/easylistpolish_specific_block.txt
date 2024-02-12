@@ -95,7 +95,7 @@
 ^reklamowe^$domain=bolec.info
 ^reklamy-$domain=ipulawy.pl
 ^reklamy_$domain=gazetka.be
-^reklamy_baner^$domain=wirtualnygarwolin.pl
+
 ^rekrek^$domain=moj-sen.net
 ^rotator^$domain=gorzowianin.com|lubuskie24.pl
 ^sam-pro-images^$domain=mojaswidnica.pl
