@@ -153,7 +153,7 @@ supernowosci24.pl##[id^="r-"]
 ||dzisiajwgliwicach.pl^*^sixsilver-
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
-||e-kolo.pl/css/popup.css^$stylesheet,domain=e-kolo.pl
+
 ||e-pingpong.pl^*^pileczkigewo-
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
