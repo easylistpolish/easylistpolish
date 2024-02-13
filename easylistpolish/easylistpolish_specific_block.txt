@@ -143,7 +143,7 @@ supernowosci24.pl##[id^="r-"]
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||codziennikmlawski.pl^*^szpulka_
-||cyfrowaekonomia.pl^*quark3.
+
 ||dentoforum.pl^*^baner1.
 ||dicatatepantry.com^$domain=anime-odcinki.pl
 ||dobrewiadomosci.eu^*^opal_
