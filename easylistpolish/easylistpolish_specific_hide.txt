@@ -340,7 +340,7 @@ press.pl###topBanner
 dziennikteatralny.pl###topBigBanner
 sadeczanin.info###topContainer
 acermaniak.pl,activemaniak.pl,agdmaniak.pl###topMenu
-gsmmaniak.pl###topMenu-wrapper
+blogomaniak.pl,gsmmaniak.pl###topMenu-wrapper
 rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
@@ -2007,4 +2007,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-blogomaniak.pl###topMenu-wrapper
