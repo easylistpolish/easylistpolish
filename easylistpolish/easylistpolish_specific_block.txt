@@ -215,7 +215,7 @@ supernowosci24.pl##[id^="r-"]
 ||lechia.net^*^jooma-
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
-||lokalna24.pl^*^wasbruk_
+
 ||lubartow24.pl/b^
 ||lubawka.info/okna-drzwi-
 ||lwowecki.info^*^03/samson-
