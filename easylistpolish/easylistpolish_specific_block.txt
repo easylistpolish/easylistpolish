@@ -229,7 +229,6 @@ supernowosci24.pl##[id^="r-"]
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
 ||motocykle125.pl^*^junak^$subdocument
-
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
