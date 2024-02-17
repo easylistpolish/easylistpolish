@@ -250,7 +250,6 @@ supernowosci24.pl##[id^="r-"]
 ||polskielupki.pl^*^*consulting.
 ||poludnie.com.pl^*_banery-www2.
 ||poradnik-pacjenta.pl^*-rekl.
-
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiat-piaseczynski.info^*_300x200.
