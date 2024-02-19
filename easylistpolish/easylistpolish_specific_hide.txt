@@ -2011,3 +2011,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+businesstraveller.pl##a[href="https://unique-apartments.pl/royaltulip/?utm_source=rtwa&utm_medium=rtwa_baner&utm_id=baner"]
