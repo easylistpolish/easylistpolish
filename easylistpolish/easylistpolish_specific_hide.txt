@@ -1578,6 +1578,7 @@ siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
 staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cutting"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
+businesstraveller.pl##a[href="https://unique-apartments.pl/royaltulip/?utm_source=rtwa&utm_medium=rtwa_baner&utm_id=baner"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
 staleo.pl##a[href="https://www.abplanalp.pl/monitoring_groth/?utm_source=staleo&utm_medium=baner&utm_campaign=monitoring-maszyn"]
 audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=12&key=8df527b7b458ebff239f027c3ed67524f5a619ae2d9c29dd17e62c4a12a05a36"]
@@ -2011,4 +2012,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-businesstraveller.pl##a[href="https://unique-apartments.pl/royaltulip/?utm_source=rtwa&utm_medium=rtwa_baner&utm_id=baner"]
