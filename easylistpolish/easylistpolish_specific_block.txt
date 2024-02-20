@@ -264,7 +264,6 @@ supernowosci24.pl##[id^="r-"]
 ||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
-
 ||sc.4media.com$domain=zycieolsztyna.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
