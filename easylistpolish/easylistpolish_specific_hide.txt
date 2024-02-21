@@ -1546,6 +1546,7 @@ angolia.co.uk##a[href="https://domeny24.uk/"]
 chwaszczyno.pl##a[href="https://e-eltom.pl/"]
 auto-przeglad.pl##a[href="https://ewiniety.pl//"]
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
+buzz.give5.pl##a[href="https://give5.pl/u/AF8An"]
 buzz.give5.pl##a[href="https://give5.pl/u/CMP6l"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 barlinek24.pl##a[href="https://lewiatan.pl/aktualna-gazetka?search=Barlinek"]
@@ -2014,4 +2015,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-buzz.give5.pl##a[href="https://give5.pl/u/AF8An"]
