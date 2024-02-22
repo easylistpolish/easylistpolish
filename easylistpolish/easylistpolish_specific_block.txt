@@ -276,7 +276,7 @@ supernowosci24.pl##[id^="r-"]
 ||sprowadzanie-aut.pl^*^auta-z-usa-
 ||stalowemiasto.pl/_a^
 ||stalowemiasto.pl/colada2^
-||starosadeckie.info^*szewczyk-
+
 ||starysacz.info^*^r3333333.
 ||static2.elektroda.pl^*^menuBarAds^
 ||sterta.pl^$domain=linkologia.pl
