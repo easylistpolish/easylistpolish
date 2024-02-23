@@ -1549,6 +1549,7 @@ wiesci.com.pl##a[href="https://focusdentalclinic.pl"]
 buzz.give5.pl##a[href="https://give5.pl/u/13RBI"]
 buzz.give5.pl##a[href="https://give5.pl/u/AF8An"]
 buzz.give5.pl##a[href="https://give5.pl/u/CMP6l"]
+buzz.give5.pl##a[href="https://give5.pl/u/cMq5V"]
 buzz.give5.pl##a[href="https://give5.pl/u/k0Ay7"]
 buzz.give5.pl##a[href="https://give5.pl/u/rpJ9I"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
@@ -2018,4 +2019,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-buzz.give5.pl##a[href="https://give5.pl/u/cMq5V"]
