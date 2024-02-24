@@ -194,7 +194,7 @@ supernowosci24.pl##[id^="r-"]
 ||hiszpania-apartamenty.pl^*^samochody.
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
-||ipulawy.pl^*^panda-web.
+
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kantorywalut.pl^*^ik_sdb.
