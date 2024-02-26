@@ -134,7 +134,6 @@ supernowosci24.pl##[id^="r-"]
 ||bstok.pl^*^masal-
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
-
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
 ||cdn.sterta.pl^$domain=rusz.pl
 ||ceneo.pl^$image,domain=7dni.pila.pl|archigame.pl|exerim.pl|grojec24.net|komputery-pc.info|nowinylokalne.pl|pch24.info|pgo24.pl|pmi24.info|tromil.pl|warownie.pl
