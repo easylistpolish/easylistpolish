@@ -267,7 +267,6 @@ supernowosci24.pl##[id^="r-"]
 ||spliff.pl^*^DomowaUprawa_
 ||spliff.pl^*^ecobison_
 ||spliff.pl^*^sensimilla_
-
 ||spottedskarzysko.pl^*^szmaragd.
 ||sprowadzanie-aut.pl^*^auta-z-usa-
 ||stalowemiasto.pl/_a^
