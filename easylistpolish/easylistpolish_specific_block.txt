@@ -63,7 +63,6 @@
 ^bjpg^$domain=info.elblag.pl
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
-
 ^cms_banery^$domain=architekturaibiznes.pl
 ^edytom.$domain=legitymizm.org
 ^grafika2^$domain=tsk24.pl
