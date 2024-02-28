@@ -2027,3 +2027,8 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+pilaonline.pl##[id*="bill"]
+pilaonline.pl##.adv
+pilaonline.pl##[class="card card--low card--box"]
+pilaonline.pl##.ad--bill-top
+pilaonline.pl##.l-news__more
