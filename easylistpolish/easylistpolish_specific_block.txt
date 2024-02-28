@@ -299,7 +299,6 @@ supernowosci24.pl##[id^="r-"]
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
-
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
 ||wielkopolska.tv^*^osk_wawrzyniak-
