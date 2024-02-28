@@ -421,7 +421,7 @@ portalspozywczy.pl##.abc
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,goral.info.pl,kartuzy.info,ototorun.pl,powiatowa.info,tulegnica.pl,zambrow.org,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,goral.info.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,tulegnica.pl,zambrow.org,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -481,7 +481,7 @@ terazgostynin.pl##.ads__top
 doba.pl##.ads_row
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl##.adv
+24jgora.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl##.adv
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
@@ -917,7 +917,7 @@ baby-shower.pl##.kwadratowa2
 izabelin24.pl##.l-box--100
 goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
-goral.info.pl##.l-news__more
+goral.info.pl,pilaonline.pl##.l-news__more
 transfermarkt.pl##.large-4 > div > img[src$=".gif"]
 radiorodzina.pl##.left-large-ad
 dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,olesnica24.com,portalwloclawek.pl,radiosochaczew.pl,tv.starachowice.pl,wirtualnesuwalki.pl,zycieolsztyna.pl##.legal-notice
@@ -1373,7 +1373,7 @@ turek.net.pl##[class*="l-banners-"]
 tuwroclaw.com##[class*="w2g-wrapper__slot_"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,telemagazyn.pl,to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
-24wroclaw.pl##[class="card card--low card--box"]
+24wroclaw.pl,pilaonline.pl##[class="card card--low card--box"]
 forbes.pl##[class="container ad"]
 gostynin.info##[class="container-out background-accent p-m p-xl@m"]
 kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
@@ -1413,6 +1413,7 @@ allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
 24gliwice.pl##[href^="https://www.24gliwice.pl/r/"]
 resetoff.pl##[id$="reklamy"]:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(b):not(strong)
+pilaonline.pl##[id*="bill"]
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 zyciebytomskie.pl##[id^="ad"]
@@ -2027,8 +2028,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-pilaonline.pl##[id*="bill"]
-pilaonline.pl##.adv
-pilaonline.pl##[class="card card--low card--box"]
-pilaonline.pl##.ad--bill-top
-pilaonline.pl##.l-news__more
