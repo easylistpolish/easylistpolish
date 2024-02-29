@@ -253,7 +253,7 @@ supernowosci24.pl##[id^="r-"]
 ||rehabilitacyjne.pl^*_maxim.
 ||reklama-lowicz.pl^$image,domain=lowicz24.eu
 ||reklama.shinden.eu^$subdocument
-||reklamy.naszraciborz.pl^ad^$script
+
 ||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
