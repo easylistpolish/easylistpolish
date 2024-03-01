@@ -33,7 +33,7 @@
 ^adverts-$domain=zycie.pl
 ^advs^$domain=telewizjastk.pl
 ^areklamy^$domain=e-lokalne.pl
-^artykul%20kierunek^$domain=otouczelnie.pl
+
 ^ban^$domain=kopaczka.pl
 ^bananer^$domain=sportowebeskidy.pl
 ^baner%$domain=podlasie24.pl
