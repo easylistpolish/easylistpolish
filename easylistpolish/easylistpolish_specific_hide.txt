@@ -1380,6 +1380,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 studentnews.pl##[class="r_cala s_calosc_iko_4"] + div
 gostynin24.pl,lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
+bydgoszczak.pl##[class^="adName_"]
 legionisci.com##[class^="adslot_news-banner"]
 ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,tulegnica.pl##[class^="adv__"]
 ekoszalin.pl##[class^="advert"]
@@ -2030,4 +2031,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bydgoszczak.pl##[class^="adName_"]
