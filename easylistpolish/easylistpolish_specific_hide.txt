@@ -2032,3 +2032,7 @@ lowicz24.eu##.c-content__adv + div
 lowicz24.eu##.l-news__more
 lowicz24.eu##[class="card  card--box"]
 lowicz24.eu##[class="card card--low card--box"]
+mgsm.pl##[class="large-12 medium-12 columns"]
+mgsm.pl##[id^="comments-leadebaord"]
+mgsm.pl##.card-widget-prices__container
+mgsm.pl###CardBuyIn
