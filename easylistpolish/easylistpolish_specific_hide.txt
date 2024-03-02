@@ -748,6 +748,7 @@ cooltura24.co.uk,eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,
 garnek.pl##.dbb
 24opole.pl##.dd
 handelextra.pl##.desktop-basa
+bytomski.pl##.desktop-campaign-banner
 tubawyszkowa.pl##.dimmer
 tygodnikplus.com##.display300x100
 tygodnikplus.com##.display300x250
@@ -2035,4 +2036,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bytomski.pl##.desktop-campaign-banner
