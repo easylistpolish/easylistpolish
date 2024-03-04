@@ -1989,6 +1989,7 @@ gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/10/Reklama-g
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_agawaKW.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
+cadblog.pl##img[src="https://www.cadblog.pl/spacemousewireless_2024.gif"]
 konstrukcjeinzynierskie.pl##img[src="https://www.konstrukcjeinzynierskie.pl/images/banners/zwcad_2024.jpg"]
 2x45.info##img[src="images/pictures/BETSSON BANER 1.gif"]
 2x45.info##img[src="images/pictures/Mostbet.gif"]
@@ -2036,4 +2037,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cadblog.pl##img[src="https://www.cadblog.pl/spacemousewireless_2024.gif"]
