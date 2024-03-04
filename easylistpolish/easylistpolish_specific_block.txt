@@ -124,7 +124,6 @@ supernowosci24.pl##[id^="r-"]
 ||bobrowniki.tv^*^praca-piekary.
 ||botland.com.pl^*^banery_$script
 ||bstok.pl^*^iparts.
-
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
