@@ -193,7 +193,6 @@ supernowosci24.pl##[id^="r-"]
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-
-
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-
 ||kryptoholik.pl^*^nestt.
