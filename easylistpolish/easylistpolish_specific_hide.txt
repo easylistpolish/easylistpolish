@@ -1516,6 +1516,7 @@ www.glogow-info.pl##a[href="http://glogow.radioplus.pl/"]
 nowawrzesnia.pl##a[href="http://montbram.pl/"]
 antykwariatgelber.pl##a[href="http://pds.sos.pl/?utm_source=Gelger&utm_medium=banner&utm_campaign=Reklama"]
 cenyrolnicze.pl##a[href="http://rekart.pl"]
+cafeanimal.pl##a[href="http://serwisy.gazeta.pl/wakacyjna_wyprzedaz/index.htm"]
 zyleta.info##a[href="http://ultrastreet.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
@@ -2044,4 +2045,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cafeanimal.pl##a[href="http://serwisy.gazeta.pl/wakacyjna_wyprzedaz/index.htm"]
