@@ -2043,3 +2043,6 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 24jgora.pl##[class="grid__col grid__col--row  grid__col--3"]
 24jgora.pl##.c-content__adv + div
 24jgora.pl##.l-news__more
+24wroclaw.pl##.adv
+24wroclaw.pl##.l-news__more
+24wroclaw.pl###ad--bill-top + div
