@@ -290,7 +290,7 @@ supernowosci24.pl##[id^="r-"]
 ||wadmargincling.com^$domain=anime-odcinki.pl
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
-||wielkopolska.tv^*^osk_wawrzyniak-
+
 ||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
