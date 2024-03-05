@@ -961,6 +961,7 @@ sloworegionu.pl##.mfp-container
 comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
 menshealth.pl##.mh-optad
+cadblog.pl##.mh-sidebar-2
 tv.pl##.middle-salesmedia
 ipulawy.pl##.mkd-content-top-holder
 na-pulpit.com,widoczki.com##.mng
@@ -2038,4 +2039,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cadblog.pl##.mh-sidebar-2
