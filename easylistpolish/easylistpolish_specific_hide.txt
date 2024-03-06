@@ -2045,3 +2045,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+calisia.pl##a[href="https://calisia.pl/storage/a/3a65fa6367dd0ea915b/click"]
