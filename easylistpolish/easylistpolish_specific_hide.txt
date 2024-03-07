@@ -1578,6 +1578,7 @@ buzz.give5.pl##a[href="https://give5.pl/u/cMq5V"]
 buzz.give5.pl##a[href="https://give5.pl/u/k0Ay7"]
 buzz.give5.pl##a[href="https://give5.pl/u/pJzM4"]
 buzz.give5.pl##a[href="https://give5.pl/u/rpJ9I"]
+centrumwitalnosci.pl##a[href="https://hurompolska.pl/wyciskarka-h200-easy-plus/"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 bydgoszcz.com##a[href="https://kdf-podatki.pl/oddzial/zwrot-podatku-z-zagranicy-bydgoszcz-rozliczenie/"]
 bydgoszcz.com##a[href="https://kratki.com/pl/salony-firmowe/bydgoszcz/"]
@@ -2048,4 +2049,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-centrumwitalnosci.pl##a[href="https://hurompolska.pl/wyciskarka-h200-easy-plus/"]
