@@ -70,7 +70,6 @@
 ^motor-land^$domain=motocykle125.pl
 ^nowosc_images^$domain=angielski.slowka.pl
 ^partner^$domain=podajdalej.info.pl
-
 ^pasek_reklam^$domain=proszkow.eu
 ^placeholder_wp^$domain=benchmark.pl
 ^polecamy^$domain=almanak.pl
