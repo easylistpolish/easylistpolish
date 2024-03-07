@@ -1195,6 +1195,7 @@ slowoseniora.pl##.slowo-widget
 gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
 fronda.pl##.small-info
+cannabisnews.pl##.snp-bld-step-cont
 wiesci.info.pl##.sp-module > .reklama-title
 4tour.pl##.span2
 informator-stolicy.pl##.span_r
@@ -2047,4 +2048,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cannabisnews.pl##.snp-bld-step-cont
