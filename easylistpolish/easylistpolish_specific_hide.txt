@@ -1610,6 +1610,7 @@ angolia.co.uk##a[href="https://pracuj.uk/"]
 pogoda.info##a[href="https://samochody.pl"]
 bitcoin-info.pl##a[href="https://shop.trezor.io/?offer_id=10&aff_id=1621&file_id=151"]
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
+centrumwitalnosci.pl##a[href="https://sklep.puregreen.pl/pol_m_Wyciskarki-do-Sokow-159.html?utm_source=FusionSystem&utm_medium=Popup&utm_campaign=centrumwitalnosci.pl&utm_content=364"]
 bydgoszcz.com##a[href="https://taniaksiegowosc.com"]
 staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cutting"]
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
@@ -2049,4 +2050,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-centrumwitalnosci.pl##a[href="https://sklep.puregreen.pl/pol_m_Wyciskarki-do-Sokow-159.html?utm_source=FusionSystem&utm_medium=Popup&utm_campaign=centrumwitalnosci.pl&utm_content=364"]
