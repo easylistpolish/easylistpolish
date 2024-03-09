@@ -143,7 +143,7 @@ supernowosci24.pl##[id^="r-"]
 ||ebarlinek.pl^*^beznazwy-
 ||ebd.cda-hd.co/api/users^
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
-||ebroker.pl^$image,domain=icyfrowypolsat.pl|mojeanonse.pl
+
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
 ||edipresse.hit.gemius.pl^$domain=przyslijprzepis.pl
