@@ -126,7 +126,6 @@ supernowosci24.pl##[id^="r-"]
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||codziennikmlawski.pl^*^szpulka_
 ||dentoforum.pl^*^baner1.
-
 ||dobrewiadomosci.eu^*^opal_
 ||dopilar.pl^*^sky1.
 ||dothaish.net^$script
