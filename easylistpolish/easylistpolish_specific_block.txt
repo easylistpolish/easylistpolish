@@ -92,7 +92,6 @@
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
-
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banner.$domain=polacywewloszech.com|swiatmetali.eu
