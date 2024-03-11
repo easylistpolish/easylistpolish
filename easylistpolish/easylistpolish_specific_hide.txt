@@ -1426,6 +1426,7 @@ allegro.pl##[data-box-name="Container PPC Offers"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
 otomoto.pl##[data-testid="underlying_banner"]
+chamsko.pl##[href="https://www.meczyki.pl/link/bukmacher/43/1"]
 24gliwice.pl##[href^="https://www.24gliwice.pl/r/"]
 resetoff.pl##[id$="reklamy"]:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(b):not(strong)
 pilaonline.pl##[id*="bill"]
@@ -2052,4 +2053,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-chamsko.pl##[href="https://www.meczyki.pl/link/bukmacher/43/1"]
