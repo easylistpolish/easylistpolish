@@ -2057,3 +2057,5 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 nowinykrapkowickie.pl##.new-toplayer
 ostrodaflesz.pl##[class*="banner--"]
 ddtorun.pl##.blix
+zyciekalisza.pl##.adv
+zyciekalisza.pl##.ad--bill-top
