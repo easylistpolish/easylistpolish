@@ -285,7 +285,7 @@ supernowosci24.pl##[id^="r-"]
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
 ||wszczecinie.pl^*^www/images^
-||xlomza.pl^*^kukasz08_
+
 ||xtb.com^$script,domain=kantorywalut.pl
 ||zamioculcas2.org^
 ||zamioculcas2.org^$script,domain=budujesz.info|rynek-rolny.pl
