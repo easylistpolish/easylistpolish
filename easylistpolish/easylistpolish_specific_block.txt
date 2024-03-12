@@ -294,3 +294,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=gazetarogozinska.pl
+^baner%$domain=podkarpackahistoria.pl
