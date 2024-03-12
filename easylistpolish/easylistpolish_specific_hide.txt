@@ -2056,3 +2056,24 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+dziennikpowiatowy.pl###toplayer
+dziennikpowiatowy.pl###top_1
+dziennikpowiatowy.pl##.tipad_tag
+dziennikpowiatowy.pl##.tipad_tag + picture
+dziennikpowiatowy.pl##[class="text-center my-3 container"]
+faktykaliskie.info##.tipad_tag
+faktykaliskie.info##[class="text-center my-3 container"]
+halorzeszow.pl##.tipad_tag
+halorzeszow.pl##[class="text-center my-3 container"]
+kronikatygodnia.pl##.tipad_tag
+kronikatygodnia.pl##.tipad_tag + a
+kronikatygodnia.pl##.tipad_tag + picture
+kronikatygodnia.pl##[class="text-center my-3 container"]
+podkarpackahistoria.pl###inside_1
+podkarpackahistoria.pl##.tipad_tag
+podkarpackahistoria.pl##[class="text-center my-3 container"]
+radiotczew.pl##.tipad_tag
+radiotczew.pl##[class*="-advert_"]
+radiotczew.pl##[class="text-center my-3 container"]
+tvsudecka.pl##.tipad_tag + a
+tvsudecka.pl##[class*="-advert_"]
