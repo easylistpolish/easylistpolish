@@ -2064,3 +2064,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 mojmikolow.pl##[class^="m-ads-"]
 swiony.pl##[class^="m-ads-"]
+sokolka.tv##.moduletable .custom
