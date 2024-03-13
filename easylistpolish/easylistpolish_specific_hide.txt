@@ -942,7 +942,6 @@ eostroleka.pl##.loading-ajax-ads
 e-grajewo.pl##.logos-container
 hfc.com.pl##.lozad
 lubiehrubie.pl##.lubie-widget
-orzesze.com.pl,rudaslaska.com.pl,sosnowiecki.pl,zory.com.pl##[class^="m-ads-"]
 jarmark.com.pl##.mMaterialRotator
 beskidnews.pl,wirtualnyregion.eu##.main-slider
 gazetanowodworska.com##.mainSlider
@@ -984,6 +983,7 @@ zpierwszegotloczenia.pl##.modal-backdrop
 podrywaj.org##.modal_wrapper
 krosno112.pl##.module-ct img[width="280"]
 goldap.info##.modulereklamar1
+sokolka.tv##.moduletable .custom
 nowosadecki24.pl##.moduletable .custom a
 tv-pelplin.pl##.moduletable sup
 polemi.co.uk##.moduletable-reklamab
@@ -1415,7 +1415,7 @@ tylkopilka.pl##[class^="g-col b-2 a"]
 abcdobrejmamy.pl,nysahot.pl##[class^="g-dyn a-"]
 elubaczow.com,zachodniemazowsze.info##[class^="g-single a-"]
 nto.pl##[class^="lista_content_stream_"]
-pyskowice.com.pl##[class^="m-ads-"]
+mojmikolow.pl,orzesze.com.pl,pyskowice.com.pl,rudaslaska.com.pl,sosnowiecki.pl,swiony.pl,zory.com.pl##[class^="m-ads-"]
 kanal10.pl##[class^="moduletable_banner"]
 igrit.pl##[class^="py-"]
 eplastics.pl##[class^="reklama"]
@@ -2062,6 +2062,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-mojmikolow.pl##[class^="m-ads-"]
-swiony.pl##[class^="m-ads-"]
-sokolka.tv##.moduletable .custom
