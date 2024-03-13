@@ -1365,7 +1365,7 @@ waw4free.pl##.zobacz-box
 waw4free.pl##.zobacz-box-text
 eska.pl##.zpr_bottom_1
 eska.pl##.zpr_box_side_bottom
-se.pl##.zpr_box_top1
+eskarock.pl,se.pl##.zpr_box_top1
 eska.pl,radioplus.pl##.zpr_combo
 eska.pl##.zpr_hp
 eska.pl,muratorplus.pl,radioplus.pl,se.pl,urzadzamy.pl##.zpr_hp2
@@ -2062,4 +2062,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-eskarock.pl##.zpr_box_top1
