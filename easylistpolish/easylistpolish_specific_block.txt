@@ -287,7 +287,6 @@ supernowosci24.pl##[id^="r-"]
 ||wszczecinie.pl^*^www/images^
 ||xtb.com^$script,domain=kantorywalut.pl
 ||zamioculcas2.org^
-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
