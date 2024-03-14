@@ -73,7 +73,7 @@
 ^placeholder_wp^$domain=benchmark.pl
 ^polecamy^$domain=almanak.pl
 ^promo^$domain=minecraft-list.pl
-^rek2^$domain=barlinek24.pl
+
 ^rek^$domain=glogow-info.pl|inwestycje-rzeszow.pl|ivrozbiorpolski.pl|siechnice.com.pl|tuwodzislaw.pl
 ^rek^$image,domain=wiadomoscipw.pl
 ^rekl^$domain=pgt.pl
