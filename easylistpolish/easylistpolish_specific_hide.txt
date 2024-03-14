@@ -540,7 +540,7 @@ iswinoujscie.pl##.article ~ .ads
 pomponik.pl##.article-body__ad-gora-srodek
 naekranie.pl##.article-header [style^=" width: 375"]
 24wspolnota.pl##.article__ad-special
-eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.article__placement
+eska.pl,eskarock.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.article__placement
 comparic.pl##.artyu-single
 neonet.pl##.as-wallpaper_left
 neonet.pl##.as-wallpaper_right
@@ -2062,4 +2062,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-eskarock.pl##.article__placement
