@@ -158,7 +158,7 @@ supernowosci24.pl##[id^="r-"]
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
 ||forum.haszysz.com/solarr^$image
-||g.cda.pl/mediafile/acyHQyrkZus.mp4
+
 ||gazetasenior.pl^*_300x300_
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
