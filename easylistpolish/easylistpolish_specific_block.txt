@@ -137,7 +137,7 @@ supernowosci24.pl##[id^="r-"]
 ||e-pingpong.pl^*^reklamapingpong.
 ||e-pingpong.pl^*reklama.
 ||ebarlinek.pl^*^beznazwy-
-||ebd.cda-hd.co/api/users^
+
 ||ebookpoint.pl$subdocument,domain=swiatczytnikow.pl
 ||ec.bankier.pl^$script,domain=icyfrowypolsat.pl
 ||echogorzowa.pl^*^2015/516^
