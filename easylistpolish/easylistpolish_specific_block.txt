@@ -130,7 +130,7 @@ supernowosci24.pl##[id^="r-"]
 ||dothaish.net^$script
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
-||dzisiajwgliwicach.pl^*^sixsilver-
+
 ||e-hotelarz.pl^*=300x80^
 ||e-hotelarz.pl^*=750x200^
 ||e-pingpong.pl^*^pileczkigewo-
