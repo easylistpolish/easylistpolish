@@ -897,7 +897,7 @@ franchising.pl##.innerTopBanner
 money.pl##.insert-top-offer
 forum.motocyklistow.pl##.ipsSpacer_both
 forum.optymalizacja.com##.ipsWidget_vertical > center img
-ostrodaflesz.pl##.islemag_single_ad
+ostrodaflesz.pl##.blix
 sadownictwo.com.pl##.isotopeGrid-item .edcwidgetAnhor
 v10.pl##.iwrap
 izachodniopomorskie.pl##.izpa
