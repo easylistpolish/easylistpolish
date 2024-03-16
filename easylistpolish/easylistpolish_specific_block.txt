@@ -163,7 +163,7 @@ supernowosci24.pl##[id^="r-"]
 ||goldap.org.pl^*^fronton.
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
-||gostynin.info^*^new_project_
+
 ||gpi5.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||greencanoe.pl^*^248x248px_
 ||hiszpania-apartamenty.pl^*^hotele.
