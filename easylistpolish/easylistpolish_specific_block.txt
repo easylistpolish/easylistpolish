@@ -183,7 +183,7 @@ supernowosci24.pl##[id^="r-"]
 ||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.
-||lechia.net^*^jooma-
+
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
 ||lubartow24.pl/b^
