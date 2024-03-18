@@ -2073,3 +2073,4 @@ cieszyn.news##div[data-ads-id]
 bilgoraj.com.pl##.new-toplayer
 
 nowinykrapkowickie.pl##.blix
+muratordom.pl##.article__placement
