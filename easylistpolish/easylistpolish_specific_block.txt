@@ -91,6 +91,7 @@
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
+_baner_$domain=panoramakutna.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banner.$domain=polacywewloszech.com|swiatmetali.eu
@@ -282,4 +283,3 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_baner_$domain=panoramakutna.pl
