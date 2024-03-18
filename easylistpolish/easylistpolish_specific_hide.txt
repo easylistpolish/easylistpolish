@@ -2069,3 +2069,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 slu24##.new-toplayer
 ziemiagorowska.pl##.blix
+e-sochaczew.pl###ad--bill-top
