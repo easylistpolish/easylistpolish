@@ -123,7 +123,6 @@ supernowosci24.pl##[id^="r-"]
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
-||codziennikmlawski.pl^*^szpulka_
 ||dentoforum.pl^*^baner1.
 ||dobrewiadomosci.eu^*^opal_
 ||dopilar.pl^*^sky1.
