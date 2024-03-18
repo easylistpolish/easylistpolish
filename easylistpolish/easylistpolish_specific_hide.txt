@@ -102,7 +102,6 @@ bilgorajska.pl,gada.pl,zamojska.pl###box_r
 badaniaprenatalne.pl###caption-attachment-19570
 szpileczki.pl###carousel-example-generic
 zycieczestochowy.pl###carousel-slideadw
-katowice-airport.com###carwash-banner-c
 nsix.pl###cc-banner-iframe
 czarymary.pl###checkWidthFullMain1
 centrummedyczne-przyjazna.pl###column
