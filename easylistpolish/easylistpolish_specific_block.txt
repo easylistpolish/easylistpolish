@@ -222,7 +222,6 @@ supernowosci24.pl##[id^="r-"]
 ||poradnik-pacjenta.pl^*-rekl.
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
-
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||radiosudety24.pl^*^sad^$image
