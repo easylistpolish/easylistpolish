@@ -2068,3 +2068,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 gazetarogozinska.pl##.blix
 powiatrawicki.info##.blix
+panoramaplock.pl##.blix
