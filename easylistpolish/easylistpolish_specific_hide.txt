@@ -2069,3 +2069,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 gazetarogozinska.pl##.blix
 powiatrawicki.info##.blix
 panoramaplock.pl##.blix
+pleszew24.info##.blix
