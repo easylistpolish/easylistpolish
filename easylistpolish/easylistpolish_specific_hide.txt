@@ -2069,3 +2069,4 @@ gazetarogozinska.pl##.blix
 powiatrawicki.info##.blix
 panoramaplock.pl##.blix
 pleszew24.info##.blix
+muratordom.pl##.zpr_box_half_page3
