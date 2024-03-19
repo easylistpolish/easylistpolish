@@ -45,8 +45,7 @@ warsztat.pl###baner199
 hotelinfo24.pl###baner2
 warsztat.pl###baner211
 napisy24.pl###baner_300_250
-eostroleka.pl###baner_A_desktop
-eostroleka.pl###baner_A_mobile
+eostroleka.pl##[id^="baner_A_"]
 infomare.pl###baneranim
 portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
