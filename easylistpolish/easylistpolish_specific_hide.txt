@@ -45,7 +45,6 @@ warsztat.pl###baner199
 hotelinfo24.pl###baner2
 warsztat.pl###baner211
 napisy24.pl###baner_300_250
-eostroleka.pl##[id^="baner_A_"]
 infomare.pl###baneranim
 portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
@@ -650,7 +649,7 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
-ddtorun.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,ziemiagorowska.pl##.blix
+ddtorun.pl,gazetarogozinska.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,ziemiagorowska.pl##.blix
 nowa-sprzedaz.pl##.block .auto-pr-block
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
@@ -1364,6 +1363,7 @@ waw4free.pl##.zobacz-box
 waw4free.pl##.zobacz-box-text
 eska.pl##.zpr_bottom_1
 eskarock.pl,muratordom.pl##.zpr_box_half_page2
+muratordom.pl##.zpr_box_half_page3
 eska.pl##.zpr_box_side_bottom
 eskarock.pl,muratordom.pl,se.pl##.zpr_box_top1
 eska.pl,radioplus.pl##.zpr_combo
@@ -1447,6 +1447,7 @@ zyciebytomskie.pl##[id^="ad"]
 gazeta.pl##[id^="adUnit-"]
 gazeta.pl##[id^="ads"]
 plotek.pl##[id^="banC"]
+eostroleka.pl##[id^="baner_A_"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
 24starogard.pl##[id^="bannerlistwidget-"]
 sucha24.pl##[id^="bills_in_rotation_"]
@@ -2065,8 +2066,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetarogozinska.pl##.blix
-powiatrawicki.info##.blix
-panoramaplock.pl##.blix
-pleszew24.info##.blix
-muratordom.pl##.zpr_box_half_page3
