@@ -237,7 +237,7 @@ supernowosci24.pl##[id^="r-"]
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
 ||spliff.pl^*^DomowaUprawa_
-||spliff.pl^*^sensimilla_
+
 ||spottedskarzysko.pl^*^szmaragd.
 ||stalowemiasto.pl/_a^
 ||stalowemiasto.pl/colada2^
