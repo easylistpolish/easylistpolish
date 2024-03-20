@@ -2076,3 +2076,4 @@ rolnikinfo.pl##.my-4
 smakosze.pl##.my-4
 swiatzwierzat.pl##.my-4
 turysci.pl##.my-4
+muratorplus.pl##.zpr_box_top1
