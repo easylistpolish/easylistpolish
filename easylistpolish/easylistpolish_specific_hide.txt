@@ -2066,3 +2066,13 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+biznesinfo.pl##.my-4
+domekiogrodek.pl##.my-4
+goniec.pl##.my-4
+lelum.pl##.my-4
+pacjenci.pl##.my-4
+portalparentingowy.pl##.my-4
+rolnikinfo.pl##.my-4
+smakosze.pl##.my-4
+swiatzwierzat.pl##.my-4
+turysci.pl##.my-4
