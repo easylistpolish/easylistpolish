@@ -2113,3 +2113,4 @@ tabletmaniak.pl##.postmetadata + div
 tabletmaniak.pl##br[clear="all"] + div
 prawobrzeze24.pl##.blix
 telewizjamazury.pl###main-content .my-3
+dziennik.walbrzych.pl##.gxqfpad
