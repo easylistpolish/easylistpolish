@@ -2116,3 +2116,4 @@ telewizjamazury.pl###main-content .my-3
 dziennik.walbrzych.pl##.gxqfpad
 poloniairlandia.pl##.code-block
 poloniairlandia.pl##.td-fix-index
+muratorplus.pl##.zpr_shopping__article
