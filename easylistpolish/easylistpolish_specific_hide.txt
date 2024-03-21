@@ -879,7 +879,6 @@ fakt.pl##.hot_three.promo_box
 korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 zalukaj.cc##.iii > #aab
-iloveslubice.pl##.ilove-boczna-b2-300x250
 zycie.pl##.images.left-dd
 tubalecznej.pl##.img-fluid
 6krokow.pl##.img_rkl
