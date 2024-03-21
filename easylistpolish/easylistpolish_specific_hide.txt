@@ -2114,3 +2114,5 @@ tabletmaniak.pl##br[clear="all"] + div
 prawobrzeze24.pl##.blix
 telewizjamazury.pl###main-content .my-3
 dziennik.walbrzych.pl##.gxqfpad
+poloniairlandia.pl##.code-block
+poloniairlandia.pl##.td-fix-index
