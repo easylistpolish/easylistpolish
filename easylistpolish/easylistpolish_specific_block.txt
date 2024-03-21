@@ -273,7 +273,7 @@ supernowosci24.pl##[id^="r-"]
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
-||wszczecinie.pl^*^www/images^
+
 ||xtb.com^$script,domain=kantorywalut.pl
 ||zamioculcas2.org^
 ||ziemialimanowska.pl^*.hutekprojekty.
