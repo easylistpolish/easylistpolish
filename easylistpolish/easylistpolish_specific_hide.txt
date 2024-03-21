@@ -1374,7 +1374,7 @@ eska.pl,radioplus.pl##.zpr_combo
 eska.pl##.zpr_hp
 eska.pl,muratorplus.pl,radioplus.pl,se.pl,urzadzamy.pl##.zpr_hp2
 eska.pl,muratorplus.pl,radioplus.pl,urzadzamy.pl##.zpr_hp3
-mjakmama24.pl,muratordom.pl##.zpr_inside_1_wide
+mjakmama24.pl,muratordom.pl,poradnikzdrowie.pl##.zpr_inside_1_wide
 eska.pl,muratorplus.pl##.zpr_inside_2
 muratordom.pl##.zpr_inside_2_wide
 mjakmama24.pl,muratorplus.pl,radioplus.pl##.zpr_shopping__article
@@ -2071,4 +2071,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poradnikzdrowie.pl##.zpr_inside_1_wide
