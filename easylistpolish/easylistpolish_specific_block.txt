@@ -204,7 +204,6 @@ supernowosci24.pl##[id^="r-"]
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
-
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
