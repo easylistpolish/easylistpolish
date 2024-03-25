@@ -2074,3 +2074,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 police24.pl##.new-toplayer
 e-golub.info.pl##.blix
+iloveslubice.pl##.ilove-2023-glowna-przed-zawartoscia-top
