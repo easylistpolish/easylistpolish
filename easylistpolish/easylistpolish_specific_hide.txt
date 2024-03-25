@@ -2102,3 +2102,4 @@ twojknurow.pl##a[href*="/ad-manager/ads"]
 zabrzenews.pl##.banner_top
 zabrzenews.pl##a[href*="/ad-manager/ads"]
 siemianowice.net.pl##[class^="m-ads-"]
+se.pl##.zpr_box_half_page3
