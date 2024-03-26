@@ -2078,3 +2078,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ipoddebice.pl##.blix
 ostrodanews.pl##.pum
 pulslegnicy.pl##img[alt="spot_img"]
+urzadzamy.pl##.zpr_inside_1_wide
