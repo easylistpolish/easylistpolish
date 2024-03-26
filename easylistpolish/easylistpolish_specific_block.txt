@@ -26,7 +26,7 @@
 ^AdBanner^$domain=zyciepabianic.pl
 ^admaster^$domain=suwalki24.pl
 ^ads^$domain=podhale24.pl
-^adv-redirect^$domain=hdtvpolska.com
+
 ^adv^$domain=e-petrol.pl|naszglospoznanski.pl|zyciegrajewa.pl
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
