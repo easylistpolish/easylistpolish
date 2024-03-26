@@ -275,3 +275,5 @@ supernowosci24.pl##[id^="r-"]
 ||zw.pl/ads/
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^sponsorowane^$domain=staraoliwa.pl
+^banners^$domain=staraoliwa.pl
