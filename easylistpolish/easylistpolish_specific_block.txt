@@ -277,3 +277,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niezalezna.
 ^sponsorowane^$domain=staraoliwa.pl
 ^banners^$domain=staraoliwa.pl
+^banners^$domain=mojaorunia.pl
