@@ -104,7 +104,6 @@ supernowosci24.pl##[id^="r-"]
 ||ad.prv.pl^
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
-||baby-shower.pl^*^babymama-
 ||bejsment.com^*^300x100xbejsment-
 ||bejsment.com^*^dalekDiamonds300x
 ||biotechnologia.pl^*^ats^
