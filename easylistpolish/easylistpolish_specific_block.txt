@@ -278,3 +278,4 @@ supernowosci24.pl##[id^="r-"]
 ^sponsorowane^$domain=staraoliwa.pl
 ^banners^$domain=staraoliwa.pl
 ^banners^$domain=mojaorunia.pl
+^ads^$domain=podhale24.pl
