@@ -2082,3 +2082,4 @@ m-ce.pl##[class^="m-ads-"]
 mojchorzow.pl##[class^="m-ads-"]
 mojegliwice.pl##[class^="m-ads-"]
 piekaryslaskie.com.pl##[class^="m-ads-"]
+pulstygodnia.pl##.new-toplayer
