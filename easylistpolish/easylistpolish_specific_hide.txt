@@ -2085,3 +2085,4 @@ piekaryslaskie.com.pl##[class^="m-ads-"]
 pulstygodnia.pl##.new-toplayer
 myszkow365.pl##.blix
 zlomzy.pl##.blix
+voxfm.pl##.zpr_box_top1
