@@ -2084,3 +2084,4 @@ mojegliwice.pl##[class^="m-ads-"]
 piekaryslaskie.com.pl##[class^="m-ads-"]
 pulstygodnia.pl##.new-toplayer
 myszkow365.pl##.blix
+zlomzy.pl##.blix
