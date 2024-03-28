@@ -2077,3 +2077,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 glospowiatusredzkiego.pl##.blix
 tygodnik.pl##.blix
+zabrze.com.pl##[class^="m-ads-"]
