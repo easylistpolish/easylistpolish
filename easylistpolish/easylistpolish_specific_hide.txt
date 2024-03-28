@@ -2078,3 +2078,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 glospowiatusredzkiego.pl##.blix
 tygodnik.pl##.blix
 zabrze.com.pl##[class^="m-ads-"]
+voxfm.pl##.zpr_inside_2
