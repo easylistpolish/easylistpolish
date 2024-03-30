@@ -1321,6 +1321,7 @@ nasz-glos.com##.vmagazine_lite_medium_ad
 mma.pl##.w2g
 wiescipolickie.pl##.wds_slider_cont
 obcasypodlasia.pl##.webnus-ad
+slazag.pl##.welcomeScreening
 transfermarkt.pl##.werbung-billboard
 womenshealth.pl##.wh-optad
 esportnow.pl##.widget
@@ -2076,4 +2077,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-slazag.pl##.welcomeScreening
