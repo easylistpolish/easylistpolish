@@ -2080,3 +2080,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 rybnicki.com##[class^="m-ads-"]
 mojekatowice.pl##[class^="m-ads-"]
 esopot.pl##.blix
+olesnicainfo.pl##.adwrapper
