@@ -9,7 +9,7 @@ filmikiporno.tv##.publis-bottom
 sexrura.pl##.sidebar-img-nice
 filmy69.pl##.sidebar_right
 polskiepornole.pl,pornoman.pl##.squareWrapper
+pornoonline.com.pl##[class^="bannery"]
 sexeo.pl##a[href^="http://beztabu.com"]
 filmy69.pl#?#li.videoblock:-abp-has(iframe[id][src*="/www/delivery/"])
 filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
-pornoonline.com.pl##[class^="bannery"]

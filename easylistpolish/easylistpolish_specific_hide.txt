@@ -445,6 +445,7 @@ chelmski.eu##.ad-text-headbaner
 egospodarka.pl##.ad750
 pomponik.pl##.adStandardTopContainerWraper
 pomponik.pl##.adWraper
+nowiny.pl##.ad_async_placeholder
 rrs24.net##.ad_img_baner_glowny
 radiofest.pl##.ad_in
 polskielupki.pl##.ad_info
@@ -654,7 +655,7 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
-ddtorun.pl,e-golub.info.pl,esopot.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,ipoddebice.pl,myszkow365.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,radzyninfo.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
+ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,esopot.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,ipoddebice.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsgminy.pl,radzyninfo.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
 nowa-sprzedaz.pl##.block .auto-pr-block
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
@@ -2078,8 +2079,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-pulsgminy.pl##.blix
-naszpruszcz.pl##.blix
-dziendobrypomorze.pl##.blix
-nowiny.pl##.ad_async_placeholder
-24zaglebie.pl##.banner_top
