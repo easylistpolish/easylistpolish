@@ -705,7 +705,7 @@ mamotoja.pl##.c-ecomm-widget
 izabelin24.pl##.c-gallery__bilboard-ad
 wysokieobcasy.pl##.c1
 bytomski.pl##.campaign-label
-24kato.pl,slazag.pl##.campaign-wrapper
+24kato.pl,24zaglebie.pl,slazag.pl##.campaign-wrapper
 tp.com.pl##.card--box
 mgsm.pl##.card-widget-prices__container
 sportrelacje.pl##.card.my-4 img[src^="https://i.imgur.com"]
@@ -2079,4 +2079,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-24zaglebie.pl##.campaign-wrapper
