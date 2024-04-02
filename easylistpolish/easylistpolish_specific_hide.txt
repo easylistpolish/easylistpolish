@@ -2082,3 +2082,4 @@ pulsgminy.pl##.blix
 naszpruszcz.pl##.blix
 dziendobrypomorze.pl##.blix
 nowiny.pl##.ad_async_placeholder
+24zaglebie.pl##.banner_top
