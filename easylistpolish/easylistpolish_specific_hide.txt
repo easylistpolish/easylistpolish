@@ -2,7 +2,6 @@ portalpszczelarski.pl###AdBig
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
 spottedskarzysko.pl,spottedstarachowice.pl###BoxColTop2
-mgsm.pl###CardBuyIn
 techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
