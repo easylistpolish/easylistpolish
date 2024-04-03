@@ -7,7 +7,6 @@ techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
 skyradar.pl###HTML4
-astratex.pl###PopUpBanner
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
