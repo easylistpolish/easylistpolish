@@ -2080,3 +2080,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 pulsciechanowa.pl##.blix
 infomogilno24.pl##.blix
 pulsgdanska.pl###ad--bill-top
+chorzowski.pl##.campaign-wrapper
