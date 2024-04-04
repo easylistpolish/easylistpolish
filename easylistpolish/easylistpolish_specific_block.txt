@@ -269,7 +269,7 @@ supernowosci24.pl##[id^="r-"]
 ||wronieckibazar.pl^*^izometwww.
 ||zamioculcas2.org^
 ||ziemialimanowska.pl^*.hutekprojekty.
-||zw.pl/ads/
+^ads^$domain=zw.pl
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banner.$domain=archispace.pl
