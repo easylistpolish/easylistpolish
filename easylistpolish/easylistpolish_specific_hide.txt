@@ -424,7 +424,7 @@ portalspozywczy.pl##.abc
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,goral.info.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,egarwolin.pl,goral.info.pl,iwawer.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -653,7 +653,7 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
-ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,esopot.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,infomogilno24.pl,ipoddebice.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
+ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,esopot.pl,faktypilskie.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,infomogilno24.pl,ipoddebice.pl,ki24.info,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
 nowa-sprzedaz.pl##.block .auto-pr-block
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
@@ -2077,7 +2077,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-iwawer.pl##.ad--bill-top
-faktypilskie.pl##.blix
-ki24.info##.blix
-glivice.pl##.banner_top
