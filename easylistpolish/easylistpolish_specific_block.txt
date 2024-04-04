@@ -265,7 +265,6 @@ supernowosci24.pl##[id^="r-"]
 ||w203.pl/sklep-motoryzacyjny-
 ||wiadomosci.rii.pl^*^tlo_wiadomosci.
 ||widget.nokaut.pl^$script,domain=tromil.pl
-||wirtualnyelk.pl^*^artystyczny-dom-
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
