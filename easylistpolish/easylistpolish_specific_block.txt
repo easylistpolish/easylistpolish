@@ -274,3 +274,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banner.$domain=archispace.pl
+^ads^$domain=sportowepodhale.pl
