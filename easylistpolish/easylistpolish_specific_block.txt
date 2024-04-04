@@ -169,7 +169,6 @@ supernowosci24.pl##[id^="r-"]
 ||infobeskidy.eu^*^files/r*.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
-||kantorywalut.pl^*^ik_sdb.
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^250x250c^
 ||kmziz.pl^*^728x90c^
