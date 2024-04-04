@@ -2080,3 +2080,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 iwawer.pl##.ad--bill-top
 faktypilskie.pl##.blix
 ki24.info##.blix
+glivice.pl##.banner_top
