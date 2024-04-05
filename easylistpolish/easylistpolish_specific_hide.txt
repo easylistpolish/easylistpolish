@@ -2083,3 +2083,4 @@ koronowo.net.pl##.blix
 swiecie24.pl##.blix
 tenismagazyn.pl##.elementor-shortcode
 weszlo.com##.my-12
+glivice.pl##.banner__ad-250
