@@ -2081,3 +2081,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ciechocinek.biz##.blix
 koronowo.net.pl##.blix
 swiecie24.pl##.blix
+tenismagazyn.pl##.elementor-shortcode
