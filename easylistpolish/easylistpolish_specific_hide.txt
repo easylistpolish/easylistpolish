@@ -2084,3 +2084,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 staraoliwa.pl##.ad1
 iloveslubice.pl##[class^="ilove-2023-glowna-"]
+szemud24.pl##.blix
