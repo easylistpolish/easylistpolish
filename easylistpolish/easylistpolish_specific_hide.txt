@@ -2086,3 +2086,4 @@ staraoliwa.pl##.ad1
 iloveslubice.pl##[class^="ilove-2023-glowna-"]
 szemud24.pl##.blix
 olsztyn.com.pl###boxA
+nowinytyskie.pl##.builder-banner
