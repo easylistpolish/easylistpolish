@@ -2089,3 +2089,4 @@ mojaleczyca.pl##.ads
 magazynzuzel.pl##[id^="ceneoaffcontainer"]
 e-lubon.pl##.blix
 gpr24.pl###ad--bill-top
+nowinytyskie.pl##.article-first-paragraph
