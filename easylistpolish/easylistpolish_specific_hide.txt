@@ -2087,3 +2087,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 mojaleczyca.pl##.ads
 magazynzuzel.pl##[id^="ceneoaffcontainer"]
+e-lubon.pl##.blix
