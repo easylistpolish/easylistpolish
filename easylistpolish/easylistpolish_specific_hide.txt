@@ -773,7 +773,7 @@ automotivesuppliers.pl##.dj-loader
 iturek.net,portalwrc.pl##.djslider
 tkn24.pl##.dk-image-rotator-widget
 zywawiara.pl##.dobrodzieje
-glivice.pl##.doubleAdWrapper
+glivice.pl,nowinytyskie.pl##.doubleAdWrapper
 nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-widget
 swinoujskie.info##.e3lan
@@ -2087,4 +2087,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowinytyskie.pl##.doubleAdWrapper
