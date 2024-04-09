@@ -2088,3 +2088,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 mojaleczyca.pl##.ads
 magazynzuzel.pl##[id^="ceneoaffcontainer"]
 e-lubon.pl##.blix
+gpr24.pl###ad--bill-top
