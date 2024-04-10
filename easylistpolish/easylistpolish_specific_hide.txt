@@ -1215,7 +1215,7 @@ slowoseniora.pl##.slowo-widget
 gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
 fronda.pl##.small-info
-nowinytyskie.pl##.small__articles__ad
+nowinytyskie.pl,piekary.info##.small__articles__ad
 cannabisnews.pl##.snp-bld-step-cont
 wiesci.info.pl##.sp-module > .reklama-title
 4tour.pl##.span2
@@ -2088,4 +2088,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-piekary.info##.small__articles__ad
