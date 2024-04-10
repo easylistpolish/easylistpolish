@@ -657,7 +657,7 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
-ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,e-lubon.pl,esopot.pl,faktypilskie.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,infomogilno24.pl,ipoddebice.pl,ki24.info,koronowo.net.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,swiecie24.pl,szemud24.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
+bialobrzegi24.net,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,e-lubon.pl,esopot.pl,faktypilskie.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,infomogilno24.pl,ipoddebice.pl,ki24.info,koronowo.net.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,swiecie24.pl,szemud24.pl,tukutno.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
 nowa-sprzedaz.pl##.block .auto-pr-block
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
@@ -782,6 +782,7 @@ ele24.net##.eb-modules-banner-nad-newsem
 mojpieknyogrod.pl##.ecomm-boxd
 ilewazy.pl,viva.pl##.ecomm-offer
 wizaz.pl##.ecomm-placement
+wizaz.pl##.ecomm-product-widget
 ilewazy.pl,mamotoja.pl,party.pl,wizaz.pl##.ecomm-wrapper
 sweetwedding.pl##.ecrosio-header-slider
 zkaszub.info##.edd
@@ -2087,7 +2088,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tukutno.pl##.blix
-bialobrzegi24.net##.blix
-wizaz.pl##.ecomm-product-widget
-piekary.info##.banner_top
