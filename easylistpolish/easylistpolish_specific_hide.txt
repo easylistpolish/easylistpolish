@@ -2089,3 +2089,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 tukutno.pl##.blix
 bialobrzegi24.net##.blix
+wizaz.pl##.ecomm-product-widget
