@@ -2090,3 +2090,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 tukutno.pl##.blix
 bialobrzegi24.net##.blix
 wizaz.pl##.ecomm-product-widget
+piekary.info##.banner_top
