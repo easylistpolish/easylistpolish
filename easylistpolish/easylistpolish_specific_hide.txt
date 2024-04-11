@@ -2094,3 +2094,4 @@ gorlice24.pl##.blix
 iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
 terazgostynin.pl##.ads
 dziennikzwiazkowy.com##.bsaProItems
+ng24.ie##.advert
