@@ -272,3 +272,4 @@ supernowosci24.pl##[id^="r-"]
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||tenismagazyn.pl^*^porsche-d
+^banner_$domain=wiadomoscizaglebia.pl
