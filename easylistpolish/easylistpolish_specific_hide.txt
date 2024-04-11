@@ -468,7 +468,7 @@ panoramakutna.pl##.adnotacja
 tvn.pl,tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
 zwierciadlo.pl##.adrek
-24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,klodzko24.eu,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,mojaleczyca.pl,pieniny24.pl,portalplock.pl,rapduma.pl,synonimiczny.pl,tulodz.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,klodzko24.eu,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,mojaleczyca.pl,pieniny24.pl,portalplock.pl,rapduma.pl,synonimiczny.pl,terazgostynin.pl,tulodz.pl,wpr24.pl##.ads
 kutno.net.pl##.ads .slides
 wyborcza.biz,wyborcza.pl##.ads--splint
 zeglarski.info##.ads-block-right
@@ -501,7 +501,7 @@ gospodarkapodkarpacka.pl##.advRec
 altair.com.pl##.advSet
 zyciesokolowa.pl##.adv__content
 historykon.pl##.adv_content
-alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
+alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,ng24.ie,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
 cowkrakowie.pl##.advert--component
 eluban.pl,extra-plonsk.pl,koscierzyna24.info,malbork1.pl,portalpomorza.pl,swiebodzin.tv,tczewska.pl,telewizjamazury.pl,tv-wschod.pl,tvpogranicze.pl,wirtualnesuwalki.pl##.advert-A1
 bobasmiesiaca.pl,bydgoszcz.com,portalpomorza.pl,swiebodzin.tv,tczewska.pl,telewizjamazury.pl,tv-wschod.pl##.advert-A2
@@ -657,7 +657,7 @@ portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
-bialobrzegi24.net,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,e-lubon.pl,esopot.pl,faktypilskie.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,infomogilno24.pl,ipoddebice.pl,ki24.info,koronowo.net.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,swiecie24.pl,szemud24.pl,tukutno.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
+bialobrzegi24.net,ciechocinek.biz,ddtorun.pl,dziendobrypomorze.pl,e-golub.info.pl,e-lubon.pl,esopot.pl,faktypilskie.pl,gazetarogozinska.pl,glospowiatusredzkiego.pl,gorlice24.pl,infomogilno24.pl,ipoddebice.pl,itvszubin.pl,ki24.info,koronowo.net.pl,myszkow365.pl,naszpruszcz.pl,nowinykrapkowickie.pl,ostrodaflesz.pl,pakosc24.pl,panoramaplock.pl,pleszew24.info,powiatrawicki.info,prawobrzeze24.pl,pulsciechanowa.pl,pulsgminy.pl,radzyninfo.pl,superchodziez.pl,swiecie24.pl,szemud24.pl,tukutno.pl,tygodnik.pl,ziemiagorowska.pl,zlomzy.pl##.blix
 nowa-sprzedaz.pl##.block .auto-pr-block
 grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
@@ -693,10 +693,10 @@ cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
 poscigi.pl##.bsaProContainerNew
 dziennikzwiazkowy.com##.bsaProHeader__title
-ekstraklasatrolls.pl##.bsaProItems
+dziennikzwiazkowy.com,ekstraklasatrolls.pl##.bsaProItems
 gazetabilgoraj.pl##.bsac-align-center
 infoserwiselk.pl##.btop
-glivice.pl,nowinytyskie.pl##.builder-banner
+glivice.pl,nowinytyskie.pl,piekary.info##.builder-banner
 ki24.info##.bvideo
 4lomza.pl##.bxbanner
 mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
@@ -1435,6 +1435,7 @@ tylkopilka.pl##[class^="g-col b-2 a"]
 abcdobrejmamy.pl,nysahot.pl##[class^="g-dyn a-"]
 elubaczow.com,zachodniemazowsze.info##[class^="g-single a-"]
 iloveslubice.pl##[class^="ilove-2023-glowna-"]
+iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
 nto.pl##[class^="lista_content_stream_"]
 laziska.com.pl,m-ce.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,mojetychy.pl,mojmikolow.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##[class^="m-ads-"]
 kanal10.pl##[class^="moduletable_banner"]
@@ -2088,11 +2089,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-superchodziez.pl##.blix
-itvszubin.pl##.blix
-gorlice24.pl##.blix
-iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
-terazgostynin.pl##.ads
-dziennikzwiazkowy.com##.bsaProItems
-ng24.ie##.advert
-piekary.info##.builder-banner
