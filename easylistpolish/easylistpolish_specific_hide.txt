@@ -2092,3 +2092,4 @@ superchodziez.pl##.blix
 itvszubin.pl##.blix
 gorlice24.pl##.blix
 iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
+terazgostynin.pl##.ads
