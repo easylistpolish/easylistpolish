@@ -2092,3 +2092,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 nizanskie.info##.blix
 uniejow.net.pl##.blix
 ekutno.pl##.blix
+piekary.info##.article-first-paragraph
