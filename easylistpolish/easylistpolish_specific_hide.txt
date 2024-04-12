@@ -1162,7 +1162,7 @@ wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
-nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
+sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
 sport.interia.pl##.sc-duSInm
 sport.interia.pl##.sc-eywOmQ
