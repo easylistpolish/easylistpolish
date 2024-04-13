@@ -915,6 +915,7 @@ kodiwpigulce.pl##.jaw-banner
 londynek.net##.jd-40Z
 londynek.net##.jd-oaz-d
 mma.pl##.js-sitehead-ads
+piekary.info##.jsRender
 ceneo.pl##.js_widget
 truckitransport.pl##.jsn-mod-custom a[rel="nofollow"]
 truckitransport.pl##.jsn-mod-custom img
@@ -2089,4 +2090,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-piekary.info##.jsRender
