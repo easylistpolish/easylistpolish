@@ -2094,3 +2094,4 @@ gwe24.pl##.blix
 gostyn24.pl##.blix
 gle24.pl##.blix
 ng24.ie##.container br + a
+jaslo4u.pl##a[title="reklama"]
