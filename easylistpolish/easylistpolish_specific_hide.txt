@@ -889,6 +889,7 @@ reflex.com.pl##.home_menu-images-block
 reflex.com.pl##.home_menu-images-right
 bobrzanie.pl##.homeadv
 skawinska.pl##.homepage-ad-area
+rudzianin.pl##.horizontal--ad
 firmypolski.pl##.hot-info-slider
 fakt.pl##.hot_three.promo_box
 korsokolbuszowskie.pl##.iad
@@ -2092,4 +2093,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rudzianin.pl##.horizontal--ad
