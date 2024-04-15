@@ -2095,3 +2095,4 @@ gostyn24.pl##.blix
 gle24.pl##.blix
 ng24.ie##.container br + a
 jaslo4u.pl##a[title="reklama"]
+rudzianin.pl##.small__articles__ad
