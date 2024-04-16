@@ -722,6 +722,7 @@ nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
 pultusk.news##.col-lg-12
+rudzianin.pl##.col-lg-3
 pultusk.news##.col-lg-6
 elektroda.pl##.col-md-12 > div > a[href*="utm_medium=banner"]
 3dwpraktyce.pl##.col-md-offset-3
@@ -2094,4 +2095,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rudzianin.pl##.col-lg-3
