@@ -2097,3 +2097,4 @@ jastrowie24.pl##.blix
 extrawalcz.pl##.blix
 gst24.pl##.blix
 tustolica.pl##.slot
+cybersport.pl##.banner
