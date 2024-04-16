@@ -2095,3 +2095,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 jastrowie24.pl##.blix
 extrawalcz.pl##.blix
+gst24.pl##.blix
