@@ -541,7 +541,7 @@ a6klub.pl##.arek
 niskaemisja.ekoscan.pl##.art-slider
 iswinoujscie.pl##.article ~ .ads
 pomponik.pl##.article-body__ad-gora-srodek
-nowinytyskie.pl,piekary.info##.article-first-paragraph
+nowinytyskie.pl,piekary.info,rudzianin.pl##.article-first-paragraph
 naekranie.pl##.article-header [style^=" width: 375"]
 24wspolnota.pl##.article__ad-special
 eska.pl,eskarock.pl,muratordom.pl,muratorplus.pl,poradnikzdrowie.pl,radioplus.pl,urzadzamy.pl,voxfm.pl##.article__placement
@@ -2097,4 +2097,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rudzianin.pl##.article-first-paragraph
