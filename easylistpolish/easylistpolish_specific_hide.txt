@@ -2098,3 +2098,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 abcjanikowo24.pl##.blix
 ekstrasierpc.pl##.blix
 mojakruszwica.pl##.blix
+iloveslubice.pl##[class^="ilove-2023-sidebar-na-podstronach-"] a
