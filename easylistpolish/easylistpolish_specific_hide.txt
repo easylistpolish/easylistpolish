@@ -2100,3 +2100,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 isanok.pl##.blix
 e-chelmno.pl##.blix
 tusochaczew.pl##.blix
+opolska360.pl##[class^="g g-"]
