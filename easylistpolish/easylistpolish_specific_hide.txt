@@ -626,7 +626,7 @@ zambrow.org##.bannerRotator
 mojanorwegia.pl##.bannerTop
 3trzy3.pl##.banner_1
 satkurier.pl##.banner_750x100_r
-glivice.pl,nowinytyskie.pl,piekary.info##.banner__ad-250
+glivice.pl,nowinytyskie.pl,piekary.info,rudzianin.pl##.banner__ad-250
 koscianiak.pl##.banner__label
 android.com.pl##.banner__placeholder
 radiopoznan.fm##.banner_asset_present_box
@@ -2097,4 +2097,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rudzianin.pl##.banner__ad-250
