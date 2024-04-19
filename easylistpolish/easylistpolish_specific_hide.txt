@@ -2100,3 +2100,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 expresskaszubski.pl##.blix
 chocianow.com.pl##.blix
 spotradomsko.pl##.blix
+rudzianin.pl##.campaign-wrapper
