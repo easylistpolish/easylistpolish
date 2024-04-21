@@ -147,7 +147,6 @@ spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
 weranda.pl###gl_slot
 popularnie.pl###gold-header
-szukacz.pl###googleContainer
 motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
