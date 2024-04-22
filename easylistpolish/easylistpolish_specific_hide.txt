@@ -2101,3 +2101,4 @@ naszradziejow.pl##.blix
 hej.mielec.pl##.blix
 chelmza365.pl##.blix
 wiescimiedzychodzkie.pl##.blix
+brodnica365.pl##.blix
