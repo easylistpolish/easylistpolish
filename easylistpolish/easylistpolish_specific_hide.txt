@@ -2103,3 +2103,4 @@ chelmza365.pl##.blix
 wiescimiedzychodzkie.pl##.blix
 brodnica365.pl##.blix
 mh24.pl###custom_html-9
+ng24.ie##a[href^="https://crimminshoward.ie"]
