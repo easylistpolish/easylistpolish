@@ -226,7 +226,7 @@ rekomendowanefirmy.pl###polecamy-box-2
 betonline.net.pl,wyspiarzniebieski.pl###popup
 zpierwszegotloczenia.pl###popup-ad
 infoilawa.pl###popup-wrapper
-mapa.szukacz.pl,szukacz.pl###popupContainer
+szukacz.p###popupContainer
 zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
 nudziara.pl###post.format_post.nudziara.masonry-brick
