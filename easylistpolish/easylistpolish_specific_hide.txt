@@ -2099,3 +2099,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 gwio.pl##.blix
 naszradziejow.pl##.blix
 hej.mielec.pl##.blix
+chelmza365.pl##.blix
