@@ -2100,3 +2100,4 @@ gwio.pl##.blix
 naszradziejow.pl##.blix
 hej.mielec.pl##.blix
 chelmza365.pl##.blix
+wiescimiedzychodzkie.pl##.blix
