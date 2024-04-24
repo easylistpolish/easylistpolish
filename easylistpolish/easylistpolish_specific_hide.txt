@@ -695,7 +695,7 @@ dziennikzwiazkowy.com##.bsaProHeader__title
 dziennikzwiazkowy.com,ekstraklasatrolls.pl##.bsaProItems
 gazetabilgoraj.pl##.bsac-align-center
 infoserwiselk.pl##.btop
-glivice.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info##.builder-banner
+glivice.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,zabrzenews.pl##.builder-banner
 ki24.info##.bvideo
 4lomza.pl##.bxbanner
 mamotoja.pl,party.pl,wizaz.pl##.c-ad-placement
@@ -2098,4 +2098,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zabrzenews.pl##.builder-banner
