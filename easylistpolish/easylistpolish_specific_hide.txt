@@ -2100,3 +2100,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 portalsremski.pl##.blix
 leszno24.pl##.blix
+faktyct.pl##.blix
