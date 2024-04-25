@@ -125,7 +125,6 @@ supernowosci24.pl##[id^="r-"]
 ||dentoforum.pl^*^baner1.
 ||dobrewiadomosci.eu^*^opal_
 ||dopilar.pl^*^sky1.
-||dothaish.net^$script
 ||dx-team.org^*^pover.
 ||dz-ow.pl^*^narty.
 ||e-hotelarz.pl^*=300x80^
