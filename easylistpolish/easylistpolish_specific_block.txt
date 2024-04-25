@@ -54,7 +54,6 @@
 ^bans^$domain=plastech.pl
 ^biframe^$domain=info.elblag.pl
 ^bimg^$domain=tustolica.pl
-^bjpg^$domain=info.elblag.pl
 ^campaign^$domain=cire.pl
 ^campaigns^$domain=grodzisknews.pl|radomsko24.pl
 ^cms_banery^$domain=architekturaibiznes.pl
