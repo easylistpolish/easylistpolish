@@ -30,7 +30,6 @@ ithardware.pl###art-topBaner
 polemi.co.uk###art_widget
 se.pl,urzadzamy.pl###article_zpr_shopping
 tv-pelplin.pl###aside .custom a[onclick]
-badaniaprenatalne.pl###attachment_21129
 badaniaprenatalne.pl###attachment_99999919457
 tuhiszpania.pl###b_searchboxInc
 gazeta.pl###banC1
