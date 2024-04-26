@@ -2100,3 +2100,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 pulsciechanowa.pl##.new-toplayer
 iszczecinek.pl##.blix
 miastko24##.blix
+faktykaliskie.info##.d-inline-block-not-important
