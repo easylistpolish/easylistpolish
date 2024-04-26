@@ -2101,3 +2101,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 pulsciechanowa.pl##.new-toplayer
 iszczecinek.pl##.blix
+miastko24##.blix
