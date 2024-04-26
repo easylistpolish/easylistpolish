@@ -758,7 +758,7 @@ twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
 ddbelchatow.pl##.d-block
 cooltura24.co.uk,eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,lokalnatelewizja.pl,malbork1.pl,portalpomorza.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
-dziennikpowiatowy.pl,faktykaliskie.info##.d-inline-block-not-important
+dziennikpowiatowy.pl,faktykaliskie.info,halorzeszow.pl##.d-inline-block-not-important
 garnek.pl##.dbb
 24opole.pl##.dd
 handelextra.pl##.desktop-basa
@@ -2097,4 +2097,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-halorzeszow.pl##.d-inline-block-not-important
