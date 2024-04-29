@@ -2099,3 +2099,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ejarocin.pl##.blix
 rzeczkrotoszynska.pl##.blix
 ibytow.pl##.blix
+radiotczew.pl##.d-inline-block-not-important
