@@ -1217,7 +1217,6 @@ tustolica.pl##.slot
 stalowemiasto.pl##.slot-1280px
 4fun.tv##.slot-middle
 slowoseniora.pl##.slowo-widget
-gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
 fronda.pl##.small-info
 nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,zabrzenews.pl##.small__articles__ad
