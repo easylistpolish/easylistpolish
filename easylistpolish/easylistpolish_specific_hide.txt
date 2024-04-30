@@ -430,6 +430,7 @@ ding.pl,moviesroom.pl##.ad-box
 biznesalert.pl,interia.pl,styl.fm##.ad-container
 fakty-wwl.pl##.ad-container-1
 promocja.mielec.pl##.ad-image
+filmnet.pl##.ad-ins
 dziendobry.tvn.pl##.ad-ph
 portalspozywczy.pl##.ad-place-2
 chelmski.eu##.ad-single1
@@ -2096,4 +2097,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-filmnet.pl##.ad-ins
