@@ -2099,3 +2099,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 roztocze.net##.new-toplayer
 roztocze.net##.blix
 terazgabin.pl##.blix
+gwarek.com.pl##.blix
