@@ -2100,3 +2100,4 @@ roztocze.net##.blix
 terazgabin.pl##.blix
 gwarek.com.pl##.blix
 fakty.nl##.new-toplayer
+docelu.pl##.dbb-billboard
