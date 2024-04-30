@@ -401,7 +401,6 @@ ostrowite.info##.a-14
 slupca.pl##.a-220
 ostrowite.info##.a-46
 ostrowite.info##.a-5
-ostrowite.info##.a-68
 ostrowite.info##.a-69
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
