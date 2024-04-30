@@ -2099,3 +2099,4 @@ roztocze.net##.new-toplayer
 roztocze.net##.blix
 terazgabin.pl##.blix
 gwarek.com.pl##.blix
+fakty.nl##.new-toplayer
