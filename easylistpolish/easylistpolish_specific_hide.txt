@@ -1698,6 +1698,7 @@ businesstraveller.pl##a[href="https://www.siemens.com/pl/pl/home.html"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
+chillitorun.pl##a[href="https://www.ucando.pl/czesci-zamienne"]
 portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
 biokurier.pl##a[href="https://www.worldfood.pl/?utm_source=banner&utm_medium=biokurier&utm_campaign=WFP2024"]
 angolia.co.uk##a[href="https://www.zaklad-pogrzebowy-uk.co.uk/"]
@@ -2098,4 +2099,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-chillitorun.pl##a[href="https://www.ucando.pl/czesci-zamienne"]
