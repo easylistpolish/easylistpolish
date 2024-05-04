@@ -2100,3 +2100,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+chip.pl##a[href="https://www.x-kom.pl/g-5/c/14-plyty-glowne.html?producent=57-gigabyte&f1759-chipset=271413-intel-b760"]
