@@ -2103,3 +2103,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 roztocze.net##.blix
 terazgabin.pl##.blix
+gwarek.com.pl##.blix
