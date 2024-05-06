@@ -387,7 +387,7 @@ mazovia24.pl##.ROTcarousel
 e-telecom.pl,sklep-militarny.com.pl##.Reklamy
 starachowicka.pl##.SzBBB
 starachowicka.pl##.SzBBB163
-esopot.pl,grudziadz365.pl,gwio.pl,hej.mielec.pl,kolniak24.eu##.TOPNewsB
+esopot.pl,grudziadz365.pl,gwio.pl,hej.mielec.pl##.TOPNewsB
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 kartuzy.info##._ad_loaded
