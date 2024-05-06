@@ -2104,3 +2104,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 roztocze.net##.blix
 terazgabin.pl##.blix
 gwarek.com.pl##.blix
+chip.pl##a[href="https://pl.asus.click/RTX_4090"]
