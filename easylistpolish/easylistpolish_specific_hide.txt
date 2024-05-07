@@ -119,7 +119,6 @@ waw4free.pl###detal_top
 deepl.com###dl_app_banner_popup
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
-slowotrojmiasta.pl###efaro-widget
 hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
