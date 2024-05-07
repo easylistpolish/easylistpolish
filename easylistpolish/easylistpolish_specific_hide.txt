@@ -77,7 +77,6 @@ hrubieszow.info###black-studio-tinymce-7
 telewizor.eu###block
 icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
-30minut.pl###block-13
 gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
