@@ -2104,3 +2104,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wpu24.pl##.blix
 hej.rzeszow.pl##.blix
+lowiczanin.info##.blix
