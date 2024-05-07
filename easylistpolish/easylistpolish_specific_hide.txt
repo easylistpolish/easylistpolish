@@ -71,7 +71,6 @@ zwik.skawina.pl###bgDiv
 bosonamacie.pl###big-wrapper
 forsal.pl###bill_top_id
 ftb.pl###billboard
-nowawrzesnia.pl###bills_in_rotation_1_44754
 tp.com.pl###bills_in_rotation_1_8239
 przedreptacswiat.pl###black-studio-tinymce-5
 hrubieszow.info###black-studio-tinymce-7
