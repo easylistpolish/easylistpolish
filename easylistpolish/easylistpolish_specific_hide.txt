@@ -2102,3 +2102,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wpu24.pl##.blix
 hej.rzeszow.pl##.blix
 lowiczanin.info##.blix
+polska-morska.pl##a[href^="https://www.lotto.pl/"]
