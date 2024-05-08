@@ -390,7 +390,7 @@ lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
 kartuzy.info##._ad_loaded
 kartuzy.info,koscierski.info##._ap_ad
-sad24.pl,stargardzka.pl,warzywa.pl,wrp.pl##._ning_inner
+sad24.pl,stargardzka.pl,wrp.pl##._ning_inner
 divers24.pl##._ning_jss_zone
 ipolska24.pl##._ning_zone_inner
 podhale24.pl##.a
