@@ -2106,3 +2106,4 @@ e-wabrzezno.info.pl##.blix
 wrzesnia.info.pl##.blix
 bielskirynek.pl##.blix
 zawiercie365.pl##.blix
+chorzowianin.pl##a[href="http://agencjamedial.pl"]
