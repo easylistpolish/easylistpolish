@@ -1610,6 +1610,7 @@ wiesci.com.pl##a[href="https://budet.pl/"]
 calisia.pl##a[href="https://calisia.pl/storage/a/3a65fa6367dd0ea915b/click"]
 bydgoszcz.com##a[href="https://cdue.edu.pl"]
 cannabisnews.pl##a[href="https://centrummarihuany.pl/"]
+chorzowianin.pl##a[href="https://chorzowianin.pl/2022/11/15/wazne-zeby-miec-duzy-obrazek-podcast-w-ramach-projektu-calypso/"]
 bitcoin-info.pl##a[href="https://coingi.com/pl"]
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
 angolia.co.uk##a[href="https://domeny24.uk/"]
@@ -2105,4 +2106,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-chorzowianin.pl##a[href="https://chorzowianin.pl/2022/11/15/wazne-zeby-miec-duzy-obrazek-podcast-w-ramach-projektu-calypso/"]
