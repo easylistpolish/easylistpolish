@@ -10,7 +10,6 @@ kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
-chomikuj.pl###aPlaceHolder
 ekorodzice.pl###a_d_billboard
 bbfan.pl,ciechanowinaczej.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,konecki24.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,pulsgdanska.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
