@@ -2111,3 +2111,4 @@ slu24.pl##.blix
 police24.pl##.blix
 legio24.pl##.blix
 jura365.pl##.blix
+warzywa.pl##.main-top-banner
