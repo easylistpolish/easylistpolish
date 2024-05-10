@@ -65,7 +65,6 @@
 ^inne^$domain=bezrzecze24.pl|gminadobra24.pl|gumience24.pl|mierzyn24.pl
 ^kampania_reklamowa^$domain=lubliniec.info
 ^logo-$domain=legitymizm.org
-^motor-land^$domain=motocykle125.pl
 ^nowosc_images^$domain=angielski.slowka.pl
 ^partner^$domain=podajdalej.info.pl
 ^pasek_reklam^$domain=proszkow.eu
