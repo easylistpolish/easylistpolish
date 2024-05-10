@@ -2110,3 +2110,4 @@ jura365.pl##.new-toplayer
 terazstrzelno.pl##.blix
 infoskierniewice.pl##.blix
 slu24.pl##.blix
+police24.pl##.blix
