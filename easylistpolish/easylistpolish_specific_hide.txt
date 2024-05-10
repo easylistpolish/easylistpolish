@@ -117,7 +117,6 @@ zyciezamoscia.pl###custom_html-8
 mh24.pl,portalprzemyski.pl###custom_html-9
 karnickie.info###custom_post_widget-2
 waw4free.pl###detal_top
-deepl.com###dl_app_banner_popup
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 hrubieszow.info###endo_wrc_widget-2
