@@ -2111,3 +2111,4 @@ bilgoraj.com.pl##.blix
 pulstygodnia.pl##.blix
 tygodnikketrzynski.pl##.new-toplayer
 tyna.info.pl##.blix
+tygodnikketrzynski.pl##.blix
