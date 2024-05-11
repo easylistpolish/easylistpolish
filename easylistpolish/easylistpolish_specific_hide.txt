@@ -1365,7 +1365,6 @@ tarnobrzeg.info##.wp-container-2
 tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
 starosadeckie.info##.wp-image-214448
-tygodnikketrzynski.pl##.wp-image-216508
 staresiolkowice.pl##.wp-image-26929
 staresiolkowice.pl##.wp-image-27882
 beskidzka24.pl##.wp_bannerize_container
