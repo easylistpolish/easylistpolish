@@ -1695,6 +1695,7 @@ swidnica24.pl##a[href="https://www.iparts.pl"]
 nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 bydgoszcz.com##a[href="https://www.lh.pl/hosting?ref=nowaksolutions"]
 e-kg.pl##a[href="https://www.mazowieckapark.pl/"]
+cksport.pl##a[href="https://www.odzywkidlasportowcow.pl/"]
 30minut.pl##a[href="https://www.orlenpaczka.pl/o-usludze-orlen-paczka/"]
 staleo.pl##a[href="https://www.polteknik.pl/"]
 biznestuba.pl##a[href="https://www.portu.pl/?utm_source=pl&utm_medium=banner&utm_campaign=biznes-tuba"]
@@ -2109,4 +2110,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cksport.pl##a[href="https://www.odzywkidlasportowcow.pl/"]
