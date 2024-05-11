@@ -2113,3 +2113,4 @@ tygodnikketrzynski.pl##.new-toplayer
 tyna.info.pl##.blix
 tygodnikketrzynski.pl##.blix
 panoramakutna.pl##.rekl + div
+ciechocinek.biz##img[src="https://reomanager.pl/news/bb/dc/bbdc6f75bef39f5f0f755535cee109255aa248f84cd46a45dca4e1ea75fb8ed703169fb076cb35f6194f13c6100ac3f8cc7400d0d87996ead5a95de9e6808ec7/original.jpg?token=01d46a508ce02c90865a005f0f594206e389836f8a7df94a35e305a43b70d10af7a4cf92ef958e26f94bcb5ec5bacb96cc91791acb31d00d7e8951edacd18b1c&pathname=/pl"]
