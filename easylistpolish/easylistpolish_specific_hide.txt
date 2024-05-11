@@ -2112,3 +2112,4 @@ pulstygodnia.pl##.blix
 tygodnikketrzynski.pl##.new-toplayer
 tyna.info.pl##.blix
 tygodnikketrzynski.pl##.blix
+panoramakutna.pl##.rekl + div
