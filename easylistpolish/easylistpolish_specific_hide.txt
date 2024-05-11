@@ -1169,6 +1169,7 @@ sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
 sport.interia.pl##.sc-duSInm
 sport.interia.pl##.sc-eywOmQ
+cire.pl##.sc-kPVwWT
 4fun.tv,naekranie.pl##.screening-banner
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
@@ -2108,4 +2109,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cire.pl##.sc-kPVwWT
