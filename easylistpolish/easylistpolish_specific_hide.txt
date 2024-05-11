@@ -2111,3 +2111,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 magazynregionalny.pl##.blix
 bilgoraj.com.pl##.blix
 pulstygodnia.pl##.blix
+tygodnikketrzynski.pl##.new-toplayer
