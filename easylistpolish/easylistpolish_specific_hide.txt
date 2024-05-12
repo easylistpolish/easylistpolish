@@ -2113,3 +2113,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 motocykle125.pl##.wp_widget_plugin_textarea
 nrypin.pl##.blix
 czasbrodnicy.pl##.blix
+haloursynow.pl##.blix
