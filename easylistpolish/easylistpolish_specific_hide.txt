@@ -2114,3 +2114,4 @@ motocykle125.pl##.wp_widget_plugin_textarea
 nrypin.pl##.blix
 czasbrodnicy.pl##.blix
 haloursynow.pl##.blix
+rydzyna24.pl##.blix
