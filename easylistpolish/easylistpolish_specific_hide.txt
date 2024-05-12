@@ -180,7 +180,7 @@ polmedia.pl###makingdifferentpopup
 skipol.pl###makler2
 skipol.pl###makler7
 skipol.pl###maklerboczna1
-tu.swinoujscie.pl,tyna.info.pl###media_image-11
+tu.swinoujscie.pl###media_image-11
 tonaszregion.pl###media_image-134
 gazetatrybunalska.info###media_image-15
 wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
