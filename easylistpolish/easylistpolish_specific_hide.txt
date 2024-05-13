@@ -2115,3 +2115,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 hej.slupsk.pl##.blix
 nowysztum.pl##.blix
+mypolkowice.pl##.blix
