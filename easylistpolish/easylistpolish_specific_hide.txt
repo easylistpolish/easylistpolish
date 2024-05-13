@@ -2115,3 +2115,4 @@ nrypin.pl##.blix
 czasbrodnicy.pl##.blix
 haloursynow.pl##.blix
 rydzyna24.pl##.blix
+cmg24.pl##.H7
