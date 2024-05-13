@@ -2117,3 +2117,4 @@ hej.slupsk.pl##.blix
 nowysztum.pl##.blix
 mypolkowice.pl##.blix
 koscianiak.pl##.blix
+myglogow.pl##.blix
