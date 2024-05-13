@@ -1129,6 +1129,7 @@ panoramakutna.pl##.rekl + div
 autofakty.pl##.rekl_text
 polska-morska.pl##.reklama + p
 glosmordoru.pl##.reklama-banner
+cnc.info.pl##.reklama-bokc
 24tp.pl##.reklama-box
 24tp.pl##.reklama-box-newsy
 bielskiedrogi.pl,tychy.info##.reklama-display-desktop
@@ -2112,4 +2113,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cnc.info.pl##.reklama-bokc
