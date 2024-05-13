@@ -191,7 +191,6 @@ gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
 30minut.pl###media_image-4
-budownictwo.co###media_image-5
 czestochowskie24.pl###media_image-6
 czestochowskie24.pl,gazetatrybunalska.info###media_image-7
 swietokrzyskie24.eu###metaslider_container_4396
