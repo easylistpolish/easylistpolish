@@ -75,7 +75,7 @@
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
-^reklama-$domain=tkn24.pl
+^reklama-$domain=tkn24.pl|tv-pelplin.pl
 ^reklama0_$domain=24ikp.pl
 ^reklama_$domain=24ikp.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|konstancin.com|legitymizm.org|miedzyzdrojskie.info|tarnowiak.pl|tylkotorun.pl
 ^reklamowe^$domain=bolec.info
@@ -269,4 +269,3 @@ supernowosci24.pl##[id^="r-"]
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^reklama-$domain=tv-pelplin.pl
