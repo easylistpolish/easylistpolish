@@ -2116,3 +2116,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 hej.slupsk.pl##.blix
 nowysztum.pl##.blix
 mypolkowice.pl##.blix
+koscianiak.pl##.blix
