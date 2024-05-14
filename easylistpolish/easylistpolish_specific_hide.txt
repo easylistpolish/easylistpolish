@@ -736,6 +736,7 @@ ng24.ie##.container br + a
 wiadomoscihandlowe.pl##.container-topads
 comparic.pl##.container11
 comparic.pl##.container16
+comparic.pl##.containerBottom
 comparic.pl##.containerRectangle
 lublin112.pl##.container[style="min-height: 325px"]
 flashscore.pl##.container__bannerZone
@@ -2114,4 +2115,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-comparic.pl##.containerBottom
