@@ -1072,6 +1072,7 @@ divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
 burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,party.pl,polki.pl,przyslijprzepis.pl,viva.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
+cnc.info.pl##.phpbb-ads-center
 kuriergarwolinski.pl##.picture-spot
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 meczyki.pl##.placeholder
@@ -2113,4 +2114,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cnc.info.pl##.phpbb-ads-center
