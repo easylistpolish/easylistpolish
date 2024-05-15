@@ -2117,3 +2117,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 warzywa.pl##.td-header-sp-recs
 ostrowiecka.pl##.new-toplayer
+faktypilskie.pl##[class^="materialy-promocyjne"]
