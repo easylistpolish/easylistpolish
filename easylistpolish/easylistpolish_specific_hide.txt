@@ -2119,3 +2119,4 @@ warzywa.pl##.td-header-sp-recs
 ostrowiecka.pl##.new-toplayer
 faktypilskie.pl##[class^="materialy-promocyjne"]
 ki24.info##[class^="materialy-promocyjne"]
+ddtorun.pl##[class^="materialy-promocyjne"]
