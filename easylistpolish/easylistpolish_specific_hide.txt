@@ -2121,3 +2121,4 @@ faktypilskie.pl##[class^="materialy-promocyjne"]
 ki24.info##[class^="materialy-promocyjne"]
 ddtorun.pl##[class^="materialy-promocyjne"]
 swiecie24.pl##[class^="materialy-promocyjne"]
+comparic.pl##.container20
