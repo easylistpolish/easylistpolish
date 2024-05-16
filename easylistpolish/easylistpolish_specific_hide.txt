@@ -2122,3 +2122,4 @@ e-krajna.pl##.blix
 zyciesiedleckie.pl##.blix
 kolniak24.eu##.blix
 gniewkowo.eu##.blix
+terazlipno.pl##.blix
