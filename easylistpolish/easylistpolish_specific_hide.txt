@@ -2124,3 +2124,4 @@ kolniak24.eu##.blix
 gniewkowo.eu##.blix
 terazlipno.pl##.blix
 gorlice24.pl##[class^="materialy-promocyjne"]
+tygodnik.pl##[class^="materialy-promocyjne"]
