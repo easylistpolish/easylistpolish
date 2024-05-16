@@ -752,6 +752,7 @@ palegro.pl##.custom-commercial-banner-container
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
 przeclaw24.pl##.custompolecamy
+cowkrakowie.pl##.cwk--component
 wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
@@ -2120,4 +2121,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cowkrakowie.pl##.cwk--component
