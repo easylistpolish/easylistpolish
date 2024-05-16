@@ -2126,3 +2126,4 @@ terazlipno.pl##.blix
 gorlice24.pl##[class^="materialy-promocyjne"]
 tygodnik.pl##[class^="materialy-promocyjne"]
 ekutno.pl##[class^="materialy-promocyjne"]
+cooltura24.co.uk##img[src*="reomanager.pl"]
