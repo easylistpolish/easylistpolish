@@ -399,6 +399,7 @@ ostrowite.info##.a-69
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
+cowwilanowie.pl##.a-image
 podlasie24.pl##.a-place
 cowwilanowie.pl##.a-re
 cowwilanowie.pl##.a-re + a
@@ -2122,4 +2123,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cowwilanowie.pl##.a-image
