@@ -400,6 +400,7 @@ jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
 podlasie24.pl##.a-place
+cowwilanowie.pl##.a-re
 cowwilanowie.pl##.a-re + a
 conamokotowie.pl##.a-re + a:nth-of-type(1)
 nowy-sacz.info,oswiecim112.pl,radioradom.pl,zwiedzamyparyz.pl##.a-single
@@ -2121,4 +2122,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cowwilanowie.pl##.a-re
