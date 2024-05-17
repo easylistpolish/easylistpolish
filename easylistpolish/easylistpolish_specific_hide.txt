@@ -2124,3 +2124,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zyciesiedleckie.pl##[class^="materialy-promocyjne"]
 gwe24.pl##[class^="materialy-promocyjne"]
 gostyn24.pl##[class^="materialy-promocyjne"]
+grudziadz365.pl##[class^="materialy-promocyjne"]
