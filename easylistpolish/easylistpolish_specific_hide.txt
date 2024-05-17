@@ -2130,3 +2130,4 @@ expresskaszubski.pl##[class^="materialy-promocyjne"]
 esopot.pl##[class^="materialy-promocyjne"]
 pulsgdanska.pl##.ad--bill-top
 doba.pl##.special__box
+miasto-info.pl##.ads
