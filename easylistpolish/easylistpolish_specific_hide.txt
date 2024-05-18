@@ -712,6 +712,7 @@ rudzianin.pl##.centerBanner
 polityka.pl##.cg_ad_outer
 polityka.pl##.cg_subscribe99_banner_apla
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
+cozadzien.pl##.cls-billboard
 faktykonopne.pl,nasz-glos.com,poloniairlandia.pl,swiatoze.pl,wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
 nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
@@ -2123,4 +2124,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cozadzien.pl##.cls-billboard
