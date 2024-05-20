@@ -2126,3 +2126,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 allegro.pl#?#[data-variants-visible]:-abp-contains(Sponsorowane)
+hej.mielec.pl##[class^="materialy-promocyjne"]
