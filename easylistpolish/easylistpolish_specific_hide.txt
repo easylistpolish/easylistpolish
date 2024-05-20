@@ -2130,3 +2130,4 @@ rzeczkrotoszynska.pl##[class^="materialy-promocyjne"]
 roztocze.net##[class^="materialy-promocyjne"]
 gwarek.com.pl##[class^="materialy-promocyjne"]
 wpu24.pl##[class^="materialy-promocyjne"]
+cybersport.pl##.banner
