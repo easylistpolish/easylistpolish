@@ -1614,6 +1614,7 @@ buzz.give5.pl##a[href="https://654.pl/rMZs3KSL"]
 buzz.give5.pl##a[href="https://654.pl/znrb6S"]
 audiostereo.pl##a[href="https://audiotrendt.com.pl/"]
 biznestuba.pl##a[href="https://aurechome.pl"]
+cyfrowaekonomia.pl##a[href="https://auth.zonda.exchange/ref/cyfrowaekonomia/38/pl-PL"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
 staleo.pl##a[href="https://baumalog.pl/"]
 tulodz.pl##a[href="https://beesafe.pl/"]
@@ -2125,4 +2126,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cyfrowaekonomia.pl##a[href="https://auth.zonda.exchange/ref/cyfrowaekonomia/38/pl-PL"]
