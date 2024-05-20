@@ -1671,6 +1671,7 @@ angolia.co.uk##a[href="https://polonia24.co.uk/londyn/uslugi/zdrowie-medycyna/we
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
 angolia.co.uk##a[href="https://pracuj.uk/"]
 7dni.pila.pl##a[href="https://prostodo.pl/c?pid=59643&tid=3863&ha=3113724408&r=8400"]
+cyfrowaekonomia.pl##a[href="https://quark.house/"]
 pogoda.info##a[href="https://samochody.pl"]
 bitcoin-info.pl##a[href="https://shop.trezor.io/?offer_id=10&aff_id=1621&file_id=151"]
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
@@ -2126,4 +2127,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cyfrowaekonomia.pl##a[href="https://quark.house/"]
