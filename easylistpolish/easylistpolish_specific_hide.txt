@@ -1727,6 +1727,7 @@ biokurier.pl##a[href="https://www.worldfood.pl/?utm_source=banner&utm_medium=bio
 chip.pl##a[href="https://www.x-kom.pl/g-5/c/14-plyty-glowne.html?producent=57-gigabyte&f1759-chipset=271413-intel-b760"]
 angolia.co.uk##a[href="https://www.zaklad-pogrzebowy-uk.co.uk/"]
 angolia.co.uk##a[href="https://zbiorka.uk/"]
+cypr24.eu##a[href="mailto:gdomagala021@gmail.com"]
 chelmski.eu##a[href="naszchelm.eu"]
 blogbukmacherski.pl##a[href="sts"]
 mojprzewodnik.pl##a[href="www.finans.pl"]
@@ -2127,4 +2128,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##a[href="mailto:gdomagala021@gmail.com"]
