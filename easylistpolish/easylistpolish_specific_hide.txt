@@ -1582,6 +1582,7 @@ zyleta.info##a[href="http://ultrastreet.pl/"]
 haczyk.pl##a[href="http://www.akumulatory-zelowe.pl"]
 faunaflora.com.pl##a[href="http://www.animarwitaminy.pl/"]
 beskid-niski.pl##a[href="http://www.banica.com.pl/"]
+cypr24.eu##a[href="http://www.bluenetcyprus.com/"]
 fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
 wabrzezno-cwa.pl##a[href="http://www.czesciauto24.pl/"]
 7dni.pila.pl##a[href="http://www.dron-media.eu"]
@@ -2128,4 +2129,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##a[href="http://www.bluenetcyprus.com/"]
