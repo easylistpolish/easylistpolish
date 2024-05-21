@@ -1629,6 +1629,7 @@ cannabisnews.pl##a[href="https://centrummarihuany.pl/"]
 chorzowianin.pl##a[href="https://chorzowianin.pl/2022/11/15/wazne-zeby-miec-duzy-obrazek-podcast-w-ramach-projektu-calypso/"]
 bitcoin-info.pl##a[href="https://coingi.com/pl"]
 cypr24.eu##a[href="https://cypr24.eu/ctt/"]
+cypr24.eu##a[href="https://cypr24.eu/poszukiwany-pracownik-recepcji/"]
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
 angolia.co.uk##a[href="https://domeny24.uk/"]
 7dni.pila.pl##a[href="https://dronmedia.my.canva.site/newsmedia-info?fbclid=IwAR0nKL3WPxUwbIBjxybGL5kjfvAymrHxAgzW-HhCiBJGlRuQmLxVA3W7O20"]
@@ -2130,4 +2131,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##a[href="https://cypr24.eu/poszukiwany-pracownik-recepcji/"]
