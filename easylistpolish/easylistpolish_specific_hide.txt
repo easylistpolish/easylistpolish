@@ -2131,3 +2131,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ostrowiecka.pl##.blix
 pogodawtoruniu.pl##.new-toplayer
 glossokolowa.pl##.blix
+cypr24.eu##img[src*="reklama"]
