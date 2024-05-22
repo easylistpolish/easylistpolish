@@ -2046,6 +2046,7 @@ lubaczow.tv##img[alt^="Ad banner"]
 gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
+cypr24.eu##img[src*="Banner"]
 chojna24.pl##img[src*="googleusercontent."]
 bielskirynek.pl##img[src*="pasek_baner"]
 cypr24.eu##img[src*="reklama"]
@@ -2129,4 +2130,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##img[src*="Banner"]
