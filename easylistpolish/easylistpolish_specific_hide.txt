@@ -1700,6 +1700,7 @@ expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
 www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
 nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
+cypr24.eu##a[href="https://www.facebook.com/profile.php?id=100091904111983"]
 plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
 staleo.pl##a[href="https://www.fanuc.eu/pl/pl?utm_source=staleo&utm_medium=banner+wysuwalny&utm_campaign=ogolny"]
 gazeta-mosina.pl##a[href="https://www.firmarolnicza.pl/"]
@@ -2131,4 +2132,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##a[href="https://www.facebook.com/profile.php?id=100091904111983"]
