@@ -207,7 +207,6 @@ wynagrodzenia.pl###obw-ad.modal
 24.pl###oglmetka
 acermaniak.pl,activemaniak.pl,agdmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,gsmmaniak.pl,luxmaniak.pl,mobimaniak.pl,rtvmaniak.pl,tabletmaniak.pl###okazja-dnia a
 naklo24.pl###okazje2
-menshealth.pl###optad-sub-970x250_3
 vetopedia.pl###owl-demo-4
 bobrowniki.tv###page_right [class*="mod_banners_rotate_"]
 miastokolobrzeg.pl###panel_baner
