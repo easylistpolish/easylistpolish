@@ -2139,3 +2139,4 @@ ostrowiecka.pl##[class*="banner--"]
 koscianiak.pl##[class^="materialy-promocyjne"]
 myglogow.pl##[class^="materialy-promocyjne"]
 lowiczanin.info##[class^="materialy-promocyjne"]
+miastko24.pl##.blix
