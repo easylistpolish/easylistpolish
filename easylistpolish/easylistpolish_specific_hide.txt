@@ -367,7 +367,6 @@ turek.net.pl##.BanerO
 turek.net.pl##.BanerP
 wiadomoscisasiedzkie.pl##.BanerRg
 turek.net.pl##.BanerS
-onet.pl##.CenterAd_containerTop__vg7M0
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
