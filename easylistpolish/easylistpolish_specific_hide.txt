@@ -980,7 +980,6 @@ b24tv.pl##.metaslider
 sloworegionu.pl##.mfp-container
 comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
-menshealth.pl##.mh-optad
 cadblog.pl##.mh-sidebar-2
 tv.pl##.middle-salesmedia
 ipulawy.pl##.mkd-content-top-holder
