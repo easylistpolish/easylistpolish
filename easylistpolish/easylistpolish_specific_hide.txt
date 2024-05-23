@@ -1698,6 +1698,7 @@ gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
 akcjasos.pl##a[href="https://www.e-pity.pl/abc_podatki/deklaracje/pit_37/"]
 expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
 www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
+cypr24.eu##a[href="https://www.facebook.com/cyprustourspaphos"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
 nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
 cypr24.eu##a[href="https://www.facebook.com/profile.php?id=100091904111983"]
@@ -2133,4 +2134,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cypr24.eu##a[href="https://www.facebook.com/cyprustourspaphos"]
