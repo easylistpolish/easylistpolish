@@ -2137,3 +2137,4 @@ transfermarkt.pl##.ra
 warzywa.pl##.warzy-srod-ii-d
 ostrowiecka.pl##[class*="banner--"]
 koscianiak.pl##[class^="materialy-promocyjne"]
+myglogow.pl##[class^="materialy-promocyjne"]
