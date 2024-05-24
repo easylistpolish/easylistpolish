@@ -2140,3 +2140,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 police24.pl##[class^="materialy-promocyjne"]
 warzywa.pl##.warzy-srod-iii-d
+zawszepomorze.pl##[class="text-center my-3 container"]
