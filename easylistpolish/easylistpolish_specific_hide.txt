@@ -1952,6 +1952,7 @@ rekomendowanefirmy.pl##div[class^="AD-"]
 stockwatch.pl##div[class^="ADbox"]
 dts24.pl,fizjoterapeuty.pl,infomare.pl,kosmetologa.pl,rzeszowskieinfo.pl##div[class^="a-single a-"]
 zielonanews.pl##div[class^="a-single"]
+czestochowiak.pl##div[class^="adName_"]
 dzwignice.info##div[class^="adSliderIn"]
 astrona.pl##div[class^="adsense"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
@@ -2141,4 +2142,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-czestochowiak.pl##div[class^="adName_"]
