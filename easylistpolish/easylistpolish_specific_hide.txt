@@ -2145,3 +2145,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 transfermarkt.pl##.quick-select-wrapper ~ div
 ng24.ie##.hot-news + a
 bankier.pl##section.o-article-link-box
+czyztak.pl##a[href="https://www.kolejeslaskie.com/obsluga-podroznych/oferty/max-bilet/"]
