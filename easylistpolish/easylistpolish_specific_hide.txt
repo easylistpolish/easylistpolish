@@ -2144,3 +2144,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 transfermarkt.pl##.quick-select-wrapper ~ div
 ng24.ie##.hot-news + a
+bankier.pl##section.o-article-link-box
