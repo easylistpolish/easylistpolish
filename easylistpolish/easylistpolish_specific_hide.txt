@@ -793,6 +793,7 @@ radioemaus.pl##.elementor-image
 samnaprawiam.com,zwa24.pl##.elementor-image > A
 ecopoznan.pl,tenismagazyn.pl##.elementor-shortcode
 radiobiper.info##.elementor-size-small
+db2010.pl##.elementor-slides
 radioemaus.pl##.elementor-text-editor
 iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
@@ -2149,4 +2150,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-db2010.pl##.elementor-slides
