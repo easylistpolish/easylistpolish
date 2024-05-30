@@ -2025,6 +2025,7 @@ capuccino.eu##div[id^="n2-ss-"]
 kurierzamojski.pl##div[id^="nowyk-"]
 se.pl##div[id^="placement"]
 pojezierze.com.pl##div[id^="pojez-"]
+dbpolska.net##div[id^="reklama_"]
 kurierostrowiecki.pl##div[id^="sad_"]
 transfermarkt.pl##div[id^="sftb"]
 jagodnik.pl##div[id^="spu-"]
@@ -2152,4 +2153,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dbpolska.net##div[id^="reklama_"]
