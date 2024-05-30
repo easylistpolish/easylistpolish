@@ -2153,3 +2153,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+dbpolska.net##a[href="https://www.panini.pl/shp_pol_pl/dragon-ball-super-the-legend-of-son-goku-trading-card-collection-2-pude-ka-z-24-saszetkami-megazestaw-startowy-bundle004281b5pl48sp-it.html"]
