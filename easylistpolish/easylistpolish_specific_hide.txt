@@ -1691,6 +1691,7 @@ staleo.pl##a[href="https://tfm.pl/aktualnosci/wycinarki-laserowe-waterjet-tci-cu
 tkn24.pl##a[href="https://ubezpieczeniawerens.pl"]
 skarzysko24.pl##a[href="https://unin.pl/"]
 businesstraveller.pl##a[href="https://unique-apartments.pl/royaltulip/?utm_source=rtwa&utm_medium=rtwa_baner&utm_id=baner"]
+dbpolska.net##a[href="https://uniwersumdccomics.com.pl/"]
 skarzysko24.pl##a[href="https://villaro.pl/"]
 cypr24.eu##a[href="https://wakacjenacyprze.com/"]
 staleo.pl##a[href="https://www.abplanalp.pl/monitoring_groth/?utm_source=staleo&utm_medium=baner&utm_campaign=monitoring-maszyn"]
@@ -2156,4 +2157,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dbpolska.net##a[href="https://uniwersumdccomics.com.pl/"]
