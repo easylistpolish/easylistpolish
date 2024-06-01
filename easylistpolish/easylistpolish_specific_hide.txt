@@ -1709,6 +1709,7 @@ cadblog.pl##a[href="https://www.camdivision.pl/pl"]
 biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
 fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
+ddb24.pl##a[href="https://www.czesciauto24.pl/narzedzia"]
 gazeta-mosina.pl##a[href="https://www.e-perfecthouse.pl/"]
 akcjasos.pl##a[href="https://www.e-pity.pl/abc_podatki/deklaracje/pit_37/"]
 dailyweb.pl##a[href="https://www.euro.com.pl/odkurzacze-automatyczne/dreame-l10s-pro-ultra-heat.bhtml"]
@@ -2160,4 +2161,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ddb24.pl##a[href="https://www.czesciauto24.pl/narzedzia"]
