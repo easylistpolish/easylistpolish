@@ -1310,6 +1310,7 @@ ifrancja.fr##.top-main-ads
 fpiec.pl##.top-offer-box
 dobragazeta.com.pl##.top-panel
 swidnica24.pl##.top-sliding-ad
+debica.tv##.top.ad
 jelonka.com,swidniczka.com,walbrzyszek.com##.top5
 swidniczka.com##.top6
 walbrzyszek.com##.top6 .kol4
@@ -2161,4 +2162,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-debica.tv##.top.ad
