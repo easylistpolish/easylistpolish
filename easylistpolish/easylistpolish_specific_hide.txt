@@ -417,6 +417,7 @@ mistrzowie.org##.abox-view-content
 kazimierzdolny.pl##.ad--main
 cyberdefence24.pl,defence24.pl##.ad-banner
 defence24.com##.ad-banner__box
+defence24.com##.ad-banner__header
 pcworld.pl##.ad-bilbo2
 legionisci.com##.ad-billboard1
 ding.pl,moviesroom.pl##.ad-box
@@ -2162,4 +2163,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-defence24.com##.ad-banner__header
