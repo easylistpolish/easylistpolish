@@ -76,7 +76,7 @@
 ^rekl^$domain=pgt.pl
 ^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
-^reklama-$domain=tkn24.pl|tv-pelplin.pl
+^reklama-$domain=tkn24.pl|transg.pl|tv-pelplin.pl
 ^reklama0_$domain=24ikp.pl
 ^reklama_$domain=24ikp.pl|greencanoe.pl|jaslo4u.pl|kazimierzdolny24.pl|konstancin.com|legitymizm.org|miedzyzdrojskie.info|tarnowiak.pl|tylkotorun.pl
 ^reklamowe^$domain=bolec.info
@@ -95,7 +95,7 @@ _baner_$domain=panoramakutna.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banner.$domain=polacywewloszech.com|swiatmetali.eu
-_banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-pingpong.pl|forumfajerwerki.pl|itwiz.pl|jagodnik.pl|juliarozumek.pl|katalogprzedsiebiorstw.pl|kb.pl|kuriergarwolinski.pl|nowy-sacz.info|pionki24.pl|polishexpress.co.uk|poradnikhandlowca.com.pl|przewodnicywedkarscy.pl|starosadeckie.info|stolarkabudowlana.eu|swarzedz24.pl|tygodnik-rolniczy.pl|warzywa.pl|wydawca.com.pl
+_banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-pingpong.pl|forumfajerwerki.pl|itwiz.pl|jagodnik.pl|juliarozumek.pl|katalogprzedsiebiorstw.pl|kb.pl|kpzpn.pl|kuriergarwolinski.pl|nowy-sacz.info|pionki24.pl|polishexpress.co.uk|poradnikhandlowca.com.pl|przewodnicywedkarscy.pl|starosadeckie.info|stolarkabudowlana.eu|swarzedz24.pl|tygodnik-rolniczy.pl|warzywa.pl|wydawca.com.pl
 _reklama.$domain=radomsport.pl
 _reklama^$domain=tarnowiak.pl
 supernowosci24.pl##[id^="r-"]
@@ -270,5 +270,3 @@ supernowosci24.pl##[id^="r-"]
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_banner_$domain=kpzpn.pl
-^reklama-$domain=transg.pl
