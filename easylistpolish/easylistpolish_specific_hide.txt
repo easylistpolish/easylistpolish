@@ -363,7 +363,6 @@ lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
 tkn24.pl###ytplayer
 malbork1.pl,wirtualnesuwalki.pl##.A1sub
 optykamysliwska.pl##.AdvAnnouncements
-turek.net.pl##.BanerO
 turek.net.pl##.BanerP
 wiadomoscisasiedzkie.pl##.BanerRg
 turek.net.pl##.BanerS
