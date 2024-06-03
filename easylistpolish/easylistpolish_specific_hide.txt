@@ -1130,6 +1130,7 @@ tvpolice.com.pl##.rbox
 naszekielce.com##.region-banner
 axn.pl##.region-header-ad-space
 epiotrkow.pl,infoserwiselk.pl,vidfile.net##.rek
+dieroten.pl##.rek-iparts
 mmanews.pl##.rekBlok
 4trucks.pl##.rek_a
 infoarchitekta.pl##.rek_baner
@@ -2163,4 +2164,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dieroten.pl##.rek-iparts
