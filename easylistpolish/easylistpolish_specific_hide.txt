@@ -2171,3 +2171,4 @@ kamienskie.info##.ads-index-top
 slubice24.pl##.bannergroup
 egorzow.pl###ad--bill-top
 nowinynyskie.com.pl###ad--bill-top
+digi-tv.pl##[id^="idmnet_"]
