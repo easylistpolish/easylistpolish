@@ -2167,3 +2167,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 transfermarkt.pl##.werbung-skyscraper-container
 tustolica.pl##.inc_prawa
 studentnews.pl##.bbn
+kamienskie.info##.ads-index-top
