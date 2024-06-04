@@ -380,6 +380,7 @@ starachowicka.pl##.SzBBB
 starachowicka.pl##.SzBBB163
 lwowecki.info##.TwoInRowCentered
 networkmagazyn.pl##.XadvTop
+ding.pl##._3zfif4
 kartuzy.info##._ad_loaded
 kartuzy.info,koscierski.info##._ap_ad
 sad24.pl,stargardzka.pl##._ning_inner
@@ -2169,4 +2170,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ding.pl##._3zfif4
