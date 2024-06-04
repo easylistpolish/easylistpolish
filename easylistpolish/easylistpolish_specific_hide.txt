@@ -2169,3 +2169,4 @@ tustolica.pl##.inc_prawa
 studentnews.pl##.bbn
 kamienskie.info##.ads-index-top
 slubice24.pl##.bannergroup
+egorzow.pl###ad--bill-top
