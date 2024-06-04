@@ -2168,3 +2168,4 @@ transfermarkt.pl##.werbung-skyscraper-container
 tustolica.pl##.inc_prawa
 studentnews.pl##.bbn
 kamienskie.info##.ads-index-top
+slubice24.pl##.bannergroup
