@@ -2170,3 +2170,4 @@ studentnews.pl##.bbn
 kamienskie.info##.ads-index-top
 slubice24.pl##.bannergroup
 egorzow.pl###ad--bill-top
+nowinynyskie.com.pl###ad--bill-top
