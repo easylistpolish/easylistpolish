@@ -202,6 +202,7 @@ mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 terazkrosno.pl###module-235
 glamrap.pl,goleniowska.com###mvp-leader-wrap
+glosseniora.pl###n2-ss-5
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 nowezyciepabianic.pl###nzp_ad_above_header
@@ -326,6 +327,7 @@ e-playbet.com###text-70
 czestochowskie24.pl###text-75
 24legnica.pl,greencanoe.pl,kurier-lokalny.com,stylkibica.net,wiesci.com.pl###text-8
 gazetalubliniecka.pl,kurier-lokalny.com,mojgdow.pl,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tuhiszpania.pl,wiesci.com.pl###text-9
+kamienskie.info###text-91
 iturek.net###tm-top
 testynaojcostwo.pl###top-baner
 wabrzezno-cwa.pl###top-reklama
@@ -483,7 +485,7 @@ terazgostynin.pl##.ads__top
 doba.pl##.ads_row
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
+24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
@@ -1445,6 +1447,7 @@ lowicz24.eu##[class="card  card--box"]
 24wroclaw.pl,lowicz24.eu,pilaonline.pl##[class="card card--low card--box"]
 forbes.pl##[class="container ad"]
 gostynin.info##[class="container-out background-accent p-m p-xl@m"]
+kutno.net.pl##[class="d-block text-center"]
 kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 24jgora.pl##[class="grid__col grid__col--row  grid__col--3"]
 mgsm.pl##[class="large-12 medium-12 columns"]
@@ -1468,7 +1471,7 @@ iloveslubice.pl##[class^="ilove-2023-sidebar-na-podstronach-"] a
 iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
 nto.pl##[class^="lista_content_stream_"]
 laziska.com.pl,m-ce.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,mojetychy.pl,mojmikolow.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##[class^="m-ads-"]
-ddtorun.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
+ddtorun.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,leszno24.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
 kanal10.pl##[class^="moduletable_banner"]
 igrit.pl##[class^="py-"]
 eplastics.pl##[class^="reklama"]
@@ -2173,9 +2176,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-leszno24.pl##[class^="materialy-promocyjne"]
-egorzow.pl##.adv
-kamienskie.info###text-91
-kutno.net.pl##[class="d-block text-center"]
-glosseniora.pl###n2-ss-5
-divers24.pl##.penci-infeed_ad
