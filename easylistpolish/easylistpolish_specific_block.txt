@@ -169,7 +169,7 @@ supernowosci24.pl##[id^="r-"]
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
-||kmziz.pl^*^250x250c^
+^250x250c^$domain=kmziz.pl
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-
