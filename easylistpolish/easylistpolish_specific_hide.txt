@@ -2178,3 +2178,4 @@ egorzow.pl##.adv
 kamienskie.info###text-91
 kutno.net.pl##[class="d-block text-center"]
 glosseniora.pl###n2-ss-5
+divers24.pl##.penci-infeed_ad
