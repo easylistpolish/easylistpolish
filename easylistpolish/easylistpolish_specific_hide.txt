@@ -587,6 +587,7 @@ firmylesne.pl##.baner_300
 firmylesne.pl##.baner_980
 audiostereo.pl##.baner_display
 zlotoryjska.pl##.baner_pod_menu_1190x125px
+dkl24.pl##.baner_popup
 glas-hit.pl##.baner_przedni
 elblag.net##.banera1
 lakiernictwo.net##.banert
@@ -2176,4 +2177,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dkl24.pl##.baner_popup
