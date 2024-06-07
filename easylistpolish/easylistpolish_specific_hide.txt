@@ -2179,3 +2179,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+dobredladziecka.pl##a[href="https://clk.tradedoubler.com/click?p=335904&a=3340044&g=25365792"]
