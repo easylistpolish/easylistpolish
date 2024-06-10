@@ -2191,3 +2191,4 @@ dzienniklodzki.pl##.componentsListingLargeRow__slotItem
 dziennikpolski24.pl##.componentsListingLargeRow__slotItem
 dziennikzachodni.pl##.componentsListingLargeRow__slotItem
 echodnia.eu##.componentsListingLargeRow__slotItem
+ipulawy.pl##.wpb_raw_html
