@@ -2184,3 +2184,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 petronews.pl##[class*="banner--"]
 e-krajna.pl##[class^="materialy-promocyjne"]
+egorzow.pl##.grid__ad
