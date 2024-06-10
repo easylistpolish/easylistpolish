@@ -2188,3 +2188,4 @@ egorzow.pl##.grid__ad
 kamienskie.info##.ads-index
 dziennikbaltycki.pl##.componentsListingLargeRow__slotItem
 dzienniklodzki.pl##.componentsListingLargeRow__slotItem
+dziennikpolski24.pl##.componentsListingLargeRow__slotItem
