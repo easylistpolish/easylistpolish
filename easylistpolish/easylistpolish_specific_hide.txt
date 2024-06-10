@@ -2186,3 +2186,4 @@ petronews.pl##[class*="banner--"]
 e-krajna.pl##[class^="materialy-promocyjne"]
 egorzow.pl##.grid__ad
 kamienskie.info##.ads-index
+dziennikbaltycki.pl##.componentsListingLargeRow__slotItem
