@@ -2190,3 +2190,4 @@ dziennikbaltycki.pl##.componentsListingLargeRow__slotItem
 dzienniklodzki.pl##.componentsListingLargeRow__slotItem
 dziennikpolski24.pl##.componentsListingLargeRow__slotItem
 dziennikzachodni.pl##.componentsListingLargeRow__slotItem
+echodnia.eu##.componentsListingLargeRow__slotItem
