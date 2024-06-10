@@ -45,7 +45,6 @@ genetyczne.pl###baner-gorny
 warsztat.pl###baner199
 hotelinfo24.pl###baner2
 warsztat.pl###baner211
-napisy24.pl###baner_300_250
 infomare.pl###baneranim
 portalrolniczy.info###baners
 archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
