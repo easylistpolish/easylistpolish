@@ -2188,3 +2188,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 expressbydgoski.pl##.componentsListingLargeRow__slotItem
 expressilustrowany.pl##.componentsListingLargeRow__slotItem
 odpady.net.pl##.td-banner-wrap-full
+driverm.webd.pl##a[href="http://classiccarsgarage.pl/"]
