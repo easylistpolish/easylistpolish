@@ -2187,3 +2187,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 expressbydgoski.pl##.componentsListingLargeRow__slotItem
 expressilustrowany.pl##.componentsListingLargeRow__slotItem
+odpady.net.pl##.td-banner-wrap-full
