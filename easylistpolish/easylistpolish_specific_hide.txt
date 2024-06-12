@@ -2187,3 +2187,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 gazetakrakowska.pl##.componentsListingLargeRow__slotItem
+gazetalubuska.pl##.componentsListingLargeRow__slotItem
