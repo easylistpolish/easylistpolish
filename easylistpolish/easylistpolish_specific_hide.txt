@@ -2189,3 +2189,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 gazetakrakowska.pl##.componentsListingLargeRow__slotItem
 gazetalubuska.pl##.componentsListingLargeRow__slotItem
 pomorska.pl##.componentsListingLargeRow__slotItem
+gazetawroclawska.pl##.componentsListingLargeRow__slotItem
