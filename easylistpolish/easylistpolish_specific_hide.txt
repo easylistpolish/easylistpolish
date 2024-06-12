@@ -2190,3 +2190,4 @@ gazetakrakowska.pl##.componentsListingLargeRow__slotItem
 gazetalubuska.pl##.componentsListingLargeRow__slotItem
 pomorska.pl##.componentsListingLargeRow__slotItem
 gazetawroclawska.pl##.componentsListingLargeRow__slotItem
+driverm.webd.pl##a[href="http://www.tomasz-szczerbicki.pl/"]
