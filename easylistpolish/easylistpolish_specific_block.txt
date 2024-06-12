@@ -100,6 +100,7 @@ _banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-p
 _reklama.$domain=radomsport.pl
 _reklama^$domain=tarnowiak.pl
 supernowosci24.pl##[id^="r-"]
+wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 ||4media.com^$domain=lokalna24.pl
 ||ad.polskiprzemysl.com.pl^
@@ -269,4 +270,3 @@ supernowosci24.pl##[id^="r-"]
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-wspolczesna.pl##.componentsListingLargeRow__slotItem
