@@ -2191,3 +2191,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 gloswielkopolski.pl##.componentsListingLargeRow__slotItem
 gs24.pl##.componentsListingLargeRow__slotItem
+gp24.pl##.componentsListingLargeRow__slotItem
