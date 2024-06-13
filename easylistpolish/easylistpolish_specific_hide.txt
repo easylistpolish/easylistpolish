@@ -2194,3 +2194,4 @@ gs24.pl##.componentsListingLargeRow__slotItem
 gp24.pl##.componentsListingLargeRow__slotItem
 gk24.pl##.componentsListingLargeRow__slotItem
 lublin112.pl##div[style="min-height: 200px"]
+dziennik.walbrzych.pl###baner-glowny
