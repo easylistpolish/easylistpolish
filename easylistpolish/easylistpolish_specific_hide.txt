@@ -483,6 +483,7 @@ livescore.in##.ads__text
 terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 doba.pl##.ads_row
+stooq.pl##.adsbygoogle ~ table
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
 24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
@@ -2191,5 +2192,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-stooq.pl##.adsbygoogle ~ table
-dzienniklodzki.pl##.atomsAdsCellModel
