@@ -2193,3 +2193,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 petronews.pl##.blix
 ddwloclawek.pl##.blix
 halogorlice.info##[class="text-center my-3 container"]
+dziennik.walbrzych.pl##.reklama-wtekscie
