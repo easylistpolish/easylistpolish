@@ -2192,3 +2192,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 petronews.pl##.blix
 ddwloclawek.pl##.blix
+halogorlice.info##[class="text-center my-3 container"]
