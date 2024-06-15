@@ -550,6 +550,7 @@ neonet.pl##.as-wallpaper_right
 posbud.com.pl##.as_marquee0
 astar.czest.pl##.asad
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,stronakuchni.pl##.atomsAdsCellModel
+dzienniklodzki.pl##.atomsPromotionsBanner__img
 dziennikzachodni.pl##.atomsPromotionsBanner__link
 polskikosz.pl##.attachment-full
 glospedagogiczny.pl##.auto-pr-block > a
@@ -2192,4 +2193,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dzienniklodzki.pl##.atomsPromotionsBanner__img
