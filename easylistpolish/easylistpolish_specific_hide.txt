@@ -2195,3 +2195,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 miastko24.pl##.new-toplayer
 i.pl##.componentsListingLargeRow__slotItem
+dziennikplocki.pl##.dzien-belka-top-750x200
