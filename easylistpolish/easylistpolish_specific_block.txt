@@ -271,3 +271,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^baner^$domain=infoilawa.pl
+-baner-$domain=radioostrowiec.pl
