@@ -522,6 +522,7 @@ edziecko.pl,plotek.pl,sport.pl,wyborcza.biz,wyborcza.pl##.adviewDFPBanner
 olesnicainfo.pl##.adwrapper
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
+dziennikplocki.pl##.after-news-ads
 life4style.pl,sporteuro.pl##.ai-rotate
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
@@ -2195,4 +2196,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-dziennikplocki.pl##.after-news-ads
