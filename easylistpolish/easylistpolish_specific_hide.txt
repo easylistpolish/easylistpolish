@@ -2196,3 +2196,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 grodzisknews.pl##[class="wew ods_m center"]
+przegladregionalny.pl##[class="text-center my-3 container"]
