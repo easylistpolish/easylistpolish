@@ -871,7 +871,6 @@ money.pl##.grid-item-wpapiad
 isrodmiescie.pl##.grid__col--3
 nowiny24.pl,nowosci.com.pl##.gry
 dziennik.walbrzych.pl##.gxqfpad
-zwiedzamyparyz.pl##.gyg-widget
 odkryjpomorze.pl##.h-line
 super-warez.eu##.h_banner-block
 dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl"])
