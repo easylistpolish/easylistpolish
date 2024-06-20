@@ -120,6 +120,7 @@ tcz.pl###dynamic-loading
 hrubieszow.info###endo_wrc_widget-2
 goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
+angolia.co.uk###fancybox-wrap
 woda-scieki.com###firms
 lublin112.pl###firmy-box-inner
 calisia.pl###fixed_abox_1
@@ -740,6 +741,7 @@ mojecoventry.pl##.companies-block-sponsors
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,i.pl,pomorska.pl##.componentsListingLargeRow__slotItem
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
+dziennikzachodni.pl##.componentsPromotionsListWithSlider__listWrapper
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
 malagacf.pl##.container a[href="/go/sts"]
@@ -1460,7 +1462,8 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 24jgora.pl##[class="grid__col grid__col--row  grid__col--3"]
 mgsm.pl##[class="large-12 medium-12 columns"]
 studentnews.pl##[class="r_cala s_calosc_iko_4"] + div
-dziennikpowiatowy.pl,faktykaliskie.info,gostynin24.pl,halogorlice.info,halorzeszow.pl,kronikatygodnia.pl,lokalna24.pl,podkarpackahistoria.pl,radiotczew.pl,tarnowska.tv,tvsudecka.pl,tygodnik-krapkowicki.pl,zawszepomorze.pl##[class="text-center my-3 container"]
+dziennikpowiatowy.pl,faktykaliskie.info,gostynin24.pl,halogorlice.info,halorzeszow.pl,kronikatygodnia.pl,lokalna24.pl,podkarpackahistoria.pl,przegladregionalny.pl,radiotczew.pl,tarnowska.tv,tvsudecka.pl,tygodnik-krapkowicki.pl,zawszepomorze.pl##[class="text-center my-3 container"]
+grodzisknews.pl##[class="wew ods_m center"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 bydgoszczak.pl##[class^="adName_"]
 legionisci.com##[class^="adslot_news-banner"]
@@ -1479,7 +1482,7 @@ iloveslubice.pl##[class^="ilove-2023-sidebar-na-podstronach-"] a
 iloveslubice.pl##[class^="ilove-2023-wpisy-po-"]
 nto.pl##[class^="lista_content_stream_"]
 laziska.com.pl,m-ce.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,mojetychy.pl,mojmikolow.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##[class^="m-ads-"]
-ddtorun.pl,e-krajna.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,leszno24.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
+ddtorun.pl,ddwloclawek.pl,e-krajna.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,leszno24.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
 kanal10.pl##[class^="moduletable_banner"]
 igrit.pl##[class^="py-"]
 eplastics.pl##[class^="reklama"]
@@ -2191,8 +2194,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-grodzisknews.pl##[class="wew ods_m center"]
-przegladregionalny.pl##[class="text-center my-3 container"]
-ddwloclawek.pl##[class^="materialy-promocyjne"]
-angolia.co.uk###fancybox-wrap
-dziennikzachodni.pl##.componentsPromotionsListWithSlider__listWrapper
