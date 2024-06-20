@@ -1404,7 +1404,6 @@ tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
 starosadeckie.info##.wp-image-214448
 staresiolkowice.pl##.wp-image-26929
-staresiolkowice.pl##.wp-image-27882
 beskidzka24.pl##.wp_bannerize_container
 motocykle125.pl##.wp_widget_plugin_textarea
 leszczynskisport.pl##.wpb_animate_when_almost_visible
