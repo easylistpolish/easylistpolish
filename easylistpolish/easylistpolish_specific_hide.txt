@@ -2198,3 +2198,4 @@ lokalnatelewizja.pl##[class="text-center my-3 container"]
 zkaszub.info##.zkasz-widget
 gorzowianin.com###topmsg
 gorzowskie.pl##[class="text-center my-3 container"]
+dziennikzachodni.pl##[class*="atomsPromotionsListOffer"]
