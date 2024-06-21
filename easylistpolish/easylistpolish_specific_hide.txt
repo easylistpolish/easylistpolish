@@ -2196,3 +2196,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lokalnatelewizja.pl##.tipad_tag + a
 lokalna.news##[class="text-center my-3 container"]
+lokalnatelewizja.pl##[class="text-center my-3 container"]
