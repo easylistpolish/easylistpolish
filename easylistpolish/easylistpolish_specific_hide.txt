@@ -2197,3 +2197,4 @@ lokalna.news##[class="text-center my-3 container"]
 lokalnatelewizja.pl##[class="text-center my-3 container"]
 zkaszub.info##.zkasz-widget
 gorzowianin.com###topmsg
+gorzowskie.pl##[class="text-center my-3 container"]
