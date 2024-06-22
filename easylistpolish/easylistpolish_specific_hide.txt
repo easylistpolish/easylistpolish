@@ -98,6 +98,7 @@ nsix.pl###cc-banner-iframe
 czarymary.pl###checkWidthFullMain1
 centrummedyczne-przyjazna.pl###column
 lesko.info###content > center > a[target="_blank"]
+e-chorzow.com###content-header-section
 lekarze-gabinety.pl,moto-oto.pl,oto-slub.pl###content-wrap > div[style="text-align: center;"] img
 slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###content_right_new_number
 slowokatowic.pl,slowokrakowa.pl,slowotrojmiasta.pl,slowowroclawian.pl###controls
@@ -2195,4 +2196,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-chorzow.com###content-header-section
