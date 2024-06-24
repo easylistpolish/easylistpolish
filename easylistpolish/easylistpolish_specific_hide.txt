@@ -2200,3 +2200,4 @@ palukimogilno.pl###ad--bill-top
 salon24.pl##.idsl
 radiopik.pl##.advertisement
 speedwaynews.pl###block-77
+e-chorzow.com##.a-single
