@@ -2117,6 +2117,7 @@ cypr24.eu##img[src*="Banner"]
 cypr24.eu,e-chelmno.pl##img[src*="baner"]
 chojna24.pl##img[src*="googleusercontent."]
 bielskirynek.pl##img[src*="pasek_baner"]
+e-fvat.pl##img[src*="rekl"]
 cypr24.eu##img[src*="reklama"]
 cooltura24.co.uk##img[src*="reomanager.pl"]
 beskid-niski.pl##img[src="/bannery/banerbucz.gif"]
@@ -2198,4 +2199,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-fvat.pl##img[src*="rekl"]
