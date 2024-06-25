@@ -2202,3 +2202,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 walbrzych.dlawas.info###banner-top
 jg24.pl##div[style="text-align: center; margin-bottom: 5px;"]
 tvdami.eu##div[class="text-center my-3 container"]
+e-grajewo.pl##.promologos
