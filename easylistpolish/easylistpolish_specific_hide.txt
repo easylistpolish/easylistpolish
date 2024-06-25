@@ -872,7 +872,7 @@ cowkrakowie.pl##.google--component
 log4.pl##.grafikaKlienta
 topagrar.pl,wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
-24jgora.pl,bp24.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,egorzow.pl,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zambrow.org,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
+24jgora.pl,bp24.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,e-kg.pl,egorzow.pl,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zambrow.org,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 isrodmiescie.pl##.grid__col--3
 nowiny24.pl,nowosci.com.pl##.gry
 dziennik.walbrzych.pl##.gxqfpad
@@ -2202,4 +2202,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-kg.pl##.grid__ad
