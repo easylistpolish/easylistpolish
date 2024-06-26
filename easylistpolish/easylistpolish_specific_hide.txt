@@ -2205,3 +2205,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 czaschojnic.pl###ad--bill-top
 nswiecie.pl###ad--bill-top
 radiosud.pl##.promoted
+e-kg.pl##.adv--halfpage
