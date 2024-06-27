@@ -2206,3 +2206,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 zawszepomorze.pl##.tipad_tag + a
 nolesnica.pl##.adv
+e-kolo.pl##div[class="container mb-3"]
