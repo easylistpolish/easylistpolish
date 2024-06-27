@@ -2002,6 +2002,7 @@ demotywatory.pl##div[class*="adv_"]
 deccoria.pl##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
 miechowski.pl##div[class*="sgpb-popup-"]
+e-kolo.pl##div[class="d-none d-sm-block mb-4 mt-0"]
 naekranie.pl##div[class="re prawa-szpalta"]
 tvdami.eu##div[class="text-center my-3 container"]
 rekomendowanefirmy.pl##div[class^="AD-"]
@@ -2203,4 +2204,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-kolo.pl##div[class="d-none d-sm-block mb-4 mt-0"]
