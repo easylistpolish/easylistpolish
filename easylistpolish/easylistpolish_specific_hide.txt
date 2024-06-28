@@ -201,6 +201,7 @@ mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 terazkrosno.pl###module-235
 glamrap.pl,goleniowska.com###mvp-leader-wrap
+e-kolo.pl###myModal
 glosseniora.pl###n2-ss-5
 lublin112.pl###native-ad
 maslow.info.pl###newsflash2 a[target="_blank"] > img
@@ -2205,4 +2206,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-kolo.pl###myModal
