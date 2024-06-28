@@ -2205,3 +2205,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 portalpomorza.pl##[class="text-center my-3 container"]
 radiozamosc.pl##[class="text-center my-3 container"]
 radioplonsk.pl##[class="text-center my-3 container"]
+spliff.pl##.custom
