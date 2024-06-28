@@ -2205,3 +2205,4 @@ portalpomorza.pl##[class="text-center my-3 container"]
 radiozamosc.pl##[class="text-center my-3 container"]
 radioplonsk.pl##[class="text-center my-3 container"]
 spliff.pl##.custom
+e-kolo.pl##div[class*="bg-light mt-3 mb-3 p-2"]
