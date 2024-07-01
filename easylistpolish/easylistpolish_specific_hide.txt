@@ -879,6 +879,7 @@ isrodmiescie.pl##.grid__col--3
 nowiny24.pl,nowosci.com.pl##.gry
 dziennik.walbrzych.pl##.gxqfpad
 odkryjpomorze.pl##.h-line
+e-kolo.pl##.h8
 super-warez.eu##.h_banner-block
 dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl"])
 speedwaynews.pl##.has-text-align-center
@@ -2205,4 +2206,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-kolo.pl##.h8
