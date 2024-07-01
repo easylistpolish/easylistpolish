@@ -2208,3 +2208,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 zyciezamoscia.pl###advads_ad_widget-3
 infokatowice.pl###tdi_42
+e-kursy-walut.pl##.material
