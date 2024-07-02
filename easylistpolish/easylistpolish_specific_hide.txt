@@ -2208,3 +2208,9 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+urzadzamy.pl##.zpr-block
+se.pl##.zpr_side_1_noscroll
+dwa.eska.pl##.zpr_side_1_noscroll
+muratordom.pl##.zpr-block
+mjakmama24.pl##[class^="zpr_box_half_page"]
+mjakmama24.pl##.article__placement
