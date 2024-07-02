@@ -2215,3 +2215,4 @@ muratordom.pl##.zpr-block
 mjakmama24.pl##[class^="zpr_box_half_page"]
 mjakmama24.pl##.article__placement
 warzywa.pl##.warzy-srod-i-d
+e-pajeczno.pl##.content
