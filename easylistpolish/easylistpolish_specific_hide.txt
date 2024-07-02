@@ -2213,3 +2213,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+e-pingpong.pl##img[src="https://e-pingpong.pl/wp-content/uploads/2019/02/News19-2-1024x427.jpg"]
