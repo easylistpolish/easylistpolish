@@ -178,7 +178,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||komediowo.pl^*^ciekawe-miejsca-
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-
-||kryptoholik.pl^*^pum^$script
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
