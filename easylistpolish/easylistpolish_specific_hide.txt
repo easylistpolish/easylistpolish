@@ -2217,3 +2217,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 bemowo24.pl###block-6
 zinfo.pl##.mainslider
+e-sochaczew.pl##a[href="https://deweloperdomplus.pl/inwestycje/osiedle-trojanowska/"]
