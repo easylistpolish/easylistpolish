@@ -872,6 +872,7 @@ weranda.pl##.gl_slot_text
 24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 gorzow24.pl##.gml
+e-play.pl##.gofollow
 dspodcast.pl##.gogreen
 cowkrakowie.pl##.google--component
 log4.pl##.grafikaKlienta
@@ -2214,4 +2215,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-play.pl##.gofollow
