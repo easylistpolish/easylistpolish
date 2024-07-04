@@ -1771,6 +1771,7 @@ dailyweb.pl##a[href="https://www.euro.com.pl/odkurzacze-automatyczne/dreame-l10s
 expresskaszebe.pl##a[href="https://www.eventbrite.co.uk/"]
 www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
 cypr24.eu##a[href="https://www.facebook.com/cyprustourspaphos"]
+e-sochaczew.pl##a[href="https://www.facebook.com/dariusz.krupa.58726"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
 nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
 plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
@@ -2218,4 +2219,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-sochaczew.pl##a[href="https://www.facebook.com/dariusz.krupa.58726"]
