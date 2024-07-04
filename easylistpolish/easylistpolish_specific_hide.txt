@@ -1151,7 +1151,6 @@ e-grajewo.pl##.promologos
 radiosud.pl,zywiecinfo.pl##.promoted
 lol24.com##.promotion
 nowezyciepabianic.pl,ostrodanews.pl##.pum
-kryptoholik.pl##.pum-overlay
 newsweek.pl##.pwAds
 e-hotelarz.pl##.pws-reklama
 transfermarkt.pl##.quick-select-wrapper ~ div
