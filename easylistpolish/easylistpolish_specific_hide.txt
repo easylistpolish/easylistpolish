@@ -492,7 +492,7 @@ doba.pl##.ads_row
 stooq.pl##.adsbygoogle ~ table
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nolesnica.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
+24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,e-sochaczew.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nolesnica.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
 24jgora.pl,24wroclaw.pl,e-kg.pl,zambrow.org##.adv--halfpage
 wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
@@ -1469,6 +1469,7 @@ topagrar.pl##[class*="container--break-"]
 polukr.net##[class*="e3lan-"]
 turek.net.pl##[class*="l-banners-"]
 tuwroclaw.com##[class*="w2g-wrapper__slot_"]
+olawa24.pl##[class=" grid place-items-center gap-6"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,telemagazyn.pl,to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 24jgora.pl##[class="box custom-html-box  "]
@@ -1481,7 +1482,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 24jgora.pl##[class="grid__col grid__col--row  grid__col--3"]
 mgsm.pl##[class="large-12 medium-12 columns"]
 studentnews.pl##[class="r_cala s_calosc_iko_4"] + div
-dziennikpowiatowy.pl,faktykaliskie.info,gorzowskie.pl,gostynin24.pl,halogorlice.info,halorzeszow.pl,kronikatygodnia.pl,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,podkarpackahistoria.pl,portalpomorza.pl,przegladregionalny.pl,radioplonsk.pl,radiotczew.pl,radiozamosc.pl,tarnowska.tv,tvsudecka.pl,tygodnik-krapkowicki.pl,zawszepomorze.pl##[class="text-center my-3 container"]
+dziennikpowiatowy.pl,faktykaliskie.info,gorzowskie.pl,gostynin24.pl,halogorlice.info,halorzeszow.pl,kk24.pl,kronikatygodnia.pl,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,podkarpackahistoria.pl,portalpomorza.pl,przegladregionalny.pl,radioplonsk.pl,radiotczew.pl,radiozamosc.pl,tarnowska.tv,tvsudecka.pl,tygodnik-krapkowicki.pl,zawszepomorze.pl##[class="text-center my-3 container"]
 grodzisknews.pl##[class="wew ods_m center"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 bydgoszczak.pl##[class^="adName_"]
@@ -2218,6 +2219,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-kk24.pl##[class="text-center my-3 container"]
-olawa24.pl##[class=" grid place-items-center gap-6"]
-e-sochaczew.pl##.adv
