@@ -2154,6 +2154,7 @@ beskid-niski.pl##img[src="/bannery/ropa.gif"]
 beskid-niski.pl##img[src="/bannery/rudawka.gif"]
 beskid-niski.pl##img[src="/bannery/siwekja.gif"]
 koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
+e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_9532.png"]
 beskid-niski.pl##img[src="http://d.nocowanie.pl/gfx/bannery/nocowanie.jpg"]
 3dwpraktyce.pl##img[src="https://3dwpraktyce.pl/wp-content/uploads/2019/10/drukarka_prev_01_007_LQ.jpg"]
 7dni.pila.pl##img[src="https://7dni.pila.pl/wp-content/uploads/2023/11/Zdrowych-i-Wesolych-Swiat-Bozego-Narodzenia-1.jpg"]
@@ -2221,4 +2222,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_9532.png"]
