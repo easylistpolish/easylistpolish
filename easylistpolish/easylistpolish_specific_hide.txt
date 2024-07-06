@@ -2221,3 +2221,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_9532.png"]
