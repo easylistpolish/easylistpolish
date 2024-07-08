@@ -988,6 +988,7 @@ noclegi.biz##.lewastronareklama
 nowywyszkowiak.pl##.link_bg
 czecho.pl,pless.pl##.linki-sponsorowane-col
 eostroleka.pl##.loading-ajax-ads
+poland.us##.logos
 e-grajewo.pl##.logos-container
 hfc.com.pl##.lozad
 lubiehrubie.pl##.lubie-widget
@@ -1738,6 +1739,7 @@ chip.pl##a[href="https://pl.asus.click/RTX_4090"]
 angolia.co.uk##a[href="https://polonia24.co.uk/londyn/uslugi/zdrowie-medycyna/weterynarz/polski-weterynarz-londyn-mobilny-gabinet-weterynaryjny_i77092"]
 staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner&utm_campaign=banner_display"]
 angolia.co.uk##a[href="https://pracuj.uk/"]
+e-sochaczew.pl##a[href="https://praktyki.mazovia.pl/"]
 7dni.pila.pl##a[href="https://prostodo.pl/c?pid=59643&tid=3863&ha=3113724408&r=8400"]
 cyfrowaekonomia.pl##a[href="https://quark.house/"]
 pogoda.info##a[href="https://samochody.pl"]
@@ -2223,5 +2225,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poland.us##.logos
-e-sochaczew.pl##a[href="https://praktyki.mazovia.pl/"]
