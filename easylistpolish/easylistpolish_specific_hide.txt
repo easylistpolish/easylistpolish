@@ -12,11 +12,12 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-bbfan.pl,ciechanowinaczej.pl,czaschojnic.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,egorzow.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,konecki24.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,nowinynyskie.com.pl,nswiecie.pl,palukimogilno.pl,pulsgdanska.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
+bbfan.pl,ciechanowinaczej.pl,czaschojnic.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,egorzow.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,konecki24.pl,kurierbytowski.com.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,nowinynyskie.com.pl,nswiecie.pl,palukimogilno.pl,pulsgdanska.pl,szczecinek.com,tulegnica.pl,zambrow.org,zlotowskie.pl###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 24wroclaw.pl###ad--bill-top + div
 fiatklubpolska.pl###ad_global_below_navbar
 zycieczestochowy.pl###ad_hype_container
+tcz.pl###add-top-1
 glamour.pl###adl-placement-0-container
 national-geographic.pl###adl-placement-0-wrapper
 zwolen24.pl###adocr
@@ -150,6 +151,7 @@ motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
 mazopolska.pl,planowaniewesela.pl###header-banner
+kuriergarwolinski.pl###header-picture
 gdanskstrefa.com,nowezyciepabianic.pl###header-right-section
 e-grajewo.pl###headpartnership
 forum.pasja-informatyki.pl###helbook
@@ -908,6 +910,7 @@ divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
 mgsm.pl##.header__promo-wide
 podkarpacielive.pl##.header_banner
 swiatoze.pl##.header_marker
+kurierzurominski.pl##.herald-below-header
 kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
 bezdroza.pl##.hestia-banner
@@ -1229,6 +1232,7 @@ it.tarnow.pl##.section-apps
 e-tlumacze.net##.section-banner
 it.tarnow.pl##.section-banners
 gostynin.info,powiat-piaseczynski.info##.section-billboard
+igrit.pl##.section-top-py
 muno.pl##.sectionTopAd
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 lubanski.eu##.shailan_banner_widget
@@ -1504,7 +1508,6 @@ nto.pl##[class^="lista_content_stream_"]
 laziska.com.pl,m-ce.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,mojetychy.pl,mojmikolow.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##[class^="m-ads-"]
 ddtorun.pl,ddwloclawek.pl,e-krajna.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,leszno24.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
 kanal10.pl##[class^="moduletable_banner"]
-igrit.pl##.section-top-py
 eplastics.pl##[class^="reklama"]
 samiswoi.news##[class^="serve-"]
 podlaski.info##[class^="slider-banner-"]
@@ -2162,6 +2165,7 @@ beskid-niski.pl##img[src="http://d.nocowanie.pl/gfx/bannery/nocowanie.jpg"]
 bieganie.pl##img[src="https://bieganie.pl/wp-content/uploads/2023/04/400x400_v1.jpg"]
 bieganie.pl##img[src="https://bieganie.pl/wp-content/uploads/2023/07/1200_1200_rysy_2500.jpg"]
 bonavita.pl##img[src="https://bonavita.pl/data/angwp/items/28035/Kalkualtor 2 med 300x250.jpg"]
+e-sochaczew.pl##img[src="https://cdn.cmc-gallery.pl/static/files/inline_images/500/inline__1_3862.gif"]
 e-pingpong.pl##img[src="https://e-pingpong.pl/wp-content/uploads/2019/02/News19-2-1024x427.jpg"]
 skawina24.com##img[src="https://projektestart.cfolks.pl/skawina24/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 ciechocinek.biz##img[src="https://reomanager.pl/news/bb/dc/bbdc6f75bef39f5f0f755535cee109255aa248f84cd46a45dca4e1ea75fb8ed703169fb076cb35f6194f13c6100ac3f8cc7400d0d87996ead5a95de9e6808ec7/original.jpg?token=01d46a508ce02c90865a005f0f594206e389836f8a7df94a35e305a43b70d10af7a4cf92ef958e26f94bcb5ec5bacb96cc91791acb31d00d7e8951edacd18b1c&pathname=/pl"]
@@ -2222,8 +2226,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tcz.pl###add-top-1
-kurierzurominski.pl##.herald-below-header
-kuriergarwolinski.pl###header-picture
-kurierbytowski.com.pl###ad--bill-top
-e-sochaczew.pl##img[src="https://cdn.cmc-gallery.pl/static/files/inline_images/500/inline__1_3862.gif"]
