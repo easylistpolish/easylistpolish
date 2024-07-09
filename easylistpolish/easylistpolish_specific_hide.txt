@@ -1592,7 +1592,7 @@ emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
 btcpolska.com##a[href*="?utm_campaign=btcpolska&"]
 druk.info.pl##a[href*="ad.ipolska.pl"]
-bbfan.pl##a[href*="adsredirect"]
+bbfan.pl,e-sochaczew.pl##a[href*="adsredirect"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
 badaniaprenatalne.pl##a[href*="badamydzieci.pl"]
 badaniaprenatalne.pl##a[href*="badanienifty.pl"]
@@ -2225,4 +2225,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-sochaczew.pl##a[href*="adsredirect"]
