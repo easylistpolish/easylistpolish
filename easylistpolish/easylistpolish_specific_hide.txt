@@ -1505,7 +1505,7 @@ nto.pl##[class^="lista_content_stream_"]
 laziska.com.pl,m-ce.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,mojetychy.pl,mojmikolow.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##[class^="m-ads-"]
 ddtorun.pl,ddwloclawek.pl,e-krajna.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,faktypilskie.pl,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gwarek.com.pl,gwe24.pl,hej.mielec.pl,ki24.info,koscianiak.pl,leszno24.pl,lowiczanin.info,myglogow.pl,police24.pl,roztocze.net,rzeczkrotoszynska.pl,swiecie24.pl,tusochaczew.pl,tygodnik.pl,wpu24.pl,zyciesiedleckie.pl##[class^="materialy-promocyjne"]
 kanal10.pl##[class^="moduletable_banner"]
-igrit.pl##[class^="py-"]
+igrit.pl##.section-top-py
 eplastics.pl##[class^="reklama"]
 samiswoi.news##[class^="serve-"]
 podlaski.info##[class^="slider-banner-"]
