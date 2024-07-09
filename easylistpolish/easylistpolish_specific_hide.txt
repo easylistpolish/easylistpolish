@@ -2225,3 +2225,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 tcz.pl###add-top-1
 kurierzurominski.pl##.herald-below-header
+kuriergarwolinski.pl###header-picture
