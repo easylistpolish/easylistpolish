@@ -260,7 +260,6 @@ nowezyciepabianic.pl###secondary
 strefa.se,tkaninyobiciowe.eu###secondary [id^="media_image-"]
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
-webhostingtalk.pl###sectionb
 naekranie.pl###sg_belka_srodek
 weranda.pl###sg_slot
 glokalna.pl,nowawrzesnia.pl###sgpb-popup-dialog-main-div-wrapper
