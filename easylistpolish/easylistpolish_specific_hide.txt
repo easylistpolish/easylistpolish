@@ -2227,3 +2227,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 webhostingtalk.pl##nav + div
 telewizjazary.pl##.jeg_bottombar
+e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_5000.gif"]
