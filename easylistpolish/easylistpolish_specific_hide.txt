@@ -231,6 +231,7 @@ zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
 nudziara.pl###post.format_post.nudziara.masonry-brick
 mazopolska.pl###posts-banner
+e-stargard.pl###posts_home_top_right_box
 babiel.com.pl###prawa
 legitymizm.org###prawa_kolumna .ramka:last-child
 drhtv.com.pl###prawo
@@ -780,7 +781,7 @@ cowkrakowie.pl##.cwk--component
 wirtualnyregion.pl##.cycloneslider
 twojaslupca.pl##.cycloneslider-slide
 bilgorajska.pl,gada.pl##.czytaj_dalej
-ddbelchatow.pl##.d-block
+cryps.pl,ddbelchatow.pl##.d-block
 cooltura24.co.uk,eluban.pl,expresselblag.pl,faktykaliskie.info,halogorlice.info,kronikatygodnia.pl,kwidzyn1.pl,lokalna24.pl,lokalnatelewizja.pl,malbork1.pl,portalpomorza.pl,strzelce360.pl,supertydzien.pl,tarnowska.tv,tczewska.pl##.d-inline-block
 dziennikpowiatowy.pl,faktykaliskie.info,halorzeszow.pl,kronikatygodnia.pl,podkarpackahistoria.pl,radiotczew.pl,tvsudecka.pl##.d-inline-block-not-important
 garnek.pl##.dbb
@@ -1137,6 +1138,7 @@ zielonyogrodek.pl##.popup-welcome
 shinden.pl##.popup_background
 shinden.pl##.popup_wrapper
 zloty-pociag.com##.popup_wrapper iframe
+czasbochenski.pl##.portal_pd
 chip.pl##.portlet.portletCeneo
 chip.pl##.portletReklama
 wiadomoscihandlowe.pl##.position_item_right_01_top
@@ -2229,6 +2231,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cryps.pl##.d-block
-czasbochenski.pl##.portal_pd
-e-stargard.pl###posts_home_top_right_box
