@@ -2231,3 +2231,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 cryps.pl##.d-block
 czasbochenski.pl##.portal_pd
+e-stargard.pl###posts_home_top_right_box
