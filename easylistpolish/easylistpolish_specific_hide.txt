@@ -2235,3 +2235,4 @@ kepno.dlawas.info###banner-top
 polska.dlawas.info###banner-top
 infostrow.pl###banner-top
 swidnica.dlawas.info###banner-top
+nanarty.info##meta + a
