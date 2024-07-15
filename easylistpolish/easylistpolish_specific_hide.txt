@@ -2233,3 +2233,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 kepno.dlawas.info###banner-top
 polska.dlawas.info###banner-top
+infostrow.pl###banner-top
