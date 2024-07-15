@@ -1974,7 +1974,6 @@ dziennikzachodni.pl,nowiny24.pl##article.contentStream
 allegro.pl##article[data-analytics-view-label^="allegro.advertising.adspremium"]
 allegro.pl##article[data-analytics-view-label^="showSponsoredItems"]
 radio7.pl##aside .a-single
-polski-tenis.pl##aside .plakat
 gorliczanin.pl##aside > section[id^="media_image-"]
 wiesci.com.pl##aside a[href^="https://wiejskachatazielonka.pl"]
 jaw.pl##aside div a > img
