@@ -857,6 +857,7 @@ starosadeckie.info##.front-top
 skript.pl##.fuckAdBlock
 niedziela.pl##.fullpage-ads
 agronews.com.pl,pielgrzym.pelplin.pl##.g
+ebelchatow.pl##.g-10
 ebelchatow.pl##.g-11
 ebelchatow.pl,slupca.pl##.g-2
 itvwisla.tv##.g-3
@@ -2229,4 +2230,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ebelchatow.pl##.g-10
