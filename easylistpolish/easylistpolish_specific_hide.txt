@@ -861,6 +861,7 @@ ebelchatow.pl##.g-11
 ebelchatow.pl,slupca.pl##.g-2
 itvwisla.tv##.g-3
 slupca.pl##.g-4
+ebelchatow.pl##.g-9
 spidersweb.pl##.g.g-16
 spottedlublin.pl##.g1-external
 gazetacz.com.pl##.gazet-banner-gorny
@@ -2228,4 +2229,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ebelchatow.pl##.g-9
