@@ -1405,7 +1405,7 @@ gloskrakowa.pl##.widget-2
 gazetawielkopolska.pl,prudnik24.pl##.widget-3
 gloskrakowa.pl##.widget-4
 lsw24.pl##.widget-ad-image
-lokalna24.pl##.widget-advert_centralplacement
+echomedia.info,lokalna24.pl##.widget-advert_centralplacement
 faktykaliskie.info,gostynin24.pl,halorzeszow.pl,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
@@ -2231,4 +2231,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-echomedia.info##.widget-advert_centralplacement
