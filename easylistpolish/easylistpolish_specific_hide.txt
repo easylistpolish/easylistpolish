@@ -478,6 +478,7 @@ zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
 staraoliwa.pl##.ads-commercial
+ecoportal.com.pl##.ads-container
 kamienskie.info##.ads-index
 kamienskie.info##.ads-index-top
 esanok.pl,ustrzyki24.pl##.ads-s
@@ -2231,4 +2232,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ecoportal.com.pl##.ads-container
