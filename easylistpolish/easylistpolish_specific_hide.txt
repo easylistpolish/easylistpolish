@@ -72,6 +72,7 @@ otouczelnie.pl###belka
 zwik.skawina.pl###bgDiv
 bosonamacie.pl###big-wrapper
 forsal.pl###bill_top_id
+edux.pl###billb-tlo
 ftb.pl###billboard
 tp.com.pl###bills_in_rotation_1_8239
 przedreptacswiat.pl###black-studio-tinymce-5
@@ -2233,4 +2234,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-edux.pl###billb-tlo
