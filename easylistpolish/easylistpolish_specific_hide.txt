@@ -36,7 +36,7 @@ tv-pelplin.pl###aside .custom a[onclick]
 badaniaprenatalne.pl###attachment_99999919457
 tuhiszpania.pl###b_searchboxInc
 edziecko.pl,gazeta.pl###banC1
-gazeta.pl###banC2
+edziecko.pl,gazeta.pl###banC2
 gazeta.pl###banC99
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
@@ -2236,4 +2236,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-edziecko.pl###banC2
