@@ -2236,3 +2236,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 krosno112.pl##[class="text-center my-3 container"]
 rzeszow112.pl##[class="center bottom-gap fluid-imgs"]
+wiecbork112.pl##.fbx-link
