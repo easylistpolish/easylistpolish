@@ -2238,3 +2238,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 krosno112.pl##.tipad_tag + a
 olesnica24.com##[class="text-center my-3 container"]
+eglos.pl##[id^="baner"]
