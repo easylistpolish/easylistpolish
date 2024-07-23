@@ -37,7 +37,7 @@ badaniaprenatalne.pl###attachment_99999919457
 tuhiszpania.pl###b_searchboxInc
 edziecko.pl,gazeta.pl###banC1
 edziecko.pl,gazeta.pl###banC2
-gazeta.pl###banC99
+edziecko.pl,gazeta.pl###banC99
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 genetyczne.pl###baner-gorny
@@ -2236,4 +2236,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-edziecko.pl###banC99
