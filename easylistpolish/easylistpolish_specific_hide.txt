@@ -425,7 +425,7 @@ portalspozywczy.pl##.abc
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,goral.info.pl,iwawer.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,goral.info.pl,iwawer.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 cyberdefence24.pl,defence24.pl##.ad-banner
 defence24.com##.ad-banner__box
@@ -735,6 +735,7 @@ polityka.pl##.cg_ad_outer
 polityka.pl##.cg_subscribe99_banner_apla
 zegarkiipasja.pl##.clickable-box-new-window[data-url^="http"]
 cozadzien.pl##.cls-billboard
+strzelnoonline.com##.cm-slider-area
 faktykonopne.pl,nasz-glos.com,poloniairlandia.pl,swiatoze.pl,wagrowiec-wydarzeniazostatniejchwili.pl##.code-block
 nasz-glos.com##.code-block a
 lebork24.info##.code-block-15
@@ -1394,6 +1395,7 @@ sad24.pl##.vip
 extra-plonsk.pl,zachodniopomorska.tv##.visible-lg
 nasz-glos.com##.vmagazine_lite_medium_ad
 mma.pl##.w2g
+warzywa.pl##.warzy-a1
 warzywa.pl##.warzy-srod-i-d
 warzywa.pl##.warzy-srod-ii-d
 warzywa.pl##.warzy-srod-iii-d
@@ -1498,6 +1500,7 @@ mgsm.pl##[class="large-12 medium-12 columns"]
 studentnews.pl##[class="r_cala s_calosc_iko_4"] + div
 dziennikpowiatowy.pl,faktykaliskie.info,gorzowskie.pl,gostynin24.pl,halogorlice.info,halorzeszow.pl,kk24.pl,kronikatygodnia.pl,krosno112.pl,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,olesnica24.com,podkarpackahistoria.pl,portalpomorza.pl,przegladregionalny.pl,radioplonsk.pl,radiotczew.pl,radiozamosc.pl,tarnowska.tv,tvsudecka.pl,tygodnik-krapkowicki.pl,zawszepomorze.pl##[class="text-center my-3 container"]
 grodzisknews.pl##[class="wew ods_m center"]
+zyciezamoscia.pl##[class="widget zycie-widget clearfix"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 bydgoszczak.pl##[class^="adName_"]
 legionisci.com##[class^="adslot_news-banner"]
@@ -2237,7 +2240,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zyciezamoscia.pl##[class="widget zycie-widget clearfix"]
-strzelnoonline.com##.cm-slider-area
-warzywa.pl##.warzy-a1
-egorzow.pl##.ad--bill-top
