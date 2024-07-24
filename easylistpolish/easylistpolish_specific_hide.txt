@@ -2240,3 +2240,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zyciezamoscia.pl##[class="widget zycie-widget clearfix"]
 strzelnoonline.com##.cm-slider-area
 warzywa.pl##.warzy-a1
+egorzow.pl##.ad--bill-top
