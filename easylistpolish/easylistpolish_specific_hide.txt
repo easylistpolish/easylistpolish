@@ -377,6 +377,7 @@ optykamysliwska.pl##.AdvAnnouncements
 turek.net.pl##.BanerP
 wiadomoscisasiedzkie.pl##.BanerRg
 turek.net.pl##.BanerS
+epoznan.pl##.BannerBox
 wyspiarzniebieski.pl##.Comm336
 wyspiarzniebieski.pl##.Comm336x80
 wyspiarzniebieski.pl##.CommTxt1
@@ -1086,6 +1087,7 @@ naszwodzislaw.com##.news_box_reklama
 fakty.lca.pl##.news_reklama
 networkmagazyn.pl##.nmSectionBanner
 24zabrze.pl##.no-lazyload
+pulsmedycyny.pl##.npb-g-c-adv
 gostynska.pl##.ns-Placement
 wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
@@ -1555,6 +1557,7 @@ eglos.pl##[id^="baner"]
 eostroleka.pl##[id^="baner_A_"]
 www-wykop-pl.translate.goog,wykop.pl##[id^="banner_top_"]
 24starogard.pl##[id^="bannerlistwidget-"]
+gryfinska.pl##[id^="bills_in_rotation"]
 sucha24.pl##[id^="bills_in_rotation_"]
 magazynzuzel.pl##[id^="ceneoaffcontainer"]
 mgsm.pl##[id^="comments-leadebaord"]
@@ -2241,6 +2244,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-pulsmedycyny.pl##.npb-g-c-adv
-epoznan.pl##.BannerBox
-gryfinska.pl##[id^="bills_in_rotation"]
