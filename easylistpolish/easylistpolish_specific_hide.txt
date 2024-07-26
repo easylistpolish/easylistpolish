@@ -2247,3 +2247,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 nowywyszkowiak.pl##[id^="fancybox-"]
 strzelnoonline.com##.rslides1
 wysokienapiecie.pl##[class*="-reklama-"]
+itreseller.com.pl##[class^="a-single a-"]
