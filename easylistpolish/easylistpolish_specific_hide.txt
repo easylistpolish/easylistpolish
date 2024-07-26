@@ -2246,3 +2246,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 nowywyszkowiak.pl##[id^="fancybox-"]
 strzelnoonline.com##.rslides1
+wysokienapiecie.pl##[class*="-reklama-"]
