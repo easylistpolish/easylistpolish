@@ -2250,3 +2250,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+ejarocin.pl##img[src="https://reomanager.pl/news/63/ea/63ea14a3bf6694e15b20629ed59efc82296de296f01c72a776de479c77caa9ef0d2184f4638424dd8ee52f827ae4b869304fb053d81d9b2e71018ce8c32d49d0/original.png?token=ab0b24793eb2e0ebc3980a88794dfce0d5ec35f9f09727322f7dea66f3a7068c59c1ac469b5f0f9d2d1a57235de832efdf50f50c994f557cc40d1b168ab9b6e4&pathname=/pl/18_co-gdzie-kiedy/974_gminny-dzien-strazaka.html"]
