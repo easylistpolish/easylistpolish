@@ -2252,3 +2252,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 miastorumia.pl##.header_top center
 ekoszalin.pl##.advContainer
+nowawrzesnia.pl###ad--bill-top
