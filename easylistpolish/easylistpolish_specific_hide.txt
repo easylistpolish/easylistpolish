@@ -2253,3 +2253,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 miastorumia.pl##.header_top center
 ekoszalin.pl##.advContainer
 nowawrzesnia.pl###ad--bill-top
+ekoscian.eu##.wp-block-image
