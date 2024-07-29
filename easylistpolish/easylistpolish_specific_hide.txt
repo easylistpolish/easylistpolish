@@ -2255,3 +2255,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 supertydzien.pl##.tipad_tag + a
 wlodawa24.pl###ad--bill-top
 slowopodlasia.pl##[class="text-center my-3 container"]
+zyciekalisza.pl##.custom-html-box
