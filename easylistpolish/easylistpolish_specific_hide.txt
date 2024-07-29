@@ -2257,3 +2257,4 @@ wlodawa24.pl###ad--bill-top
 slowopodlasia.pl##[class="text-center my-3 container"]
 zyciekalisza.pl##.custom-html-box
 terazmuzyka.pl##.advertisebox
+lovekrakow.pl##.lk-ad-place
