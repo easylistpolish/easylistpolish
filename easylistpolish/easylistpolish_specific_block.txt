@@ -32,6 +32,7 @@
 ^adv_$domain=kcynia24.pl|koscian.net|naklo24.pl|powiat24.pl|sadki24.pl
 ^advert^$domain=tarnow.net.pl
 ^advertiseButtons^$domain=smanager.pl
+^advertisements^$domain=lovekrakow.pl
 ^advs^$domain=telewizjastk.pl
 ^areklamy^$domain=e-lokalne.pl
 ^ban^$domain=kopaczka.pl
@@ -271,4 +272,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^advertisements^$domain=lovekrakow.pl
