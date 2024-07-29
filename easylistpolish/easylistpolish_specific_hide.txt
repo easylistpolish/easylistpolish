@@ -12,7 +12,7 @@ kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
 smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
-bbfan.pl,ciechanowinaczej.pl,czaschojnic.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,egorzow.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,konecki24.pl,kurierbytowski.com.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,nowinynyskie.com.pl,nswiecie.pl,palukimogilno.pl,pulsgdanska.pl,szczecinek.com,tulegnica.pl,tuzywiec.pl,zambrow.org,zlotowskie.pl###ad--bill-top
+bbfan.pl,ciechanowinaczej.pl,czaschojnic.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,egorzow.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,kartuzy.info,konecki24.pl,kurierbytowski.com.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,nowawrzesnia.pl,nowinynyskie.com.pl,nswiecie.pl,palukimogilno.pl,pulsgdanska.pl,szczecinek.com,tulegnica.pl,tuzywiec.pl,zambrow.org,zlotowskie.pl###ad--bill-top
 szczecinek.com###ad--bill-top + .grid__row
 24wroclaw.pl###ad--bill-top + div
 fiatklubpolska.pl###ad_global_below_navbar
@@ -504,7 +504,7 @@ wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
-antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,planeta.pl,planowo.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
+antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,ekoszalin.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,planeta.pl,planowo.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 automatyka.pl##.advNote
 gospodarkapodkarpacka.pl##.advRec
@@ -921,6 +921,7 @@ divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
 mgsm.pl##.header__promo-wide
 podkarpacielive.pl##.header_banner
 swiatoze.pl##.header_marker
+miastorumia.pl##.header_top center
 kurierzurominski.pl##.herald-below-header
 kurierzurominski.pl##.herald-txt-module
 radiovictoria.pl##.herald-txt-module div a
@@ -1434,6 +1435,7 @@ swidnik.pl##.widgetable > a > img
 radioostrowiec.pl##.widgettitle-reklama
 radomsport.pl##.wiersz_news a[target="_blank"] > img
 whatnext.pl##.wnbad
+ekoscian.eu##.wp-block-image
 tarnobrzeg.info##.wp-container-2
 tyna.info.pl##.wp-image-140901
 tyna.info.pl##.wp-image-186232
@@ -2250,7 +2252,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-miastorumia.pl##.header_top center
-ekoszalin.pl##.advContainer
-nowawrzesnia.pl###ad--bill-top
-ekoscian.eu##.wp-block-image
