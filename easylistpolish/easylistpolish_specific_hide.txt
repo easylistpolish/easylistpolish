@@ -2140,7 +2140,6 @@ dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
 jg24.pl##div[style="text-align: center; margin-bottom: 5px;"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 eostroleka.pl##div[style^="max-width: 715px"]
-poloniusz.pl##div[style^="width:194px;"]
 tkn24.pl##font[color="SILVER"]
 tkn24.pl##font[color="SILVER"] + br + a
 elektroda.pl##form[action^="https://www.tme.eu/"]
