@@ -426,7 +426,7 @@ portalspozywczy.pl##.abc
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,goral.info.pl,iwawer.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,goral.info.pl,iwawer.pl,kartuzy.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 cyberdefence24.pl,defence24.pl##.ad-banner
 defence24.com##.ad-banner__box
@@ -710,6 +710,7 @@ lublin112.pl##.boxa
 radiopik.pl##.bplace > a:not([href^="http://www.radiopik.pl"])
 cgm.pl,poscigi.pl##.bsaPopupWrapper
 cgm.pl,poscigi.pl##.bsaPopupWrapperBg
+nysainfo.pl##.bsaProCarousel
 poscigi.pl##.bsaProContainerNew
 dziennikzwiazkowy.com##.bsaProHeader__title
 dziennikzwiazkowy.com,ekstraklasatrolls.pl##.bsaProItems
@@ -2257,5 +2258,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nysainfo.pl##.bsaProCarousel
-ekspresjaroslawski.pl##.ad--bill-top
