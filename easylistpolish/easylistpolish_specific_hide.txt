@@ -1303,6 +1303,7 @@ zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
 osp.com.pl##.sponsors-wrapper
 gazeta.myslenice.pl##.spot
+spottedlublin.pl##.spott-after_content
 miastokolobrzeg.pl,wysokomazowiecki24.pl##.sppb-addon-single-image-container
 miastokolobrzeg.pl##.sppb-text-center
 slowoseniora.pl##.spu-box
@@ -1807,6 +1808,7 @@ www.glogow-info.pl##a[href="https://www.facebook.com/auto.serwis.gryka/"]
 cypr24.eu##a[href="https://www.facebook.com/cyprustourspaphos"]
 e-sochaczew.pl##a[href="https://www.facebook.com/dariusz.krupa.58726"]
 plonskwsieci.pl##a[href="https://www.facebook.com/dzwoniszimaszubezpieczenia"]
+ekspresjaroslawski.pl##a[href="https://www.facebook.com/kwwmarcinanazarewicza"]
 nowawrzesnia.pl##a[href="https://www.facebook.com/mbus.info"]
 e-sochaczew.pl##a[href="https://www.facebook.com/profile.php?id=61557119635020"]
 plonskwsieci.pl##a[href="https://www.facebook.com/romaplonsk"]
@@ -2255,5 +2257,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-spottedlublin.pl##.spott-after_content
-ekspresjaroslawski.pl##a[href="https://www.facebook.com/kwwmarcinanazarewicza"]
