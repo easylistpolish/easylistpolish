@@ -2259,3 +2259,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 sadeczanin.info##.mt-2
+ekspresjaroslawski.pl##img[src="/static/files/inline_images/113/inline__1_3648.jpg"]
