@@ -1062,6 +1062,7 @@ polemi.co.uk##.moduletable-reklamab
 pdaclub.pl##.moduletablereklama
 radioandrychow.pl##.mradio-marketing
 wilanownews.pl##.ms-container
+sadeczanin.info##.mt-2
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
 weszlo.com##.my-12
@@ -2183,6 +2184,7 @@ beskid-niski.pl##img[src="/bannery/ropa.gif"]
 beskid-niski.pl##img[src="/bannery/rudawka.gif"]
 beskid-niski.pl##img[src="/bannery/siwekja.gif"]
 koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
+ekspresjaroslawski.pl##img[src="/static/files/inline_images/113/inline__1_3648.jpg"]
 e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_5000.gif"]
 e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_9532.png"]
 beskid-niski.pl##img[src="http://d.nocowanie.pl/gfx/bannery/nocowanie.jpg"]
@@ -2258,5 +2260,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-sadeczanin.info##.mt-2
-ekspresjaroslawski.pl##img[src="/static/files/inline_images/113/inline__1_3648.jpg"]
