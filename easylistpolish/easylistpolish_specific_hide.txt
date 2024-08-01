@@ -2184,7 +2184,7 @@ beskid-niski.pl##img[src="/bannery/rewasz_zielony.gif"]
 beskid-niski.pl##img[src="/bannery/ropa.gif"]
 beskid-niski.pl##img[src="/bannery/rudawka.gif"]
 beskid-niski.pl##img[src="/bannery/siwekja.gif"]
-koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
+ekstrasierpc.pl,koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
 ekspresjaroslawski.pl##img[src="/static/files/inline_images/113/inline__1_3648.jpg"]
 e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_5000.gif"]
 e-sochaczew.pl##img[src="/static/files/inline_images/500/inline__1_9532.png"]
@@ -2262,4 +2262,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ekstrasierpc.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
