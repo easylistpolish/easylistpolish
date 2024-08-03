@@ -1455,6 +1455,7 @@ leszczynskisport.pl##.wpb_animate_when_almost_visible
 gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 okraglemiasto.pl##.wpb_left-to-right
 ipulawy.pl##.wpb_raw_html
+elblag24.pl##.wpb_singleimage_heading
 igrit.pl##.wrapper
 wbaziefirm.pl##.wrapper-flash
 facetpo40.pl##.wrapper_smallimages
@@ -2263,4 +2264,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elblag24.pl##.wpb_singleimage_heading
