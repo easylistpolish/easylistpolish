@@ -2170,6 +2170,7 @@ gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 cypr24.eu##img[src*="Banner"]
 cypr24.eu,e-chelmno.pl##img[src*="baner"]
+elblag24.pl##img[src*="banner"]
 chojna24.pl##img[src*="googleusercontent."]
 bielskirynek.pl##img[src*="pasek_baner"]
 e-fvat.pl##img[src*="rekl"]
@@ -2262,4 +2263,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elblag24.pl##img[src*="banner"]
