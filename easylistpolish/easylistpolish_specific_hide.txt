@@ -1388,7 +1388,6 @@ slaskiesiemianowice.pl##.trzyreklamy
 lodzakademicka.info##.twelve #myCarousel
 zory24.pl##.twocol_right > #logosy
 zwielkopolski24.pl##.txt
-zooplus.pl##.type_banner[id*="right"]
 zooplus.pl##.type_banner[id*="top-marki"]
 dzwignice.info##.udtBox
 iturek.net##.uk-heading-line
