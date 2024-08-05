@@ -2263,3 +2263,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 elbi.pl##[class="header-wrap clearfix"] center
 instalacjebudowlane.pl##div[style="margin-left:-70px;"]
 stronakuchni.pl##.componentsPromotionsArticlePromotedList
+ele24.net##.banner-top
