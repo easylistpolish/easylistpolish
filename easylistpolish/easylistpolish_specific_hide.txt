@@ -2261,3 +2261,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 elbi.pl##[class="header-wrap clearfix"] center
+instalacjebudowlane.pl##div[style="margin-left:-70px;"]
