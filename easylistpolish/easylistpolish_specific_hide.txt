@@ -1281,7 +1281,6 @@ wroclawiak.pl##.site-right-re
 rootblog.pl,zwiadowcahistorii.pl##.size-full.aligncenter
 joemonster.org##.sky-wrapper
 starachowicki.eu##.slick-slide
-pomorzanie.info##.slider-2243
 speedwaynews.pl##.slider-item
 pulskwidzyna.pl##.sliderBox
 mazovia24.pl##.slides_oneDIV
