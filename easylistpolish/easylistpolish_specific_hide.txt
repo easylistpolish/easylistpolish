@@ -2265,3 +2265,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 stronapodrozy.pl##.componentsPromotionsArticlePromotedList
 naszahistoria.pl##.componentsPromotionsArticlePromotedList
+gra.pl##.componentsPromotionsArticlePromotedList
