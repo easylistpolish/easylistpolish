@@ -2266,3 +2266,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 stronapodrozy.pl##.componentsPromotionsArticlePromotedList
 naszahistoria.pl##.componentsPromotionsArticlePromotedList
 gra.pl##.componentsPromotionsArticlePromotedList
+businesstraveller.pl##.atbd
