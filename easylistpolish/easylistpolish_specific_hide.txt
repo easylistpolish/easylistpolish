@@ -2266,3 +2266,4 @@ stronapodrozy.pl##.componentsPromotionsArticlePromotedList
 naszahistoria.pl##.componentsPromotionsArticlePromotedList
 gra.pl##.componentsPromotionsArticlePromotedList
 businesstraveller.pl##.atbd
+elektroda.pl##a[href="http://www.biall.com.pl/sklep.html#"]
