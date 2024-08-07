@@ -1973,7 +1973,6 @@ bankier.pl##a[href^="https://www3.smartadserver."]
 fachowcybudowlani.pl,instalacjebudowlane.pl,kuchenny.com.pl,poradybudowlane.com.pl,wentylacyjny.pl##a[onclick*="kampanie banerowe"]
 swiatdronow.pl##a[onclick^="ga('send'"]
 grodzisknews.pl##a[onclick^="ga('send', 'event', 'Kliknięcie w reklamę"]
-styl.pl##a[onclick^="iwa('trackEvent'"] > img
 elektroda.pl##a[onclick^="navBoxEvent("]
 elektroda.pl##a[onclick^="patronEvt("]
 studialicencjackie.info##a[onclick^="return otworz(this.href,'st_new.php?typ=box&id1="]
