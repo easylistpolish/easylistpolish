@@ -609,6 +609,7 @@ glas-hit.pl##.baner_przedni
 elblag.net##.banera1
 lakiernictwo.net##.banert
 janosik.info##.baneryLewe
+lazienkowy.pl##.banery_750_100
 studio-mebli.eu##.banery__container
 instalacjebudowlane.pl##.banery_lewy_pasek
 24starogard.pl,300polityka.pl,3trzy3.pl,android.com.pl,bazarek.net.pl,bazarowo.pl,bezpiecznyrynekpracy.pl,cybersport.pl,dotabuff.com,e-kidsplanet.com,eksmagazyn.pl,esportnow.pl,eurobuildcee.com,forumkwiatowe.pl,glos.live,glosludu.cz,gryfice24.online,historia.org.pl,imagazine.pl,isbzdrowie.pl,kliknijwzdrowie.pl,legia.net,mazopolska.pl,meczyki.pl,megatiming.pl,meska-kuchnia.pl,naszekwatery.pl,nieruchomoscipodlaskie.pl,obligacje.pl,operatorzy.pl,optyczne.pl,podhale24.pl,podlasianin.com.pl,polskiautohandel.pl,probasket.pl,przewodnik-katolicki.pl,radiosud.pl,rehalab.eu,serwislokalny.com,sieplywa.pl,sjp.pwn.pl,tvciechanow.pl,typersi.pl##.banner
@@ -1626,6 +1627,7 @@ emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
 btcpolska.com##a[href*="?utm_campaign=btcpolska&"]
 druk.info.pl##a[href*="ad.ipolska.pl"]
+elektroda.pl##a[href*="ads="]
 bbfan.pl,e-sochaczew.pl##a[href*="adsredirect"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
 badaniaprenatalne.pl##a[href*="badamydzieci.pl"]
@@ -2262,5 +2264,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lazienkowy.pl##.banery_750_100
-elektroda.pl##a[href*="ads="]
