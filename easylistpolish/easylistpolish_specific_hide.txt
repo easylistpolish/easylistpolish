@@ -2269,3 +2269,4 @@ wentylacyjny.pl##.banery_750_100
 strefaedukacji.pl##.componentsPromotionsArticlePromotedList
 regiodom.pl##.componentsPromotionsArticlePromotedList
 dziennikplocki.pl##.dzien-reklama-pod-kalendarzem
+elektroda.pl##a[href="https://oxomi.com/p/3000391/catalog/10108420"]
