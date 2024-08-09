@@ -1037,6 +1037,7 @@ agropogoda.pl##.mediaWrapper
 sadownictwo.com.pl##.mediaWrapper .widgetWrapper > a[target="_blank"] > img
 tygodnikpiski.pl##.medium-12 center
 nowywyszkowiak.pl##.medium_baner
+elektryka.org##.megabaner
 gada.pl##.menu_reklama
 enowiny.pl##.meta-font
 b24tv.pl##.metaslider
@@ -2266,4 +2267,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elektryka.org##.megabaner
