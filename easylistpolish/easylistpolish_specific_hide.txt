@@ -1164,6 +1164,7 @@ zloty-pociag.com##.popup_wrapper iframe
 czasbochenski.pl##.portal_pd
 chip.pl##.portlet.portletCeneo
 chip.pl##.portletReklama
+elita-magazyn.pl##.position_break_01_top
 wiadomoscihandlowe.pl##.position_item_right_01_top
 gieldaklasykow.pl##.post-navigation + a[target="_blank"]
 newsdiscopolo.info##.post-next-prev ~ iframe
@@ -2267,4 +2268,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elita-magazyn.pl##.position_break_01_top
