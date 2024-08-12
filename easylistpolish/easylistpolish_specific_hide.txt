@@ -2270,3 +2270,4 @@ infokonin.com.pl###ad--bill-top
 czaschojnic.pl##[id^="bills_in_rotation_1_"]
 tydzien.net.pl##.kadence-pro-in-content-element
 tenpoznan.pl##.tprek
+elita-magazyn.pl##div[class*="ad"]
