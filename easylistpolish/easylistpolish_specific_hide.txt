@@ -2055,6 +2055,7 @@ nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
 onet.pl##div[class*="EmbeddedApplication_moneteasy_"] > div
 elita-magazyn.pl##div[class*="ad"]
+elk24.pl##div[class*="ad-type-"]
 strzal.pl##div[class*="ads-container-"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl##div[class*="advert"]
@@ -2269,4 +2270,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elk24.pl##div[class*="ad-type-"]
