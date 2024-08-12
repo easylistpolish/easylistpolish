@@ -2027,7 +2027,6 @@ tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
 poczta.wp.pl##dd-holder
 elektroda.pl##div > .footerbb > a > picture
-medycyna24.pl##div > .insert--top-offer
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
 lsw24.pl##div > a[title="reklama"] + a
