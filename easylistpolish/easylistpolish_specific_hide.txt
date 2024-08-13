@@ -1110,6 +1110,7 @@ polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
 mgsm.pl##.oa_replacement
+elle.pl##.obf4056a6921bcc11aae6150cbd9c5b7fbc
 iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
 zw.pl##.oglo_box2
@@ -2271,4 +2272,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elle.pl##.obf4056a6921bcc11aae6150cbd9c5b7fbc
