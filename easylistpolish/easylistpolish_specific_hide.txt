@@ -1729,6 +1729,7 @@ bitcoin.pl##a[href="https://bit.ly/46VOjAf"]
 bokser.org##a[href="https://bit.ly/SzybkaRejestracjaSB"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 czyztak.pl##a[href="https://bo.katowice.eu/"]
+elubaczow.com##a[href="https://bslubaczow.pl/"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 calisia.pl##a[href="https://calisia.pl/storage/a/3a65fa6367dd0ea915b/click"]
 bydgoszcz.com##a[href="https://cdue.edu.pl"]
@@ -2272,4 +2273,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-elubaczow.com##a[href="https://bslubaczow.pl/"]
