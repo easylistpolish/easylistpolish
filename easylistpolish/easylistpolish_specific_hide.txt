@@ -696,6 +696,7 @@ newsdiscopolo.info##.bn-lg-sidebar
 ang24.pl##.bnm
 nowypm.pl##.bnr
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
+emecze.pl##.bonusday
 podkarpacielive.pl##.bottom_banner
 mojaniderlandia.pl##.box
 jablonka.info##.box a[rel="noopener noreferrer"][target="_blank"]
@@ -2275,4 +2276,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-emecze.pl##.bonusday
