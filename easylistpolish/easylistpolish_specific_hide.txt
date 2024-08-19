@@ -2276,3 +2276,4 @@ msi-myslenice.pl##.new-toplayer
 cypr24.eu##div[data-widget="wak-search"]
 stronazdrowia.pl##.componentsListingLargeRow__slotItem
 nowinynyskie.com.pl##.adv--bill
+epiotrkow.pl##.rek
