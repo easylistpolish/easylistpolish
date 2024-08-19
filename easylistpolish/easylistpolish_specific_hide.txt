@@ -1108,7 +1108,6 @@ tvp.info##.nowAdCommon
 pulsmedycyny.pl##.npb-g-c-adv
 gostynska.pl##.ns-Placement
 wadowiceonline.pl##.nspArts
-polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
 mgsm.pl##.oa_replacement
