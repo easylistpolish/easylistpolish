@@ -2271,3 +2271,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 e-warzywnictwo.pl##.reklama-lista
+epoznan.pl##a[href="//yanosik.pl/landing/przyjaciel_kierowcy.html"]
