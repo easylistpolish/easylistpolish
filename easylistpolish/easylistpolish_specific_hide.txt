@@ -1217,6 +1217,7 @@ cnc.info.pl##.reklama-bokc
 bielskiedrogi.pl,tychy.info##.reklama-display-desktop
 cnc.info.pl##.reklama-forum
 turek.net.pl##.reklama-info
+e-warzywnictwo.pl##.reklama-lista
 cnc.info.pl,kalisz24.info.pl,polska-morska.pl##.reklama-top
 techfanik.pl##.reklama-ugory
 polonia.nl##.reklama-warpper
@@ -1664,6 +1665,7 @@ badaniaprenatalne.pl##a[href*="testdna.pl"]
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
 dbpolska.net##a[href=" https://shinobiworld.pl/"]
+epoznan.pl##a[href="//yanosik.pl/landing/przyjaciel_kierowcy.html"]
 barlinek24.pl##a[href="/aktualnosci-2/14634-prezent-na-gwiazdke-od-plusa-dwa-abonamenty-w-cenie-jednego.html"]
 barlinek24.pl##a[href="/aktualnosci/12833-z-ludzmi-i-dla-ludzi.html"]
 emecze.pl##a[href="/go/canalonline"]
@@ -2270,5 +2272,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-e-warzywnictwo.pl##.reklama-lista
-epoznan.pl##a[href="//yanosik.pl/landing/przyjaciel_kierowcy.html"]
