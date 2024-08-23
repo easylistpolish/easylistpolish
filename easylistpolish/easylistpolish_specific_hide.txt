@@ -2266,3 +2266,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 calisia.pl##[class="container-fluid mt-1 mt-sm-5"]
+esopot.pl##img[src*="baner"]
