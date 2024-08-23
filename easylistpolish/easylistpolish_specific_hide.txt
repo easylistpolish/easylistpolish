@@ -126,7 +126,6 @@ waw4free.pl###detal_top
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 hrubieszow.info###endo_wrc_widget-2
-goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
 angolia.co.uk###fancybox-wrap
 woda-scieki.com###firms
