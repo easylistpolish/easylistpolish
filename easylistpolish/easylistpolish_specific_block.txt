@@ -78,7 +78,7 @@
 ^promo^$domain=minecraft-list.pl
 ^rek^$image,domain=wiadomoscipw.pl
 ^rekl^$domain=pgt.pl
-^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|goniecpolski.nl|icelandnews.is|infofordon.pl|ipulawy.pl|jaslo.info|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
+^reklama-$domain=bilgorajska.pl|fizjoterapeuty.pl|fleschmazowsza.com.pl|icelandnews.is|infofordon.pl|ipulawy.pl|jaslo.info|miedzyzdrojskie.info|mojgdow.pl|naszwybir.pl|ok24.tv|warka24.pl|wodnyrelax.pl
 ^Reklama-$domain=noworudzianin.pl
 ^reklama-$domain=tkn24.pl|transg.pl|tv-pelplin.pl
 ^reklama0_$domain=24ikp.pl
