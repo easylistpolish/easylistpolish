@@ -84,6 +84,7 @@ gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
 bemowo24.pl###block-6
+strzelnoonline.com###block-64
 speedwaynews.pl###block-77
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
@@ -1430,6 +1431,7 @@ obcasypodlasia.pl##.webnus-ad
 slazag.pl##.welcomeScreening
 transfermarkt.pl##.werbung-billboard
 transfermarkt.pl##.werbung-skyscraper-container
+transfermarkt.pl##.werbung-skyscraper-left-bound-container + div
 esportnow.pl##.widget
 infokatowice.pl##.widget-1 p
 gloskrakowa.pl##.widget-2
@@ -2186,7 +2188,7 @@ gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 cypr24.eu##img[src*="Banner"]
-cypr24.eu,e-chelmno.pl,elblag24.pl,eskatt.pl,esopot.pl##img[src*="baner"]
+cypr24.eu,e-chelmno.pl,elblag24.pl,eskatt.pl,esopot.pl,eswinoujscie.pl##img[src*="baner"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl##img[src*="banner"]
 chojna24.pl##img[src*="googleusercontent."]
@@ -2264,6 +2266,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-strzelnoonline.com###block-64
-transfermarkt.pl##.werbung-skyscraper-left-bound-container + div
-eswinoujscie.pl##img[src*="baner"]
