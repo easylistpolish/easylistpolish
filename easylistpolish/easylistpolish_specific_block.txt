@@ -247,7 +247,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||syrena.nekla.eu^*-agraf-
 ||systemyplatnosci.com^*^fundacja_zoodoptuj.
 ||systemyplatnosci.com^*^hotpay_
-||szukam-ksiazki.pl/marbet_
 ||szukam-ksiazki.pl^*^havana.
 ||tanuki.pl/imglink^
 ||tarnowiak.pl^*^premium_
