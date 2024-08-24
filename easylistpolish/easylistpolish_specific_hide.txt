@@ -2266,3 +2266,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 strzelnoonline.com###block-64
 transfermarkt.pl##.werbung-skyscraper-left-bound-container + div
+eswinoujscie.pl##img[src*="baner"]
