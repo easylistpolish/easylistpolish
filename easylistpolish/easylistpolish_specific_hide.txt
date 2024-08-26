@@ -2268,3 +2268,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
+etransport.pl##a[href="prezentacja_biznesowa,762,tronik_spolka_z_ograniczona_odpowiedzialnoscia_spolka_komandytowa.html"]
