@@ -2191,7 +2191,7 @@ lubaczow.tv##img[alt^="Ad banner"]
 gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
-cypr24.eu##img[src*="Banner"]
+cypr24.eu,evertiq.pl##img[src*="Banner"]
 cypr24.eu,e-chelmno.pl,elblag24.pl,eskatt.pl,esopot.pl,eswinoujscie.pl##img[src*="baner"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl##img[src*="banner"]
@@ -2269,4 +2269,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-evertiq.pl##img[src*="Banner"]
