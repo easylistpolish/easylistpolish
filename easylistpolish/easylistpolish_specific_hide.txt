@@ -2270,3 +2270,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 koscierski.info###ad--bill-top
 koscierzyna24.info##.tipad_tag + a
 kurierbytowski.com.pl##[class="box custom-html-box  "]
+evertiq.pl##.ad
