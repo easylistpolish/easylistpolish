@@ -695,7 +695,7 @@ pszczyna.tv##.blok-skyscraper-fit
 burda.pl,elle.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
 newsdiscopolo.info##.bn-lg-sidebar
 ang24.pl##.bnm
-nowypm.pl##.bnr
+evertiq.pl,nowypm.pl##.bnr
 telewizjamazury.pl,telewizjaolsztyn.pl##.boards
 emecze.pl##.bonusday
 podkarpacielive.pl##.bottom_banner
@@ -2267,4 +2267,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-evertiq.pl##.bnr
