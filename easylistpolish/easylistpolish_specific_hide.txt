@@ -1316,7 +1316,6 @@ wiesci.info.pl##.sp-module > .reklama-title
 informator-stolicy.pl##.span_r
 doba.pl##.special__box
 eszkola.pl,msze.info,polscyprawnicy.org,procesor.pl,weekendowo.pl,wirtualnemedia.pl##.spolecznoscinet
-wyznaczanie-trasy.pl##.spolecznoscinet > div[id^="sad_"]
 zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
