@@ -2270,3 +2270,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 7dni.pila.pl###block-42
+ekspresjaroslawski.pl##[class="card  card--box"]
