@@ -1802,6 +1802,7 @@ staleo.pl##a[href="https://polsver.pl/?utm_source=staleo_media&utm_medium=banner
 angolia.co.uk##a[href="https://pracuj.uk/"]
 e-sochaczew.pl##a[href="https://praktyki.mazovia.pl/"]
 7dni.pila.pl##a[href="https://prostodo.pl/c?pid=59643&tid=3863&ha=3113724408&r=8400"]
+ewysmaz.pl##a[href="https://rubinowyobiektyw.pl/"]
 pogoda.info##a[href="https://samochody.pl"]
 bitcoin-info.pl##a[href="https://shop.trezor.io/?offer_id=10&aff_id=1621&file_id=151"]
 siechnice.com.pl##a[href="https://siechnice.com.pl/strona/reklama-w-serwisie"]
@@ -2270,4 +2271,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ewysmaz.pl##a[href="https://rubinowyobiektyw.pl/"]
