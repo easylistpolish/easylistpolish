@@ -1954,7 +1954,6 @@ elektroda.pl##a[href^="https://sklep.renex.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
-roosevelta81.pl##a[href^="https://superbet.pl/"]
 kodi.org.pl##a[href^="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source="]
 centrumdruku3d.pl##a[href^="https://ta."]
 nasztomaszow.pl##a[href^="https://ttbs.com.pl/"]
