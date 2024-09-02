@@ -81,6 +81,7 @@ telewizor.eu###block
 icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
 gloskoninski.pl###block-26
+7dni.pila.pl###block-42
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
 bemowo24.pl###block-6
@@ -1521,7 +1522,7 @@ olawa24.pl##[class=" grid place-items-center gap-6"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,telemagazyn.pl,to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 24jgora.pl,kurierbytowski.com.pl##[class="box custom-html-box  "]
-lowicz24.eu##[class="card  card--box"]
+ekspresjaroslawski.pl,lowicz24.eu##[class="card  card--box"]
 24wroclaw.pl,lowicz24.eu,pilaonline.pl##[class="card card--low card--box"]
 rzeszow112.pl##[class="center bottom-gap fluid-imgs"]
 forbes.pl##[class="container ad"]
@@ -2268,5 +2269,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-7dni.pila.pl###block-42
-ekspresjaroslawski.pl##[class="card  card--box"]
