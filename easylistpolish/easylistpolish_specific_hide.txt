@@ -2275,3 +2275,4 @@ kochamyauta.pl##.custom-pollyart-banner
 naszapolska.eu###tm-sidebar
 mtv24.tv##[id^="custom_html-"]
 zulawytv.pl###jm-content-top
+tcz.pl##[id^="reklama-"]
