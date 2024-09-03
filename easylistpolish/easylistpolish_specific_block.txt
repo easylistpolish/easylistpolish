@@ -272,3 +272,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^xbanner_$domain=radiozulawy.pl
+||video.onnetwork.tv^$script,domain=gazetaolsztynska.pl
