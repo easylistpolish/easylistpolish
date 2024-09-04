@@ -2279,3 +2279,4 @@ stronakobiet.pl##.componentsListingLargeRow__slotItem
 motofakty.pl##.componentsListingLargeRow__slotItem
 gol24.pl##.componentsListingLargeRow__slotItem
 sportowy24.pl##.componentsListingLargeRow__slotItem
+strefaagro.pl##.componentsListingLargeRow__slotItem
