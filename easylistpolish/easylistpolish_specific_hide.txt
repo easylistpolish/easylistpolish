@@ -514,7 +514,7 @@ gospodarkapodkarpacka.pl##.advLargeHorizontal
 automatyka.pl##.advNote
 gospodarkapodkarpacka.pl##.advRec
 altair.com.pl##.advSet
-zyciesokolowa.pl##.adv__content
+ewysmaz.pl,zyciesokolowa.pl##.adv__content
 ewysmaz.pl##.adv__info
 historykon.pl##.adv_content
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,ng24.ie,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
@@ -2276,4 +2276,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ewysmaz.pl##.adv__content
