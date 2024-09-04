@@ -2277,3 +2277,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 stronakobiet.pl##.componentsListingLargeRow__slotItem
 motofakty.pl##.componentsListingLargeRow__slotItem
+gol24.pl##.componentsListingLargeRow__slotItem
