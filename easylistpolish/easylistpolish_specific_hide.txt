@@ -2280,3 +2280,4 @@ motofakty.pl##.componentsListingLargeRow__slotItem
 gol24.pl##.componentsListingLargeRow__slotItem
 sportowy24.pl##.componentsListingLargeRow__slotItem
 strefaagro.pl##.componentsListingLargeRow__slotItem
+ewysmaz.pl##a[href="https://ewysmaz.pl/transmisja-z-pogrzebu-streaming-online"]
