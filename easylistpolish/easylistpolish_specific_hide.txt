@@ -2279,3 +2279,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zycie.pl###ad--bill-top
 lublin112.pl##div[style="min-height: 200px;"]
 112malopolska.pl##.tdi_7
+chorzowianin.pl##.bsaProItems
