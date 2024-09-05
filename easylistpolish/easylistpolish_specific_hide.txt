@@ -2281,3 +2281,4 @@ lublin112.pl##div[style="min-height: 200px;"]
 112malopolska.pl##.tdi_7
 chorzowianin.pl##.bsaProItems
 mojejaslo.pl##.td-adspot-title + a
+ewysmaz.pl##a[href*="nawozy.eu"]
