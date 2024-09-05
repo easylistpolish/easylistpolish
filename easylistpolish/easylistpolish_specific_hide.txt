@@ -2277,3 +2277,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 zycie.pl###ad--bill-top
+lublin112.pl##div[style="min-height: 200px;"]
