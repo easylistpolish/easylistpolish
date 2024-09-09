@@ -2283,3 +2283,4 @@ wiadomoscihandlowe.pl##.container--break-00
 tygodnik-rolniczy.pl##.container--break-00
 radiozet.pl###onnetwork--html
 naszemiasto.pl##.componentsListingLargeRow__slotItem
+expresselblag.pl##.d-inline-block-not-important
