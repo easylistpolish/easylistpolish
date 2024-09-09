@@ -2283,3 +2283,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wiadomoscihandlowe.pl##.container--break-00
 tygodnik-rolniczy.pl##.container--break-00
+radiozet.pl###onnetwork--html
