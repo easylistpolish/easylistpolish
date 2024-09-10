@@ -2282,3 +2282,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 e-sochaczew.pl##[class="box custom-html-box  "]
 wabrzezno-cwa.pl###ad--bill-top
 wabrzezno.dlawas.info###banner-top
+suwalki.info##.ads
