@@ -2284,3 +2284,4 @@ wabrzezno-cwa.pl###ad--bill-top
 wabrzezno.dlawas.info###banner-top
 suwalki.info##.ads
 wirtualnesuwalki.pl##.tipad_tag + a
+nwloclawek.pl###ad--bill-top
