@@ -1016,7 +1016,7 @@ goral.info.pl##.l-box--25
 debica24.eu##.l-box--99
 24jgora.pl,24wroclaw.pl,egarwolin.pl,goral.info.pl,lowicz24.eu,pilaonline.pl##.l-news__more
 radiorodzina.pl##.left-large-ad
-dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,olesnica24.com,portalwloclawek.pl,radiosochaczew.pl,tv.starachowice.pl,wirtualnesuwalki.pl,zycieolsztyna.pl##.legal-notice
+dziennikpowiatowy.pl,gazetamyszkowska.pl,koscierzyna24.info,narew.info,olesnica24.com,radiosochaczew.pl,tv.starachowice.pl,wirtualnesuwalki.pl,zycieolsztyna.pl##.legal-notice
 radomsport.pl##.lewa
 noclegi.biz##.lewastronareklama
 24jgora.pl##.linia_4.clear
