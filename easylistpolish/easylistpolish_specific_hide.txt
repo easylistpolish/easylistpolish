@@ -2284,3 +2284,4 @@ franchising.pl###scContener
 wolow.dlawas.info###banner-top
 ostrzeszow.dlawas.info###banner-top
 gliwice.dlawas.info###banner-top
+tkn24.pl##a[href^="https://saferoof.pl"]
