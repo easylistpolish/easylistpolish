@@ -625,7 +625,6 @@ android.com.pl##.banner--big
 trojmiasto.pl##.banner-a
 metal-bud.eu##.banner-b2b
 bezpiecznyrynekpracy.pl,ox.pl,prudnik24.pl##.banner-block
-production-manager.pl##.banner-carousel
 ekologia.guru,naszatve.pl##.banner-center
 kb.pl,radiosud.pl##.banner-container
 e-kidsplanet.com##.banner-curtain
