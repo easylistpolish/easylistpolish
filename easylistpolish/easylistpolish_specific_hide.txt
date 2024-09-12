@@ -2283,3 +2283,4 @@ sosnowiec.dlawas.info###banner-top
 zagan.dlawas.info###banner-top
 dabrowa.dlawas.info###banner-top
 pleszew.dlawas.info###banner-top
+fakt.pl##.adsContainer
