@@ -2282,3 +2282,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wroclaw.dlawas.info###banner-top
 sosnowiec.dlawas.info###banner-top
 zagan.dlawas.info###banner-top
+dabrowa.dlawas.info###banner-top
