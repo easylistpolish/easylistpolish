@@ -1712,7 +1712,6 @@ fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croi
 7dni.pila.pl##a[href="http://www.dron-media.eu"]
 chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 staleo.pl##a[href="http://www.elmax.eu/"]
-zwolen24.pl##a[href="http://www.fdb.com.pl/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=29&Itemid=74"]
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
