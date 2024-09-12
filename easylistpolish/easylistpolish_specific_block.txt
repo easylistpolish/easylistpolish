@@ -273,3 +273,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+^banner_$domain=production-manager.pl
