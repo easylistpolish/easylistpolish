@@ -1322,6 +1322,7 @@ wiesci.info.pl##.sp-module > .reklama-title
 informator-stolicy.pl##.span_r
 doba.pl##.special__box
 eszkola.pl,msze.info,polscyprawnicy.org,procesor.pl,weekendowo.pl,wirtualnemedia.pl##.spolecznoscinet
+interia.pl##.spons-ph
 zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
@@ -2278,4 +2279,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-interia.pl##.spons-ph
