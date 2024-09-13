@@ -1264,6 +1264,7 @@ mojaswidnica.pl##.sam-pro-container
 sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
 sport.interia.pl##.sc-duSInm
+interia.pl##.sc-eTNep
 sport.interia.pl##.sc-eywOmQ
 cire.pl##.sc-kPVwWT
 4fun.tv,naekranie.pl##.screening-banner
@@ -2279,4 +2280,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-interia.pl##.sc-eTNep
