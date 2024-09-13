@@ -2286,3 +2286,4 @@ bytom.dlawas.info###banner-top
 sroda.dlawas.info###banner-top
 wrzesnia.dlawas.info###banner-top
 miedzychod.dlawas.info###banner-top
+interia.pl##.sc-irLwvL
