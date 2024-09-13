@@ -2283,3 +2283,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 milicz.dlawas.info###banner-top
 bielskobiala.dlawas.info###banner-top
 bytom.dlawas.info###banner-top
+sroda.dlawas.info###banner-top
