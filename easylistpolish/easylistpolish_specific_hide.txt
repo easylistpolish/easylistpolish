@@ -2282,3 +2282,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 milicz.dlawas.info###banner-top
 bielskobiala.dlawas.info###banner-top
+bytom.dlawas.info###banner-top
