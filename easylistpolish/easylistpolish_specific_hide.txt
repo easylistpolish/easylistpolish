@@ -937,6 +937,7 @@ terazkrosno.pl##.header-top .custom
 polacywewloszech.com##.header-top-right
 siechnice.com.pl##.header__ad-main
 divers24.pl,nadwisla24.pl,okazjepodroznika.pl,zabrze24.info##.header__banner
+fcinter.pl##.header__column__banner
 mgsm.pl##.header__promo-wide
 podkarpacielive.pl##.header_banner
 swiatoze.pl##.header_marker
@@ -2281,4 +2282,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-fcinter.pl##.header__column__banner
