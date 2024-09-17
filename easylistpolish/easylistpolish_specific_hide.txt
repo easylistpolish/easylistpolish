@@ -2289,3 +2289,4 @@ nisko.dlawas.info###banner-top
 chelm.dlawas.info###banner-top
 krakow.dlawas.info###banner-top
 lomza.dlawas.info###banner-top
+filmpolski.pl##.obrazek_bez_ramki
