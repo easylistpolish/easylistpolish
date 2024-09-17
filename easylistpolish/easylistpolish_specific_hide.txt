@@ -1215,6 +1215,7 @@ mmanews.pl##.rekBlok
 4trucks.pl##.rek_a
 infoarchitekta.pl##.rek_baner
 4trucks.pl##.rek_j
+fileland.pl##.reki
 4trucks.pl##.rekl
 panoramakutna.pl##.rekl + center
 panoramakutna.pl##.rekl + div
@@ -2282,4 +2283,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-fileland.pl##.reki
