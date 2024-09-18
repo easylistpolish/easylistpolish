@@ -2285,3 +2285,4 @@ gniezno.dlawas.info###banner-top
 hajnowka.dlawas.info###banner-top
 sochaczew.dlawas.info###banner-top
 nowytomysl.dlawas.info###banner-top
+flarrow.pl##a[href="https://starstore.pl/index.php?id_category=4261&controller=category"]
