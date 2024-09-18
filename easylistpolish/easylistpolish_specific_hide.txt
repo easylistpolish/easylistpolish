@@ -1193,6 +1193,7 @@ friko.net##.prezenty > .panel-body
 mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
+food-forum.pl##.promo-sidebar
 forumbranzowe.com##.promocje
 e-grajewo.pl##.promologos
 radiosud.pl,zywiecinfo.pl##.promoted
@@ -2281,4 +2282,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-food-forum.pl##.promo-sidebar
