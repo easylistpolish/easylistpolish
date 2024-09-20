@@ -2286,3 +2286,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 bialystok.dlawas.info###banner-top
 inowroclaw.dlawas.info###banner-top
+rybnik.dlawas.info###banner-top
