@@ -59,7 +59,7 @@ lagardere-tr.pl###banner-hds-background
 mierzeja.com###banner-popup
 koncertomania.pl###banner-side
 topmarkety.pl###banner-sponsorski
-bielskobiala.dlawas.info,bytom.dlawas.info,chelm.dlawas.info,cieszyn.dlawas.info,dabrowa.dlawas.info,gdansk.dlawas.info,gliwice.dlawas.info,gniezno.dlawas.info,hajnowka.dlawas.info,infostrow.pl,kepno.dlawas.info,krakow.dlawas.info,lodz.dlawas.info,lomza.dlawas.info,miedzychod.dlawas.info,milicz.dlawas.info,nisko.dlawas.info,nowytomysl.dlawas.info,ostrzeszow.dlawas.info,pleszew.dlawas.info,polska.dlawas.info,poznan.dlawas.info,przemysl24.pl,sochaczew.dlawas.info,sosnowiec.dlawas.info,sroda.dlawas.info,stalowa.dlawas.info,swidnica.dlawas.info,szczecin.dlawas.info,wabrzezno.dlawas.info,walbrzych.dlawas.info,wolow.dlawas.info,wroclaw.dlawas.info,wrzesnia.dlawas.info,zagan.dlawas.info###banner-top
+bialystok.dlawas.info,bielskobiala.dlawas.info,bytom.dlawas.info,chelm.dlawas.info,cieszyn.dlawas.info,dabrowa.dlawas.info,gdansk.dlawas.info,gliwice.dlawas.info,gniezno.dlawas.info,hajnowka.dlawas.info,infostrow.pl,inowroclaw.dlawas.info,kepno.dlawas.info,krakow.dlawas.info,lodz.dlawas.info,lomza.dlawas.info,miedzychod.dlawas.info,milicz.dlawas.info,nisko.dlawas.info,nowytomysl.dlawas.info,ostrzeszow.dlawas.info,pleszew.dlawas.info,polska.dlawas.info,poznan.dlawas.info,przemysl24.pl,rybnik.dlawas.info,sochaczew.dlawas.info,sosnowiec.dlawas.info,sroda.dlawas.info,stalowa.dlawas.info,starachowice.dlawas.info,swidnica.dlawas.info,szczecin.dlawas.info,torun.dlawas.info,wabrzezno.dlawas.info,walbrzych.dlawas.info,wolow.dlawas.info,wroclaw.dlawas.info,wrzesnia.dlawas.info,zagan.dlawas.info###banner-top
 dkl24.pl###banner10
 appmaniak.pl###bannerTop
 pdaclub.pl###banner_news
@@ -2284,9 +2284,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-bialystok.dlawas.info###banner-top
-inowroclaw.dlawas.info###banner-top
-rybnik.dlawas.info###banner-top
-torun.dlawas.info###banner-top
-starachowice.dlawas.info###banner-top
-footbar.info##a[href="/go/fortuna"]
