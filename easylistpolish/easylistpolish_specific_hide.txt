@@ -2288,3 +2288,4 @@ bialystok.dlawas.info###banner-top
 inowroclaw.dlawas.info###banner-top
 rybnik.dlawas.info###banner-top
 torun.dlawas.info###banner-top
+starachowice.dlawas.info###banner-top
