@@ -1160,7 +1160,7 @@ zycieczestochowy.pl##.pers-item
 cnc.info.pl##.phpbb-ads-center
 kuriergarwolinski.pl##.picture-spot
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
-meczyki.pl##.placeholder
+forbes.pl,meczyki.pl##.placeholder
 ciekawostkihistoryczne.pl##.placeholderAds
 rowerowa.pl##.placement
 muratorplus.pl,urzadzamy.pl##.placement__lazy
@@ -2285,4 +2285,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forbes.pl##.placeholder
