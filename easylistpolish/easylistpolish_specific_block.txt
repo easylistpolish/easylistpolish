@@ -273,3 +273,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+nie do końca wiem jak to działa ale w filtrach na stronie to widniało i było też na lisćie "generated filters" więc wrzucam tu
