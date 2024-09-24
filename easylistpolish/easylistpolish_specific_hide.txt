@@ -480,7 +480,7 @@ panoramakutna.pl##.adnotacja
 tvn.pl,tvn24.pl##.ado-placeholder
 national-geographic.pl##.adrWrapper
 zwierciadlo.pl##.adrek
-24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,hurtidetal.pl,klodzko24.eu,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,miasto-info.pl,mojaleczyca.pl,pieniny24.pl,portalplock.pl,rapduma.pl,suwalki.info,synonimiczny.pl,terazgostynin.pl,tulodz.pl,wpr24.pl##.ads
+24wspolnota.pl,3dwpraktyce.pl,bialasiedzieje.pl,ddbelchatow.pl,fdb.pl,forex-nawigator.biz,hurtidetal.pl,klodzko24.eu,kodeksymezoamerykanskie.eu,korso.pl,korso24.pl,lublin24.pl,miasto-info.pl,mojaleczyca.pl,pieniny24.pl,portalplock.pl,rapduma.pl,suwalki.info,synonimiczny.pl,terazgostynin.pl,tulodz.pl,wpr24.pl##.ads
 kutno.net.pl##.ads .slides
 wyborcza.biz,wyborcza.pl##.ads--splint
 zeglarski.info##.ads-block-right
@@ -2286,4 +2286,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forex-nawigator.biz##.ads
