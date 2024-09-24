@@ -2286,3 +2286,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 rzeszow.dlawas.info###banner-top
+lublin.dlawas.info###banner-top
