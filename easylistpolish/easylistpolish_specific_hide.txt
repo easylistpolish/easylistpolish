@@ -2290,3 +2290,4 @@ lublin.dlawas.info###banner-top
 brodnica.dlawas.info###banner-top
 elk.dlawas.info###banner-top
 minsk.dlawas.info###banner-top
+sokolow.dlawas.info###banner-top
