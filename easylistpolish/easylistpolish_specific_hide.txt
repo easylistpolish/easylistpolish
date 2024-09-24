@@ -2288,3 +2288,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 rzeszow.dlawas.info###banner-top
 lublin.dlawas.info###banner-top
 brodnica.dlawas.info###banner-top
+elk.dlawas.info###banner-top
