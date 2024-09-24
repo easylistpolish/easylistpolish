@@ -2291,3 +2291,4 @@ brodnica.dlawas.info###banner-top
 elk.dlawas.info###banner-top
 minsk.dlawas.info###banner-top
 sokolow.dlawas.info###banner-top
+###Article-Inner-Content, #googleAdsCont, #onet-ad-top, #przeswietlWidgetBig, .stickyWrapperAlone
