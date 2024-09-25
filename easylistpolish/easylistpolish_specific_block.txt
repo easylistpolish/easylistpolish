@@ -105,7 +105,6 @@ _banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-p
 _reklama.$domain=radomsport.pl
 _reklama^$domain=tarnowiak.pl
 _reklamy^$domain=weekendfm.pl
-nie do końca wiem jak to działa ale w filtrach na stronie to widniało i było też na lisćie "generated filters" więc wrzucam tu
 supernowosci24.pl##[id^="r-"]
 wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
