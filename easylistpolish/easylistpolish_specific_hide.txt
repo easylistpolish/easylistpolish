@@ -1,5 +1,9 @@
 portalpszczelarski.pl###AdBig
-###Article-Inner-Content, #googleAdsCont, #onet-ad-top, #przeswietlWidgetBig, .stickyWrapperAlone
+forbes.pl###Article-Inner-Content
+forbes.pl###googleAdsCont
+forbes.pl###onet-ad-top
+forbes.pl###przeswietlWidgetBig
+forbes.pl##.stickyWrapperAlone
 cssetti.pl###AsideAds
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
