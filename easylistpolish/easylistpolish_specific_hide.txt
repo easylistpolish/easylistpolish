@@ -1745,6 +1745,7 @@ ceo.com.pl##a[href="https://123tlumacz.pl/"]
 buzz.give5.pl##a[href="https://654.pl/hNdBjFTy"]
 buzz.give5.pl##a[href="https://654.pl/rMZs3KSL"]
 buzz.give5.pl##a[href="https://654.pl/znrb6S"]
+forex-nawigator.biz##a[href="https://admiralmarkets.pl/?ref_id=17952&regulator=cysec&utm_medium=affiliate&utm_source=partner_referral&utm_campaign=17952"]
 audiostereo.pl##a[href="https://audiotrendt.com.pl/"]
 biznestuba.pl##a[href="https://aurechome.pl"]
 cyfrowaekonomia.pl##a[href="https://auth.zonda.exchange/ref/cyfrowaekonomia/38/pl-PL"]
@@ -2286,4 +2287,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forex-nawigator.biz##a[href="https://admiralmarkets.pl/?ref_id=17952&regulator=cysec&utm_medium=affiliate&utm_source=partner_referral&utm_campaign=17952"]
