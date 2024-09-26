@@ -2294,3 +2294,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 grojec.dlawas.info###banner-top
 radom.dlawas.info###banner-top
 olesno.dlawas.info###banner-top
+grodzisk.dlawas.info###banner-top
