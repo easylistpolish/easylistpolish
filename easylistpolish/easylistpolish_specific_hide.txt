@@ -2296,3 +2296,4 @@ radom.dlawas.info###banner-top
 olesno.dlawas.info###banner-top
 grodzisk.dlawas.info###banner-top
 zyrardow.dlawas.info###banner-top
+fors.pl##.attachment-full
