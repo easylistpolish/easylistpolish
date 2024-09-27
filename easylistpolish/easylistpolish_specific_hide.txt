@@ -226,6 +226,7 @@ miastokolobrzeg.pl###panel_baner
 automatyka.pl,kreskowki-online.pl,magazynpolonia.com###partners
 ekoexpo.pl###partners_bar
 hitra-wedkarstwo.cba.pl###partnerzy
+forum-kulturystyka.pl###plan-forum-flow
 informator-stolicy.pl###pm_gora
 bialystokonline.pl###polecamy
 rekomendowanefirmy.pl###polecamy-box-2
@@ -2292,4 +2293,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forum-kulturystyka.pl###plan-forum-flow
