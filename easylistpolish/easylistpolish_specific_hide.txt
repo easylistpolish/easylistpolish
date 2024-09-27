@@ -2296,3 +2296,4 @@ koscierzyna.dlawas.info###banner-top
 klodzko.dlawas.info###banner-top
 lca.pl##.new-toplayer
 warsztat.pl##.banersrodtekst
+forum-bron.pl##a[href*="banner"]
