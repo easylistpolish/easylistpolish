@@ -2295,3 +2295,4 @@ malbork.dlawas.info###banner-top
 elblag.dlawas.info###banner-top
 koscierzyna.dlawas.info###banner-top
 klodzko.dlawas.info###banner-top
+lca.pl##.new-toplayer
