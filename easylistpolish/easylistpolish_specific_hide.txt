@@ -1872,6 +1872,7 @@ bitcoin.pl##a[href="https://www.geco.one/bonuses"]
 ddb24.pl##a[href="https://www.gowork.pl/praca/bialystok;l"]
 cenyrolnicze.pl##a[href="https://www.indrol.pl/kontakt#kontraktacja"]
 swidnica24.pl##a[href="https://www.iparts.pl"]
+forum.alfaholicy.org##a[href="https://www.iparts.pl/"]
 dbpolska.net##a[href="https://www.jpf.com.pl/produkt,Dragon-Ball-Super,62"]
 nowawrzesnia.pl##a[href="https://www.lazienkowepasje.pl/"]
 bydgoszcz.com##a[href="https://www.lh.pl/hosting?ref=nowaksolutions"]
@@ -2293,4 +2294,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forum.alfaholicy.org##a[href="https://www.iparts.pl/"]
