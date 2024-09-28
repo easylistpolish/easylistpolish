@@ -359,7 +359,7 @@ dziennikpowiatowy.pl###top_1
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement
 pup.sosnowiec.pl###topbaner
-telewizjastk.pl,zambrowiacy.pl###topbanner
+forum-oddluzanie.pl,telewizjastk.pl,zambrowiacy.pl###topbanner
 dziennikpowiatowy.pl###toplayer
 gorzowianin.com###topmsg
 silacze.org###tri-mot
@@ -2293,4 +2293,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forum-oddluzanie.pl###topbanner
