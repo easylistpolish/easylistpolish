@@ -1887,6 +1887,7 @@ biznestuba.pl##a[href="https://www.portu.pl/?utm_source=pl&utm_medium=banner&utm
 samiswoi.news##a[href="https://www.przekazypieniezne.com/"]
 samiswoi.news##a[href="https://www.przekazypieniezne.com/przekazy-mobilne"]
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
+forum.alfaholicy.org##a[href="https://www.ruryturbo.pl/"]
 businesstraveller.pl##a[href="https://www.siemens.com/pl/pl/home.html"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
@@ -2295,4 +2296,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forum.alfaholicy.org##a[href="https://www.ruryturbo.pl/"]
