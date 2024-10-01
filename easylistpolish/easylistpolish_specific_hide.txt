@@ -1845,7 +1845,6 @@ audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=sys
 chillitorun.pl,ddb24.pl##a[href="https://www.autoczescionline24.pl/"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 bobasmiesiaca.pl##a[href="https://www.autoscribe.online/"]
-bobrzanie.pl##a[href="https://www.banklbs.pl/"]
 bielsko.info##a[href="https://www.bielsko.info/reklama"]
 biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
 gazeta-mosina.pl##a[href="https://www.condorpolska.com.pl/"]
