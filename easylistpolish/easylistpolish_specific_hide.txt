@@ -2298,3 +2298,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lca.pl##[class*="banner--"]
 chorzow.dlawas.info###banner-top
+piaseczno.dlawas.info###banner-top
