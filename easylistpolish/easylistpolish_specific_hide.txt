@@ -2297,3 +2297,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+forum.ebiznesy.pl##a[href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=1506_5_1_20"]
