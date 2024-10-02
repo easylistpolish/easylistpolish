@@ -2300,3 +2300,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 siedlce.dlawas.info###banner-top
 gizycko.dlawas.info###banner-top
 suwalki.dlawas.info###banner-top
+forum.ebiznesy.pl###sidebar
