@@ -1727,6 +1727,7 @@ elektroda.pl##a[href="http://www.biall.com.pl/sklep.html#"]
 cypr24.eu##a[href="http://www.bluenetcyprus.com/"]
 fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
 chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
+forum.ebiznesy.pl##a[href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=1506_5_1_20"]
 staleo.pl##a[href="http://www.elmax.eu/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=29&Itemid=74"]
@@ -2297,4 +2298,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-forum.ebiznesy.pl##a[href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=1506_5_1_20"]
