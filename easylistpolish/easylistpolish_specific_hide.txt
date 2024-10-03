@@ -2299,3 +2299,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 strzelnoonline.com##.nivo-imageLink
 suwalki.dlawas.info###banner-top
 bialobrzegi.dlawas.info###banner-top
+tvswietokrzyska.pl##.tipad_tag + a
