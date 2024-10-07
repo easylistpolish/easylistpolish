@@ -2302,3 +2302,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 czestochowa.dlawas.info###banner-top
 katowice.dlawas.info###banner-top
 opole.dlawas.info###banner-top
+fresh-market.pl##a[href="https://greensolutions.eu/"]
