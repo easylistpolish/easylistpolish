@@ -2301,3 +2301,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 czestochowa.dlawas.info###banner-top
 katowice.dlawas.info###banner-top
+opole.dlawas.info###banner-top
