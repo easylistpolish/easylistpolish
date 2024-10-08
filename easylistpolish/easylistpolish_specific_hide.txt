@@ -2302,3 +2302,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 olkusz.dlawas.info###banner-top
+fresh-market.pl##a[href="https://www.ucakkardesler.com.tr/"]
