@@ -508,7 +508,7 @@ doba.pl##.ads_row
 stooq.pl##.adsbygoogle ~ table
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,eprzasnysz.pl,goral.info.pl,gryfinska.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nolesnica.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
+24jgora.pl,24wroclaw.pl,atrexpress.com.pl,bbfan.pl,bp24.pl,cgm.pl,ciechanowinaczej.pl,ddb24.pl,debica24.eu,e-sochaczew.pl,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,eprzasnysz.pl,galopuje.pl,goral.info.pl,gryfinska.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,mylomza.pl,nolesnica.pl,nowawrzesnia.pl,pilaonline.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl,zyciekalisza.pl##.adv
 nowinynyskie.com.pl##.adv--bill
 24jgora.pl,24wroclaw.pl,e-kg.pl,zambrow.org##.adv--halfpage
 wterenie.pl##.adv--rectangle
@@ -2302,4 +2302,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-galopuje.pl##.adv
