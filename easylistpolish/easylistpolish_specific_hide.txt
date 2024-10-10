@@ -2304,3 +2304,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wadowice.dlawas.info###banner-top
 tarnobrzeg.dlawas.info###banner-top
+warszawa.dlawas.info###banner-top
