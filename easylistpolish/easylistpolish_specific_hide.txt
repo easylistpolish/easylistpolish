@@ -2219,6 +2219,7 @@ forum.nissanklub.pl##img[alt="Eneos"]
 gosc.pl,radioem.pl##img[alt="Reklama"]
 forum.nissanklub.pl##img[alt="advertisement_alt"]
 cowkrakowie.pl##img[alt="baner"]
+galeriatwarzy.pl##img[alt="banner"]
 hfc.com.pl##img[alt="s-e-r-v-e-r-a-d-s"]
 pionki24.pl,pulslegnicy.pl##img[alt="spot_img"]
 lubaczow.tv##img[alt^="Ad banner"]
@@ -2301,4 +2302,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-galeriatwarzy.pl##img[alt="banner"]
