@@ -2305,3 +2305,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 halootwock.pl###banner-top
 czluchowinfo.pl##[class*="banner--"]
+zywiec.dlawas.info###banner-top
