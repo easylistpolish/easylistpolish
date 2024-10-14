@@ -2306,3 +2306,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 halootwock.pl###banner-top
 czluchowinfo.pl##[class*="banner--"]
 zywiec.dlawas.info###banner-top
+gastrona.pl##a[href*="bbelements"]
