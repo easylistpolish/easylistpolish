@@ -688,7 +688,6 @@ kalisz24.info.pl##.bdaia-e3-container
 dziennikplocki.pl##.before-news-ads
 fabrykasily.pl##.bg-link-left
 fabrykasily.pl##.bg-link-right
-portalpszczelarski.pl##.biggDickus
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
