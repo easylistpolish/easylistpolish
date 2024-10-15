@@ -2308,3 +2308,4 @@ myszkow.dlawas.info###banner-top
 lebork.dlawas.info###banner-top
 karkonoszego.pl###ad--bill-top
 magazynnaszczycie.pl###ad--bill-top
+gastrona.pl##.slide-container
