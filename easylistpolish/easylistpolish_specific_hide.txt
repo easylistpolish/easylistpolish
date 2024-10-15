@@ -2306,3 +2306,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 czluchowinfo.pl##.new-toplayer
 myszkow.dlawas.info###banner-top
+lebork.dlawas.info###banner-top
