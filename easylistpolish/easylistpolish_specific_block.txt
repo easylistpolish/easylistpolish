@@ -130,6 +130,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ceny-zlomu.pl^*-223x134_
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
+||chwaszczyno.pl^*^RAI-
 ||dentoforum.pl^*^baner1.
 ||dobrewiadomosci.eu^*^opal_
 ||dopilar.pl^*^sky1.
@@ -273,4 +274,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||chwaszczyno.pl^*^RAI-
