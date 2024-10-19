@@ -2230,6 +2230,7 @@ gazetasenior.pl##img[alt^="Reklama"]
 pwm.org.pl##img[onload^="countAdView"]
 cypr24.eu,evertiq.pl,fors.pl##img[src*="Banner"]
 cypr24.eu,e-chelmno.pl,elblag24.pl,eskatt.pl,esopot.pl,eswinoujscie.pl,f1.dziel-pasje.pl##img[src*="baner"]
+gazeo.pl##img[src*="banerek"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl##img[src*="banner"]
 funkcje.net##img[src*="bannery"]
@@ -2304,4 +2305,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeo.pl##img[src*="banerek"]
