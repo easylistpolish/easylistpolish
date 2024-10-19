@@ -2154,6 +2154,7 @@ onet.pl##div[data-section^="ad-flat"]
 olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
 ewyszkow.pl##div[id*="advertisement"]
+gazeta.pl##div[id*="ban"]
 rekomendowanefirmy.pl##div[id^="AD-"]
 mgsm.pl##div[id^="AdArea"]
 interia.pl##div[id^="ad-view-"]
@@ -2305,4 +2306,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##div[id*="ban"]
