@@ -2153,6 +2153,7 @@ forbes.pl##div[data-run-module="local/main_amd.placeholders"]
 onet.pl##div[data-section^="ad-flat"]
 olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
+gazeta.pl##div[id*="DFP-011-MIDBOARD"]
 ewyszkow.pl##div[id*="advertisement"]
 gazeta.pl##div[id*="ban"]
 rekomendowanefirmy.pl##div[id^="AD-"]
@@ -2306,4 +2307,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##div[id*="DFP-011-MIDBOARD"]
