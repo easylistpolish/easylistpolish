@@ -2309,3 +2309,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 krotoszyn.dlawas.info###banner-top
 nysa.dlawas.info###banner-top
 brzesko.dlawas.info###banner-top
+epoznan.pl##.bannerBox
