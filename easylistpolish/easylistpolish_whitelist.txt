@@ -5,7 +5,7 @@
 @@^baner-tp.$domain=tygodnikprudnicki.pl
 @@^baner.$domain=cech-lipno.pl
 @@^banery/2^$domain=sportgniezno.pl
-@@^reklamy^$domain=csbydgoszcz.pl|selgros24.pl
+@@^reklamy^$domain=selgros24.pl
 @@||api.samiswoi24.pl/advert?
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
