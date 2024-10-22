@@ -2307,3 +2307,4 @@ wolomin.dlawas.info###banner-top
 nowemiasto.dlawas.info###banner-top
 dzialdowo.dlawas.info###banner-top
 sucha24.pl###ad--bill-top
+gazetagazeta.com##div[id^="media_image-"]
