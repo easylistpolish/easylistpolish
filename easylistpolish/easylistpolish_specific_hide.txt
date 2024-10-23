@@ -2306,3 +2306,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ilawa.dlawas.info###banner-top
 olsztyn.dlawas.info###banner-top
 ostroda.dlawas.info###banner-top
+lca.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
