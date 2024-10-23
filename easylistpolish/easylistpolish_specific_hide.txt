@@ -578,7 +578,7 @@ businesstraveller.pl##.atbd
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,stronakuchni.pl##.atomsAdsCellModel
 dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl##.atomsPromotionsBanner__img
 dziennikzachodni.pl##.atomsPromotionsBanner__link
-fors.pl,gamesfanatic.pl,polskikosz.pl##.attachment-full
+fors.pl,gamesfanatic.pl,gazetakolobrzeska.pl,polskikosz.pl##.attachment-full
 glospedagogiczny.pl##.auto-pr-block > a
 food-forum.pl##.auto-pr-block__desktop
 tanibilet.eu##.av_pop_modals_1.ays-pb-modals
@@ -2303,4 +2303,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetakolobrzeska.pl##.attachment-full
