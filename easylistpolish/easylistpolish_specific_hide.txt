@@ -1796,6 +1796,7 @@ fresh-market.pl##a[href="https://greensolutions.eu/"]
 centrumwitalnosci.pl##a[href="https://hurompolska.pl/wyciskarka-h200-easy-plus/"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 elektroda.pl##a[href="https://jlcpcb.com/?from=REP"]
+gazetakolobrzeska.pl##a[href="https://kolobrzeg.praca.gov.pl/oferty-pracy"]
 dbpolska.net##a[href="https://kosmiczni.pl/?adv=789"]
 bydgoszcz.com##a[href="https://kratki.com/pl/salony-firmowe/bydgoszcz/"]
 etransport.pl##a[href="https://kuchniakierowcy.pl"]
@@ -2308,4 +2309,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetakolobrzeska.pl##a[href="https://kolobrzeg.praca.gov.pl/oferty-pracy"]
