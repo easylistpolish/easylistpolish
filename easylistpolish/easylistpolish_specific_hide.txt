@@ -2309,3 +2309,4 @@ mypolacy.de##.wnr
 slupsk.dlawas.info###banner-top
 gdynia.dlawas.info###banner-top
 sopot.dlawas.info###banner-top
+tczew.dlawas.info###banner-top
