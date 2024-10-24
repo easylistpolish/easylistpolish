@@ -2312,3 +2312,4 @@ sopot.dlawas.info###banner-top
 tczew.dlawas.info###banner-top
 tczewski24.pl##.banners
 gazeta.pl##[class="onetrust-pc-dark-filter ot-fade-in"]
+ddwloclawek.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
