@@ -2311,3 +2311,4 @@ gdynia.dlawas.info###banner-top
 sopot.dlawas.info###banner-top
 tczew.dlawas.info###banner-top
 tczewski24.pl##.banners
+gazeta.pl##[class="onetrust-pc-dark-filter ot-fade-in"]
