@@ -1849,6 +1849,7 @@ chillitorun.pl,ddb24.pl##a[href="https://www.autoczescionline24.pl/"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 bobasmiesiaca.pl##a[href="https://www.autoscribe.online/"]
 bielsko.info##a[href="https://www.bielsko.info/reklama"]
+gazetakolobrzeska.pl##a[href="https://www.bricomarche.pl/gazetka/bricomarche-kolobrzeg"]
 biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
 fishing-test.pl##a[href="https://www.corona-fishing.pl/Katalog,produktow/Kolowrotki/Shimano/13,207"]
 ddb24.pl##a[href="https://www.czesciauto24.pl/narzedzia"]
@@ -2309,4 +2310,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetakolobrzeska.pl##a[href="https://www.bricomarche.pl/gazetka/bricomarche-kolobrzeg"]
