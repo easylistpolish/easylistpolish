@@ -2316,3 +2316,4 @@ mlawa.dlawas.info###banner-top
 ciechanow.dlawas.info###banner-top
 zielonagora.dlawas.info###banner-top
 faktypilskie.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+ciechocinek.biz##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
