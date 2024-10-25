@@ -2312,3 +2312,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 mragowo.dlawas.info###banner-top
 pszczyna.dlawas.info###banner-top
+mlawa.dlawas.info###banner-top
