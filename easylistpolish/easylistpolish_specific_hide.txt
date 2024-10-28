@@ -2319,3 +2319,4 @@ bydgoszcz.dlawas.info###banner-top
 trzebnica.dlawas.info###banner-top
 swiecie24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 e-krajna.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+zyciesiedleckie.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
