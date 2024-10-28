@@ -2316,3 +2316,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 jaslo.dlawas.info###banner-top
 olesnica.dlawas.info###banner-top
 bydgoszcz.dlawas.info###banner-top
+trzebnica.dlawas.info###banner-top
