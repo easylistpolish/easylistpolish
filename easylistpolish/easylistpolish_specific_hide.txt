@@ -2317,3 +2317,4 @@ jaslo.dlawas.info###banner-top
 olesnica.dlawas.info###banner-top
 bydgoszcz.dlawas.info###banner-top
 trzebnica.dlawas.info###banner-top
+swiecie24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
