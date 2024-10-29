@@ -2319,3 +2319,4 @@ zakopane.dlawas.info###banner-top
 suski.dlawas.info###banner-top
 jarocin.dlawas.info###banner-top
 pisz.dlawas.info###banner-top
+lidzbark.dlawas.info###banner-top
