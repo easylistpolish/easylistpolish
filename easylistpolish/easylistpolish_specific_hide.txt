@@ -2318,3 +2318,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zakopane.dlawas.info###banner-top
 suski.dlawas.info###banner-top
 jarocin.dlawas.info###banner-top
+pisz.dlawas.info###banner-top
