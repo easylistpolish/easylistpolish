@@ -2322,3 +2322,4 @@ pisz.dlawas.info###banner-top
 lidzbark.dlawas.info###banner-top
 kolniak24.eu##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 gniewkowo.eu##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+terazlipno.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
