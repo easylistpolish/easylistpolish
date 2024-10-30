@@ -2318,3 +2318,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 ketrzyn.dlawas.info###banner-top
 nidzica.dlawas.info###banner-top
+bartoszyce.dlawas.info###banner-top
