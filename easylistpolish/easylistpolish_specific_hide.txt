@@ -2319,3 +2319,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ketrzyn.dlawas.info###banner-top
 nidzica.dlawas.info###banner-top
 bartoszyce.dlawas.info###banner-top
+gazetanowodworska.com##.mainSlider
