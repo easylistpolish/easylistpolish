@@ -1698,6 +1698,7 @@ kuriergarwolinski.pl##a[href*="klikniecia"]
 naszraciborz.pl##a[href*="link_r"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 ewysmaz.pl##a[href*="nawozy.eu"]
+gazetamyszkowska.pl##a[href*="norwit.pl"]
 badaniaprenatalne.pl##a[href*="ojcostwoprenatalne.pl"]
 badaniaprenatalne.pl##a[href*="poradagenetyka.pl"]
 badaniaprenatalne.pl##a[href*="testdna.pl"]
@@ -2315,4 +2316,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetamyszkowska.pl##a[href*="norwit.pl"]
