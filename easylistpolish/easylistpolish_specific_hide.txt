@@ -1705,6 +1705,7 @@ badaniaprenatalne.pl##a[href*="testdna.pl"]
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
 dbpolska.net##a[href=" https://shinobiworld.pl/"]
+gazetasenior.pl##a[href="//www.gazetasenior.pl/orteza-zamiast-gipsu"]
 barlinek24.pl##a[href="/aktualnosci-2/14634-prezent-na-gwiazdke-od-plusa-dwa-abonamenty-w-cenie-jednego.html"]
 barlinek24.pl##a[href="/aktualnosci/12833-z-ludzmi-i-dla-ludzi.html"]
 footbar.info##a[href="/go/betclic"]
@@ -2317,4 +2318,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetasenior.pl##a[href="//www.gazetasenior.pl/orteza-zamiast-gipsu"]
