@@ -2326,3 +2326,4 @@ gorlice24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-b
 tygodnik.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 uniejow.net.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 ekutno.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gazetawawerska.pl##img[src*="baner"]
