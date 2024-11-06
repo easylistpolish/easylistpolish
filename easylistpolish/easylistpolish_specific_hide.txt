@@ -576,7 +576,7 @@ posbud.com.pl##.as_marquee0
 astar.czest.pl##.asad
 businesstraveller.pl##.atbd
 gazetalubuska.pl##.atomsAdsCellMode
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,stronakuchni.pl##.atomsAdsCellModel
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,nowiny24.pl,pomorska.pl,poranny.pl,strefaagro.pl,stronakobiet.pl,stronakuchni.pl##.atomsAdsCellModel
 gazetakrakowska.pl##.atomsPromotionsBanner
 dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl##.atomsPromotionsBanner__img
 dziennikzachodni.pl##.atomsPromotionsBanner__link
@@ -2322,4 +2322,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetawroclawska.pl##.atomsAdsCellModel
