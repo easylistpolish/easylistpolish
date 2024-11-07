@@ -2328,3 +2328,4 @@ szczytno.dlawas.info###banner-top
 olecko.dlawas.info###banner-top
 braniewo.dlawas.info###banner-top
 tarnow.dlawas.info###banner-top
+gazetazabrze.pl##a[href="https://brand.ceo"]
