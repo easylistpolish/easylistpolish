@@ -2326,3 +2326,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 szczytno.dlawas.info###banner-top
 olecko.dlawas.info###banner-top
+braniewo.dlawas.info###banner-top
