@@ -1297,6 +1297,7 @@ gostynin.info,powiat-piaseczynski.info##.section-billboard
 igrit.pl##.section-top-py
 muno.pl##.sectionTopAd
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
+gazetki-promocyjne.net.pl##.shadow-text
 lubanski.eu##.shailan_banner_widget
 wp.pl##.shoplovin-3P
 motocykl-online.pl##.side-right p
@@ -2326,4 +2327,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazetki-promocyjne.net.pl##.shadow-text
