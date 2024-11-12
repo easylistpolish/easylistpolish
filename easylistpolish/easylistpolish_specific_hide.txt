@@ -2333,3 +2333,4 @@ grudziadz365.pl##div[style="background-color: #DDF0F3; padding-top: 50px; paddin
 jastrowie24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 extrawalcz.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 gst24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+belchatow.dlawas.info###banner-top
