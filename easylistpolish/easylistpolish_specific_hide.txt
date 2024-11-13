@@ -2335,3 +2335,4 @@ abcjanikowo24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; paddi
 ekstrasierpc.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 mojakruszwica.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 isanok.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gf24.pl##.td_single_image_bg
