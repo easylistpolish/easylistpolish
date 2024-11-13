@@ -668,6 +668,7 @@ weranda.pl##.banner_container
 confero.pl##.banner_panel
 zmpd.pl##.banner_po_lewej
 pik.kielce.pl##.banner_reklama_el
+geoforum.pl##.banner_table
 24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,glivice.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,slazag.pl,tarnowskiegory.info,twojknurow.pl,zabrzenews.pl##.banner_top
 akadera.bialystok.pl##.banner_wrapper
 przekrojlokalny.pl,slubickie.info##.banner_zone
@@ -2330,4 +2331,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-geoforum.pl##.banner_table
