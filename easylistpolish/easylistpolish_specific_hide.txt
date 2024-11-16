@@ -2336,3 +2336,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 pakosc24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 panoramakutna.pl##.rekl
+glamour.pl##.obf3564458a184bd7e1325e074fdbfab236
