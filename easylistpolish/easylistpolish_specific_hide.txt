@@ -2339,3 +2339,4 @@ konin.dlawas.info###banner-top
 kalisz.dlawas.info###banner-top
 chodziez.dlawas.info###banner-top
 leszno.dlawas.info###banner-top
+czarnkow.dlawas.info###banner-top
