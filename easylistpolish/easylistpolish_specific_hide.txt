@@ -2337,3 +2337,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 konin.dlawas.info###banner-top
 kalisz.dlawas.info###banner-top
+chodziez.dlawas.info###banner-top
