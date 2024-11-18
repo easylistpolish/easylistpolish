@@ -2340,3 +2340,4 @@ kalisz.dlawas.info###banner-top
 chodziez.dlawas.info###banner-top
 leszno.dlawas.info###banner-top
 czarnkow.dlawas.info###banner-top
+e-chelmno.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
