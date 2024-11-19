@@ -2344,3 +2344,4 @@ spotradomsko.pl##div[style="background-color: #DDF0F3; padding-top: 50px; paddin
 gwio.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 plonskwsieci.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 naszradziejow.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+hej.mielec.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
