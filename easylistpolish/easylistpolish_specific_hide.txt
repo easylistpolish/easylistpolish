@@ -1745,7 +1745,7 @@ staleo.pl##a[href="http://www.elmax.eu/"]
 haczyk.pl##a[href="http://www.forum.halohalo.pl"]
 gazetaslupecka.pl##a[href="http://www.gazetaslupecka.pl/wp-content/uploads/2020/12/Serwis-Slupca_pl-858x1024.jpg"]
 www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=29&Itemid=74"]
-www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
+glogow-info.pl,www.glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
 tarnobrzeg.info##a[href="http://www.goldengrupa.com/"]
 faunaflora.com.pl##a[href="http://www.hodowlany.pl"]
 faunaflora.com.pl##a[href="http://www.infermo.pl/"]
@@ -2337,4 +2337,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=37&Itemid=83"]
