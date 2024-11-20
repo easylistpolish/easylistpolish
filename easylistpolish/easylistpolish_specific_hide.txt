@@ -2339,3 +2339,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 radioszczecin.pl##.advpromoelem
 olesnica24.com##.tipad_tag + a
+glogow-info.pl##a[href="http://www.glogow-info.pl/index.php?option=com_content&task=blogcategory&id=29&Itemid=74"]
