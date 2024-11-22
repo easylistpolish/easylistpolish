@@ -2341,3 +2341,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zlotow.dlawas.info###banner-top
 gostyn.dlawas.info###banner-top
 kolo.dlawas.info###banner-top
+ursus.dlawas.info###banner-top
