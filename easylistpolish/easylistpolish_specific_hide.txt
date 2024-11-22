@@ -2343,3 +2343,4 @@ gostyn.dlawas.info###banner-top
 kolo.dlawas.info###banner-top
 ursus.dlawas.info###banner-top
 oborniki.dlawas.info###banner-top
+wiescimiedzychodzkie.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
