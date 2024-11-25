@@ -2350,3 +2350,4 @@ ejarocin.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bo
 pila.dlawas.info###banner-top
 rawicz.dlawas.info###banner-top
 wolsztyn.dlawas.info###banner-top
+wagrowiec.dlawas.info###banner-top
