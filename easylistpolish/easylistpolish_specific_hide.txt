@@ -2348,3 +2348,4 @@ pulsciechanowa.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padd
 miastko24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 ejarocin.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 pila.dlawas.info###banner-top
+rawicz.dlawas.info###banner-top
