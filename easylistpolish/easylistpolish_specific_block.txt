@@ -106,6 +106,7 @@ _reklama.$domain=radomsport.pl
 _reklama^$domain=tarnowiak.pl
 _reklamy^$domain=weekendfm.pl
 files.librus.pl^*^*_loginR_
+files.librus.pl^*^r_
 supernowosci24.pl##[id^="r-"]
 wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
@@ -275,4 +276,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-files.librus.pl^*^r_
