@@ -2342,3 +2342,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 e-hotelarz.pl##.banner
 przeclaw24.pl##.main-col-top
+gloswielkopolski.pl##.atomsAdsCellModel--top
