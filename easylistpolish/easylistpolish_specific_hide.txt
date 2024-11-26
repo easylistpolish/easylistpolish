@@ -1138,7 +1138,6 @@ mgsm.pl##.oa_replacement
 glamour.pl##.obf3564458a184bd7e1325e074fdbfab236
 elle.pl##.obf4056a6921bcc11aae6150cbd9c5b7fbc
 filmpolski.pl##.obrazek_bez_ramki
-iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
 zw.pl##.oglo_box2
 sportowetempo.pl##.ogloszenia
