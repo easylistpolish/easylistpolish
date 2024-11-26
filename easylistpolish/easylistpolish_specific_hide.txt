@@ -80,6 +80,7 @@ telewizor.eu###block
 icyfrowypolsat.pl###block-10
 tarnobrzeg.info###block-11
 gloskoninski.pl###block-26
+gloskoninski.pl###block-30
 7dni.pila.pl###block-42
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
@@ -2341,4 +2342,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gloskoninski.pl###block-30
