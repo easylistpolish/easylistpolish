@@ -781,7 +781,7 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gs24.pl,i.pl,kielce.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl##.componentsPromotionsArticlePromotedList
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 dziennikzachodni.pl##.componentsPromotionsListWithSlider__listWrapper
-gazetalubuska.pl##.componentsPromotionsPromoted
+gazetalubuska.pl,gloswielkopolski.pl##.componentsPromotionsPromoted
 gazetalubuska.pl##.componentsPromotionsPromotedList
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
 meczyki.pl##.container > div[data-area-id]
@@ -2342,4 +2342,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gloswielkopolski.pl##.componentsPromotionsPromoted
