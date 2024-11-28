@@ -1696,6 +1696,7 @@ badaniaprenatalne.pl##a[href*="badanienifty.pl"]
 e-kolo.pl##a[href*="baner"]
 forum-bron.pl,forum.pasja-informatyki.pl,fresh-market.pl,gastrona.pl##a[href*="banner"]
 gastrona.pl##a[href*="bbelements"]
+gloswroclawia.pl##a[href*="brand.ceo"]
 businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
@@ -2343,4 +2344,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gloswroclawia.pl##a[href*="brand.ceo"]
