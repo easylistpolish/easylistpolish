@@ -1713,6 +1713,7 @@ ewysmaz.pl##a[href*="nawozy.eu"]
 gazetamyszkowska.pl##a[href*="norwit.pl"]
 badaniaprenatalne.pl##a[href*="ojcostwoprenatalne.pl"]
 badaniaprenatalne.pl##a[href*="poradagenetyka.pl"]
+gloswroclawia.pl##a[href*="strzelnicapawlow.pl"]
 badaniaprenatalne.pl##a[href*="testdna.pl"]
 bithub.pl##a[href*="utm_source=bithub&utm_medium="]
 jelonka.com##a[href*="zlicz"]
@@ -2345,4 +2346,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gloswroclawia.pl##a[href*="strzelnicapawlow.pl"]
