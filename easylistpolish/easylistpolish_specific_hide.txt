@@ -2351,3 +2351,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 studentnews.pl##.bpm
 turek.dlawas.info###banner-top
 srem.dlawas.info###banner-top
+szamotuly.dlawas.info###banner-top
