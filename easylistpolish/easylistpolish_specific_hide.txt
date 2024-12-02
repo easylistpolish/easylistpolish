@@ -2353,3 +2353,4 @@ turek.dlawas.info###banner-top
 srem.dlawas.info###banner-top
 szamotuly.dlawas.info###banner-top
 slupca.dlawas.info###banner-top
+koscian.dlawas.info###banner-top
