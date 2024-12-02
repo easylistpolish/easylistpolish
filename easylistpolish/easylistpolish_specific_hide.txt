@@ -128,6 +128,7 @@ waw4free.pl###detal_top
 tcz.pl###dynamic-load
 tcz.pl###dynamic-loading
 hrubieszow.info###endo_wrc_widget-2
+goniecpolski.nl###execphp-2
 chemiabudowlana.info###fadeinbox
 angolia.co.uk###fancybox-wrap
 woda-scieki.com###firms
@@ -2349,4 +2350,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-goniecpolski.nl###execphp-2
