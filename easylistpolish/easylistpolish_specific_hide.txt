@@ -2353,3 +2353,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 rzeczkrotoszynska.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 ibytow.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 roztocze.net##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+terazgabin.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
