@@ -2356,3 +2356,4 @@ roztocze.net##div[style="background-color: #DDF0F3; padding-top: 50px; padding-b
 terazgabin.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 dziendobrypomorze.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 gwarek.com.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gopoznan.pl##img[src*="banner"]
