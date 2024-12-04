@@ -1796,6 +1796,7 @@ gazetazabrze.pl##a[href="https://brand.ceo"]
 elubaczow.com##a[href="https://bslubaczow.pl/"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 calisia.pl##a[href="https://calisia.pl/storage/a/3a65fa6367dd0ea915b/click"]
+goral24.pl##a[href="https://cdn.gallery/pic/adsredirect.php?url=https%3A%2F%2Fwww.remax-polska.pl%2FDuo&id=18083&plc_id=25&disp_id=df327f105f7bd806e1edc5f04270e2b1&domain=goral.info.pl"]
 bydgoszcz.com##a[href="https://cdue.edu.pl"]
 cannabisnews.pl##a[href="https://centrummarihuany.pl/"]
 chorzowianin.pl##a[href="https://chorzowianin.pl/2022/11/15/wazne-zeby-miec-duzy-obrazek-podcast-w-ramach-projektu-calypso/"]
@@ -2352,4 +2353,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-goral24.pl##a[href="https://cdn.gallery/pic/adsredirect.php?url=https%3A%2F%2Fwww.remax-polska.pl%2FDuo&id=18083&plc_id=25&disp_id=df327f105f7bd806e1edc5f04270e2b1&domain=goral.info.pl"]
