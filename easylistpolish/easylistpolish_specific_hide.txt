@@ -2355,3 +2355,4 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+goral24.pl##img[src="https://goral.info.pl/static/files/inline_images/521/inline__1_8282.jpg"]
