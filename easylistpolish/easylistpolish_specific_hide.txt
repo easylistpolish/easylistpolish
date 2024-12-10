@@ -2359,3 +2359,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 jeleniagora.dlawas.info###banner-top
 boleslawiec.dlawas.info###banner-top
+legnica.dlawas.info###banner-top
