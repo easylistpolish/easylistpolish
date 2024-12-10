@@ -2361,3 +2361,4 @@ jeleniagora.dlawas.info###banner-top
 boleslawiec.dlawas.info###banner-top
 legnica.dlawas.info###banner-top
 dzierzoniow.dlawas.info###banner-top
+gostynin.info##.section-billboard
