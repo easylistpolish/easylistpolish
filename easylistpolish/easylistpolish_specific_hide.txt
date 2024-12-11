@@ -2362,3 +2362,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 e-golub.info.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 e-wabrzezno.info.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 hej.rzeszow.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gotujzmaka.blogspot.com##a[href="https://partnerzy.ceneo.pl/Account/Register?referrer=13904"]
