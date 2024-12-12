@@ -1732,6 +1732,7 @@ footbar.info##a[href="/go/fortuna"]
 enowiny.pl##a[href="/reklama,9.html"]
 bydgoszczak.pl##a[href="/strona/reklama"]
 blogbukmacherski.pl##a[href="fuksiarz"]
+gotujzmaka.blogspot.com##a[href="http://aduparosnie.pl"]
 chorzowianin.pl##a[href="http://agencjamedial.pl"]
 chorzowianin.pl##a[href="http://agencjamedial.pl/portfolio-item/dron/"]
 chorzowianin.pl##a[href="http://chorzowianin.pl/smykocz-hutniczy/"]
@@ -2360,4 +2361,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="http://aduparosnie.pl"]
