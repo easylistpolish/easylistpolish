@@ -2364,3 +2364,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wrzesnia.info.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 bielskirynek.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 zlomzy.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gotujzmaka.blogspot.com##a[href="http://przyprawiony.pl/"]
