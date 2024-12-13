@@ -1771,6 +1771,7 @@ chojnice.com##a[href="http://www.insideview.pl"]
 chwaszczyno.pl##a[href="http://www.it.media.pl/"]
 swarzedz24.pl##a[href="http://www.kancelaria-czarnota.pl/"]
 przyjaznawarszawa.pl##a[href="http://www.kochamyauta.pl"]
+gotujzmaka.blogspot.com##a[href="http://www.mytastepol.com"]
 chwaszczyno.pl##a[href="http://www.netpol.eu/"]
 haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
@@ -2363,4 +2364,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="http://www.mytastepol.com"]
