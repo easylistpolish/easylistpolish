@@ -1745,6 +1745,7 @@ glogow-info.pl,www.glogow-info.pl##a[href="http://glogow.radioplus.pl/"]
 gazetakolobrzeska.pl##a[href="http://kinokolobrzeg.pl/"]
 chorzowianin.pl##a[href="http://lecimyztematem.pl"]
 chtvl.chrzanow.pl##a[href="http://moksir.chrzanow.pl/index.php?id=99"]
+gotujzmaka.blogspot.com##a[href="http://pasjajedzenia.pl"]
 antykwariatgelber.pl##a[href="http://pds.sos.pl/?utm_source=Gelger&utm_medium=banner&utm_campaign=Reklama"]
 gotujzmaka.blogspot.com##a[href="http://przyprawiony.pl/"]
 cenyrolnicze.pl##a[href="http://rekart.pl"]
@@ -2362,4 +2363,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="http://pasjajedzenia.pl"]
