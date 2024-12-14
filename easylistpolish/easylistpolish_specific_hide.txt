@@ -1951,6 +1951,7 @@ cypr24.eu##a[href="https://www2.esky.pl/hotele?partner_id=cypr24"]
 cypr24.eu##a[href="https://www2.esky.pl/ubezpieczenie-podrozne?partner_id=cypr24"]
 cypr24.eu##a[href="https://yellowfins.cy/"]
 angolia.co.uk##a[href="https://zbiorka.uk/"]
+gotujzmaka.blogspot.com##a[href="https://zblogowani.pl/"]
 cypr24.eu##a[href="mailto:gdomagala021@gmail.com"]
 chelmski.eu##a[href="naszchelm.eu"]
 etransport.pl##a[href="prezentacja_biznesowa,762,tronik_spolka_z_ograniczona_odpowiedzialnoscia_spolka_komandytowa.html"]
@@ -2364,4 +2365,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="https://zblogowani.pl/"]
