@@ -1779,6 +1779,7 @@ haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 7dni.pila.pl##a[href="http://www.sklepmuzycznydemo.pl"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+gotujzmaka.blogspot.com##a[href="http://www.smakowirowka.blogspot.com"]
 30minut.pl##a[href="http://www.staropolanka.pl/"]
 driverm.webd.pl##a[href="http://www.tomasz-szczerbicki.pl/"]
 chtvl.chrzanow.pl##a[href="http://www.vectra.pl"]
@@ -2367,4 +2368,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="http://www.smakowirowka.blogspot.com"]
