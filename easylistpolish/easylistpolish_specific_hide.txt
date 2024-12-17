@@ -1785,6 +1785,7 @@ driverm.webd.pl##a[href="http://www.tomasz-szczerbicki.pl/"]
 chtvl.chrzanow.pl##a[href="http://www.vectra.pl"]
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
 goral24.pl##a[href="http://www.zniczesowa.pl/"]
+gotujzmaka.blogspot.com##a[href="http://zmiksowani.pl"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
 buzz.give5.pl##a[href="https://654.pl/hNdBjFTy"]
 buzz.give5.pl##a[href="https://654.pl/rMZs3KSL"]
@@ -2368,4 +2369,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gotujzmaka.blogspot.com##a[href="http://zmiksowani.pl"]
