@@ -17,7 +17,6 @@
 ^1Reklama^$domain=iturek.net
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
-^2023banery^$domain=wysokomazowiecki24.pl
 ^250x250c^$domain=kmziz.pl
 ^300^$domain=betglob.pl|betgol.pl|emecze.pl|epilka.pl|estadios.pl|kuszotv.pl|mecze24.pl|meczelive.tv|meczenazywo.tv|meczlive.pl|oddslivesport.com
 ^468^$domain=worldofbookmakers.com
