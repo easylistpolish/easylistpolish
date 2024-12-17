@@ -936,7 +936,6 @@ super-warez.eu##.h_banner-block
 dlaprodukcji.pl##.halfbaner a:not([href^="https://dlaprodukcji.pl"])
 speedwaynews.pl##.has-text-align-center
 siechnice.com.pl##.head-rek
-sanok112.pl##.head-search
 zyciegrajewa.pl##.head1
 zyciegrajewa.pl##.head2
 portaltenisowy.info##.header--advert
