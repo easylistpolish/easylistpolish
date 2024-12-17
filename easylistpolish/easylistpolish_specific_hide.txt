@@ -2371,3 +2371,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lca.pl##.santa-main-wrapper
 msi-myslenice.pl##.santa-main-wrapper
+przelom.pl##.santa-main-wrapper
