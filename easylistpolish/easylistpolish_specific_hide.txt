@@ -2163,6 +2163,7 @@ gp24.pl##div[class*="atomsAdsCellModel"]
 e-kolo.pl##div[class*="bg-light mt-3 mb-3 p-2"]
 gamestough.com##div[class*="bnr"]
 gazetawroclawska.pl##div[class*="componentsPromotions"]
+gp24.pl##div[class*="componentsPromotionsListWithTabs"]
 miechowski.pl##div[class*="sgpb-popup-"]
 e-kolo.pl##div[class="col-12 mt-2 mb-2 bg-light text-center p-2 d-none d-sm-block"]
 e-kolo.pl##div[class="container mb-3"]
@@ -2372,4 +2373,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gp24.pl##div[class*="componentsPromotionsListWithTabs"]
