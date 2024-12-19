@@ -2159,6 +2159,7 @@ golub-cgd.pl,goral24.pl##div[class*="adv"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
+gp24.pl##div[class*="atomsAdsCellModel"]
 e-kolo.pl##div[class*="bg-light mt-3 mb-3 p-2"]
 gamestough.com##div[class*="bnr"]
 gazetawroclawska.pl##div[class*="componentsPromotions"]
@@ -2371,4 +2372,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gp24.pl##div[class*="atomsAdsCellModel"]
