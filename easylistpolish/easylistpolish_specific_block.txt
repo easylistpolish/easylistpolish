@@ -99,6 +99,7 @@ _baner-$domain=gazetabilgoraj.pl
 _baner_$domain=panoramakutna.pl|telewizjazary.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
+_banner-$domain=bitcoin.pl
 _banner.$domain=polacywewloszech.com|swiatmetali.eu
 _banner_$domain=chemiaibiznes.com.pl|cire.pl|cksport.pl|dzisiajwgliwicach.pl|e-pingpong.pl|forumfajerwerki.pl|jagodnik.pl|juliarozumek.pl|katalogprzedsiebiorstw.pl|kb.pl|kpzpn.pl|kuriergarwolinski.pl|nowy-sacz.info|pionki24.pl|polishexpress.co.uk|poradnikhandlowca.com.pl|przewodnicywedkarscy.pl|starosadeckie.info|stolarkabudowlana.eu|swarzedz24.pl|tygodnik-rolniczy.pl|warzywa.pl|wydawca.com.pl
 _reklama.$domain=radomsport.pl
@@ -275,4 +276,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_banner-$domain=bitcoin.pl
