@@ -2375,3 +2375,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 myglogow.pl##.santa-main-wrapper
+pulstygodnia.pl##.santa-main-wrapper
