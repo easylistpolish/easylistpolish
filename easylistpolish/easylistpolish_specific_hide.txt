@@ -2376,3 +2376,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 myglogow.pl##.santa-main-wrapper
 pulstygodnia.pl##.santa-main-wrapper
+rydzyna24.pl##.santa-main-wrapper
