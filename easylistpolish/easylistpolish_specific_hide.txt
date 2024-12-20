@@ -2380,3 +2380,4 @@ rydzyna24.pl##.santa-main-wrapper
 tygodnikketrzynski.pl##.santa-main-wrapper
 piasecznonews.pl##.new-toplayer
 ipoddebice.pl##.santa-main-wrapper
+gpd24.pl##img[id*="billboard"]
