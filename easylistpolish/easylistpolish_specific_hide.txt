@@ -2153,7 +2153,7 @@ nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
 gazetawroclawska.pl##div[class*="Banner"]
 onet.pl##div[class*="EmbeddedApplication_moneteasy_"] > div
-elita-magazyn.pl,ewyszkow.pl,gazetaprawna.pl##div[class*="ad"]
+elita-magazyn.pl,ewyszkow.pl,gazetaprawna.pl,gpr24.pl##div[class*="ad"]
 elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
@@ -2378,4 +2378,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gpr24.pl##div[class*="ad"]
