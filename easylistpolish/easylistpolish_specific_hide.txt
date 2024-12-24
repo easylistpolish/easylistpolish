@@ -2382,3 +2382,4 @@ jura365.pl##.santa-main-wrapper
 slu24.pl##.santa-main-wrapper
 terazstrzelno.pl##.santa-main-wrapper
 haloursynow.pl##.santa-main-wrapper
+gra.fm##a[href="https://www.torun-plaza.pl"]
