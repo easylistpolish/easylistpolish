@@ -1284,7 +1284,7 @@ zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 mojaswidnica.pl##.sam-pro-container
 forum.bukmacherskie.com##.samBannerUnit
-czluchowinfo.pl,ipoddebice.pl,lca.pl,msi-myslenice.pl,myglogow.pl,nowinykrapkowickie.pl,przelom.pl,pulstygodnia.pl,rydzyna24.pl,sompolno24.pl,tarnowska.pl,tygodnikketrzynski.pl,wkikole.pl,zycierawicza.pl##.santa-main-wrapper
+czluchowinfo.pl,haloursynow.pl,ipoddebice.pl,jura365.pl,lca.pl,msi-myslenice.pl,myglogow.pl,nowinykrapkowickie.pl,przelom.pl,pulstygodnia.pl,rydzyna24.pl,slu24.pl,sompolno24.pl,tarnowska.pl,terazstrzelno.pl,tygodnikketrzynski.pl,wkikole.pl,zycierawicza.pl##.santa-main-wrapper
 mmorpg.org.pl##.sc-529c4f9d-1
 sport.interia.pl##.sc-duSInm
 interia.pl##.sc-eTNep
@@ -1949,6 +1949,7 @@ nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
 elektroda.pl##a[href="https://www.stercontrol.pl/"]
 genapps.pl##a[href="https://www.szenk.pl/"]
+gra.fm##a[href="https://www.torun-plaza.pl"]
 fresh-market.pl##a[href="https://www.ucakkardesler.com.tr/"]
 tulodz.pl##a[href="https://www.ucando.pl/"]
 chillitorun.pl##a[href="https://www.ucando.pl/czesci-zamienne"]
@@ -2378,8 +2379,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-jura365.pl##.santa-main-wrapper
-slu24.pl##.santa-main-wrapper
-terazstrzelno.pl##.santa-main-wrapper
-haloursynow.pl##.santa-main-wrapper
-gra.fm##a[href="https://www.torun-plaza.pl"]
