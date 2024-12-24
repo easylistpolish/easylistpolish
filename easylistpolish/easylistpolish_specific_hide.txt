@@ -2381,3 +2381,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 jura365.pl##.santa-main-wrapper
 slu24.pl##.santa-main-wrapper
 terazstrzelno.pl##.santa-main-wrapper
+haloursynow.pl##.santa-main-wrapper
