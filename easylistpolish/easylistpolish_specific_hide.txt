@@ -2386,3 +2386,4 @@ pulstygodnia.pl##div[style="background-color: #DDF0F3; padding-top: 50px; paddin
 haloursynow.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 czasbrodnicy.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 nkp24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+gry-online.pl###baner-outer
