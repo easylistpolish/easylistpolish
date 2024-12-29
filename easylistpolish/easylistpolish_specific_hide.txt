@@ -344,6 +344,7 @@ czestochowskie24.pl###text-75
 24legnica.pl,greencanoe.pl,kurier-lokalny.com,stylkibica.net,wiesci.com.pl###text-8
 gazetalubliniecka.pl,kurier-lokalny.com,mojgdow.pl,stylkibica.net,szukajacprzygody.pl,terazgrodkow24.pl,tuhiszpania.pl,wiesci.com.pl###text-9
 kamienskie.info###text-91
+stopnadwadze.pl###text-html-widget-10
 naszapolska.eu###tm-sidebar
 iturek.net###tm-top
 testynaojcostwo.pl###top-baner
@@ -2382,4 +2383,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-stopnadwadze.pl###text-html-widget-10
