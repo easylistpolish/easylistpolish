@@ -417,6 +417,7 @@ slupca.pl##.a-220
 ostrowite.info##.a-46
 ostrowite.info##.a-5
 ostrowite.info##.a-69
+slupca.pl##.a-76.g-single > div
 jarock.pl##.a-d-banner
 jarock.pl##.a-d-banner-medium
 minskmaz.com##.a-dis
@@ -2383,4 +2384,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-slupca.pl##.a-76.g-single > div
