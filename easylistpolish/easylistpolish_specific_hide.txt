@@ -1323,6 +1323,7 @@ gloslodzi.pl##.sidebar_area .widget-2 .textwidget
 mieszkaniec.pl##.sidebarright > .widget > a:not([href^="https://mieszkaniec.pl"])
 zycieczestochowy.pl##.sideelement > a > img
 gazetkonosz.pl##.signad
+wszystkookotach.pl##.simple-image
 weszlo.com##.single-side-column .ad-placeholder-bg
 dzierzgon-twojemiasto.pl##.site-branding
 codziennypoznan.pl##.site-header .elementor-shortcode
@@ -2385,4 +2386,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-wszystkookotach.pl##.simple-image
