@@ -322,7 +322,7 @@ tylkopilka.pl###text-157
 naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.pl###text-16
 polacywewloszech.com,smartage.pl###text-17
 winterszus.pl###text-18
-tarnobrzeskie.eu###text-19
+chelmno.com.pl,tarnobrzeskie.eu###text-19
 foteleobrotowe.com.pl,infobusko.pl,kcynia.info###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
@@ -2385,4 +2385,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-chelmno.com.pl###text-19
