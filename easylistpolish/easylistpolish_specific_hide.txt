@@ -198,7 +198,7 @@ gazetatrybunalska.info###media_image-15
 wiadomoscidebickie.pl,wiadomosciwalbrzyskie.pl###media_image-2
 gazetagazeta.com###media_image-25
 gazetagazeta.com###media_image-28
-greencanoe.pl,littletownshoes.com###media_image-3
+greencanoe.pl,littletownshoes.com,zarabiajprzez24.pl###media_image-3
 gazetagazeta.com###media_image-34
 gazetagazeta.com###media_image-35
 gazetagazeta.com###media_image-39
@@ -2386,4 +2386,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zarabiajprzez24.pl###media_image-3
