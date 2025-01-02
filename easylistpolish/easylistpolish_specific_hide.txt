@@ -933,6 +933,7 @@ money.pl##.grid-item-wpapiad
 isrodmiescie.pl##.grid__col--3
 nowiny24.pl,nowosci.com.pl##.gry
 dziennik.walbrzych.pl##.gxqfpad
+zwiedzamyparyz.pl##.gyg-widget
 odkryjpomorze.pl##.h-line
 e-kolo.pl##.h8
 super-warez.eu##.h_banner-block
@@ -2386,4 +2387,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zwiedzamyparyz.pl##.gyg-widget
