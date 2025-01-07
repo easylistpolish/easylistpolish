@@ -276,3 +276,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||grapplerinfo.pl/wp-content/uploads/2024/11/grappler-info-banner.jpg
