@@ -172,6 +172,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||goniec.net^*^topmortgagesqweb.
 ||gorydlaciebie.pl^*^booking-
 ||gpi5.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
+||grapplerinfo.pl/wp-content/uploads/2021/12/grappler-info-banner-costum-wear-2048x332.jpg
 ||grapplerinfo.pl/wp-content/uploads/2024/11/grappler-info-banner.jpg
 ||greencanoe.pl^*^248x248px_
 ||hiszpania-apartamenty.pl^*^hotele.
@@ -277,4 +278,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||grapplerinfo.pl/wp-content/uploads/2021/12/grappler-info-banner-costum-wear-2048x332.jpg
