@@ -278,3 +278,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||grapplerinfo.pl/wp-content/uploads/2021/12/grappler-info-banner-kod-rabat-2048x332.jpg
