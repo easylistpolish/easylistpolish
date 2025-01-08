@@ -647,7 +647,7 @@ e-kidsplanet.com##.banner-curtain
 telewizjattm.pl##.banner-main-page
 trojmiasto.pl##.banner-maxia--glowna
 cashbackrabat.pl##.banner-overlay
-ppe.pl##.banner-placeholder
+gratka.pl,ppe.pl##.banner-placeholder
 ppe.pl##.banner-placeholder-screening
 zabawkowo.com##.banner-plecaki
 30minut.pl,gazetaslupecka.pl,golfnews.pl,info-ketrzyn24.pl##.banner-promotions-wrapper
@@ -2387,4 +2387,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gratka.pl##.banner-placeholder
