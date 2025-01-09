@@ -46,7 +46,7 @@ hotelinfo24.pl###baner2
 warsztat.pl###baner211
 infomare.pl###baneranim
 portalrolniczy.info###baners
-archispace.pl,hodowle.eu,instalki.pl,lubin.pl###banner
+archispace.pl,grobla.net,hodowle.eu,instalki.pl,lubin.pl###banner
 testynaojcostwo.pl###banner-17
 genetyczne.pl###banner-20
 genetyczne.pl###banner-21
@@ -2387,4 +2387,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-grobla.net###banner
