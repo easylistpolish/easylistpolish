@@ -2389,3 +2389,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 piasecznonews.pl##[class*="banner--"]
 fakty.nl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+grodzisknews.pl##.rek_wew_nap
