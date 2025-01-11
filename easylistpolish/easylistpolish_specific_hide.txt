@@ -15,6 +15,7 @@ smak-zdrowia.blogspot.com###Text9
 ekorodzice.pl###a_d_billboard
 bbfan.pl,ciechanowinaczej.pl,czaschojnic.pl,ddb24.pl,e-sochaczew.pl,egarwolin.pl,egorzow.pl,goral.info.pl,gpr24.pl,gryfinska.pl,ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,infokonin.com.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl,karkonoszego.pl,kartuzy.info,konecki24.pl,koscierski.info,kurierbytowski.com.pl,magazynnaszczycie.pl,mylomza.pl,nolesnica.pl,nowagazeta.pl,nowawrzesnia.pl,nowinynyskie.com.pl,nswiecie.pl,nwloclawek.pl,palukimogilno.pl,pulsgdanska.pl,sucha24.pl,szczecinek.com,tulegnica.pl,tuzywiec.pl,wabrzezno-cwa.pl,wlodawa24.pl,zambrow.org,zlotowskie.pl,zycie.pl###ad--bill-top
 24wroclaw.pl###ad--bill-top + div
+grydladzieci.pl###adRechts
 fiatklubpolska.pl###ad_global_below_navbar
 zycieczestochowy.pl###ad_hype_container
 tcz.pl###add-top-1
@@ -2388,4 +2389,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-grydladzieci.pl###adRechts
