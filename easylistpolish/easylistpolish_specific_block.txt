@@ -115,6 +115,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ad.prv.pl^
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
+||b3866505.smushcdn.com/3866505/wp-content/uploads/2024/12/Bez-nazwy-1.png?lossy=2&strip=1&webp=1
 ||bejsment.com^*^300x100xbejsment-
 ||bejsment.com^*^dalekDiamonds300x
 ||biotechnologia.pl^*^ats^
@@ -279,4 +280,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||b3866505.smushcdn.com/3866505/wp-content/uploads/2024/12/Bez-nazwy-1.png?lossy=2&strip=1&webp=1
