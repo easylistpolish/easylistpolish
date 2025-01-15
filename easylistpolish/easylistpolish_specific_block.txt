@@ -241,6 +241,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
 ||sokolka.tv^*^osir.
+||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_848,h_456/https://gwarminska.pl/wp-content/uploads/2015/09/reklama-1-848x456.jpg
 ||spliff.pl^*^DomowaUprawa_
 ||spottedskarzysko.pl^*^szmaragd.
 ||stalowemiasto.pl/_a^
@@ -280,4 +281,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_848,h_456/https://gwarminska.pl/wp-content/uploads/2015/09/reklama-1-848x456.jpg
