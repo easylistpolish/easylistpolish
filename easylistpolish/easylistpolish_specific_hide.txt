@@ -2396,3 +2396,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 petronews.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 ostrowiecka.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 pogodawtoruniu.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+halogorlice.info##img[src*="https://sc.4media.com"]
