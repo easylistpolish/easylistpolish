@@ -2172,7 +2172,7 @@ strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
 golub-cgd.pl,goral24.pl##div[class*="adv"]
 demotywatory.pl##div[class*="adv_"]
-deccoria.pl##div[class*="advert"]
+deccoria.pl,halogorlice.info##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
 gp24.pl##div[class*="atomsAdsCellModel"]
 gp24.pl##div[class*="atomsPromotionsBanner"]
@@ -2394,4 +2394,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-halogorlice.info##div[class*="advert"]
