@@ -2399,3 +2399,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 nkp24.pl##.new-toplayer
 tygodnikketrzynski.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 magazynzuzel.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+rydzyna24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
