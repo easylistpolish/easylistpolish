@@ -282,3 +282,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||hi-fi.com.pl/wp-content/uploads/2024/11/bannerhifi-high-end2_-1.png.webp
