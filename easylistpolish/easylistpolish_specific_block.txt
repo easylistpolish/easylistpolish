@@ -281,3 +281,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||hdtvpolska.com/wp-content/uploads/2021/06/magicLinks_2_1_500x300_v2.jpg
