@@ -2399,3 +2399,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 tyna.info.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 nkp24.pl##[class*="banner--"]
 myglogow.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+bialobrzegi24.net##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
