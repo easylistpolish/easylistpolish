@@ -1716,6 +1716,7 @@ businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 gloswroclawia.pl##a[href*="dresowka.pl"]
 gotujzmaka.blogspot.com##a[href*="ebrokerpartner"]
+hifi.pl##a[href*="grandi"]
 gloswroclawia.pl##a[href*="halenamiotowe.com.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
 badaniaprenatalne.pl##a[href*="http://prekoncepcja.pl/"]
@@ -2397,4 +2398,3 @@ vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-hifi.pl##a[href*="grandi"]
