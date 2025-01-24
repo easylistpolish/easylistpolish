@@ -2400,3 +2400,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 koscianiak.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 mypolkowice.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 modnymagazyn.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+hifi.pl##.rgt
