@@ -2394,7 +2394,6 @@ pabianice.tv##section[id^="adrotate_widgets"]
 poczta.wp.pl##sidebar-feed
 bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
-vampirediaries.pl##td[onclick^="window.location"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
