@@ -1,5 +1,4 @@
 portalpszczelarski.pl###AdBig
-forbes.pl###Article-Inner-Content
 cssetti.pl###AsideAds
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
