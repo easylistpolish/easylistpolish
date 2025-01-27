@@ -1066,6 +1066,7 @@ zinfo.pl##.mainslider
 bia24.pl##.market__item
 rodzinazdrowia.pl##.marketingElement
 swiatmodeli.eu##.mask
+hij.com.pl##.master-slider
 hij.com.pl##.master-slider .ms-slide
 lpu24.pl##.master-slider-parent
 e-kursy-walut.pl##.material
@@ -2400,4 +2401,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-hij.com.pl##.master-slider 
