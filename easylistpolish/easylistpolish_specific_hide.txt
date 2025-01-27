@@ -1106,6 +1106,7 @@ pdaclub.pl##.moduletablereklama
 grafmag.pl##.money-maker__articles
 radioandrychow.pl##.mradio-marketing
 wilanownews.pl##.ms-container
+hij.com.pl##.ms-slide
 sadeczanin.info##.mt-2
 metropoliabydgoska.pl##.mt-banner
 motopoznan.com##.mt-container ._ning_outer
@@ -2400,4 +2401,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-hij.com.pl##.ms-slide
