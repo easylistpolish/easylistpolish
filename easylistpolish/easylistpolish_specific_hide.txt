@@ -2404,3 +2404,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 tvwalbrzych.pl##[class*="banner--"]
 nowinykrapkowickie.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 ostrodaflesz.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
+zycieczestochowy.pl##.abovenews
