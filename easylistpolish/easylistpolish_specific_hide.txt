@@ -151,7 +151,6 @@ spottedskarzysko.pl,zd24.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
-weranda.pl###gl_slot
 popularnie.pl###gold-header
 forbes.pl###googleAdsCont
 motocykle125.pl###gp-fixed-padding + center
