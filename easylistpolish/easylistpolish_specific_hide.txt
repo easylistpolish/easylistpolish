@@ -164,6 +164,7 @@ forum.pasja-informatyki.pl###helbook
 bankier.pl###home-ecom-box
 kujawy.info###homepageUnderEightAds
 mjakmama24.pl,poradnikzdrowie.pl###hook_box_top1
+hopaj.pl###hopaj_pl_top
 ssangyong.pl###hot_offer
 comparic.pl###icegram_messages_container
 satkurier.pl###idmnet_horizontal_top_750x100
@@ -2401,4 +2402,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-hopaj.pl###hopaj_pl_top
