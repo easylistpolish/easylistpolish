@@ -181,6 +181,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||hi-fi.com.pl/wp-content/uploads/2024/11/bannerhifi-high-end2_-1.png.webp
 ||hiszpania-apartamenty.pl^*^hotele.
 ||hiszpania-apartamenty.pl^*^samochody.
+||hyperreal.info/talk/download/DeborahPhillips.jpg
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
@@ -283,4 +284,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||hyperreal.info/talk/download/DeborahPhillips.jpg
