@@ -2191,6 +2191,7 @@ e-kolo.pl##div[class*="bg-light mt-3 mb-3 p-2"]
 gamestough.com##div[class*="bnr"]
 gazetawroclawska.pl##div[class*="componentsPromotions"]
 gp24.pl,gra.pl##div[class*="componentsPromotionsListWithTabs"]
+ibielsk.pl##div[class*="grid__ad"]
 grylogiczne.biz.pl##div[class*="reklama"]
 housemarket.pl##div[class*="sad"]
 miechowski.pl##div[class*="sgpb-popup-"]
@@ -2405,4 +2406,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ibielsk.pl##div[class*="grid__ad"]
