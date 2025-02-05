@@ -2407,3 +2407,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 pzl24.pl##.tipad_tag + a
+tenismagazyn.pl##.elementor-widget-container a[rel="noopener"] img
