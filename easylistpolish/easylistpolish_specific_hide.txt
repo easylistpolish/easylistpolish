@@ -2409,3 +2409,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 gostyn24.pl##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 gniewkowo.eu##div[style="background-color: #DDF0F3; padding-top: 50px; padding-bottom: 50px; margin-bottom: 20px;"]
 plonszczak.pl###ad--bill-top
+ibielsk.pl##div[class*="adv"]
