@@ -2409,3 +2409,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 pzl24.pl##.tipad_tag + a
 tenismagazyn.pl##.elementor-widget-container a[rel="noopener"] img
 nowytarg24.tv##[class^="g g-"]
+glogow.dlawas.info###banner-top
