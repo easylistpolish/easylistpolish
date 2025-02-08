@@ -1711,6 +1711,7 @@ druk.info.pl##a[href*="ad.ipolska.pl"]
 elektroda.pl##a[href*="ads="]
 bbfan.pl,e-sochaczew.pl##a[href*="adsredirect"]
 forum.optymalizacja.com##a[href*="advertisement"]
+igrit.pl##a[href*="agropaksc"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
 badaniaprenatalne.pl##a[href*="badamydzieci.pl"]
 badaniaprenatalne.pl##a[href*="badanienifty.pl"]
@@ -2410,4 +2411,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-igrit.pl##a[href*="agropaksc"]
