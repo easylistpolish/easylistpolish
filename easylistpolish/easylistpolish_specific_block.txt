@@ -134,7 +134,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ceny-zlomu.pl^images^*_223x134.
 ||chemiaibiznes.com.pl/assets/upload/kamp^$image
 ||chwaszczyno.pl^*^RAI-
-||dentoforum.pl^*^baner1.
 ||dobrewiadomosci.eu^*^opal_
 ||dopilar.pl^*^sky1.
 ||dx-team.org^*^pover.
