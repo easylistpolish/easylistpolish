@@ -2412,3 +2412,4 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+igrit.pl##a[href="/678c327eda58c9.31244114/0064d449-1fef-4cf0-a5cd-a403e91bc8d9"]
