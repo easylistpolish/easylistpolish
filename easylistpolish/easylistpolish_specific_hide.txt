@@ -2419,3 +2419,4 @@ kamiennagora.dlawas.info###banner-top
 lubin.dlawas.info###banner-top
 lwowek.dlawas.info###banner-top
 olawa.dlawas.info###banner-top
+polkowice.dlawas.info###banner-top
