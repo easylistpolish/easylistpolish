@@ -2416,3 +2416,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 jawor.dlawas.info###banner-top
 luban.dlawas.info###banner-top
 kamiennagora.dlawas.info###banner-top
+lubin.dlawas.info###banner-top
