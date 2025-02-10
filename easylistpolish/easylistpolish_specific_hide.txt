@@ -2421,3 +2421,4 @@ lwowek.dlawas.info###banner-top
 olawa.dlawas.info###banner-top
 polkowice.dlawas.info###banner-top
 strzelin.dlawas.info###banner-top
+kantorywalut.pl###header + center
