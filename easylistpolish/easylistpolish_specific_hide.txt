@@ -2421,3 +2421,4 @@ srodaslaska.dlawas.info###banner-top
 zabkowice.dlawas.info###banner-top
 zgorzelec.dlawas.info###banner-top
 zlotoryja.dlawas.info###banner-top
+gora.dlawas.info###banner-top
