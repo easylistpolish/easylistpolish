@@ -2425,3 +2425,4 @@ gora.dlawas.info###banner-top
 ostroleka.dlawas.info###banner-top
 zawiercie.dlawas.info###banner-top
 wodzislaw.dlawas.info###banner-top
+bedzin.dlawas.info###banner-top
