@@ -2420,3 +2420,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 srodaslaska.dlawas.info###banner-top
 zabkowice.dlawas.info###banner-top
 zgorzelec.dlawas.info###banner-top
+zlotoryja.dlawas.info###banner-top
