@@ -2419,3 +2419,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 srodaslaska.dlawas.info###banner-top
 zabkowice.dlawas.info###banner-top
+zgorzelec.dlawas.info###banner-top
