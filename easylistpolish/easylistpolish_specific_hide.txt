@@ -1729,6 +1729,7 @@ igrit.pl##a[href*="fruttico"]
 hifi.pl##a[href*="grandi"]
 gloswroclawia.pl##a[href*="halenamiotowe.com.pl"]
 eko-mazurymariny.pl##a[href*="hoteltajty.pl"]
+igrit.pl##a[href*="hrsmolice.pl"]
 badaniaprenatalne.pl##a[href*="http://prekoncepcja.pl/"]
 anime-odcinki.pl##a[href*="https://e-neko.pl"] > img
 radomsport.pl##a[href*="https://www.toyota.radom.pl"]
@@ -2416,4 +2417,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-igrit.pl##a[href*="hrsmolice.pl"]
