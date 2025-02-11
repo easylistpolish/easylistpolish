@@ -2423,3 +2423,4 @@ zgorzelec.dlawas.info###banner-top
 zlotoryja.dlawas.info###banner-top
 gora.dlawas.info###banner-top
 ostroleka.dlawas.info###banner-top
+zawiercie.dlawas.info###banner-top
