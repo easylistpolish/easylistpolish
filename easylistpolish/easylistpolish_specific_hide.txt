@@ -2426,3 +2426,4 @@ ostroleka.dlawas.info###banner-top
 zawiercie.dlawas.info###banner-top
 wodzislaw.dlawas.info###banner-top
 bedzin.dlawas.info###banner-top
+igrit.pl##a[href*="swiatmiodu"]
