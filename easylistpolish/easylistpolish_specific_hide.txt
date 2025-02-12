@@ -460,7 +460,6 @@ portalspozywczy.pl##.ad-place-2
 chelmski.eu##.ad-single1
 pcworld.pl##.ad-sky2
 ipolice.pl##.ad-slider-right
-7dnikalisza.com##.ad-small
 chelmski.eu##.ad-text-headbaner
 staraoliwa.pl##.ad1
 egospodarka.pl##.ad750
