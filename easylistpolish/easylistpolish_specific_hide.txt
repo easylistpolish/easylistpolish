@@ -2416,3 +2416,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lipno-cli.pl###ad--bill-top
+igrit.pl##a[href="/678c327eda58c9.31244114/0dcf2fd4-4bfc-4bf9-8fb7-0ff01334d64c"]
