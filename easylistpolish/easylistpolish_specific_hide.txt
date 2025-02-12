@@ -1266,7 +1266,6 @@ glos.pl##.reklama-title
 cnc.info.pl,kalisz24.info.pl,polska-morska.pl##.reklama-top
 techfanik.pl##.reklama-ugory
 polonia.nl##.reklama-warpper
-dziennik.walbrzych.pl##.reklama-wtekscie
 tv.gniezno.pl##.reklamaCenter
 eostroleka.pl##.reklamaNapis
 seriea.pl##.reklamaNapis + *
