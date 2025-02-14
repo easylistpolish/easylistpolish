@@ -1,2 +1,1 @@
-mbank.pl#@#.adv-container
 app.freshmail.com#@#.advertisement-content
