@@ -1735,6 +1735,7 @@ igrit.pl##a[href*="konstrukcje-sadownicze"]
 igrit.pl##a[href*="kukurydzargt"]
 goral24.pl##a[href*="kwiatkowski-kotly.pl"]
 naszraciborz.pl##a[href*="link_r"]
+igryfino.pl##a[href*="mrowka-gryfino"]
 prokapitalizm.pl##a[href*="multibook.pl"] > img
 ewysmaz.pl##a[href*="nawozy.eu"]
 gazetamyszkowska.pl##a[href*="norwit.pl"]
@@ -2417,4 +2418,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-igryfino.pl##a[href*="mrowka-gryfino"]
