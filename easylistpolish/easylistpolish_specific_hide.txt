@@ -1488,7 +1488,6 @@ infokatowice.pl##.widget-1 p
 gloskrakowa.pl##.widget-2
 gazetawielkopolska.pl,prudnik24.pl##.widget-3
 gloskrakowa.pl##.widget-4
-lsw24.pl##.widget-ad-image
 echomedia.info,lokalna24.pl##.widget-advert_centralplacement
 faktykaliskie.info,gostynin24.pl,halorzeszow.pl,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
 bezale.pl##.widget-area
