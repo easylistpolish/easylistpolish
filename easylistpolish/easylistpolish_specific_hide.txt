@@ -1393,7 +1393,6 @@ tabletowo.pl##.table-adlabel
 dzisiajwgliwicach.pl,gazetaregionalna.com##.td-a-rec a
 netkonkret.pl##.td-a-rec-id-custom-spot
 24klodzko.pl##.td-a-rec-id-header
-koscianiak.pl##.td-adspot-title
 mojejaslo.pl##.td-adspot-title + a
 24klodzko.pl##.td-adspot-title + div
 probasket.pl##.td-all-devices
