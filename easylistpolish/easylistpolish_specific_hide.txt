@@ -2190,6 +2190,7 @@ gdanszczak.pl,gdyniak.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
 golub-cgd.pl,goral24.pl,ibielsk.pl##div[class*="adv"]
+ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl,halogorlice.info##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
@@ -2416,4 +2417,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ikampinos.pl##div[class*="adv--halfpage"]
