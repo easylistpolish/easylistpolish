@@ -1177,7 +1177,6 @@ blaugrana.pl##.patron-hide
 okazjepodroznika.pl##.penci-banner-box
 oknonawagrowiec.pl##.penci-banner-has-text > a[target="_blank"] + img
 nysahot.pl##.penci-featured-ct
-oknonawagrowiec.pl##.penci-google-adsense
 divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
 burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,party.pl,polki.pl,przyslijprzepis.pl,viva.pl##.pending-ad
