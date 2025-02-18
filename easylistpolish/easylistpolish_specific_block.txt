@@ -181,6 +181,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||hiszpania-apartamenty.pl^*^hotele.
 ||hiszpania-apartamenty.pl^*^samochody.
 ||hyperreal.info/talk/download/DeborahPhillips.jpg
+||iknurow.pl/wp-content/uploads/2025/02/Aras-Lyko-2025-02-04-12_31_16.jpeg
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
@@ -283,4 +284,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||iknurow.pl/wp-content/uploads/2025/02/Aras-Lyko-2025-02-04-12_31_16.jpeg
