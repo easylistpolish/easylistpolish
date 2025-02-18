@@ -283,3 +283,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||iknurow.pl/wp-content/uploads/2025/02/Aras-Lyko-2025-02-04-12_31_16.jpeg
