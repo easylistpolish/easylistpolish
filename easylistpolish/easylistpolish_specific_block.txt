@@ -288,3 +288,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||iknurow.pl/wp-content/uploads/2025/01/473741328_1319243095779745_7244620776589536747_n-e1737804296929-300x450.jpg
