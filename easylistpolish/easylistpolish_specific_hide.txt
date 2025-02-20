@@ -870,7 +870,6 @@ radiobiper.info##.elementor-size-small
 db2010.pl##.elementor-slides
 radioemaus.pl##.elementor-text-editor
 tenismagazyn.pl##.elementor-widget-container a[rel="noopener"] img
-iloveslubice.pl,radiobiper.info,skawina.eu##.elementor-widget-wp-widget-advads_ad_widget
 lebork24.info##.elementor-widget-wp-widget-ai_widget
 gloslodzi.pl##.entry_content
 gazetawielkopolska.pl##.entry_content a img
