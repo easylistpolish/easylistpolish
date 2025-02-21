@@ -1416,7 +1416,6 @@ lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
 24jgora.pl,ciechanowinaczej.pl,goral.info.pl,powiatowa.info,zambrow.org##.text-center > div[id^="bills_in_rotation_"]
 bociany.tv,katowice24.info,spece.it##.textwidget
-ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
 odkryjpomorze.pl##.ticker-container
