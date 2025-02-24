@@ -1002,7 +1002,6 @@ forum.optymalizacja.com##.ipsWidget_vertical > center img
 elle.pl##.isadv_caption
 sadownictwo.com.pl##.isotopeGrid-item .edcwidgetAnhor
 v10.pl##.iwrap
-izachodniopomorskie.pl##.izpa
 zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
 londynek.net##.jd-40Z
