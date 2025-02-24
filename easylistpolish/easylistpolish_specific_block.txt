@@ -174,7 +174,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||gpi5.glogow.pl/rek^$domain=glogow-info.pl|glogow.info.pl
 ||grapplerinfo.pl/wp-content/uploads/2021/12/grappler-info-banner-costum-wear-2048x332.jpg
 ||grapplerinfo.pl/wp-content/uploads/2021/12/grappler-info-banner-kod-rabat-2048x332.jpg
-||grapplerinfo.pl/wp-content/uploads/2024/11/grappler-info-banner.jpg
 ||greencanoe.pl^*^248x248px_
 ||hdtvpolska.com/wp-content/uploads/2021/06/magicLinks_2_1_500x300_v2.jpg
 ||hi-fi.com.pl/wp-content/uploads/2024/11/bannerhifi-high-end2_-1.png.webp
