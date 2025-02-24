@@ -1178,7 +1178,6 @@ divers24.pl##.penci-infeed_ad
 oknonawagrowiec.pl##.penci-promo-item > img
 burda.pl,glamour.pl,kobieta.pl,mamotoja.pl,mojpieknyogrod.pl,national-geographic.pl,party.pl,polki.pl,przyslijprzepis.pl,viva.pl##.pending-ad
 zycieczestochowy.pl##.pers-item
-cnc.info.pl##.phpbb-ads-center
 kuriergarwolinski.pl##.picture-spot
 zlotoryjska.pl##.pierwsze_pole_banerowe_w_panelu
 forbes.pl,meczyki.pl##.placeholder
