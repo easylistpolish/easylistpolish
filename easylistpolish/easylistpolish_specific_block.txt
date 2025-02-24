@@ -290,3 +290,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||info-ketrzyn24.pl/wp-content/uploads/2025/02/bf94e318-e4e8-4c43-895c-ad5a528596a3_1.jpg
