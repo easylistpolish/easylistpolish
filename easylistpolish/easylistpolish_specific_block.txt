@@ -188,6 +188,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||iknurow.pl/wp-content/uploads/2025/01/nowy-termin-koncertu-urszuli-dudziak-i-walk-away-08-02-2025-300x450.jpg
 ||iknurow.pl/wp-content/uploads/2025/02/Aras-Lyko-2025-02-04-12_31_16.jpeg
 ||info-ketrzyn24.pl/wp-content/uploads/2023/08/obraz_2023-08-07_124457382.png
+||info-ketrzyn24.pl/wp-content/uploads/2023/08/obraz_2023-08-19_205202574-1536x1195.png
 ||info-ketrzyn24.pl/wp-content/uploads/2024/05/obraz_2024-05-23_095527151.png
 ||info-ketrzyn24.pl/wp-content/uploads/2025/02/bf94e318-e4e8-4c43-895c-ad5a528596a3_1.jpg
 ||info.stargard.pl^*^tlo_info.
@@ -292,4 +293,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||info-ketrzyn24.pl/wp-content/uploads/2023/08/obraz_2023-08-19_205202574-1536x1195.png
