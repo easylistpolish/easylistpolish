@@ -294,3 +294,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^baner-$domain=wpr24.pl
+||info-ketrzyn24.pl/wp-content/uploads/2022/12/321298732_693928108931151_6675265058348403648_n.jpg
