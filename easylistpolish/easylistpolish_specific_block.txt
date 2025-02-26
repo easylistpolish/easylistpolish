@@ -290,7 +290,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||wirtualnyelk.pl^*^bus-lotnisko-
 ||wolbrom.pl^*^warta.
 ||wronieckibazar.pl^*^izometwww.
-||zamioculcas2.org^
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
