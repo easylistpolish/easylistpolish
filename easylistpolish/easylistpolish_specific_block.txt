@@ -293,3 +293,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||info-ketrzyn24.pl/wp-content/uploads/2022/12/zwierz-infolinia-10-2022.png
