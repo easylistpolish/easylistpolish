@@ -1024,7 +1024,7 @@ kk24.pl##.kk24-br
 swiatkoni.pl##.klikaczset
 walbrzyszek.com##.kol1 aside a
 jelonka.com,swidniczka.com##.kol3
-jelonka.com,ogloszenia.jelonka.com,swidniczka.com,walbrzyszek.com##.kontener-reklam
+jelonka.com,swidniczka.com,walbrzyszek.com##.kontener-reklam
 pionki24.pl##.kozie-before-content-placement
 janosik.info##.kuligiBaneryLewo
 baby-shower.pl##.kwadratowa2
