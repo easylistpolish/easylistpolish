@@ -2405,3 +2405,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 gazeta-lubon.pl###text-2
 igrit.pl##.section-top-pya
+24klodzko.pl##.td-adspot-title + div
