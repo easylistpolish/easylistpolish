@@ -325,7 +325,7 @@ naszglospoznanski.pl,portal-transportowy.pl,ptvr.pl,trybawaryjny.pl,wiesci.com.p
 polacywewloszech.com,smartage.pl###text-17
 winterszus.pl###text-18
 chelmno.com.pl,tarnobrzeskie.eu###text-19
-foteleobrotowe.com.pl,infobusko.pl,kcynia.info###text-2
+foteleobrotowe.com.pl,gazeta-lubon.pl,infobusko.pl,kcynia.info###text-2
 ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
@@ -1308,6 +1308,7 @@ e-tlumacze.net##.section-banner
 it.tarnow.pl##.section-banners
 gostynin.info,powiat-piaseczynski.info##.section-billboard
 igrit.pl##.section-top-py
+igrit.pl##.section-top-pya
 muno.pl##.sectionTopAd
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
 gazetki-promocyjne.net.pl##.shadow-text
@@ -1387,6 +1388,7 @@ tabletowo.pl##.table-adlabel
 dzisiajwgliwicach.pl,gazetaregionalna.com##.td-a-rec a
 netkonkret.pl##.td-a-rec-id-custom-spot
 24klodzko.pl##.td-a-rec-id-header
+24klodzko.pl##.td-adspot-title + div
 probasket.pl##.td-all-devices
 jagodnik.pl##.td-all-devices > a[target="_blank"]:not([href*="jagodnik.pl"])
 lwowecki.info##.td-all-devices2
@@ -2403,6 +2405,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta-lubon.pl###text-2
-igrit.pl##.section-top-pya
-24klodzko.pl##.td-adspot-title + div

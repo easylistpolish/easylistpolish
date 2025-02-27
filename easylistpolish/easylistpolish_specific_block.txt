@@ -194,6 +194,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||info-ketrzyn24.pl/wp-content/uploads/2024/01/obraz_2023-12-11_000752783.png
 ||info-ketrzyn24.pl/wp-content/uploads/2024/05/obraz_2024-05-23_095527151.png
 ||info-ketrzyn24.pl/wp-content/uploads/2025/02/bf94e318-e4e8-4c43-895c-ad5a528596a3_1.jpg
+||info.elblag.pl/images/bJPG/2272.gif
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
@@ -295,4 +296,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||info.elblag.pl/images/bJPG/2272.gif
