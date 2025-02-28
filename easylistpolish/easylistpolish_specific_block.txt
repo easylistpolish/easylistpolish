@@ -208,6 +208,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||kryniczanie.pl^*^ubezpieczenie-na-
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.
+||kuriersuwalski.pl^*^boss_nowa_
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
 ||lubartow24.pl/b^
@@ -297,4 +298,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kuriersuwalski.pl^*^boss_nowa_
