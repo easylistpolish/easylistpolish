@@ -198,6 +198,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||info.elblag.pl/images/bJPG/2893.jpg?v=1618915911
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
+||infobusko.pl/wp-content/uploads/2023/09/klimatyzacjaBusko-baza-txt.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -298,4 +299,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||infobusko.pl/wp-content/uploads/2023/09/klimatyzacjaBusko-baza-txt.png
