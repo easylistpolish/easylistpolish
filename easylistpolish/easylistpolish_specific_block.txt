@@ -298,3 +298,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infobusko.pl/wp-content/uploads/2023/09/klimatyzacjaBusko-baza-txt.png
