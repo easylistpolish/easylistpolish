@@ -2409,3 +2409,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 golub-cgd.pl###ad--bill-top
 czaschojnic.pl##.grid__ad
+agroprofil.pl##.td-a-rec
