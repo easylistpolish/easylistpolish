@@ -300,3 +300,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infokatowice.pl/wp-content/uploads/2025/01/LITWA_SPODEK_728x200.jpg
