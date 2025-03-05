@@ -304,3 +304,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ^reklama^$domain=112tychy.pl
 -bannery-$domain=globenergia.pl
 ^baner_$domain=wiadomoscizaglebia.pl
+||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.infokrakow24.pl/wp-content/uploads/2017/03/krakusik-256.gif
