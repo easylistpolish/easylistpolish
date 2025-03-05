@@ -303,3 +303,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niezalezna.
 ^reklama^$domain=112tychy.pl
 -bannery-$domain=globenergia.pl
+^baner_$domain=wiadomoscizaglebia.pl
