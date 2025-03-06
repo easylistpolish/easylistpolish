@@ -304,3 +304,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^banners^$domain=wybrzeze24.pl
+||infolwowek24.pl/serwis-moda-eOzone.png
