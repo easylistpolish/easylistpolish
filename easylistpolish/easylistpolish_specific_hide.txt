@@ -1679,6 +1679,7 @@ grojeckie24.pl##a:not([href^="http://grojeckie24.pl"]) > .imageblock-image
 perspektywy.pl##a:not([href^="https://perspektywy.pl"]) > img[src*="/banners/"]
 noweinfo.pl##a:not([href^="https://www.noweinfo.pl"]) > img[class*="wp-image-"]
 truckeronroad.com##a[aria-label*="banner"]
+lokalnyreporter.pl##a[aria-label="WSAP_001"]
 domyseniora.pl,przedszkola.edu.pl##a[class^="js-banery-"]
 tvwalbrzych.pl##a[class^="single_ad_"]
 podoslonami.pl##a[data-label="Reklama"]
@@ -2410,4 +2411,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lokalnyreporter.pl##a[aria-label="WSAP_001"]
