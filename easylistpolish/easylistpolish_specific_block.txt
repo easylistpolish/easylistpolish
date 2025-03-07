@@ -304,3 +304,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infolwowek24.pl/wp-content/uploads/2019/02/Slajd1-2-500x700.jpg
