@@ -305,3 +305,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infolwowek24.pl/wp-content/uploads/2019/02/GladiolaUkos-1-480x310.jpg
