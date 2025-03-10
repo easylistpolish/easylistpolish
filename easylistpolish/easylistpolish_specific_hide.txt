@@ -2412,3 +2412,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 poradnikprzedsiebiorcy.pl##.top-bar + div
+facetpo40.pl##.ad-container
