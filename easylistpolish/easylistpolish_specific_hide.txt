@@ -2412,3 +2412,6 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+wterenie.pl##.grid__ad
+wterenie.pl##[class*="adv--"]
+wterenie.pl##[class*="adv__"]
