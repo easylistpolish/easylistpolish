@@ -110,6 +110,7 @@ files.librus.pl^*^*_loginR_
 files.librus.pl^*^r_
 supernowosci24.pl##[id^="r-"]
 wspolczesna.pl##.componentsListingLargeRow__slotItem
+|infomogilno24.pl/prawnicy/1.jpg?time=202101281157266
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 ||4media.com^$domain=lokalna24.pl
 ||ad.polskiprzemysl.com.pl^
@@ -310,4 +311,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-|infomogilno24.pl/prawnicy/1.jpg?time=202101281157266
