@@ -2416,3 +2416,4 @@ wterenie.pl##[class*="adv--"]
 wterenie.pl##[class*="adv__"]
 motobanda.pl##a[href^="https://cfmoto.pl"]
 azscore.pl##.bn
+informacja.wroclaw.pl##.image-slider
