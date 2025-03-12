@@ -210,6 +210,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||infolwowek24.pl/wp-content/uploads/2019/02/Slajd1-2-500x700.jpg
 ||infolwowek24.pl/wp-content/uploads/2019/03/facebook-grama-370x120.jpg
 ||infolwowek24.pl/wp-content/uploads/2019/03/plakat-process-1-530x380.jpg
+||informacja.wroclaw.pl/uploads/tinewsItem/12/wroclaw-ogloszenia-1.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -311,4 +312,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||informacja.wroclaw.pl/uploads/tinewsItem/12/wroclaw-ogloszenia-1.png
