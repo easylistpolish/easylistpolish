@@ -1809,6 +1809,7 @@ mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
 gotujzmaka.blogspot.com##a[href="http://www.smakowirowka.blogspot.com"]
 30minut.pl##a[href="http://www.staropolanka.pl/"]
 informacja.wroclaw.pl##a[href="http://www.telvinet.pl/"]
+informacja.wroclaw.pl##a[href="http://www.tishop.pl/"]
 driverm.webd.pl##a[href="http://www.tomasz-szczerbicki.pl/"]
 chtvl.chrzanow.pl##a[href="http://www.vectra.pl"]
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
@@ -2417,4 +2418,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-informacja.wroclaw.pl##a[href="http://www.tishop.pl/"]
