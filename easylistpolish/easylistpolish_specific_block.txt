@@ -313,3 +313,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 -baner-$domain=budowlanematerialy.eu
+||meteogroup.pl/meteo/hptool/logo_meteogroup.png
