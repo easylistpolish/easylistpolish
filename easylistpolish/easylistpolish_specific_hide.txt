@@ -1982,6 +1982,7 @@ tulodz.pl##a[href="https://www.ucando.pl/"]
 chillitorun.pl##a[href="https://www.ucando.pl/czesci-zamienne"]
 portalplock.pl##a[href="https://www.ucando.pl/k/hamulce/U02"]
 biokurier.pl##a[href="https://www.worldfood.pl/?utm_source=banner&utm_medium=biokurier&utm_campaign=WFP2024"]
+informacja.wroclaw.pl##a[href="https://www.wroclawiak.pl/"]
 angolia.co.uk##a[href="https://www.zaklad-pogrzebowy-uk.co.uk/"]
 cypr24.eu##a[href="https://www2.esky.pl/hotele?partner_id=cypr24"]
 cypr24.eu##a[href="https://www2.esky.pl/ubezpieczenie-podrozne?partner_id=cypr24"]
@@ -2418,4 +2419,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-informacja.wroclaw.pl##a[href="https://www.wroclawiak.pl/"]
