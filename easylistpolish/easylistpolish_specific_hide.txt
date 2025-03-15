@@ -2214,6 +2214,7 @@ e-kolo.pl##div[class="d-none d-sm-block mb-4 mt-0"]
 e-kolo.pl##div[class="d-none d-sm-block text-center"]
 housemarket.pl##div[class="noads p-top-container pageWidth acenter innerTB2x partner-wrap"]
 naekranie.pl##div[class="re prawa-szpalta"]
+informatorbrzeski.pl##div[class="stream-item stream-item-above-header"]
 tvdami.eu##div[class="text-center my-3 container"]
 rekomendowanefirmy.pl##div[class^="AD-"]
 stockwatch.pl##div[class^="ADbox"]
@@ -2419,4 +2420,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-informatorbrzeski.pl##div[class="stream-item stream-item-above-header"]
