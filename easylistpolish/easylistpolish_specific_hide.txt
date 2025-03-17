@@ -1228,7 +1228,7 @@ newsweek.pl##.pwAds
 e-hotelarz.pl##.pws-reklama
 staleo.pl##.py-4
 transfermarkt.pl##.quick-select-wrapper ~ div
-ekoexpo.pl,gorzow24.pl##.r
+gorzow24.pl##.r
 transfermarkt.pl##.ra
 goryiludzie.pl##.rad
 futbolnews.pl,zzapolowy.com##.ranking
