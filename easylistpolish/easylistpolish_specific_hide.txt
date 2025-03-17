@@ -1,4 +1,3 @@
-portalpszczelarski.pl###AdBig
 cssetti.pl###AsideAds
 spottedskarzysko.pl###BoxColTop
 spottedstarachowice.pl###BoxColTop .box
