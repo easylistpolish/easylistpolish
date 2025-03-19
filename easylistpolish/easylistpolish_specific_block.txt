@@ -313,3 +313,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infoserwiselk.pl/katalog-firm-elk/img/xglobal.png.pagespeed.ic.vBSHPLErZI.webp
