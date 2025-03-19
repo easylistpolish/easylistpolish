@@ -2421,3 +2421,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 kaszuby24.pl##a[href^="https://www.orkiestraksiezniczek.pl"]
+infoserwiselk.pl##.b180d
