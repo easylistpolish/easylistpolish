@@ -314,3 +314,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||infoskierniewice.pl/wp-content/uploads/2025/02/energetyka-cieplna-skierniewice-min-420x420.webp
