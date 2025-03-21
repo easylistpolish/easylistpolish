@@ -212,7 +212,7 @@ noworudzianin.pl###metaslider_widget-2
 mma.pl###mma_post1_ad
 legalnibukmacherzyinternetowi.pl###mobile-menu-offer
 terazkrosno.pl###module-235
-glamrap.pl,goleniowska.com###mvp-leader-wrap
+glamrap.pl,goleniowska.com,swinoujskie.info###mvp-leader-wrap
 e-kolo.pl###myModal
 glosseniora.pl###n2-ss-5
 lublin112.pl###native-ad
@@ -1788,6 +1788,7 @@ beskid-niski.pl##a[href="http://www.banica.com.pl/"]
 elektroda.pl##a[href="http://www.biall.com.pl/sklep.html#"]
 cypr24.eu##a[href="http://www.bluenetcyprus.com/"]
 fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
+infoskierniewice.pl##a[href="http://www.ecskierniewice.pl"]
 chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 forum.ebiznesy.pl##a[href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=1506_5_1_20"]
 staleo.pl##a[href="http://www.elmax.eu/"]
@@ -2423,5 +2424,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-swinoujskie.info###mvp-leader-wrap
-infoskierniewice.pl##a[href="http://www.ecskierniewice.pl"]
