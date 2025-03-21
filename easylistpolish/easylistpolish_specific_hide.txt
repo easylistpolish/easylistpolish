@@ -2424,3 +2424,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 swinoujskie.info###mvp-leader-wrap
+infoskierniewice.pl##a[href="http://www.ecskierniewice.pl"]
