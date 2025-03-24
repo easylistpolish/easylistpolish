@@ -1171,6 +1171,7 @@ cenyrolnicze.pl##.p345hu8t
 shinden.pl##.padPreload
 franchising.pl##.page-banners
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
+infostrow.pl##.papers-box
 automatyka.pl,pomorska.pl##.partner
 ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
@@ -2424,4 +2425,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-infostrow.pl##.papers-box
