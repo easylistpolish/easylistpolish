@@ -318,3 +318,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niezalezna.
 ||video.onnetwork.tv^$script,domain=tvwalbrzych.pl
 ||video.onnetwork.tv^$script,domain=piszanin.pl
+||video.onnetwork.tv^$script,domain=zyciezyrardowa.pl
