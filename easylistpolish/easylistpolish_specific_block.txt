@@ -319,3 +319,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||video.onnetwork.tv^$script,domain=tvwalbrzych.pl
 ||video.onnetwork.tv^$script,domain=piszanin.pl
 ||video.onnetwork.tv^$script,domain=zyciezyrardowa.pl
+_webbanner_$domain=strazacki.pl
