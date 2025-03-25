@@ -318,3 +318,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||ino-24.pl/wp-content/uploads/2020/08/Brytyjka-plecaki-inowroc%C5%82aw-300x75.png
