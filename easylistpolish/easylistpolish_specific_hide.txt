@@ -1292,7 +1292,7 @@ strzelnoonline.com##.rslides1
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
 zyciemyszkowa.pl##.sad
-erawa.pl,lwowecki.info,zebrra.tv##.sam-container
+erawa.pl,lwowecki.info##.sam-container
 mojaswidnica.pl##.sam-pro-container
 forum.bukmacherskie.com##.samBannerUnit
 czluchowinfo.pl,haloursynow.pl,ipoddebice.pl,jura365.pl,lca.pl,msi-myslenice.pl,myglogow.pl,nowinykrapkowickie.pl,przelom.pl,pulstygodnia.pl,rydzyna24.pl,slu24.pl,sompolno24.pl,tarnowska.pl,terazstrzelno.pl,tygodnikketrzynski.pl,wkikole.pl,zycierawicza.pl##.santa-main-wrapper
