@@ -320,3 +320,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ^reklama^$domain=osowa24.pl
+||ino-24.pl/wp-content/uploads/2020/08/plecaki-damskie-300x181.jpg
