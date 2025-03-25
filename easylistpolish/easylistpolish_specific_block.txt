@@ -215,6 +215,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||infoserwiselk.pl/katalog-firm-elk/img/xglobal.png.pagespeed.ic.vBSHPLErZI.webp
 ||infoskierniewice.pl/wp-content/uploads/2025/01/corhaz-3.jpg
 ||infoskierniewice.pl/wp-content/uploads/2025/02/energetyka-cieplna-skierniewice-min-420x420.webp
+||ino-24.pl/wp-content/uploads/2020/08/Brytyjka-plecaki-inowroc%C5%82aw-300x75.png
 ||ino-24.pl/wp-content/uploads/2020/08/plecak-m%C4%99ski-300x240.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
@@ -318,4 +319,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||ino-24.pl/wp-content/uploads/2020/08/Brytyjka-plecaki-inowroc%C5%82aw-300x75.png
