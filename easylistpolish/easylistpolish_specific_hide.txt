@@ -2430,3 +2430,4 @@ thinkapple.pl###post-banner-ad
 pionki24.pl##.kozie-po-tekscie
 ws-24.pl###media_image-4
 katowice24.info##.ad--bill-top
+instalacjebudowlane.pl##a[class*="banner"]
