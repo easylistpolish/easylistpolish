@@ -2428,3 +2428,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 pzl24.pl##.tipad_tag
 thinkapple.pl###post-banner-ad
+pionki24.pl##.kozie-po-tekscie
