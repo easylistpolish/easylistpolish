@@ -635,6 +635,7 @@ audiostereo.pl##.baner_display
 zlotoryjska.pl##.baner_pod_menu_1190x125px
 dkl24.pl##.baner_popup
 glas-hit.pl##.baner_przedni
+mazury24.eu##.banera0
 elblag.net##.banera1
 wielkiebudowanie.pl##.banerjpg
 warsztat.pl##.banersrodtekst
@@ -2428,4 +2429,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-mazury24.eu##.banera0

@@ -221,6 +221,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ino-24.pl/wp-content/uploads/2020/08/plecak-m%C4%99ski-300x240.jpg
 ||ino-24.pl/wp-content/uploads/2020/08/plecaki-damskie-300x181.jpg
 ||instalacjebudowlane.pl/nowe/221220/2212_ebmpapst_2019.gif
+||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -323,4 +324,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
