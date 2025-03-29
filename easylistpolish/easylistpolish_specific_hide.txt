@@ -2323,6 +2323,7 @@ lublin112.pl##div[style="min-height: 200px"]
 lublin112.pl##div[style="min-height: 200px;"]
 dziennikwschodni.pl##div[style="min-width:970px; min-height:320px;"]
 jg24.pl##div[style="text-align: center; margin-bottom: 5px;"]
+instalacjebudowlane.pl##div[style="text-align:center;padding-bottom:20px;"]
 mojaolesnica.pl##div[style^="margin-left: auto; overflow: hidden;width:"]
 eostroleka.pl##div[style^="max-width: 715px"]
 tkn24.pl##font[color="SILVER"]
@@ -2429,4 +2430,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-instalacjebudowlane.pl##div[style="text-align:center;padding-bottom:20px;"]
