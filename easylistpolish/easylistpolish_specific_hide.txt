@@ -6,6 +6,7 @@ techmaniachd.pl###HTML1
 wikirose.pl###HTML14
 wikirose.pl###HTML15
 skyradar.pl###HTML4
+kobiety-kobietom.com###RC
 kobiety-kobietom.com###Reklama
 kobiety-kobietom.com###ReklamaRightBox
 8tvr.pl###SmallAds
@@ -1087,6 +1088,7 @@ b24tv.pl##.metaslider
 sloworegionu.pl##.mfp-container
 comparic.pl##.mfp-content
 turek.net.pl##.mfp-ready
+cadblog.pl##.mh-header-widget-1
 cadblog.pl##.mh-sidebar-2
 tv.pl##.middle-salesmedia
 ipulawy.pl##.mkd-content-top-holder
@@ -2431,5 +2433,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cadblog.pl##.mh-header-widget-1
-kobiety-kobietom.com###RC
