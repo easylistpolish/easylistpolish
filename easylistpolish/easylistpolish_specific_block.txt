@@ -222,6 +222,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ino-24.pl/wp-content/uploads/2020/08/plecaki-damskie-300x181.jpg
 ||instalacjebudowlane.pl/nowe/221220/2212_ebmpapst_2019.gif
 ||instalacjebudowlane.pl/nowe/221220/2212_venture_VI_2024.jpg
+||instalacjebudowlane.pl/nowe/221220/2220-iglotech-NEOHEAT-VIII-2024.jpg
 ||instalacjebudowlane.pl/nowe/221220/2220-rosenberg-VII-2023.jpg
 ||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
@@ -326,4 +327,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||instalacjebudowlane.pl/nowe/221220/2220-iglotech-NEOHEAT-VIII-2024.jpg
