@@ -2435,3 +2435,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 cadblog.pl##.track-banner
 info-ketrzyn24.pl###secondary
+instalacjebudowlane.pl##a[href*="baner"]
