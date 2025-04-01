@@ -274,6 +274,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||poradnik-pacjenta.pl^*-rekl.
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
+||powiatowy.pl^*^cam2.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||radiosudety24.pl^*^sad^$image
@@ -327,4 +328,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||powiatowy.pl^*^cam2.

@@ -275,7 +275,7 @@ gazeta-mosina.pl###right .first
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
 franchising.pl###scContener
-nowezyciepabianic.pl###secondary
+info-ketrzyn24.pl,nowezyciepabianic.pl###secondary
 strefa.se,tkaninyobiciowe.eu###secondary [id^="media_image-"]
 polonia.laziska.pl###section2
 polonia.laziska.pl###section5
@@ -1451,6 +1451,7 @@ gazeta-mosina.pl##.topblock
 naszrynek.pl,portalwloclawek.pl##.toplayer
 mpolska24.pl##.tplAds
 tenpoznan.pl##.tprek
+cadblog.pl##.track-banner
 biegaj40minut.pl##.training-display
 synonimy.pl##.translation-badge
 slaskiesiemianowice.pl##.trzyreklamy
@@ -1712,7 +1713,7 @@ igrit.pl##a[href*="agropaksc"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
 badaniaprenatalne.pl##a[href*="badamydzieci.pl"]
 badaniaprenatalne.pl##a[href*="badanienifty.pl"]
-e-kolo.pl##a[href*="baner"]
+e-kolo.pl,instalacjebudowlane.pl##a[href*="baner"]
 forum-bron.pl,forum.pasja-informatyki.pl,fresh-market.pl,gastrona.pl,gramatyka-angielska.info,hokej.net##a[href*="banner"]
 gastrona.pl##a[href*="bbelements"]
 gloswroclawia.pl##a[href*="brand.ceo"]
@@ -2433,6 +2434,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-cadblog.pl##.track-banner
-info-ketrzyn24.pl###secondary
-instalacjebudowlane.pl##a[href*="baner"]
