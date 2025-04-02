@@ -227,6 +227,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/221220/2220_gde_VIII_2021.gif
 ||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
 ||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
+||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -277,6 +278,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiatowy.pl^*^cam2.
+||powiatowy.pl^*^zuwika.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||radiosudety24.pl^*^sad^$image
@@ -330,5 +332,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||powiatowy.pl^*^zuwika.
-||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
