@@ -226,6 +226,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/221220/2220-rosenberg-VII-2023.jpg
 ||instalacjebudowlane.pl/nowe/221220/2220_gde_VIII_2021.gif
 ||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
+||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -329,4 +330,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
