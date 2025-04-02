@@ -331,3 +331,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 ||powiatowy.pl^*^zuwika.
+||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
