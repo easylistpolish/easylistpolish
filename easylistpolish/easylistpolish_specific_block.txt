@@ -329,3 +329,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
