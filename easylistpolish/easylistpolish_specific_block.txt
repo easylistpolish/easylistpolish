@@ -333,3 +333,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||instalacjebudowlane.pl/nowe/3025/3025-SAS-XI-2024.jpg
