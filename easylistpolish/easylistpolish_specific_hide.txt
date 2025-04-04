@@ -2436,3 +2436,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 kuchenny.com.pl##[class^="banery_"]
 wentylacyjny.pl##.uklad_120x600_bottom
+instalki.pl##.placeholderPlug
