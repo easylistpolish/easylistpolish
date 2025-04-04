@@ -225,6 +225,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/221220/2220-iglotech-NEOHEAT-VIII-2024.jpg
 ||instalacjebudowlane.pl/nowe/221220/2220-Regulus-I-2025.jpg
 ||instalacjebudowlane.pl/nowe/221220/2220-rosenberg-VII-2023.jpg
+||instalacjebudowlane.pl/nowe/221220/2220-SBS-IX-2024.png
 ||instalacjebudowlane.pl/nowe/221220/2220_gde_VIII_2021.gif
 ||instalacjebudowlane.pl/nowe/221220/2220_refsystem_III_2022.jpg
 ||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
@@ -334,4 +335,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||instalacjebudowlane.pl/nowe/221220/2220-SBS-IX-2024.png
