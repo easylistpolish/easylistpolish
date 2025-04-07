@@ -228,6 +228,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/221220/2244-HSK-I-2025.gif
 ||instalacjebudowlane.pl/nowe/3025/3025-SAS-XI-2024.jpg
 ||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
+||iochota.pl/static/files/inline_images/21/inline__1243885_1446.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -332,4 +333,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||iochota.pl/static/files/inline_images/21/inline__1243885_1446.jpg

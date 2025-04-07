@@ -98,6 +98,7 @@ trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
 zywiecinfo.pl###blockadblock
+niedziela.pl###bottomAdsWrap
 konin24.info###box
 laboratoria.net###box40
 olsztyn.com.pl###boxA
@@ -815,6 +816,7 @@ lublin112.pl##.container[style="min-height: 325px"]
 flashscore.pl##.container__bannerZone
 e-pajeczno.pl##.content
 naszesudety.pl##.content > .photo > a > img[src^="files/200/"]
+deon.pl##.content-banner
 bestofwhisky.pl##.contetn-left-ad-top
 mecze.com##.cool-stuff
 gol24.pl##.cs
@@ -1577,7 +1579,7 @@ olawa24.pl##[class=" grid place-items-center gap-6"]
 rmf24.pl##[class="ad adsBilbordArticle"]
 kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,poranny.pl,telemagazyn.pl,to.com.pl##[class="atomsListingArticleTileWithSeparatedLink component"]
 24jgora.pl,e-sochaczew.pl,kurierbytowski.com.pl##[class="box custom-html-box  "]
-ddb24.pl,ekspresjaroslawski.pl,lowicz24.eu##[class="card  card--box"]
+ddb24.pl,ekspresjaroslawski.pl,goral24.pl,lowicz24.eu##[class="card  card--box"]
 24wroclaw.pl,lowicz24.eu,pilaonline.pl##[class="card card--low card--box"]
 rzeszow112.pl##[class="center bottom-gap fluid-imgs"]
 forbes.pl##[class="container ad"]
@@ -2436,6 +2438,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-deon.pl##.content-banner
-niedziela.pl###bottomAdsWrap
-goral24.pl##[class="card  card--box"]
