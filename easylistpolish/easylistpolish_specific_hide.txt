@@ -2398,7 +2398,7 @@ skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_a
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
 konstrukcjeinzynierskie.pl##img[src="https://www.konstrukcjeinzynierskie.pl/images/banners/zwcad_2024.jpg"]
 2x45.info##img[src="images/pictures/Mostbet.gif"]
-igostyn.pl##img[src="tmpln/images/rek_1250.webp"]
+igostyn.pl,ipleszew.pl##img[src="tmpln/images/rek_1250.webp"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
 plonskwsieci.pl##img[src^="/upload/ALIOR_"]
 plonskwsieci.pl##img[src^="/upload/poprJorapol1170x"]
@@ -2438,4 +2438,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ipleszew.pl##img[src="tmpln/images/rek_1250.webp"]
