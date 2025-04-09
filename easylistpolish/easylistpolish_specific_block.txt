@@ -4,7 +4,7 @@
 -baner.$domain=blogprezesa.pl|crypto-trader.pl|ipulawy.pl|napoli24h.pl|przeclaw24.pl|tkn24.pl|wiadomosci.com|wirtualnyzgierz.pl|wolanie.info
 -baner_$domain=nolesnica.pl|nowawrzesnia.pl|polska-morska.pl
 -banery^$domain=przeclaw24.pl
--banner-$domain=iknurow.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|weterynarianews.pl|wirlandii.pl|ww-model.pl|zycieczestochowy.pl
+-banner-$domain=grapplerinfo.pl|iknurow.pl|itvpiaseczno.pl|linia.com.pl|longevitas.pl|mlecznepodroze.pl|motocykle125.pl|olawa24.pl|pokonajlysienie.com|swiatczytnikow.pl|swiatoze.pl|techsetter.pl|tenisbydawid.pl|tkaninyobiciowe.eu|tucholanin.pl|uavo.com.pl|weterynarianews.pl|wirlandii.pl|ww-model.pl|zycieczestochowy.pl
 -banner1.$domain=tu.swinoujscie.pl
 -bannery-$domain=bogaty.men|globenergia.pl|zarobmy.se
 -fb-baner-$domain=starosadeckie.info
@@ -228,6 +228,7 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/3025/3025-SAS-XI-2024.jpg
 ||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
 ||iochota.pl/static/files/inline_images/21/inline__1243885_1446.jpg
+||irenakuczynska.pl/wp-content/uploads/2022/04/Banerek-1.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -331,5 +332,3 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
--banner-$domain=grapplerinfo.pl
-||irenakuczynska.pl/wp-content/uploads/2022/04/Banerek-1.png

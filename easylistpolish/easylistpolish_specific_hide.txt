@@ -296,6 +296,7 @@ radomsport.pl###skyscraper
 radomnews.pl###skyscraper2
 buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
 zyciesokolowa.pl###slider--carousel--banners
+naszesudety.pl###slider-1
 naszesudety.pl###slider2
 nocoty.pl###slider300Wrapper
 legnica.fm###sliderbanner1
@@ -995,6 +996,7 @@ muzyczneradio.pl##.idBanner4
 salon24.pl##.idsl
 zalukaj.cc##.iii > #aab
 iloveslubice.pl##.ilove-2023-glowna-przed-zawartoscia-top
+iloveslubice.pl##.ilove-nowa-8
 informacja.wroclaw.pl##.image-slider
 zycie.pl##.images.left-dd
 tubalecznej.pl##.img-fluid
@@ -1645,6 +1647,7 @@ urania.edu.pl##[id*="reklama"]
 zyciebytomskie.pl##[id^="ad"]
 gazeta.pl##[id^="adUnit-"]
 gazeta.pl##[id^="ads"]
+tulodz.pl##[id^="autoAd"]
 plotek.pl##[id^="banC"]
 eglos.pl##[id^="baner"]
 eostroleka.pl##[id^="baner_A_"]
@@ -2437,6 +2440,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tulodz.pl##[id^="autoAd"]
-iloveslubice.pl##.ilove-nowa-8
-naszesudety.pl###slider-1
