@@ -2439,3 +2439,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 tulodz.pl##[id^="autoAd"]
 iloveslubice.pl##.ilove-nowa-8
+naszesudety.pl###slider-1
