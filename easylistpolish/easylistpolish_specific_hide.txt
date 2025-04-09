@@ -2204,6 +2204,7 @@ gazetawroclawska.pl##div[class*="Banner"]
 onet.pl##div[class*="EmbeddedApplication_moneteasy_"] > div
 elita-magazyn.pl,ewyszkow.pl,gazetaprawna.pl,gpr24.pl##div[class*="ad"]
 ikampinos.pl##div[class*="ad--bill"]
+ipragapoludnie.pl##div[class*="ad--bill-top"]
 infosecurity24.pl##div[class*="ad-banner"]
 elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl##div[class*="adName"]
@@ -2438,4 +2439,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ipragapoludnie.pl##div[class*="ad--bill-top"]
