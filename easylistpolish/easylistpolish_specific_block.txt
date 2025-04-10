@@ -332,3 +332,4 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||irenakuczynska.pl/wp-content/uploads/2025/01/Bn20241031-Dzika-Laka-portal_Obszar-roboczy-1-1.jpg
