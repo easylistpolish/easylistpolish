@@ -2280,6 +2280,7 @@ olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
 gazeta.pl##div[id*="DFP-011-MIDBOARD"]
 ewyszkow.pl##div[id*="advertisement"]
+ising.pl##div[id*="as-zone"]
 gazeta.pl##div[id*="ban"]
 infokonin.com.pl##div[id*="bills"]
 rekomendowanefirmy.pl##div[id^="AD-"]
@@ -2440,4 +2441,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ising.pl##div[id*="as-zone"]
