@@ -2372,6 +2372,7 @@ elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl##im
 funkcje.net##img[src*="bannery"]
 chojna24.pl##img[src*="googleusercontent."]
 halogorlice.info##img[src*="https://sc.4media.com"]
+iturek.net##img[src*="mrowka"]
 ewysmaz.pl##img[src*="nawozy.eu"]
 bielskirynek.pl##img[src*="pasek_baner"]
 cypr24.eu,goniecpolski.nl,gpd24.pl##img[src*="reklama"]
@@ -2441,4 +2442,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-iturek.net##img[src*="mrowka"]
