@@ -1,4 +1,3 @@
-@@.adrotate.$domain=mh24.pl
 @@/adsign.$domain=adsign.polsatmedia.pl
 @@/extension/adverts/design/standard/javascript/adverts/Quantcastt^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
 @@/extension/adverts/design/standard/templates/esi^$script,domain=antyradio.pl|chillizet.pl|meloradio.pl|planeta.pl|radiozet.pl
