@@ -2444,3 +2444,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 echo24.tv##.new-toplayer
 iloveslubice.pl##a[href^="https://brandmed.eu"]
 gorzow.news##[class^="g g-"]
+portalzory.pl##.banners
