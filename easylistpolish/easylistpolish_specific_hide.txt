@@ -2445,3 +2445,4 @@ echo24.tv##.new-toplayer
 iloveslubice.pl##a[href^="https://brandmed.eu"]
 gorzow.news##[class^="g g-"]
 portalzory.pl##.banners
+iturek.net##img[src*="chocki"]
