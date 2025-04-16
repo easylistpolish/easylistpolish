@@ -2448,3 +2448,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 swidnicanews.pl##.banners
 inforuda.pl##.banners
+echo24.tv##[class*="banner--"]
