@@ -2450,3 +2450,4 @@ swidnicanews.pl##.banners
 inforuda.pl##.banners
 echo24.tv##[class*="banner--"]
 inowroclawskie.pl##.banners
+iturek.net##img[src*="kopczynski"]
