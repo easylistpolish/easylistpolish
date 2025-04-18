@@ -2450,3 +2450,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 halokonin.pl##.banners
 mojgorzow.pl##.banners
+mojwloclawek.pl##.banners
