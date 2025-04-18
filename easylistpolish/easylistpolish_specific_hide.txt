@@ -2452,3 +2452,4 @@ halokonin.pl##.banners
 mojgorzow.pl##.banners
 mojwloclawek.pl##.banners
 myslowicki24.pl##.banners
+piekaryonline.pl##.banners
