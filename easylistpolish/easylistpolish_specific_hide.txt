@@ -1168,6 +1168,7 @@ tko.pl##.oln-desktop_a
 tko.pl##.oln-sticky
 e-szczuczyn.pl##.one-1 .post-content
 donald.pl##.onnetwork_ad
+allegro.pl##.opbox-sheet.card:has(div[data-box-name^="allegro.ads."])
 okkolobrzeg.pl##.ot-home-block
 centrumwitalnosci.pl##.ot-widget-banner
 stefczyk.info##.our-sites-links
