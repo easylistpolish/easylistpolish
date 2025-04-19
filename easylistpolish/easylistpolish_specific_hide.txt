@@ -2372,6 +2372,7 @@ gazeo.pl##img[src*="banerek"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl##img[src*="banner"]
 funkcje.net##img[src*="bannery"]
+iturek.net##img[src*="bram"]
 iturek.net##img[src*="chocki"]
 iturek.net##img[src*="domki"]
 chojna24.pl##img[src*="googleusercontent."]
@@ -2451,4 +2452,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-iturek.net##img[src*="bram"]
