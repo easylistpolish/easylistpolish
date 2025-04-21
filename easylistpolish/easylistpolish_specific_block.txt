@@ -229,7 +229,6 @@ wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||instalacjebudowlane.pl/nowe/3025/3025-SAS-XI-2024.jpg
 ||instalacjebudowlane.pl/obrazki4/nibco_220x120_II_2021.jpg
 ||iochota.pl/static/files/inline_images/21/inline__1243885_1446.jpg
-||irenakuczynska.pl/wp-content/uploads/2022/04/Banerek-1.png
 ||irenakuczynska.pl/wp-content/uploads/2025/01/Bn20241031-Dzika-Laka-portal_Obszar-roboczy-1-1.jpg
 ||isbzdrowie.pl/wp-content/uploads/2025/01/seg-25.jpg
 ||it-manuals.info/wp-content/uploads/2023/12/hostido.webp
