@@ -110,7 +110,6 @@ _reklamy^$domain=weekendfm.pl
 _webbanner_$domain=strazacki.pl
 files.librus.pl^*^*_loginR_
 files.librus.pl^*^r_
-supernowosci24.pl##[id^="r-"]
 wspolczesna.pl##.componentsListingLargeRow__slotItem
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
 ||4media.com^$domain=lokalna24.pl
