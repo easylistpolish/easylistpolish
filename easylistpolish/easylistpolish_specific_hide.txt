@@ -2382,6 +2382,7 @@ iturek.net##img[src*="kopczynski"]
 iturek.net##img[src*="mrowka"]
 ewysmaz.pl##img[src*="nawozy.eu"]
 iturek.net##img[src*="ogrodowczyk"]
+iturek.net##img[src*="pakerski"]
 bielskirynek.pl##img[src*="pasek_baner"]
 iturek.net##img[src*="plytomex"]
 cypr24.eu,goniecpolski.nl,gpd24.pl##img[src*="reklama"]
@@ -2452,4 +2453,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-iturek.net##img[src*="pakerski"]
