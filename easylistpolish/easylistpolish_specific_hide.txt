@@ -2457,3 +2457,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 twojagdynia.pl##.banners
 kielceinfo.pl##.banners
 olkuszonline.pl##.banners
+wostrowcu.pl##.banners
