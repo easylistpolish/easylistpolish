@@ -2461,3 +2461,4 @@ twojelegionowo.pl##.banners
 wrotatarnowa.pl##.banners
 bielskonews.pl##.banners
 superportal24.pl##[class="widget widget_wide"]
+iturek.net##img[src*="am-230"]
