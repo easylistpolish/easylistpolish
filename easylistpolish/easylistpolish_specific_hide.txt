@@ -2458,3 +2458,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 kurieraugustow.pl##.banners
 twojelegionowo.pl##.banners
+wrotatarnowa.pl##.banners
