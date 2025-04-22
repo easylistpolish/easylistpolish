@@ -2459,3 +2459,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 kurieraugustow.pl##.banners
 twojelegionowo.pl##.banners
 wrotatarnowa.pl##.banners
+bielskonews.pl##.banners
