@@ -93,6 +93,7 @@
 ^statystyk_box.$domain=bajery.pl
 ^xbaner_$domain=kuriernauczycielski.pl
 ^xbanner_$domain=radiozulawy.pl
+^xreklama-$domain=tv-pelplin.pl
 ^zdjecia_reklamy^$domain=radio.katowice.pl
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
@@ -333,4 +334,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-^xreklama-$domain=tv-pelplin.pl
