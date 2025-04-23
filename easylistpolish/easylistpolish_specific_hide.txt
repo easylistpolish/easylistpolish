@@ -2383,6 +2383,7 @@ chojna24.pl##img[src*="googleusercontent."]
 halogorlice.info##img[src*="https://sc.4media.com"]
 iturek.net##img[src*="kamienie"]
 iturek.net##img[src*="kopczynski"]
+iturek.net##img[src*="miejsce-kostka"]
 iturek.net##img[src*="mrowka"]
 ewysmaz.pl##img[src*="nawozy.eu"]
 iturek.net##img[src*="ogrodowczyk"]
@@ -2458,4 +2459,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-iturek.net##img[src*="miejsce-kostka"]
