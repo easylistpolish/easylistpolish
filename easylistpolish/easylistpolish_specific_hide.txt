@@ -2463,3 +2463,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zyciebytomskie.pl##.new-toplayer
 wiadomosciolsztyn.pl##.banners
 glogowski24.pl##.banners
+ostrodanews.pl###header-widgets
