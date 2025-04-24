@@ -334,3 +334,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||itvpiaseczno.pl/assets/uploads/files/25-1734600642-eko-dom-ekologiczny-dom.jpg
