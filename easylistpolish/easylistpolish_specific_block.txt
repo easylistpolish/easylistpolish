@@ -232,6 +232,7 @@ files.librus.pl^*^r_
 ||isbzdrowie.pl/wp-content/uploads/2025/01/seg-25.jpg
 ||it-manuals.info/wp-content/uploads/2023/12/hostido.webp
 ||itvpiaseczno.pl/assets/uploads/files/25-1734600642-eko-dom-ekologiczny-dom.jpg
+||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -335,4 +336,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
