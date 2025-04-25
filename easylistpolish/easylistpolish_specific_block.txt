@@ -338,3 +338,4 @@ files.librus.pl^*^r_
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 _baner_$domain=skawina24.com
+||itvpiaseczno.pl/assets/uploads/files/25-1734202368-zapytaj-mnie-o-raypath.jpg
