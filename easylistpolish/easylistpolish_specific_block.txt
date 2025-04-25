@@ -98,7 +98,7 @@
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
 _baner-$domain=gazetabilgoraj.pl
-_baner_$domain=panoramakutna.pl|telewizjazary.pl
+_baner_$domain=panoramakutna.pl|skawina24.com|telewizjazary.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banery-$domain=turek.net.pl
@@ -232,6 +232,7 @@ files.librus.pl^*^r_
 ||isbzdrowie.pl/wp-content/uploads/2025/01/seg-25.jpg
 ||it-manuals.info/wp-content/uploads/2023/12/hostido.webp
 ||itvpiaseczno.pl/assets/uploads/files/25-1734202031-sklep-internetowy-zakupy-produktow-raypath-piaseczno.jpg
+||itvpiaseczno.pl/assets/uploads/files/25-1734202368-zapytaj-mnie-o-raypath.jpg
 ||itvpiaseczno.pl/assets/uploads/files/25-1734600642-eko-dom-ekologiczny-dom.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
@@ -337,5 +338,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_baner_$domain=skawina24.com
-||itvpiaseczno.pl/assets/uploads/files/25-1734202368-zapytaj-mnie-o-raypath.jpg
