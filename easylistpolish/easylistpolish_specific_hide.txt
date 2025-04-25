@@ -2414,7 +2414,6 @@ goral24.pl##img[src="https://goral.info.pl/static/files/inline_images/521/inline
 skawina24.com##img[src="https://projektestart.cfolks.pl/skawina24/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/Garstka-64b929d421ce2.jpg"]
 tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-"]
-gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/08/10/Reklama-gostynin-24-1000x300pix-v6-szary-JPG-64d4df0284996.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_agawaKW.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
