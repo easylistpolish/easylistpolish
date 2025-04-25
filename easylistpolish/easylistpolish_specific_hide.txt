@@ -2464,3 +2464,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 zyciebytomskie.pl##[class*="banner--"]
 mieleceu.pl##.banners
 jeleniagoraonline.pl##.banners
+siemianowicki24.pl##.banners
