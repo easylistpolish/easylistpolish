@@ -235,6 +235,7 @@ files.librus.pl^*^r_
 ||itvpiaseczno.pl/assets/uploads/files/25-1734202368-zapytaj-mnie-o-raypath.jpg
 ||itvpiaseczno.pl/assets/uploads/files/25-1734600642-eko-dom-ekologiczny-dom.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
+||itvpiaseczno.pl/static/files/inline_images/25/inline__1_3376.jpg
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -338,4 +339,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||itvpiaseczno.pl/static/files/inline_images/25/inline__1_3376.jpg
