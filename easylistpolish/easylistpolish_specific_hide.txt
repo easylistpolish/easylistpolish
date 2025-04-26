@@ -698,7 +698,7 @@ fakty.nl##.bannergroupclear
 chnnews.pl##.bannergroupright-banner
 ezamosc.pl##.bannergroupvertical
 abcslubu.pl,chrzanowski24.pl,erp-view.pl,estrzelce.pl,fsd24.pl,glosojcapio.pl,informacje.kolobrzeg.pl,krynica.tv,logistyczny.com,magazynit.pl,naszagazeta.info,naszaokolica24.pl,nowawrzesnia.pl,portal-mundurowy.pl,przeclaw24.pl,roland-gazeta.pl,wysokomazowiecki24.pl,zdrowybialystok.pl##.banneritem
-bielskonews.pl,e-stargard.pl,glogowski24.pl,halokonin.pl,informacjelodzkie.pl,inforuda.pl,inowroclawskie.pl,jastrzebienews.pl,jeleniagoraonline.pl,kielceinfo.pl,kurieraugustow.pl,megatiming.pl,mieleceu.pl,mojgorzow.pl,mojwloclawek.pl,myslowicki24.pl,olkuszonline.pl,oswieciminfo.pl,piekaryonline.pl,portalmorski.pl,portalzory.pl,programtv.info,siemianowicki24.pl,stalenierdzewne.pl,swidnicanews.pl,swieradowzdroj.pl,szczecin4u.pl,szkola8.torun.pl,tczewski24.pl,twojagdynia.pl,twojelegionowo.pl,wiadomosciolsztyn.pl,wostrowcu.pl,wrotagrudziadza.pl,wrotatarnowa.pl,zawiercieonline.pl##.banners
+bielskonews.pl,e-stargard.pl,glogowski24.pl,halokonin.pl,informacjelodzkie.pl,inforuda.pl,inowroclawskie.pl,jastrzebienews.pl,jeleniagoraonline.pl,kielceinfo.pl,kurieraugustow.pl,megatiming.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,myslowicki24.pl,olkuszonline.pl,oswieciminfo.pl,piekaryonline.pl,portalmorski.pl,portalzory.pl,programtv.info,siemianowicki24.pl,stalenierdzewne.pl,swidnicanews.pl,swieradowzdroj.pl,szczecin4u.pl,szkola8.torun.pl,tczewski24.pl,twojagdynia.pl,twojelegionowo.pl,wiadomosciolsztyn.pl,wostrowcu.pl,wrotagrudziadza.pl,wrotatarnowa.pl,zawiercieonline.pl##.banners
 rzeszowairport.pl##.banners-content
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
@@ -2459,4 +2459,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-minski24.pl##.banners
