@@ -339,3 +339,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||itvpiaseczno.pl/static/files/gallery/25/6dc19-grojec24net_jasne.jpg
