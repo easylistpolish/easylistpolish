@@ -341,3 +341,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||itvpiaseczno.pl/assets/uploads/files/25-1706987386-wybory-samorzadowe-2024.png
