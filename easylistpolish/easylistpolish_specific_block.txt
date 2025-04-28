@@ -237,6 +237,7 @@ files.librus.pl^*^r_
 ||itvpiaseczno.pl/static/files/gallery/25/6dc19-grojec24net_jasne.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_3376.jpg
+||itvpiaseczno.pl/static/files/inline_images/25/inline__1_4685.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -340,4 +341,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||itvpiaseczno.pl/static/files/inline_images/25/inline__1_4685.png
