@@ -340,3 +340,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||itvpiaseczno.pl/static/files/inline_images/25/inline__1_4685.png
