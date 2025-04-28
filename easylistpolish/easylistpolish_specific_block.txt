@@ -231,6 +231,7 @@ files.librus.pl^*^r_
 ||irenakuczynska.pl/wp-content/uploads/2025/01/Bn20241031-Dzika-Laka-portal_Obszar-roboczy-1-1.jpg
 ||isbzdrowie.pl/wp-content/uploads/2025/01/seg-25.jpg
 ||it-manuals.info/wp-content/uploads/2023/12/hostido.webp
+||itvpiaseczno.pl/assets/uploads/files/25-1706987386-wybory-samorzadowe-2024.png
 ||itvpiaseczno.pl/assets/uploads/files/25-1734202031-sklep-internetowy-zakupy-produktow-raypath-piaseczno.jpg
 ||itvpiaseczno.pl/assets/uploads/files/25-1734202368-zapytaj-mnie-o-raypath.jpg
 ||itvpiaseczno.pl/assets/uploads/files/25-1734600642-eko-dom-ekologiczny-dom.jpg
@@ -341,4 +342,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||itvpiaseczno.pl/assets/uploads/files/25-1706987386-wybory-samorzadowe-2024.png
