@@ -2463,3 +2463,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 24piaseczno.pl##.banners
 portalkalisz.pl##.banners
 portalzielonagora.pl##.banners
+infopiotrkow.pl##.banners
