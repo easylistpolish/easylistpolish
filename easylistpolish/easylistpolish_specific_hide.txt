@@ -2465,3 +2465,4 @@ portalkalisz.pl##.banners
 portalzielonagora.pl##.banners
 infopiotrkow.pl##.banners
 epiotrkow.pl##.box-ra
+itvregion.pl##.banner
