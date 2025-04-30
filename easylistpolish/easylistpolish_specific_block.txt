@@ -239,6 +239,7 @@ files.librus.pl^*^r_
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_2786.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_3376.jpg
 ||itvpiaseczno.pl/static/files/inline_images/25/inline__1_4685.png
+||itvregion.pl/wp-content/uploads/2016/10/unnamed-kopia.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
@@ -342,4 +343,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||itvregion.pl/wp-content/uploads/2016/10/unnamed-kopia.png
