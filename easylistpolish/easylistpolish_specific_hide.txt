@@ -2466,3 +2466,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 ciechanowski24.pl##.banners
 leszczynski24.pl##.banners
 suwalkinews.pl##.banners
+infochelm.pl##.banners
