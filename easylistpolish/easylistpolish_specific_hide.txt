@@ -2467,3 +2467,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 mojzgierz.pl##.banners
 nowinypilskie.pl##.banners
 faktywroclaw.pl##.banners
+lubinski24.pl##.banners
