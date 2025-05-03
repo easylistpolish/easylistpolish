@@ -122,6 +122,7 @@ files.librus.pl^*^r_
 ||bejsment.com^*^dalekDiamonds300x
 ||biotechnologia.pl^*^ats^
 ||bitcoinwidget.pl^$domain=jpktraders.pl
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmE2e4K_BvWfncnpqSlnmuYHSlAcArzXSvPEzAilugVH9Cmb4ceh9OA1f82u7vgdvTB_E2MARPXuPPQ5VRDZydAk-aw6uNzsq1pO8UzAbX2YE731q5CAhUWqGtXYW1sPQh_wC95_6ONlQ/s1600/logo+d.png
 ||blogomaniak.pl^*-ceneo-
 ||bluepartner.pl^$script,domain=infofordon.pl
 ||bobrowniki.tv^*^praca-piekary.
@@ -345,4 +346,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmE2e4K_BvWfncnpqSlnmuYHSlAcArzXSvPEzAilugVH9Cmb4ceh9OA1f82u7vgdvTB_E2MARPXuPPQ5VRDZydAk-aw6uNzsq1pO8UzAbX2YE731q5CAhUWqGtXYW1sPQh_wC95_6ONlQ/s1600/logo+d.png
