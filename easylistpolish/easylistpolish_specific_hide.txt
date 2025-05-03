@@ -2469,3 +2469,4 @@ nowinypilskie.pl##.banners
 faktywroclaw.pl##.banners
 lubinski24.pl##.banners
 naszkedzierzyn.pl##.banners
+e-starachowice.pl##.banners
