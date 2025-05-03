@@ -2474,3 +2474,4 @@ dabrowski24.pl##.banners
 przemyslonline.pl##.banners
 glosgdanska.pl##.banners
 elblagonline.pl##.banners
+wejherowski24.pl##.banners
