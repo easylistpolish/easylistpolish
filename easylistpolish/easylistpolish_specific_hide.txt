@@ -2471,3 +2471,4 @@ lubinski24.pl##.banners
 naszkedzierzyn.pl##.banners
 e-starachowice.pl##.banners
 dabrowski24.pl##.banners
+przemyslonline.pl##.banners
