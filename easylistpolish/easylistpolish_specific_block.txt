@@ -346,3 +346,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sA0m9pUFtSHl44HkHtC4IFaZxqtXXxalLSCdsr3zeU_EhJbI5JKBfjOm9cL1tUCVnaDTW5jTCPBF8CcKe8l1hC_Jsvz2YYAiYJaz1DWG9cEA=s0-d
