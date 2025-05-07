@@ -2467,3 +2467,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 faktypoznan.pl##.banners
 faktybytom.pl##.banners
 otwocki24.pl##.banners
+radomski24.pl##.banners
