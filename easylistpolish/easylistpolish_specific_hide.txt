@@ -2472,3 +2472,4 @@ radomski24.pl##.banners
 raciborski24.pl##.banners
 faktyopole.pl##.banners
 echobialystok.pl##.banners
+portalwalbrzych.pl##.banners
