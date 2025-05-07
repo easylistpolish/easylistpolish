@@ -2469,3 +2469,4 @@ faktybytom.pl##.banners
 otwocki24.pl##.banners
 radomski24.pl##.banners
 24slupsk.pl##.banners
+raciborski24.pl##.banners
