@@ -14,7 +14,6 @@
 -reklama_$domain=noworudzianin.pl
 -reklamy-$domain=tu.swinoujscie.pl
 -reklamy^$domain=kurekmazurski.pl
-^1Reklama^$domain=iturek.net
 ^2021banery^$domain=wysokomazowiecki24.pl
 ^2022baner^$domain=wysokomazowiecki24.pl
 ^250x250c^$domain=kmziz.pl
