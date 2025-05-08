@@ -348,3 +348,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
