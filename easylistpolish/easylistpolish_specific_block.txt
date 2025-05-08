@@ -161,7 +161,6 @@ files.librus.pl^*^r_
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||fadstrack.com^$script,domain=make-cash.pl
-||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
