@@ -2468,3 +2468,4 @@ irybnik.pl##.banners
 faktyrzeszow.pl##.banners
 bedzinski24.pl##.banners
 lubliniec360.pl##.banners
+hokej.net##.Ad
