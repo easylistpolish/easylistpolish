@@ -245,6 +245,7 @@ files.librus.pl^*^r_
 ||izabelin24.pl/static/files/inline_images/52/inline__1_236.png
 ||izabelin24.pl/static/files/inline_images/52/inline__1_402.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
+||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^
@@ -348,4 +349,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
