@@ -2398,7 +2398,7 @@ bielskirynek.pl##img[src*="pasek_baner"]
 iturek.net##img[src*="pasik"]
 iturek.net##img[src*="plytomex"]
 itvregion.pl##img[src*="rek"]
-cypr24.eu,goniecpolski.nl,gpd24.pl##img[src*="reklama"]
+cypr24.eu,goniecpolski.nl,gpd24.pl,jablonka.info##img[src*="reklama"]
 cooltura24.co.uk,ebarlinek.pl##img[src*="reomanager.pl"]
 iturek.net##img[src*="ryta"]
 iturek.net##img[src*="wakacje"]
@@ -2464,4 +2464,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-jablonka.info##img[src*="reklama"]
