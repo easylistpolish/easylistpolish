@@ -2380,6 +2380,7 @@ gazetakolobrzeska.pl##img[src*="baner-"]
 gazeo.pl##img[src*="banerek"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl,iwonka-bloguje.blogspot.com##img[src*="banner"]
+jablonka.info##img[src*="banners"]
 funkcje.net##img[src*="bannery"]
 iturek.net##img[src*="bram"]
 iturek.net##img[src*="centrum-230x210"]
@@ -2464,4 +2465,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-jablonka.info##img[src*="banners"]
