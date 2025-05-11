@@ -450,7 +450,7 @@ zycieczestochowy.pl##.abovenews
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,gazetaolsztynska.pl,imagazine.pl,interia.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wiadomosciwedkarskie.com.pl,wirtualnepniewy.pl##.ad
-24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,ewysmaz.pl,galopuje.pl,goral.info.pl,goral24.pl,iotwock.info,iwawer.pl,izabelin24.pl,kartuzy.info,katowice24.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,ciechanowinaczej.pl,debica24.eu,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,ewysmaz.pl,galopuje.pl,goral.info.pl,goral24.pl,iotwock.info,iwawer.pl,izabelin24.pl,izyrardow.pl,kartuzy.info,katowice24.info,ototorun.pl,pilaonline.pl,powiatowa.info,pulsgdanska.pl,tulegnica.pl,zambrow.org,zyciekalisza.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 dorzeczy.pl##.ad-aside
 cyberdefence24.pl,defence24.pl,energetyka24.com,space24.pl##.ad-banner
@@ -698,7 +698,7 @@ fakty.nl##.bannergroupclear
 chnnews.pl##.bannergroupright-banner
 ezamosc.pl##.bannergroupvertical
 abcslubu.pl,chrzanowski24.pl,erp-view.pl,estrzelce.pl,fsd24.pl,glosojcapio.pl,informacje.kolobrzeg.pl,krynica.tv,logistyczny.com,magazynit.pl,naszagazeta.info,naszaokolica24.pl,nowawrzesnia.pl,portal-mundurowy.pl,przeclaw24.pl,roland-gazeta.pl,wysokomazowiecki24.pl,zdrowybialystok.pl##.banneritem
-24piaseczno.pl,24slupsk.pl,bielskonews.pl,ciechanowski24.pl,dabrowski24.pl,e-starachowice.pl,e-stargard.pl,echobialystok.pl,elblagonline.pl,faktybytom.pl,faktyopole.pl,faktypoznan.pl,faktywroclaw.pl,glogowski24.pl,glosgdanska.pl,halokonin.pl,infochelm.pl,infopiotrkow.pl,informacjelodzkie.pl,inforuda.pl,inowroclawskie.pl,jastrzebienews.pl,jeleniagoraonline.pl,kielceinfo.pl,kurieraugustow.pl,leszczynski24.pl,lubinski24.pl,megatiming.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,mojzgierz.pl,myslowicki24.pl,naszkedzierzyn.pl,nowinypilskie.pl,olkuszonline.pl,oswieciminfo.pl,otwocki24.pl,piekaryonline.pl,portalkalisz.pl,portalmorski.pl,portalwalbrzych.pl,portalzielonagora.pl,portalzory.pl,programtv.info,przemyslonline.pl,raciborski24.pl,radomski24.pl,siemianowicki24.pl,stalenierdzewne.pl,suwalkinews.pl,swidnicanews.pl,swieradowzdroj.pl,swietochlowiceonline.pl,szczecin4u.pl,szkola8.torun.pl,tczewski24.pl,twojagdynia.pl,twojelegionowo.pl,wejherowski24.pl,wiadomosciolsztyn.pl,wostrowcu.pl,wrotagrudziadza.pl,wrotatarnowa.pl,zawiercieonline.pl##.banners
+24piaseczno.pl,24slupsk.pl,bedzinski24.pl,bielskonews.pl,ciechanowski24.pl,dabrowski24.pl,e-starachowice.pl,e-stargard.pl,echobialystok.pl,elblagonline.pl,faktybytom.pl,faktyopole.pl,faktypoznan.pl,faktyrzeszow.pl,faktywroclaw.pl,glogowski24.pl,glosgdanska.pl,halokonin.pl,infochelm.pl,infopiotrkow.pl,informacjelodzkie.pl,inforuda.pl,inowroclawskie.pl,irybnik.pl,jastrzebienews.pl,jeleniagoraonline.pl,kielceinfo.pl,kurieraugustow.pl,leszczynski24.pl,lubinski24.pl,lubliniec360.pl,megatiming.pl,mieleceu.pl,minski24.pl,mojgorzow.pl,mojwloclawek.pl,mojzgierz.pl,myslowicki24.pl,naszkedzierzyn.pl,nowinypilskie.pl,olkuszonline.pl,oswieciminfo.pl,otwocki24.pl,piekaryonline.pl,portalkalisz.pl,portalmorski.pl,portalwalbrzych.pl,portalzielonagora.pl,portalzory.pl,programtv.info,przemyslonline.pl,raciborski24.pl,radomski24.pl,siemianowicki24.pl,stalenierdzewne.pl,suwalkinews.pl,swidnicanews.pl,swieradowzdroj.pl,swietochlowiceonline.pl,szczecin4u.pl,szkola8.torun.pl,tczewski24.pl,twojagdynia.pl,twojelegionowo.pl,wejherowski24.pl,wiadomosciolsztyn.pl,wostrowcu.pl,wrotagrudziadza.pl,wrotatarnowa.pl,zawiercieonline.pl##.banners
 rzeszowairport.pl##.banners-content
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
@@ -1724,7 +1724,7 @@ linktopoland.com##a[href*="autoczescionline24.pl"]
 badaniaprenatalne.pl##a[href*="badamydzieci.pl"]
 badaniaprenatalne.pl##a[href*="badanienifty.pl"]
 e-kolo.pl,instalacjebudowlane.pl##a[href*="baner"]
-forum-bron.pl,forum.pasja-informatyki.pl,fresh-market.pl,gastrona.pl,gramatyka-angielska.info,hokej.net,investmap.pl##a[href*="banner"]
+forum-bron.pl,forum.pasja-informatyki.pl,fresh-market.pl,gastrona.pl,gramatyka-angielska.info,hokej.net,investmap.pl,jadarhobby.pl##a[href*="banner"]
 gastrona.pl##a[href*="bbelements"]
 gloswroclawia.pl##a[href*="brand.ceo"]
 goral24.pl##a[href*="bsczarnydunajec"]
@@ -2217,7 +2217,7 @@ elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
-golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl##div[class*="adv"]
+golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl##div[class*="adv"]
 ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl,halogorlice.info##div[class*="advert"]
@@ -2380,6 +2380,7 @@ gazetakolobrzeska.pl##img[src*="baner-"]
 gazeo.pl##img[src*="banerek"]
 eswinoujscie.pl##img[src*="banerr"]
 elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl,iwonka-bloguje.blogspot.com##img[src*="banner"]
+jablonka.info##img[src*="banners"]
 funkcje.net##img[src*="bannery"]
 iturek.net##img[src*="bram"]
 iturek.net##img[src*="centrum-230x210"]
@@ -2398,7 +2399,7 @@ bielskirynek.pl##img[src*="pasek_baner"]
 iturek.net##img[src*="pasik"]
 iturek.net##img[src*="plytomex"]
 itvregion.pl##img[src*="rek"]
-cypr24.eu,goniecpolski.nl,gpd24.pl##img[src*="reklama"]
+cypr24.eu,goniecpolski.nl,gpd24.pl,jablonka.info##img[src*="reklama"]
 cooltura24.co.uk,ebarlinek.pl##img[src*="reomanager.pl"]
 iturek.net##img[src*="ryta"]
 iturek.net##img[src*="wakacje"]
@@ -2464,8 +2465,4 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-irybnik.pl##.banners
-faktyrzeszow.pl##.banners
-bedzinski24.pl##.banners
-lubliniec360.pl##.banners
 hokej.net##.Ad
