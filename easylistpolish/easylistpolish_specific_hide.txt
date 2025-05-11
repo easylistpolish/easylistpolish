@@ -2468,3 +2468,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 hokej.net##.Ad
 nowosadecki24.pl##.banners
 grodziski24.pl##.banners
+tomaszowonline.pl##.banners
