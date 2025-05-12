@@ -2469,3 +2469,4 @@ hokej.net##.Ad
 nowosadecki24.pl##.banners
 grodziski24.pl##.banners
 tomaszowonline.pl##.banners
+terazgniezno.pl##.banners
