@@ -2472,3 +2472,4 @@ tomaszowonline.pl##.banners
 terazgniezno.pl##.banners
 tuzamosc.pl##.banners
 elckie.pl##.banners
+cozadzien.pl##.tipad_tag + a
