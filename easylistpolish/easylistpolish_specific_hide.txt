@@ -2471,3 +2471,4 @@ grodziski24.pl##.banners
 tomaszowonline.pl##.banners
 terazgniezno.pl##.banners
 tuzamosc.pl##.banners
+elckie.pl##.banners
