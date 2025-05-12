@@ -2473,3 +2473,4 @@ terazgniezno.pl##.banners
 tuzamosc.pl##.banners
 elckie.pl##.banners
 cozadzien.pl##.tipad_tag + a
+jadarhobby.pl##img[src*="banner"]
