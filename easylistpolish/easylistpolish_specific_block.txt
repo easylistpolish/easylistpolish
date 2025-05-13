@@ -97,7 +97,7 @@
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
 _baner-$domain=gazetabilgoraj.pl
-_baner_$domain=panoramakutna.pl|skawina24.com|telewizjazary.pl
+_baner_$domain=hrnews.pl|panoramakutna.pl|skawina24.com|telewizjazary.pl
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banery-$domain=turek.net.pl
@@ -245,6 +245,7 @@ files.librus.pl^*^r_
 ||izabelin24.pl/static/files/inline_images/52/inline__1_402.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
 ||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
+||jakodzyskacpieniadze.pl/wp-content/uploads/2018/11/300x300.png
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^
@@ -348,5 +349,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_baner_$domain=hrnews.pl
-||jakodzyskacpieniadze.pl/wp-content/uploads/2018/11/300x300.png
