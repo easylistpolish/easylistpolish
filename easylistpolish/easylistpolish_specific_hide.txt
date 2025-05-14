@@ -2470,3 +2470,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 wrotazabrza.pl##.banners
 wrotachorzowa.pl##.banners
 kochamsiedlce.pl##.banners
+wiadomosciplock.pl##.banners
