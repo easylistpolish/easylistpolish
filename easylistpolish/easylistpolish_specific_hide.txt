@@ -2471,3 +2471,4 @@ wrotazabrza.pl##.banners
 wrotachorzowa.pl##.banners
 kochamsiedlce.pl##.banners
 wiadomosciplock.pl##.banners
+janwedzi.pl##div[class*="promo"]
