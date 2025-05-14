@@ -349,3 +349,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||janwedzi.pl/wp-content/uploads/2018/07/osteopatis-wroclaw-300x168.png
