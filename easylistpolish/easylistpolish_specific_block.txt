@@ -164,7 +164,6 @@ files.librus.pl^*^r_
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
-||forum.haszysz.com/solarr^$image
 ||gazetasenior.pl^*_300x300_
 ||getsitecontrol.com^$script,domain=swiatmotocykli.pl
 ||getyourguide.com$domain=tuhiszpania.pl
