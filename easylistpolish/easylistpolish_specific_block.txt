@@ -97,7 +97,7 @@
 _ban.$domain=radomsport.pl
 _baner%$domain=transg.pl
 _baner-$domain=gazetabilgoraj.pl
-_baner_$domain=hrnews.pl|panoramakutna.pl|skawina24.com|telewizjazary.pl
+_baner_$domain=hrnews.pl|panoramakutna.pl|skawina24.com|telewizjazary.pl|wlkp24.info
 _banerek.$domain=plytkiceramiczne.info.pl
 _banerowy^$domain=nowywyszkowiak.pl
 _banery-$domain=turek.net.pl
@@ -348,4 +348,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-_baner_$domain=wlkp24.info
