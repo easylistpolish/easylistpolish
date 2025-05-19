@@ -2472,4 +2472,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 stalowanews.pl##.banners
 halotorun.pl##.banners
 stargardlokalnie.pl##.banners
-
+wpruszkowie.pl##.banners
