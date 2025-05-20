@@ -2472,3 +2472,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 katowicelove.pl##.banners
 newsynowodworskie.pl##.banners
 cieszynonline.pl##.banners
+jaw.pl##.adv
