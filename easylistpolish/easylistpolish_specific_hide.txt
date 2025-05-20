@@ -246,7 +246,6 @@ zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
 thinkapple.pl###post-banner-ad
 nudziara.pl###post.format_post.nudziara.masonry-brick
-mazopolska.pl###posts-banner
 e-stargard.pl###posts_home_top_right_box
 babiel.com.pl###prawa
 legitymizm.org###prawa_kolumna .ramka:last-child
