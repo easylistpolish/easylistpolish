@@ -250,6 +250,7 @@ files.librus.pl^*^r_
 ||jaw.pl/static/files/inline_images/167/inline__1_1691.gif
 ||jaw.pl/static/files/inline_images/167/inline__1_2419.jpg
 ||jaw.pl/static/files/inline_images/167/inline__1_4520.jpg
+||jaw.pl/static/files/inline_images/167/inline__1_5064.gif
 ||jaw.pl/static/files/inline_images/167/inline__1_5511.jpg
 ||jaw.pl/static/files/inline_images/167/inline__1_6091.jpg
 ||jaw.pl/static/files/inline_images/167/inline__1_8208.png
@@ -354,4 +355,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||jaw.pl/static/files/inline_images/167/inline__1_5064.gif
