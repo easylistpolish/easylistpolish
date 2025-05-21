@@ -1228,7 +1228,6 @@ activemaniak.pl,agdmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,luxmaniak
 pojezierze.com.pl##.posts-slider
 radomsport.pl##.prawa
 lazienkowy.pl##.prawy300x250
-friko.net##.prezenty > .panel-body
 mmo24.pl##.promo
 odkryjpomorze.pl##.promo-box
 walbrzych24.com##.promo-item:not([href*="gov.pl"])
