@@ -2470,3 +2470,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 wiadomoscilublin.pl##.banners
 informacjekoszalin.pl##.banners
+infojaworzno.pl##.banners
