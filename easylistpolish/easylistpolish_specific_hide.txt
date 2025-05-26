@@ -2471,3 +2471,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 naszamlawa.pl##.new-toplayer
 infopabianice.pl##.banners
 czestochowanews.pl##.banners
+owlkp.pl##.banners
