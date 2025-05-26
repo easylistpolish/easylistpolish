@@ -361,3 +361,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||jawor24h.pl/upload/img/files/202503051358-taczka-damar.jpg
