@@ -260,6 +260,7 @@ files.librus.pl^*^r_
 ||jawor24h.pl/assets/img/reklama/rotacja3.jpg
 ||jawor24h.pl/upload/img/files/202503051357-drzwi-damar.jpg
 ||jawor24h.pl/upload/img/files/202503051357-folia-damar.jpg
+||jawor24h.pl/upload/img/files/202503051358-taczka-damar.jpg
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^
@@ -361,4 +362,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||jawor24h.pl/upload/img/files/202503051358-taczka-damar.jpg
