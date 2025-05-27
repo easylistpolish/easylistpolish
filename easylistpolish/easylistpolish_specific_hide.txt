@@ -2471,3 +2471,4 @@ wp.pl#?#IMG:-abp-properties(position: relative;)
 naszamlawa.pl##[class*="banner--"]
 zywieconline.pl##.banners
 in-westor.pl##.new-toplayer
+jazdaprawna.pl##img[src*="Banner"]
