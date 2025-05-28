@@ -2282,6 +2282,7 @@ allegro.pl##div[data-box-name^="allegro.advertising.adspremium.premiumad"]
 allegro.pl##div[data-box-name^="premium.with.dfp"]
 allegro.pl##div[data-box-name^="pure_offers_ads"]
 otodom.pl##div[data-cy="search.listing.promoted"]
+juvepoland.com##div[data-dest="placeholder"]
 wp.pl##div[data-native-adv]
 wylecz.to##div[data-ohyes="slotseen"]
 forbes.pl##div[data-run-module="local/main_amd.placeholders"]
@@ -2468,4 +2469,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-juvepoland.com##div[data-dest="placeholder"]
