@@ -1560,6 +1560,7 @@ eredivisie.pl,goal.pl,kadra.pl,ligapolska.pl,primeradivision.pl,seriea.pl##:not(
 pwm.org.pl##A[onclick^="countAdClick"]
 24jgora.pl##IMG[src^="http://www.24jgora.pl/kampanie/"]
 chip.pl##[action^="http://www.njobs.eu/"]
+zgorzelec.info##[app-ads]
 telewizjatvt.pl##[class$="-advads_ad_widget"]
 silesia24.pl##[class$="__ad"]
 purepc.pl##[class$="reklama"]
@@ -2470,5 +2471,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-zgorzelec.info##[app-ads]
-kaliszak.pl##a[href*="reklama"]
