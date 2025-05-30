@@ -1774,6 +1774,7 @@ barlinek24.pl##a[href="/aktualnosci/12833-z-ludzmi-i-dla-ludzi.html"]
 footbar.info##a[href="/go/betclic"]
 emecze.pl##a[href="/go/canalonline"]
 footbar.info##a[href="/go/fortuna"]
+kaliszak.pl##a[href="/praca-magisterska-licencjat-profesjonalna-pomoc-137660"]
 enowiny.pl##a[href="/reklama,9.html"]
 bydgoszczak.pl##a[href="/strona/reklama"]
 blogbukmacherski.pl##a[href="fuksiarz"]
@@ -2469,5 +2470,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ciechanowski24.pl##.banners
-kaliszak.pl##a[href="/praca-magisterska-licencjat-profesjonalna-pomoc-137660"]
