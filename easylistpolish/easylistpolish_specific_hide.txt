@@ -18,7 +18,6 @@ grydladzieci.pl###adRechts
 grydladzieci.pl###adRechts2
 fiatklubpolska.pl###ad_global_below_navbar
 zycieczestochowy.pl###ad_hype_container
-otomoto.pl###ad_unit
 tcz.pl###add-top-1
 glamour.pl###adl-placement-0-container
 national-geographic.pl###adl-placement-0-wrapper
