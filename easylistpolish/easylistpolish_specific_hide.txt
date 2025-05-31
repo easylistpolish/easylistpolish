@@ -862,7 +862,6 @@ nadmorski24.pl##.dynamicAD
 dziennikplocki.pl##.dzien-belka-top-750x200
 dziennikplocki.pl##.dzien-reklama-pod-kalendarzem
 dziennikplocki.pl##.dzien-widget
-swinoujskie.info##.e3lan
 ele24.net##.eb-modules-banner-nad-newsem
 mojpieknyogrod.pl##.ecomm-boxd
 ilewazy.pl,viva.pl##.ecomm-offer
