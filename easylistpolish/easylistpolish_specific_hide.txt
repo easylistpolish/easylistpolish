@@ -486,7 +486,7 @@ praca-niemcy24.pl##.adblock
 glamour.pl,ktomalek.pl##.add
 emkielce.pl##.add-banner-footer
 zeglarski.info##.add-box
-24wspolnota.pl,bialasiedzieje.pl,ddbelchatow.pl,gostynska.pl,jarocinska.pl,klodzko24.eu,korso.pl,korso24.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,portalplock.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,rzeszow24.info,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
+24wspolnota.pl,bialasiedzieje.pl,ddbelchatow.pl,gostynska.pl,jarocinska.pl,klodzko24.eu,korso.pl,korso24.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,portalplock.pl,radzyn.24wspolnota.pl,rawicz24.pl,rzeszow24.info,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
 karnickie.info##.adds
 rybnik.com.pl,tuwodzislaw.pl##.addv-container
 echosredzkie.pl,express-miejski.pl##.adesplace
