@@ -317,6 +317,7 @@ files.librus.pl^*^r_
 ||rep.leaselink.pl/plugin^$script,domain=icomp.pl
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
+||rrs24.net^*^finansefactory-
 ||sc.4media.com$domain=zycieolsztyna.pl
 ||skipol.pl^*^watermark_azoty.
 ||sokolka.tv^*^betonholding.
@@ -359,4 +360,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||rrs24.net^*^finansefactory-
