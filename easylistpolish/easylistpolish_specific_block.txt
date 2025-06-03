@@ -335,7 +335,6 @@ files.librus.pl^*^r_
 ||swidnik.pl^*^alior_swidnik_
 ||sychar.org^*^tolle-
 ||syrena.nekla.eu^*-agraf-
-||systemyplatnosci.com^*^fundacja_zoodoptuj.
 ||systemyplatnosci.com^*^hotpay_
 ||szukam-ksiazki.pl^*^havana.
 ||tanuki.pl/imglink^
