@@ -340,7 +340,6 @@ files.librus.pl^*^r_
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
-||tenismagazyn.pl^*^porsche-d
 ||tkaninyobiciowe.eu^*^dik-
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^parownice-
