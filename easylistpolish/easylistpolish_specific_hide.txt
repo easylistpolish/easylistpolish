@@ -1738,6 +1738,7 @@ badaniaprenatalne.pl##a[href*="http://prekoncepcja.pl/"]
 anime-odcinki.pl##a[href*="https://e-neko.pl"] > img
 radomsport.pl##a[href*="https://www.toyota.radom.pl"]
 cozadzien.pl,forum.nissanklub.pl,namasce.pl##a[href*="iparts.pl"]
+kathyleonia88.blogspot.com##a[href*="jobsora"]
 kathyleonia88.blogspot.com##a[href*="jooble"]
 etransport.pl##a[href*="kampanie.etransport.pl"]
 kuriergarwolinski.pl##a[href*="klikniecia"]
@@ -2469,4 +2470,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-kathyleonia88.blogspot.com##a[href*="jobsora"]
