@@ -174,7 +174,6 @@ comparic.pl###icegram_messages_container
 satkurier.pl###idmnet_horizontal_top_750x100
 podkarpackahistoria.pl###inside_1
 zszywka.pl###inv-request-popup
-jestbeka.pl###ips-popup
 jestbeka.pl###ips-popup-wrapper
 sokolka.tv,zulawytv.pl###jm-content-top
 sokolka.tv###jm-right
