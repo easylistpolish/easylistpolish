@@ -96,7 +96,6 @@ zmianynaziemi.pl###block-block-29
 trzcianka.info###block-block-7
 gazetacodzienna.pl###block-views-lista_partnerow-block_1
 innemedium.pl###block-views-reklama-block
-zywiecinfo.pl###blockadblock
 niedziela.pl###bottomAdsWrap
 konin24.info###box
 laboratoria.net###box40
