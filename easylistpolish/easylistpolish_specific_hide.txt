@@ -153,7 +153,6 @@ spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[targe
 spliff.pl###gkRight
 niedziela.nl,piekarnieonline.pl###gk_banner
 popularnie.pl###gold-header
-forbes.pl###googleAdsCont
 motocykle125.pl###gp-fixed-padding + center
 motocykle125.pl###gp-footer-area
 przegladkoninski.pl###head_advertise
