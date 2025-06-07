@@ -296,7 +296,6 @@ files.librus.pl^*^r_
 ||pfcc.eu^*^automaty.
 ||pfcc.eu^*^choryzont.
 ||pfcc.eu^*^goldrop.
-||plonsk24.pl^*^img_67^
 ||plonsk24.pl^*^img_72^
 ||podhale24.pl/uploads/r^
 ||poland.us^*^katalog^
