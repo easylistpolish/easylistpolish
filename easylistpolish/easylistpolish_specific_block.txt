@@ -263,6 +263,7 @@ files.librus.pl^*^r_
 ||jawor24h.pl/upload/img/files/202503051358-taczka-damar.jpg
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info/img/galileusz.jpg
+||kcynia.info/wp-content/uploads/2015/01/minikoparka_bydgoszcz.jpg
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
@@ -357,4 +358,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kcynia.info/wp-content/uploads/2015/01/minikoparka_bydgoszcz.jpg
