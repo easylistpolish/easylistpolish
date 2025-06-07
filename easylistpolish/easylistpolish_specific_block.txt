@@ -357,3 +357,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kcynia.info/wp-content/uploads/2015/01/minikoparka_bydgoszcz.jpg
