@@ -265,6 +265,7 @@ files.librus.pl^*^r_
 ||kcynia.info/img/galileusz.jpg
 ||kcynia.info/wp-content/uploads/2015/01/minikoparka_bydgoszcz.jpg
 ||kcynia.info^*^rolnik-serwis2.
+||kibice.net/img/iparts-300x300.png
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-
@@ -358,4 +359,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kibice.net/img/iparts-300x300.png
