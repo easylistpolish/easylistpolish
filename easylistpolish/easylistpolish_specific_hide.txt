@@ -2094,7 +2094,6 @@ kodi.org.pl##a[href^="https://sweterkowo.pl/sklep/kategoria/czapki/?utm_source="
 centrumdruku3d.pl##a[href^="https://ta."]
 nasztomaszow.pl##a[href^="https://ttbs.com.pl/"]
 kanonierzy.com##a[href^="https://typ.pl/"]
-portal-polski.pl##a[href^="https://webep1.com/"]
 cai24.pl##a[href^="https://wogoole.pl/"]
 centrumdruku3d.pl##a[href^="https://www.3dfindit.com/en/?mtm_campaign="]
 cosiedzieje.tv##a[href^="https://www.4community.online/webinar-"]
