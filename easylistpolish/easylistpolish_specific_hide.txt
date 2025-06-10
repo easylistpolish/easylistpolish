@@ -1316,7 +1316,6 @@ it.tarnow.pl##.section-apps
 e-tlumacze.net##.section-banner
 it.tarnow.pl##.section-banners
 gostynin.info,powiat-piaseczynski.info##.section-billboard
-igrit.pl##.section-top-py
 igrit.pl##.section-top-pya
 muno.pl##.sectionTopAd
 glokalna.pl,nowawrzesnia.pl##.sgpb-popup-overlay
