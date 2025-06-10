@@ -1294,7 +1294,6 @@ mojanorwegia.pl##.row.single > a[target="_blank"]
 liderbudowlany.pl##.rozwijany
 strzelnoonline.com##.rslides1
 wirtualnygarwolin.pl##.rstboxes
-epiotrkow.pl##.rtop
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info##.sam-container
 mojaswidnica.pl##.sam-pro-container
