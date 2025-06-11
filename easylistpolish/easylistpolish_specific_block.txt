@@ -363,3 +363,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kiep.pl/assetcdn/img.php?f=31&t=ulsspaaizsbsetxckiolk
