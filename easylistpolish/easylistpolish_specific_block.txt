@@ -269,6 +269,7 @@ files.librus.pl^*^r_
 ||kibice.net/img/niebiescy.gif
 ||kibice.net/img/ultras-tifo.jpg
 ||kiep.pl/assetcdn/img.php?f=44&t=urb6eokk6aasbd0b3xih88
+||kiep.pl/assetcdn/img.php?f=44&t=zsjvypywohau4mhmc4atr
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-
@@ -362,4 +363,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kiep.pl/assetcdn/img.php?f=44&t=zsjvypywohau4mhmc4atr
