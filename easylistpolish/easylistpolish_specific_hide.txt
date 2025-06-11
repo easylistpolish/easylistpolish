@@ -238,7 +238,6 @@ zpierwszegotloczenia.pl###popup-ad
 infoilawa.pl###popup-wrapper
 szukacz.p###popupContainer
 zwik.skawina.pl###popupDiv
-zmianywzyciu.pl###popup_facebook
 thinkapple.pl###post-banner-ad
 nudziara.pl###post.format_post.nudziara.masonry-brick
 e-stargard.pl###posts_home_top_right_box
