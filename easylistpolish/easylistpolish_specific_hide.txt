@@ -1418,6 +1418,7 @@ skarzyski.eu##.text-center
 bociany.tv,katowice24.info,spece.it##.textwidget
 starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
 bialogardinfo.pl##.theiaStickySidebar .g-dyn
+kiep.pl##.thumbBlock_holder
 odkryjpomorze.pl##.ticker-container
 wpolityce.pl##.tile--ad-tile
 bobasmiesiaca.pl,bydgoszcz.com,chojnakulturalnie.pl,cooltura24.co.uk,cosiedzieje.tv,dzienniknowy.pl,dziennikpowiatowy.pl,expresskaszebe.pl,faktykaliskie.info,gorlice.tv,gostynin24.pl,halogorlice.info,halorzeszow.pl,kk24.pl,kronikatygodnia.pl,malbork1.pl,nasztomaszow.pl,podkarpackahistoria.pl,pzl24.pl,radiotczew.pl,truso.tv,tuolawa.pl,tvmaster.eu,tvpolice.com.pl,tvsudecka.pl,tygodnik-krapkowicki.pl,zachodniopomorska.tv##.tipad_tag
@@ -2458,4 +2459,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-kiep.pl##.thumbBlock_holder
