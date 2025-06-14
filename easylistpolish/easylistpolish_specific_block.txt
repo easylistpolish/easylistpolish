@@ -366,3 +366,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kierunekwodkan.pl/Resources/ba/4251/6b8bb507f61739889341.jpg
