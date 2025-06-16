@@ -367,3 +367,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kliknijwzdrowie.pl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/herbaty-newby.jpg.webp
