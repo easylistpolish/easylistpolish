@@ -274,6 +274,7 @@ files.librus.pl^*^r_
 ||kiep.pl/assetcdn/img.php?f=44&t=urb6eokk6aasbd0b3xih88
 ||kiep.pl/assetcdn/img.php?f=44&t=zsjvypywohau4mhmc4atr
 ||kierunekwodkan.pl/Resources/ba/4251/6b8bb507f61739889341.jpg
+||kliknijwzdrowie.pl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/herbaty-newby.jpg.webp
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||komediowo.pl^*^ciekawe-miejsca-
@@ -367,4 +368,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kliknijwzdrowie.pl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/herbaty-newby.jpg.webp
