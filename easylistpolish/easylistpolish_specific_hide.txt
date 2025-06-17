@@ -2458,3 +2458,4 @@ wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lidzbarkonline.pl##[class*="banner--"]
 kociewie24.pl###G-banerGlowny
+kobiety-kobietom.com##img[src*="banner"]
