@@ -1520,7 +1520,6 @@ okraglemiasto.pl##.wpb_left-to-right
 ipulawy.pl##.wpb_raw_html
 elblag24.pl##.wpb_singleimage_heading
 7dni.com.pl##.wpr-promo-box
-##.wrapper
 wbaziefirm.pl##.wrapper-flash
 facetpo40.pl##.wrapper_smallimages
 pod24.info##.yjsquare_in a[href*="https://youtu.be/"][target="_blank"]
