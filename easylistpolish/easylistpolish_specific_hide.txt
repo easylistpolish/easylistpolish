@@ -2452,3 +2452,4 @@ londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 lidzbarkonline.pl##.new-toplayer
+prudnik24.pl##.widget-4
