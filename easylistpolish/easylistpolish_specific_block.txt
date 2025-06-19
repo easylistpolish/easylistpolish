@@ -278,6 +278,7 @@ files.librus.pl^*^r_
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||kocham.wielun.pl/wp-content/themes/kochamwielun/img/jacek.png
+||kolbuszowalokalnie.pl/wp-content/uploads/2025/04/Zyczenia-Wielkanocne-Buczek.jpg
 ||komediowo.pl^*^ciekawe-miejsca-
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-
@@ -369,4 +370,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kolbuszowalokalnie.pl/wp-content/uploads/2025/04/Zyczenia-Wielkanocne-Buczek.jpg
