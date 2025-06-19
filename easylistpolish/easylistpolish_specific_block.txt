@@ -369,3 +369,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kolbuszowalokalnie.pl/wp-content/uploads/2025/04/Zyczenia-Wielkanocne-Buczek.jpg
