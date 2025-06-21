@@ -2358,7 +2358,7 @@ gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
 gpd24.pl##img[id*="billboard"]
 pwm.org.pl##img[onload^="countAdView"]
-gazetaostrowska.pl,kolbuszowalokalnie.pl,kurierostrowski.pl##img[src*="Baner"]
+gazetaostrowska.pl,kolbuszowalokalnie.pl,konin24.info,kurierostrowski.pl##img[src*="Baner"]
 cypr24.eu,evertiq.pl,fors.pl,jazdaprawna.pl,juvepoland.com##img[src*="Banner"]
 iturek.net##img[src*="Dygas"]
 iturek.net##img[src*="SBRUK"]
@@ -2454,4 +2454,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-konin24.info##img[src*="Baner"]
