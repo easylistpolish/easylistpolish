@@ -351,6 +351,7 @@ stopnadwadze.pl###text-html-widget-10
 naszapolska.eu###tm-sidebar
 iturek.net###tm-top
 testynaojcostwo.pl###top-baner
+koncertomania.pl###top-banner
 wabrzezno-cwa.pl###top-reklama
 zycieczestochowy.pl###top-slider a:not([href^="https://zycieczestochowy.pl/"])
 polskielupki.pl###topAdd
@@ -2453,4 +2454,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-koncertomania.pl###top-banner
