@@ -1706,6 +1706,7 @@ btcpolska.com##a[href*="?utm_campaign=btcpolska&"]
 druk.info.pl##a[href*="ad.ipolska.pl"]
 elektroda.pl##a[href*="ads="]
 bbfan.pl,e-sochaczew.pl##a[href*="adsredirect"]
+koscian.net##a[href*="adv"]
 forum.optymalizacja.com##a[href*="advertisement"]
 kiep.pl##a[href*="assetcdn"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
@@ -2454,4 +2455,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-koscian.net##a[href*="adv"]
