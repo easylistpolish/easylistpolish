@@ -2298,7 +2298,6 @@ komputerowapasja.pl##div[id^="dolnyobraz"]
 gazetaklobucka.pl##div[id^="gazet-"]
 ttg.com.pl##div[id^="header-banner"]
 nasygnale.com.pl##div[id^="jssor_"]
-tvwlodawa.pl##div[id^="layerslider_"]
 agropolska.pl##div[id^="mediaContent"]
 gazetagazeta.com,lesko.info##div[id^="media_image-"]
 tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
