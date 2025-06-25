@@ -354,6 +354,7 @@ files.librus.pl^*^r_
 ||tarnowiak.pl^*^premium_
 ||tarnowiak.pl^*_wizytowka^
 ||tenis.net.pl^*^mtc.
+||tenismagazyn.pl^*^ezone_
 ||tkaninyobiciowe.eu^*^dik-
 ||transg.pl^*^meblohaus_
 ||tromil.pl^*^parownice-
@@ -371,4 +372,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||tenismagazyn.pl^*^ezone_
