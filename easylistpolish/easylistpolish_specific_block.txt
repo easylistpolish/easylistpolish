@@ -374,3 +374,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kosmetykaaut.pl/uploads/monthly_2025_02/41b998de.jpg.790efa1ad241b3734ff5a0c42baffb6c.jpg
