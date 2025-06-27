@@ -1521,6 +1521,7 @@ leszczynskisport.pl##.wpb_animate_when_almost_visible
 gazetabilgoraj.pl,kliknijwzdrowie.pl,milicka.eu##.wpb_content_element
 okraglemiasto.pl##.wpb_left-to-right
 ipulawy.pl##.wpb_raw_html
+oknonawagrowiec.pl##.wpb_single_image
 elblag24.pl##.wpb_singleimage_heading
 7dni.com.pl##.wpr-promo-box
 wbaziefirm.pl##.wrapper-flash
@@ -2457,4 +2458,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-oknonawagrowiec.pl##.wpb_single_image
