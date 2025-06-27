@@ -373,3 +373,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kosmetologa.pl/wp-content/uploads/2023/03/bioalgi-pk.jpg
