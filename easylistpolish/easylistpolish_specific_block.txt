@@ -376,3 +376,4 @@ files.librus.pl^*^r_
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
 baner_$domain=okkolobrzeg.pl
+||kozienice24.pl/wp-content/uploads/2024/07/zlomotex_anim1-1.gifv
