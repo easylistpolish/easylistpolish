@@ -269,6 +269,7 @@ dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 gazeta-mosina.pl###right .first
+spottedlublin.pl###rotate-group-2
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
 franchising.pl###scContener
@@ -2201,7 +2202,7 @@ ikampinos.pl##div[class*="ad--bill"]
 ipragapoludnie.pl##div[class*="ad--bill-top"]
 infosecurity24.pl##div[class*="ad-banner"]
 elk24.pl##div[class*="ad-type-"]
-gdanszczak.pl,gdyniak.pl##div[class*="adName"]
+gdanszczak.pl,gdyniak.pl,krakusik.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
 golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,promoceny.pl##div[class*="adv"]
@@ -2459,5 +2460,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-spottedlublin.pl###rotate-group-2
-krakusik.pl##div[class*="adName"]
