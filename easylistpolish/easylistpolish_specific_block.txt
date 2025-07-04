@@ -289,6 +289,7 @@ files.librus.pl^*^r_
 ||krasnik24.pl/static/files/inline_images/569/inline__1_2122.png
 ||kreacje.ebroker.pl^$image,domain=max-kasa.pl
 ||kryniczanie.pl^*^ubezpieczenie-na-
+||kryptoporadnik.pl/wp-content/uploads/2020/08/bybit_sid.png
 ||kryptoporadnik.pl/wp-content/uploads/2021/03/binance-dejavu.jpg
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.
@@ -379,4 +380,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kryptoporadnik.pl/wp-content/uploads/2020/08/bybit_sid.png
