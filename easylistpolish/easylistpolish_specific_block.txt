@@ -291,6 +291,7 @@ files.librus.pl^*^r_
 ||kryniczanie.pl^*^ubezpieczenie-na-
 ||kryptoporadnik.pl/wp-content/uploads/2020/08/bybit_sid.png
 ||kryptoporadnik.pl/wp-content/uploads/2021/03/binance-dejavu.jpg
+||kryptoporadnik.pl/wp-content/uploads/2024/06/bnc.jpg
 ||kryptoporadnik.pl/wp-content/uploads/2024/06/bnccccc.png
 ||kryptoporadnik.pl^*^binance_
 ||kryptowaluty.info.pl^*^ezgif.
@@ -381,4 +382,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kryptoporadnik.pl/wp-content/uploads/2024/06/bnc.jpg
