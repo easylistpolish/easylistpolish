@@ -381,3 +381,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kryptoporadnik.pl/wp-content/uploads/2024/06/bnc.jpg
