@@ -383,3 +383,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kuchenny.com.pl/nowe/1001020/10020-ferro-sg-V-2025.jpg
