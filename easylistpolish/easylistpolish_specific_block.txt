@@ -384,3 +384,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kuchenny.com.pl/nowe/3025/3025-laveo-II-2025.jpg
