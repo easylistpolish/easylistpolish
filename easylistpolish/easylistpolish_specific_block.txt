@@ -389,3 +389,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||kuriergmin.pl/static/files/inline_images/540/inline__1_8834.jpg
