@@ -2363,6 +2363,7 @@ pionki24.pl,pulslegnicy.pl##img[alt="spot_img"]
 lubaczow.tv##img[alt^="Ad banner"]
 gf24.pl##img[alt^="Advertisement"]
 gazetasenior.pl##img[alt^="Reklama"]
+label-magazine.com##img[class*="banner"]
 gpd24.pl##img[id*="billboard"]
 pwm.org.pl##img[onload^="countAdView"]
 gazetaostrowska.pl,kolbuszowalokalnie.pl,konin24.info,kurierostrowski.pl##img[src*="Baner"]
@@ -2465,4 +2466,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-label-magazine.com##img[class*="banner"]
