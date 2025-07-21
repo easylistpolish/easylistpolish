@@ -394,3 +394,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lechpoznan.pl/files/cache/0/7/c_725x200_0796ef7388d7558967493ca0984a85081737370475.jpg
