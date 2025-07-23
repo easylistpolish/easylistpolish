@@ -396,3 +396,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||legiobiznes.pl/wp-content/uploads/2019/08/brave-przegl%C4%85darka.gif
