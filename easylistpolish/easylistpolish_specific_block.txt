@@ -395,3 +395,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||legalnybukmacher.net.pl/wp-content/uploads/2023/04/sts-bonus-bez-ruzyka.png
