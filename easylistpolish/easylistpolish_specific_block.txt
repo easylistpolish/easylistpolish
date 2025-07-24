@@ -397,3 +397,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||legiobiznes.pl/wp-content/uploads/2017/07/HITME-Polski-Hosting-WARTO.png
