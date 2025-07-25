@@ -312,6 +312,7 @@ files.librus.pl^*^r_
 ||legalnybukmacher.net.pl/wp-content/uploads/2023/04/sts-bonus-bez-ruzyka.png
 ||legiobiznes.pl/wp-content/uploads/2017/02/320-320-WP.png
 ||legiobiznes.pl/wp-content/uploads/2017/07/HITME-Polski-Hosting-WARTO.png
+||legiobiznes.pl/wp-content/uploads/2019/03/szablony-motywy-templatki-PRESTASHOP.jpg
 ||legiobiznes.pl/wp-content/uploads/2019/08/brave-przegl%C4%85darka.gif
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lilia.doba.pl^$image
@@ -399,4 +400,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||legiobiznes.pl/wp-content/uploads/2019/03/szablony-motywy-templatki-PRESTASHOP.jpg
