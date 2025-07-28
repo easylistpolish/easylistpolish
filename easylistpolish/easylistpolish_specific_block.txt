@@ -404,3 +404,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||legiobiznes.pl/wp-content/uploads/2019/03/szablony-motywy-templatki-DRUPAL.jpg
