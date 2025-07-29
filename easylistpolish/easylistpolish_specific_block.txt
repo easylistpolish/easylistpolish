@@ -405,3 +405,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||legiobiznes.pl/wp-content/uploads/2019/02/One-od-TemplateMonster-ju%C5%BC-nied%C5%82ugo-wystartuje.-Nowy-serwis-dla-Webmaster%C3%B3w-i-nie-tylko%E2%80%A6..png
