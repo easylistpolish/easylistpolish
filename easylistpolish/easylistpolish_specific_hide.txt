@@ -1255,7 +1255,7 @@ infoarchitekta.pl##.rek_baner
 4trucks.pl##.rek_j
 grodzisknews.pl##.rek_wew_nap
 fileland.pl##.reki
-4trucks.pl,panoramakutna.pl##.rekl
+4trucks.pl,letsplej.pl,panoramakutna.pl##.rekl
 panoramakutna.pl##.rekl + center
 panoramakutna.pl##.rekl + div
 autofakty.pl##.rekl_text
@@ -2469,4 +2469,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-letsplej.pl##.rekl
