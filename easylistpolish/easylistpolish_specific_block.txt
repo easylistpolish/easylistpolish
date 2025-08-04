@@ -409,3 +409,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lezajsk4u.pl/wp-content/uploads/2025/07/proj1.jpg
