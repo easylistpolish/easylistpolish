@@ -324,6 +324,7 @@ files.librus.pl^*^r_
 ||legionisci.com/img/fortuna_extras.png
 ||lesko.info/wp-content/uploads/2024/02/architektsidor.gif
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
+||lezajsk4u.pl/wp-content/uploads/2025/07/proj1.jpg
 ||lilia.doba.pl^$image
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
@@ -409,4 +410,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||lezajsk4u.pl/wp-content/uploads/2025/07/proj1.jpg
