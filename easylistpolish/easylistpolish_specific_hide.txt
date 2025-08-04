@@ -2281,6 +2281,7 @@ onet.pl##div[data-section^="ad-flat"]
 olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
 gazeta.pl##div[id*="DFP-011-MIDBOARD"]
+lfc.pl##div[id*="ad"]
 ewyszkow.pl##div[id*="advertisement"]
 ising.pl##div[id*="as-zone"]
 korsokolbuszowskie.pl##div[id*="autoAd"]
@@ -2469,4 +2470,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lfc.pl##div[id*="ad"]
