@@ -563,6 +563,7 @@ olesnicainfo.pl##.adwrapper
 w203.pl##.af_sidebar
 w210.pl##.af_sidebar > center
 dziennikplocki.pl##.after-news-ads
+life4style.pl##.ai-1.ai-rotate
 life4style.pl,newslubuski.pl,sporteuro.pl##.ai-rotate
 codziennikmlawski.pl##.ai-rotate a:not([href^="https://codziennikmlawski.pl"])
 codziennikmlawski.pl,lebork24.info##.ai_widget
@@ -2470,4 +2471,3 @@ wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-life4style.pl##.ai-1.ai-rotate
