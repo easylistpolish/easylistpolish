@@ -1449,7 +1449,8 @@ wylecz.to##.topSeen[data-pingseen^="/log_seen/"]
 mojaniderlandia.pl##.top_banner
 cztery-lapy.pl##.top_banner_wrapper
 mojewronki.pl##.topbar-inner
-liderbudowlany.pl##.topbar.row > .col-lg-9.col-12, .banner.hp-promo
+liderbudowlany.pl##.topbar.row > .col-lg-9.col-12
+liderbudowlany.pl##.topbar.row > .banner.hp-promo
 gazeta-mosina.pl##.topblock
 naszrynek.pl,portalwloclawek.pl##.toplayer
 mpolska24.pl##.tplAds
