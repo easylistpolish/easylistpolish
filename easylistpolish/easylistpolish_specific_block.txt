@@ -410,3 +410,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||litecoin.pl/wp-content/uploads/2021/01/ezgif.com-gif-maker.gif
