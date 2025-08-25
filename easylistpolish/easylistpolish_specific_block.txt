@@ -326,6 +326,7 @@ files.librus.pl^*^r_
 ||leszczynscy.nazwa.pl^$image,xmlhttprequest,domain=zlotowskie.pl
 ||lezajsk4u.pl/wp-content/uploads/2025/07/proj1.jpg
 ||lilia.doba.pl^$image
+||litecoin.pl/wp-content/uploads/2021/01/ezgif.com-gif-maker.gif
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
@@ -410,4 +411,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||litecoin.pl/wp-content/uploads/2021/01/ezgif.com-gif-maker.gif
