@@ -128,6 +128,7 @@ files.librus.pl^*^r_
 ||bobrowniki.tv^*^praca-piekary.
 ||botland.com.pl^*^banery_$script
 ||bstok.pl^*^iparts.
+||bukmacherzy.com/upload/e0/e01et67abaf4780e63/pilkarz-300.jpg
 ||busiarze.com.pl^*^lacus-
 ||busiarze.com.pl^*^Webp.net-
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
@@ -411,4 +412,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||bukmacherzy.com/upload/e0/e01et67abaf4780e63/pilkarz-300.jpg
