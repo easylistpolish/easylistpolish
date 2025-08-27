@@ -383,6 +383,7 @@ files.librus.pl^*^r_
 ||stalowemiasto.pl/colada2^
 ||starysacz.info^*^r3333333.
 ||static2.elektroda.pl^*^menuBarAds^
+||static2.lokalna.news/data/wysiwig/2025/07/29/970x300-odtrucia-wol-1.png
 ||static2.lokalna.news/data/wysiwig/2025/07/29/970x300-wspolpraca-wol-3.png
 ||sterta.pl^$image,domain=olsztyn.com.pl
 ||stoczniowcy.pl^*^jds.
@@ -413,4 +414,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||static2.lokalna.news/data/wysiwig/2025/07/29/970x300-odtrucia-wol-1.png
