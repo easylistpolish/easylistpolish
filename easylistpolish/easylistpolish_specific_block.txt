@@ -414,3 +414,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||static2.lokalna.news/data/wysiwig/2025/07/29/970x300-studenci-wol-2.png
