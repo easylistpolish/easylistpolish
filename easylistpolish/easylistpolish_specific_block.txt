@@ -415,3 +415,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||static2.lokalna24.pl/data/wysiwig/2025/06/13/f8c475b5-cce4-4529-8ed9-d49dd5208af6_1.jpg
