@@ -418,3 +418,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||static2.lokalna24.pl/data/wysiwig/baner_%C5%81ICSO.jpg
