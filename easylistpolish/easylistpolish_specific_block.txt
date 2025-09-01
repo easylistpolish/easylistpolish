@@ -328,6 +328,7 @@ files.librus.pl^*^r_
 ||lezajsk4u.pl/wp-content/uploads/2025/07/proj1.jpg
 ||lilia.doba.pl^$image
 ||litecoin.pl/wp-content/uploads/2021/01/ezgif.com-gif-maker.gif
+||losice.info/static/files/inline_images/583/inline__1_1211.png
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
@@ -419,4 +420,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||losice.info/static/files/inline_images/583/inline__1_1211.png
