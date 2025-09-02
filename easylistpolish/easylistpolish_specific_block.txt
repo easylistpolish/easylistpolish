@@ -330,6 +330,7 @@ files.librus.pl^*^r_
 ||litecoin.pl/wp-content/uploads/2021/01/ezgif.com-gif-maker.gif
 ||losice.info/static/files/inline_images/583/inline__1_1211.png
 ||losice.info/static/files/inline_images/583/inline__1_3469.jpg
+||losice.info/static/files/inline_images/583/inline__1_3935.png
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
@@ -421,4 +422,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||losice.info/static/files/inline_images/583/inline__1_3935.png
