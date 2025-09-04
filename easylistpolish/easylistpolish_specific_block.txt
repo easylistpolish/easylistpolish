@@ -332,6 +332,7 @@ files.librus.pl^*^r_
 ||losice.info/static/files/inline_images/583/inline__1_2465.jpg
 ||losice.info/static/files/inline_images/583/inline__1_3469.jpg
 ||losice.info/static/files/inline_images/583/inline__1_3935.png
+||losice.info/static/files/inline_images/583/inline__1_4286.jpg
 ||losice.info/static/files/inline_images/583/inline__1_9500.png
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
@@ -424,4 +425,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||losice.info/static/files/inline_images/583/inline__1_4286.jpg
