@@ -334,6 +334,7 @@ files.librus.pl^*^r_
 ||losice.info/static/files/inline_images/583/inline__1_3935.png
 ||losice.info/static/files/inline_images/583/inline__1_4286.jpg
 ||losice.info/static/files/inline_images/583/inline__1_9500.png
+||lpu24.pl/wp-content/uploads/2020/11/reklamy-kamera-1a.png
 ||lubartow24.pl/b^
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
@@ -425,4 +426,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||lpu24.pl/wp-content/uploads/2020/11/reklamy-kamera-1a.png
