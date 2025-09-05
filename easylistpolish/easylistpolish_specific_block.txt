@@ -425,3 +425,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lpu24.pl/wp-content/uploads/2020/11/reklamy-kamera-1a.png
