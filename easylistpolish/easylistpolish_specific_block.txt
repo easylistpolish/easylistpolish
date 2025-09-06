@@ -427,3 +427,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lpu24.pl/wp-content/uploads/2020/12/chotek-wrapp2-768x345.png
