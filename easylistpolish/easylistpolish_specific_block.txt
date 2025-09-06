@@ -426,3 +426,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lpu24.pl/wp-content/uploads/2024/02/Baner-JL-1550-x-170-px-1536x168.jpg
