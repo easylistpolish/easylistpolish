@@ -429,3 +429,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lpu24.pl/wp-content/uploads/2024/11/makdom-Lublin-pulawy-1100x456-1-768x318.jpg
