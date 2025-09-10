@@ -1981,6 +1981,7 @@ pfmrc.eu##a[href="https://www.rchubiq.eu"]
 forum.alfaholicy.org##a[href="https://www.ruryturbo.pl/"]
 glamour.pl##a[href="https://www.samsung.com/pl/smartphones/galaxy-s24-ultra/"]
 businesstraveller.pl##a[href="https://www.siemens.com/pl/pl/home.html"]
+lsi-lublin.pl##a[href="https://www.siepomaga.pl/kubus-szwalek"]
 fresh-market.pl##a[href="https://www.sinclair-intl.com/"]
 nanarty.info##a[href="https://www.skimu.cz/pl/"]
 pfmrc.eu##a[href="https://www.skyrc.pl/"]
@@ -2468,4 +2469,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lsi-lublin.pl##a[href="https://www.siepomaga.pl/kubus-szwalek"]
