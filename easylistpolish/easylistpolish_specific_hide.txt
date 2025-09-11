@@ -1975,6 +1975,7 @@ cypr24.eu##a[href="https://www.paphos.pl"]
 czyztak.pl##a[href="https://www.pmicareers.pl"]
 staleo.pl##a[href="https://www.polteknik.pl/"]
 biznestuba.pl##a[href="https://www.portu.pl/?utm_source=pl&utm_medium=banner&utm_campaign=biznes-tuba"]
+lsi-lublin.pl##a[href="https://www.przedszkoleswiatmarzen.pl"]
 samiswoi.news##a[href="https://www.przekazypieniezne.com/"]
 samiswoi.news##a[href="https://www.przekazypieniezne.com/przekazy-mobilne"]
 pfmrc.eu##a[href="https://www.rchubiq.eu"]
@@ -2469,4 +2470,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lsi-lublin.pl##a[href="https://www.przedszkoleswiatmarzen.pl"]
