@@ -2233,6 +2233,7 @@ e-kolo.pl##div[class="col-12 mt-2 mb-2 bg-light text-center p-2 d-none d-sm-bloc
 e-kolo.pl##div[class="container mb-3"]
 e-kolo.pl##div[class="d-none d-sm-block mb-4 mt-0"]
 e-kolo.pl##div[class="d-none d-sm-block text-center"]
+lsi-lublin.pl##div[class="elementor-element elementor-element-97877ca elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides e-widget-swiper"]
 housemarket.pl##div[class="noads p-top-container pageWidth acenter innerTB2x partner-wrap"]
 naekranie.pl##div[class="re prawa-szpalta"]
 informatorbrzeski.pl##div[class="stream-item stream-item-above-header"]
@@ -2470,4 +2471,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lsi-lublin.pl##div[class="elementor-element elementor-element-97877ca elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides e-widget-swiper"]
