@@ -433,3 +433,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||lubin.pl/wp-content/uploads/2025/04/ezgif.com-animated-gif-maker2-2.gif
