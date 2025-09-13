@@ -342,6 +342,7 @@ files.librus.pl^*^r_
 ||lpu24.pl/wp-content/uploads/2024/11/makdom-Lublin-pulawy-1100x456-1-768x318.jpg
 ||lpu24.pl/wp-content/uploads/2025/06/baner-na-lpu-768x288.jpg
 ||lubartow24.pl/b^
+||lubin.pl/wp-content/uploads/2025/05/maly.png
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
@@ -432,4 +433,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||lubin.pl/wp-content/uploads/2025/05/maly.png
