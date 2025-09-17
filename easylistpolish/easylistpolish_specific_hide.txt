@@ -1097,6 +1097,7 @@ cadblog.pl##.mh-header-widget-1
 cadblog.pl##.mh-sidebar-2
 tv.pl##.middle-salesmedia
 ipulawy.pl##.mkd-content-top-holder
+allegrolokalnie.pl##.mlc-offer__sp-offers
 na-pulpit.com,widoczki.com##.mng
 widoczki.com##.mng + .menu + a
 motocykl-online.pl##.mo-optad
