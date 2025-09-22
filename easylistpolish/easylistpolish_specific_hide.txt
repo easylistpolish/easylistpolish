@@ -1371,6 +1371,7 @@ informator-stolicy.pl##.span_r
 doba.pl##.special__box
 eszkola.pl,msze.info,polscyprawnicy.org,procesor.pl,weekendowo.pl,wirtualnemedia.pl##.spolecznoscinet
 interia.pl##.spons-ph
+lukow24.pl##.sponsor
 zielonyogrodek.pl##.sponsored
 zw.com.pl##.sponsoredArticle
 chodzezkijami.pl##.sponsors
@@ -2473,4 +2474,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lukow24.pl##.sponsor
