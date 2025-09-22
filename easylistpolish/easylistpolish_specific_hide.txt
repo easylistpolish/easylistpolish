@@ -47,6 +47,7 @@ hotelinfo24.pl###baner2
 warsztat.pl###baner211
 bham.pl###baner728
 infomare.pl###baneranim
+lukow24.pl###banerki
 portalrolniczy.info###baners
 archispace.pl,grobla.net,hodowle.eu,instalki.pl,lubin.pl###banner
 testynaojcostwo.pl###banner-17
@@ -2472,4 +2473,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-lukow24.pl###banerki
