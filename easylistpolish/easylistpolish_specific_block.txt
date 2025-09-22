@@ -346,6 +346,7 @@ files.librus.pl^*^r_
 ||lubin.pl/wp-content/uploads/2025/04/reklama-animowana-dobryspaw.gif
 ||lubin.pl/wp-content/uploads/2025/05/maly.png
 ||lubin.pl/wp-content/uploads/2025/07/urbex.gif
+||lubuskie24.pl/data/rotator/$image
 ||lwowecki.info^*^03/samson-
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
@@ -436,4 +437,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||lubuskie24.pl/data/rotator/$image
