@@ -168,7 +168,7 @@ e-grajewo.pl###headpartnership
 forum.pasja-informatyki.pl###helbook
 bankier.pl###home-ecom-box
 kujawy.info###homepageUnderEightAds
-mjakmama24.pl,poradnikzdrowie.pl###hook_box_top1
+mjakmama24.pl,poradnikzdrowie.pl,se.pl###hook_box_top1
 hopaj.pl###hopaj_pl_top
 ssangyong.pl###hot_offer
 comparic.pl###icegram_messages_container
@@ -2475,4 +2475,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-se.pl###hook_box_top1
