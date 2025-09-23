@@ -2319,6 +2319,7 @@ gazetagazeta.com,lesko.info##div[id^="media_image-"]
 tonaszregion.pl##div[id^="media_image-"] a:not([href^="http://93.175."])
 capuccino.eu##div[id^="n2-ss-"]
 kurierzamojski.pl##div[id^="nowyk-"]
+jbzd.com.pl##div[id^="oa-360-"]
 se.pl##div[id^="placement"]
 pojezierze.com.pl##div[id^="pojez-"]
 dbpolska.net##div[id^="reklama_"]
@@ -2474,4 +2475,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-jbzd.com.pl##div[id^="oa-360-"]
