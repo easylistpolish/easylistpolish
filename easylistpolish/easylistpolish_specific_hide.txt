@@ -2446,6 +2446,7 @@ blogprezesa.pl##img[title="Binance"]
 meblarskapolska.pl,meblosfera.pl,tapicerstwo.co##img[title="Reklama"]
 wedkarskisprzet.pl##img[width="150"]
 automotivesuppliers.pl##img[width="370"][height="140"]
+rp.pl##ins[class="adsbygoogle"]
 donald.pl##ins[class^="staticpubads"]
 opowiecie.info##li[id^="bunyad_ads_widget-"]
 thinkapple.pl##li[id^="media_image-"]
@@ -2476,4 +2477,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rp.pl##ins[class="adsbygoogle"]
