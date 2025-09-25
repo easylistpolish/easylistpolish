@@ -795,6 +795,7 @@ wlodawa.net##.col-sm-4
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
 43bis.media.pl##.column-right-advertising a:not([href^="http://www.43bis.media.pl"])
 radioccm.pl##.com_reklamy
+rp.pl##.commercial--break
 twojstyl.pl##.commercial--placeholder
 nportal.no##.commercial-top
 mojecoventry.pl##.companies-block-sponsors
@@ -2477,4 +2478,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rp.pl##.commercial--break
