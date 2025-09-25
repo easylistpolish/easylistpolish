@@ -1014,6 +1014,7 @@ katowice24.info##.inner
 ding.pl##.inner-box
 franchising.pl##.innerTopBanner
 money.pl##.insert-top-offer
+rp.pl##.inserted_rtb
 forum.motocyklistow.pl##.ipsSpacer_both
 forum.optymalizacja.com##.ipsWidget_vertical > center img
 elle.pl##.isadv_caption
@@ -2478,4 +2479,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-rp.pl##.inserted_rtb
