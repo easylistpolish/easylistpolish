@@ -463,6 +463,7 @@ biznesalert.pl,facetpo40.pl,interia.pl,styl.fm##.ad-container
 fakty-wwl.pl##.ad-container-1
 promocja.mielec.pl##.ad-image
 filmnet.pl##.ad-ins
+gazeta.pl##.ad-paralax-wrapper
 dziendobry.tvn.pl##.ad-ph
 portalspozywczy.pl##.ad-place-2
 chelmski.eu##.ad-single1
@@ -2479,4 +2480,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##.ad-paralax-wrapper
