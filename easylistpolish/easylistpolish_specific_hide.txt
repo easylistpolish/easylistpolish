@@ -474,6 +474,7 @@ staraoliwa.pl##.ad1
 egospodarka.pl##.ad750
 pomponik.pl##.adStandardTopContainerWraper
 pomponik.pl##.adWraper
+gazeta.pl##.adWrapper
 nowiny.pl##.ad_async_placeholder
 rrs24.net##.ad_img_baner_glowny
 radiofest.pl##.ad_in
@@ -2480,4 +2481,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##.adWrapper
