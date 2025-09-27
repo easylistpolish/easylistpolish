@@ -1,0 +1,82 @@
+name: Elements to be blocked and bugs
+description: Elementy do zablokowania i błędy
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting to EasyListPolish!
+        Before filing an issue, disable your filter list(s) (**Options > Advanced > Filter Lists**) to see if the issue still occurs. If so, continue filing the issue.
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        **IMPORTANT:** Answer carefully and truthfully.
+      options:
+        - label: I verified that this issue is not a duplicate.
+          required: true
+        - label: I did not enable additional filter lists, or I have verified that the issue still occurs without enabling additional filter lists.
+          required: true
+        - label: I agree to [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
+          required: true
+        - label: I did not answer truthfully to **ALL** the above checkboxes.
+          required: false
+  - type: textarea
+    id: specificLink
+    attributes:
+      label: Website(s) where you encounter issues
+      description: |
+        Insert here direct links to the pages, where an element, an ad or a bug occurs.
+        Surround the URLs with backticks `` to prevents the URL from being clickable.
+        Warn with "NSFW" where applicable.
+      placeholder: http://www.example.com
+      render: markdown
+  - type: textarea
+    id: myfilters
+    attributes:
+      label: Used filter lists
+      description: |
+        Go to **Options > Advanced** to see all of your filter lists.
+        If necessary, post the link of an Adblock Plus issue report.
+        https://help.eyeo.com/adblockplus/report-an-issue
+      value: |
+        1. EasyListPolish
+        2.
+        3.
+    validations:
+      required: true
+  - type: dropdown
+    id: OS
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - Linux/Unix
+        - macOS
+        - Android
+        - iOS
+    validations:
+      required: true
+  - type: input
+    id: webBrowser
+    attributes:
+      label: Web browser and version
+      placeholder: Mozilla Firefox 142.0
+    validations:
+      required: true
+  - type: input
+    id: adblocker
+    attributes:
+      label: Adblocker and version
+      placeholder: Adblock Plus 4.25.0
+    validations:
+      required: true
+  - type: textarea
+    id: additionalInfo
+    attributes:
+      label: |
+        Additional information that may be relevant
+      description: |
+        Screenshots, the steps to reproduce the problem (which led to the error) or your method of solving the problem.
+        Post links instead of inline images for screenshots containing Adult material.
+      placeholder:  |
+        Sir, there are a whole bunch of these adverts... .
