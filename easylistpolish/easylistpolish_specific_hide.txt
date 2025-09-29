@@ -1166,6 +1166,7 @@ pulsmedycyny.pl##.npb-g-c-adv
 gostynska.pl##.ns-Placement
 wadowiceonline.pl##.nspArts
 beskidy.news##.o-promo
+gazeta.pl##.o-section__adform
 mgsm.pl##.oa_replacement
 glamour.pl##.obf3564458a184bd7e1325e074fdbfab236
 elle.pl##.obf4056a6921bcc11aae6150cbd9c5b7fbc
@@ -2484,4 +2485,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##.o-section__adform
