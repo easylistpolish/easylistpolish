@@ -908,6 +908,7 @@ konin24.info##.flex-list
 glucholazyonline.com.pl,zlubaczowa.pl##.flexbannergroup
 punkt.media##.flexbannergrouppattern
 www.konstrukcjeinzynierskie.pl##.flexbannergroupreklama-top
+gazeta.pl##.flexibleAdBig
 futbolnews.pl,zzapolowy.com##.floatBox
 terazkrosno.pl##.fluid-imgs
 raportkolejowy.pl##.footbottombar
@@ -2485,4 +2486,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-gazeta.pl##.flexibleAdBig
