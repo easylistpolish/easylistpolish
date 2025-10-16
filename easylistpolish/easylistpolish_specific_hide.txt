@@ -2324,7 +2324,7 @@ starachowicki.eu##div[id^="bills_in_rotation_"] > a:not([href^="https://staracho
 szydlowiecki.eu##div[id^="bills_in_rotation_1_"]
 czest.info##div[id^="block-block-"] a > img
 przemysl24.pl##div[id^="box-rek-"]
-edziecko.pl,haps.pl,kobieta.pl,otomoto.pl,plotek.pl,sport.pl,wyborcza.pl##div[id^="div-gpt-ad-"]
+edziecko.pl,haps.pl,kobieta.pl,olx.pl,otomoto.pl,plotek.pl,sport.pl,wyborcza.pl##div[id^="div-gpt-ad-"]
 komputerowapasja.pl##div[id^="dolnyobraz"]
 gazetaklobucka.pl##div[id^="gazet-"]
 ttg.com.pl##div[id^="header-banner"]
@@ -2491,4 +2491,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-olx.pl##div[id^="div-gpt-ad-"]
