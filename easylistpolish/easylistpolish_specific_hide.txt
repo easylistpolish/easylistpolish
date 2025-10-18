@@ -2268,6 +2268,7 @@ elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 lajfy.com##div[class^="banner-over-"]
 slazag.pl##div[class^="banner__ad-"]
+olx.pl##div[class^="baxter-placeholder--ad-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
@@ -2491,4 +2492,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-olx.pl##div[class^="baxter-placeholder--ad-"]
