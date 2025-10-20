@@ -2300,6 +2300,7 @@ wp.pl##div[data-native-adv]
 wylecz.to##div[data-ohyes="slotseen"]
 forbes.pl##div[data-run-module="local/main_amd.placeholders"]
 onet.pl##div[data-section^="ad-flat"]
+olx.pl##div[data-testid^="qa-advert-"]
 olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
 gazeta.pl##div[id*="DFP-011-MIDBOARD"]
@@ -2492,4 +2493,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-olx.pl##div[data-testid^="qa-advert-"]
