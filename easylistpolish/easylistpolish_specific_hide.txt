@@ -1018,6 +1018,7 @@ pl.gearbest.com##.indexBk
 klodzkieinfo.pl##.infoimage_cont
 dziennik.pl,forsal.pl##.infor-ad
 katowice24.info##.inner
+interia.pl##.inner-ad
 ding.pl##.inner-box
 franchising.pl##.innerTopBanner
 money.pl##.insert-top-offer
@@ -2494,4 +2495,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-interia.pl##.inner-ad
