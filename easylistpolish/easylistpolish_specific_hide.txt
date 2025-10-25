@@ -2487,6 +2487,7 @@ wykop.pl##section[data-label^="ad: sponsored-1"]
 wykop.pl##section[data-label^="ad: sticky-"]
 wykop.pl##section[data-label^="ad: stream-"]
 wykop.pl##section[data-label^="ad: to"]
+tvp.pl##section[id="wallpaper"]
 pabianice.tv##section[id^="adrotate_widgets"]
 poczta.wp.pl##sidebar-feed
 bolec.info##small + a
@@ -2496,4 +2497,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-tvp.pl##section[id="wallpaper"]
