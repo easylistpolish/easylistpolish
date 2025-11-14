@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@adguard/aglint": "^2.0.5"
+    "@adguard/aglint": "^2.1.5"
   }
 }
