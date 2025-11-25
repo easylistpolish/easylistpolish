@@ -604,7 +604,7 @@ gloswielkopolski.pl##.atomsAdsCellModel--top
 gazetakrakowska.pl##.atomsPromotionsBanner
 dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gk24.pl,gs24.pl##.atomsPromotionsBanner__img
 dziennikzachodni.pl##.atomsPromotionsBanner__link
-gol.pl,i.pl,motofakty.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl##.atomsTilePromotionsProduct__promotionWrapper
+gol.pl,i.pl,motofakty.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefakobiet.pl##.atomsTilePromotionsProduct__promotionWrapper
 fors.pl,gamesfanatic.pl,gazetakolobrzeska.pl,polskikosz.pl##.attachment-full
 glospedagogiczny.pl##.auto-pr-block > a
 food-forum.pl##.auto-pr-block__desktop
@@ -2501,4 +2501,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-strefakobiet.pl##.atomsTilePromotionsProduct__promotionWrapper
