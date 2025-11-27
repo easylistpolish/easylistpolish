@@ -348,6 +348,7 @@ files.librus.pl^*^r_
 ||lubin.pl/wp-content/uploads/2025/07/urbex.gif
 ||lubuskie24.pl/data/rotator/$image
 ||lwowecki.info^*^03/samson-
+||magazyn.elubin.pl/wp-content/uploads/2021/09/330X200_1.jpg
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
 ||masztu.pl^*^udzialowiec.
@@ -438,4 +439,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||magazyn.elubin.pl/wp-content/uploads/2021/09/330X200_1.jpg
