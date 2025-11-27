@@ -438,3 +438,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||magazyn.elubin.pl/wp-content/uploads/2021/09/330X200_1.jpg
