@@ -439,3 +439,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||magazynvip.pl/wp-content/webp-express/webp-images/uploads/2025/05/2.png.webp
