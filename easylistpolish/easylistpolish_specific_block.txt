@@ -352,6 +352,7 @@ files.librus.pl^*^r_
 ||magazynvip.pl/wp-content/webp-express/webp-images/uploads/2025/05/2.png.webp
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/assets/js/head.
 ||majsterkowo.pl/wp-content/themes/majsterkowobox/style.
+||majsterkowo.pl/wp-content/uploads/2016/07/najlepsze-akcesoria-scent-work-trening-wechu-fluo-dog-zapach.png?x32958
 ||masztu.pl^*^udzialowiec.
 ||mazury.info.pl^1logo^
 ||meteogroup.pl/meteo/hptool/logo_meteogroup.png
@@ -440,4 +441,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||majsterkowo.pl/wp-content/uploads/2016/07/najlepsze-akcesoria-scent-work-trening-wechu-fluo-dog-zapach.png?x32958
