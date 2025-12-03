@@ -441,3 +441,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||makowonline.pl/wp-content/uploads/2025/08/Swiat_Okien_Makow_1140x250px_pava.jpg
