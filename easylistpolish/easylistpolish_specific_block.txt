@@ -442,3 +442,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||makowonline.pl/wp-content/uploads/2023/12/baranscy.jpeg
