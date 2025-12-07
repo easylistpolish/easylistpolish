@@ -445,3 +445,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||sc.4media.com/data/aqwzxtvn/2025/10/17/750x200-3-1-68f234655420a.gif
