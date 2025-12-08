@@ -357,6 +357,7 @@ files.librus.pl^*^r_
 ||makowonline.pl/wp-content/uploads/2025/02/foto_001-6.jpg
 ||makowonline.pl/wp-content/uploads/2025/03/foto_001-7.jpg
 ||makowonline.pl/wp-content/uploads/2025/08/Swiat_Okien_Makow_1140x250px_pava.jpg
+||mamywsieci.pl/wp-content/uploads/2025/08/A37FFBEA-438B-4084-B9BE-72A3C86A5D38.png.webp
 ||masztu.pl^*^udzialowiec.
 ||mazury.info.pl^1logo^
 ||meteogroup.pl/meteo/hptool/logo_meteogroup.png
@@ -446,4 +447,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||mamywsieci.pl/wp-content/uploads/2025/08/A37FFBEA-438B-4084-B9BE-72A3C86A5D38.png.webp
