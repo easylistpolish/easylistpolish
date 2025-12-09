@@ -447,3 +447,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||mamywsieci.pl/wp-content/uploads/2020/11/facebook-reklama-400x400.jpg.webp
