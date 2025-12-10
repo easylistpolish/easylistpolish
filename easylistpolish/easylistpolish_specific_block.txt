@@ -448,3 +448,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||mamywsieci.pl/wp-content/uploads/2020/11/ad-sidebar_bk-400x488.jpg
