@@ -360,6 +360,7 @@ files.librus.pl^*^r_
 ||mamywsieci.pl/wp-content/uploads/2020/11/ad-sidebar_bk-400x488.jpg
 ||mamywsieci.pl/wp-content/uploads/2020/11/facebook-reklama-400x400.jpg.webp
 ||mamywsieci.pl/wp-content/uploads/2025/08/A37FFBEA-438B-4084-B9BE-72A3C86A5D38.png.webp
+||manager24.pl/wp-content/uploads/2015/04/cafardini.jpg
 ||masztu.pl^*^udzialowiec.
 ||mazury.info.pl^1logo^
 ||meteogroup.pl/meteo/hptool/logo_meteogroup.png
@@ -449,4 +450,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||manager24.pl/wp-content/uploads/2015/04/cafardini.jpg
