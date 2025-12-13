@@ -451,3 +451,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||marketingibiznes.pl/wp-content/uploads/2025/04/ChatGPT-Image-2-kwi-2025-14_20_49-500x500.png
