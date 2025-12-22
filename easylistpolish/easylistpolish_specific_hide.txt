@@ -2167,6 +2167,7 @@ trzoda-chlewna.com.pl##a[target="_blank"]:not([href^="https://www.trzoda-"])
 maratonypolskie.pl##a[target="pw"]
 gazeta-wiesci.pl##a[title*="clicks."] > img
 jaslo4u.pl##a[title="reklama"]
+medonet.pl##ad-default[class*="ads"]
 tvn24.pl##ad-placeholder
 allegro.pl#?#[data-variants-visible]:-abp-contains(Sponsorowane)
 fm.tuba.pl##app-advert
@@ -2503,4 +2504,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-medonet.pl##ad-default[class*="ads"]
