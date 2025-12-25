@@ -372,6 +372,7 @@ files.librus.pl^*^r_
 ||mazury.info.pl^1logo^
 ||meczyki.net.pl/wp-content/uploads/2022/08/fuksiarz-cashback.png
 ||meczyki.net.pl/wp-content/uploads/2022/08/stsonline1000.jpg
+||memy.pl/images/ads/carmoniter-vid-button.mp4
 ||meteogroup.pl/meteo/hptool/logo_meteogroup.png
 ||miastokolobrzeg.pl^*^brico
 ||mmarocks.pl^*^1342x178.
@@ -459,4 +460,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||memy.pl/images/ads/carmoniter-vid-button.mp4
