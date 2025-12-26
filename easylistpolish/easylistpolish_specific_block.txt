@@ -460,3 +460,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miasto-gazeta.pl/wp-content/uploads/2021/06/Kupuj-online_miastogazeta.jpg
