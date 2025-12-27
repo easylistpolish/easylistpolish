@@ -461,3 +461,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miasto-gazeta.pl/wp-content/uploads/2022/07/Baner_728x90px-1536x190.jpg
