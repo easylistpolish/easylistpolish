@@ -462,3 +462,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miastociechocinek.com/images_ciechocinek/banner_city_taxi.jpg
