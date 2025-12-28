@@ -376,6 +376,7 @@ files.librus.pl^*^r_
 ||meteogroup.pl/meteo/hptool/logo_meteogroup.png
 ||miasto-gazeta.pl/wp-content/uploads/2021/06/Kupuj-online_miastogazeta.jpg
 ||miasto-gazeta.pl/wp-content/uploads/2022/07/Baner_728x90px-1536x190.jpg
+||miastociechocinek.com/images_ciechocinek/banner_city_taxi.jpg
 ||miastokolobrzeg.pl^*^brico
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
@@ -462,4 +463,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||miastociechocinek.com/images_ciechocinek/banner_city_taxi.jpg
