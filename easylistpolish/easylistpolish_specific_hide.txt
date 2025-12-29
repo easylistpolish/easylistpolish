@@ -2381,6 +2381,7 @@ tkn24.pl##font[color="SILVER"] + br + a
 elektroda.pl##form[action^="https://www.tme.eu/"]
 gramwzielone.pl#?#.a:-abp-has(.a__title)
 scs.htw.pl##iframe[name="billboard-top"]
+miastoiludzie.pl##iframe[src="https://widgets.mojagazetka.com/widgets/leaflet-carousel?url=https%3A%2F%2Fmiastoiludzie.pl%2Fmoja-gazetka&color=dd3333&useSearchParams=true&city=tarnow&utm_medium=widgets&utm_source=miastoiludzie.pl&hidePartner=true&hideAllLeafletsLink=true"]
 bartekwpodrozy.pl##iframe[src^="https://widget.getyourguide.com/default/"]
 xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
@@ -2504,4 +2505,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-miastoiludzie.pl##iframe[src="https://widgets.mojagazetka.com/widgets/leaflet-carousel?url=https%3A%2F%2Fmiastoiludzie.pl%2Fmoja-gazetka&color=dd3333&useSearchParams=true&city=tarnow&utm_medium=widgets&utm_source=miastoiludzie.pl&hidePartner=true&hideAllLeafletsLink=true"]
