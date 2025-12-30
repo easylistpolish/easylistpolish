@@ -463,3 +463,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miastoiludzie.pl/wp-content/uploads/2025/07/Libre-auto-a4-734x1024-1.jpg
