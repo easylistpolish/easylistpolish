@@ -464,3 +464,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miechowski.pl/wp-content/uploads/2021/05/Volvo-do-slubu-miechowski-pl-a-1.jpg
