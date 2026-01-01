@@ -380,6 +380,7 @@ files.librus.pl^*^r_
 ||miastoiludzie.pl/wp-content/uploads/2025/07/Libre-auto-a4-734x1024-1.jpg
 ||miastokolobrzeg.pl^*^brico
 ||miechowski.pl/wp-content/uploads/2021/05/Volvo-do-slubu-miechowski-pl-a-1.jpg
+||miechowski.pl/wp-content/uploads/2023/10/wynajem-Busa-Grzegorz-P.jpg
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
 ||motocykle125.pl^*^junak^$subdocument
@@ -465,4 +466,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||miechowski.pl/wp-content/uploads/2023/10/wynajem-Busa-Grzegorz-P.jpg
