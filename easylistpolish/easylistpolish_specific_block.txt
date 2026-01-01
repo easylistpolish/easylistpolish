@@ -465,3 +465,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miechowski.pl/wp-content/uploads/2023/10/wynajem-Busa-Grzegorz-P.jpg
