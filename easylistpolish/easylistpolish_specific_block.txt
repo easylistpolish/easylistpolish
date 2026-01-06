@@ -469,3 +469,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miedzyrzec.info/media_site/cache/03/06/03065734ebda58ddae1b44a95f275e47.jpg
