@@ -1420,6 +1420,7 @@ biznesregion.pl,super-nowa.pl,zywiecsupernowa.pl##.syl-baner-place
 skarzysko24.pl##.t3-sidebar .custom a
 tabletowo.pl##.tabad
 tabletowo.pl##.table-adlabel
+miedzyrzecz.biz##.td-a-rec
 dzisiajwgliwicach.pl,gazetaregionalna.com##.td-a-rec a
 netkonkret.pl##.td-a-rec-id-custom-spot
 24klodzko.pl##.td-a-rec-id-header
@@ -2506,4 +2507,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-miedzyrzecz.biz##.td-a-rec
