@@ -270,6 +270,7 @@ gada.pl###reklama_gazetowa
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
+miejscawewroclawiu.pl###rev_slider_1_1_wrapper
 zycierolnika.pl###right .banneritem
 gazeta-mosina.pl###right .first
 spottedlublin.pl###rotate-group-2
@@ -2509,4 +2510,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-miejscawewroclawiu.pl###rev_slider_1_1_wrapper
