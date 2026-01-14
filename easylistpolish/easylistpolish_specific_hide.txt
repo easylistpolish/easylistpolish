@@ -2235,6 +2235,7 @@ kurierlubelski.pl##div[class*="Promotions"]
 elita-magazyn.pl,ewyszkow.pl,gazetaprawna.pl,gpr24.pl,kaliszak.pl,katowiczak.pl,krosno24.pl##div[class*="ad"]
 ikampinos.pl##div[class*="ad--bill"]
 ipragapoludnie.pl##div[class*="ad--bill-top"]
+milmag.pl##div[class*="ad--image"]
 infosecurity24.pl##div[class*="ad-banner"]
 elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl,krakusik.pl##div[class*="adName"]
@@ -2512,4 +2513,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-milmag.pl##div[class*="ad--image"]
