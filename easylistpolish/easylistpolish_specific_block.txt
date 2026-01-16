@@ -470,3 +470,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||miziaforum.com/wp-content/uploads/2024/04/SWIERADOW.jpg
