@@ -472,3 +472,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||mmarocks.pl/wp-content/uploads/2024/12/Kody-1110x200-MMAROCKS.jpg
