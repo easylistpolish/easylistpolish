@@ -387,6 +387,7 @@ files.librus.pl^*^r_
 ||miedzyrzec.info/media_site/cache/ef/6c/ef6c5dbb7a7d845a3610bde376568ace.jpg
 ||miziaforum.com/wp-content/uploads/2024/04/SWIERADOW.jpg
 ||miziaforum.com/wp-content/uploads/2024/05/obraz_2024-05-25_191233793.png
+||mmarocks.pl/wp-content/uploads/2024/12/Kody-1110x200-MMAROCKS.jpg
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
 ||motocykle125.pl^*^junak^$subdocument
@@ -472,4 +473,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||mmarocks.pl/wp-content/uploads/2024/12/Kody-1110x200-MMAROCKS.jpg
