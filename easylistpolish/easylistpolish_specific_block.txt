@@ -474,3 +474,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||mmarocks.pl/nma/banery/20250405/500x300.jpg
