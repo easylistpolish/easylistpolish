@@ -220,6 +220,7 @@ glamrap.pl,goleniowska.com,swinoujskie.info###mvp-leader-wrap
 e-kolo.pl###myModal
 glosseniora.pl###n2-ss-5
 lublin112.pl###native-ad
+mobilneforum.pl###navbar_notice_326
 maslow.info.pl###newsflash2 a[target="_blank"] > img
 nowezyciepabianic.pl###nzp_ad_above_header
 wynagrodzenia.pl###obw-ad.modal
@@ -2514,4 +2515,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-mobilneforum.pl###navbar_notice_326
