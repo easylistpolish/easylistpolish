@@ -475,3 +475,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||i0.wp.com/mobirank.pl/wp-content/uploads/2025/03/banner-20-proc-rabatu-nazwa-pl.webp?w=1110&ssl=1
