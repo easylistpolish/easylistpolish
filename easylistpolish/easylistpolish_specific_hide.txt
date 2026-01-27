@@ -152,6 +152,7 @@ telewizja.lukow.pl###frontpage-area_b_2
 tylkotorun.pl###fsp_light
 naszatve.pl###gk-banner-top
 tvswietokrzyska.pl###gkBannerReklama1
+mojejaworzno.pl###gkBannerTop
 spottedskarzysko.pl,zd24.pl###gkMainbodyTop
 spottedskarzysko.pl,spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
 spliff.pl###gkRight
@@ -2517,4 +2518,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-mojejaworzno.pl###gkBannerTop
