@@ -393,6 +393,7 @@ files.librus.pl^*^r_
 ||mmarocks.pl/wp-content/uploads/2025/10/babilonmma.jpg
 ||mmarocks.pl^*^1342x178.
 ||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
+||mojlask.pl/wp-content/uploads/2025/10/pcm.jpg
 ||motocykle125.pl^*^junak^$subdocument
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||niebiescy.pl^*^icservice_
@@ -476,4 +477,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||mojlask.pl/wp-content/uploads/2025/10/pcm.jpg
