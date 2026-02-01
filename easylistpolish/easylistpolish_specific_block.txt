@@ -479,3 +479,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||mojlask.pl/wp-content/uploads/2025/01/fotomichael-y7-1536x1097.jpg
