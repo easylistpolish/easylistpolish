@@ -2322,7 +2322,7 @@ olx.pl##div[data-testid^="qa-advert-"]
 olx.pl##div[data-testid^="qa-advert-slot"]
 cypr24.eu##div[data-widget="wak-search"]
 gazeta.pl##div[id*="DFP-011-MIDBOARD"]
-mobilneforum.pl,mojlask.pl##div[id*="ad"]
+mobilneforum.pl,mojlask.pl,moto.pl##div[id*="ad"]
 ewyszkow.pl##div[id*="advertisement"]
 ising.pl##div[id*="as-zone"]
 korsokolbuszowskie.pl##div[id*="autoAd"]
@@ -2518,4 +2518,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-moto.pl##div[id*="ad"]
