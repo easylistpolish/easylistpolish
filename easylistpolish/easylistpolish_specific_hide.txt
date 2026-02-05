@@ -2249,6 +2249,7 @@ ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl,halogorlice.info,kociewiak.pl##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
+motofaktor.pl##div[class*="angwp"]
 gp24.pl##div[class*="atomsAdsCellModel"]
 gp24.pl##div[class*="atomsPromotionsBanner"]
 grafoteka.pl,independenttrader.pl##div[class*="baner"]
@@ -2518,4 +2519,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-motofaktor.pl##div[class*="angwp"]
