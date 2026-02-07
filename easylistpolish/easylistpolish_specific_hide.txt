@@ -1043,6 +1043,7 @@ zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
 kodiwpigulce.pl##.jaw-banner
 londynek.net##.jd-40Z
 londynek.net##.jd-oaz-d
+motofilm.pl##.jedynka
 telewizjazary.pl##.jeg_bottombar
 mma.pl##.js-sitehead-ads
 piekary.info##.jsRender
@@ -2520,4 +2521,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-motofilm.pl##.jedynka
