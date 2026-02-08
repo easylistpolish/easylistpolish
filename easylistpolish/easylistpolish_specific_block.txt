@@ -398,6 +398,7 @@ files.librus.pl^*^r_
 ||mojlask.pl/wp-content/uploads/2025/10/NZP1-1-1536x311.jpg
 ||mojlask.pl/wp-content/uploads/2025/10/pcm.jpg
 ||motocykle125.pl^*^junak^$subdocument
+||motohigh.pl/wp-content/uploads/2022/01/ucando-mp4.mp4
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
@@ -480,4 +481,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||motohigh.pl/wp-content/uploads/2022/01/ucando-mp4.mp4
