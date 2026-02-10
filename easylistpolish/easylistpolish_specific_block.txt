@@ -482,3 +482,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||motohigh.pl/wp-content/uploads/2024/11/baner-protipster.jpg
