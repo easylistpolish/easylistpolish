@@ -483,3 +483,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||motohigh.pl/wp-content/uploads/2020/09/autoczescionline24baner.png
