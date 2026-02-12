@@ -2399,6 +2399,7 @@ bartekwpodrozy.pl##iframe[src^="https://widget.getyourguide.com/default/"]
 xlomza.pl##img.uk-margin-top
 wladek.pl##img[alt$="eklama"]
 jakzrobicwexcelu.pl##img[alt$="reklama"]
+motohigh.pl##img[alt*="Ad"]
 wirtualnekosmetyki.pl##img[alt*="baner szeroki"]
 infoskierniewice.pl##img[alt*="baner"]
 gazetawalbrzych.pl,gloskrakowa.pl##img[alt*="sponsorowane"]
@@ -2521,4 +2522,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-motohigh.pl##img[alt*="Ad"]
