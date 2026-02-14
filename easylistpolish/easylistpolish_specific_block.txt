@@ -402,6 +402,7 @@ files.librus.pl^*^r_
 ||motohigh.pl/wp-content/uploads/2022/01/ucando-mp4.mp4
 ||motohigh.pl/wp-content/uploads/2024/11/baner-protipster.jpg
 ||motohigh.pl/wp-content/uploads/2025/03/OPONEO-LATO.mp4
+||motormag.pl/wp-content/uploads/2022/03/Yokohama_motor-baner.png.webp
 ||nevicom.pl/wyswietl_baner.$script,third-party
 ||niebiescy.pl^*^icservice_
 ||niebiescy.pl^*^iparts_
@@ -484,4 +485,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||motormag.pl/wp-content/uploads/2022/03/Yokohama_motor-baner.png.webp
