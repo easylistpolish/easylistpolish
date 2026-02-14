@@ -484,3 +484,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||motormag.pl/wp-content/uploads/2022/03/Yokohama_motor-baner.png.webp
