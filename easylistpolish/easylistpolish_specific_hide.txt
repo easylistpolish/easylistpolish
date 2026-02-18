@@ -1571,6 +1571,7 @@ waw4free.pl##.zobacz-box
 waw4free.pl##.zobacz-box-text
 muratordom.pl,urzadzamy.pl##.zpr-block
 eska.pl##.zpr_bottom_1
+muratordom.pl##.zpr_box_half_page
 eskarock.pl,muratordom.pl,poradnikzdrowie.pl,voxfm.pl##.zpr_box_half_page2
 muratordom.pl,poradnikzdrowie.pl,se.pl##.zpr_box_half_page3
 eska.pl##.zpr_box_side_bottom
@@ -2523,4 +2524,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-muratordom.pl##.zpr_box_half_page
