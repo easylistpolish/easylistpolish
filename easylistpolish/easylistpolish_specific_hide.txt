@@ -2262,7 +2262,7 @@ gazetawroclawska.pl##div[class*="componentsPromotions"]
 gp24.pl,gra.pl##div[class*="componentsPromotionsListWithTabs"]
 ibielsk.pl##div[class*="grid__ad"]
 janwedzi.pl##div[class*="promo"]
-grylogiczne.biz.pl##div[class*="reklama"]
+grylogiczne.biz.pl,nakolei.pl##div[class*="reklama"]
 miechowski.pl##div[class*="sgpb-popup-"]
 krokdozdrowia.com##div[class*="sponsored"]
 jasnet.pl##div[class*="swiper-slide"]
@@ -2524,4 +2524,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nakolei.pl##div[class*="reklama"]
