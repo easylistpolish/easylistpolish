@@ -2430,7 +2430,7 @@ gazetakolobrzeska.pl##img[src*="baner-"]
 gazeo.pl##img[src*="banerek"]
 eswinoujscie.pl##img[src*="banerr"]
 motopodhale.info##img[src*="banery"]
-elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl,iwonka-bloguje.blogspot.com,jadarhobby.pl,kathyleonia88.blogspot.com,kkslech.com,kobiety-kobietom.com,legalniewsieci.pl##img[src*="banner"]
+elblag24.pl,eskatt.pl,evertiq.pl,forumpps.pl,glokalna.pl,glos.pl,gopoznan.pl,iwonka-bloguje.blogspot.com,jadarhobby.pl,kathyleonia88.blogspot.com,kkslech.com,kobiety-kobietom.com,legalniewsieci.pl,nano-reef.pl##img[src*="banner"]
 jablonka.info,klassikauto.pl##img[src*="banners"]
 funkcje.net##img[src*="bannery"]
 iturek.net##img[src*="bram"]
@@ -2524,4 +2524,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nano-reef.pl##img[src*="banner"]
