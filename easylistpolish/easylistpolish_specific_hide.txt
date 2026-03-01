@@ -1909,6 +1909,7 @@ gpd24.pl##a[href="https://gpd24.pl"]
 gazetatrybunalska.info##a[href="https://graffiti24.pl/"]
 fresh-market.pl##a[href="https://greensolutions.eu/"]
 centrumwitalnosci.pl##a[href="https://hurompolska.pl/wyciskarka-h200-easy-plus/"]
+narew.info##a[href="https://ibisstylesbialystok.pl/"]
 wiesci.com.pl##a[href="https://instalatorsanitarny.com.pl/"]
 elektroda.pl##a[href="https://jlcpcb.com/?from=REP"]
 gazetakolobrzeska.pl##a[href="https://kolobrzeg.praca.gov.pl/oferty-pracy"]
@@ -2524,4 +2525,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-narew.info##a[href="https://ibisstylesbialystok.pl/"]
