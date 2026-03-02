@@ -2525,3 +2525,4 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+narew.info##a[href="https://www.narew.info/artykul/32867,nowosci-od-mlekpolu-laciaty-protein-w-letniej-odslonie"]
