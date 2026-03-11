@@ -818,6 +818,7 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbyd
 gol.pl,i.pl,motofakty.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefakobiet.pl##.componentsPromotionsArticlePromotedList__list
 dziennikzachodni.pl##.componentsPromotionsArticlePromotedList__wrapper
 dziennikzachodni.pl##.componentsPromotionsListWithSlider__listWrapper
+naszemiasto.pl##.componentsPromotionsOffers__mark
 gazetalubuska.pl,gloswielkopolski.pl##.componentsPromotionsPromoted
 gazetalubuska.pl##.componentsPromotionsPromotedList
 strefaagro.pl,strefabiznesu.pl,stronakobiet.pl##.componentsPromotionsPromotedList__list
@@ -2533,4 +2534,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-naszemiasto.pl##.componentsPromotionsOffers__mark
