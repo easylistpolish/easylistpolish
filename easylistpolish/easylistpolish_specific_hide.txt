@@ -728,6 +728,7 @@ fabrykasily.pl##.bg-link-right
 pcworld.pl##.bilbo_ad
 4trucks.pl##.bilbord
 ddtorun.pl,ddwloclawek.pl,faktypilskie.pl,gazeo.pl,itvszubin.pl,koronowo.net.pl,koscianiak.pl,naszraciborz.pl,portalzamojski.pl,sieradz.com.pl,teksty.org,traktorpool.pl,twojapogoda.pl,zyciesiedleckie.pl##.billboard
+naszradziejow.pl##.blackweek--even
 nowa-sprzedaz.pl##.block .auto-pr-block
 tvrepublika.pl##.block--type-advertisement
 grojeckie24.pl##.block-image > .imageblock-image
@@ -2534,4 +2535,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-naszradziejow.pl##.blackweek--even
