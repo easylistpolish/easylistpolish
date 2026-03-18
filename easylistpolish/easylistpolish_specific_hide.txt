@@ -2256,6 +2256,7 @@ elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl,krakusik.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
+natemat.pl##div[class*="adslot"]
 golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,kuriergmin.pl,lipno-cli.pl,promoceny.pl##div[class*="adv"]
 ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
@@ -2535,4 +2536,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-natemat.pl##div[class*="adslot"]
