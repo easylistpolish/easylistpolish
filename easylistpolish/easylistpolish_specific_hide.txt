@@ -2318,6 +2318,7 @@ b1.pl##div[class^="header_"]
 transfermarkt.pl##div[class^="werbung"]
 se.pl##div[class^="zpr_inside"]
 bithub.pl##div[data-adid] > a[href^="https://"]
+nbi.com.pl##div[data-ads*="banners"]
 bielsko.info,cieszyn.news##div[data-ads-id]
 cafesenior.pl##div[data-adslot-id]
 goleniowska.com##div[data-advadstrackid]
@@ -2537,4 +2538,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nbi.com.pl##div[data-ads*="banners"]
