@@ -1784,7 +1784,7 @@ gazetamyszkowska.pl##a[href*="norwit.pl"]
 badaniaprenatalne.pl##a[href*="ojcostwoprenatalne.pl"]
 badaniaprenatalne.pl##a[href*="poradagenetyka.pl"]
 naszarola.pl##a[href*="procam.pl"]
-infoskierniewice.pl,kaliszak.pl,leczna24.pl##a[href*="reklama"]
+infoskierniewice.pl,kaliszak.pl,leczna24.pl,nedds24.pl##a[href*="reklama"]
 kathyleonia88.blogspot.com##a[href*="shopmascot"]
 igrit.pl##a[href*="solan"]
 narew.info##a[href*="strusdevelopment.pl"]
@@ -2538,4 +2538,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nedds24.pl##a[href*="reklama"]
