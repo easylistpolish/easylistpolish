@@ -492,3 +492,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nolesnica.pl/static/files/gallery/68/f0756-GRAFIKA-1000X100.png
