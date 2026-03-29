@@ -415,6 +415,7 @@ files.librus.pl^*^r_
 ||niebiescy.pl^*^iparts_
 ||niebiescy.pl^*^piroshop_
 ||niebiescy.pl^*^stefanik_
+||nolesnica.pl/static/files/gallery/68/f0756-GRAFIKA-1000X100.png
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
@@ -492,4 +493,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||nolesnica.pl/static/files/gallery/68/f0756-GRAFIKA-1000X100.png
