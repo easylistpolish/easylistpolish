@@ -493,3 +493,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nolesnica.pl/static/files/gallery/68/481aa-banner_1000x100.jpg
