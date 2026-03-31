@@ -494,3 +494,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nowagazeta.pl/static/files/gallery/176/9558d-BANERY_MR_1000x300.jpg
