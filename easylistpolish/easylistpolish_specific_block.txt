@@ -495,3 +495,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||cdn.cmc-gallery.pl/static/files/gallery/564/80060-Oferta---wi--teczna--2-.png
