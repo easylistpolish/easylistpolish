@@ -2344,7 +2344,7 @@ ewyszkow.pl##div[id*="advertisement"]
 ising.pl##div[id*="as-zone"]
 korsokolbuszowskie.pl##div[id*="autoAd"]
 lajfy.com##div[id*="banner"]
-infokonin.com.pl,jaw.pl##div[id*="bills"]
+infokonin.com.pl,jaw.pl,nowawrzesnia.pl##div[id*="bills"]
 lesko.info##div[id*="block"]
 kanal10.pl##div[id*="superbanner"]
 rekomendowanefirmy.pl##div[id^="AD-"]
@@ -2539,4 +2539,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowawrzesnia.pl##div[id*="bills"]
