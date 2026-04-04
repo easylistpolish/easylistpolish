@@ -419,6 +419,7 @@ files.librus.pl^*^r_
 ||nolesnica.pl/static/files/gallery/68/481aa-banner_1000x100.jpg
 ||nolesnica.pl/static/files/gallery/68/f0756-GRAFIKA-1000X100.png
 ||nowagazeta.pl/static/files/gallery/176/9558d-BANERY_MR_1000x300.jpg
+||nowemiasto.com.pl/files/gminanml2.webp
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
@@ -496,4 +497,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||nowemiasto.com.pl/files/gminanml2.webp
