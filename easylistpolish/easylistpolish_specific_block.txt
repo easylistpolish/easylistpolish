@@ -497,3 +497,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nowepomorze.pl/templates/yootheme/cache/86/Natur-House-8635256a.webp
