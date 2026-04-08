@@ -422,6 +422,7 @@ files.librus.pl^*^r_
 ||nowemiasto.com.pl/files/gminanml2.webp
 ||nowepomorze.pl/templates/yootheme/cache/86/Natur-House-8635256a.webp
 ||nowezyciepabianic.pl/wp-content/uploads/2025/12/MIKOLAJKI-W-KINIE-TOMI-800-x-800-px-1.gif
+||nowezyciepabianic.pl/wp-content/uploads/2025/12/PABIANMEDJPG-700x400.jpg
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
@@ -499,4 +500,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||nowezyciepabianic.pl/wp-content/uploads/2025/12/PABIANMEDJPG-700x400.jpg
