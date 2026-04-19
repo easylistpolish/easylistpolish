@@ -509,3 +509,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nowinynyskie.com.pl/static/files/inline_images/156/inline__1_7438.png
