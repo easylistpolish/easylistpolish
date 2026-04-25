@@ -137,6 +137,7 @@ files.librus.pl^*^r_
 ||cdn.cmc-gallery.pl/static/files/gallery/156/54455-Kamiennik-BN-2025.jpg
 ||cdn.cmc-gallery.pl/static/files/gallery/156/76194-herbalife.jpg
 ||cdn.cmc-gallery.pl/static/files/gallery/156/aee94-Omega.JPG
+||cdn.cmc-gallery.pl/static/files/gallery/156/e040a-G--ucho--azy-BN_prasa..jpg
 ||cdn.cmc-gallery.pl/static/files/gallery/564/80060-Oferta---wi--teczna--2-.png
 ||cdn.gallery^*^files^$image,domain=szczecinek.com
 ||cdn.sterta.pl^$domain=rusz.pl
@@ -514,4 +515,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||cdn.cmc-gallery.pl/static/files/gallery/156/e040a-G--ucho--azy-BN_prasa..jpg
