@@ -516,3 +516,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||noworudzianin.pl/WWW/wp-content/uploads/2016/10/wizytowka-Gora-%C5%9Bw.-Anny.jpg
