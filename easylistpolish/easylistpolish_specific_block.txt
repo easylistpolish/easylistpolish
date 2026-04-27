@@ -439,6 +439,7 @@ files.librus.pl^*^r_
 ||nowinynyskie.com.pl/static/files/inline_images/156/inline__1_6385.jpg
 ||nowinynyskie.com.pl/static/files/inline_images/156/inline__1_662.png
 ||nowinynyskie.com.pl/static/files/inline_images/156/inline__1_7438.png
+||noworudzianin.pl/WWW/wp-content/uploads/2016/10/wizytowka-Gora-%C5%9Bw.-Anny.jpg
 ||odkryjpomorze.pl^*^loga_prawa_
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
@@ -516,4 +517,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||noworudzianin.pl/WWW/wp-content/uploads/2016/10/wizytowka-Gora-%C5%9Bw.-Anny.jpg
