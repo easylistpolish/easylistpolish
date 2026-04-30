@@ -517,3 +517,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||nowy-sacz.info/wp-content/uploads/2025/12/BN_26_970X280.jpg
