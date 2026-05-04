@@ -2544,3 +2544,4 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+nowytydzien.pl##img[src="https://www.nowytydzien.pl/wp-content/uploads/2025/12/07-nowy-tydzien-700x300-png.jpg"]
