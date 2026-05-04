@@ -2495,6 +2495,7 @@ skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Ska
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_agawaKW.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
 konstrukcjeinzynierskie.pl##img[src="https://www.konstrukcjeinzynierskie.pl/images/banners/zwcad_2024.jpg"]
+nowytydzien.pl##img[src="https://www.nowytydzien.pl/wp-content/uploads/2025/12/07-nowy-tydzien-700x300-png.jpg"]
 2x45.info##img[src="images/pictures/Mostbet.gif"]
 igostyn.pl,ipleszew.pl##img[src="tmpln/images/rek_1250.webp"]
 naszkostrzyn.pl##img[src^="/images/banners/"]
@@ -2544,4 +2545,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowytydzien.pl##img[src="https://www.nowytydzien.pl/wp-content/uploads/2025/12/07-nowy-tydzien-700x300-png.jpg"]
