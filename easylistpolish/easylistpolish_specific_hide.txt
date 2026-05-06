@@ -1808,6 +1808,7 @@ footbar.info##a[href="/go/betclic"]
 emecze.pl##a[href="/go/canalonline"]
 footbar.info##a[href="/go/fortuna"]
 kaliszak.pl##a[href="/praca-magisterska-licencjat-profesjonalna-pomoc-137660"]
+nowytydzien.pl##a[href="/reklama-w-chelmie/"]
 bydgoszczak.pl##a[href="/strona/reklama"]
 blogbukmacherski.pl##a[href="fuksiarz"]
 gotujzmaka.blogspot.com##a[href="http://aduparosnie.pl"]
@@ -2546,4 +2547,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowytydzien.pl##a[href="/reklama-w-chelmie/"]
