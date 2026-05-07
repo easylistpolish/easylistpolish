@@ -1982,6 +1982,7 @@ audiostereo.pl##a[href="https://www.audiostereo.pl/index.php?app=core&module=sys
 chillitorun.pl,ddb24.pl##a[href="https://www.autoczescionline24.pl/"]
 nadmorski24.pl##a[href="https://www.autodoc.pl/"]
 bobasmiesiaca.pl##a[href="https://www.autoscribe.online/"]
+nowytydzien.pl##a[href="https://www.betaprim.pl/"]
 bielsko.info##a[href="https://www.bielsko.info/reklama"]
 gazetakolobrzeska.pl##a[href="https://www.bricomarche.pl/gazetka/bricomarche-kolobrzeg"]
 biokurier.pl##a[href="https://www.cobico.pl/produkcja-ekologiczna"]
@@ -2547,4 +2548,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowytydzien.pl##a[href="https://www.betaprim.pl/"]
