@@ -1841,6 +1841,7 @@ beskid-niski.pl##a[href="http://www.banica.com.pl/"]
 elektroda.pl##a[href="http://www.biall.com.pl/sklep.html#"]
 cypr24.eu##a[href="http://www.bluenetcyprus.com/"]
 fishing-test.pl##a[href="http://www.corona-fishing.pl/Katalog,produktow/St._Croix/4"]
+nowytydzien.pl##a[href="http://www.eassyklik.pl/"]
 infoskierniewice.pl##a[href="http://www.ecskierniewice.pl"]
 chwaszczyno.pl##a[href="http://www.eko-krusz.pl/"]
 forum.ebiznesy.pl##a[href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=1506_5_1_20"]
@@ -2548,4 +2549,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nowytydzien.pl##a[href="http://www.eassyklik.pl/"]
