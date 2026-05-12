@@ -604,7 +604,7 @@ neonet.pl##.as-wallpaper_right
 posbud.com.pl##.as_marquee0
 astar.czest.pl##.asad
 businesstraveller.pl##.atbd
-gazetalubuska.pl##.atomsAdsCellMode
+gazetalubuska.pl,nto.pl##.atomsAdsCellMode
 i.pl,naszemiasto.pl,nowosci.com.pl,strefaagro.pl,strefakobiet.pl##.atomsAdsCellModel
 gloswielkopolski.pl##.atomsAdsCellModel--top
 gazetakrakowska.pl##.atomsPromotionsBanner
@@ -2550,4 +2550,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-nto.pl##.atomsAdsCellMode
