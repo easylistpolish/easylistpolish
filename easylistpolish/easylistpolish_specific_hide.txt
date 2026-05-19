@@ -502,6 +502,7 @@ zeglarski.info##.add-box
 karnickie.info##.adds
 rybnik.com.pl,tuwodzislaw.pl##.addv-container
 echosredzkie.pl,express-miejski.pl##.adesplace
+odzywianie.hellozdrowie.pl##.adf-cont
 chelmski.eu##.adigli
 gazetabilgoraj.pl##.adloc-before-header
 gazetabilgoraj.pl##.adloc-leftskyscraper
@@ -2551,4 +2552,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-odzywianie.hellozdrowie.pl##.adf-cont
