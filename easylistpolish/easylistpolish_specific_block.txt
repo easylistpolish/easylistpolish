@@ -445,6 +445,7 @@ files.librus.pl^*^r_
 ||oborniki.com.pl/wp-content/uploads/2021/03/LOK-768x1087.png
 ||oborniki.com.pl/wp-content/uploads/2021/03/LOK.png
 ||odkryjpomorze.pl^*^loga_prawa_
+||off-road.pl/wp-content/uploads/2025/05/01-3.jpg
 ||off-road.pl/wp-content/uploads/2025/05/jeep-academy-1.jpg
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ok24.tv^*^06/lasvegan.
@@ -523,4 +524,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||off-road.pl/wp-content/uploads/2025/05/01-3.jpg
