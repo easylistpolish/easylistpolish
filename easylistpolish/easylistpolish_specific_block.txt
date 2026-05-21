@@ -524,3 +524,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||off-road.pl/wp-content/uploads/2025/05/DORTP_TV_dacia_renault_outdoor_events-1.jpg
