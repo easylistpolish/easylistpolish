@@ -450,6 +450,7 @@ files.librus.pl^*^r_
 ||off-road.pl/wp-content/uploads/2025/05/jeep-academy-1.jpg
 ||ogloszeniarolnicze.com.pl^**^mkw-nowa.
 ||ogrodinfo.pl/wp-content/uploads/2020/11/AnP_Banner_320x100_a.jpg
+||ogrodinfo.pl/wp-content/uploads/2020/11/komunikaty-sadownicze-320x100-1.gif
 ||ok24.tv^*^06/lasvegan.
 ||partner.rankomat.pl^$domain=skionline.pl
 ||pfcc.eu^*^automaty.
@@ -526,4 +527,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||ogrodinfo.pl/wp-content/uploads/2020/11/komunikaty-sadownicze-320x100-1.gif
