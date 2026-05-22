@@ -525,3 +525,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||ogrodinfo.pl/wp-content/uploads/2020/11/AnP_Banner_320x100_a.jpg
