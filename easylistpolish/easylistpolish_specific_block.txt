@@ -527,3 +527,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||okazjepodroznika.pl/wp-content/uploads/2019/06/okazje-podroznika-CR-728_100.gif
