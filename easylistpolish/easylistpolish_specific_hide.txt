@@ -2501,6 +2501,7 @@ skawina24.com##img[src="https://projektestart.cfolks.pl/skawina24/wp-content/upl
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/Garstka-64b929d421ce2.jpg"]
 tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/28/banery-"]
 olesnica24.com##img[src="https://sc.4media.com/data/aqwzxtvn/2024/09/17/tablica-www-66e952460f216.jpg"]
+olesnica24.com##img[src="https://sc.4media.com/data/aqwzxtvn/2025/12/30/SZOCZEWKI-695399c2900b2.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/belka_agawaKW.jpg"]
 skawina24.com##img[src="https://skawina24.com/wp-content/uploads/2023/08/stachyra_664x177.jpg"]
@@ -2555,4 +2556,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-olesnica24.com##img[src="https://sc.4media.com/data/aqwzxtvn/2025/12/30/SZOCZEWKI-695399c2900b2.jpg"]
