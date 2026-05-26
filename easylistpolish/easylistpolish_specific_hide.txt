@@ -2554,3 +2554,4 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+olesnica24.com##img[src="https://sc.4media.com/data/aqwzxtvn/2024/09/17/tablica-www-66e952460f216.jpg"]
