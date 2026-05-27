@@ -453,6 +453,7 @@ files.librus.pl^*^r_
 ||ogrodinfo.pl/wp-content/uploads/2020/11/komunikaty-sadownicze-320x100-1.gif
 ||ok24.tv^*^06/lasvegan.
 ||okazjepodroznika.pl/wp-content/uploads/2019/06/okazje-podroznika-CR-728_100.gif
+||olgasmile.com/wp-content/uploads/przepisy-vegemi.jpg.webp
 ||partner.rankomat.pl^$domain=skionline.pl
 ||pfcc.eu^*^automaty.
 ||pfcc.eu^*^choryzont.
@@ -528,4 +529,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||olgasmile.com/wp-content/uploads/przepisy-vegemi.jpg.webp
