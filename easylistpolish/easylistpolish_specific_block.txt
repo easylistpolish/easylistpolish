@@ -528,3 +528,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||olgasmile.com/wp-content/uploads/przepisy-vegemi.jpg.webp
