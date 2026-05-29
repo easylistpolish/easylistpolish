@@ -529,3 +529,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||storage.opinieouczelniach.pl/source/1/LrWYQINVo6yZp7_VGaORaTgPMenkLDMR.png
