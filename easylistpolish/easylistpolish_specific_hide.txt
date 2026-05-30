@@ -2274,7 +2274,7 @@ natemat.pl##div[class*="adslot"]
 golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl,kuriergmin.pl,lipno-cli.pl,nowagazeta.pl,nowinynyskie.com.pl,nswiecie.pl,promoceny.pl##div[class*="adv"]
 ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
-deccoria.pl,halogorlice.info,kociewiak.pl##div[class*="advert"]
+deccoria.pl,halogorlice.info,kociewiak.pl,opoka.org.pl##div[class*="advert"]
 igryfino.pl,kronikatygodnia.pl##div[class*="advert-"]
 motofaktor.pl##div[class*="angwp"]
 gp24.pl,nowiny24.pl##div[class*="atomsAdsCellModel"]
@@ -2559,4 +2559,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-opoka.org.pl##div[class*="advert"]
