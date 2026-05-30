@@ -39,7 +39,7 @@ tuhiszpania.pl###b_searchboxInc
 edziecko.pl,gazeta.pl###banC1
 edziecko.pl,gazeta.pl###banC2
 edziecko.pl,gazeta.pl###banC99
-przeglad-sejnenski.pl###baner
+oprocentowanielokat.pl,przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
 genetyczne.pl###baner-gorny
 gry-online.pl###baner-outer
@@ -2559,4 +2559,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-oprocentowanielokat.pl###baner
