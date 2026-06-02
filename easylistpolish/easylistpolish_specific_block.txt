@@ -531,3 +531,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||ostrowczanie.info/wp-content/uploads/2020/08/ajenttt.jpg
