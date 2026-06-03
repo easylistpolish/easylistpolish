@@ -532,3 +532,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||cdn.gallery/pic/assets/uploads/files/18519__ototorun-1000x300-6-2.jpg
