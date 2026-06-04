@@ -534,3 +534,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||cdn.gallery/pic/assets/uploads/files/52843__fly-transfer-1000x300-v1-kopia-2025-2-1.jpg
