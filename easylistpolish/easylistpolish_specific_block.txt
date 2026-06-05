@@ -536,3 +536,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||cdn.gallery/pic/assets/uploads/files/39984__sova-1.jpg?clickTAG=https%3A%2F%2Fcdn.gallery%2Fpic%2Fadsredirect.php%3Fid%3D21035%26plc_id%3D6%26disp_id%3Dacc31a0c46863f2d7c5b277c6015cf44%26url%3Dhttps%3A%2F%2Fsova.com.pl%26domain%3Dototorun.pl&clickTag=https%3A%2F%2Fcdn.gallery%2Fpic%2Fadsredirect.php%3Fid%3D21035%26plc_id%3D6%26disp_id%3Dacc31a0c46863f2d7c5b277c6015cf44%26url%3Dhttps%3A%2F%2Fsova.com.pl%26domain%3Dototorun.pl
