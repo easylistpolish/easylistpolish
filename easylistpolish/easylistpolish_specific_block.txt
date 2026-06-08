@@ -539,3 +539,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||ototorun.pl/adserver/assets/uploads/files/76374__4-5-1.png
