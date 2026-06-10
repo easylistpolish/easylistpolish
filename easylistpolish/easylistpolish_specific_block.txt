@@ -543,3 +543,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||cdn.gallery/pic/assets/uploads/files/21869__nowa-odslona-salonu-dla-dzieci-torun-ul-andersa-72-1.png
