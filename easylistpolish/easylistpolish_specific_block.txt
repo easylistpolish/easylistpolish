@@ -469,6 +469,7 @@ files.librus.pl^*^r_
 ||ototorun.pl/adserver/assets/uploads/files/77620__marrow-1.jpg
 ||ototorun.pl/adserver/assets/uploads/files/97105__taniweekendbanner1000300220129.jpg
 ||partner.rankomat.pl^$domain=skionline.pl
+||pch24.pl/wp-content/uploads/2026/01/Pch24.pl-_-Baner-3.jpg
 ||pch24.pl/wp-content/uploads/2026/01/portal-1340-x-300-px-1.png
 ||pfcc.eu^*^automaty.
 ||pfcc.eu^*^choryzont.
@@ -545,4 +546,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||pch24.pl/wp-content/uploads/2026/01/Pch24.pl-_-Baner-3.jpg
