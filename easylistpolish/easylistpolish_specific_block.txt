@@ -545,3 +545,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||pch24.pl/wp-content/uploads/2026/01/Pch24.pl-_-Baner-3.jpg
