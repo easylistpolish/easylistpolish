@@ -474,6 +474,7 @@ files.librus.pl^*^r_
 ||pfcc.eu^*^automaty.
 ||pfcc.eu^*^choryzont.
 ||pfcc.eu^*^goldrop.
+||pieniny.net.pl/files/prawa-kolumna.jpg
 ||plonsk24.pl^*^img_72^
 ||podhale24.pl/uploads/r^
 ||poland.us^*^katalog^
@@ -546,4 +547,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||pieniny.net.pl/files/prawa-kolumna.jpg
