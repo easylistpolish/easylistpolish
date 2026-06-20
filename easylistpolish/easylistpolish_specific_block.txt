@@ -476,6 +476,7 @@ files.librus.pl^*^r_
 ||pfcc.eu^*^goldrop.
 ||pieniny.net.pl/files/prawa-kolumna.jpg
 ||plonsk24.pl^*^img_72^
+||pod24.info/images/2024/04/02/pomoc_drogowax.jpg
 ||podhale24.pl/uploads/r^
 ||poland.us^*^katalog^
 ||polonia-peterborough.uk^*^studio-fotograficzne-
@@ -547,4 +548,3 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||pod24.info/images/2024/04/02/pomoc_drogowax.jpg
