@@ -548,3 +548,4 @@ files.librus.pl^*^r_
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-–-Kredyt-zimowy.jpg"
