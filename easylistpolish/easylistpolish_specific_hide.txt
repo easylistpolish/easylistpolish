@@ -2566,3 +2566,4 @@ wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_bla
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
 blaskonline.pl##.banner-wrapper:has(a[href]:not([href^="/"], [href*="blaskonline.pl"]))
+blaskonline.pl##.banner-wrapper:has(> a[target="_blank"] > img.banner-image)
