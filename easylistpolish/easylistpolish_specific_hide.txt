@@ -687,6 +687,8 @@ ppe.pl##.banner-skyscraper
 piterparts.pl##.banner-special-fixed
 ele24.net,kurier-kolejowy.pl##.banner-top
 miastons.pl##.banner-tracking-gtm
+blaskonline.pl##.banner-wrapper:has(> a[target="_blank"] > img.banner-image)
+blaskonline.pl##.banner-wrapper:has(a[href]:not([href^="/"], [href*="blaskonline.pl"]))
 muzyczneradio.pl##.banner0
 forum-bron.pl,muzyczneradio.pl##.banner1
 id-24.pl##.banner1-wrap
@@ -2565,5 +2567,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-blaskonline.pl##.banner-wrapper:has(a[href]:not([href^="/"], [href*="blaskonline.pl"]))
-blaskonline.pl##.banner-wrapper:has(> a[target="_blank"] > img.banner-image)
