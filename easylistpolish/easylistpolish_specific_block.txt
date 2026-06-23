@@ -479,6 +479,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||plonsk24.pl^*^img_72^
 ||pod24.info/images/2024/04/02/pomoc_drogowax.jpg
 ||podhale24.pl/uploads/r^
+||podhaleregion.pl/wp-content/uploads/2026/01/podhale_region_restauracja_750x200-1.jpg
 ||poland.us^*^katalog^
 ||polonia-peterborough.uk^*^studio-fotograficzne-
 ||polskielupki.pl^*^*consulting.
@@ -549,4 +550,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||podhaleregion.pl/wp-content/uploads/2026/01/podhale_region_restauracja_750x200-1.jpg
