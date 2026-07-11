@@ -500,6 +500,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||poland.us^*^katalog^
 ||polishcorrector.com/cnc/items/calligraphr/1_w.png
 ||polonia-peterborough.uk^*^studio-fotograficzne-
+||polski-sport.pl/wp-content/uploads/2025/07/liga-typerow-2025-2026-1.png
 ||polski-sport.pl/wp-content/uploads/2025/07/liga-typerow-2025-2026.png
 ||polskielupki.pl^*^*consulting.
 ||poludnie.com.pl^*_banery-www2.
@@ -569,4 +570,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||polski-sport.pl/wp-content/uploads/2025/07/liga-typerow-2025-2026-1.png
