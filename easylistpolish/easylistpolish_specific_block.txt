@@ -506,6 +506,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||polski.fm/wp-content/uploads/2024/10/www.strony.us_.png
 ||polskiautohandel.pl/wp-content/uploads/2024/11/UBEZPIECZNIA.png
 ||polskielupki.pl^*^*consulting.
+||polskiinternet.com/images/temporary/poczetkrolow.jpg
 ||poludnie.com.pl^*_banery-www2.
 ||poradnik-pacjenta.pl^*-rekl.
 ||portalmorski.pl^*^pmb^
@@ -573,4 +574,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||polskiinternet.com/images/temporary/poczetkrolow.jpg
