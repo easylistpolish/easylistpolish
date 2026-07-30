@@ -1013,6 +1013,7 @@ skijumping.pl##.hidden-xs > a[href^="https://www.blachotrapez.eu"][target="_blan
 ceneo.pl##.highlighted-offers
 wilanownews.pl##.hm-header-sidebar
 ceneo.pl##.home-adboxes
+poradnikhandlowca.com.pl##.home-header-advert
 reflex.com.pl##.home_menu-images-block
 reflex.com.pl##.home_menu-images-right
 bobrzanie.pl##.homeadv
@@ -2574,4 +2575,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poradnikhandlowca.com.pl##.home-header-advert
