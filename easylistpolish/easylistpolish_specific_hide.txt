@@ -2448,6 +2448,7 @@ wirtualnekosmetyki.pl##img[alt*="baner szeroki"]
 infoskierniewice.pl##img[alt*="baner"]
 gazetawalbrzych.pl,gloskrakowa.pl##img[alt*="sponsorowane"]
 forum.nissanklub.pl##img[alt="Eneos"]
+poradnikprzedsiebiorcy.pl##img[alt="Nowa reklama"]
 gazetacz.com.pl,gosc.pl,infosecurity24.pl,radioem.pl##img[alt="Reklama"]
 forum.nissanklub.pl##img[alt="advertisement_alt"]
 cowkrakowie.pl##img[alt="baner"]
@@ -2575,4 +2576,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poradnikprzedsiebiorcy.pl##img[alt="Nowa reklama"]
