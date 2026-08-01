@@ -2267,7 +2267,7 @@ pultusk.news##div[class$="-banner"]
 nowywyszkowiak.pl##div[class$="_baner"]
 ckm.pl##div[class$="advert"]
 onet.pl##div[class*="AdSlotPlaceholder"]
-kurierlubelski.pl##div[class*="Ads"]
+kurierlubelski.pl,poranny.pl##div[class*="Ads"]
 gazetawroclawska.pl,i.pl,moto.pl,plotek.pl,pomorska.pl##div[class*="Banner"]
 onet.pl##div[class*="EmbeddedApplication_moneteasy_"] > div
 kurierlubelski.pl##div[class*="Promotions"]
@@ -2576,4 +2576,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poranny.pl##div[class*="Ads"]
