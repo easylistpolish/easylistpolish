@@ -512,6 +512,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||poludnie.com.pl/wp-content/uploads/2019/03/20190227_093454.jpg
 ||poludnie.com.pl^*_banery-www2.
 ||poradnik-pacjenta.pl^*-rekl.
+||portalgorski.pl/images/Nowa_Strona/Bannery/Reklamy_Nasze/bergans_ryszard_pawlowski.png
 ||portalmorski.pl^*^pmb^
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiatowy.pl^*^cam2.
@@ -577,4 +578,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||portalgorski.pl/images/Nowa_Strona/Bannery/Reklamy_Nasze/bergans_ryszard_pawlowski.png
