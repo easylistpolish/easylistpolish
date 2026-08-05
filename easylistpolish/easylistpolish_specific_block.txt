@@ -577,3 +577,4 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||portalgorski.pl/images/Nowa_Strona/Bannery/Reklamy_Nasze/bergans_ryszard_pawlowski.png
