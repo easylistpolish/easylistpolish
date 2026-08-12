@@ -1223,6 +1223,7 @@ franchising.pl##.page-banners
 controllingirachunkowosc.pl,e-commerce-24.pl,finanseicontrolling.pl,informacjazarzadcza.pl,magazyn-produkcja.pl##.panel-adsites
 infostrow.pl##.papers-box
 automatyka.pl,pomorska.pl##.partner
+portalsamorzadowy.pl##.partners
 ipleszew.pl##.partners2
 magazyngitarzysta.pl##.pasaz-content
 blaugrana.pl##.patron-hide
@@ -2584,4 +2585,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-portalsamorzadowy.pl##.partners
