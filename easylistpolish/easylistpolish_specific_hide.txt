@@ -2586,3 +2586,4 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
+portalwloclawek.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2024/12/03/Music-Mega-Fiesta-prawie-gotowe-66e8a3a406bfb-674f6fcfa1e93.jpg"]
