@@ -2470,7 +2470,7 @@ label-magazine.com##img[class*="banner"]
 gpd24.pl##img[id*="billboard"]
 pwm.org.pl##img[onload^="countAdView"]
 lesko.info,podhaleregion.pl##img[src*="BANER"]
-gazetaostrowska.pl,kolbuszowalokalnie.pl,konin24.info,kurierostrowski.pl,lesko.info,pielegniarki.info.pl,piotrkowski24.pl,podkarpackahistoria.pl##img[src*="Baner"]
+gazetaostrowska.pl,kolbuszowalokalnie.pl,konin24.info,kurierostrowski.pl,lesko.info,pielegniarki.info.pl,piotrkowski24.pl,podkarpackahistoria.pl,poscigi.pl##img[src*="Baner"]
 cypr24.eu,evertiq.pl,fors.pl,jazdaprawna.pl,juvepoland.com,polskiprzemysl.com.pl##img[src*="Banner"]
 portalgorski.pl##img[src*="Bannery"]
 iturek.net##img[src*="Dygas"]
@@ -2587,4 +2587,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poscigi.pl##img[src*="Baner"]
