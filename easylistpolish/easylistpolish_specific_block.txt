@@ -583,3 +583,4 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||i0.wp.com/poscigi.pl/wp-content/uploads/2025/03/FORTHING_Ubezpieczenia_1071x156_stopka.png?resize=960%2C140&ssl=1
