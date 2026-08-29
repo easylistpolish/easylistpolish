@@ -584,3 +584,4 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||i0.wp.com/poscigi.pl/wp-content/uploads/2025/04/remonty-reklama-square.png?fit=1200%2C1200&ssl=1
