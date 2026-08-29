@@ -521,6 +521,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||poradnik-pacjenta.pl^*-rekl.
 ||portalgorski.pl/images/Nowa_Strona/Bannery/Reklamy_Nasze/bergans_ryszard_pawlowski.png
 ||portalmorski.pl^*^pmb^
+||postawnaswoim.pl/wp-content/uploads/2015/08/Pozyczkolog-pozyczki-bez-bik.jpg
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiatowy.pl^*^cam2.
 ||powiatowy.pl^*^zuwika.
@@ -585,4 +586,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||postawnaswoim.pl/wp-content/uploads/2015/08/Pozyczkolog-pozyczki-bez-bik.jpg
