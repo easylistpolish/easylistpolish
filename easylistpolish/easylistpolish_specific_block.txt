@@ -530,6 +530,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||powiatowy.pl/wpprod/wp-content/uploads/2025/09/Baner.jpg
 ||powiatowy.pl/wpprod/wp-content/uploads/2026/01/Outlook-1z4n2mwf-1-1.png
 ||powiatowy.pl/wpprod/wp-content/uploads/2026/03/1ulotki-15-e1772697438431.jpg
+||powiatowy.pl/wpprod/wp-content/uploads/2026/03/2ulotki-15-e1772697406491.jpg
 ||powiatowy.pl^*^cam2.
 ||powiatowy.pl^*^zuwika.
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
@@ -593,4 +594,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||powiatowy.pl/wpprod/wp-content/uploads/2026/03/2ulotki-15-e1772697406491.jpg
