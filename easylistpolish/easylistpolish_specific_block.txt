@@ -525,6 +525,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||postimg.cc^$domain=pogonsportnet.pl
 ||powiatowy.pl/wpprod/wp-content/uploads/2019/10/konarski1.jpg
 ||powiatowy.pl/wpprod/wp-content/uploads/2020/06/linda-1.jpg
+||powiatowy.pl/wpprod/wp-content/uploads/2022/03/Marek-Zgadzaj-klocek.jpg
 ||powiatowy.pl/wpprod/wp-content/uploads/2022/04/reklama-SKP.jpg
 ||powiatowy.pl/wpprod/wp-content/uploads/2022/04/stacja-.jpg
 ||powiatowy.pl/wpprod/wp-content/uploads/2023/10/pomoc.jpg
@@ -597,4 +598,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||powiatowy.pl/wpprod/wp-content/uploads/2022/03/Marek-Zgadzaj-klocek.jpg
