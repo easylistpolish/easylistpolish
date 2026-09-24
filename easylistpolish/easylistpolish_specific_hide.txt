@@ -2284,7 +2284,7 @@ ipragapoludnie.pl##div[class*="ad--bill-top"]
 milmag.pl##div[class*="ad--image"]
 infosecurity24.pl##div[class*="ad-banner"]
 elk24.pl##div[class*="ad-type-"]
-gdanszczak.pl,gdyniak.pl,krakusik.pl##div[class*="adName"]
+gdanszczak.pl,gdyniak.pl,krakusik.pl,poznaniak.pl##div[class*="adName"]
 pomorska.pl##div[class*="ads"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
@@ -2588,4 +2588,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-poznaniak.pl##div[class*="adName"]
