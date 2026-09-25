@@ -2298,7 +2298,7 @@ motofaktor.pl##div[class*="angwp"]
 gp24.pl,nowiny24.pl##div[class*="atomsAdsCellModel"]
 gp24.pl##div[class*="atomsPromotionsBanner"]
 grafoteka.pl,independenttrader.pl,plusliga.pl,polski-tenis.pl##div[class*="baner"]
-gpd24.pl,inwestycje-rzeszow.pl,irenakuczynska.pl,itreseller.pl,krs-pobierz.pl,kwejk.pl,lubiehrubie.pl,mikrokontroler.pl,nbi.com.pl##div[class*="banner"]
+gpd24.pl,inwestycje-rzeszow.pl,irenakuczynska.pl,itreseller.pl,krs-pobierz.pl,kwejk.pl,lubiehrubie.pl,mikrokontroler.pl,nbi.com.pl,ppe.pl##div[class*="banner"]
 portalgorski.pl##div[class*="bannergroup"]
 e-kolo.pl##div[class*="bg-light mt-3 mb-3 p-2"]
 gamestough.com##div[class*="bnr"]
@@ -2588,4 +2588,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-ppe.pl##div[class*="banner"]
