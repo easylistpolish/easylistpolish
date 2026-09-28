@@ -705,6 +705,7 @@ android.com.pl##.banner__placeholder
 radiopoznan.fm##.banner_asset_present_box
 dkl24.pl##.banner_box_frame
 weranda.pl##.banner_container
+press.pl##.banner_info
 confero.pl##.banner_panel
 zmpd.pl##.banner_po_lewej
 pik.kielce.pl##.banner_reklama_el
@@ -2588,4 +2589,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-press.pl##.banner_info
