@@ -2378,6 +2378,7 @@ cypr24.eu##div[data-widget="wak-search"]
 gazeta.pl##div[id*="DFP-011-MIDBOARD"]
 mobilneforum.pl,mojlask.pl,moto.pl,plotek.pl##div[id*="ad"]
 odmiana.net##div[id*="adg"]
+profitechnika.pl##div[id*="adoceanmy"]
 ewyszkow.pl##div[id*="advertisement"]
 ising.pl##div[id*="as-zone"]
 korsokolbuszowskie.pl,portalwloclawek.pl##div[id*="autoAd"]
@@ -2587,4 +2588,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-profitechnika.pl##div[id*="adoceanmy"]
