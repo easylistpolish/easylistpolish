@@ -547,6 +547,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||powiatowy.pl^*^zuwika.
 ||pozatorun.pl/wp-content/uploads/2022/06/TANI_WEEKEND_BANNER_1000_300_12_03_26.jpg
 ||primus.warszawa.pl/image-storage/gfx/0361995e-e1f91b1d.gif
+||projektpraca.eu/img/2025/09/centrum_edukacji_medialnej_cempolskapl-661.jpg
 ||prudnik24.pl^*^wypozyczalnia_gastronomiczna.
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||radiosudety24.pl^*^sad^$image
@@ -608,4 +609,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||projektpraca.eu/img/2025/09/centrum_edukacji_medialnej_cempolskapl-661.jpg
