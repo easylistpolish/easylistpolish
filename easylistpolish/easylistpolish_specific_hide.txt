@@ -1782,6 +1782,7 @@ gastrona.pl##a[href*="bbelements"]
 gloswroclawia.pl##a[href*="brand.ceo"]
 goral24.pl##a[href*="bsczarnydunajec"]
 businesstraveller.pl##a[href*="campaign=baner_"]
+projektpraca.eu##a[href*="cempolska.pl"]
 cozadzien.pl##a[href*="czesciauto24.pl"]
 gloswroclawia.pl##a[href*="dresowka.pl"]
 gotujzmaka.blogspot.com##a[href*="ebrokerpartner"]
@@ -2590,4 +2591,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-projektpraca.eu##a[href*="cempolska.pl"]
