@@ -610,3 +610,4 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
+||prudnik24.pl/prudnik/wp-content/uploads/2026/07/Glubczycka_Uczta_Regionalna1.png
