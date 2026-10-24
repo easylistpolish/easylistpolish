@@ -639,7 +639,7 @@ gazeta.pl,plotek.pl##.ban001_wrapper
 edziecko.pl,haps.pl,moto.pl,plotek.pl,sport.pl,wyborcza.pl##.banLabel
 pulskwidzyna.pl##.banToper
 hifi.pl##.baneban
-asta24.pl,ddwlkp.pl,eglos.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pojezierze24.pl,polskicaravaning.pl,pzl24.info,swiatkarinki.pl,warsztat.pl,wygasle.net##.baner
+asta24.pl,ddwlkp.pl,eglos.pl,haloursynow.pl,infoilawa.pl,lakiernictwo.net,mazury24.eu,mtgnews.pl,naklo.fm,pojezierze24.pl,polskicaravaning.pl,przegladkoninski.pl,pzl24.info,swiatkarinki.pl,warsztat.pl,wygasle.net##.baner
 scie24.pl##.baner a[href^="/counter/"]
 staleo.pl##.baner-holder
 bolec.info##.baner-max
@@ -2593,4 +2593,3 @@ wirtualnemedia.pl#?#.wp-bg-layer > .wp-bg-layer-inner > div > div > a > div
 wirtualnemedia.pl#?#div:-abp-has(> a[href^="https://adinfo.wp.pl/"][target="_blank"] > img)
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
 wp.pl#?#IMG:-abp-properties(position: relative;)
-przegladkoninski.pl##.baner
