@@ -313,6 +313,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||kmziz.pl^*^728x90c^
 ||kobiety-kobietom.com^*^dobrykantor.
 ||kocham.wielun.pl/wp-content/themes/kochamwielun/img/jacek.png
+||kochamyauta.pl/wp-content/uploads/2017/02/zielony2-1-212x300.jpg
 ||kolbuszowalokalnie.pl/wp-content/uploads/2025/04/Zyczenia-Wielkanocne-Buczek.jpg
 ||komediowo.pl^*^ciekawe-miejsca-
 ||komputerowapasja.pl/wp-content/uploads/2024/08/caseworld-logo.png
@@ -617,4 +618,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||kochamyauta.pl/wp-content/uploads/2017/02/zielony2-1-212x300.jpg
