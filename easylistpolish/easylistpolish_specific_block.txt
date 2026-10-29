@@ -558,6 +558,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||przeclaw24.pl/images/stories/miniaturki-26-kw1/SalonFiranDESIGN.jpg
 ||przeclaw24.pl/images/stories/miniaturki-26-kw2/GSM-SMOKE-HAKENA.jpg
 ||przedsiebiorcy.eu/wp-content/uploads/2025/12/bnp-paribas-w339.jpg
+||przyjaznawarszawa.pl/images/ekobaner-750-71.jpg
 ||ps3-hack.pl^*^buttons/VirtualFuture.
 ||radiosudety24.pl^*^sad^$image
 ||redefineadpl.hit.gemius.pl^$domain=polsatnews.pl|polsatsport.pl
@@ -618,4 +619,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||przyjaznawarszawa.pl/images/ekobaner-750-71.jpg
