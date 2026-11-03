@@ -570,6 +570,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||rlu24.pl^marek2.
 ||rodaknet.com/reklamujemy^
 ||rrs24.net^*^finansefactory-
+||s1.pless-intermedia.pl/public/slajdy/img/00/0082abcbe8cc96b729102f3e8375f8aa.jpg
 ||s1.pless-intermedia.pl/public/slajdy/img/a4/a4b693fa26168bc22a05e01b691b4de8.jpg
 ||sc.4media.com$domain=zycieolsztyna.pl
 ||sc.4media.com/data/aqwzxtvn/2025/10/17/750x200-3-1-68f234655420a.gif
@@ -622,4 +623,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||s1.pless-intermedia.pl/public/slajdy/img/00/0082abcbe8cc96b729102f3e8375f8aa.jpg
