@@ -1361,6 +1361,7 @@ cire.pl##.sc-kPVwWT
 twojepajeczno.pl##.screk
 hdtvpolska.com##.sdWelcomeScreenRow
 dlahandlu.pl##.sda
+empik.com##.search-list-item[data-ad-info], div[data-name="ads search side"], .search-gam-banner, section[data-ta-section="SponsoredProducts"], [data-ta="product"]:has([data-ta="sponsored-label"]), div:has(> [id^="gam-box-"])
 radio90.pl,radiojura.pl##.sec-promo
 tarnow.net.pl##.sec_A_adv2
 kuriergarwolinski.pl##.second-top-banners
