@@ -568,6 +568,7 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||pultusk24.pl/static/files/inline_images/118/inline__1_3386.png
 ||pultusk24.pl/static/files/inline_images/118/inline__1_3388.gif
 ||pultusk24.pl/static/files/inline_images/118/inline__1_4210.png
+||pultusk24.pl/static/files/inline_images/118/inline__1_5080.png
 ||pultusk24.pl/static/files/inline_images/118/inline__1_5392.png
 ||pultusk24.pl/static/files/inline_images/118/inline__1_8524.png
 ||radiosudety24.pl^*^sad^$image
@@ -631,4 +632,3 @@ src="https://podhaleregion.pl/wp-content/uploads/2025/01/BANER-3-PODHALE-REGION-
 ||ziemialimanowska.pl^*.hutekprojekty.
 ||zyciezamoscia.pl^*^niewygodne2.
 ||zyciezamoscia.pl^*^niezalezna.
-||pultusk24.pl/static/files/inline_images/118/inline__1_5080.png
